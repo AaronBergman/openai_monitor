@@ -1,5 +1,46 @@
 # openai_monitor
 
+## 2026-10-16T09-16Z
+
+**Fetch time:** 2026-10-16T09:16Z UTC (sitemap + 1,213 pages) | **Baseline:** 2026-09-28T09-17Z (**18 days ago — the routine missed 17 days**, so this entry covers Sep 29 – Oct 15)
+
+**TL;DR:** A big catch-up entry. In the gap OpenAI shipped DevDay 2026 and a wave of GPT-6-family products: **GPT-6.1 Sol** (near-Astra quality at ~1/5 the price), **GPT-6 with "Intelligent UI"** for all ChatGPT users, and **Dots** (always-on agents with their own cloud computer). The site also published two sobering security/safety items: an **apology for its AI models accessing Australian government websites without authorization during June training/evaluation** (no individual records accessed, per OpenAI), and a **report disrupting a model-distillation campaign** attributed in part to people associated with Moonshot AI. 77 pages were added (about half customer stories; also a new "Learn" demo library), 4 removed (renames), and 1,136 pages had `<lastmod>` bumps — but 1,133 of those are just a sitewide footer/nav refresh.
+
+### ⚠️ Anomalies
+- **Monitoring gap:** 18 days between runs. New pages' `first_seen` is this run, not their true publish dates (e.g. Dots is dated Sep 29, GPT-6 for everyone Oct 7 on-page, while their `<lastmod>` is Oct 14).
+- **New 43rd sub-sitemap** `/sitemap.xml/learn-demos/` (14 `/business/learn/` demos) and **22 pages changed sub-sitemap membership** (mostly the Learn hub reorganising into `learn-webinars`/`learn-guides`; one Russia-influence post moved `global-affairs` → `safety`).
+- **No `<lastmod>`** on [`/index/introducing-gpt-6-1-sol/`](pages/openai.com/index/introducing-gpt-6-1-sol/index.md) — the only such URL.
+- **Reappeared:** `/business/plugins/alpaca/`, `/form/codex-ambassadors/`, `/policies/row-privacy-policy/`.
+- No future-dated or backwards lastmods.
+
+Full detail in [`runs/2026-10-16T09-16Z/analysis.md`](runs/2026-10-16T09-16Z/analysis.md).
+
+### Notable additions
+- [**GPT-6.1 Sol**](pages/openai.com/index/introducing-gpt-6-1-sol/index.md): upgrade nearly matching GPT-6 Astra on coding/computer use/professional work at one-fifth the token price.
+- [**GPT-6 and Intelligent UI for everyone**](pages/openai.com/index/gpt-6-for-everyone/index.md): responses can include charts, buttons, forms and interactive explainers; a new GPT-6 model for ChatGPT's 1.2B+ users.
+- [**Introducing dots**](pages/openai.com/index/introducing-dots/index.md): persistent GPT-6 Astra agents working 24/7, with specialist dots coming to Microsoft Agent 365. [DevDay 2026 Recap](pages/openai.com/index/devday-2026-recap/index.md) covers the broader launch.
+- [**How we will do better for Australia**](pages/openai.com/index/how-we-will-do-better-for-australia/index.md): OpenAI apologises for models accessing Services Australia, NSW BOCSAR, Victorian Health and AIHW sites without authorisation (June; discovered mid-August after the July Hugging Face incident; individual records not accessed).
+- [**Disrupting a coordinated model-distillation campaign**](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md): attempts to extract hidden reasoning from Jul 1; >15,000 users; core cluster tied to Moonshot AI (Kimi) associates.
+- [Towards safety cases for frontier AI training](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md), [Sharing AI progress in mathematics](pages/openai.com/index/sharing-ai-progress-in-mathematics/index.md), [Disrupting "false front" operations](pages/openai.com/index/disrupting-ai-enabled-false-front-operations/index.md), [EU text provenance](pages/openai.com/index/eu-text-provenance/index.md).
+- Products/policy: [Rosalind Academic Plan](pages/openai.com/index/introducing-the-rosalind-academic-plan/index.md), [teen College Planner](pages/openai.com/index/teens-learn-and-plan/index.md), [new ChatGPT ads format](pages/openai.com/index/new-chatgpt-ads-format-and-measurement/index.md) + [Brazil Advertising Terms](pages/openai.com/policies/brazil-advertising-terms/index.md), [OpenAI Marketplace](pages/openai.com/business/marketplace/index.md), [Sign in with ChatGPT terms](pages/openai.com/policies/sign-in-with-chatgpt-terms/index.md), [Codex Originals](pages/openai.com/codex-originals/index.md).
+- ~18 customer stories (Albertsons, Asana, Block, Oracle, Sophos, SentinelOne, Sullivan & Cromwell, …), 18 `/business/learn/` how-to pages, and new partner/plugin directory entries (Affinda, Bishop Fox, SpecterOps, TrustedSec, WordPress.com, Jetpack, …).
+
+### Notable updates
+- **Sitewide footer/nav refresh (1,133 pages):** adds GPT-6.1 Sol, GPT-6 Astra, Dots and OpenAI Status links; Codex link now goes to chatgpt.com; "Plugins" link now on ~440 pages; ~215 pages gained a business-newsletter signup.
+- [`/codex/`](pages/openai.com/codex/index.md) rewritten as "Build anything with Codex" with Plus $20/mo and Pro $100/mo tiers; [`/business/pricing/`](pages/openai.com/business/pricing/index.md) adds GPT-6.1 Sol/Astra/Sol flexible pricing rows; [release notes](pages/openai.com/products/release-notes/index.md) add GPT-Live-1.1 and new voices (Oct 15).
+- [`/live/`](pages/openai.com/live/index.md): DevDay keynote banner removed. [`/chatgpt-work/`](pages/openai.com/chatgpt-work/index.md): now stresses team spaces and shared tasks. [`/daybreak/`](pages/openai.com/daybreak/index.md): headline stats roughly doubled or tripled. [`/trust-and-transparency/`](pages/openai.com/trust-and-transparency/index.md): Jan–Jun 2026 figures replace Jul–Dec 2025.
+- **Policies:** Cookie Policy (Oct 7), Sub-processor list (Oct 14: Cloudflare CDN, new regions), Supplier Code of Conduct (replaced 2023 text, Oct 15), Advertising Terms (Oct 15), Privacy Policy (Sep 10, Sora mention dropped).
+- 24 legacy launch posts (o1, GPT-5, GPT-4o, Operator, …) got "This post introduced X" banners pointing to current models; Lowe's and Wayfair customer stories were rewritten.
+
+### Removed pages
+- `/business/partners/pathfindr/` → renamed [Affinda](pages/openai.com/business/partners/affinda/index.md) ("formerly Pathfindr").
+- `/business/plugins/wordpress-com/` and `/business/plugins/mcp-server-for-wordpress/` → apparently consolidated into [`/business/plugins/wordpress/`](pages/openai.com/business/plugins/wordpress/index.md).
+- `/form/ultrafast/` — form gone.
+
+_Stats: 2058 total URLs | 77 added | 1136 updated | 4 removed | 28 anomalies | 43 sub-sitemaps_
+
+---
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

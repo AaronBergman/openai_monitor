@@ -32,7 +32,7 @@ OpenAI
 
 # HighLevel
 
-Interact with your CRM business data.
+Interact with your CRM business data
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69402343886881919c40ceb13a6ea1c2>)[Contact sales](</contact-sales/>)
 
@@ -45,11 +45,11 @@ Developer
 Website
     [(opens in a new window)](<https://www.gohighlevel.com>)
 
-[![](https://files.openai.com/content?id=file_00000000d1f8720cba3022968ab73596&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=f0ed88b0bcf4825b2256c341201ce481bd05322719f20eb08ad6d89aff9f0ee4&v=0)HighLevel Give me overview of how things have been(opens in a new window)](<https://chatgpt.com/?prompt=%40HighLevel+Give+me+overview+of+how+things+have+been>)
+[![](https://files.openai.com/content?id=file_00000000d1f8720cba3022968ab73596&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=f0ed88b0bcf4825b2256c341201ce481bd05322719f20eb08ad6d89aff9f0ee4&v=0)HighLevel Give me overview of how things have been(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69402343886881919c40ceb13a6ea1c2?install&prompt=Give%20me%20overview%20of%20how%20things%20have%20been>)
 
 ## How it works
 
-Securely bring HighLevel CRM data into ChatGPT to review contacts, opportunities, appointments, and conversations and generate summaries from live records.
+HighLevel gives agencies a unified CRM, automation, and client communication platform. This connector lets you securely bring HighLevel data—contacts, opportunities, appointments, conversations and more—into GPT, turning raw records into clear summaries, next-step recommendations, and ready-to-use content. Analyze pipelines, qualify leads, and prepare follow-ups in seconds without leaving the chat.
 
 ## What else can you do?
 
@@ -57,19 +57,19 @@ Securely bring HighLevel CRM data into ChatGPT to review contacts, opportunities
 
 ![](https://files.openai.com/content?id=file_00000000d1f8720cba3022968ab73596&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=f0ed88b0bcf4825b2256c341201ce481bd05322719f20eb08ad6d89aff9f0ee4&v=0)HighLevel Show contacts added in the last 14 days and upcoming appointments in the next 7 days. Highlight any no-shows or missed follow-ups.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HighLevel+Show+contacts+added+in+the+last+14+days+and+upcoming+appointments+in+the+next+7+days.+Highlight+any+no-shows+or+missed+follow-ups.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69402343886881919c40ceb13a6ea1c2?install&prompt=Show%20contacts%20added%20in%20the%20last%2014%20days%20and%20upcoming%20appointments%20in%20the%20next%207%20days.%20Highlight%20any%20no-shows%20or%20missed%20follow-ups.&surface=work>)
 
   * ### Review pipeline and activity
 
 ![](https://files.openai.com/content?id=file_00000000d1f8720cba3022968ab73596&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=f0ed88b0bcf4825b2256c341201ce481bd05322719f20eb08ad6d89aff9f0ee4&v=0)HighLevel Summarize the pipeline by stage with counts and total value. For deals stalled >14 days, list the last activity and recommended next step.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HighLevel+Summarize+the+pipeline+by+stage+with+counts+and+total+value.+For+deals+stalled+%3E14+days%2C+list+the+last+activity+and+recommended+next+step.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69402343886881919c40ceb13a6ea1c2?install&prompt=Summarize%20the%20pipeline%20by%20stage%20with%20counts%20and%20total%20value.%20For%20deals%20stalled%20%3E14%20days%2C%20list%20the%20last%20activity%20and%20recommended%20next%20step.&surface=work>)
 
   * ### Summarize CRM information
 
 ![](https://files.openai.com/content?id=file_00000000d1f8720cba3022968ab73596&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=f0ed88b0bcf4825b2256c341201ce481bd05322719f20eb08ad6d89aff9f0ee4&v=0)HighLevel For this opportunity, summarize recent conversations, deal status, last touch, and suggested next message based on the record history.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HighLevel+For+this+opportunity%2C+summarize+recent+conversations%2C+deal+status%2C+last+touch%2C+and+suggested+next+message+based+on+the+record+history.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69402343886881919c40ceb13a6ea1c2?install&prompt=For%20this%20opportunity%2C%20summarize%20recent%20conversations%2C%20deal%20status%2C%20last%20touch%2C%20and%20suggested%20next%20message%20based%20on%20the%20record%20history.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Securely bring HighLevel CRM data into ChatGPT to review contacts, opportunities
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.gohighlevel.com/>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.gohighlevel.com/>)
 
-### [Privacy policyLearn more](<https://www.gohighlevel.com/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.gohighlevel.com/privacy-policy>)
 
 ## Add the HighLevel plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)ClayFind and engage prospects.](</business/plugins/clay/>)[![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)ZoomInfoB2B data and GTM insights](</business/plugins/zoominfo/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability.](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)GmailFind and reference emails from your inbox.](</business/plugins/gmail/>)
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)ClayGTM Data and Functions](</business/plugins/clay/>)[![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)ZoomInfoB2B data and GTM insights](</business/plugins/zoominfo/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)GmailFind and reference emails from your inbox](</business/plugins/gmail/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -71,7 +71,9 @@ In 2021, Healthify also introduced Snap, a revolutionary feature designed to sim
 Despite these successes, Healthify encountered challenges:
 
   * **Performance**. It took multiple iterations to get Snap to recognize food accurately, and it struggled when photos contained multiple foods. As a result, “Snap was only used 10–20% of the time,” said Healthify CEO [Tushar Vashisht⁠(opens in a new window)](<https://www.linkedin.com/in/tusharvashisht>). Similarly, Ria was rules-based, so it couldn’t truly answer the long tail of valuable yet complex queries about nutrition (e.g., “how did my food yesterday affect my sleep last night?”). 
+
   * **Scale.** For each new country they wanted to add, Healthify needed to spend lots of effort on localizing models for the language, common foods, and exercise routines. “It took us two years to enter Southeast Asia,” Vashisht explained.
+
 
 
 
@@ -88,9 +90,13 @@ The Healthify team believed that AI could increase their products’ accuracy, u
 After thorough evaluation, Healthify partnered with OpenAI for multiple reasons:
 
   * **Best-in-class accuracy**. GPT‑4 Vision instantly surpassed Snap pipeline’s performance; the model by itself recognized foods from across the world and detected multiple food items in photos. GPT‑4 (for Ria) and Whisper (for Coach Copilot) similarly outperformed both their existing pipelines and alternative Generative AI models.
+
   * **Easy integration.** Once they validated prototypes and it came time to integrate into their production systems, the Healthify team could simply add OpenAI’s API into their existing pipelines. “It was very easy to build proof-of-concepts with OpenAI and use those to build production systems,” said Vashisht.
+
   * **Simple fine-tuning.** Healthify chose OpenAI in large part because fine-tuning was available out-of-the-box. It was simple to model their data for fine-tuning and upload it to the service. The team was able to successfully ground OpenAI’s models to their use case, without much configuration.
+
   * **Embeddings.** Healthify used the Embeddings model to solve one of its key problems: how do you match two foods beyond just text matching? They needed to match food names returned by GPT‑4 with food names already in their own system. “GPT is a model of its own. It has its own dictionary of food names. Healthify has its own food names and how to do that matching is something we were trying to figure out,” commented [Abhijit Khasnis⁠(opens in a new window)](<https://www.linkedin.com/in/khasnis/overlay/about-this-profile/>), VP of Technology. “And when we tested the OpenAI Embeddings model, we realized that cosine similarity matching between the GPT identified food name and our food embeddings gives us high accuracy!”
+
 
 
 
@@ -105,8 +111,11 @@ Ria’s latest update represents a significant leap in complexity and capability
 Across the board, the Healthify team has seen engagement and retention shoot up, leading to better health outcomes for their users:
 
   * **Users track food 50% more often with Snap.** Because food tracking is correlated with fitness goals, the Healthify team expects this engagement increase to lead to a 50% increase in users’ fitness as well. “We’re seeing that the engagement rates are 50% higher. Weight loss and fat loss are highly correlated with the foods that you track, which means that we can expect to see 50% higher impact on weight loss as well,” commented Vashisht. 
+
   * **Users engage more with Ria for nutrition & fitness coaching.** Conversation length has doubled (with some users holding conversations over two hundred messages long) and Ria is now capable of answering complex queries like “How have my glucose levels affected my sleep yesterday?” by correlating values from a Continuous Glucose Monitor (CGM), food logs from Snap & sleep logs from any wearable.
+
   * **Coaches respond to clients in half the time**. Clients engage with AI-supported coaches 18% more as well. Stanford [Research⁠(opens in a new window)](<https://www.gsb.stanford.edu/insights/ai-can-coach-you-lose-weight-human-touch-still-helps>) based on Healthify’s data shows that AI-enabled human coaching helps clients lose 70% more weight than just AI coaching alone. Because of AI, Healthify’s coaches can now help more clients lose that extra 70%.
+
 
 
 
@@ -128,15 +137,15 @@ Tushar Vashisht, Healthify CEO
 
 ## Related articles
 
-![Jetbrains > Hero > Media item > Asset](https://images.ctfassets.net/kftzwdyauwt9/46d99f08-c849-4c73-5a6c7b83ea9c/6e0eaaaf815df2a53f997b36ce57ad13/jetbrains.png?w=3840&q=90&fm=webp)
+![White JetBrains logo on a purple background.](https://images.ctfassets.net/kftzwdyauwt9/46d99f08-c849-4c73-5a6c7b83ea9c/6e0eaaaf815df2a53f997b36ce57ad13/jetbrains.png?w=3840&q=90&fm=webp)
 
 [Embedding AI into developer softwareMar 21, 2024](</index/jetbrains/>)
 
-![Unload](https://images.ctfassets.net/kftzwdyauwt9/15d768b2-bd52-4e68-bebaf96d50b3/e3f414371811a69d73091cc36a44ce8f/holiday_extras.png?w=3840&q=90&fm=webp)
+![White Holiday Extras logo on a purple background.](https://images.ctfassets.net/kftzwdyauwt9/15d768b2-bd52-4e68-bebaf96d50b3/e3f414371811a69d73091cc36a44ce8f/holiday_extras.png?w=3840&q=90&fm=webp)
 
 [Building a data-driven, efficient culture with AIMar 18, 2024](</index/holiday-extras/>)
 
-![Screenshot 2024 03 12 At 1128 27am](https://images.ctfassets.net/kftzwdyauwt9/e4cda57a-c977-4855-16b96e288c99/40db1a7d78522f9f9030942dd4a3e72b/superhuman.png?w=3840&q=90&fm=webp)
+![White Superhuman logo on a purple background.](https://images.ctfassets.net/kftzwdyauwt9/e4cda57a-c977-4855-16b96e288c99/40db1a7d78522f9f9030942dd4a3e72b/superhuman.png?w=3840&q=90&fm=webp)
 
 [Reimagining the email experience with AIMar 18, 2024](</index/superhuman/>)
 
@@ -150,9 +159,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -171,7 +181,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -189,6 +200,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -217,6 +229,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
