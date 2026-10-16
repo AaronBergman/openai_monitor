@@ -98,11 +98,11 @@ By continuously powering its platform with the latest OpenAI technology, Decagon
 
 ## Keep reading
 
-![\[2.0\] Card > Media > Altera](https://images.ctfassets.net/kftzwdyauwt9/4RjhPEjIMnlzfNLaV6BboT/7f1311aef24163bf80e22bc529ba72bc/oai_A.Altera_1_1.jpg?w=3840&q=90&fm=webp)
+![Altera logo in white, set against a close-up of an orange leaf with intricate veins, creating a natural, textured background.](https://images.ctfassets.net/kftzwdyauwt9/4RjhPEjIMnlzfNLaV6BboT/7f1311aef24163bf80e22bc529ba72bc/oai_A.Altera_1_1.jpg?w=3840&q=90&fm=webp)
 
 [Creating agent and human collaboration with GPT 4oOct 1, 2024](</index/altera/>)
 
-![State of Minnesota > Card](https://images.ctfassets.net/kftzwdyauwt9/4feBd9mET2qUWGpGtdit6G/c23919743af1df1b3701944f3b346004/oai_minnesota_thumbnail.png?w=3840&q=90&fm=webp)
+![This image displays a soft-focus close-up of a textured green watercolor painting with the white logo “mn” centered over it, suggesting a serene, nature-inspired aesthetic.](https://images.ctfassets.net/kftzwdyauwt9/4feBd9mET2qUWGpGtdit6G/c23919743af1df1b3701944f3b346004/oai_minnesota_thumbnail.png?w=3840&q=90&fm=webp)
 
 [Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gapsSep 26, 2024](</index/state-of-minnesota/>)
 
@@ -120,9 +120,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -141,7 +142,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -159,6 +161,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -187,6 +190,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

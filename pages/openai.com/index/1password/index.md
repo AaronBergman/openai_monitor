@@ -159,17 +159,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
+![Rosalind Academic Plan - Card](https://images.ctfassets.net/kftzwdyauwt9/7EaxSuBblXvd3Y6G2WLoET/4563ce56737d9c0ed1f05358f43c8a7d/rosalind-academic-plan-card.png?w=3840&q=90&fm=webp)
 
-[Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
+[Introducing the Rosalind Academic PlanResearchOct 15, 2026](</index/introducing-the-rosalind-academic-plan/>)
 
-![OpenAI extends cyber access to Ukraine for civilian defense — cover](https://images.ctfassets.net/kftzwdyauwt9/4NsiJiqUurW5ypfaulGCFm/8b5bfad7d895c4fc6aa20766d5c88b0c/openai-extends-cyber-access-to-ukraine-for-civilian-defense-cover.png?w=3840&q=90&fm=webp)
+![Teaching students to think and learn through questions — Cover](https://images.ctfassets.net/kftzwdyauwt9/AHG23niw4hDTG5blxqb9u/54c7069a05fa9506426269f1a2b76a0f/teaching-students-to-think-and-learn-through-questions-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI extends cyber access to Ukraine for civilian defenseGlobal AffairsSep 23, 2026](</index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/>)
+[Teaching students to think and learn through questionsCompanyOct 15, 2026](</index/teaching-students-to-think-and-learn-through-questions/>)
 
-![Harvey customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/59usTWVI6pc0I3Lb6TL2ol/3d45075f7a623fa6ba4d8d13459065c1/square.png?w=3840&q=90&fm=webp)
+![Sullivan & Cromwell — Cover](https://images.ctfassets.net/kftzwdyauwt9/6o1ckFQL1xTSdPpKOK2U7Q/0193c6defd4b1da3e75e1a1b66dfb279/sullivan-cromwell-cover.png?w=3840&q=90&fm=webp)
 
-[Harvey turns legal context into stronger drafts with GPT-6 AstraStartupSep 23, 2026](</index/harvey-from-context-to-confidence-with-astra/>)
+[Sullivan & Cromwell brings legal expertise into agreement reviewOct 15, 2026](</index/sullivan-cromwell/>)
 
 Research
 
@@ -181,10 +181,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -203,7 +203,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -250,6 +251,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

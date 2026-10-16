@@ -102,17 +102,17 @@ Parallel now has a better path from a complex question to a researched answer, w
 
 [View all](</news/>)
 
+![Basis customer story art card - slate blue texture](https://images.ctfassets.net/kftzwdyauwt9/3yUNvl0PGh8nEqRYASjSM1/d58de88f3a53c434849cfc32934d878a/square.png?w=3840&q=90&fm=webp)
+
+[Basis completes a tax workbook 2x faster with GPT-6 AstraSep 28, 2026](</index/basis-tax-workbook-with-astra/>)
+
 ![Harvey customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/59usTWVI6pc0I3Lb6TL2ol/3d45075f7a623fa6ba4d8d13459065c1/square.png?w=3840&q=90&fm=webp)
 
 [Harvey turns legal context into stronger drafts with GPT-6 AstraStartupSep 23, 2026](</index/harvey-from-context-to-confidence-with-astra/>)
 
-![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
+![Ringg AI customer story art card and hero](https://images.ctfassets.net/kftzwdyauwt9/6bRPKvsny2bwgyOeg0Pedd/5dd852a286ea92589a5d420b21302a0c/square.png?w=3840&q=90&fm=webp)
 
-[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
-
-![V7 customer story art card - smaller logo](https://images.ctfassets.net/kftzwdyauwt9/3Av2nLs9MOiSrB5wMXLvL2/35fbde20aca9773bd64b1e8ea2897750/square.png?w=3840&q=90&fm=webp)
-
-[How V7 gives AI agents institutional memoryStartupSep 21, 2026](</index/v7/>)
+[Ringg’s AI agents resolve up to 65% of customer calls with OpenAISep 23, 2026](</index/ringg/>)
 
 Research
 
@@ -124,10 +124,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -146,7 +146,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -193,6 +194,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

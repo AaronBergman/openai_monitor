@@ -32,7 +32,7 @@ OpenAI
 
 # Spaceship
 
-Search domain availability.
+Search domain availability
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_692e119561848191979b13cc5c060389>)[Contact sales](</contact-sales/>)
 
@@ -45,11 +45,11 @@ Developer
 Website
     [(opens in a new window)](<https://www.spaceship.com>)
 
-[![](https://files.openai.com/content?id=file_00000000973c720c9d9b1fabee04c427&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=c11b3c8f43500e73dd0db9849b6ea13396b3dfef8f719d0c68eba87508d51fb6&v=0)![](https://files.openai.com/content?id=file_00000000d72881f7b7d15cc4fb008b3e&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=358cbc93092922858a3ae7e058c6131029faf209cdb642542d00f385d412c04a&v=0)Spaceship Check next domains: mycompany.com, mysite.io, service.web, sales12345.com(opens in a new window)](<https://chatgpt.com/?prompt=%40Spaceship+Check+next+domains%3A+mycompany.com%2C+mysite.io%2C+service.web%2C+sales12345.com>)
+[![](https://files.openai.com/content?id=file_00000000973c720c9d9b1fabee04c427&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=c11b3c8f43500e73dd0db9849b6ea13396b3dfef8f719d0c68eba87508d51fb6&v=0)![](https://files.openai.com/content?id=file_00000000d72881f7b7d15cc4fb008b3e&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=358cbc93092922858a3ae7e058c6131029faf209cdb642542d00f385d412c04a&v=0)Spaceship Check next domains: mycompany.com, mysite.io, service.web, sales12345.com(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_692e119561848191979b13cc5c060389?install&prompt=Check%20next%20domains%3A%20mycompany.com%2C%20mysite.io%2C%20service.web%2C%20sales12345.com>)
 
 ## How it works
 
-Search and check domain name availability in ChatGPT with pricing information using Spaceship.
+Spaceship's app enables domain name availability checking and pricing lookup for single or multiple domains. Users can search for specific domains, request alternative suggestions when domains are unavailable, and compare pricing across different TLDs. The server returns real-time availability status and accurate pricing from Spaceship's Product Platform. Best used for domain discovery, bulk domain checks, and helping users find available alternatives.
 
 ## What else can you do?
 
@@ -57,19 +57,19 @@ Search and check domain name availability in ChatGPT with pricing information us
 
 ![](https://files.openai.com/content?id=file_00000000973c720c9d9b1fabee04c427&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=c11b3c8f43500e73dd0db9849b6ea13396b3dfef8f719d0c68eba87508d51fb6&v=0)![](https://files.openai.com/content?id=file_00000000d72881f7b7d15cc4fb008b3e&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=358cbc93092922858a3ae7e058c6131029faf209cdb642542d00f385d412c04a&v=0)Spaceship Check availability for these domains: [domains]. Return which are available and which are taken, grouped by the base name.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Spaceship+Check+availability+for+these+domains%3A+%5Bdomains%5D.+Return+which+are+available+and+which+are+taken%2C+grouped+by+the+base+name.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_692e119561848191979b13cc5c060389?install&prompt=Check%20availability%20for%20these%20domains%3A%20%5Bdomains%5D.%20Return%20which%20are%20available%20and%20which%20are%20taken%2C%20grouped%20by%20the%20base%20name.&surface=work>)
 
   * ### View domain pricing
 
 ![](https://files.openai.com/content?id=file_00000000973c720c9d9b1fabee04c427&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=c11b3c8f43500e73dd0db9849b6ea13396b3dfef8f719d0c68eba87508d51fb6&v=0)![](https://files.openai.com/content?id=file_00000000d72881f7b7d15cc4fb008b3e&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=358cbc93092922858a3ae7e058c6131029faf209cdb642542d00f385d412c04a&v=0)Spaceship For the available domains from my last check, show the registration and renewal pricing. Flag the best-value options based on price and extension fit.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Spaceship+For+the+available+domains+from+my+last+check%2C+show+the+registration+and+renewal+pricing.+Flag+the+best-value+options+based+on+price+and+extension+fit.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_692e119561848191979b13cc5c060389?install&prompt=For%20the%20available%20domains%20from%20my%20last%20check%2C%20show%20the%20registration%20and%20renewal%20pricing.%20Flag%20the%20best-value%20options%20based%20on%20price%20and%20extension%20fit.&surface=work>)
 
   * ### Compare domain options
 
 ![](https://files.openai.com/content?id=file_00000000973c720c9d9b1fabee04c427&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=c11b3c8f43500e73dd0db9849b6ea13396b3dfef8f719d0c68eba87508d51fb6&v=0)![](https://files.openai.com/content?id=file_00000000d72881f7b7d15cc4fb008b3e&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=358cbc93092922858a3ae7e058c6131029faf209cdb642542d00f385d412c04a&v=0)Spaceship Compare these domain options: [domains]. Summarize pros/cons for brandability, trust, and cost, and recommend the top 3 choices with rationale.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Spaceship+Compare+these+domain+options%3A+%5Bdomains%5D.+Summarize+pros%2Fcons+for+brandability%2C+trust%2C+and+cost%2C+and+recommend+the+top+3+choices+with+rationale.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_692e119561848191979b13cc5c060389?install&prompt=Compare%20these%20domain%20options%3A%20%5Bdomains%5D.%20Summarize%20pros%2Fcons%20for%20brandability%2C%20trust%2C%20and%20cost%2C%20and%20recommend%20the%20top%203%20choices%20with%20rationale.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Search and check domain name availability in ChatGPT with pricing information us
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://spaceship.com/help>)
+### [Plugin supportLearn more(opens in a new window)](<https://spaceship.com/help>)
 
-### [Privacy policyLearn more](<https://spaceship.com/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://spaceship.com/privacy>)
 
 ## Add the Spaceship plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000902c71f6b05dada19789297a&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=f1ba07a888f7785878f9995edb0ed3ace60632388d0b45f99df341674c8a44db&v=0)![](https://files.openai.com/content?id=file_0000000055f07208ae498518e5a5a271&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=d024d8f8f5c5b59208b46302fa5e624615e114b5f6102a7f7f97198224bbb4b7&v=0)WixCreate your own website](</business/plugins/wix/>)[![](https://files.openai.com/content?id=file_00000000b4ec71f6ab8c69f2f285f74b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=20498371312886c59f32c51971b7921d0f0181ec2c93ce77a7bbcc652b6e8d97)![](https://files.openai.com/content?id=file_00000000b4ec71f6ab8c69f2f285f74b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=20498371312886c59f32c51971b7921d0f0181ec2c93ce77a7bbcc652b6e8d97)LovableBuild apps and websites.](</business/plugins/lovable/>)[![](https://files.openai.com/content?id=file_000000003fa871fda8d5ccf17301b94b&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=9ca1fad9ac2a8cb87e51c40261c029650c95213921623423ec39d0368045739e&v=0)![](https://files.openai.com/content?id=file_00000000878c81f7853a443065429025&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=be838736241f0296ba05934933d4fdc86ab15ca0f2f4925ed4d6166102f82945&v=0)ReplitTurn your ideas into real apps.](</business/plugins/replit/>)[![](https://files.openai.com/content?id=file_00000000586c720ca16749edcfc2d0bb&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=21aa84db12572cc51ca8196a442350fc0e60cfbf938e0c7b1405f3530d8700d2&v=0)![](https://files.openai.com/content?id=file_00000000e6a481f79673b2cee81b72b3&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=494c8d6830248b749516d8f6b2e3966301fc75169465bac49c061193105eaccd&v=0)NetlifyBuild and deploy sites on Netlify.](</business/plugins/netlify/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000902c71f6b05dada19789297a&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=f1ba07a888f7785878f9995edb0ed3ace60632388d0b45f99df341674c8a44db&v=0)![](https://files.openai.com/content?id=file_0000000055f07208ae498518e5a5a271&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=d024d8f8f5c5b59208b46302fa5e624615e114b5f6102a7f7f97198224bbb4b7&v=0)WixCreate your own website](</business/plugins/wix/>)[![](https://files.openai.com/content?id=file_00000000b4ec71f6ab8c69f2f285f74b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=20498371312886c59f32c51971b7921d0f0181ec2c93ce77a7bbcc652b6e8d97)![](https://files.openai.com/content?id=file_00000000b4ec71f6ab8c69f2f285f74b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=20498371312886c59f32c51971b7921d0f0181ec2c93ce77a7bbcc652b6e8d97)LovableBuild full-stack apps by chat](</business/plugins/lovable/>)[![](https://files.openai.com/content?id=file_000000003fa871fda8d5ccf17301b94b&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=9ca1fad9ac2a8cb87e51c40261c029650c95213921623423ec39d0368045739e&v=0)![](https://files.openai.com/content?id=file_00000000878c81f7853a443065429025&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=be838736241f0296ba05934933d4fdc86ab15ca0f2f4925ed4d6166102f82945&v=0)ReplitTurn your ideas into real apps](</business/plugins/replit/>)[![](https://files.openai.com/content?id=file_00000000586c720ca16749edcfc2d0bb&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=21aa84db12572cc51ca8196a442350fc0e60cfbf938e0c7b1405f3530d8700d2&v=0)![](https://files.openai.com/content?id=file_00000000e6a481f79673b2cee81b72b3&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=494c8d6830248b749516d8f6b2e3966301fc75169465bac49c061193105eaccd&v=0)NetlifyBuild and deploy on Netlify](</business/plugins/netlify/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

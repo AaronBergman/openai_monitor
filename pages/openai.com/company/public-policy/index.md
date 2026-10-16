@@ -142,13 +142,13 @@ Read more
 
 ### [A blueprint for democratic governance of frontier AIHow the U.S. can build durable institutions for frontier AI safety.Learn more](<https://openai.com/index/frontier-safety-blueprint/>)
 
-### [The next era of knowledge workHow Codex is helping people navigate the complexity of modern work.Learn more](<https://cdn.openai.com/pdf/the-next-era-of-knowledge-work.pdf>)
+### [The next era of knowledge workHow Codex is helping people navigate the complexity of modern work.Learn more(opens in a new window)](<https://cdn.openai.com/pdf/the-next-era-of-knowledge-work.pdf>)
 
 ### [Cybersecurity in the Intelligence AgeAn action plan for democratizing AI-powered cyber defense.Learn more](<https://openai.com/index/cybersecurity-in-the-intelligence-age/>)
 
 ### [Advancing youth safety and wellbeing in EMEAAnnouncing our European Youth Safety Blueprint. Learn more](<https://openai.com/index/advancing-youth-safety-in-emea/>)
 
-### [Industrial policy for the Intelligence AgeA people-first agenda for navigating the transition to increasingly capable AI.Learn more](<https://cdn.openai.com/pdf/561e7512-253e-424b-9734-ef4098440601/Industrial%20Policy%20for%20the%20Intelligence%20Age.pdf>)
+### [Industrial policy for the Intelligence AgeA people-first agenda for navigating the transition to increasingly capable AI.Learn more(opens in a new window)](<https://cdn.openai.com/pdf/561e7512-253e-424b-9734-ef4098440601/Industrial%20Policy%20for%20the%20Intelligence%20Age.pdf>)
 
 ## Read more on The Prompt
 
@@ -166,10 +166,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -188,7 +188,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -206,6 +207,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -234,6 +236,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
