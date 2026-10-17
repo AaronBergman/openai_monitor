@@ -91,489 +91,489 @@ More role-specific plugins are coming soon, including Corporate Finance, Private
 
 ## 
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4UFpCp3CX3e97raZbAktYo/d54df1fa1f816e5eeacac803b48dafe4/actively-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4UFpCp3CX3e97raZbAktYo/d54df1fa1f816e5eeacac803b48dafe4/actively-icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4NYFssjICleYFIAOVjC4NF/225b023c70177856ab692b1bfff55df9/Apollo-logo.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4NYFssjICleYFIAOVjC4NF/225b023c70177856ab692b1bfff55df9/Apollo-logo.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/RJ8DfEys6DtH4MzH97r33/540a8e5376d34cbbcc127865eacaa9d6/Chronograph-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/RJ8DfEys6DtH4MzH97r33/540a8e5376d34cbbcc127865eacaa9d6/Chronograph-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/29wvM1Ty8uWY4pp9lZZFqv/df7b088b4f409f67832dc18b143bc08f/Databricks-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/29wvM1Ty8uWY4pp9lZZFqv/df7b088b4f409f67832dc18b143bc08f/Databricks-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5XaUCn4UEZhwtGxuVhqmSH/505e55af3925ff2942cb46216192ab5b/FactSet-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/5XaUCn4UEZhwtGxuVhqmSH/505e55af3925ff2942cb46216192ab5b/FactSet-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/vcHfiQ7aAwrYmYcoQoz9J/2135045b7e7eb0de7417e5b31459f9a0/Aiera-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/vcHfiQ7aAwrYmYcoQoz9J/2135045b7e7eb0de7417e5b31459f9a0/Aiera-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2baLN2AEXCHyCuaWV7Rxp1/9407ee14a5d2867c817aa5b6329305c2/Calendly-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/2baLN2AEXCHyCuaWV7Rxp1/9407ee14a5d2867c817aa5b6329305c2/Calendly-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3ttS8F0BSrbkzIPZMcNz8E/87c8289410034d5431ab2b1585ce1f3a/Clay-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3ttS8F0BSrbkzIPZMcNz8E/87c8289410034d5431ab2b1585ce1f3a/Clay-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5mMHXLe8l0NNPJWVGYvUqK/7be46f5ad522661f687d71c1b77e2e2a/Datasite-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/5mMHXLe8l0NNPJWVGYvUqK/7be46f5ad522661f687d71c1b77e2e2a/Datasite-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/35d97mMx91cfTmNZHqXoun/66fc9fa59a9df2ae812c6414272d2243/Fal-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/35d97mMx91cfTmNZHqXoun/66fc9fa59a9df2ae812c6414272d2243/Fal-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/66G2WK6ampV9jPzRa2Hvbg/886b4bd1a14e8cdfb200ab7a6dfabfe4/Alation-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/66G2WK6ampV9jPzRa2Hvbg/886b4bd1a14e8cdfb200ab7a6dfabfe4/Alation-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5JhKRNTuJsb1YlJy2aZgGG/a550a1b7d088b8862945510d26e05306/Canva-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/5JhKRNTuJsb1YlJy2aZgGG/a550a1b7d088b8862945510d26e05306/Canva-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/jzXVGEfP4mbBnldf2o8lF/3c7b92daef9d0419078c223e6facaca6/Close-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/jzXVGEfP4mbBnldf2o8lF/3c7b92daef9d0419078c223e6facaca6/Close-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1ZrYyHKYVPXXHVMY3WllKP/590344a2803377aa54fd729c34cb14dd/Deepnote-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/1ZrYyHKYVPXXHVMY3WllKP/590344a2803377aa54fd729c34cb14dd/Deepnote-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/59QXkm38wdfWcVkARDzWjP/49a8f3d91cf9a36fae192296fb811390/Figma-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/59QXkm38wdfWcVkARDzWjP/49a8f3d91cf9a36fae192296fb811390/Figma-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/vcHfiQ7aAwrYmYcoQoz9J/2135045b7e7eb0de7417e5b31459f9a0/Aiera-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/vcHfiQ7aAwrYmYcoQoz9J/2135045b7e7eb0de7417e5b31459f9a0/Aiera-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2baLN2AEXCHyCuaWV7Rxp1/9407ee14a5d2867c817aa5b6329305c2/Calendly-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/2baLN2AEXCHyCuaWV7Rxp1/9407ee14a5d2867c817aa5b6329305c2/Calendly-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3ttS8F0BSrbkzIPZMcNz8E/87c8289410034d5431ab2b1585ce1f3a/Clay-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3ttS8F0BSrbkzIPZMcNz8E/87c8289410034d5431ab2b1585ce1f3a/Clay-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5mMHXLe8l0NNPJWVGYvUqK/7be46f5ad522661f687d71c1b77e2e2a/Datasite-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/5mMHXLe8l0NNPJWVGYvUqK/7be46f5ad522661f687d71c1b77e2e2a/Datasite-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/35d97mMx91cfTmNZHqXoun/66fc9fa59a9df2ae812c6414272d2243/Fal-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/35d97mMx91cfTmNZHqXoun/66fc9fa59a9df2ae812c6414272d2243/Fal-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/66G2WK6ampV9jPzRa2Hvbg/886b4bd1a14e8cdfb200ab7a6dfabfe4/Alation-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/66G2WK6ampV9jPzRa2Hvbg/886b4bd1a14e8cdfb200ab7a6dfabfe4/Alation-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5JhKRNTuJsb1YlJy2aZgGG/a550a1b7d088b8862945510d26e05306/Canva-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/5JhKRNTuJsb1YlJy2aZgGG/a550a1b7d088b8862945510d26e05306/Canva-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/jzXVGEfP4mbBnldf2o8lF/3c7b92daef9d0419078c223e6facaca6/Close-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/jzXVGEfP4mbBnldf2o8lF/3c7b92daef9d0419078c223e6facaca6/Close-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1ZrYyHKYVPXXHVMY3WllKP/590344a2803377aa54fd729c34cb14dd/Deepnote-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/1ZrYyHKYVPXXHVMY3WllKP/590344a2803377aa54fd729c34cb14dd/Deepnote-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/59QXkm38wdfWcVkARDzWjP/49a8f3d91cf9a36fae192296fb811390/Figma-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/59QXkm38wdfWcVkARDzWjP/49a8f3d91cf9a36fae192296fb811390/Figma-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/TxiSBzrfQ4WWAPkSMXYZt/f4d0a092e749e9b7e8caeb09a30abf5f/Amplitude-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/TxiSBzrfQ4WWAPkSMXYZt/f4d0a092e749e9b7e8caeb09a30abf5f/Amplitude-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/35DM0SJOz9SUbSivrZdisO/207f6688e291b15cb477f87c9ebfda72/chrome-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/35DM0SJOz9SUbSivrZdisO/207f6688e291b15cb477f87c9ebfda72/chrome-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7uejlwsOOL1AxOt3h3vfiz/f0e3f52be5b1bb33ff41ab197423e210/daloopa-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7uejlwsOOL1AxOt3h3vfiz/f0e3f52be5b1bb33ff41ab197423e210/daloopa-icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6ww6xmOFNciC74O76ZSu2g/e15dc28a080526919f1cffa851aadd95/Docusign-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/6ww6xmOFNciC74O76ZSu2g/e15dc28a080526919f1cffa851aadd95/Docusign-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3ttS8F0BSrbkzIPZMcNz8E/87c8289410034d5431ab2b1585ce1f3a/Clay-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3ttS8F0BSrbkzIPZMcNz8E/87c8289410034d5431ab2b1585ce1f3a/Clay-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/66G2WK6ampV9jPzRa2Hvbg/886b4bd1a14e8cdfb200ab7a6dfabfe4/Alation-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/66G2WK6ampV9jPzRa2Hvbg/886b4bd1a14e8cdfb200ab7a6dfabfe4/Alation-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5JhKRNTuJsb1YlJy2aZgGG/a550a1b7d088b8862945510d26e05306/Canva-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/5JhKRNTuJsb1YlJy2aZgGG/a550a1b7d088b8862945510d26e05306/Canva-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/jzXVGEfP4mbBnldf2o8lF/3c7b92daef9d0419078c223e6facaca6/Close-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/jzXVGEfP4mbBnldf2o8lF/3c7b92daef9d0419078c223e6facaca6/Close-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1ZrYyHKYVPXXHVMY3WllKP/590344a2803377aa54fd729c34cb14dd/Deepnote-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/1ZrYyHKYVPXXHVMY3WllKP/590344a2803377aa54fd729c34cb14dd/Deepnote-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/59QXkm38wdfWcVkARDzWjP/49a8f3d91cf9a36fae192296fb811390/Figma-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/59QXkm38wdfWcVkARDzWjP/49a8f3d91cf9a36fae192296fb811390/Figma-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/TxiSBzrfQ4WWAPkSMXYZt/f4d0a092e749e9b7e8caeb09a30abf5f/Amplitude-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/TxiSBzrfQ4WWAPkSMXYZt/f4d0a092e749e9b7e8caeb09a30abf5f/Amplitude-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/35DM0SJOz9SUbSivrZdisO/207f6688e291b15cb477f87c9ebfda72/chrome-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/35DM0SJOz9SUbSivrZdisO/207f6688e291b15cb477f87c9ebfda72/chrome-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7uejlwsOOL1AxOt3h3vfiz/f0e3f52be5b1bb33ff41ab197423e210/daloopa-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7uejlwsOOL1AxOt3h3vfiz/f0e3f52be5b1bb33ff41ab197423e210/daloopa-icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6ww6xmOFNciC74O76ZSu2g/e15dc28a080526919f1cffa851aadd95/Docusign-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/6ww6xmOFNciC74O76ZSu2g/e15dc28a080526919f1cffa851aadd95/Docusign-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4UFpCp3CX3e97raZbAktYo/d54df1fa1f816e5eeacac803b48dafe4/actively-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4UFpCp3CX3e97raZbAktYo/d54df1fa1f816e5eeacac803b48dafe4/actively-icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4NYFssjICleYFIAOVjC4NF/225b023c70177856ab692b1bfff55df9/Apollo-logo.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4NYFssjICleYFIAOVjC4NF/225b023c70177856ab692b1bfff55df9/Apollo-logo.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/RJ8DfEys6DtH4MzH97r33/540a8e5376d34cbbcc127865eacaa9d6/Chronograph-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/RJ8DfEys6DtH4MzH97r33/540a8e5376d34cbbcc127865eacaa9d6/Chronograph-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/29wvM1Ty8uWY4pp9lZZFqv/df7b088b4f409f67832dc18b143bc08f/Databricks-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/29wvM1Ty8uWY4pp9lZZFqv/df7b088b4f409f67832dc18b143bc08f/Databricks-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5XaUCn4UEZhwtGxuVhqmSH/505e55af3925ff2942cb46216192ab5b/FactSet-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/5XaUCn4UEZhwtGxuVhqmSH/505e55af3925ff2942cb46216192ab5b/FactSet-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/jzXVGEfP4mbBnldf2o8lF/3c7b92daef9d0419078c223e6facaca6/Close-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/jzXVGEfP4mbBnldf2o8lF/3c7b92daef9d0419078c223e6facaca6/Close-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/TxiSBzrfQ4WWAPkSMXYZt/f4d0a092e749e9b7e8caeb09a30abf5f/Amplitude-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/TxiSBzrfQ4WWAPkSMXYZt/f4d0a092e749e9b7e8caeb09a30abf5f/Amplitude-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/35DM0SJOz9SUbSivrZdisO/207f6688e291b15cb477f87c9ebfda72/chrome-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/35DM0SJOz9SUbSivrZdisO/207f6688e291b15cb477f87c9ebfda72/chrome-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7uejlwsOOL1AxOt3h3vfiz/f0e3f52be5b1bb33ff41ab197423e210/daloopa-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7uejlwsOOL1AxOt3h3vfiz/f0e3f52be5b1bb33ff41ab197423e210/daloopa-icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6ww6xmOFNciC74O76ZSu2g/e15dc28a080526919f1cffa851aadd95/Docusign-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/6ww6xmOFNciC74O76ZSu2g/e15dc28a080526919f1cffa851aadd95/Docusign-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4UFpCp3CX3e97raZbAktYo/d54df1fa1f816e5eeacac803b48dafe4/actively-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4UFpCp3CX3e97raZbAktYo/d54df1fa1f816e5eeacac803b48dafe4/actively-icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4NYFssjICleYFIAOVjC4NF/225b023c70177856ab692b1bfff55df9/Apollo-logo.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4NYFssjICleYFIAOVjC4NF/225b023c70177856ab692b1bfff55df9/Apollo-logo.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/RJ8DfEys6DtH4MzH97r33/540a8e5376d34cbbcc127865eacaa9d6/Chronograph-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/RJ8DfEys6DtH4MzH97r33/540a8e5376d34cbbcc127865eacaa9d6/Chronograph-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/29wvM1Ty8uWY4pp9lZZFqv/df7b088b4f409f67832dc18b143bc08f/Databricks-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/29wvM1Ty8uWY4pp9lZZFqv/df7b088b4f409f67832dc18b143bc08f/Databricks-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5XaUCn4UEZhwtGxuVhqmSH/505e55af3925ff2942cb46216192ab5b/FactSet-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/5XaUCn4UEZhwtGxuVhqmSH/505e55af3925ff2942cb46216192ab5b/FactSet-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/vcHfiQ7aAwrYmYcoQoz9J/2135045b7e7eb0de7417e5b31459f9a0/Aiera-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/vcHfiQ7aAwrYmYcoQoz9J/2135045b7e7eb0de7417e5b31459f9a0/Aiera-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2baLN2AEXCHyCuaWV7Rxp1/9407ee14a5d2867c817aa5b6329305c2/Calendly-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/2baLN2AEXCHyCuaWV7Rxp1/9407ee14a5d2867c817aa5b6329305c2/Calendly-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3ttS8F0BSrbkzIPZMcNz8E/87c8289410034d5431ab2b1585ce1f3a/Clay-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3ttS8F0BSrbkzIPZMcNz8E/87c8289410034d5431ab2b1585ce1f3a/Clay-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5mMHXLe8l0NNPJWVGYvUqK/7be46f5ad522661f687d71c1b77e2e2a/Datasite-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/5mMHXLe8l0NNPJWVGYvUqK/7be46f5ad522661f687d71c1b77e2e2a/Datasite-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/35d97mMx91cfTmNZHqXoun/66fc9fa59a9df2ae812c6414272d2243/Fal-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/35d97mMx91cfTmNZHqXoun/66fc9fa59a9df2ae812c6414272d2243/Fal-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7uejlwsOOL1AxOt3h3vfiz/f0e3f52be5b1bb33ff41ab197423e210/daloopa-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7uejlwsOOL1AxOt3h3vfiz/f0e3f52be5b1bb33ff41ab197423e210/daloopa-icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4UFpCp3CX3e97raZbAktYo/d54df1fa1f816e5eeacac803b48dafe4/actively-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4UFpCp3CX3e97raZbAktYo/d54df1fa1f816e5eeacac803b48dafe4/actively-icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2baLN2AEXCHyCuaWV7Rxp1/9407ee14a5d2867c817aa5b6329305c2/Calendly-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/2baLN2AEXCHyCuaWV7Rxp1/9407ee14a5d2867c817aa5b6329305c2/Calendly-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/jzXVGEfP4mbBnldf2o8lF/3c7b92daef9d0419078c223e6facaca6/Close-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/jzXVGEfP4mbBnldf2o8lF/3c7b92daef9d0419078c223e6facaca6/Close-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6ww6xmOFNciC74O76ZSu2g/e15dc28a080526919f1cffa851aadd95/Docusign-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/6ww6xmOFNciC74O76ZSu2g/e15dc28a080526919f1cffa851aadd95/Docusign-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/vcHfiQ7aAwrYmYcoQoz9J/2135045b7e7eb0de7417e5b31459f9a0/Aiera-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/vcHfiQ7aAwrYmYcoQoz9J/2135045b7e7eb0de7417e5b31459f9a0/Aiera-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5JhKRNTuJsb1YlJy2aZgGG/a550a1b7d088b8862945510d26e05306/Canva-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/5JhKRNTuJsb1YlJy2aZgGG/a550a1b7d088b8862945510d26e05306/Canva-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7uejlwsOOL1AxOt3h3vfiz/f0e3f52be5b1bb33ff41ab197423e210/daloopa-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7uejlwsOOL1AxOt3h3vfiz/f0e3f52be5b1bb33ff41ab197423e210/daloopa-icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5XaUCn4UEZhwtGxuVhqmSH/505e55af3925ff2942cb46216192ab5b/FactSet-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/5XaUCn4UEZhwtGxuVhqmSH/505e55af3925ff2942cb46216192ab5b/FactSet-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/66G2WK6ampV9jPzRa2Hvbg/886b4bd1a14e8cdfb200ab7a6dfabfe4/Alation-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/66G2WK6ampV9jPzRa2Hvbg/886b4bd1a14e8cdfb200ab7a6dfabfe4/Alation-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/35DM0SJOz9SUbSivrZdisO/207f6688e291b15cb477f87c9ebfda72/chrome-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/35DM0SJOz9SUbSivrZdisO/207f6688e291b15cb477f87c9ebfda72/chrome-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/29wvM1Ty8uWY4pp9lZZFqv/df7b088b4f409f67832dc18b143bc08f/Databricks-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/29wvM1Ty8uWY4pp9lZZFqv/df7b088b4f409f67832dc18b143bc08f/Databricks-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/35d97mMx91cfTmNZHqXoun/66fc9fa59a9df2ae812c6414272d2243/Fal-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/35d97mMx91cfTmNZHqXoun/66fc9fa59a9df2ae812c6414272d2243/Fal-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/TxiSBzrfQ4WWAPkSMXYZt/f4d0a092e749e9b7e8caeb09a30abf5f/Amplitude-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/TxiSBzrfQ4WWAPkSMXYZt/f4d0a092e749e9b7e8caeb09a30abf5f/Amplitude-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/RJ8DfEys6DtH4MzH97r33/540a8e5376d34cbbcc127865eacaa9d6/Chronograph-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/RJ8DfEys6DtH4MzH97r33/540a8e5376d34cbbcc127865eacaa9d6/Chronograph-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5mMHXLe8l0NNPJWVGYvUqK/7be46f5ad522661f687d71c1b77e2e2a/Datasite-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/5mMHXLe8l0NNPJWVGYvUqK/7be46f5ad522661f687d71c1b77e2e2a/Datasite-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/59QXkm38wdfWcVkARDzWjP/49a8f3d91cf9a36fae192296fb811390/Figma-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/59QXkm38wdfWcVkARDzWjP/49a8f3d91cf9a36fae192296fb811390/Figma-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4NYFssjICleYFIAOVjC4NF/225b023c70177856ab692b1bfff55df9/Apollo-logo.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4NYFssjICleYFIAOVjC4NF/225b023c70177856ab692b1bfff55df9/Apollo-logo.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3ttS8F0BSrbkzIPZMcNz8E/87c8289410034d5431ab2b1585ce1f3a/Clay-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3ttS8F0BSrbkzIPZMcNz8E/87c8289410034d5431ab2b1585ce1f3a/Clay-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1ZrYyHKYVPXXHVMY3WllKP/590344a2803377aa54fd729c34cb14dd/Deepnote-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/1ZrYyHKYVPXXHVMY3WllKP/590344a2803377aa54fd729c34cb14dd/Deepnote-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3ttS8F0BSrbkzIPZMcNz8E/87c8289410034d5431ab2b1585ce1f3a/Clay-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3ttS8F0BSrbkzIPZMcNz8E/87c8289410034d5431ab2b1585ce1f3a/Clay-icon.png)
 
 ## 
 
-![](https://images.ctfassets.net/kftzwdyauwt9/36l9xDur4xnSMViJMR3Ftc/fceeb0d31d628a97f64b2991eadf9f9a/Fireflies-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/36l9xDur4xnSMViJMR3Ftc/fceeb0d31d628a97f64b2991eadf9f9a/Fireflies-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4JhQzAJiB6fMWaPwuQM5Yt/abd942e97c6c019fa1a353072033a1d5/GMail-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4JhQzAJiB6fMWaPwuQM5Yt/abd942e97c6c019fa1a353072033a1d5/GMail-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/KdyhVlZgR9xnGJm1AUVpH/fb30a560aabe302a4a2f92391f002d49/Hex-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/KdyhVlZgR9xnGJm1AUVpH/fb30a560aabe302a4a2f92391f002d49/Hex-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4z6061oYWaxERxRwLQm90P/92ca6b692802e71efbf3bb6aac35f15a/LSEG-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4z6061oYWaxERxRwLQm90P/92ca6b692802e71efbf3bb6aac35f15a/LSEG-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4R4D5KmFPoU4HrOFIUCZDY/f87b04aa16e82d0fb5713714244dfa8c/Monday-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4R4D5KmFPoU4HrOFIUCZDY/f87b04aa16e82d0fb5713714244dfa8c/Monday-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/36l9xDur4xnSMViJMR3Ftc/fceeb0d31d628a97f64b2991eadf9f9a/Fireflies-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/36l9xDur4xnSMViJMR3Ftc/fceeb0d31d628a97f64b2991eadf9f9a/Fireflies-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4JhQzAJiB6fMWaPwuQM5Yt/abd942e97c6c019fa1a353072033a1d5/GMail-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4JhQzAJiB6fMWaPwuQM5Yt/abd942e97c6c019fa1a353072033a1d5/GMail-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/KdyhVlZgR9xnGJm1AUVpH/fb30a560aabe302a4a2f92391f002d49/Hex-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/KdyhVlZgR9xnGJm1AUVpH/fb30a560aabe302a4a2f92391f002d49/Hex-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4z6061oYWaxERxRwLQm90P/92ca6b692802e71efbf3bb6aac35f15a/LSEG-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4z6061oYWaxERxRwLQm90P/92ca6b692802e71efbf3bb6aac35f15a/LSEG-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4R4D5KmFPoU4HrOFIUCZDY/f87b04aa16e82d0fb5713714244dfa8c/Monday-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4R4D5KmFPoU4HrOFIUCZDY/f87b04aa16e82d0fb5713714244dfa8c/Monday-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/36l9xDur4xnSMViJMR3Ftc/fceeb0d31d628a97f64b2991eadf9f9a/Fireflies-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/36l9xDur4xnSMViJMR3Ftc/fceeb0d31d628a97f64b2991eadf9f9a/Fireflies-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4JhQzAJiB6fMWaPwuQM5Yt/abd942e97c6c019fa1a353072033a1d5/GMail-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4JhQzAJiB6fMWaPwuQM5Yt/abd942e97c6c019fa1a353072033a1d5/GMail-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/KdyhVlZgR9xnGJm1AUVpH/fb30a560aabe302a4a2f92391f002d49/Hex-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/KdyhVlZgR9xnGJm1AUVpH/fb30a560aabe302a4a2f92391f002d49/Hex-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4z6061oYWaxERxRwLQm90P/92ca6b692802e71efbf3bb6aac35f15a/LSEG-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4z6061oYWaxERxRwLQm90P/92ca6b692802e71efbf3bb6aac35f15a/LSEG-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4R4D5KmFPoU4HrOFIUCZDY/f87b04aa16e82d0fb5713714244dfa8c/Monday-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4R4D5KmFPoU4HrOFIUCZDY/f87b04aa16e82d0fb5713714244dfa8c/Monday-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/672NKd2C5VCp4RKe9bIr92/47fb84036327badc6e88e7efbcf3170e/FiscalAI-logo.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/672NKd2C5VCp4RKe9bIr92/47fb84036327badc6e88e7efbcf3170e/FiscalAI-logo.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/FIFIB7vghFJUmAhAOxIDd/b84598439db5fc04f0b688a73eb89777/GitHub-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/FIFIB7vghFJUmAhAOxIDd/b84598439db5fc04f0b688a73eb89777/GitHub-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2j4coPqbIYXH4vKYJZZx2f/ad28b0a796314f0983fb7f93b4eb4a1e/HG-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/2j4coPqbIYXH4vKYJZZx2f/ad28b0a796314f0983fb7f93b4eb4a1e/HG-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3tjviDlnTMjLAd4CGHXzDX/654b99be201dd0f5a470a11ce29bb56d/Metabase-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3tjviDlnTMjLAd4CGHXzDX/654b99be201dd0f5a470a11ce29bb56d/Metabase-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7hlI2Ah6VFQXc5UA4xO3dJ/1609e428e487f2dd56815e4179a44676/Moodys-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7hlI2Ah6VFQXc5UA4xO3dJ/1609e428e487f2dd56815e4179a44676/Moodys-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/672NKd2C5VCp4RKe9bIr92/47fb84036327badc6e88e7efbcf3170e/FiscalAI-logo.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/672NKd2C5VCp4RKe9bIr92/47fb84036327badc6e88e7efbcf3170e/FiscalAI-logo.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/FIFIB7vghFJUmAhAOxIDd/b84598439db5fc04f0b688a73eb89777/GitHub-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/FIFIB7vghFJUmAhAOxIDd/b84598439db5fc04f0b688a73eb89777/GitHub-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2j4coPqbIYXH4vKYJZZx2f/ad28b0a796314f0983fb7f93b4eb4a1e/HG-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/2j4coPqbIYXH4vKYJZZx2f/ad28b0a796314f0983fb7f93b4eb4a1e/HG-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3tjviDlnTMjLAd4CGHXzDX/654b99be201dd0f5a470a11ce29bb56d/Metabase-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3tjviDlnTMjLAd4CGHXzDX/654b99be201dd0f5a470a11ce29bb56d/Metabase-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7hlI2Ah6VFQXc5UA4xO3dJ/1609e428e487f2dd56815e4179a44676/Moodys-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7hlI2Ah6VFQXc5UA4xO3dJ/1609e428e487f2dd56815e4179a44676/Moodys-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/672NKd2C5VCp4RKe9bIr92/47fb84036327badc6e88e7efbcf3170e/FiscalAI-logo.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/672NKd2C5VCp4RKe9bIr92/47fb84036327badc6e88e7efbcf3170e/FiscalAI-logo.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/FIFIB7vghFJUmAhAOxIDd/b84598439db5fc04f0b688a73eb89777/GitHub-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/FIFIB7vghFJUmAhAOxIDd/b84598439db5fc04f0b688a73eb89777/GitHub-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2j4coPqbIYXH4vKYJZZx2f/ad28b0a796314f0983fb7f93b4eb4a1e/HG-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/2j4coPqbIYXH4vKYJZZx2f/ad28b0a796314f0983fb7f93b4eb4a1e/HG-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3tjviDlnTMjLAd4CGHXzDX/654b99be201dd0f5a470a11ce29bb56d/Metabase-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3tjviDlnTMjLAd4CGHXzDX/654b99be201dd0f5a470a11ce29bb56d/Metabase-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7hlI2Ah6VFQXc5UA4xO3dJ/1609e428e487f2dd56815e4179a44676/Moodys-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7hlI2Ah6VFQXc5UA4xO3dJ/1609e428e487f2dd56815e4179a44676/Moodys-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6CLtwn8JJJhKPRmoDvWQOY/a160c8801be097e56a83b8f53e9761b5/GCalendar-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/6CLtwn8JJJhKPRmoDvWQOY/a160c8801be097e56a83b8f53e9761b5/GCalendar-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3d4CaGZAPxpmD0iKgWzTbq/0b04b3c611b713956a974c34d1ffd9ee/Granola-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3d4CaGZAPxpmD0iKgWzTbq/0b04b3c611b713956a974c34d1ffd9ee/Granola-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6Uxb4FbhhqBJTVDMVU6Tex/c5201911b5a952fc306ebd0c1a42b3e2/Hubspot-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/6Uxb4FbhhqBJTVDMVU6Tex/c5201911b5a952fc306ebd0c1a42b3e2/Hubspot-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/YWoXPsvbPeWwJusA9p9xA/930e47f6fa5bd13891a9445d1c323bd9/Meticulate-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/YWoXPsvbPeWwJusA9p9xA/930e47f6fa5bd13891a9445d1c323bd9/Meticulate-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3WWKQXRdiC4GIyPAMKI0CM/00d0d188c0b340d674b85a1e429616ed/Morningstar-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3WWKQXRdiC4GIyPAMKI0CM/00d0d188c0b340d674b85a1e429616ed/Morningstar-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6CLtwn8JJJhKPRmoDvWQOY/a160c8801be097e56a83b8f53e9761b5/GCalendar-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/6CLtwn8JJJhKPRmoDvWQOY/a160c8801be097e56a83b8f53e9761b5/GCalendar-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3d4CaGZAPxpmD0iKgWzTbq/0b04b3c611b713956a974c34d1ffd9ee/Granola-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3d4CaGZAPxpmD0iKgWzTbq/0b04b3c611b713956a974c34d1ffd9ee/Granola-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6Uxb4FbhhqBJTVDMVU6Tex/c5201911b5a952fc306ebd0c1a42b3e2/Hubspot-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/6Uxb4FbhhqBJTVDMVU6Tex/c5201911b5a952fc306ebd0c1a42b3e2/Hubspot-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/YWoXPsvbPeWwJusA9p9xA/930e47f6fa5bd13891a9445d1c323bd9/Meticulate-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/YWoXPsvbPeWwJusA9p9xA/930e47f6fa5bd13891a9445d1c323bd9/Meticulate-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3WWKQXRdiC4GIyPAMKI0CM/00d0d188c0b340d674b85a1e429616ed/Morningstar-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3WWKQXRdiC4GIyPAMKI0CM/00d0d188c0b340d674b85a1e429616ed/Morningstar-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6CLtwn8JJJhKPRmoDvWQOY/a160c8801be097e56a83b8f53e9761b5/GCalendar-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/6CLtwn8JJJhKPRmoDvWQOY/a160c8801be097e56a83b8f53e9761b5/GCalendar-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3d4CaGZAPxpmD0iKgWzTbq/0b04b3c611b713956a974c34d1ffd9ee/Granola-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3d4CaGZAPxpmD0iKgWzTbq/0b04b3c611b713956a974c34d1ffd9ee/Granola-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6Uxb4FbhhqBJTVDMVU6Tex/c5201911b5a952fc306ebd0c1a42b3e2/Hubspot-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/6Uxb4FbhhqBJTVDMVU6Tex/c5201911b5a952fc306ebd0c1a42b3e2/Hubspot-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/YWoXPsvbPeWwJusA9p9xA/930e47f6fa5bd13891a9445d1c323bd9/Meticulate-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/YWoXPsvbPeWwJusA9p9xA/930e47f6fa5bd13891a9445d1c323bd9/Meticulate-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3WWKQXRdiC4GIyPAMKI0CM/00d0d188c0b340d674b85a1e429616ed/Morningstar-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3WWKQXRdiC4GIyPAMKI0CM/00d0d188c0b340d674b85a1e429616ed/Morningstar-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/496Hby7x5TQcBFFKVuAjSO/5a47e0d97db5d9bdd166ff17a99607b4/GDrive-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/496Hby7x5TQcBFFKVuAjSO/5a47e0d97db5d9bdd166ff17a99607b4/GDrive-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3oCKjYaPg9YdQ3HrkFj2a8/e0511dc4831023fafae7889ea3dd68d7/hebbia-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3oCKjYaPg9YdQ3HrkFj2a8/e0511dc4831023fafae7889ea3dd68d7/hebbia-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/peeja2fizSY86INX6R14X/ea8d5713d1e0e29d5993175f39db3f55/Lovable-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/peeja2fizSY86INX6R14X/ea8d5713d1e0e29d5993175f39db3f55/Lovable-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/77qYzlkG20niSIAzcaME2h/1966a59f59a84c92c585dc684b0fe831/Mixpanel-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/77qYzlkG20niSIAzcaME2h/1966a59f59a84c92c585dc684b0fe831/Mixpanel-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2qLdRLjh0kokwm3LaqO4BP/0b100e3b97c6622665b4889d861bf019/omni-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/2qLdRLjh0kokwm3LaqO4BP/0b100e3b97c6622665b4889d861bf019/omni-icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/496Hby7x5TQcBFFKVuAjSO/5a47e0d97db5d9bdd166ff17a99607b4/GDrive-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/496Hby7x5TQcBFFKVuAjSO/5a47e0d97db5d9bdd166ff17a99607b4/GDrive-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3oCKjYaPg9YdQ3HrkFj2a8/e0511dc4831023fafae7889ea3dd68d7/hebbia-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3oCKjYaPg9YdQ3HrkFj2a8/e0511dc4831023fafae7889ea3dd68d7/hebbia-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/peeja2fizSY86INX6R14X/ea8d5713d1e0e29d5993175f39db3f55/Lovable-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/peeja2fizSY86INX6R14X/ea8d5713d1e0e29d5993175f39db3f55/Lovable-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/77qYzlkG20niSIAzcaME2h/1966a59f59a84c92c585dc684b0fe831/Mixpanel-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/77qYzlkG20niSIAzcaME2h/1966a59f59a84c92c585dc684b0fe831/Mixpanel-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2qLdRLjh0kokwm3LaqO4BP/0b100e3b97c6622665b4889d861bf019/omni-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/2qLdRLjh0kokwm3LaqO4BP/0b100e3b97c6622665b4889d861bf019/omni-icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/496Hby7x5TQcBFFKVuAjSO/5a47e0d97db5d9bdd166ff17a99607b4/GDrive-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/496Hby7x5TQcBFFKVuAjSO/5a47e0d97db5d9bdd166ff17a99607b4/GDrive-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3oCKjYaPg9YdQ3HrkFj2a8/e0511dc4831023fafae7889ea3dd68d7/hebbia-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3oCKjYaPg9YdQ3HrkFj2a8/e0511dc4831023fafae7889ea3dd68d7/hebbia-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/peeja2fizSY86INX6R14X/ea8d5713d1e0e29d5993175f39db3f55/Lovable-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/peeja2fizSY86INX6R14X/ea8d5713d1e0e29d5993175f39db3f55/Lovable-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/77qYzlkG20niSIAzcaME2h/1966a59f59a84c92c585dc684b0fe831/Mixpanel-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/77qYzlkG20niSIAzcaME2h/1966a59f59a84c92c585dc684b0fe831/Mixpanel-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2qLdRLjh0kokwm3LaqO4BP/0b100e3b97c6622665b4889d861bf019/omni-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/2qLdRLjh0kokwm3LaqO4BP/0b100e3b97c6622665b4889d861bf019/omni-icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/36l9xDur4xnSMViJMR3Ftc/fceeb0d31d628a97f64b2991eadf9f9a/Fireflies-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/36l9xDur4xnSMViJMR3Ftc/fceeb0d31d628a97f64b2991eadf9f9a/Fireflies-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/FIFIB7vghFJUmAhAOxIDd/b84598439db5fc04f0b688a73eb89777/GitHub-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/FIFIB7vghFJUmAhAOxIDd/b84598439db5fc04f0b688a73eb89777/GitHub-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6Uxb4FbhhqBJTVDMVU6Tex/c5201911b5a952fc306ebd0c1a42b3e2/Hubspot-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/6Uxb4FbhhqBJTVDMVU6Tex/c5201911b5a952fc306ebd0c1a42b3e2/Hubspot-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/77qYzlkG20niSIAzcaME2h/1966a59f59a84c92c585dc684b0fe831/Mixpanel-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/77qYzlkG20niSIAzcaME2h/1966a59f59a84c92c585dc684b0fe831/Mixpanel-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/672NKd2C5VCp4RKe9bIr92/47fb84036327badc6e88e7efbcf3170e/FiscalAI-logo.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/672NKd2C5VCp4RKe9bIr92/47fb84036327badc6e88e7efbcf3170e/FiscalAI-logo.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3d4CaGZAPxpmD0iKgWzTbq/0b04b3c611b713956a974c34d1ffd9ee/Granola-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3d4CaGZAPxpmD0iKgWzTbq/0b04b3c611b713956a974c34d1ffd9ee/Granola-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/peeja2fizSY86INX6R14X/ea8d5713d1e0e29d5993175f39db3f55/Lovable-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/peeja2fizSY86INX6R14X/ea8d5713d1e0e29d5993175f39db3f55/Lovable-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4R4D5KmFPoU4HrOFIUCZDY/f87b04aa16e82d0fb5713714244dfa8c/Monday-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4R4D5KmFPoU4HrOFIUCZDY/f87b04aa16e82d0fb5713714244dfa8c/Monday-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6CLtwn8JJJhKPRmoDvWQOY/a160c8801be097e56a83b8f53e9761b5/GCalendar-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/6CLtwn8JJJhKPRmoDvWQOY/a160c8801be097e56a83b8f53e9761b5/GCalendar-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3oCKjYaPg9YdQ3HrkFj2a8/e0511dc4831023fafae7889ea3dd68d7/hebbia-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3oCKjYaPg9YdQ3HrkFj2a8/e0511dc4831023fafae7889ea3dd68d7/hebbia-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4z6061oYWaxERxRwLQm90P/92ca6b692802e71efbf3bb6aac35f15a/LSEG-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4z6061oYWaxERxRwLQm90P/92ca6b692802e71efbf3bb6aac35f15a/LSEG-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7hlI2Ah6VFQXc5UA4xO3dJ/1609e428e487f2dd56815e4179a44676/Moodys-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7hlI2Ah6VFQXc5UA4xO3dJ/1609e428e487f2dd56815e4179a44676/Moodys-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/496Hby7x5TQcBFFKVuAjSO/5a47e0d97db5d9bdd166ff17a99607b4/GDrive-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/496Hby7x5TQcBFFKVuAjSO/5a47e0d97db5d9bdd166ff17a99607b4/GDrive-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/KdyhVlZgR9xnGJm1AUVpH/fb30a560aabe302a4a2f92391f002d49/Hex-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/KdyhVlZgR9xnGJm1AUVpH/fb30a560aabe302a4a2f92391f002d49/Hex-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3tjviDlnTMjLAd4CGHXzDX/654b99be201dd0f5a470a11ce29bb56d/Metabase-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3tjviDlnTMjLAd4CGHXzDX/654b99be201dd0f5a470a11ce29bb56d/Metabase-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3WWKQXRdiC4GIyPAMKI0CM/00d0d188c0b340d674b85a1e429616ed/Morningstar-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/3WWKQXRdiC4GIyPAMKI0CM/00d0d188c0b340d674b85a1e429616ed/Morningstar-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4JhQzAJiB6fMWaPwuQM5Yt/abd942e97c6c019fa1a353072033a1d5/GMail-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4JhQzAJiB6fMWaPwuQM5Yt/abd942e97c6c019fa1a353072033a1d5/GMail-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2j4coPqbIYXH4vKYJZZx2f/ad28b0a796314f0983fb7f93b4eb4a1e/HG-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/2j4coPqbIYXH4vKYJZZx2f/ad28b0a796314f0983fb7f93b4eb4a1e/HG-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/YWoXPsvbPeWwJusA9p9xA/930e47f6fa5bd13891a9445d1c323bd9/Meticulate-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/YWoXPsvbPeWwJusA9p9xA/930e47f6fa5bd13891a9445d1c323bd9/Meticulate-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2qLdRLjh0kokwm3LaqO4BP/0b100e3b97c6622665b4889d861bf019/omni-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/2qLdRLjh0kokwm3LaqO4BP/0b100e3b97c6622665b4889d861bf019/omni-icon2.png)
 
 ## 
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1tEVGmWh4hD2xAw85kY5dB/bd24a2e9c932f7cffc34580ca8f3ffa5/otterrai-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/1tEVGmWh4hD2xAw85kY5dB/bd24a2e9c932f7cffc34580ca8f3ffa5/otterrai-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6iQe2R4MaeRvXUe84FZSvM/da4f8f0fa610646e225208dfe7af76d9/PostHog-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/6iQe2R4MaeRvXUe84FZSvM/da4f8f0fa610646e225208dfe7af76d9/PostHog-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/pZq5UI7yOhnst1FcxXeCv/5326cda021b1f2013b467624f1935f41/SP-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/pZq5UI7yOhnst1FcxXeCv/5326cda021b1f2013b467624f1935f41/SP-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1wkofYPal0FOhJShWShLEr/40c51a701d01c8080760ca98bba13b40/slack-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/1wkofYPal0FOhJShWShLEr/40c51a701d01c8080760ca98bba13b40/slack-icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4ej1LL242AmYNMh7kWacdu/34b867bc8aaa6b7d476e88e3fb35d49b/ThoughtSpot_icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4ej1LL242AmYNMh7kWacdu/34b867bc8aaa6b7d476e88e3fb35d49b/ThoughtSpot_icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1tEVGmWh4hD2xAw85kY5dB/bd24a2e9c932f7cffc34580ca8f3ffa5/otterrai-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/1tEVGmWh4hD2xAw85kY5dB/bd24a2e9c932f7cffc34580ca8f3ffa5/otterrai-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6iQe2R4MaeRvXUe84FZSvM/da4f8f0fa610646e225208dfe7af76d9/PostHog-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/6iQe2R4MaeRvXUe84FZSvM/da4f8f0fa610646e225208dfe7af76d9/PostHog-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/pZq5UI7yOhnst1FcxXeCv/5326cda021b1f2013b467624f1935f41/SP-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/pZq5UI7yOhnst1FcxXeCv/5326cda021b1f2013b467624f1935f41/SP-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1wkofYPal0FOhJShWShLEr/40c51a701d01c8080760ca98bba13b40/slack-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/1wkofYPal0FOhJShWShLEr/40c51a701d01c8080760ca98bba13b40/slack-icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4ej1LL242AmYNMh7kWacdu/34b867bc8aaa6b7d476e88e3fb35d49b/ThoughtSpot_icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4ej1LL242AmYNMh7kWacdu/34b867bc8aaa6b7d476e88e3fb35d49b/ThoughtSpot_icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1tEVGmWh4hD2xAw85kY5dB/bd24a2e9c932f7cffc34580ca8f3ffa5/otterrai-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/1tEVGmWh4hD2xAw85kY5dB/bd24a2e9c932f7cffc34580ca8f3ffa5/otterrai-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6iQe2R4MaeRvXUe84FZSvM/da4f8f0fa610646e225208dfe7af76d9/PostHog-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/6iQe2R4MaeRvXUe84FZSvM/da4f8f0fa610646e225208dfe7af76d9/PostHog-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/pZq5UI7yOhnst1FcxXeCv/5326cda021b1f2013b467624f1935f41/SP-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/pZq5UI7yOhnst1FcxXeCv/5326cda021b1f2013b467624f1935f41/SP-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1wkofYPal0FOhJShWShLEr/40c51a701d01c8080760ca98bba13b40/slack-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/1wkofYPal0FOhJShWShLEr/40c51a701d01c8080760ca98bba13b40/slack-icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4ej1LL242AmYNMh7kWacdu/34b867bc8aaa6b7d476e88e3fb35d49b/ThoughtSpot_icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4ej1LL242AmYNMh7kWacdu/34b867bc8aaa6b7d476e88e3fb35d49b/ThoughtSpot_icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7Kw5FaSXZ6Eq0vYydhLmly/6604c9d8b5706cb62ef17235407a8c24/Outreach-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7Kw5FaSXZ6Eq0vYydhLmly/6604c9d8b5706cb62ef17235407a8c24/Outreach-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/76ksqYxVsKQnSZzktpwQ4h/2cbd51ef2fbd9025eaccd98a0c7148d2/Quartr-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/76ksqYxVsKQnSZzktpwQ4h/2cbd51ef2fbd9025eaccd98a0c7148d2/Quartr-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1Rme9yow16GkM6J5o6Li6m/ab8f8f5a058fda75333b36360661b105/Salesforce-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/1Rme9yow16GkM6J5o6Li6m/ab8f8f5a058fda75333b36360661b105/Salesforce-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2azpQpnXbwNzCOfhr3NnfZ/7b53a00c5b70b64de63ec9df7e1acf3c/Snowflake-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/2azpQpnXbwNzCOfhr3NnfZ/7b53a00c5b70b64de63ec9df7e1acf3c/Snowflake-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5PdvUhPCvI3aMIVBV5F6XR/65d38375a5aff056c3e7f586390539b6/Zoho-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/5PdvUhPCvI3aMIVBV5F6XR/65d38375a5aff056c3e7f586390539b6/Zoho-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7Kw5FaSXZ6Eq0vYydhLmly/6604c9d8b5706cb62ef17235407a8c24/Outreach-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7Kw5FaSXZ6Eq0vYydhLmly/6604c9d8b5706cb62ef17235407a8c24/Outreach-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/76ksqYxVsKQnSZzktpwQ4h/2cbd51ef2fbd9025eaccd98a0c7148d2/Quartr-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/76ksqYxVsKQnSZzktpwQ4h/2cbd51ef2fbd9025eaccd98a0c7148d2/Quartr-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1Rme9yow16GkM6J5o6Li6m/ab8f8f5a058fda75333b36360661b105/Salesforce-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/1Rme9yow16GkM6J5o6Li6m/ab8f8f5a058fda75333b36360661b105/Salesforce-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2azpQpnXbwNzCOfhr3NnfZ/7b53a00c5b70b64de63ec9df7e1acf3c/Snowflake-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/2azpQpnXbwNzCOfhr3NnfZ/7b53a00c5b70b64de63ec9df7e1acf3c/Snowflake-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5PdvUhPCvI3aMIVBV5F6XR/65d38375a5aff056c3e7f586390539b6/Zoho-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/5PdvUhPCvI3aMIVBV5F6XR/65d38375a5aff056c3e7f586390539b6/Zoho-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7Kw5FaSXZ6Eq0vYydhLmly/6604c9d8b5706cb62ef17235407a8c24/Outreach-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7Kw5FaSXZ6Eq0vYydhLmly/6604c9d8b5706cb62ef17235407a8c24/Outreach-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/76ksqYxVsKQnSZzktpwQ4h/2cbd51ef2fbd9025eaccd98a0c7148d2/Quartr-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/76ksqYxVsKQnSZzktpwQ4h/2cbd51ef2fbd9025eaccd98a0c7148d2/Quartr-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1Rme9yow16GkM6J5o6Li6m/ab8f8f5a058fda75333b36360661b105/Salesforce-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/1Rme9yow16GkM6J5o6Li6m/ab8f8f5a058fda75333b36360661b105/Salesforce-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2azpQpnXbwNzCOfhr3NnfZ/7b53a00c5b70b64de63ec9df7e1acf3c/Snowflake-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/2azpQpnXbwNzCOfhr3NnfZ/7b53a00c5b70b64de63ec9df7e1acf3c/Snowflake-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5PdvUhPCvI3aMIVBV5F6XR/65d38375a5aff056c3e7f586390539b6/Zoho-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/5PdvUhPCvI3aMIVBV5F6XR/65d38375a5aff056c3e7f586390539b6/Zoho-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4x2DXa6aOhXmne41W5j4Ul/48b5243268e0c4cbde428df7cb579efb/picsart-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4x2DXa6aOhXmne41W5j4Ul/48b5243268e0c4cbde428df7cb579efb/picsart-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/QuDmbhNZUYO3XzNdI2E5H/802978d640e24228f8689c733c6815ca/Replit-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/QuDmbhNZUYO3XzNdI2E5H/802978d640e24228f8689c733c6815ca/Replit-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/TKKVGnBmf2OMZYVajKqhr/52063feb984e4c9f4fec4c89e60f490c/Shutterstock-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/TKKVGnBmf2OMZYVajKqhr/52063feb984e4c9f4fec4c89e60f490c/Shutterstock-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7FyJaH9Sw6pgFE9Cz2THPP/3db5d81d200fe4f4e0f56df7a15df7a7/Statsig-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7FyJaH9Sw6pgFE9Cz2THPP/3db5d81d200fe4f4e0f56df7a15df7a7/Statsig-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7qxEB5vRm1XLvgAPctRVsF/414605b475141299b48d8d2a3508f710/Zoom-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7qxEB5vRm1XLvgAPctRVsF/414605b475141299b48d8d2a3508f710/Zoom-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4x2DXa6aOhXmne41W5j4Ul/48b5243268e0c4cbde428df7cb579efb/picsart-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4x2DXa6aOhXmne41W5j4Ul/48b5243268e0c4cbde428df7cb579efb/picsart-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/QuDmbhNZUYO3XzNdI2E5H/802978d640e24228f8689c733c6815ca/Replit-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/QuDmbhNZUYO3XzNdI2E5H/802978d640e24228f8689c733c6815ca/Replit-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/TKKVGnBmf2OMZYVajKqhr/52063feb984e4c9f4fec4c89e60f490c/Shutterstock-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/TKKVGnBmf2OMZYVajKqhr/52063feb984e4c9f4fec4c89e60f490c/Shutterstock-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7FyJaH9Sw6pgFE9Cz2THPP/3db5d81d200fe4f4e0f56df7a15df7a7/Statsig-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7FyJaH9Sw6pgFE9Cz2THPP/3db5d81d200fe4f4e0f56df7a15df7a7/Statsig-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7qxEB5vRm1XLvgAPctRVsF/414605b475141299b48d8d2a3508f710/Zoom-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7qxEB5vRm1XLvgAPctRVsF/414605b475141299b48d8d2a3508f710/Zoom-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4x2DXa6aOhXmne41W5j4Ul/48b5243268e0c4cbde428df7cb579efb/picsart-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4x2DXa6aOhXmne41W5j4Ul/48b5243268e0c4cbde428df7cb579efb/picsart-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/QuDmbhNZUYO3XzNdI2E5H/802978d640e24228f8689c733c6815ca/Replit-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/QuDmbhNZUYO3XzNdI2E5H/802978d640e24228f8689c733c6815ca/Replit-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/TKKVGnBmf2OMZYVajKqhr/52063feb984e4c9f4fec4c89e60f490c/Shutterstock-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/TKKVGnBmf2OMZYVajKqhr/52063feb984e4c9f4fec4c89e60f490c/Shutterstock-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7FyJaH9Sw6pgFE9Cz2THPP/3db5d81d200fe4f4e0f56df7a15df7a7/Statsig-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7FyJaH9Sw6pgFE9Cz2THPP/3db5d81d200fe4f4e0f56df7a15df7a7/Statsig-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7qxEB5vRm1XLvgAPctRVsF/414605b475141299b48d8d2a3508f710/Zoom-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7qxEB5vRm1XLvgAPctRVsF/414605b475141299b48d8d2a3508f710/Zoom-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/Cc5YnzUz1qG4xoapuaEDh/b5079940cedc27151fe937277c1cd827/PitchBook-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/Cc5YnzUz1qG4xoapuaEDh/b5079940cedc27151fe937277c1cd827/PitchBook-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/rpfNur7jRm4PcqE6KP2kq/102b71a6feb823c2536004cbe5fbda9e/Rox-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/rpfNur7jRm4PcqE6KP2kq/102b71a6feb823c2536004cbe5fbda9e/Rox-icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/J3WgRb8CkUgwhLwQc9SoM/3db2abfe24c3c4243aa5246a16ec307b/Similarweb-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/J3WgRb8CkUgwhLwQc9SoM/3db2abfe24c3c4243aa5246a16ec307b/Similarweb-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4wh0eK535qKyCPNItikyJy/e9922e1c398d42950db3a489bfd8aacd/Third_Bridge-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4wh0eK535qKyCPNItikyJy/e9922e1c398d42950db3a489bfd8aacd/Third_Bridge-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5GaQjl3CPOkkDWHfA9HwMf/cc6fd5a48f2596d1d5a4b38569ae27f2/ZoomInfo-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/5GaQjl3CPOkkDWHfA9HwMf/cc6fd5a48f2596d1d5a4b38569ae27f2/ZoomInfo-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/Cc5YnzUz1qG4xoapuaEDh/b5079940cedc27151fe937277c1cd827/PitchBook-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/Cc5YnzUz1qG4xoapuaEDh/b5079940cedc27151fe937277c1cd827/PitchBook-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/rpfNur7jRm4PcqE6KP2kq/102b71a6feb823c2536004cbe5fbda9e/Rox-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/rpfNur7jRm4PcqE6KP2kq/102b71a6feb823c2536004cbe5fbda9e/Rox-icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/J3WgRb8CkUgwhLwQc9SoM/3db2abfe24c3c4243aa5246a16ec307b/Similarweb-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/J3WgRb8CkUgwhLwQc9SoM/3db2abfe24c3c4243aa5246a16ec307b/Similarweb-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4wh0eK535qKyCPNItikyJy/e9922e1c398d42950db3a489bfd8aacd/Third_Bridge-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4wh0eK535qKyCPNItikyJy/e9922e1c398d42950db3a489bfd8aacd/Third_Bridge-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5GaQjl3CPOkkDWHfA9HwMf/cc6fd5a48f2596d1d5a4b38569ae27f2/ZoomInfo-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/5GaQjl3CPOkkDWHfA9HwMf/cc6fd5a48f2596d1d5a4b38569ae27f2/ZoomInfo-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/Cc5YnzUz1qG4xoapuaEDh/b5079940cedc27151fe937277c1cd827/PitchBook-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/Cc5YnzUz1qG4xoapuaEDh/b5079940cedc27151fe937277c1cd827/PitchBook-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/rpfNur7jRm4PcqE6KP2kq/102b71a6feb823c2536004cbe5fbda9e/Rox-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/rpfNur7jRm4PcqE6KP2kq/102b71a6feb823c2536004cbe5fbda9e/Rox-icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/J3WgRb8CkUgwhLwQc9SoM/3db2abfe24c3c4243aa5246a16ec307b/Similarweb-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/J3WgRb8CkUgwhLwQc9SoM/3db2abfe24c3c4243aa5246a16ec307b/Similarweb-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4wh0eK535qKyCPNItikyJy/e9922e1c398d42950db3a489bfd8aacd/Third_Bridge-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4wh0eK535qKyCPNItikyJy/e9922e1c398d42950db3a489bfd8aacd/Third_Bridge-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5GaQjl3CPOkkDWHfA9HwMf/cc6fd5a48f2596d1d5a4b38569ae27f2/ZoomInfo-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/5GaQjl3CPOkkDWHfA9HwMf/cc6fd5a48f2596d1d5a4b38569ae27f2/ZoomInfo-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1tEVGmWh4hD2xAw85kY5dB/bd24a2e9c932f7cffc34580ca8f3ffa5/otterrai-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/1tEVGmWh4hD2xAw85kY5dB/bd24a2e9c932f7cffc34580ca8f3ffa5/otterrai-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/76ksqYxVsKQnSZzktpwQ4h/2cbd51ef2fbd9025eaccd98a0c7148d2/Quartr-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/76ksqYxVsKQnSZzktpwQ4h/2cbd51ef2fbd9025eaccd98a0c7148d2/Quartr-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/TKKVGnBmf2OMZYVajKqhr/52063feb984e4c9f4fec4c89e60f490c/Shutterstock-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/TKKVGnBmf2OMZYVajKqhr/52063feb984e4c9f4fec4c89e60f490c/Shutterstock-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4wh0eK535qKyCPNItikyJy/e9922e1c398d42950db3a489bfd8aacd/Third_Bridge-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4wh0eK535qKyCPNItikyJy/e9922e1c398d42950db3a489bfd8aacd/Third_Bridge-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7Kw5FaSXZ6Eq0vYydhLmly/6604c9d8b5706cb62ef17235407a8c24/Outreach-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7Kw5FaSXZ6Eq0vYydhLmly/6604c9d8b5706cb62ef17235407a8c24/Outreach-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/QuDmbhNZUYO3XzNdI2E5H/802978d640e24228f8689c733c6815ca/Replit-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/QuDmbhNZUYO3XzNdI2E5H/802978d640e24228f8689c733c6815ca/Replit-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/J3WgRb8CkUgwhLwQc9SoM/3db2abfe24c3c4243aa5246a16ec307b/Similarweb-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/J3WgRb8CkUgwhLwQc9SoM/3db2abfe24c3c4243aa5246a16ec307b/Similarweb-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4ej1LL242AmYNMh7kWacdu/34b867bc8aaa6b7d476e88e3fb35d49b/ThoughtSpot_icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4ej1LL242AmYNMh7kWacdu/34b867bc8aaa6b7d476e88e3fb35d49b/ThoughtSpot_icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/4x2DXa6aOhXmne41W5j4Ul/48b5243268e0c4cbde428df7cb579efb/picsart-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/4x2DXa6aOhXmne41W5j4Ul/48b5243268e0c4cbde428df7cb579efb/picsart-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/rpfNur7jRm4PcqE6KP2kq/102b71a6feb823c2536004cbe5fbda9e/Rox-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/rpfNur7jRm4PcqE6KP2kq/102b71a6feb823c2536004cbe5fbda9e/Rox-icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1wkofYPal0FOhJShWShLEr/40c51a701d01c8080760ca98bba13b40/slack-icon2.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/1wkofYPal0FOhJShWShLEr/40c51a701d01c8080760ca98bba13b40/slack-icon2.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5PdvUhPCvI3aMIVBV5F6XR/65d38375a5aff056c3e7f586390539b6/Zoho-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/5PdvUhPCvI3aMIVBV5F6XR/65d38375a5aff056c3e7f586390539b6/Zoho-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/Cc5YnzUz1qG4xoapuaEDh/b5079940cedc27151fe937277c1cd827/PitchBook-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/Cc5YnzUz1qG4xoapuaEDh/b5079940cedc27151fe937277c1cd827/PitchBook-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/pZq5UI7yOhnst1FcxXeCv/5326cda021b1f2013b467624f1935f41/SP-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/pZq5UI7yOhnst1FcxXeCv/5326cda021b1f2013b467624f1935f41/SP-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2azpQpnXbwNzCOfhr3NnfZ/7b53a00c5b70b64de63ec9df7e1acf3c/Snowflake-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/2azpQpnXbwNzCOfhr3NnfZ/7b53a00c5b70b64de63ec9df7e1acf3c/Snowflake-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7qxEB5vRm1XLvgAPctRVsF/414605b475141299b48d8d2a3508f710/Zoom-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7qxEB5vRm1XLvgAPctRVsF/414605b475141299b48d8d2a3508f710/Zoom-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6iQe2R4MaeRvXUe84FZSvM/da4f8f0fa610646e225208dfe7af76d9/PostHog-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/6iQe2R4MaeRvXUe84FZSvM/da4f8f0fa610646e225208dfe7af76d9/PostHog-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1Rme9yow16GkM6J5o6Li6m/ab8f8f5a058fda75333b36360661b105/Salesforce-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/1Rme9yow16GkM6J5o6Li6m/ab8f8f5a058fda75333b36360661b105/Salesforce-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7FyJaH9Sw6pgFE9Cz2THPP/3db5d81d200fe4f4e0f56df7a15df7a7/Statsig-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/7FyJaH9Sw6pgFE9Cz2THPP/3db5d81d200fe4f4e0f56df7a15df7a7/Statsig-icon.png)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5GaQjl3CPOkkDWHfA9HwMf/cc6fd5a48f2596d1d5a4b38569ae27f2/ZoomInfo-icon.png?w=3840&q=90&fm=webp)
+![](https://images.ctfassets.net/kftzwdyauwt9/5GaQjl3CPOkkDWHfA9HwMf/cc6fd5a48f2596d1d5a4b38569ae27f2/ZoomInfo-icon.png)
 
 ## 
 
@@ -618,17 +618,15 @@ OpenAI
 
 [View all](</news/>)
 
-![Better prompt caching for GPT-6 — Card image](https://images.ctfassets.net/kftzwdyauwt9/72ZKzMh8JgRDfdg4EYRtwY/ee5e406a08b69f00b0beb4ac00270364/7kneoqlc2qh37z1utkmtfk-cover-v1.png?w=3840&q=90&fm=webp)
+![Rosalind Academic Plan - Card](https://images.ctfassets.net/kftzwdyauwt9/7EaxSuBblXvd3Y6G2WLoET/4563ce56737d9c0ed1f05358f43c8a7d/rosalind-academic-plan-card.png?w=3840&q=90&fm=webp)
 
-[Better prompt caching for GPT-6ProductSep 22, 2026](</index/better-prompt-caching-for-gpt-6/>)
+[Introducing the Rosalind Academic PlanResearchOct 15, 2026](</index/introducing-the-rosalind-academic-plan/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![Helping teens learn, plan, and shape the future of AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/3Gg3FDcLbArW4ZsVN8Ry5m/2dcb5d7f34f6cdedec3c6a3e6df83871/teens-learn-and-plan-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
+[Helping teens learn, plan, and shape the future of AIProductOct 7, 2026](</index/teens-learn-and-plan/>)
 
-![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
-
-[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
+[GPT-6 and Intelligent UI for everyoneProductOct 7, 2026](</index/gpt-6-for-everyone/>)
 
 Research
 
@@ -640,10 +638,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -662,7 +660,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -709,6 +708,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

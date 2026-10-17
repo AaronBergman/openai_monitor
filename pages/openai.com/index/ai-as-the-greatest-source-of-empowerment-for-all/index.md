@@ -30,8 +30,6 @@ July 21, 2025
 
 [Company](</news/company-announcements/>)
 
-# 
-
 ![""](https://images.ctfassets.net/kftzwdyauwt9/7CqekFe9SNFLc9GaHmqJdQ/7da0fef5bd8527cc28fab9411d03f0be/oai_Fidji_Simo_Wallpaper.png?w=3840&q=90&fm=webp)
 
 # AI as the  
@@ -150,17 +148,17 @@ Fidji Simo
 
 [View all](</news/>)
 
-![Paul Christiano joins OpenAI Foundation Board — card](https://images.ctfassets.net/kftzwdyauwt9/4PcDbhz75I70TjyGat7oHl/598dd1e865018860c3591cb95c9bc72e/paul-christiano-joins-openai-foundation-board--cover-v001.png?w=3840&q=90&fm=webp)
+![Teaching students to think and learn through questions — Cover](https://images.ctfassets.net/kftzwdyauwt9/AHG23niw4hDTG5blxqb9u/54c7069a05fa9506426269f1a2b76a0f/teaching-students-to-think-and-learn-through-questions-cover.png?w=3840&q=90&fm=webp)
 
-[Paul Christiano joins OpenAI Foundation BoardCompanySep 9, 2026](</index/paul-christiano-joins-openai-foundation-board/>)
+[Teaching students to think and learn through questionsCompanyOct 15, 2026](</index/teaching-students-to-think-and-learn-through-questions/>)
 
-![The Work Now Within Reach — clean cover](https://images.ctfassets.net/kftzwdyauwt9/5iHLTPM4ZhKe4dAwOPfpy2/347b9d804542685bb13dbb63e985d91e/c3f562e2b08a0bfc.png?w=3840&q=90&fm=webp)
+![Atlassian partnership card — official white SVGs on Neutral 088](https://images.ctfassets.net/kftzwdyauwt9/3fWFo3Rbu3ABBh0ctAldTR/1790adae24af280abbb937cd88cb4957/atlassian-card-official.png?w=3840&q=90&fm=webp)
 
-[The Work Now Within ReachCompanySep 8, 2026](</index/the-work-now-within-reach/>)
+[Atlassian and OpenAI expand their partnershipCompanyOct 6, 2026](</index/atlassian-partnership/>)
 
-![Supporting journalism from classrooms to newsrooms — listing card](https://images.ctfassets.net/kftzwdyauwt9/2uvvRNdvFkdWWXNtANgtAF/36e0f8b6a0c35abf88eec71519823409/Option_70___1080_1080.png?w=3840&q=90&fm=webp)
+![Albertsons | How Albertsons Companies is reimagining retail from the inside out | Cover](https://images.ctfassets.net/kftzwdyauwt9/1NIa0MXiVT1HpZdWR3jggG/1862b5773b745c19f38fe20e6b21fb61/how-albertsons-companies-is-reimagining-retail-from-the-inside-out-cover.png?w=3840&q=90&fm=webp)
 
-[Supporting journalism from classrooms to newsroomsCompanySep 8, 2026](</index/supporting-journalism-from-classrooms-to-newsrooms/>)
+[How Albertsons Companies is reimagining retail from the inside outCompanyOct 1, 2026](</index/albertsons-reimagining-retail/>)
 
 Research
 
@@ -172,10 +170,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -194,7 +192,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -212,6 +211,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -240,6 +240,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

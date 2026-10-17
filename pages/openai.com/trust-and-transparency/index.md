@@ -34,20 +34,20 @@ Your trust is important to us, and we are dedicated to being transparent about g
 
 We carefully evaluate all requests seeking user data to protect privacy and safety and to ensure compliance with applicable law. 
 
-224
+620
 
 Non-Content Requests  
-July–December 2025
+January–June 2026
 
-75
+146
 
 Content Requests  
-July–December 2025
+January–June 2026
 
-10
+28
 
 Emergency Requests  
-July–December 2025
+January–June 2026
 
 ##### Government agencies can submit legal process via the Kodex portal
 
@@ -55,31 +55,33 @@ July–December 2025
 
 #### Reports
 
-### [January–June 2023 · Government Requests for User DataDownload](<https://cdn.openai.com/trust-and-transparency/report-2023h1-government-requests-for-user-data.pdf>)
+### [January–June 2023 · Government Requests for User DataDownload(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/report-2023h1-government-requests-for-user-data.pdf>)
 
-### [July–December 2023 · Government Requests for User DataDownload](<https://cdn.openai.com/trust-and-transparency/report-2023h2-government-requests-for-user-data.pdf>)
+### [July–December 2023 · Government Requests for User DataDownload(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/report-2023h2-government-requests-for-user-data.pdf>)
 
-### [January–June 2024 · Government Requests for User DataDownload](<https://cdn.openai.com/trust-and-transparency/report-2024h1-government-requests-for-user-data.pdf>)
+### [January–June 2024 · Government Requests for User DataDownload(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/report-2024h1-government-requests-for-user-data.pdf>)
 
-### [July–December 2024 · Government Requests for User DataDownload](<https://cdn.openai.com/trust-and-transparency/report-2024h2-government-requests-for-user-data.pdf>)
+### [July–December 2024 · Government Requests for User DataDownload(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/report-2024h2-government-requests-for-user-data.pdf>)
 
-### [January–June 2025 · Government Requests for User DataDownload](<https://cdn.openai.com/trust-and-transparency/report-2025h1-government-requests-for-user-data.pdf>)
+### [January–June 2025 · Government Requests for User DataDownload(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/report-2025h1-government-requests-for-user-data.pdf>)
 
-### [July–December 2025 · Government Requests for User DataDownload](<https://cdn.openai.com/trust-and-transparency/report-2025h2-government-requests-for-user-data.pdf>)
+### [July–December 2025 · Government Requests for User DataDownload(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/report-2025h2-government-requests-for-user-data.pdf>)
+
+### [January–June 2026 · Government Requests for User DataDownload(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/report-2026h1-government-requests-for-user-data.pdf>)
 
 ## Child safety
 
 OpenAI is committed to combating child exploitation through prevention, detection and reporting.
 
-107,817
+126,597
 
 CyberTipline Reports to NCMEC  
-July–December 2025
+January–June 2026
 
-107,667
+126,226
 
 Total pieces of content reported to NCMEC  
-July–December 2025
+January–June 2026
 
   
 
@@ -88,17 +90,25 @@ July–December 2025
 
 #### Reports
 
-### [January–June 2023 · Child Safety ReportingDownload](<https://cdn.openai.com/trust-and-transparency/report-2023h1-child-safety.pdf>)
+### [January–June 2023 · Child Safety ReportingDownload(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/report-2023h1-child-safety.pdf>)
 
-### [July–December 2023 · Child Safety ReportingDownload](<https://cdn.openai.com/trust-and-transparency/report-2023h2-child-safety.pdf>)
+### [July–December 2023 · Child Safety ReportingDownload(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/report-2023h2-child-safety.pdf>)
 
-### [January–June 2024 · Child Safety ReportingDownload](<https://cdn.openai.com/trust-and-transparency/report-2024h1-child-safety.pdf>)
+### [January–June 2024 · Child Safety ReportingDownload(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/report-2024h1-child-safety.pdf>)
 
-### [July–December 2024 · Child Safety ReportingDownload](<https://cdn.openai.com/trust-and-transparency/report-2024h2-child-safety.pdf>)
+### [July–December 2024 · Child Safety ReportingDownload(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/report-2024h2-child-safety.pdf>)
 
-### [January–June 2025 · Child Safety ReportingDownload](<https://cdn.openai.com/trust-and-transparency/2025-h1-child-safety.pdf>)
+### [January–June 2025 · Child Safety ReportingDownload(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/2025-h1-child-safety.pdf>)
 
-### [July–December 2025 · Child Safety ReportingDownload](<https://cdn.openai.com/trust-and-transparency/report-2025h2-child-safety.pdf>)
+### [July–December 2025 · Child Safety ReportingDownload(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/report-2025h2-child-safety.pdf>)
+
+### [January–June 2026 · Child Safety ReportingDownload(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/report-2026h1-child-safety.pdf>)
+
+## US Regulation
+
+### SB53
+
+### [Periodic Summary of Internal Use Catastrophic-Risk AssessmentsDownload(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/oai_internal-use-catastrophic-risk-assessments_2026_2.pdf>)
 
 ## EU Digital Services Act (DSA)
 
@@ -106,23 +116,23 @@ Reporting and other resources.
 
 #### 2025 DSA Transparency Report
 
-### [European Union Digital Services Act (EU DSA) Transparency Report Cover LetterDownload](<https://cdn.openai.com/trust-and-transparency/2025-openai-ireland-limited-dsa-transparency-report-cover-letter.pdf>)
+### [European Union Digital Services Act (EU DSA) Transparency Report Cover LetterDownload(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/2025-openai-ireland-limited-dsa-transparency-report-cover-letter.pdf>)
 
-### [EU DSA Transparency ReportDownload](<https://cdn.openai.com/trust-and-transparency/2025-openai-ireland-limited-eu-dsa-transparency-report.zip>)
+### [EU DSA Transparency ReportDownload(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/2025-openai-ireland-limited-eu-dsa-transparency-report.zip>)
 
 #### 2024 DSA Transparency Report
 
-### [Report identificationDownload](<https://cdn.openai.com/trust-and-transparency/dsa-2024-identification.csv>)
+### [Report identificationDownload(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/dsa-2024-identification.csv>)
 
-### [Notices under Article 16Download](<https://cdn.openai.com/trust-and-transparency/dsa-2024-notices.csv>)
+### [Notices under Article 16Download(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/dsa-2024-notices.csv>)
 
-### [Own initiativesDownload](<https://cdn.openai.com/trust-and-transparency/dsa-2024-initiative.csv>)
+### [Own initiativesDownload(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/dsa-2024-initiative.csv>)
 
-### [Qualitative informationDownload](<https://cdn.openai.com/trust-and-transparency/dsa-2024-qualitative.pdf>)
+### [Qualitative informationDownload(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/dsa-2024-qualitative.pdf>)
 
 ##### Resources
 
-  * [DSA Points of contact](<https://help.openai.com/en/articles/8959649-eu-digital-services-act-dsa>)
+  * [DSA Points of contact(opens in a new window)](<https://help.openai.com/en/articles/8959649-eu-digital-services-act-dsa>)
   * [Report content](</form/report-content/>)
 
 
@@ -131,9 +141,9 @@ Reporting and other resources.
 
 #### Election Compliance Plan
 
-### [Election Compliance Plan in connection with TSE Ordinance No. 463/2026 and TSE Resolution No. 23,610/2019 (Portuguese)Download](<https://cdn.openai.com/trust-and-transparency/plano-de-conformidade-oai-16-de-agosto-de-2026.pdf>)
+### [Election Compliance Plan in connection with TSE Ordinance No. 463/2026 and TSE Resolution No. 23,610/2019 (Portuguese)Download(opens in a new window)](<https://cdn.openai.com/trust-and-transparency/plano-de-conformidade-oai-16-de-agosto-de-2026.pdf>)
 
-### [ECA Digital Transparency Report OpenAI OpCo, LLC Brazil ECA Digital Transparency Report H1-2026 (Portuguese)Download](<https://cdn.openai.com/pdf/estatuto-digital-da-crianca-e-do-adolescente-eca-digital-relatorio-de-transparencia-2026.pdf>)
+### [ECA Digital Transparency Report OpenAI OpCo, LLC Brazil ECA Digital Transparency Report H1-2026 (Portuguese)Download(opens in a new window)](<https://cdn.openai.com/pdf/estatuto-digital-da-crianca-e-do-adolescente-eca-digital-relatorio-de-transparencia-2026.pdf>)
 
 ### Trust & transparency resources
 
@@ -141,11 +151,11 @@ Additional trust and transparency resources.
 
 ### [Transparency & content moderationOur approach to content moderation and enforcement, and how content is presented in Sora and ChatGPT search.Learn more](<https://openai.com/transparency-and-content-moderation/>)
 
-### [How to get support FAQLearn how to get in touch with our support teamLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [How to get support FAQLearn how to get in touch with our support teamLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
-### [GPT AppealsHow to appeal or republish if your GPT gets restrictedLearn more](<https://help.openai.com/en/articles/8884073-how-to-appeal-a-gpt-restricted-from-sharing%3F.class>)
+### [GPT AppealsHow to appeal or republish if your GPT gets restrictedLearn more(opens in a new window)](<https://help.openai.com/en/articles/8884073-how-to-appeal-a-gpt-restricted-from-sharing%3F.class>)
 
-### [Enterprise Trust PortalExplore our commitment to data security, privacy, and compliance for enterprise customers including. Access to documentation, FAQs, and our robust security practicesLearn more](<https://trust.openai.com/>)
+### [Enterprise Trust PortalExplore our commitment to data security, privacy, and compliance for enterprise customers including. Access to documentation, FAQs, and our robust security practicesLearn more(opens in a new window)](<https://trust.openai.com/>)
 
 Research
 
@@ -157,10 +167,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -179,7 +189,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -197,6 +208,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -225,6 +237,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

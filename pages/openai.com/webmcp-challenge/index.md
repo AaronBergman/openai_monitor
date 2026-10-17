@@ -26,60 +26,81 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-![Abstract dark green gradient background for the WebMCP Challenge countdown.](https://images.ctfassets.net/kftzwdyauwt9/3OglWqPw1u45lKx8YA99cx/51e5efa01ba821cf3bc41184c4b63c16/dark-green.png?w=3840&q=90&fm=webp)
+# The WebMCP Challenge
 
-## The WebMCP Challenge
+Meet the winning teams exploring what’s possible when people and agents use the web together.
 
-10 days for exploring what’s possible with WebMCP.
-
-[Submissions closed(opens in a new window)](<https://webmcp.devpost.com>)[Download Codex](</codex/>)
-
-00:00:00:00
+[Explore the projects(opens in a new window)](<https://webmcp.devpost.com/project-gallery>)
 
 ## Make the web work with agents
 
 [WebMCP ↗⁠(opens in a new window)](<https://github.com/webmachinelearning/webmcp>) is an experimental open standard that lets websites expose structured tools agents can use directly. Instead of leaving agents to guess their way through your UI, you define exactly how they can use your app, so they complete tasks faster, more accurately, and more reliably.
 
-The WebMCP Challenge invites you to build something we haven’t seen before: an app that becomes meaningfully better when people and their agents can use it together.
+The WebMCP Challenge invited builders to create apps that become meaningfully better when people and their agents can use them together.
 
 Supported by
 
-## Prizes
+## Winning teams
 
-The top 10 submissions will each receive:
+![MASIL lettering beside calligraphy tools.](https://images.ctfassets.net/kftzwdyauwt9/1hBEiNvA67NcTrbuucNzIi/bc82a6dec25c4c21eeb346e0682f8d91/medium.png?w=3840&q=90&fm=webp)
 
-  * $3,000 in cash from OpenAI
-  * One year of ChatGPT Pro
-  * A Codex Micro keyboard
-  * OpenAI swag
-  * Additional prizes from Shopify, Google Chrome, Netlify, Cloudflare, Vercel, and Render
+### [MASIL⁠(opens in a new window)](<https://devpost.com/software/masil-reconnecting-korean-elders-to-creative-life>)
 
+A creative space that helps Korean elders practice calligraphy and play Janggi with an agent through voice and direct interaction.
 
+![Alza interface showing a furnished three-dimensional floor plan.](https://images.ctfassets.net/kftzwdyauwt9/3TD6TZ0ZD1FcfyPreLDcbR/a2efaead02142c673b429a9254fd03bf/a4734156b4cbafa6.jpg?w=3840&q=90&fm=webp)
 
-  * [Learn more(opens in a new window)](<https://webmcp.devpost.com>)
+### [Alza⁠(opens in a new window)](<https://devpost.com/software/alza>)
 
+A floor-plan editor where people and agents draw, check, and furnish a shared 2D plan, then explore it in 3D.
 
+![ArchMorph architectural floor plan and three-dimensional building model.](https://images.ctfassets.net/kftzwdyauwt9/1XNPe3UzRlkuz3v96LZkkC/fd9b785fe1c46e850e879a33c7a21152/80ba5ad38d1bc1dd.png?w=3840&q=90&fm=webp)
 
-![Codex Micro device awarded to top WebMCP Challenge submissions.](https://images.ctfassets.net/kftzwdyauwt9/1TCjncbiLgrn7E6GN3mw93/50802568484aa6d1c875e24765c06066/webmcp-challenge-codex-micro-019fcdc2.png?w=3840&q=90&fm=webp)
+### [ArchMorph⁠(opens in a new window)](<https://devpost.com/software/archmorph>)
 
-## Key dates
+A browser-based architecture studio where people and agents design and inspect a home together through floor plans, 3D views, and walk-throughs.
 
-August 25 at 12 p.m. PT| Registration and submissions open  
----|---  
-September 4 at 1 a.m. PT| Submission deadline  
-September 23*| Winners announced  
-  
-*The winner announcement date may change depending on the volume of submissions.
+![Aisle project title with a gold floral emblem.](https://images.ctfassets.net/kftzwdyauwt9/7CeAtCxJaCldra7g2RqUZJ/c6ab5ec1a8dee80100f8f8ad182c3910/59d90d2e047d2d75.png?w=3840&q=90&fm=webp)
 
-## Live sessions
+### [Aisle⁠(opens in a new window)](<https://devpost.com/software/aisle-ai-wedding-seating>)
 
-#### Opening livestream
+A shared wedding seating canvas where people and agents arrange guests, check seating constraints, and resolve conflicts.
 
-[August 25 at 3 p.m. PT ↗⁠(opens in a new window)](<https://x.com/i/broadcasts/1qGoNYbWdkvKv>)
+![Roque Nights title over a star-filled night sky.](https://images.ctfassets.net/kftzwdyauwt9/6ZkUovlNOBCo72QpOAtTVd/0096700eb572cd308a6ada635ee796bf/e3d1c6e9149c3539.png?w=3840&q=90&fm=webp)
 
-#### Office hours
+### [Roque Nights⁠(opens in a new window)](<https://devpost.com/software/roque-nights-plan-the-sky-with-your-agent>)
 
-[August 31 at 11 a.m. PT ↗⁠(opens in a new window)](<https://discord.com/channels/974519864045756446/1517482456964534312>)
+A night-sky planner where people and agents choose observing windows and targets, then review a shared plan on an interactive timeline.
+
+![Mandate permission interface with temporary authorization details.](https://images.ctfassets.net/kftzwdyauwt9/75gbwM9hoRQHAimQx27VuG/304efaaf5b053dd2c6169517d76a7736/4ac0be338036df53.png?w=3840&q=90&fm=webp)
+
+### [Mandate⁠(opens in a new window)](<https://devpost.com/software/mandate-ix29ek>)
+
+A delegation layer that lets people give agents temporary access to selected records and fields, review staged changes, and revoke access.
+
+![Observatory fantasy map canvas showing a ruined stone tower in a forest clearing.](https://images.ctfassets.net/kftzwdyauwt9/6uZb5h9f6yPCimCg2h20de/6a26401e5a9fc2c1d4cf8395d375d7f7/observatory-video-frame.jpg?w=3840&q=90&fm=webp)
+
+### [Observatory⁠(opens in a new window)](<https://devpost.com/software/observatory-vtphg9>)
+
+A shared fantasy map editor where people and agents build terrain, rooms, and objects on an editable canvas.
+
+![Bouquet Studio title beside a wrapped bouquet of pale flowers.](https://images.ctfassets.net/kftzwdyauwt9/4x7T9mUaUy9LOjjdRshvgl/5c69ab83a14a4dee65fab8b2b19d96a3/ee8f3ab87d71183c.png?w=3840&q=90&fm=webp)
+
+### [Bouquet Studio⁠(opens in a new window)](<https://devpost.com/software/bouquet-studio>)
+
+A shared bouquet editor that turns a person’s occasion, mood, and budget into flower arrangements they can see and refine with an agent.
+
+![Faraday research viewer displaying brain scan slices.](https://images.ctfassets.net/kftzwdyauwt9/6ekSVdKOZ2szzDaxLF6MUA/b284bf35047ec29483aeb67ff4f60d0f/3d83dde53a541fb0.jpg?w=3840&q=90&fm=webp)
+
+### [Faraday⁠(opens in a new window)](<https://devpost.com/software/faraday-3n1zdh>)
+
+A browser-based CT and MRI viewer that lets agents navigate volumes and work with measurements while scans stay local. For research and education only, not diagnosis.
+
+![JupyterLite notebook interface with the words The agent edits. You see every change.](https://images.ctfassets.net/kftzwdyauwt9/PcSJps4rRk9Ggx9kfdG5g/1cafadcf6080f17cfd4c714f71300cbf/865eab559d0878b9.png?w=3840&q=90&fm=webp)
+
+### [JupyterLite WebMCP⁠(opens in a new window)](<https://devpost.com/software/jupyterlite-webmcp>)
+
+A JupyterLite extension that lets agents work with live notebook cells, selections, and the browser’s shared Python kernel, with inline review of proposed edits.
 
 ## What will you build with WebMCP?
 
@@ -129,13 +150,11 @@ VP of Applied AI, Netlify
 
 Browser Agent Lead, OpenAI
 
-## FAQ
-
 ## Build with WebMCP
 
-Show us what’s possible when people and agents can use the web together.
+Explore what’s possible when people and agents can use the web together.
 
-[Submissions closed(opens in a new window)](<https://webmcp.devpost.com>)
+[Explore the projects(opens in a new window)](<https://webmcp.devpost.com/project-gallery>)
 
 Research
 
@@ -147,10 +166,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -169,7 +188,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -187,6 +207,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -215,6 +236,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -282,35 +304,3 @@ Turn your travel notes into an itinerary with your agent, then leave comments to
 Query and combine data with your agent using DuckDB-Wasm, then create custom visualizations in your browser.
 
 [Analyze data ↗⁠(opens in a new window)](<https://duckboard-webmcp.alexmnahas.workers.dev/>)
-
-### Who can participate?
-
-Developers, founders, designers, startups, and independent builders are invited to participate. Full eligibility requirements can be found on the [Devpost challenge page ↗⁠(opens in a new window)](<https://webmcp.devpost.com>).
-
-### How do I register?
-
-Submissions are now closed. You can find the official rules, submission requirements, and important dates on the [Devpost challenge page ↗⁠(opens in a new window)](<https://webmcp.devpost.com>).
-
-### Do I have to build a new app?
-
-No. New apps are encouraged, but you can also add WebMCP support to an existing app.
-
-### How can I test my WebMCP app?
-
-Test your app in ChatGPT’s in-app browser, which supports WebMCP out of the box, or Google Chrome with WebMCP enabled through its experimental flag or origin trial.
-
-### How do I submit a project?
-
-Submissions are now closed. Visit the [Devpost challenge page ↗⁠(opens in a new window)](<https://webmcp.devpost.com>) for challenge details.
-
-### How will submissions be judged?
-
-Projects will be evaluated on usefulness, originality, execution, thoughtful use of WebMCP, and the quality of the human-agent experience.
-
-### What can I win?
-
-The top 10 submissions will receive a range of prizes from OpenAI and hackathon supporters. View the [Devpost challenge page ↗⁠(opens in a new window)](<https://webmcp.devpost.com>) for more details.
-
-### Where can I get help?
-
-Join our [Discord community ↗⁠(opens in a new window)](<https://discord.com/channels/974519864045756446/1517482456964534312>) to ask questions, connect with other participants, and get support throughout the event. You can also watch livestreams and community events during the WebMCP Challenge.

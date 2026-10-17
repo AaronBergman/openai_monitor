@@ -103,7 +103,7 @@ Review model assumptions, inspect formulas, organize supporting inputs, and prep
 
 Review this financial model and source materials. Update assumptions, check formulas, summarize key drivers, and create a leadership-ready view with takeaways and risks.
 
-[Try in ChatGPT(opens in a new window)](<https://chatgpt.com/?surface=work&q=Review+this+financial+model+and+source+materials.+Update+assumptions%2C+check+formulas%2C+summarize+key+drivers%2C+and+create+a+leadership-ready+view+with+takeaways+and+risks.>)
+[Try in ChatGPT(opens in a new window)](<https://chatgpt.com/?prompt=Review%20this%20financial%20model%20and%20source%20materials.%20Update%20assumptions%2C%20check%20formulas%2C%20summarize%20key%20drivers%2C%20and%20create%20a%20leadership-ready%20view%20with%20takeaways%20and%20risks.&surface=work>)
 
 ## AI for every finance function
 
@@ -186,6 +186,16 @@ Whether you're introducing AI or scaling it across finance, ChatGPT Work helps t
 
 Get started
 
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
+
 Research
 
   * [Research Index](</research/index/>)
@@ -196,10 +206,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -218,7 +228,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -265,6 +276,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

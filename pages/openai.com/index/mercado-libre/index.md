@@ -61,10 +61,15 @@ The company has successfully implemented AI solutions to maintain their competit
 For years, Mercado Libre has used AI to streamline processes and enhance user experiences. They use OpenAI’s API to:
 
   * **Improve inventory capacity:** GPT‑4 Vision tags and completes product listings, enabling Mercado to catalog**** 100x more products than before in a span of two years.
+
   * **Detect fraud:** GPT‑4 evaluates data on millions of product listings each day, improving fraud detection accuracy to nearly 99% for flagged items.
+
   * **Customize product descriptions:** Mercado uses GPT‑3.5 and 4 to translate product titles and descriptions, adapting to nuanced Spanish and Portuguese dialects.
+
   * **Increase orders:** Automated review summaries, powered by GPT‑4o mini, help users quickly grasp product feedback, which increases orders where the feature is available.
+
   * **Personalize notifications** : Tailored push notifications drive higher engagement by recommending products based on individual preferences.
+
 
 
 
@@ -139,9 +144,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -160,7 +166,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -178,6 +185,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -206,6 +214,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

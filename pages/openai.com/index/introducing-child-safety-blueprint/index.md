@@ -77,17 +77,17 @@ OpenAI
 
 [View all](</news/>)
 
-![OpenAI letter to Governor Abbott — card image](https://images.ctfassets.net/kftzwdyauwt9/58lvLf4ld7rZS9mIIvma9y/be162b8bd2d1ab08c95d666d9a161b04/Frame__18_.png?w=3840&q=90&fm=webp)
+![The EU’s next chapter in AI is agentic — Cover](https://images.ctfassets.net/kftzwdyauwt9/1KGRRdbE0ggm4hqHd64ywl/f55ce61c0c7e3097ed6ed3744248c343/the-eus-next-chapter-in-ai-is-agentic-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI’s letter on responsible AI infrastructure in TexasGlobal AffairsAug 10, 2026](</index/responsible-ai-infrastructure-texas/>)
+[Europe’s opportunity to deepen AI useGlobal AffairsOct 14, 2026](</index/the-eus-next-chapter-in-ai-is-agentic/>)
 
-![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
+![Disrupting AI-enabled “false front” operations — cover](https://images.ctfassets.net/kftzwdyauwt9/DQdWPLtWbsq27D3JQPXZR/866ddf9dbac46c29308afa0f381bc17d/false-front-operations-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding Daybreak as the Cyber Defense Window NarrowsSecurityAug 10, 2026](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
+[Disrupting AI-enabled “false front” operationsSafetyOct 8, 2026](</index/disrupting-ai-enabled-false-front-operations/>)
 
-![Advancing responsible AI across Europe — card](https://images.ctfassets.net/kftzwdyauwt9/1ZPK8n0N6mvnSq50i6b1zZ/9229a595a2f8fea9d0189ce9aa2f634b/card.png?w=3840&q=90&fm=webp)
+![Our approach to EU provenance rules ](https://images.ctfassets.net/kftzwdyauwt9/uKx7OoL1QHDbl0T3GSTZG/0dd587131d067b16e32a9d0196d1ff52/our-approach-to-eu-provenance-rules-cover.png?w=3840&q=90&fm=webp)
 
-[Advancing responsible AI across EuropeGlobal AffairsJul 31, 2026](</index/advancing-responsible-ai-across-europe/>)
+[Our approach to EU text provenance rulesSafetyOct 5, 2026](</index/eu-text-provenance/>)
 
 Research
 
@@ -99,9 +99,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -120,7 +121,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -138,6 +140,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -166,6 +169,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
