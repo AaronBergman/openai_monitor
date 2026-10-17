@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.wix.com>)
 
-[![](https://files.openai.com/content?id=file_000000000eb47208a148e48aae716c7b&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=61dc670eea5127013647920e57ad0b5513740878b4a240cbc9fc11ed7e0de837&v=0)Wix Build a minimalist editorial blog website for my homeware brand.(opens in a new window)](<https://chatgpt.com/?prompt=%40Wix+Build+a+minimalist+editorial+blog+website+for+my+homeware+brand.>)
+[![](https://files.openai.com/content?id=file_00000000b26482109e50b40dbd75f8ac&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=9ec699eb4fbcdcf07a6daa772ebdde8f9c284fe1015d1aa41bb655bd27379988&v=0)Wix Build a minimalist editorial blog website for my homeware brand.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc?install&prompt=Build%20a%20minimalist%20editorial%20blog%20website%20for%20my%20homeware%20brand.>)
 
 ## How it works
 
@@ -55,21 +55,21 @@ Build your entire site and buy a domain right from the chat. Just ask Wix for th
 
   * ### Build a commerce site
 
-![](https://files.openai.com/content?id=file_000000000eb47208a148e48aae716c7b&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=61dc670eea5127013647920e57ad0b5513740878b4a240cbc9fc11ed7e0de837&v=0)Wix Create a fresh matcha site with an online store and booking tools.
+![](https://files.openai.com/content?id=file_00000000b26482109e50b40dbd75f8ac&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=9ec699eb4fbcdcf07a6daa772ebdde8f9c284fe1015d1aa41bb655bd27379988&v=0)Wix Create a fresh matcha site with an online store and booking tools.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Wix+Create+a+fresh+matcha+site+with+an+online+store+and+booking+tools.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc?install&prompt=Create%20a%20fresh%20matcha%20site%20with%20an%20online%20store%20and%20booking%20tools.&surface=work>)
 
   * ### Create an editorial site
 
-![](https://files.openai.com/content?id=file_000000000eb47208a148e48aae716c7b&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=61dc670eea5127013647920e57ad0b5513740878b4a240cbc9fc11ed7e0de837&v=0)Wix Build a minimalist editorial blog website for my homeware brand.
+![](https://files.openai.com/content?id=file_00000000b26482109e50b40dbd75f8ac&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=9ec699eb4fbcdcf07a6daa772ebdde8f9c284fe1015d1aa41bb655bd27379988&v=0)Wix Build a minimalist editorial blog website for my homeware brand.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Wix+Build+a+minimalist+editorial+blog+website+for+my+homeware+brand.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc?install&prompt=Build%20a%20minimalist%20editorial%20blog%20website%20for%20my%20homeware%20brand.&surface=work>)
 
   * ### Launch a running community
 
-![](https://files.openai.com/content?id=file_000000000eb47208a148e48aae716c7b&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=61dc670eea5127013647920e57ad0b5513740878b4a240cbc9fc11ed7e0de837&v=0)Wix Create a high-contrast running site with bookings and subscriptions.
+![](https://files.openai.com/content?id=file_00000000b26482109e50b40dbd75f8ac&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=9ec699eb4fbcdcf07a6daa772ebdde8f9c284fe1015d1aa41bb655bd27379988&v=0)Wix Create a high-contrast running site with bookings and subscriptions.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Wix+Create+a+high-contrast+running+site+with+bookings+and+subscriptions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6947eaa4edd081919561e4ee3a2e5dcc?install&prompt=Create%20a%20high-contrast%20running%20site%20with%20bookings%20and%20subscriptions.&surface=work>)
 
 
 
@@ -84,20 +84,22 @@ Build your entire site and buy a domain right from the chat. Just ask Wix for th
 
 ### Skills
 
-  * Wix App Builder
-  * Wix Design System
-  * Wix Headless
-  * Wix Manage
+  * wix-app
+  * wix-design-system
+  * wix-docs
+  * wix-headless-kit
+  * wix-headless-templates
+  * wix-manage
 
 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://support.wix.com/en/>)
+### [Plugin supportLearn more(opens in a new window)](<https://support.wix.com/en/>)
 
-### [Privacy policyLearn more](<https://www.wix.com/about/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.wix.com/about/privacy>)
 
 ## Add the Wix plugin in a few clicks
 
@@ -107,13 +109,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)SemrushAsk about site metrics and traffic data.](</business/plugins/semrush/>)[![](https://files.openai.com/content?id=file_00000000973c720c9d9b1fabee04c427&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=c11b3c8f43500e73dd0db9849b6ea13396b3dfef8f719d0c68eba87508d51fb6&v=0)![](https://files.openai.com/content?id=file_00000000d72881f7b7d15cc4fb008b3e&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=358cbc93092922858a3ae7e058c6131029faf209cdb642542d00f385d412c04a&v=0)SpaceshipSearch domain availability.](</business/plugins/spaceship/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)SemrushResearch keywords & traffic](</business/plugins/semrush/>)[![](https://files.openai.com/content?id=file_00000000973c720c9d9b1fabee04c427&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=c11b3c8f43500e73dd0db9849b6ea13396b3dfef8f719d0c68eba87508d51fb6&v=0)![](https://files.openai.com/content?id=file_00000000d72881f7b7d15cc4fb008b3e&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=358cbc93092922858a3ae7e058c6131029faf209cdb642542d00f385d412c04a&v=0)SpaceshipSearch domain availability](</business/plugins/spaceship/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -125,10 +137,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -147,7 +159,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -194,6 +207,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

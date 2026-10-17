@@ -34,6 +34,16 @@ January 31, 2025
 
 Pushing the frontier of cost-effective reasoning.
 
+## This post introduced OpenAI o3-mini.
+
+The ChatGPT access information reflects the January 2025 launch. o3‑mini is deprecated in the API. See the [API deprecation schedule⁠(opens in a new window)](<https://developers.openai.com/api/docs/deprecations>).
+
+For the current experience:
+
+[View current API models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
 Loading…
 
 Fast, powerful, and optimized for STEM reasoning
@@ -198,9 +208,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -219,7 +230,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -237,6 +249,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -265,6 +278,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

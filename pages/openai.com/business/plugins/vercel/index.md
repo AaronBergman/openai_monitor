@@ -32,12 +32,12 @@ OpenAI
 
 # Vercel
 
-Search docs and deploy apps.
+Search docs and deploy apps
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690a90ec05c881918afb6a55dc9bbaa1>)[Contact sales](</contact-sales/>)
 
 Capabilities
-    Interactive, Write
+    Write
 
 Category
     [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://vercel.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000e96c722f90c74485f78831eb&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=91892ac5549f1ba8e26b47472f8ac24137e18914a9f206d40df1e78354ee2378&v=0)Vercel Audit this repo for Vercel deployment risks(opens in a new window)](<https://chatgpt.com/?prompt=%40Vercel+Audit+this+repo+for+Vercel+deployment+risks>)
+[![](https://files.openai.com/content?id=file_00000000f85081fdbf1402fd6d46998c&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=f4a97031cd13e1af6211460d761f66805eb2b87be0af097bbe140e72cf5970ae&v=0)Vercel Audit this repo for Vercel deployment risks(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690a90ec05c881918afb6a55dc9bbaa1?install&prompt=Audit%20this%20repo%20for%20Vercel%20deployment%20risks>)
 
 ## How it works
 
@@ -58,21 +58,21 @@ Use natural language to inspect projects and deployments, and review logs within
 
   * ### Accelerate issue diagnosis
 
-![](https://files.openai.com/content?id=file_00000000e96c722f90c74485f78831eb&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=91892ac5549f1ba8e26b47472f8ac24137e18914a9f206d40df1e78354ee2378&v=0)Vercel List all domains for my team and identify which environments they point to including any risky misconfigurations.
+![](https://files.openai.com/content?id=file_00000000f85081fdbf1402fd6d46998c&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=f4a97031cd13e1af6211460d761f66805eb2b87be0af097bbe140e72cf5970ae&v=0)Vercel List all domains for my team and identify which environments they point to including any risky misconfigurations.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Vercel+List+all+domains+for+my+team+and+identify+which+environments+they+point+to+including+any+risky+misconfigurations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690a90ec05c881918afb6a55dc9bbaa1?install&prompt=List%20all%20domains%20for%20my%20team%20and%20identify%20which%20environments%20they%20point%20to%20including%20any%20risky%20misconfigurations.&surface=work>)
 
   * ### Improve deployment visibility
 
-![](https://files.openai.com/content?id=file_00000000e96c722f90c74485f78831eb&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=91892ac5549f1ba8e26b47472f8ac24137e18914a9f206d40df1e78354ee2378&v=0)Vercel What is the status of the latest production deployment for [project] and what changed since the previous deploy.
+![](https://files.openai.com/content?id=file_00000000f85081fdbf1402fd6d46998c&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=f4a97031cd13e1af6211460d761f66805eb2b87be0af097bbe140e72cf5970ae&v=0)Vercel What is the status of the latest production deployment for [project] and what changed since the previous deploy.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Vercel+What+is+the+status+of+the+latest+production+deployment+for+%5Bproject%5D+and+what+changed+since+the+previous+deploy.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690a90ec05c881918afb6a55dc9bbaa1?install&prompt=What%20is%20the%20status%20of%20the%20latest%20production%20deployment%20for%20%5Bproject%5D%20and%20what%20changed%20since%20the%20previous%20deploy.&surface=work>)
 
   * ### Streamline project management
 
-![](https://files.openai.com/content?id=file_00000000e96c722f90c74485f78831eb&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=91892ac5549f1ba8e26b47472f8ac24137e18914a9f206d40df1e78354ee2378&v=0)Vercel List my team's projects with their latest deployment status and domains, and highlight any projects that need attention.
+![](https://files.openai.com/content?id=file_00000000f85081fdbf1402fd6d46998c&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=f4a97031cd13e1af6211460d761f66805eb2b87be0af097bbe140e72cf5970ae&v=0)Vercel List my team's projects with their latest deployment status and domains, and highlight any projects that need attention.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Vercel+List+my+team%27s+projects+with+their+latest+deployment+status+and+domains%2C+and+highlight+any+projects+that+need+attention.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_690a90ec05c881918afb6a55dc9bbaa1?install&prompt=List%20my%20team's%20projects%20with%20their%20latest%20deployment%20status%20and%20domains%2C%20and%20highlight%20any%20projects%20that%20need%20attention.&surface=work>)
 
 
 
@@ -87,25 +87,25 @@ Use natural language to inspect projects and deployments, and review logs within
 
 ### Skills
 
-  * Agent Browser
-  * Agent Browser Verify
-  * AI Elements
+  * Protected Deployments
   * AI Gateway
-  * AI Generation Persistence
   * AI SDK
   * Auth
   * Bootstrap
-  * 46 more
+  * Build Agents
+  * CDN Caching
+  * Chat Sdk
+  * 25 more
 
 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://vercel.com/support>)
+### [Plugin supportLearn more(opens in a new window)](<https://vercel.com/support>)
 
-### [Privacy policyLearn more](<https://vercel.com/legal/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://vercel.com/legal/privacy-policy>)
 
 ## Add the Vercel plugin in a few clicks
 
@@ -115,13 +115,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_00000000204c81f6a7ce2454929734b2&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=22be634719e2dd0882100f485f9f393136907bfa13e6073e6caeff230455d50a&v=0)![](https://files.openai.com/content?id=file_00000000269081f7be2d535408c83d0c&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=e6e3ef926127f51341d02e0b047d2943efa2f141545bd3f83e40ded827f36352&v=0)JamScreen record with context.](</business/plugins/jam-dev/>)[![](https://files.openai.com/content?id=file_00000000dff871fd97ecd3e12034e065&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ba5b5cb9e8613449f77c1752691f4f467846a43b941dc1f29632cf788fd3c426&v=0)![](https://files.openai.com/content?id=file_00000000b5bc71fdb6d8dc0bdc786058&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=416aab41b7a94dcf98fc20d43b8d80a0c807853ab48379f20a984d6f6daa0b1a&v=0)PostHogAnalyze your product data](</business/plugins/posthog/>)[![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)Google FirebaseBuild and manage Firebase apps](</business/plugins/firebase/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_00000000204c81f6a7ce2454929734b2&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=22be634719e2dd0882100f485f9f393136907bfa13e6073e6caeff230455d50a&v=0)![](https://files.openai.com/content?id=file_00000000269081f7be2d535408c83d0c&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=e6e3ef926127f51341d02e0b047d2943efa2f141545bd3f83e40ded827f36352&v=0)JamInvestigate bug reports](</business/plugins/jam-dev/>)[![](https://files.openai.com/content?id=file_00000000dff871fd97ecd3e12034e065&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ba5b5cb9e8613449f77c1752691f4f467846a43b941dc1f29632cf788fd3c426&v=0)![](https://files.openai.com/content?id=file_00000000b5bc71fdb6d8dc0bdc786058&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=416aab41b7a94dcf98fc20d43b8d80a0c807853ab48379f20a984d6f6daa0b1a&v=0)PostHogAnalyze your product data](</business/plugins/posthog/>)[![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)Google FirebaseBuild and manage Firebase apps](</business/plugins/firebase/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -133,10 +143,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -155,7 +165,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -202,6 +213,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

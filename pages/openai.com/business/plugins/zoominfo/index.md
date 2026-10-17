@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.zoominfo.com/>)
 
-[![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)ZoomInfo Give me the top 10 companies in Boston by annual revenue.(opens in a new window)](<https://chatgpt.com/?prompt=%40ZoomInfo+Give+me+the+top+10+companies+in+Boston+by+annual+revenue.>)
+[![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)ZoomInfo Give me the top 10 companies in Boston by annual revenue.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_698a340b9230819188ba5a5eea79022d?install&prompt=Give%20me%20the%20top%2010%20companies%20in%20Boston%20by%20annual%20revenue.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ ZoomInfo — B2B company and professional intelligence. Use for prospecting, fin
 
 ![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)ZoomInfo Find 10 fintech companies in California with 200-1000 employees. Rank them using available growth and buying signals, and explain why each fits a sales prospecting shortlist.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ZoomInfo+Find+10+fintech+companies+in+California+with+200-1000+employees.+Rank+them+using+available+growth+and+buying+signals%2C+and+explain+why+each+fits+a+sales+prospecting+shortlist.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_698a340b9230819188ba5a5eea79022d?install&prompt=Find%2010%20fintech%20companies%20in%20California%20with%20200-1000%20employees.%20Rank%20them%20using%20available%20growth%20and%20buying%20signals%2C%20and%20explain%20why%20each%20fits%20a%20sales%20prospecting%20shortlist.&surface=work>)
 
   * ### Map a buying committee
 
 ![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)ZoomInfo Find the sales and IT leaders at the company I name. Map their roles, include available verified business contact details, and recommend who to approach first for a CRM discussion.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ZoomInfo+Find+the+sales+and+IT+leaders+at+the+company+I+name.+Map+their+roles%2C+include+available+verified+business+contact+details%2C+and+recommend+who+to+approach+first+for+a+CRM+discussion.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_698a340b9230819188ba5a5eea79022d?install&prompt=Find%20the%20sales%20and%20IT%20leaders%20at%20the%20company%20I%20name.%20Map%20their%20roles%2C%20include%20available%20verified%20business%20contact%20details%2C%20and%20recommend%20who%20to%20approach%20first%20for%20a%20CRM%20discussion.&surface=work>)
 
   * ### Prepare an account briefing
 
 ![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)ZoomInfo Prepare a meeting brief for the company I name using recent funding, hiring, and leadership changes. Highlight the strongest business signals and suggest three questions for the call.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ZoomInfo+Prepare+a+meeting+brief+for+the+company+I+name+using+recent+funding%2C+hiring%2C+and+leadership+changes.+Highlight+the+strongest+business+signals+and+suggest+three+questions+for+the+call.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_698a340b9230819188ba5a5eea79022d?install&prompt=Prepare%20a%20meeting%20brief%20for%20the%20company%20I%20name%20using%20recent%20funding%2C%20hiring%2C%20and%20leadership%20changes.%20Highlight%20the%20strongest%20business%20signals%20and%20suggest%20three%20questions%20for%20the%20call.&surface=work>)
 
 
 
@@ -98,11 +98,11 @@ ZoomInfo — B2B company and professional intelligence. Use for prospecting, fin
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://www.zoominfo.com/about/contact>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.zoominfo.com/about/contact>)
 
-### [Privacy policyLearn more](<https://www.zoominfo.com/legal/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.zoominfo.com/legal/privacy-policy>)
 
 ## Add the ZoomInfo plugin in a few clicks
 
@@ -112,13 +112,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)ClayFind and engage prospects.](</business/plugins/clay/>)[![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)SalesforceUse the Salesforce plugin to review permitted CRM records, understand accounts and deals, summarize pipeline risk, and prepare follow-up.](</business/plugins/salesforce/>)[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpotAnalyze CRM data and surface insights.](</business/plugins/hubspot/>)[![](https://files.openai.com/content?id=file_00000000ade4720cbd31a99700103408&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=9dac53f30fdff3bac46b98eab1ceb71b871c0d603fc3dbe4e4565367fd640b7f&v=0)![](https://files.openai.com/content?id=file_000000000eb481f7861627a90fe32ef2&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=4a8ce5b240fce3dce9b92f4751e8b788a83d03f4c909f7408630b6a18213a395&v=0)G2Real Buyer Behavior from G2](</business/plugins/g2/>)
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)ClayGTM Data and Functions](</business/plugins/clay/>)[![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)SalesforceUse the Salesforce plugin to review permitted CRM records, understand accounts and deals, summarize pipeline risk, and prepare follow-up](</business/plugins/salesforce/>)[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpotAnalyze CRM data and surface insights](</business/plugins/hubspot/>)[![](https://files.openai.com/content?id=file_00000000ade4720cbd31a99700103408&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=9dac53f30fdff3bac46b98eab1ceb71b871c0d603fc3dbe4e4565367fd640b7f&v=0)![](https://files.openai.com/content?id=file_000000000eb481f7861627a90fe32ef2&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=4a8ce5b240fce3dce9b92f4751e8b788a83d03f4c909f7408630b6a18213a395&v=0)G2Real Buyer Behavior from G2](</business/plugins/g2/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -130,10 +140,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -152,7 +162,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -199,6 +210,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

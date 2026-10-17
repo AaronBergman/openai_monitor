@@ -28,7 +28,7 @@ OpenAI
 
 March 5, 2026
 
-[AI Adoption](</news/ai-adoption/>)
+[AI Adoption](</news/ai-adoption/>)Guides
 
 # The five AI value models driving business reinvention
 
@@ -119,9 +119,13 @@ This is the fastest value model to activate. It spreads practical AI capability 
 #### What to measure
 
   * Repeated use by role, and proficiency level
+
   * Reusable prompts, workflows, and assets across teams
+
   * Evidence of cross-functional enablement
+
   * Emergence of new ways of working
+
 
 
 
@@ -140,9 +144,13 @@ This model matters because AI is **changing how customers discover, evaluate, an
 #### What to measure
 
   * Qualified intent, and number of iterations before user commitment
+
   * Conversion quality, including retention, upsell, and lifetime value
+
   * Trust signals such as return behavior, repeat engagement, and referral
+
   * Activation of dedicated data connectors or apps related to your business
+
 
 
 
@@ -161,9 +169,13 @@ This model inserts specialized AI capability into research, creative, and domain
 #### What to measure
 
   * Cycle-time reduction on expert bottlenecks
+
   * Quality lift, including reviewer scores, error rates, and rework
+
   * Expansion of scope, such as more experiments run or more creative variants tested
+
   * Net new revenue streams that would have been excluded on feasibility assumptions
+
 
 
 
@@ -182,9 +194,13 @@ Coding agents are the clearest current example, but the larger value model is sa
 #### What to measure
 
   * Time to safe change across connected artifacts and version conflict resolutions
+
   * Audit readiness, including traceability of edits, approvals, and evidence
+
   * Consistency across downstream documents, systems, and workflows
+
   * Reliability across vast ecosystems of interdependent processes
+
 
 
 
@@ -205,9 +221,13 @@ The payoff is once again much larger than mere efficiency. Re-engineering a work
 #### What to measure
 
   * End-to-end cycle time
+
   * Exception rate and resolution time
+
   * Compliance and audit outcomes
+
   * Innovation output, such as new opportunities surfaced or new hypotheses tested
+
 
 
 
@@ -230,9 +250,13 @@ This is how organizations move from **better** to **different business models**.
 A few examples:
 
   * A **retailer** starts with broad employee adoption, then improves AI-native discovery and conversational commerce, and eventually creates a new channel for personalized selling.
+
   * A **pharmaceutical company** starts with workforce fluency and expert capability in R&D and clinical operations, then builds governed research workflows that surface new indications for late-stage approvals and reshape pipeline economics.
+
   * A **manufacturer** starts with copilots across functions, then applies AI to change control, SOPs, and quality workflows until operations can be managed as an adaptive system redefining market economics rather than a static one.
+
   * An **insurer** starts with claim-assistance tools, then builds governed expert review and workflow orchestration, and eventually redesigns claims handling around faster decisions, fewer exceptions, and better customer outcomes.
+
 
 
 
@@ -243,24 +267,33 @@ If you are leading an AI strategy today, keep it simple with three stages.
 #### Phase 1: Build fluency and trust
 
   * Empower the broad workforce with role-based workflows and a champions network.
+
   * Establish the governance basics: what is allowed, what is reviewed, what is logged, and who owns adoption.
+
   * Measure repeated use, proficiency, reusable workflows, and cross-functional enablement.
+
 
 
 
 #### Phase 2: Capture value and raise the ceiling
 
   * Pick a small number of high-value motions: one distribution play, one expert bottleneck, and one workflow with visible ROI.
+
   * Measure value in business terms: conversion quality, cycle-time reduction, quality lift, risk reduction, and new revenue potential.
+
   * Reinvest those wins into the next layer of foundations: data quality, identity, integration, observability, and control.
+
 
 
 
 #### Phase 3: Scale with confidence and reinvent
 
   * Extend AI into high-dependency systems and end-to-end workflows only when permissions, auditability, and exception handling are real.
+
   * Use those foundations to redesign the operating model, not just accelerate the old one.
+
   * Ask where AI can create entirely new value, not just cheaper execution.
+
 
 
 
@@ -270,17 +303,17 @@ The call to action doesn’t need to be where AI can help in the legacy model. A
 
 [View all](</news/>)
 
-![Introducing the Admin plugin for ChatGPT Work and Codex — art card v2](https://images.ctfassets.net/kftzwdyauwt9/i8FWARGpSxYbF9iCeAgfQ/5f0480157bd0a08505801483eb7a1e4b/cover-v2.png?w=3840&q=90&fm=webp)
+![A model guide for the GPT-6 family — Card image](https://images.ctfassets.net/kftzwdyauwt9/4I32Z0klAF95wPuspoHaxb/7388860bce7773838eb20317fda1a937/6tbusrroo8ljxic8ceybig-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing the Admin plugin for ChatGPT Work and CodexAI AdoptionAug 25, 2026](</index/introducing-admin-plugin/>)
+[A practical guide to building with GPT-6ProductOct 2, 2026](</index/practical-guide-building-gpt-6/>)
 
-![Building AI for the ambitions of small businesses > Card image](https://images.ctfassets.net/kftzwdyauwt9/7wmfLwQnQQpV1xogqASUpR/76c80831b475e17a187ba35a7e0a46c8/SMB_launch_blog_1x1.png?w=3840&q=90&fm=webp)
+![How workers are turning AI experimentation into new ways of working > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2jmyTNjTKCj9B3jyQBjFMr/24da3865e110be70e6e93b196cfd752c/blog-art-card-option040-v001.png?w=3840&q=90&fm=webp)
 
-[Introducing the ChatGPT for small business programAI AdoptionJul 21, 2026](</index/introducing-chatgpt-small-business-program/>)
+[How workers are unlocking new ways of workingGlobal AffairsSep 16, 2026](</index/unlocking-new-ways-of-working/>)
 
-![How to manage AI investments in the agentic era > Cover image](https://images.ctfassets.net/kftzwdyauwt9/1qXMreHMXalbFSVXr2CJXW/acbd7f4e05bd38b80a99523967ef69b7/Frame.png?w=3840&q=90&fm=webp)
+![How AI-native companies turn workflows into operating capability — card image](https://images.ctfassets.net/kftzwdyauwt9/mSi6hls2IXr3ax2lH8vTj/5a364b116ec5584ec7415feb4c1a7033/index-how-ai-native-companies-turn-workflows-into-operating-capability--cover-v001.png?w=3840&q=90&fm=webp)
 
-[How to manage AI investments in the agentic eraAI AdoptionJul 14, 2026](</index/managing-ai-investments-in-agentic-era/>)
+[How AI-native companies turn workflows into operating capabilityAI AdoptionSep 1, 2026](</index/ai-native-company-workflows/>)
 
 Research
 
@@ -292,9 +325,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -313,7 +347,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -331,6 +366,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -359,6 +395,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -1,5 +1,39 @@
 # openai_monitor
 
+## 2026-10-17T09-15Z
+
+**Fetch time:** 2026-10-17T09:16:58Z (sitemap + 1,235 pages) UTC | **Baseline:** 2026-09-28T09-17Z (**19-day gap — the routine did not run 09-29 through 10-16**)
+
+**TL;DR:** A big catch-up run covering almost three weeks. OpenAI launched a new wave of products — **GPT-6.1 Sol** (near-flagship quality at one-fifth the price), **"dots"** (always-on AI agents with their own cloud computer), a **GPT-6 for all ChatGPT users** with interactive "Intelligent UI", and the **DevDay 2026** announcements including *Sign in with ChatGPT* — plus ~25 customer stories, an OpenAI Marketplace for business, and safety posts about a model-distillation campaign and "false front" influence operations. A site-wide navigation refresh (new model list, Dots and Status links) bumped the `<lastmod>` of ~1,150 pages.
+
+### ⚠️ Anomalies
+- **Two new sub-sitemaps** (`learn-guides`, `learn-webinars`; 43 total) caused 22 pages to change or gain sub-sitemap membership (e.g. five `/business/learn/*` pages moved out of `page`). Detail in the run analysis.
+- **3 reappeared URLs:** [`/business/plugins/alpaca/`](https://openai.com/business/plugins/alpaca/) (last seen 2026-09-24), [`/form/codex-ambassadors/`](https://openai.com/form/codex-ambassadors/) (last seen 2026-06-24), [`/policies/row-privacy-policy/`](https://openai.com/policies/row-privacy-policy/) (last seen 2026-05-27).
+- [`/index/introducing-gpt-6-1-sol/`](https://openai.com/index/introducing-gpt-6-1-sol/) is listed in the sitemap with **no `<lastmod>` at all**.
+- An automated "backdated new URL" check fired 36 times but was a false positive from the 19-day gap (all lastmods postdate the prior baseline); suppressed. No future-dated or backwards lastmods.
+
+Full detail in [`runs/2026-10-17T09-15Z/analysis.md`](runs/2026-10-17T09-15Z/analysis.md).
+
+### Notable additions (82)
+- **[GPT-6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md)** — upgrade nearly matching GPT-6 Astra on agentic coding/computer use at 1/5 the price; cached input $0.10/M tokens.
+- **[Dots](pages/openai.com/index/introducing-dots/index.md)** — GPT-6 Astra-powered agents with a cloud computer, working 24/7, 4,000+ app connections via plugins, reachable via ChatGPT, Slack, Teams or voice.
+- **[GPT-6 and Intelligent UI for everyone](pages/openai.com/index/gpt-6-for-everyone/index.md)** — new GPT-6 model for ChatGPT's 1.2B weekly users; answers as interactive interfaces.
+- **[DevDay 2026 recap](pages/openai.com/index/devday-2026-recap/index.md)** (20+ announcements) with [Sign in with ChatGPT terms](pages/openai.com/policies/sign-in-with-chatgpt-terms/index.md), Codex Originals/Ambassadors forms, [computer-use research collaboration](pages/openai.com/form/computer-use-research-collaboration/index.md).
+- **[OpenAI Marketplace](pages/openai.com/business/marketplace/index.md)** — spend existing OpenAI commitments on partner products (Adobe, Baseten…), with new partner and plugin pages.
+- **[Disrupting a coordinated model-distillation campaign](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md)** — OpenAI says operators extracted protected reasoning at scale starting early July; no breach of encryption or stored chats. Also [false-front operations](pages/openai.com/index/disrupting-ai-enabled-false-front-operations/index.md) and [safety cases for frontier training](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md).
+- **[Rosalind Academic Plan](pages/openai.com/index/introducing-the-rosalind-academic-plan/index.md)** — sponsored GPT-Rosalind access for academic life-science labs.
+- ~25 customer stories (Albertsons, Atlassian, Block, Oracle, Sophos, Sullivan & Cromwell, Itaú…), EU/Australia policy posts, and 18 `/business/learn/*` guides/webinars.
+
+### Notable updates
+- **Site-wide nav refresh on ~1,153 pages:** "Latest" list now GPT-6.1 Sol / GPT-6 Astra (GPT-5.4 dropped), Codex link moved to chatgpt.com/codex, new Dots and OpenAI Status links, Plugins link on ~459 more pages, Rosalind Academic Plan card replacing Sep-22 GPT-6 Sol/Luna and prompt-caching cards, email-signup block on 216 business pages.
+
+### Removed pages
+- `/business/partners/pathfindr/` → renamed [Affinda](pages/openai.com/business/partners/affinda/index.md); `/business/plugins/mcp-server-for-wordpress/` + `/business/plugins/wordpress-com/` → merged into new `/business/plugins/wordpress/`; `/form/ultrafast/` gone.
+
+_Stats: 2063 total URLs | 82 added | 1153 updated | 4 removed | 25 anomalies | 43 sub-sitemaps_
+
+---
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

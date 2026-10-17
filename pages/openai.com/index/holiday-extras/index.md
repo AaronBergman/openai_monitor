@@ -73,10 +73,15 @@ ChatGPT Enterprise has fundamentally changed the capabilities of the Holiday Ext
 Within a few short months of adoption, teams across the company have used ChatGPT to:
 
   * **Develop content in multiple languages:** ChatGPT Enterprise plays a critical role in localizing copy across different locales, which was previously very time-intensive. “Tasks that would have taken weeks before only take hours now,” Reuther said. “ChatGPT Enterprise allows us to take on more ambitious goals since the team is more efficient.” By using ChatGPT to translate hundreds of strings into multiple languages, the team is able to take on far more exciting projects than before. “We’re very happy with the translation quality, which we’ve verified with native speakers at the company.” 
+
   * **Uplevel data fluency:** James Smith, Data Tech Lead, shared that non-technical employees have found unique ways to use ChatGPT. “People who are less technical or data-literate are able to upload CSVs and identify trends, something they never could have done before. They’re able to contribute to the discussion in new ways.” And for those employees who are more familiar with SQL, using ChatGPT Enterprise has allowed them to write queries 80% faster.
+
   * **Drive engineering productivity:** “Different types of engineers have found different uses for ChatGPT,” Smith said. “Junior engineers might use it as a thought partner to validate their approach, while more senior engineers use it for communication, especially in higher-stakes situations like presenting to the board.” 
+
   * **Bring more rigor to UI/UX design:** “We’ve built a UX Scoring GPT to help us become more metrics-driven,” said Liam Thompson, Head of Innovation & Design at Holiday Extras. “The GPT captures research about UI/UX principles from authoritative sources, as well as my personal guidelines and recommendations. Not only can it provide a quantified score, but it can also point out specific issues on the page and provide actionable design feedback.”
+
   * **Provide a superior customer support experience:** With 30% of customer service inquiries now being handled by an AI bot before getting to a human, customer support costs have dropped across the company. Simultaneously, NPS (customer satisfaction) scores have risen from 60% to 70%.
+
 
 
 
@@ -91,10 +96,15 @@ David Norris, Chief Growth Officer
 As Holiday Extras invests in bringing powerful AI abilities to their employees, they measured AI’s impact on the workforce. Here are the results:
 
   * ChatGPT Enterprise has seen incredible adoption, with 95% of respondents saying they use it weekly
+
   * 92% of employees saved over 2 hours per week in productivity gains
+
   * ChatGPT Enterprise has sped up code debugging times by 75%, greatly improving engineering productivity.
+
   * All of this has cumulatively resulted in over 500 hours saved per week across the company
+
   * This represents an equivalent of $500k in annual savings
+
 
 
 
@@ -112,15 +122,15 @@ David Lee, Director of Innovation & Growth
 
 ## Related articles
 
-![Jetbrains > Hero > Media item > Asset](https://images.ctfassets.net/kftzwdyauwt9/46d99f08-c849-4c73-5a6c7b83ea9c/6e0eaaaf815df2a53f997b36ce57ad13/jetbrains.png?w=3840&q=90&fm=webp)
+![White JetBrains logo on a purple background.](https://images.ctfassets.net/kftzwdyauwt9/46d99f08-c849-4c73-5a6c7b83ea9c/6e0eaaaf815df2a53f997b36ce57ad13/jetbrains.png?w=3840&q=90&fm=webp)
 
 [Embedding AI into developer softwareMar 21, 2024](</index/jetbrains/>)
 
-![Screenshot 2024 03 12 At 1128 27am](https://images.ctfassets.net/kftzwdyauwt9/e4cda57a-c977-4855-16b96e288c99/40db1a7d78522f9f9030942dd4a3e72b/superhuman.png?w=3840&q=90&fm=webp)
+![White Superhuman logo on a purple background.](https://images.ctfassets.net/kftzwdyauwt9/e4cda57a-c977-4855-16b96e288c99/40db1a7d78522f9f9030942dd4a3e72b/superhuman.png?w=3840&q=90&fm=webp)
 
 [Reimagining the email experience with AIMar 18, 2024](</index/superhuman/>)
 
-![Salesforce](https://images.ctfassets.net/kftzwdyauwt9/603cb121-042e-415f-d47db25cfa42/0ac2e22ee90f4a809c3eb3fff797d107/salesforce.png?w=3840&q=90&fm=webp)
+![White Salesforce logo on a blue background](https://images.ctfassets.net/kftzwdyauwt9/603cb121-042e-415f-d47db25cfa42/0ac2e22ee90f4a809c3eb3fff797d107/salesforce.png?w=3840&q=90&fm=webp)
 
 [Enterprise-ready trust and safetyMar 18, 2024](</index/salesforce/>)
 
@@ -134,9 +144,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -155,7 +166,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -173,6 +185,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -201,6 +214,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
