@@ -1,5 +1,47 @@
 # openai_monitor
 
+## 2026-10-18T09-16Z
+
+**Fetch time:** 2026-10-18T09:16Z (sitemap + 1,236 pages) UTC | **Baseline:** 2026-09-28T09-17Z (**20-day gap** — no runs 09-29 → 10-17, so this entry covers three weeks)
+
+**TL;DR:** A big catch-up. The sitemap grew from 1,985 to 2,063 URLs (82 added, 4 removed). The headline is the **GPT‑6 rollout reaching the whole site**: every page's navigation now lists GPT‑6.1 Sol and GPT‑6 Astra (GPT‑5.4 is gone), a new consumer product called **Dots** is linked site-wide, and a new "GPT‑6 and Intelligent UI for everyone" post (Oct 7/14) leads the homepage. The Codex page was relaunched with plan pricing, ~20 customer stories were published (many for the **OpenAI Daybreak** security product and GPT‑6), and legal pages (cookies, privacy, ads terms, sub-processors) were quietly revised, including new Brazil advertising terms and ads.openai.com cookies. OpenAI also reshuffled ~220 URLs between sub-sitemaps and added a 43rd one (`learn-demos`).
+
+### Anomalies
+
+- **20-day observation gap** — all "new" URLs show first_seen 2026-10-18 even though their `<lastmod>`s are Oct 1–17.
+- **New sub-sitemap `learn-demos`** with 14 older-looking tutorial pages (GPT‑4o, o3, GPT‑5 era) all stamped 2026-10-09 — a bulk import into a new "Learn" hub.
+- **220 URLs migrated between sub-sitemaps** (e.g. 35 company → global-affairs, 25 product → release, 10 safety → security, many plugin category reshuffles). Full list in [`diff.json`](runs/2026-10-18T09-16Z/diff.json).
+- **Missing `<lastmod>`:** new URL [`/index/introducing-gpt-6-1-sol/`](pages/openai.com/index/introducing-gpt-6-1-sol/index.md) has no `<lastmod>` at all.
+- **Backdated new URLs** (lastmod 11–17 days before we saw them; probably gap artifact): `/form/sign-in-with-chatgpt-interest/`, `/policies/sign-in-with-chatgpt-terms/`, `/codex-originals/`, `/form/private-intelligence-interest/`.
+- **Reappeared:** `/form/codex-ambassadors/`, `/policies/row-privacy-policy/` (both first seen 2026-05-07), `/business/plugins/alpaca/` (2026-07-10).
+- No future-dated or backwards `<lastmod>`.
+
+Full detail in [`runs/2026-10-18T09-16Z/analysis.md`](runs/2026-10-18T09-16Z/analysis.md).
+
+### Notable additions
+
+- [GPT‑6 and Intelligent UI for everyone](pages/openai.com/index/gpt-6-for-everyone/index.md) — new GPT‑6 model for 1.2B+ free users; [GPT‑6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md); [Introducing dots](pages/openai.com/index/introducing-dots/index.md); [DevDay 2026 recap](pages/openai.com/index/devday-2026-recap/index.md) and [sessions](pages/openai.com/devday/2026/index.md).
+- [Rosalind Academic Plan](pages/openai.com/index/introducing-the-rosalind-academic-plan/index.md) — sponsored GPT‑Rosalind access for life-science labs; [teen College Planner + AI council](pages/openai.com/index/teens-learn-and-plan/index.md); [new ChatGPT ads format & measurement](pages/openai.com/index/new-chatgpt-ads-format-and-measurement/index.md); [OpenAI Marketplace](pages/openai.com/business/marketplace/index.md) (spend commitments on partner products).
+- Safety/policy: [disrupting AI-enabled "false front" operations](pages/openai.com/index/disrupting-ai-enabled-false-front-operations/index.md), [Australia](pages/openai.com/index/how-we-will-do-better-for-australia/index.md), [EU agentic AI](pages/openai.com/index/the-eus-next-chapter-in-ai-is-agentic/index.md), [Brazil Advertising Terms](pages/openai.com/policies/brazil-advertising-terms/index.md), [Sign in with ChatGPT terms](pages/openai.com/policies/sign-in-with-chatgpt-terms/index.md) (+ interest form).
+- ~20 customer stories (Sullivan & Cromwell, Itaú, Block, SentinelOne, Sophos, Oracle, Asana 76x cheaper with GPT‑6.1 Sol, Jump Trading…), security-consultancy partners (SpecterOps, TrustedSec, Bishop Fox, MegazoneCloud, Affinda), new plugins (Jetpack, WordPress.com, Spacefast, Sandstone), Codex Ambassadors/Originals forms.
+
+### Notable updates
+
+- **Site-wide nav (1,151 pages):** model list now GPT‑6.1 Sol + GPT‑6 Astra; Dots and OpenAI Status links added; Codex link points to chatgpt.com; "Plugins" link spread to ~458 more pages; 215 business pages got an email-signup block.
+- **[`/codex/`](pages/openai.com/codex/index.md)** relaunched as "Build anything with Codex" with Plus ($20) / Pro ($100+) plan cards.
+- **[`/business/pricing/`](pages/openai.com/business/pricing/index.md)** adds GPT‑6.1 Sol/Astra/Sol rows and a "chat with buying agent" CTA.
+- **Legal:** [cookie policy](pages/openai.com/policies/cookie-policy/index.md) (Oct 7: new consent cookies, `oai-did` now 2 years, ads.openai.com cookies, Auth0 cookies removed); [privacy policy](pages/openai.com/policies/privacy-policy/index.md) (Sora dropped from intro, advertiser-data wording hardened); [ads terms](pages/openai.com/policies/advertising-terms/index.md) (Oct 15); [sub-processor list](pages/openai.com/policies/sub-processor-list/index.md) (Oct 14); [transparency report](pages/openai.com/trust-and-transparency/index.md) (H1 2026 figures).
+- **[Release notes](pages/openai.com/products/release-notes/index.md):** prompt-to-voice and nine new GPT‑Live voices (Oct 16); native Decisions integration in GPT‑Live (Oct 15).
+- **Legacy posts** (o1, o3/o4-mini, thinking-with-images, deep research, gpt-oss, study mode) got "This post introduced…" retirement banners (o1‑preview/mini retired from API).
+
+### Removals
+
+- [`/business/partners/pathfindr/`](pages/openai.com/business/partners/affinda/index.md) — renamed Affinda. `/business/plugins/wordpress-com/` and `/mcp-server-for-wordpress/` — replaced by WordPress.com/Jetpack plugins. `/form/ultrafast/` — retired.
+
+_Stats: 2063 total URLs | 82 added | 1154 updated (all differ; ~730 beyond shared nav) | 4 removed | 230 anomaly records (1 gap, 1 new sub-sitemap, 220 migrations, 4 backdated, 3 reappeared, 1 missing lastmod) | 43 sub-sitemaps_
+
+---
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

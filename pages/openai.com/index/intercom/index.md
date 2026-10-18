@@ -121,8 +121,11 @@ Fin AI Engine™
 The team is just getting started. Powered by advanced models and built on a modular, model-agnostic architecture, Intercom is expanding beyond customer support to power workflows across the business, delivering faster resolutions and better customer experiences:
 
   * **Support teams:** Resolving the majority of inbound queries across chat, email, voice, and more with Fin AI Agent
+
   * **Ops teams:** Automating complex workflows like refunds, account changes, and subscription updates with Fin Tasks
+
   * **Product teams:** Using Intercom’s MCP Server, AI tools like ChatGPT can access customer conversations, tickets, and user data - helping teams across the business spot bugs, shape roadmaps, refine messaging, and prepare for QBRs. 
+
 
 
 
@@ -134,17 +137,17 @@ Intercom built a scalable AI platform by staying rigorous on evaluation, grounde
 
 ## Keep reading
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![Itaú — Curved paper hero](https://images.ctfassets.net/kftzwdyauwt9/3yLSpHg03VFKN2L7PvfmYK/7869353b973d86465599cbc82cbaa7a2/itau-a-card-1080.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[How Itaú is building generative AI for its entire customer baseOct 16, 2026](</index/itau-generative-ai/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![Benefit Street Partners — Cover](https://images.ctfassets.net/kftzwdyauwt9/4hoSVzGnXTL7t0Lc8leJTZ/bc394d73a743bc7c555a0ef89df90c2a/square.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[Benefit Street Partners answers questions faster with CodexOct 16, 2026](</index/benefit-street-partners/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![Stack Overflow — cover](https://images.ctfassets.net/kftzwdyauwt9/7G7Qm0twGySzDyv7voEB7I/c871019ba810709cd59e761995a21316/stack-overflow-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[Stack Overflow for Agents triples signups with ChatGPT pluginStartupOct 16, 2026](</index/stack-overflow-chatgpt-plugin/>)
 
 Research
 
@@ -156,9 +159,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -177,7 +181,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -195,6 +200,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -223,6 +229,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
