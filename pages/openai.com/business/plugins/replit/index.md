@@ -32,7 +32,7 @@ OpenAI
 
 # Replit
 
-Turn your ideas into real apps.
+Turn your ideas into real apps
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6934801c799081918131791660f02890>)[Contact sales](</contact-sales/>)
 
@@ -47,7 +47,7 @@ Website
 
 ## How it works
 
-Build real web or mobile apps in ChatGPT by describing what you want, see a live version right away, and iterate through follow-up prompts.
+Replit turns your ideas into real, running web apps and websites, with no coding or setup required. Describe what you want in plain language and Replit's AI Agent builds a working app for you (frontend, backend, database, and auth as needed), then hosts it so you can use and share it right away. Keep the conversation going to refine and extend your app, ask how a feature works, or check whether it's ready to deploy. It's great for rapid prototyping, quick experiments, internal tools, and turning ideas into something you can actually run as fast as you can describe them.
 
 ## What else can you do?
 
@@ -55,19 +55,19 @@ Build real web or mobile apps in ChatGPT by describing what you want, see a live
 
 ![](https://files.openai.com/content?id=file_00000000d58c722fa61ccd9bcbd9872a&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=1689cb0011b76c46eb76a9911543286b300fc6ec0e037141ca9951054691bc0a&v=0)Replit Prototype a lightweight appointment scheduler web app for a dental office with admin and receptionist views.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Replit+Prototype+a+lightweight+appointment+scheduler+web+app+for+a+dental+office+with+admin+and+receptionist+views.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6934801c799081918131791660f02890?install&prompt=Prototype%20a%20lightweight%20appointment%20scheduler%20web%20app%20for%20a%20dental%20office%20with%20admin%20and%20receptionist%20views.&surface=work>)
 
   * ### Interact with a live app
 
 ![](https://files.openai.com/content?id=file_00000000d58c722fa61ccd9bcbd9872a&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=1689cb0011b76c46eb76a9911543286b300fc6ec0e037141ca9951054691bc0a&v=0)Replit Show me a live version of our dental office's appointment scheduler so I can try booking an appointment and switching between the admin and receptionist views.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Replit+Show+me+a+live+version+of+our+dental+office%27s+appointment+scheduler+so+I+can+try+booking+an+appointment+and+switching+between+the+admin+and+receptionist+views.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6934801c799081918131791660f02890?install&prompt=Show%20me%20a%20live%20version%20of%20our%20dental%20office's%20appointment%20scheduler%20so%20I%20can%20try%20booking%20an%20appointment%20and%20switching%20between%20the%20admin%20and%20receptionist%20views.&surface=work>)
 
   * ### Update the app through prompts
 
 ![](https://files.openai.com/content?id=file_00000000d58c722fa61ccd9bcbd9872a&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=1689cb0011b76c46eb76a9911543286b300fc6ec0e037141ca9951054691bc0a&v=0)Replit Add a dashboard with charts and filters to the app and make sure the UI updates smoothly.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Replit+Add+a+dashboard+with+charts+and+filters+to+the+app+and+make+sure+the+UI+updates+smoothly.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6934801c799081918131791660f02890?install&prompt=Add%20a%20dashboard%20with%20charts%20and%20filters%20to%20the%20app%20and%20make%20sure%20the%20UI%20updates%20smoothly.&surface=work>)
 
 
 
@@ -82,11 +82,11 @@ Build real web or mobile apps in ChatGPT by describing what you want, see a live
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://docs.replit.com/>)
+### [Plugin supportLearn more(opens in a new window)](<https://docs.replit.com/>)
 
-### [Privacy policyLearn more](<https://replit.com/site/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://replit.com/site/privacy>)
 
 ## Add the Replit plugin in a few clicks
 
@@ -96,13 +96,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)Google FirebaseBuild and manage Firebase apps](</business/plugins/firebase/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets.](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_00000000973c720c9d9b1fabee04c427&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=c11b3c8f43500e73dd0db9849b6ea13396b3dfef8f719d0c68eba87508d51fb6&v=0)![](https://files.openai.com/content?id=file_00000000d72881f7b7d15cc4fb008b3e&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=358cbc93092922858a3ae7e058c6131029faf209cdb642542d00f385d412c04a&v=0)SpaceshipSearch domain availability.](</business/plugins/spaceship/>)[![](https://files.openai.com/content?id=file_00000000dff871fd97ecd3e12034e065&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ba5b5cb9e8613449f77c1752691f4f467846a43b941dc1f29632cf788fd3c426&v=0)![](https://files.openai.com/content?id=file_00000000b5bc71fdb6d8dc0bdc786058&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=416aab41b7a94dcf98fc20d43b8d80a0c807853ab48379f20a984d6f6daa0b1a&v=0)PostHogAnalyze your product data](</business/plugins/posthog/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)Google FirebaseBuild and manage Firebase apps](</business/plugins/firebase/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_00000000973c720c9d9b1fabee04c427&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=c11b3c8f43500e73dd0db9849b6ea13396b3dfef8f719d0c68eba87508d51fb6&v=0)![](https://files.openai.com/content?id=file_00000000d72881f7b7d15cc4fb008b3e&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=358cbc93092922858a3ae7e058c6131029faf209cdb642542d00f385d412c04a&v=0)SpaceshipSearch domain availability](</business/plugins/spaceship/>)[![](https://files.openai.com/content?id=file_00000000dff871fd97ecd3e12034e065&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ba5b5cb9e8613449f77c1752691f4f467846a43b941dc1f29632cf788fd3c426&v=0)![](https://files.openai.com/content?id=file_00000000b5bc71fdb6d8dc0bdc786058&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=416aab41b7a94dcf98fc20d43b8d80a0c807853ab48379f20a984d6f6daa0b1a&v=0)PostHogAnalyze your product data](</business/plugins/posthog/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -114,10 +124,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -136,7 +146,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -183,6 +194,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

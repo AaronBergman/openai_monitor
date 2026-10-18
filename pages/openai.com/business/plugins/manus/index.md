@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://manus.im>)
 
-[![](https://files.openai.com/content?id=file_00000000f0b071f6b09577c7605bf79b&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=38dd83f128ccc8e747ed72fd263e2f4d026b64fd060bc9c6f405300c86719011)![](https://files.openai.com/content?id=file_00000000cf6c71f68efbdacd39bc047a&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=bfb0f139f91fb59d47a6533a9838343cc7a6605fa270a0117c8338cc59f99b51)Manus make a 5 pages slides about history of AI(opens in a new window)](<https://chatgpt.com/?prompt=%40Manus+make+a+5+pages+slides+about+history+of+AI>)
+[![](https://files.openai.com/content?id=file_00000000f0b071f6b09577c7605bf79b&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=38dd83f128ccc8e747ed72fd263e2f4d026b64fd060bc9c6f405300c86719011)![](https://files.openai.com/content?id=file_00000000cf6c71f68efbdacd39bc047a&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=bfb0f139f91fb59d47a6533a9838343cc7a6605fa270a0117c8338cc59f99b51)Manus make a 5 pages slides about history of AI(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_694e289261b08191b244259e30ce0836?install&prompt=make%20a%205%20pages%20slides%20about%20history%20of%20AI>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Manus is an autonomous AI agent that you can delegate complex tasks to directly 
 
 ![](https://files.openai.com/content?id=file_00000000f0b071f6b09577c7605bf79b&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=38dd83f128ccc8e747ed72fd263e2f4d026b64fd060bc9c6f405300c86719011)![](https://files.openai.com/content?id=file_00000000cf6c71f68efbdacd39bc047a&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=bfb0f139f91fb59d47a6533a9838343cc7a6605fa270a0117c8338cc59f99b51)Manus Build a three-page website from this business brief using the supplied content and brand assets. Make it work on mobile and return a preview.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Manus+Build+a+three-page+website+from+this+business+brief+using+the+supplied+content+and+brand+assets.+Make+it+work+on+mobile+and+return+a+preview.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_694e289261b08191b244259e30ce0836?install&prompt=Build%20a%20three-page%20website%20from%20this%20business%20brief%20using%20the%20supplied%20content%20and%20brand%20assets.%20Make%20it%20work%20on%20mobile%20and%20return%20a%20preview.&surface=work>)
 
   * ### Produce a research report
 
 ![](https://files.openai.com/content?id=file_00000000f0b071f6b09577c7605bf79b&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=38dd83f128ccc8e747ed72fd263e2f4d026b64fd060bc9c6f405300c86719011)![](https://files.openai.com/content?id=file_00000000cf6c71f68efbdacd39bc047a&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=bfb0f139f91fb59d47a6533a9838343cc7a6605fa270a0117c8338cc59f99b51)Manus Research these three vendors against my requirements and produce a comparison report. Cite sources, flag unknowns, and recommend follow-up questions.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Manus+Research+these+three+vendors+against+my+requirements+and+produce+a+comparison+report.+Cite+sources%2C+flag+unknowns%2C+and+recommend+follow-up+questions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_694e289261b08191b244259e30ce0836?install&prompt=Research%20these%20three%20vendors%20against%20my%20requirements%20and%20produce%20a%20comparison%20report.%20Cite%20sources%2C%20flag%20unknowns%2C%20and%20recommend%20follow-up%20questions.&surface=work>)
 
   * ### Create an executive presentation
 
 ![](https://files.openai.com/content?id=file_00000000f0b071f6b09577c7605bf79b&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=38dd83f128ccc8e747ed72fd263e2f4d026b64fd060bc9c6f405300c86719011)![](https://files.openai.com/content?id=file_00000000cf6c71f68efbdacd39bc047a&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=bfb0f139f91fb59d47a6533a9838343cc7a6605fa270a0117c8338cc59f99b51)Manus Create a six-slide presentation from this report. Lead with the decision needed, summarize evidence, and end with risks and next steps.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Manus+Create+a+six-slide+presentation+from+this+report.+Lead+with+the+decision+needed%2C+summarize+evidence%2C+and+end+with+risks+and+next+steps.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_694e289261b08191b244259e30ce0836?install&prompt=Create%20a%20six-slide%20presentation%20from%20this%20report.%20Lead%20with%20the%20decision%20needed%2C%20summarize%20evidence%2C%20and%20end%20with%20risks%20and%20next%20steps.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Manus is an autonomous AI agent that you can delegate complex tasks to directly 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.manus.im/>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.manus.im/>)
 
-### [Privacy policyLearn more](<https://manus.im/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://manus.im/privacy>)
 
 ## Add the Manus plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets.](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps.](</business/plugins/vercel/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps](</business/plugins/vercel/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

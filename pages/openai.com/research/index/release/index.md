@@ -48,6 +48,18 @@ Switch cards to hide Media
 
 Product
 
+Oct 7, 2026
+
+[GPT-6 and Intelligent UI for everyoneGPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.](</index/gpt-6-for-everyone/>)
+
+Product
+
+Sep 29, 2026
+
+[Introducing GPT-6.1 SolMeet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.](</index/introducing-gpt-6-1-sol/>)
+
+Product
+
 Sep 22, 2026
 
 [Introducing GPT-6 Sol and LunaMeet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.](</index/introducing-gpt-6-sol-and-luna/>)
@@ -88,18 +100,6 @@ Jun 26, 2026
 
 [Previewing GPT-5.6 Sol: a next-generation modelOpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.](</index/previewing-gpt-5-6-sol/>)
 
-Research
-
-Jun 4, 2026
-
-[Dreaming: Better memory for a more helpful ChatGPTChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.](</index/chatgpt-memory-dreaming/>)
-
-Product
-
-Jun 3, 2026
-
-[Introducing new capabilities to GPT-RosalindGPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.](</index/introducing-new-capabilities-to-gpt-rosalind/>)
-
 Load more
 
 Research
@@ -112,10 +112,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -134,7 +134,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -181,6 +182,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

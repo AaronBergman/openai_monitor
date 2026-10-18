@@ -26,147 +26,236 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Updated: October 10, 2023
+Updated: October 15, 2026
 
 # OpenAI Supplier Code of Conduct
 
 ## Introduction
 
-OpenAI's mission to ensure that artificial general intelligence benefits all of humanity transcends the boundaries of technology. This Supplier Code of Conduct (Code) underscores the values and principles that guide our relationships with suppliers and their subsidiaries, affiliates, subcontractors, and sub tier suppliers (collectively referred to as "Suppliers"). This Code sets forth the minimum standards and expectations in various areas, including legal compliance, ethical conduct, labor rights, health and safety, and more.
+OpenAI's mission is to ensure that artificial general intelligence benefits all of humanity. We seek to advance that mission by operating our business responsibly, ethically, and with respect for people and the environment. This Supplier Code of Conduct (“Code”) establishes the minimum standards that guide our relationships with suppliers, partners, and staffing agencies, and their subsidiaries, affiliates, subcontractors, and sub-tier suppliers that provide goods or services to OpenAI or act on OpenAI’s behalf ("Suppliers"). This Code applies to all Suppliers and supplements, but does not replace, a Supplier’s contractual obligations to OpenAI.
 
-## 1\. General Rules and Compliance
+This Code is aligned to the Responsible Business Alliance [_Supplier Code of Conduct_ ⁠(opens in a new window)](<https://www.responsiblebusiness.org/media/docs/RBACodeofConduct8.0_English.pdf>) and informed by the following internationally recognized standards: 
 
-## 1.1 Legal and Regulatory Compliance
+  * The United Nations Guiding Principles on Business and Human Rights (UNGPs)
 
-Suppliers must operate in full compliance with all applicable laws, regulations, and standards in the jurisdictions where they conduct business. This includes, but is not limited to, laws related to labor, health and safety, the environment, intellectual property, data protection, trade controls, antitrust, and anticorruption. Suppliers must also adhere to this Code and the standards referenced herein.
+  * The International Labor Organization’s (ILO) Declaration on Fundamental Principles and Rights at Work
 
-  * **Understanding of Laws:** Suppliers must have a comprehensive understanding of the local laws and regulations that govern their operations.
-  * **Continuous Monitoring:** Regular monitoring and evaluation of compliance status are essential to ensure ongoing adherence to legal requirements.
-  * **Compliance :** Suppliers should establish robust compliance programs that include policies, procedures, training, and internal controls to support legal compliance.
+  * The ILO’s Core Conventions
 
+  * The International Bill of Human Rights, comprised of the Universal Declaration of Human Rights (UDHR), the International Covenant on Civil and Political Rights (ICCPR), and the International Covenant on Economic, Social, and Cultural Rights (ICESCR)
 
+  * The OECD Guidelines for Multinational Enterprises
 
-**Cooperation:** Suppliers must cooperate fully with regulatory authorities and any inquiry or audit authorized by OpenAI by providing all necessary or required information.
+  * The OECD Due Diligence Guidance for Responsible Business Conduct
 
-## 1.2 Ethical Business Practices
-
-OpenAI expects all Suppliers to adhere to the highest standards of integrity, transparency, honesty, and ethical conduct in all their business dealings. Ethical business practices include:
-
-  * **Fair Dealings:** Engage in fair and honest business practices with all stakeholders, including customers, employees, subcontractors, regulators, competitors, and OpenAI.
-  * **Anti-Corruption and Anti-Bribery:** Prohibit all forms of corruption, bribery, kickbacks, or any other improper payments. Implement effective measures to prevent such practices.
-  * **Transparency and Accuracy:** Maintain transparent and accurate business records, including records that would reflect compliance with any applicable law and OpenAI standards, as well as financial statements, and reporting to reflect the true nature of business transactions.
-  * **Conflict of Interest:** Identify, disclose, and manage any actual or potential conflicts of interest that may influence business decisions or relationships with OpenAI.
-  * **Data Integrity:** Ensure the integrity, confidentiality, and availability of data, including personal data, intellectual property, and other sensitive information.
-  * **Supplier Conduct:** Require and ensure similar ethical conduct from your own suppliers, subcontractors, and partners.
+  * The United Nations Convention on the Rights of the Child
 
 
+
+
+## 1\. Legal Compliance and Business Integrity
+
+### 1.1 Legal and Regulatory Compliance
+
+Suppliers shall comply with all applicable laws and regulations and with this Code. Where this Code establishes a higher standard than applicable law, Suppliers shall meet the higher standard unless doing so would violate applicable law. Suppliers shall not take any action, or direct or permit any person to take any action, that would cause OpenAI to violate applicable law. 
+
+### 1.2 Business Integrity 
+
+Suppliers shall conduct business with integrity, transparency, honesty, and fairness.
+
+**Anti-Corruption and Anti-Bribery:** Prohibit all forms of corruption, bribery, kickbacks, and facilitating payments, and comply with applicable anti-corruption and anti-money laundering laws. Do not directly or indirectly provide or accept anything of value to improperly influence any decision or obtain an undue advantage related to OpenAI business, including gifts, travel, hospitality, charitable donations, or employment. Maintain complete and accurate books and records that reflect all transactions, and implement effective monitoring, recordkeeping, and enforcement procedures to prevent, detect, and address corruption risks. Promptly report to OpenAI suspected misconduct connected with OpenAI-related work.
+
+**Conflict of Interest:** Identify, disclose to OpenAI, and manage any actual or potential conflicts of interest that may influence business decisions or relationships with OpenAI.
+
+**Intellectual Property** : Respect intellectual property rights and comply with all applicable intellectual property laws and third-party license terms. The transfer of third-party intellectual property and technology should be done in a manner that protects intellectual property rights. 
+
+**Antitrust and Fair Competition** : Conduct business in full compliance with applicable antitrust and competition laws. Do not fix prices, rig bids, allocate customers or markets, enter into unlawful “no-poach” agreements, or exchange competitively sensitive information with competitors. 
+
+**Sanctions and Export Controls:** Comply with all applicable economic sanctions and export controls laws. These may include trade restrictions, embargoes, or prohibitions on dealings with specified individuals and entities. Do not directly or indirectly deal with sanctioned or restricted persons or sanctioned jurisdictions (_e.g.,_ Cuba, Iran, North Korea, the so-called Donetsk’s Peoples Republic, the so-called Luhansk’s Peoples Republic, and the Crimea region of Ukraine) without required authorizations. Implement effective screening, monitoring, recordkeeping, and enforcement procedures to prevent, detect, and address sanctions and export controls risks. 
+
+**Accurate Records and Disclosure:** Maintain complete and accurate business records and disclosures, including records that reflect compliance with any applicable law and this Code. Do not falsify, conceal, or misrepresent transactions or information. 
 
 ## 2\. Labor and Human Rights
 
-## 2.1 No Forced or Child Labor
+### 2.1 No Modern Slavery
 
-Suppliers must unequivocally reject the use of forced labor, bonded labor, indentured labor, prison labor, or child labor in any of their operations or supply chains.
+Suppliers shall unequivocally reject the use of forced labor, bonded labor, indentured labor, involuntary or exploitative prison labor, slavery, trafficking, or child labor (collectively, “Modern Slavery”) in any of their operations or supply chains.
 
-  * **Freedom of Employment:** All work must be voluntary, and workers must be free to leave employment after reasonable notice without penalty.
-  * **No Child Labor:** Comply with minimum age laws and applicable international standards and ensure that no underage workers are employed.
-  * **Verification of Age and Employment Status:** Implement proc up esses to verify the age and legal status of workers to prevent forced or child labor.
-  * **Awareness and Training:** Educate and train staff, particularly those involved in recruitment and management, on the risks of forced and child labor and the methods to identify and prevent it.
-  * **Supply Chain Responsibility:** Ensure that all subcontractors and sub tier suppliers also comply with these standards.
+**Freedom of Employment:** All work, including overtime work, must be voluntary. Workers must be free to leave work and terminate their employment without penalty, subject only to any reasonable notice requirement permitted by applicable law and clearly stated in the worker’s employment contract.
 
+**No Recruitment Fees or Debt Bondage:** Do not charge workers or people seeking to work with you any recruitment fees or ask them to pay any deposits as a condition of employment. Prohibit your subcontractors and any recruitment agencies you use from charging workers any fees or deposits. Neither you nor any subcontractors or recruitment agencies you use should seize or hold workers’ passports, work permits, or other identity or immigration documents. Do not restrict workers’ freedom of movement or impose threats, coercion, intimidation or other penalties to compel work.
 
+**Verification of Age and Employment Status:** Implement processes to verify the age and legal status of workers to prevent forced or child labor. Require any recruitment agencies or subcontractors or suppliers you use to implement similar processes.
 
-## 2.2 Fair Treatment and Non-Discrimination
+**Written Terms:** Provide clear written terms of employment in a language workers understand.
 
-Suppliers must foster a work environment that is respectful, free from harassment, abuse, or discrimination, and that recognizes and values diversity and inclusion.
+**No Child Labor:** Comply with minimum age laws and applicable international standards in the jurisdictions in which you operate. Create and implement policies and procedures to prevent employment of a Child contrary to relevant International Labour Organization standards. A “Child” is any person under the age of 15, or under the age for completing compulsory education, or under the minimum age for employment in the relevant jurisdiction, whichever is greater.
 
-  * **Equal Opportunity:** Provide equal employment opportunities regardless of race, color, religion, gender, age, national origin, disability, marital status, sexual orientation, or any other protected characteristic under applicable laws.
-  * **Respectful Workplace:** Maintain a workplace where all individuals are treated with respect and dignity. Any form of harassment, bullying, or intimidation is unacceptable.
-  * **Grievance Mechanisms:** Implement effective grievance mechanisms to allow employees to voice concerns without fear of retaliation.
+**Young Workers** : Workers under 18 shall not perform work that is likely to jeopardize their health, safety, morals, or education, including night work or overtime. Protect apprentices, interns, students, and other young workers from work that could jeopardize their health, safety, or education.
 
+**Remediation:** If child labor or forced labor is identified, Suppliers shall promptly provide or cooperate in appropriate remediation that prioritizes the affected person’s safety, rights, education, and economic wellbeing.
 
+### 2.2 Fair Treatment and Non-Discrimination
 
-## 2.3 Working Hours, Overtime, and Benefits
+Suppliers shall foster a work environment that is respectful, free from harassment, abuse, or discrimination, and that recognizes and values diversity and inclusion.
 
-Suppliers must ensure that working hours, overtime, and benefits comply with all applicable laws and OpenAI standards and that workers are provided with fair compensation and humane working conditions.
+**Equal Opportunity:** Provide equal employment opportunities regardless of race, color, religion, gender, age, national origin, disability, marital status, sexual orientation, or any other protected characteristic under applicable laws.
 
-  * **Working Hours:** Comply with laws regulating working hours and overtime. Ensure that workers are not required to work excessive hours and that they receive adequate rest periods.
-  * **Overtime Pay:** Compensate workers for overtime at rates defined by law or industry standards, whichever is higher.
-  * **Benefits:** Provide all legally mandated benefits, such as social security, health insurance, and paid leave.
-  * **Transparency in Pay Structure:** On or before onboarding, clearly communicate pay structure, benefits, deductions, and terms of employment to all workers.
+**Respectful Workplace:** Maintain a workplace where all individuals are treated with respect and dignity. Any form of harassment, bullying, or intimidation is unacceptable.
 
+### 2.3 Employment Practices 
 
+Suppliers shall create and follow policies for working hours, overtime, and benefits that comply with all applicable laws and provide workers with fair compensation and humane working conditions.
 
-## 2.4 Freedom of Association and Collective Bargaining
+**Working Hours:** Comply with all applicable laws and collective bargaining agreements on working hours, overtime, rest periods, and days off. Further, a workweek shall not be more than 60 hours per week, including overtime, except in emergency or unusual situations. All overtime shall be voluntary. Workers shall be allowed at least one day off every seven days. All workers shall receive adequate rest and meal breaks and be allowed to take them.
 
-Suppliers must respect the rights of workers to freely associate, join unions, seek representation, and engage in collective bargaining, consistent with applicable law and practice.
+**Pay:** Pay workers on time and comply with all applicable wage laws, including minimum wage laws. Compensate workers for overtime at rates defined by law or recognized industry standards, whichever is higher. Do not use wage deductions as a disciplinary measure. Provide equal pay for equal work and qualification. 
 
-## 3\. Subcontractors and Supply Chain Management
+**Classification:** Classify workers according to applicable law. Do not use third parties to directly or indirectly avoid legal or Code obligations, including through intermediaries, subcontracting, or platform arrangements. 
 
-Suppliers are responsible for ensuring that their subcontractors and sub-tier suppliers also adhere to the principles set forth in this Code.
+**Benefits:** Provide all legally mandated benefits, such as health insurance and paid leave and meet all employer obligations, such as public pension, social welfare funds, and social security obligations.
 
-## 3.1 Selection and Monitoring of Subcontractors
+**Transparency in Pay:** On or before onboarding, clearly communicate pay structure, benefits, deductions, and terms of employment to all workers. Provide workers with timely, understandable wage statements.
 
-  * **Due Diligence:** Conduct due diligence when selecting subcontractors, ensuring alignment with OpenAI's ethical, social, and legal standards.
-  * **Contracts and Agreements:** Include provisions in contracts and agreements with subcontractors that require adherence to this Code.
-  * **Monitoring and Auditing:** Implement regular monitoring and auditing processes to assess subcontractors' compliance with this Code.
-  * **Corrective Actions:** Take appropriate corrective actions if noncompliance is identified, up to and including termination of the relationship if necessary.
+### 2.4 Freedom of Association and Collective Bargaining
 
+Suppliers shall respect the rights of workers to freely associate, join unions, seek representation, and engage in collective bargaining, consistent with applicable law and practice. Suppliers shall allow workers and worker representatives to communicate openly with management about working conditions and compensation without fear of discrimination, reprisal, intimidation, or harassment. Where rights to freedom of association and collective bargaining are restricted by applicable law, Suppliers shall support lawful alternative forms of worker representation.
 
+## 3\. Whistleblower Protection and Reporting 
 
-## 4\. Whistleblower Protection and Reporting Mechanism
+Suppliers shall protect whistleblowers and provide channels for them to report concerns about potential violations of this Code.
 
-## 4.1 Whistleblower Protection
+**Reporting:** Provide accessible reporting channels for workers to raise concerns. Permit confidential reporting and, where appropriate, anonymous reporting. Make channels available to temporary, agency, subcontracted, platform, remote, and other indirect or nontraditional workers performing work connected with OpenAI.   
+  
+Suppliers shall not prevent or discourage any person from reporting concerns directly to OpenAI, a government authority, or another legally protected reporting channel. Concerns involving OpenAI or OpenAI-related work may be reported through [_https://openai.integrityline.com_ ⁠(opens in a new window)](<https://openai.integrityline.com>). Open and transparent reporting is encouraged; however, individuals may also choose to submit reports anonymously through the reporting channel.
 
-OpenAI encourages reporting of any concerns or violations related to this Code and is committed to ensuring protection for whistleblowers.
+**Non-Retaliation:** Do not retaliate against anyone who raises concerns in good faith about violations of the law or non-compliance with this Code. Implement a policy confirming your commitment to non-retaliation. 
 
-  * **Reporting:** Provide channels for reporting of concerns, ensuring that whistleblowers can raise issues without fear of reprisal, all consistent with applicable law.
-  * **Non-Retaliation Policy:** Implement a strict non-retaliation policy that protects whistleblowers from harassment, discrimination, or any adverse employment action.
-  * **Investigation and Resolution:** Investigate all reported concerns promptly, impartially, and confidentially, and take appropriate actions to address and resolve the issues.
-  * **Training and Communication:** Educate and inform employees, subcontractors, and suppliers about the whistleblower policy and reporting mechanisms, ensuring that everyone understands their rights and responsibilities.
+**Investigation and Resolution:** Investigate all reported concerns promptly, impartially, and confidentially, and take appropriate actions to address and resolve the issues.
 
+## 4\. Health and Safety
 
+### 4.1 Occupational Health and Safety Management
 
-## 5\. Health and Safety
+Suppliers shall provide a safe and healthy work environment and comply with all applicable health and safety laws, regulations, and standards and obtain and keep current all required permits. Suppliers shall maintain a risk-based health and safety management system appropriate to the nature of their operations.
 
-## 5.1 Occupational Safety
+**Personal Protective Equipment (PPE):** Supply appropriate PPE to workers as needed and create and implement policies regarding proper use and maintenance.
 
-Suppliers must prioritize workers' safety and wellbeing, providing a safe and healthy work environment.
+**Emergency Preparedness:** Maintain risk-based emergency plans and procedures appropriate to the worksite.
 
-  * **Compliance with Safety Laws:** Adhere to all applicable health and safety laws, regulations, and standards.
-  * **Risk Assessment:** Conduct regular risk assessments to identify and mitigate occupational hazards.
-  * **Training and Education:** Provide ongoing training and education to workers on health and safety practices and procedures.
-  * **Personal Protective Equipment (PPE):** Supply appropriate PPE to workers as needed, and ensure proper use and maintenance.
-  * **Reporting and Investigation of Incidents:** Implement processes for reporting and investigating workplace incidents, including near misses, injuries, illnesses, and fatalities. Take corrective actions to prevent recurrence.
+**Incident Reporting and Investigation:** Implement processes for reporting and investigating workplace incidents, including near misses, injuries, illnesses, and fatalities. Take corrective actions to prevent recurrence. 
 
+**Worker’s Rights:** Provide health and safety information and training in a language workers understand. Workers shall be permitted to remove themselves from imminent danger and report health and safety concerns without retaliation.
 
+**Facilities and Living Conditions:** Provide clean toilets, potable water, sanitary food facilities, and safe, clean housing where provided by Supplier or a labor agent.
 
-## 6\. Environmental Responsibility
+### 4.2 Human Data Service Providers
 
-## 6.1 Compliance with Environmental Laws
+Suppliers shall identify, assess, and manage occupational, psychological, privacy, and other workplace risks associated with human data services, including data labeling, annotation, classification, transcription, content moderation, model evaluation, red teaming, prompt or response review, reinforcement learning feedback, and trust and safety review.
 
-Suppliers must operate in full compliance with all applicable environmental laws, regulations, permits, and standards.
+**Psychological Health and Wellbeing:** Assess and mitigate psychological risks from exposure to graphic, violent, sexual, hateful, discriminatory, illegal, traumatic, or otherwise distressing content. Provide appropriate task notice, training, regular breaks, task rotation or exposure limits, and confidential mental health or psychosocial support where needed.
 
-  * **Environmental Permits:** Obtain and maintain all necessary environmental permits and comply with their terms and conditions.
-  * **Waste Management:** Implement responsible waste management practices, including reduction, recycling, and proper disposal of waste, in accordance with legal requirements.
-  * **Hazardous Materials:** Manage and handle hazardous materials responsibly, ensuring proper storage, labeling, transportation, and disposal.
+**Worker Choice and Escalation:** Disclose to workers in the recruitment process psychologically unsafe activities to support worker choice to participate. Provide channels for workers to pause, decline, or escalate tasks that are psychologically unsafe or outside agreed work parameters without retaliation or loss of legally owed pay.
 
+**Fair Performance Expectations:** Set quality and productivity expectations that are reasonable, transparent, and consistent with safe work. Suppliers shall not require unpaid work, concealment of concerns, or excessive work pace to meet performance targets.
 
+**Worker Privacy and Dignity:** Comply with all applicable laws around the collection and use of worker monitoring data and limit the same to legitimate purposes, protect that data based on its sensitivity, and communicate how it is used.
 
-## 7\. Privacy and Data Security
+**Monitoring and Productivity:** Any use of productivity quotas, surveillance, automated quality controls, or algorithmic management shall be lawful, disclosed, proportionate, and consistent with worker dignity. These tools shall not be used to require excessive hours, create an unsafe work pace, discourage breaks, retaliate against workers, or withhold legally owed pay.
 
-## 7.1 Privacy
+### 4.3 Hardware and Industrial Operations 
 
-Suppliers are expected to comply with all privacy and data security laws and regulations in all of the jurisdictions in which they operate or are established.
+Suppliers shall identify, assess, and manage occupational health, safety, and environmental risks associated with hardware and industrial operations, including the design, manufacture, assembly, procurement, distribution, maintenance, refurbishment, recycling, and disposal of hardware, electronics, components, devices, sensors, embedded systems, electromechanical equipment, and other physical technology or infrastructure. Suppliers shall implement appropriate controls for chemical, biological, physical, ergonomic, and machinery-related hazards, including risk assessment, exposure monitoring where appropriate, safe operation training, machine safeguarding and maintenance, emergency preparedness, worker training, and appropriate protections for vulnerable workers, including pregnant and nursing workers.
 
-## 7.2 Data Security
+## 5\. Environmental Responsibility
 
-Suppliers are also expected to comply with standard industry practices with respect to data security by providing appropriate technical and organizational measures to protect data based on its sensitivity.
+### 5.1 Environmental Compliance 
+
+Suppliers shall comply with all applicable environmental laws, regulations, permits, approvals, reporting obligations, and legally binding standards. 
+
+**Permits and Reporting:** Obtain, maintain, and keep current all required environmental permits and promptly address any material violation or regulatory noncompliance relating to goods or services provided to OpenAI.
+
+**Regulated Materials, Emissions, and Waste Compliance:** Comply with applicable requirements governing hazardous materials, restricted substances, air emissions, wastewater, soil contamination, solid and hazardous waste, product labeling, recycling, transportation, and disposal. 
+
+### 5.2 Pollution and Environmental Management
+
+Suppliers shall identify material environmental impacts associated with their operation, products, and services. They shall implement practices to minimize or prevent pollution, conserve natural resources, and reduce adverse impacts on communities, the environment, and public health. Environmental management practices shall be proportionate to the nature, scale, and environmental risk of the Supplier’s operations.
+
+**Environmental Controls and Tracking:** Track and document material environmental data and manage environmental risks.
+
+**Pollution Prevention and Resource Efficiency:** Monitor and treat air emissions and wastewater as required before discharge. Reduce waste at the source where practical. Implement responsible waste management practices, including reduction and recycling.
+
+**Community and Public Health Impacts:** Take reasonable measures to reduce adverse environmental impacts on communities, public health, and the environment.
+
+### 5.3 Responsible Minerals 
+
+These requirements apply to Suppliers that provide products to OpenAI containing minerals, metals, or other materials, including tin, tantalum, tungsten, gold, cobalt, lithium, nickel, copper, aluminum, mica, rare earth elements, and other materials designated by OpenAI or applicable law. 
+
+**Responsible Sourcing and Minerals:** Maintain a responsible minerals policy and due diligence processes.
+
+**Traceability and Lifecycle Management:** Where relevant and reasonably available, maintain chain-of-custody information and support reasonable traceability to smelters, refiners, recyclers, or other relevant control points. 
+
+**Product Life-Cycle and E-Waste:** Reduce environmental impact by prioritizing durability, repair, reuse, refurbishment, recycling, responsible disposal, and the reduction of hazardous e-waste.
+
+### 5.4. Resource-Intensive Operations
+
+Suppliers shall identify, assess, and manage environmental risks and impacts associated with resource-intensive operations, including cloud, data center, networking, and related infrastructure services. Suppliers shall implement appropriate measures to monitor and reduce energy use, greenhouse gas emissions, water consumption, waste generation, and other material environmental impacts, and take reasonable steps to support responsible resource management, climate resilience, and protection of affected communities and the environment.
+
+**Environmental Data:** Track and document energy use and Scope 1, Scope 2, and significant Scope 3 emissions, i.e. follow the [_GHG Protoco_ _l_ ⁠(opens in a new window)](<https://ghgprotocol.org/>), and provide OpenAI with reasonably requested data regarding electricity consumption, clean energy procurement (distinguish between market and location-based), emissions, water use, water-stress context, refrigerants, waste, and data center efficiency indicators annually for the previous calendar year.
+
+**Direct Reductions:** Prioritize energy efficiency, low-carbon and clean electricity, responsible water stewardship, pollution prevention, climate resilience, and waste reduction. Offsets shall generally not be used as a substitute for feasible direct reductions, however OpenAI may consider certain robust market-based reductions depending on the situation if discussed in advance.
+
+**Community and Land Impacts:** Where new or expanded infrastructure may materially affect local communities, land, water, cultural resources, or Indigenous Peoples, support meaningful stakeholder engagement and approaches to minimize impacts.
+
+## 6\. Privacy and Data Security
+
+### 6.1 Basic Privacy and Data Security Requirements 
+
+Suppliers shall collect, access, use, store, transmit, and process data lawfully, transparently, and ethically, and only as authorized by OpenAI. 
+
+**Privacy** : Comply with all applicable privacy and data protection laws and regulations. 
+
+**Data Security and Integrity:** Comply with all applicable data security laws and regulations, as well as standard industry practices. Maintain appropriate administrative, technical, and physical safeguards to protect the confidentiality, integrity, and availability of personal data, intellectual property, and other sensitive information. Security measures shall be proportionate to the nature and sensitivity of the data and the risks associated with the Supplier’s activities. 
+
+**Incidents:** Suppliers shall notify OpenAI in writing without undue delay and within 48 hours of becoming aware of any actual or suspected security incident, or sooner if required by their agreement. This includes unauthorized access, data loss, compromised models or systems, material vulnerabilities, and unauthorized subprocessors. Incident reporting and response shall align with [_OpenAI’s Supplier Security Measures_ ⁠](<https://openai.com/policies/supplier-security-measures/>) and applicable contractual requirements. Suppliers shall cooperate with OpenAI in investigating, containing, and remediating such incidents.
+
+### 6.2 AI, Data, and Technical Services
+
+Suppliers shall identify, assess, and manage privacy, data security, intellectual property, and other risks associated with AI-enabled software or tools, technical services, testing, evaluations, integrations, data, content, datasets, licensing, data brokerage, collection, scraping, enrichment, and data processing services, comply with all relevant laws, and implement controls proportionate to the nature, sensitivity, and use of the materials or services provided to OpenAI as a means to protect the rights of users and workers in the human data services supply chain. 
+
+**AI Tools and Third Parties:** Suppliers shall disclose and obtain approval for AI tools, model providers, or subprocessors that access, process, or generate OpenAI data or work products. OpenAI data or work products shall not be used for model training, reuse, or retention.
+
+**Provenance, Rights, and Restrictions:** Maintain records sufficient to establish provenance of data, content, model outputs, evaluations, benchmarks, synthetic data, and other materials supplied to OpenAI. Obtain and comply with all required rights, licenses, permissions, consents, use restrictions, attribution requirements, retention obligations, and deletion requirements.
+
+**Responsible AI and Data Practices:** Preserve integrity and transparency in data, datasets, model outputs, evaluations, benchmarks, synthetic data, AI-enabled tools, and technical services supplied to OpenAI. Do not falsify, manipulate, mislabel, or conceal material information about data origin, human involvement, synthetic generation, model performance, limitations, or safety-relevant defects.
+
+**Sensitive Data:** Meet all legal requirements and apply heightened controls for sensitive personal data, biometric data, precise location data, children's data, health data, financial data or government-identification data, and data relating to protected characteristics.
+
+**Prohibited Collection Methods:** Do not obtain data through deception, coercion, unauthorized access, unlawful surveillance, or other methods that undermine individual rights or legitimate expectations of privacy.
+
+**Notice to OpenAI:** Notify OpenAI of material restrictions, quality limitations, provenance gaps, required attribution, retention obligations, or deletion requirements related to data or content supplied to OpenAI. 
+
+**Controls:** Implement controls to preserve integrity, traceability, accuracy, completeness, and appropriate documentation of materials and services that may be used in OpenAI products, systems, or services. Controls shall be proportionate to the nature of the materials or services provided.
+
+**Risk Identification and Mitigation:** Identify and mitigate any reasonably foreseeable risks that supplied materials or services may introduce or amplify.
+
+## 7\. Management System 
+
+Suppliers shall maintain an effective, risk-based management system to support compliance with this Code. The management system shall be proportionate to the size, nature, and risk profile of their business and relationship with OpenAI. 
+
+**Policies, Procedures, and Other Controls:** Establish a robust compliance program and risk management system that includes, as appropriate, risk assessments, policies and procedures, controls, training and communication, worker and stakeholder feedback mechanisms, monitoring, and periodic self-assessment. 
+
+**Supply Chain Management:** Conduct risk-based due diligence when selecting subcontractors and sub-tier suppliers involved in providing goods or services to OpenAI for compliance with this Code or equivalent standards. Communicate applicable Code requirements to relevant subcontractors and sub-tier suppliers and maintain a risk-based process to monitor their compliance. Relevant next-tier suppliers shall acknowledge and implement this Code or equivalent standards. Follow all supply chain requirements set forth in Supplier’s agreements with OpenAI, including where applicable, any heightened supply chain security restrictions and risk-based measures required to support public sector customers.
+
+**Records and Cooperation:** Maintain information and records sufficient to demonstrate compliance. Upon reasonable request by OpenAI, provide information, documentation, or access needed to assess such compliance. Such information shall include, but not be limited to, records of all workers, including part-time or contract workers hired through agencies or other third parties, such as the contract terms, age, start and end dates of employment, and any fees paid by or to the worker. Cooperate in good faith with OpenAI’s and authorized third parties’ reasonable efforts to validate compliance with this Code. Suppliers shall maintain appropriate visibility into their supply chains and, upon reasonable request, identify relevant subcontractors and sub-tier suppliers involved in delivering goods or services to OpenAI, including information reasonably necessary to assess material supply-chain risks.
+
+**Remediation:** Promptly address adverse impacts or noncompliance and cooperate with OpenAI on reasonable remediation steps within a mutually agreed timeframe. OpenAI may take appropriate action in response to material or persistent noncompliance, consistent with applicable agreements.
+
+**Continuous Improvement:** Suppliers shall demonstrate compliance, participate in assessments and audits initiated by OpenAI or its agents, and engage in continuous improvement efforts to align with the principles and values articulated in this Code. 
 
 ## Conclusion
 
-OpenAI's Supplier Code of Conduct represents a commitment to ethical governance, human rights, environmental stewardship, responsible business practices, health and safety, and robust whistleblower protections.
-
-Adherence to this Code is vital for maintaining a business relationship with OpenAI. Suppliers are expected to demonstrate compliance, participate in assessments and audits, and engage in continuous improvement efforts to align with the principles and values articulated in this Code.
+OpenAI's Supplier Code of Conduct represents a commitment to ethical governance, human rights, environmental stewardship, responsible business practices, health and safety, and robust whistleblower protections. Adherence to this Code is vital for maintaining a business relationship with OpenAI. 
 
 OpenAI reserves the right to update or modify this Code as needed to reflect changes in laws, regulations, industry standards, or OpenAI's commitments and values.
 
@@ -180,9 +269,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -201,7 +291,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -219,6 +310,9 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -245,6 +339,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -252,6 +347,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
