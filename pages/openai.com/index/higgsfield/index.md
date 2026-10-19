@@ -95,9 +95,13 @@ Built on the same planning-first principles that guide the rest of the platform,
 Here’s how it works:
 
   1. A user pastes in a link to a product page
+
   2. The system analyzes the page to extract brand intent, identify key visual anchors, and understand what matters about the product
+
   3. Once the product is identified, the system maps it into one of the pre-engineered trending presets
+
   4. Sora 2 generates the final video, applying each preset's complex professional standards for camera motion, rhythmic pacing, and stylistic rules
+
 
 
 
@@ -118,9 +122,13 @@ More ambiguous workflows require a different approach. When the system needs to 
 Routing decisions are guided by internal heuristics that weigh:
 
   * Required reasoning depth versus acceptable latency
+
   * Output predictability versus creative latitude
+
   * Explicit versus inferred intent
+
   * Machine-consumed versus human-facing outputs
+
 
 
 
@@ -140,17 +148,17 @@ As OpenAI models continue to evolve, Higgsfield’s system expands with them. Ne
 
 [View all](</news/>)
 
-![Introducing the Agents API — cover image](https://images.ctfassets.net/kftzwdyauwt9/6iP1bamSOXsPLwzFAepmx2/8b8fec31ba235a13ee695a607d7fe641/cover-image.png?w=3840&q=90&fm=webp)
+![Stack Overflow — cover](https://images.ctfassets.net/kftzwdyauwt9/7G7Qm0twGySzDyv7voEB7I/c871019ba810709cd59e761995a21316/stack-overflow-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing the Agents APIProductSep 10, 2026](</index/introducing-the-agents-api/>)
+[Stack Overflow for Agents triples signups with ChatGPT pluginStartupOct 16, 2026](</index/stack-overflow-chatgpt-plugin/>)
 
-![Legora customer story art card - Option C](https://images.ctfassets.net/kftzwdyauwt9/13uynVdSWJS9UT4Y7EppMn/7259e4915a7e6ea2f4c52c2109eace61/square.png?w=3840&q=90&fm=webp)
+![Amp customer story — coiled connection art card](https://images.ctfassets.net/kftzwdyauwt9/7ueTKZ61geJZES6KN76ACv/3b9841c8c17612acba6f72694b63e5f2/amp-beyond-coding-coiled-connection-art-card-hero-cover-1080x1080.png?w=3840&q=90&fm=webp)
 
-[Legora reviewed 41 documents in minutes with GPT-6 AstraStartupSep 3, 2026](</index/legora-financial-statement-review-with-astra/>)
+[Amp puts AI agents to work beyond code with OpenAIStartupOct 14, 2026](</index/amp-beyond-coding/>)
 
-![Playco Astra customer story art card - Option B](https://images.ctfassets.net/kftzwdyauwt9/2GBXEJdShwgtUKQZc9Ojsm/ae87410a653bd421e514515deee02940/playco-art-card-option-b-approved.png?w=3840&q=90&fm=webp)
+![Third Moment Research — First light cover](https://images.ctfassets.net/kftzwdyauwt9/6jW3CeAiaMhCGh860oesQH/ae6448a6ed035231f996fb78ba507484/third-moment-research-first-light-cover-1080x1080.png?w=3840&q=90&fm=webp)
 
-[Playco cut manual fixes 50% prototyping games with GPT-6 AstraStartupSep 3, 2026](</index/playco-game-prototyping-with-astra/>)
+[How Third Moment Research runs 10,000 agents for 36+ hoursStartupOct 14, 2026](</index/third-moment-research/>)
 
 Research
 
@@ -162,10 +170,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -184,7 +192,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -202,6 +211,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -230,6 +240,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

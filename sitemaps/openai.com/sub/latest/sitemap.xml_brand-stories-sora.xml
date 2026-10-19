@@ -3,7 +3,17 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://openai.com/index/sora-vallee-duhamel/</loc>
-    <lastmod>2026-09-08T20:26:10.180Z</lastmod>
+    <lastmod>2026-10-07T16:05:18.725Z</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="ca-ES"
+      href="https://openai.com/ca-ES/index/sora-vallee-duhamel/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ga-IE"
+      href="https://openai.com/ga-IE/index/sora-vallee-duhamel/"
+    />
     <xhtml:link
       rel="alternate"
       hreflang="gu-IN"
@@ -13,6 +23,21 @@
       rel="alternate"
       hreflang="jv-ID"
       href="https://openai.com/jv-ID/index/sora-vallee-duhamel/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ka-GE"
+      href="https://openai.com/ka-GE/index/sora-vallee-duhamel/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="kk-Cyrl"
+      href="https://openai.com/kk-Cyrl/index/sora-vallee-duhamel/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mn-MN"
+      href="https://openai.com/mn-MN/index/sora-vallee-duhamel/"
     />
     <xhtml:link
       rel="alternate"
@@ -26,33 +51,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="kk-Cyrl"
-      href="https://openai.com/kk-Cyrl/index/sora-vallee-duhamel/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ka-GE"
-      href="https://openai.com/ka-GE/index/sora-vallee-duhamel/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="pa-IN"
       href="https://openai.com/pa-IN/index/sora-vallee-duhamel/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ga-IE"
-      href="https://openai.com/ga-IE/index/sora-vallee-duhamel/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ca-ES"
-      href="https://openai.com/ca-ES/index/sora-vallee-duhamel/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mn-MN"
-      href="https://openai.com/mn-MN/index/sora-vallee-duhamel/"
     />
     <xhtml:link
       rel="alternate"

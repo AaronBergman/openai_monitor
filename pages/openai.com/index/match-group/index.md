@@ -79,10 +79,15 @@ Match Group began to explore integrating OpenAI’s API to build new products an
 Match Group has seen employees use ChatGPT Enterprise to improve:
 
   * **Cross-functional collaboration.** Collaboration on technical topics has emerged as one of the most valuable uses of ChatGPT Enterprise, with product managers and designers finding new ways to develop prototypes—even if they don’t know how to code.
+
   * **Focus groups for product usability.** The design team has experimented with GPT‑4’s multimodal capabilities to run simulated user studies. By uploading wireframes and asking ChatGPT to mimic a specific persona, designers can pose questions while they ask the “user” to navigate the interface and provide feedback.
+
   * **Engineering efficiency.** Engineers have used ChatGPT Enterprise to fix bugs, write documentation, architect new APIs, and more. “One eye-opening moment for me happened when a team prototyped a feature by pulling together an iOS app in a single day,” Wu shared. “What shocked me was when I learned that the engineer who had created the prototype had _never_ created an iOS app before—they were using ChatGPT to put the app together on-the-fly.”
+
   * **Knowledge sharing.** Match Group is exploring creating custom GPTs that are accessible to all employees in the Enterprise workspace. For example, creating a GPT that can read through and search all of the internal documentation can help team members better understand everything from trust & safety policies to technical decisions. “ChatGPT has created a culture of self-directed learning,” Wu said.
+
   * **Translation and international collaboration.** “Using ChatGPT for translation has allowed our international teams to truly connect with the rest of our global workforce in a totally new way, enabling an incredible amount of collaboration that transcends language and culture,” Kantor said.
+
 
 
 
@@ -108,15 +113,15 @@ Will Wu, CTO of Match Group
 
 ## Related articles
 
-![Jetbrains > Hero > Media item > Asset](https://images.ctfassets.net/kftzwdyauwt9/46d99f08-c849-4c73-5a6c7b83ea9c/6e0eaaaf815df2a53f997b36ce57ad13/jetbrains.png?w=3840&q=90&fm=webp)
+![White JetBrains logo on a purple background.](https://images.ctfassets.net/kftzwdyauwt9/46d99f08-c849-4c73-5a6c7b83ea9c/6e0eaaaf815df2a53f997b36ce57ad13/jetbrains.png?w=3840&q=90&fm=webp)
 
 [Embedding AI into developer softwareMar 21, 2024](</index/jetbrains/>)
 
-![Unload](https://images.ctfassets.net/kftzwdyauwt9/15d768b2-bd52-4e68-bebaf96d50b3/e3f414371811a69d73091cc36a44ce8f/holiday_extras.png?w=3840&q=90&fm=webp)
+![White Holiday Extras logo on a purple background.](https://images.ctfassets.net/kftzwdyauwt9/15d768b2-bd52-4e68-bebaf96d50b3/e3f414371811a69d73091cc36a44ce8f/holiday_extras.png?w=3840&q=90&fm=webp)
 
 [Building a data-driven, efficient culture with AIMar 18, 2024](</index/holiday-extras/>)
 
-![Screenshot 2024 03 12 At 1128 27am](https://images.ctfassets.net/kftzwdyauwt9/e4cda57a-c977-4855-16b96e288c99/40db1a7d78522f9f9030942dd4a3e72b/superhuman.png?w=3840&q=90&fm=webp)
+![White Superhuman logo on a purple background.](https://images.ctfassets.net/kftzwdyauwt9/e4cda57a-c977-4855-16b96e288c99/40db1a7d78522f9f9030942dd4a3e72b/superhuman.png?w=3840&q=90&fm=webp)
 
 [Reimagining the email experience with AIMar 18, 2024](</index/superhuman/>)
 
@@ -130,9 +135,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -151,7 +157,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -169,6 +176,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -197,6 +205,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

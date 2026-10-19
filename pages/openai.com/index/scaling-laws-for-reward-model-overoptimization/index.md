@@ -56,15 +56,15 @@ Leo Gao, John Schulman, Jacob Hilton
 
 [View all](</news/>)
 
-![Screenshot of a scene from Minecraft](https://images.ctfassets.net/kftzwdyauwt9/ef9fc360-1a5a-4ca3-5c25b83b3564/50c07940455cc86ef84d91526d9cf3e0/vpt.jpg?w=3840&q=90&fm=webp)
+![Hills and trees surrounding a pond in an environment on Minecraft.](https://images.ctfassets.net/kftzwdyauwt9/ef9fc360-1a5a-4ca3-5c25b83b3564/50c07940455cc86ef84d91526d9cf3e0/vpt.jpg?w=3840&q=90&fm=webp)
 
 [Learning to play Minecraft with Video PreTrainingConclusionJun 23, 2022](</index/vpt/>)
 
-![Ai Written Critiques Help Humans Notice Flaws](https://images.ctfassets.net/kftzwdyauwt9/533e7e34-5b5d-4f0b-c175293c0363/1e96f2bf24cec03d982566ac4125beb1/image-8.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting in bold and bright colors.](https://images.ctfassets.net/kftzwdyauwt9/533e7e34-5b5d-4f0b-c175293c0363/1e96f2bf24cec03d982566ac4125beb1/image-8.webp?w=3840&q=90&fm=webp)
 
 [AI-written critiques help humans notice flawsPublicationJun 13, 2022](</index/critiques/>)
 
-![Aligning Language Models To Follow Instructions](https://images.ctfassets.net/kftzwdyauwt9/5b1e6906-9f64-42b7-b5d87c29543b/25be46c3552b7af3af0a1c5a70381626/image-13.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting depicting flowers in a bright and saturated color palette.](https://images.ctfassets.net/kftzwdyauwt9/5b1e6906-9f64-42b7-b5d87c29543b/25be46c3552b7af3af0a1c5a70381626/image-13.webp?w=3840&q=90&fm=webp)
 
 [Aligning language models to follow instructionsPublicationJan 27, 2022](</index/instruction-following/>)
 
@@ -78,9 +78,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -99,7 +100,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -117,6 +119,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -145,6 +148,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

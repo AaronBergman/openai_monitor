@@ -69,9 +69,13 @@ Here’s a simple workflow that works for most writing tasks:
 **Plan → Draft → Revise → Package**
 
   * **Plan** : Clarify the goal, audience, and the “ask” (what should happen next)
+
   * **Draft** : Generate a usable first version quickly
+
   * **Revise** : Improve clarity, flow, tone, and length
+
   * **Package** : Format for the channel (email, memo, FAQ, slide copy, or script)
+
 
 
 
@@ -97,16 +101,22 @@ Turn rough notes into a one-page internal update for leadership.| The audience i
 Rewrite a draft announcement so it is clearer and easier to scan.| The original draft (attached) is too long and uses internal jargon that not everyone understands.  
 | A revised version that is shorter, easier to scan, and written in plain language.  
   
-Refer back to prompt engineering basics for how to craft high-quality prompts.
+Refer back to [prompt engineering basics](</academy/prompting/>) for how to craft high-quality prompts.
 
 ## Tips for success
 
   * Provide a starting point when possible (even a rough draft helps).
+
   * Request a structure or outline first for longer pieces.
+
   * Include constraints like word count, reading level, brand voice, or do's and don’ts.
+
   * Ask for both a revision and a brief rationale if you want to understand changes.
+
   * Verify facts if the content references specific numbers, policies, or claims.
+
   * If you have a specific writing style you want to adhere to more consistently, consider [**building a skill**](</academy/skills/>).
+
 
 
 
@@ -164,9 +174,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -185,7 +196,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -203,6 +215,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -231,6 +244,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

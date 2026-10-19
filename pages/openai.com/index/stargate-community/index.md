@@ -47,16 +47,22 @@ Partnering with local communities starts with understanding local needs. Going f
 Across all of our **Stargate Community** plans,**we commit to paying our own way on energy, so that our operations don’t increase your electricity prices**. Every community and region has unique energy needs and grid conditions, and our commitment will be tailored to the region. Depending on the site, this can range from bringing new dedicated power and storage that the project fully funds, to adding and paying for new energy generation and transmission resources. This commitment can be grounded in specific approaches like:
 
   1. Funding the incremental generation and grid upgrades our load requires
+
   2. Planning transparently and proactively with local utilities, transmission providers, state utility regulators (public utility/service commissions) and regional grid operators
+
   3. Working with utilities, grid operators, and the industry to develop strategies for operating AI campuses as flexible loads, so when peak conditions or grid stress are forecast, we can reduce or curtail consumption and participate in demand-response and grid-stability programs
+
 
 
 
 We are already working with partners to deliver this on existing Stargate campuses. For example:
 
   * In [_Wisconsin_ ⁠(opens in a new window)](<https://vantage-dc.com/news/openai-oracle-and-vantage-data-centers-announce-stargate-data-center-site-in-wisconsin/>), our partners Oracle and Vantage are working with WEC Energy Group to develop new energy generation and capacity, including solar and battery storage.**** Our developer partners are also underwriting 100% of the power infrastructure investment through a dedicated electricity rate from WEC. The proposed rate is designed to protect other customers from price increases associated with the new investments needed to serve the facility.
+
   * In [_Michigan_ ⁠(opens in a new window)](<https://www.related-digital.com/michigan>), our partners Oracle and Related Digital are working with DTE Energy to supply the project’s power using existing resources, augmented by a new battery storage investment financed entirely by the project. The structure is designed to help ensure there is**** no impact on DTE’s existing customers’ energy supply or rates. DTE customers can also benefit from the project contributing its share to the fixed costs of maintaining and improving the grid.
+
   * In [_Texas_](</index/stargate-sb-energy-partnership/>) , our partners SB Energy plans to fund and build new energy generation and storage to supply the majority of the power needed to run the Stargate campus we’re developing together in Milam County.
+
 
 
 
@@ -65,7 +71,9 @@ We’re also encouraged to see one of our key providers, Microsoft, announce [_c
 These are early examples, and we’ll continue to find meaningful ways to benefit local communities including:
 
   * **Minimizing water use and protecting local ecosystems** by prioritizing closed-loop or low-water cooling systems. **AI campuses and deep learning workloads use innovations in cooling water systems design that drastically reduce the water use compared to traditional datacenters**. Water required by our facilities should be a fraction of a community’s overall water use. As Mayor Weldon Hurt of Abilene, Texas [_noted,_ ⁠(opens in a new window)](<https://www.reporternews.com/story/news/2025/10/14/water-electricity-concerns-addressed-by-stargate-data-center-leaders-in-abilene-texas/86585222007/?gnt-cfr=1&gca-cat=p&gca-uir=true&gca-epti=undefined&gca-ft=0&gca-ds=sophi>) the water use at the Abilene site in a year will be half as much as Abilene uses in a single day. These designs are used across all of our Stargate AI campuses - including with Oracle in [_Abilene_ ⁠(opens in a new window)](<https://www.crusoe.ai/resources/blog/an-inside-look-at-the-abilene-ai-data-center>) and [_Shackelford County_ ⁠(opens in a new window)](<https://vantage-dc.com/news/vantage-data-centers-unveils-plans-for-frontier-a-25b-mega-campus-in-texas-to-meet-unprecedented-ai-demand/>), Texas; [_Doña Ana County, New Mexico_ ⁠(opens in a new window)](<https://www.stackinfra.com/about/news-press/press-releases/stack-infrastructure-delivers-digital-infrastructure-for-data-center-campus-in-new-mexico/>); [_Saline Township, Michigan_ ⁠(opens in a new window)](<https://www.related-digital.com/news/openai-oracle-and-related-digital-announce-stargate-data-center-site-in-michigan>), [_Port Washington, Wisconsin_ ⁠(opens in a new window)](<https://vantage-dc.com/news/openai-oracle-and-vantage-data-centers-announce-stargate-data-center-site-in-wisconsin/>) and our latest AI campus with Microsoft in [_Mount Pleasant, Wisconsin_.⁠(opens in a new window)](<https://blogs.microsoft.com/on-the-issues/2025/09/18/made-in-wisconsin-the-worlds-most-powerful-ai-datacenter/>) This approach is paired with site-specific environmental and infrastructure investments developed with local partners. For example, in Wisconsin our partners will[ _invest a minimum of $175M in local infrastructure upgrades and water restoration projects_.⁠(opens in a new window)](<https://vantage-dc.com/news/openai-oracle-and-vantage-data-centers-announce-stargate-data-center-site-in-wisconsin/>)
+
   * **Investing early in local jobs and workforce pathways** by establishing OpenAI Academies as the backbone of regional workforce development in Stargate communities. These Academies will be customized for each site, [_delivering credentials_](</index/openai-certificate-courses/>) and clear pathways into high-quality jobs aligned with local employers and the region’s evolving AI economy. We will launch our first Stargate community OpenAI Academy in Abilene, Texas this spring. We are also engaging alongside our partners with labor unions and workforce partners to support the skilled trades and technical workforce needed to build and operate AI infrastructure at this scale.
+
 
 
 
@@ -87,17 +95,17 @@ OpenAI
 
 [View all](</news/>)
 
-![DMUA Russia > card image ](https://images.ctfassets.net/kftzwdyauwt9/ciRSLFnJsNyxXYQjdoyqu/ff8ab22ad273ff79a4c9840f0c209fe6/Frame.png?w=3840&q=90&fm=webp)
+![The EU’s next chapter in AI is agentic — Cover](https://images.ctfassets.net/kftzwdyauwt9/1KGRRdbE0ggm4hqHd64ywl/f55ce61c0c7e3097ed6ed3744248c343/the-eus-next-chapter-in-ai-is-agentic-cover.png?w=3840&q=90&fm=webp)
 
-[Disrupting a new covert influence campaign from RussiaGlobal AffairsAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
+[Europe’s opportunity to deepen AI useGlobal AffairsOct 14, 2026](</index/the-eus-next-chapter-in-ai-is-agentic/>)
 
-![Strengthening Democratic Oversight in National Security — card image](https://images.ctfassets.net/kftzwdyauwt9/1qebg0OnHIh4dqr84zXR3Q/dba2f0e83ba4615a71894fd7fd1656e1/openai-democratic-oversight-page-cover-v002.png?w=3840&q=90&fm=webp)
+![Helping small businesses put AI to work — card](https://images.ctfassets.net/kftzwdyauwt9/7DQxQ61fzFDJjB09z1T6Xx/41d00e7e9ad08ba9fdd9f4d69071a3e8/helping-small-businesses-put-ai-to-work-cover.png?w=3840&q=90&fm=webp)
 
-[Strengthening Democratic Oversight in National SecurityGlobal AffairsAug 18, 2026](</index/strengthening-democratic-oversight-in-national-security/>)
+[Helping small businesses put AI to workGlobal AffairsSep 30, 2026](</index/helping-small-businesses-put-ai-to-work/>)
 
-![OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs — card image](https://images.ctfassets.net/kftzwdyauwt9/6RUPcXx0eTGghDpM851Qy1/ab11d2d0849ad9544249bf7b77ee46fe/openai-joins-ports-pike-project-cover-v001.png?w=3840&q=90&fm=webp)
+![OpenAI extends cyber access to Ukraine for civilian defense — cover](https://images.ctfassets.net/kftzwdyauwt9/4NsiJiqUurW5ypfaulGCFm/8b5bfad7d895c4fc6aa20766d5c88b0c/openai-extends-cyber-access-to-ukraine-for-civilian-defense-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI joins PORTS-Pike projectGlobal AffairsAug 17, 2026](</index/openai-joins-ports-pike-project/>)
+[OpenAI extends cyber access to Ukraine for civilian defenseGlobal AffairsSep 23, 2026](</index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/>)
 
 Research
 
@@ -109,9 +117,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -130,7 +139,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -148,6 +158,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -176,6 +187,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

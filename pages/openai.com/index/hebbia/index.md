@@ -26,6 +26,14 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
+# Hebbia’s deep research automates 90% of finance and legal work, powered by OpenAI
+
+[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+![The Hebbia logo centered over a close-up image of layered ice or snow, evoking texture and clarity.](https://images.ctfassets.net/kftzwdyauwt9/7jh90pLCv0mh97WOrci2nI/11e92e57eafad1dbd74c848b13536021/oai_hebbia_hero.png?w=3840&q=90&fm=webp)
+
+Share
+
 Achieving state-of-the-art accuracy for professional tasks
 
   * Achieving state-of-the-art accuracy for professional tasks
@@ -35,13 +43,12 @@ Achieving state-of-the-art accuracy for professional tasks
 
 
 
-# Hebbia’s deep research automates 90% of finance and legal work, powered by OpenAI
+  * Achieving state-of-the-art accuracy for professional tasks
+  * Tackling complexity with agent swarms
+  * Delivering real value to financial and law firms
+  * Driving deeper insights and faster decisions
 
-[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
 
-![The Hebbia logo centered over a close-up image of layered ice or snow, evoking texture and clarity.](https://images.ctfassets.net/kftzwdyauwt9/7jh90pLCv0mh97WOrci2nI/11e92e57eafad1dbd74c848b13536021/oai_hebbia_hero.png?w=3840&q=90&fm=webp)
-
-Share
 
 Investors, bankers, consultants, and lawyers spend countless hours combing through market and equity research, virtual data rooms, contracts, and regulatory filings to make high-stakes decisions.
 
@@ -72,11 +79,17 @@ Hebbia’s Matrix gives OpenAI models an infinite effective context window.
 Powered by OpenAI o1’s advanced reasoning and Hebbia’s agent orchestration engine, their Matrix platform: 
 
   * Breaks down complex queries into structured analytical steps
+
   * Intelligently routes tasks to the best AI model for the job
+
   * Processes full documents rather than just excerpts
+
   * Synthesizes answers with full citations for transparency
+
   * Runs larger LLM processing jobs than any other AI application tool
+
   * Builds a self improving index that can proactively update users
+
 
 
 
@@ -91,9 +104,13 @@ Matrix’s agent swarm architecture.
 Hebbia’s approach to multi-agent orchestration—rather than a single-agent chatbot—has delivered significant value to customers:
 
   * Investment bankers save**30–40 hours per deal** creating marketing materials, prepping for client meetings, and responding to counterparties. 
+
   * Private credit teams **automate the extraction** of loan terms and covenants, eliminating days of manual contract review and massive third party spend. 
+
   * Private equity firms save**20–30 hours per deal** on screening, due diligence, and expert network research.
+
   * Law firms reduce credit agreement review time by**75%** , saving **$2,000 per hour** in legal fees.
+
 
 
 
@@ -133,7 +150,7 @@ George Sivulka, CEO at Hebbia
 
 [Driving growth and ‘WOW’ moments with OpenAIMar 12, 2025](</index/ly-corporation/>)
 
-![Cover Image](https://images.ctfassets.net/kftzwdyauwt9/5Dw4XKiVAmmDUIMaZzyl7E/f6c8e08c3f6ae5457e8d90abe3c63621/oai_nubank_1_1.png?w=3840&q=90&fm=webp)
+![Nubank elevates customer experiences with OpenAI](https://images.ctfassets.net/kftzwdyauwt9/5Dw4XKiVAmmDUIMaZzyl7E/f6c8e08c3f6ae5457e8d90abe3c63621/oai_nubank_1_1.png?w=3840&q=90&fm=webp)
 
 [Nubank elevates customer experiences with OpenAIMar 7, 2025](</index/nubank/>)
 
@@ -147,9 +164,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -168,7 +186,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -186,6 +205,9 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -212,6 +234,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -219,6 +242,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
