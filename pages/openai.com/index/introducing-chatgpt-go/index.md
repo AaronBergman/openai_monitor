@@ -59,8 +59,11 @@ Starting today, ChatGPT Go is rolling out everywhere ChatGPT is available. In th
 With this launch, ChatGPT now offers three subscription tiers globally:
 
   * ChatGPT Go at $8 USD/month*
+
   * ChatGPT Plus at $20 USD/month
+
   * ChatGPT Pro at $200 USD/month
+
 
 
 
@@ -71,7 +74,9 @@ With this launch, ChatGPT now offers three subscription tiers globally:
 ChatGPT Go is designed for people who want expanded access to our latest model, GPT‑5.2 Instant, at a lower price point—more messages, more uploads, and more image creation. With ChatGPT Go, you get:
 
   * 10x more messages, file uploads and image creation than the free tier, so you can keep chatting with no limits on GPT‑5.2 Instant.
+
   * Longer memory and context window, so ChatGPT can remember more helpful details about you over time.
+
 
 
 
@@ -105,17 +110,15 @@ OpenAI
 
 [View all](</news/>)
 
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
+![Rosalind Academic Plan - Card](https://images.ctfassets.net/kftzwdyauwt9/7EaxSuBblXvd3Y6G2WLoET/4563ce56737d9c0ed1f05358f43c8a7d/rosalind-academic-plan-card.png?w=3840&q=90&fm=webp)
 
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
+[Introducing the Rosalind Academic PlanResearchOct 15, 2026](</index/introducing-the-rosalind-academic-plan/>)
 
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
+![Helping teens learn, plan, and shape the future of AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/3Gg3FDcLbArW4ZsVN8Ry5m/2dcb5d7f34f6cdedec3c6a3e6df83871/teens-learn-and-plan-cover.png?w=3840&q=90&fm=webp)
 
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
+[Helping teens learn, plan, and shape the future of AIProductOct 7, 2026](</index/teens-learn-and-plan/>)
 
-![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
-
-[Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
+[GPT-6 and Intelligent UI for everyoneProductOct 7, 2026](</index/gpt-6-for-everyone/>)
 
 Research
 
@@ -127,9 +130,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -148,7 +152,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -166,6 +171,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -194,6 +200,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

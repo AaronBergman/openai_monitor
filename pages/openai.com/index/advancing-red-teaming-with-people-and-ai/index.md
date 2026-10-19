@@ -112,8 +112,11 @@ Our research finds that more capable AI can further help automated red teaming i
 Red teaming isn’t a complete solution for assessing AI risks. Its limitations include:
 
   1. **Relevance over time:** Red teaming captures risks at a specific moment, which may change as models evolve.
+
   2. **Information hazards:** The process of red teaming, particularly with frontier AI systems, can create information hazards that might enable misuse. For example, exposing a jailbreak or technique to generate potentially harmful content that is not yet widely known could accelerate bad actors’ misuse of the models. Managing this risk requires control of information, stringent access protocols, and responsible disclosure practices. 
+
   3. **Increase in human sophistication:** As models become more capable and their ability to reason in sophisticated domains becomes more advanced, there will be a higher threshold for knowledge humans need to possess to correctly judge the potential risks of outputs. 
+
 
 
 
@@ -155,9 +158,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -176,7 +180,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -194,6 +199,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -222,6 +228,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

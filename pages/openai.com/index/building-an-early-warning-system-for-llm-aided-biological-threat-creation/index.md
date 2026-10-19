@@ -163,10 +163,15 @@ Exercises were given to participants in a random order so as to control for the 
 We assessed participant performance across five outcome metrics, to determine if GPT‑4 contributed to improvements in task performance: 
 
   * **Accuracy** on a scale of 1–10 was designed to measure whether a participant successfully included all key steps needed to complete the task, where a 10 represented successful task completion.
+
   * **Completeness** on a scale of 1–10 was designed to measure whether a participant successfully included all tacit information needed to complete key steps, where a 10 represented including all necessary details.
+
   * **Innovation** on a scale of 1–10 was designed to measure whether a participant was able to engineer novel approaches to the task, including solutions not anticipated by the accuracy or completeness rubrics, where a 10 represented a maximally innovative response.
+
   * **Time taken** to complete each task was extracted directly from the participant data.
+
   * **Self-rated difficulty** on a scale of 1–10. Participants directly scored their perceived level of difficulty for each task, where a 10 represented a maximally difficult task.
+
 
 
 
@@ -179,8 +184,11 @@ As with the content of the tasks, we refrain from sharing the rubric here to pre
 The answer was then scored on a scale of 1–10 for each of the accuracy, completeness, and innovation metrics, with example criterions for each listed below:
 
   * Accuracy: An example criterion evaluated whether the participant included a list of necessary components such as the correct helper plasmids for this task. Note that accuracy scores were not linearly additive. If a participant missed a preliminary step, they did not receive any points for more advanced steps for that particular category. This was because failing at a basic step would prevent success on any further steps in that section. 
+
   * Completeness: An example criterion evaluated whether the participant included a list of necessary reagents and their vendors, and if there was sufficient detail on genome size and complexity. 
+
   * Innovation: An example criterion was whether the participant designed a novel strategy to circumvent DNA synthesis screening guardrails.
+
 
 
 
@@ -241,20 +249,30 @@ Our methodology has a number of limitations. Some are specific to our current im
 Implementation limitations:
 
   1. _Representativeness of student cohort_ : Due to the nature of the sourcing process we used for this evaluation, our student cohort is likely not fully representative of undergraduate-level biorisk knowledge. It skewed more educated and experienced than we initially expected, and we note the median age of 25. Therefore, we refrain from drawing strong conclusions about the implications of our student cohort’s performance on generalizable student-level performance uplift, or comparison of the performance of the student cohort to the expert cohort. We are exploring a different sourcing strategy for the next iteration of our evaluation to address this issue.
+
   2. _Statistical power_ : While this is the largest evaluation of its kind conducted to date, considerations regarding information hazards, cost, and time still limited the number of participants to 100. This constrained the statistical power of the study, allowing only very large effect sizes to be detected. We intend to use the data from this initial version of the evaluation in power calculations to determine sample size for future iterations.
+
   3. _Time constraints_ : Due to our security considerations, participants were constrained to 5-hour, live, proctored sessions. However, malicious actors are unlikely to be bound by such strict constraints. So, it may be useful to explore in the future ways to provide more time for participants. (We, however, note that only 2 of the 100 participants did not finish their tasks during the allotted time, and that median completion time was 3.03 hours for the expert group and 3.16 hours for the student group.)
+
   4. _No GPT‑4 tool usage_ : Due to our security measures, the GPT‑4 models we tested were used without any tools, such as Advanced Data Analysis and Browsing. Enabling the usage of such tools could non-trivially improve the usefulness of our models in this context. We may explore ways to safely incorporate usage of these tools in the future. 
+
   5.  _Individuals rather than groups_ : This evaluation was carried out by individuals. We note that an alternative scenario may be groups of people working together to carry out tasks, as has been the case for some past bioterror attacks. However, we chose to focus on individual actors, who have been responsible for biological attacks in the past (see, e.g., [Hamm and Spaaj, 2015⁠(opens in a new window)](<https://www.ojp.gov/pdffiles1/nij/grants/248691.pdf>)) and can be challenging to identify ([ICCT 2010⁠(opens in a new window)](<https://www.icct.nl/sites/default/files/2023-02/ICCT-Bakker-deGraaf-EM-Paper-Lone-Wolves.pdf>)). In future evaluations, we plan to investigate group work too.
+
   6. _Question details_ : We cannot be sure that the questions we asked in the biological threat development process perfectly captured all aspects of the given task type. We aim to use the observations from our evaluation to refine tasks to use in future evaluations.
+
   7. _Difficulty avoiding GPT‑4 safety guardrails for student cohort_ : We qualitatively observed that participants with access to the standard version of GPT‑4 (i.e., not the research-only one) spent a non-trivial amount of time on trying to work around its safety mechanisms.
+
 
 
 
 Experimental design limitations:
 
   1. _Tasks evaluate information access, not physical implementation_ : Information alone is not sufficient to actually create a biological threat. In particular, especially for a representative student-level-experience group, successful physical development of the threat may represent a sizable obstacle to threat success.
+
   2. _Novel threat creation_ : We did not test for an AI model’s ability to aid in the development of novel biological threats. We think this capability is unlikely to arise before AI models can accelerate information acquisition on existing threats. Nevertheless, we believe building evaluations to assess novel threat creation will be important in the future.
+
   3. _Setting thresholds for what constitutes “meaningful” risk_ : Translating quantitative results into a meaningfully calibrated threshold for risk turns out to be difficult. More work is needed to ascertain what threshold of increased biological threat information access is high enough to merit significant concern.
+
 
 
 
@@ -269,7 +287,9 @@ Our goal in building this evaluation was to create a “tripwire” that would t
 **We need more research around how to set thresholds for biorisk**. It is not yet clear what level of increased information access would actually be dangerous. It is also likely that this level changes as the availability and accessibility of technology capable of translating online information into physical biothreats changes. As we operationalize our Preparedness Framework, we are eager to catalyze discussion surrounding this issue so that we can come to better answers. Some broader questions related to developing this threshold include:
 
   * How can we effectively set “tripwire” thresholds for our models ahead of time? Can we agree on some heuristics that would help us identify whether to meaningfully update our understanding of the risk landscape?
+
   * How should we conduct statistical analysis of our evaluations? Many modern statistics methodologies are oriented towards minimizing false positive results and preventing p-hacking (see, e.g., [Ioannidis, 2005⁠(opens in a new window)](<https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124>)). However, for evaluations of model risk, false negatives are potentially much more costly than false positives, as they reduce the reliability of tripwires. Going forward, it will be important to choose statistical methods that most accurately capture risks. 
+
 
 
 
@@ -284,10 +304,15 @@ We are eager to engage in broader discussion of these questions, and plan to use
 We also considered information hazards when deciding the sample size for this evaluation. Specifically, we want this to be a repeatable evaluation and, every time we run this evaluation, it will create a new group of people that are exposed to more information about creating biological threats. We also considered the fact that as other model developers conduct these types of evaluations, the population that is exposed to this information will increase even further. A goal was therefore to keep the total number exposed to the information as low as possible without sacrificing the integrity of the evaluation. **Participant precautions.** We took five key precautions when screening our participants:
 
   1. All participants were US persons (specifically, US citizens or permanent residents);
+
   2. All participants passed a criminal background check;
+
   3. All participants received dual-use training, confidentiality training, and language model use training (detailed further below);
+
   4. All participants signed an NDA; and 
+
   5. All participants provided informed consent as part of the Gryphon Scientific IRB process.
+
 
 
 
@@ -354,14 +379,18 @@ The standard GPT‑4 model used in this evaluation was equivalent to `gpt-4-0613
 In addition to the numerous quantitative metrics provided above, we conducted a brief qualitative analysis on a sample of 10 responses containing conversations with models from each of the student and expert arms. A few interesting notes:
 
   1. The expert group qualitatively asked more detailed questions, as expected given their advanced biology knowledge.
+
   2. Even beyond safety, the research-only GPT‑4 model exhibited qualitatively different behavior in its responses. For example, its lists were longer (18 vs. 10 items in one example), it was willing to cite (sometimes hallucinated) sources with URLs (whereas GPT‑4 often refuses to sample URLs), and wrote more numerical statistics in its outputs. 
+
 
 
 
 We also conducted an analysis of the prevalence of refusals that participants faced from the models, as encountering refusals was likely a major difference for the student group (which does not have the research-only model) compared to the expert group. Note that the following numbers also include a small number of technical errors (e.g., transient connection issues) reported by our architecture, which are presented in the conversation in a similar way to refusals.
 
   * According to a permissive regex check, 30 (~10%) of student conversations and 3 (~1%) of expert conversations included a refusal.
+
   * Using a zero-shot GPT‑4 refusal + error classifier, we found that 28 responses in the student group encountered issues (refusals or errors), while only 17 in the expert group did as well.
+
 
 
 
@@ -408,15 +437,15 @@ Alex Iftimie, Arka Dhar, Audrey Cerles, Ben Newhouse, Boris Petrov, Collin Burns
 
 [View all](</news/>)
 
-![Disrupting malicious > media](https://images.ctfassets.net/kftzwdyauwt9/5080983d-9c4d-4479-17e421d7380a/0b42f77c2478bc5bc7bde3fddfc68462/45.png?w=3840&q=90&fm=webp)
+![Painterly depiction of a vibrant orange flower on a stem, rendered with a soft focus and warm yellow tones.](https://images.ctfassets.net/kftzwdyauwt9/5080983d-9c4d-4479-17e421d7380a/0b42f77c2478bc5bc7bde3fddfc68462/45.png?w=3840&q=90&fm=webp)
 
 [Disrupting malicious uses of AI by state-affiliated threat actorsSecurityFeb 14, 2024](</index/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors/>)
 
-![Democratic Inputs To AI Grant Program Update](https://images.ctfassets.net/kftzwdyauwt9/f50ce1d2-4f61-4ed2-e560c624d631/6f4dd4542898a35d0a91b137f85c9834/Democratic_inputs_to_AI_grant_program_lessons_learned_and_implementation_plans.jpg?w=3840&q=90&fm=webp)
+![Abstract floral pattern with vibrant purple blooms on a green backdrop](https://images.ctfassets.net/kftzwdyauwt9/f50ce1d2-4f61-4ed2-e560c624d631/6f4dd4542898a35d0a91b137f85c9834/Democratic_inputs_to_AI_grant_program_lessons_learned_and_implementation_plans.jpg?w=3840&q=90&fm=webp)
 
 [Democratic inputs to AI grant program: lessons learned and implementation plansSafetyJan 16, 2024](</index/democratic-inputs-to-ai-grant-program-update/>)
 
-![How OpenAI Is Approaching 2024 Worldwide Elections](https://images.ctfassets.net/kftzwdyauwt9/d78a3b67-71f0-4487-11a12a93d112/e9c0e0f44848f6b3aafa1be16f03a381/how-openai-is-approaching-2024-worldwide-elections.jpg?w=3840&q=90&fm=webp)
+![Colorful abstract painting with a multitude of bright splashes and shapes.](https://images.ctfassets.net/kftzwdyauwt9/d78a3b67-71f0-4487-11a12a93d112/e9c0e0f44848f6b3aafa1be16f03a381/how-openai-is-approaching-2024-worldwide-elections.jpg?w=3840&q=90&fm=webp)
 
 [How OpenAI is approaching 2024 worldwide electionsCompanyJan 15, 2024](</index/how-openai-is-approaching-2024-worldwide-elections/>)
 
@@ -430,9 +459,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -451,7 +481,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -469,6 +500,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -497,6 +529,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Superalignment Fast Grants
-
-  * Superalignment Fast Grants
-  * Join us in this challenge
-
-
-
 December 14, 2023
 
 [Safety](</news/safety-alignment/>)
@@ -48,6 +41,18 @@ Justin Jay Wang ✗ DALL·E
 Loading…
 
 Share
+
+Superalignment Fast Grants
+
+  * Superalignment Fast Grants
+  * Join us in this challenge
+
+
+
+  * Superalignment Fast Grants
+  * Join us in this challenge
+
+
 
 We’re launching $10M in grants to support technical research towards the alignment and safety of superhuman AI systems, including weak-to-strong generalization, interpretability, scalable oversight, and more.
 
@@ -66,9 +71,13 @@ As part of our [Superalignment⁠](</superalignment/>) project, we want to rally
 In partnership with Eric Schmidt, we are launching a $10M grants program to support technical research towards ensuring superhuman AI systems are aligned and safe:
 
   * We are offering $100K–$2M grants for academic labs, nonprofits, and individual researchers.
+
   * For graduate students, we are sponsoring a one-year **$150K OpenAI Superalignment Fellowship:** $75K in stipend and $75K in compute and research funding.
+
   * No prior experience working on alignment is required; we are actively looking to support researchers who are excited to work on alignment for the first time.
+
   * Our application process is simple, and we’ll get back to you within four weeks of applications closing.
+
 
 
 
@@ -79,9 +88,13 @@ In partnership with Eric Schmidt, we are launching a $10M grants program to supp
 With these grants, we are particularly interested in funding the [following research directions⁠(opens in a new window)](<https://openai.notion.site/Research-directions-0df8dd8136004615b0936bf48eb6aeb8>):
 
   * **Weak-to-strong generalization** : Humans will be weak supervisors relative to superhuman models. Can we understand and control how strong models [generalize from weak supervision⁠](</index/weak-to-strong-generalization/>)? 
+
   * **Interpretability** : How can we understand model internals? And can we use this to e.g. build an AI lie detector?
+
   * **Scalable oversight** : How can we use AI systems to assist humans in evaluating the outputs of other AI systems on complex tasks?
+
   * Many other research directions, including but not limited to: **honesty** , **chain-of-thought faithfulness** , **adversarial robustness** , **evals and testbeds** , and more.
+
 
 
 
@@ -108,15 +121,15 @@ Leopold Aschenbrenner, Jan Leike, Sherry Lachman, Aleksander Madry, Chris Clark,
 
 [View all](</news/>)
 
-![Disrupting malicious > media](https://images.ctfassets.net/kftzwdyauwt9/5080983d-9c4d-4479-17e421d7380a/0b42f77c2478bc5bc7bde3fddfc68462/45.png?w=3840&q=90&fm=webp)
+![Painterly depiction of a vibrant orange flower on a stem, rendered with a soft focus and warm yellow tones.](https://images.ctfassets.net/kftzwdyauwt9/5080983d-9c4d-4479-17e421d7380a/0b42f77c2478bc5bc7bde3fddfc68462/45.png?w=3840&q=90&fm=webp)
 
 [Disrupting malicious uses of AI by state-affiliated threat actorsSecurityFeb 14, 2024](</index/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors/>)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/ec66425e-99ca-4314-d04b087f8727/de7341b6a5281c2a220b93a737ce19b0/building-an-early-warning-system-for-llm-aided-biological-threat-creation.jpg?w=3840&q=90&fm=webp)
+![Sweeping strokes of orange, yellow, and purple in an abstract design](https://images.ctfassets.net/kftzwdyauwt9/ec66425e-99ca-4314-d04b087f8727/de7341b6a5281c2a220b93a737ce19b0/building-an-early-warning-system-for-llm-aided-biological-threat-creation.jpg?w=3840&q=90&fm=webp)
 
 [Building an early warning system for LLM-aided biological threat creationPublicationJan 31, 2024](</index/building-an-early-warning-system-for-llm-aided-biological-threat-creation/>)
 
-![Democratic Inputs To AI Grant Program Update](https://images.ctfassets.net/kftzwdyauwt9/f50ce1d2-4f61-4ed2-e560c624d631/6f4dd4542898a35d0a91b137f85c9834/Democratic_inputs_to_AI_grant_program_lessons_learned_and_implementation_plans.jpg?w=3840&q=90&fm=webp)
+![Abstract floral pattern with vibrant purple blooms on a green backdrop](https://images.ctfassets.net/kftzwdyauwt9/f50ce1d2-4f61-4ed2-e560c624d631/6f4dd4542898a35d0a91b137f85c9834/Democratic_inputs_to_AI_grant_program_lessons_learned_and_implementation_plans.jpg?w=3840&q=90&fm=webp)
 
 [Democratic inputs to AI grant program: lessons learned and implementation plansSafetyJan 16, 2024](</index/democratic-inputs-to-ai-grant-program-update/>)
 
@@ -130,9 +143,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -151,7 +165,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -169,6 +184,9 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -195,6 +213,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -202,6 +221,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -71,15 +71,25 @@ We are looking for projects that begin with an important economic question about
 We invite proposals that address one or more of the following core questions. This list is not exhaustive, and we welcome strong proposals that fit the broader goals of the Exchange:
 
   * **Labor market effects** : How can we move beyond AI exposure to measure which occupations are actually likely to see or are seeing augmentation, displacement, new task creation, or employment growth as model capabilities improve?
+
   * **Employer behavior and job design** : How does AI change employer behavior, including hiring demand, vacancy design, screening, compensation, team structure, and whether firms redesign jobs around AI?
+
   * **Household welfare** : What is the household welfare impact of AI outside formal work, including effects on decision-making, time use, caregiving, financial planning, health navigation, and everyday economic well-being?
+
   * **AI & Education**: How are teachers using AI tools and are their roles changing and/or expanding as a result of AI? How does exposure to AI change the choices that students make about learning and career preparation? 
+
   * **Unequal access and benefit** : Who is not benefiting from AI, and why? Which barriers matter most and what can fix them?
+
   * **Small businesses and independent work** : How does AI affect small businesses, freelancers, sole proprietors, creators, and other forms of independent or informal economic activity?
+
   * **Public-sector and civic contexts** : What are the economic effects of AI in public-sector and civic contexts, including public-sector productivity, benefits access, education administration, workforce agencies, permitting, tax administration, and public service delivery?
+
   * **Knowledge production and innovation** : How does AI change the production of knowledge and innovation, including science, R&D, research workflows, expert productivity, patents, and diffusion of frontier knowledge?
+
   * **Market structure** : What are the market structure effects of AI adoption, including concentration, firm advantage, platform dependence, bargaining power, supplier relationships, and barriers to entry?
+
   * **Measuring value** : How should we measure the economic value of AI, including willingness to pay, revealed value, task-level time savings, avoided costs, quality-adjusted output, and durable productivity gains?
+
 
 
 
@@ -90,7 +100,9 @@ Proposals may focus on one question or combine related questions. We strongly en
 We are intentionally supporting a portfolio of projects across different time horizons:
 
   * Short-term (2-6 months): Fast-turnaround studies using existing approved data, public data, or well-scoped partner data to generate early signals.
+
   * Medium-term (6-12 months): Studies that track outcomes over time, test specific interventions, or leverage quasi-experimental variation.
+
 
 
 
@@ -101,9 +113,13 @@ Applicants should specify which timeline their proposal targets and why that hor
 Each selected project will receive:
 
   * A one-time research grant for the principal investigator(s): $25,000
+
   * A monthly RA stipend or contractor compensation: $7,500
+
   * Access to approved, privacy-safe product and usage data under NDA, subject to data governance, privacy, legal, and security requirements.
+
   * Defined internal support path for project scoping, onboarding, data approvals, review, and dissemination.
+
 
 
 
@@ -114,11 +130,17 @@ This structure is designed to reduce coordination costs, accelerate execution, a
 Funded projects must include clear intermediate milestones, not just final papers. At a minimum, researchers will be expected to:
 
   * Define key milestones tied to the project timeline, such as design lock, data access, interim analysis, and draft output.
+
   * Complete onboarding, contracting, and approved data-access steps before analysis begins.
+
   * Share intermediate findings with the OpenAI Economic Research team.
+
   * Participate in periodic research read-outs or consortium discussions.
+
   * Produce at least one written output, such as a memo, working paper, draft publication, public brief, benchmark, or dataset documentation.
+
   * Coordinate external communication or publication through the agreed OpenAI review path.
+
 
 
 
@@ -129,19 +151,28 @@ We are prioritizing work that creates tight feedback loops between evidence, int
 Proposals will be evaluated based on:
 
   * Relevance to the Economic Research team’s priority questions
+
   * Methodological rigor and credibility
+
   * Feasibility given project scope, data, privacy, legal, and timeline constraints (for instance: we will not under any circumstances be sharing conversation data)
+
   * Clarity of milestones and reporting plans
+
   * Fit with the Exchange operating model, including who will perform the hands-on work
+
   * Potential to contribute to credible external evidence on the economic impacts of AI
+
   * Potential to use approved OpenAI data in innovative, privacy-preserving ways
+
 
 
 
 We will prioritize proposals from: 
 
   * Researchers that have a prior track record of publication in the research areas which they are proposing
+
   * Researchers that have access to unique data that would facilitate ambitious collaborations
+
 
 
 
@@ -154,22 +185,34 @@ Researchers will retain independence in study design and analysis. External publ
 Proposals should be submitted through [this form](</form/economic-research-exchange/>), with additional information as a single Google Doc link and should not exceed three pages, excluding references and appendices. Each proposal should include:
 
   * Research question(s) and motivation
+
   * Fit with one or more Exchange priority questions
+
   * Proposed methodology and empirical strategy
+
   * Data needs, including the specific approved OpenAI tool-use signal that would help answer the broader AI question and how the design would preserve privacy
+
   * Target timeline and key milestones
+
   * Research team and proposed RA or visiting researcher profile
+
   * Expected contributions to evidence, internal learning, and approved public communication
+
   * Scope definition, including explicit in-scope and out-of-scope analyses, outputs, geographies, and stakeholders
+
   * Success criteria, failure conditions, dependencies, constraints, and resource commitments
+
 
 
 
 ## Timeline
 
   * RFP Issued: Jun 8, 2026
+
   * Proposal Due: July 5, 2026
+
   * Proposal Decisions Released: July 31, 2026
+
 
 
 
@@ -189,9 +232,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -210,7 +254,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -228,6 +273,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -256,6 +302,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

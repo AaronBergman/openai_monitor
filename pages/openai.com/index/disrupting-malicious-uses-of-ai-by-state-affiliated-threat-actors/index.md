@@ -63,10 +63,15 @@ These actors generally sought to use OpenAI services for querying open-source in
 Specifically: 
 
   * Charcoal Typhoon used our services to research various companies and cybersecurity tools, debug code and generate scripts, and create content likely for use in phishing campaigns.
+
   * Salmon Typhoon used our services to translate technical papers, retrieve publicly available information on multiple intelligence agencies and regional threat actors, assist with coding, and research common ways processes could be hidden on a system.
+
   * Crimson Sandstorm used our services for scripting support related to app and web development, generating content likely for spear-phishing campaigns, and researching common ways malware could evade detection.
+
   * Emerald Sleet used our services to identify experts and organizations focused on defense issues in the Asia-Pacific region, understand publicly available vulnerabilities, help with basic scripting tasks, and draft content that could be used in phishing campaigns.
+
   * Forest Blizzard used our services primarily for open-source research into satellite communication protocols and radar imaging technology, as well as for support with scripting tasks.
+
 
 
 
@@ -79,9 +84,13 @@ The activities of these actors are consistent with previous [red team assessment
 Although the capabilities of our current models for malicious cybersecurity tasks are limited, we believe it’s important to stay ahead of significant and evolving threats. To respond to the threat, we are taking a multi-pronged approach to combating malicious state-affiliated actors’ use of our platform: 
 
   * **Monitoring and disrupting malicious state affiliated actors.** We invest in technology and teams to identify and disrupt sophisticated threat actors’ activities. Our Intelligence and Investigations, Safety, Security, and Integrity teams investigate malicious actors in a variety of ways, including using our models to pursue leads, analyze how adversaries are interacting with our platform, and assess their broader intentions. Upon detection, OpenAI takes appropriate action to disrupt their activities, such as disabling their accounts, terminating services, or limiting access to resources. 
+
   * **Working together with the AI ecosystem.** OpenAI collaborates with industry partners and other stakeholders to regularly exchange information about malicious state-affiliated actors’ detected use of AI. This collaboration reflects our [voluntary commitment⁠](</index/moving-ai-governance-forward/>) to promote the safe, secure and transparent development and use of AI technology, and aims to promote collective responses to ecosystem-wide risks via information sharing. 
+
   * **Iterating on safety mitigations.** Learning from real-world use (and misuse) is a key component of creating and releasing increasingly safe AI systems over time. We take lessons learned from these actors' abuse and use them to inform our iterative approach to safety. Understanding how the most sophisticated malicious actors seek to use our systems for harm gives us a signal into practices that may become more widespread in the future, and allows us to continuously evolve our safeguards. 
+
   * **Public transparency.** We have long sought to highlight potential misuses of AI [[link 1⁠(opens in a new window)](<https://cdn.openai.com/papers/gpt-4-system-card.pdf>), [link 2⁠](</index/forecasting-misuse/>)] and share what we have [learned⁠](</index/language-model-safety-and-misuse/>) about safety [[link 1,⁠](</index/language-model-safety-and-misuse/>) [link 2]⁠](<https://openai.com/blog/best-practices-for-deploying-language-models>) with the industry and the public. As part of our ongoing efforts to advance responsible use of AI, OpenAI will continue to inform the public and stakeholders about the nature and extent of malicious state-affiliated actors’ use of AI detected within our systems and the measures taken against them, when warranted. We believe that sharing and transparency foster greater awareness and preparedness among all stakeholders, leading to stronger collective defense against ever-evolving adversaries. 
+
 
 
 
@@ -101,15 +110,15 @@ OpenAI
 
 [View all](</news/>)
 
-![Newspartnership Cover](https://images.ctfassets.net/kftzwdyauwt9/ffffbd46-a171-41c5-25d9eec16b7d/bd1bc987f38b1c2901819b4c211886a2/NewsPartnership_Cover.png?w=3840&q=90&fm=webp)
+![Soft pastel painting depicting a serene sky with wispy clouds, blending aqua, peach, and a hint of yellow at the horizon.](https://images.ctfassets.net/kftzwdyauwt9/ffffbd46-a171-41c5-25d9eec16b7d/bd1bc987f38b1c2901819b4c211886a2/NewsPartnership_Cover.png?w=3840&q=90&fm=webp)
 
 [Global news partnerships: Le Monde and Prisa MediaCompanyMar 13, 2024](</index/global-news-partnerships-le-monde-and-prisa-media/>)
 
-![New board of directors](https://images.ctfassets.net/kftzwdyauwt9/5J9s3ItUUDOTebSo0ZVmun/642e8632be32866792c7aaae0113aaa5/44.png?w=3840&q=90&fm=webp)
+![Abstract soft-focus background with a delicate blend of pale peach and a hint of pink.](https://images.ctfassets.net/kftzwdyauwt9/5J9s3ItUUDOTebSo0ZVmun/642e8632be32866792c7aaae0113aaa5/44.png?w=3840&q=90&fm=webp)
 
 [OpenAI announces new members to board of directorsCompanyMar 8, 2024](</index/openai-announces-new-members-to-board-of-directors/>)
 
-![News > Company carousel > Review completed > Media](https://images.ctfassets.net/kftzwdyauwt9/3BEH4mYgX0MXC45XOsbOru/fdcc0dadabd87f8e9a776a2f34647de0/37.png?w=3840&q=90&fm=webp)
+![Blurred abstract image with a soft fusion of peach, green, and pink hues with a white smudge in the upper region.](https://images.ctfassets.net/kftzwdyauwt9/3BEH4mYgX0MXC45XOsbOru/fdcc0dadabd87f8e9a776a2f34647de0/37.png?w=3840&q=90&fm=webp)
 
 [Review completed & Altman, Brockman to continue to lead OpenAICompanyMar 8, 2024](</index/review-completed-altman-brockman-to-continue-to-lead-openai/>)
 
@@ -123,9 +132,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -144,7 +154,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -162,6 +173,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -190,6 +202,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

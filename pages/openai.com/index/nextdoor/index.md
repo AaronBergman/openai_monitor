@@ -98,17 +98,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Better prompt caching for GPT-6 — Card image](https://images.ctfassets.net/kftzwdyauwt9/72ZKzMh8JgRDfdg4EYRtwY/ee5e406a08b69f00b0beb4ac00270364/7kneoqlc2qh37z1utkmtfk-cover-v1.png?w=3840&q=90&fm=webp)
+![Itaú — Curved paper hero](https://images.ctfassets.net/kftzwdyauwt9/3yLSpHg03VFKN2L7PvfmYK/7869353b973d86465599cbc82cbaa7a2/itau-a-card-1080.png?w=3840&q=90&fm=webp)
 
-[Better prompt caching for GPT-6ProductSep 22, 2026](</index/better-prompt-caching-for-gpt-6/>)
+[How Itaú is building generative AI for its entire customer baseOct 16, 2026](</index/itau-generative-ai/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![Benefit Street Partners — Cover](https://images.ctfassets.net/kftzwdyauwt9/4hoSVzGnXTL7t0Lc8leJTZ/bc394d73a743bc7c555a0ef89df90c2a/square.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
+[Benefit Street Partners answers questions faster with CodexOct 16, 2026](</index/benefit-street-partners/>)
 
-![Parallel customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/IE8b4WhSed5XqFQUzyyp7/40124aabc92ea8266c99be14d0f380f1/square.png?w=3840&q=90&fm=webp)
+![Stack Overflow — cover](https://images.ctfassets.net/kftzwdyauwt9/7G7Qm0twGySzDyv7voEB7I/c871019ba810709cd59e761995a21316/stack-overflow-cover.png?w=3840&q=90&fm=webp)
 
-[Parallel cut research time and cost in half with GPT‑6 AstraStartupSep 22, 2026](</index/parallel-cuts-time-and-cost-with-astra/>)
+[Stack Overflow for Agents triples signups with ChatGPT pluginStartupOct 16, 2026](</index/stack-overflow-chatgpt-plugin/>)
 
 Research
 
@@ -120,10 +120,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -142,7 +142,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -189,6 +190,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

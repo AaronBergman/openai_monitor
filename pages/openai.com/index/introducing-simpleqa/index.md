@@ -68,9 +68,13 @@ Factuality is a complicated topic because it is hard to measure—evaluating the
 With SimpleQA, our goal was to create a dataset with the following properties:
 
   1. **High correctness.** Reference answers to questions are supported by sources from two independent AI trainers, and questions were written in such a way that the predicted answers are easy to grade. 
+
   2. **Diversity.** SimpleQA covers a wide range of topics, from science and technology to TV shows and video games.
+
   3. **Challenging for frontier models.** Compared to older benchmarks such as [_TriviaQA_ ⁠(opens in a new window)](<https://aclanthology.org/P17-1147/>) (2017) or [_NQ_ ⁠(opens in a new window)](<https://aclanthology.org/Q19-1026/>) (2019), which have become saturated, SimpleQA was created to be a greater challenge for frontier models (e.g., GPT‑4o scores less than 40%).
+
   4. **Good researcher UX.** SimpleQA is intended to be fast and simple to run due to its concise questions and answers. Grading is also efficient whether through the OpenAI API or another frontier model API. Additionally, with 4,326 questions, SimpleQA should have relatively low variance as an evaluation benchmark.
+
 
 
 
@@ -191,9 +195,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -212,7 +217,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -230,6 +236,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -258,6 +265,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

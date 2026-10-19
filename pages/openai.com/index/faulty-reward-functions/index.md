@@ -55,8 +55,11 @@ While harmless and amusing in the context of a video game, this kind of behavior
 How can we avoid such problems? Aside from being careful about designing reward functions, several research directions OpenAI is exploring may help to reduce cases of misspecified rewards:
 
   * Learning from demonstrations allows us to avoid specifying a reward directly and instead just learn to imitate how a human would complete the task. In this example, since the vast majority of humans would seek to complete the racecourse, our RL algorithms would do the same.
+
   * In addition to, or instead of human demonstrations, we can also incorporate [human feedback⁠(opens in a new window)](<https://medium.com/ai-control/efficient-feedback-a347748b1557#.exjnsupts>) by evaluating the quality of episodes or even sharing control with the agent in an interactive manner. It’s possible that a very small amount of evaluative feedback might have prevented this agent from going around in circles.
+
   * It may be possible to use transfer learning to train on many similar games, and infer a “common sense” reward function for this game. Such a reward function might prioritize finishing the race based on the fact that a typical game has such a goal, rather than focusing on the idiosyncrasies of this particular game’s reward function. This seems more similar to how a human would play the game.
+
 
 
 
@@ -79,15 +82,15 @@ Jack Clark, Dario Amodei
 
 [View all](</news/>)
 
-![Disrupting malicious > media](https://images.ctfassets.net/kftzwdyauwt9/5080983d-9c4d-4479-17e421d7380a/0b42f77c2478bc5bc7bde3fddfc68462/45.png?w=3840&q=90&fm=webp)
+![Painterly depiction of a vibrant orange flower on a stem, rendered with a soft focus and warm yellow tones.](https://images.ctfassets.net/kftzwdyauwt9/5080983d-9c4d-4479-17e421d7380a/0b42f77c2478bc5bc7bde3fddfc68462/45.png?w=3840&q=90&fm=webp)
 
 [Disrupting malicious uses of AI by state-affiliated threat actorsSecurityFeb 14, 2024](</index/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors/>)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/ec66425e-99ca-4314-d04b087f8727/de7341b6a5281c2a220b93a737ce19b0/building-an-early-warning-system-for-llm-aided-biological-threat-creation.jpg?w=3840&q=90&fm=webp)
+![Sweeping strokes of orange, yellow, and purple in an abstract design](https://images.ctfassets.net/kftzwdyauwt9/ec66425e-99ca-4314-d04b087f8727/de7341b6a5281c2a220b93a737ce19b0/building-an-early-warning-system-for-llm-aided-biological-threat-creation.jpg?w=3840&q=90&fm=webp)
 
 [Building an early warning system for LLM-aided biological threat creationPublicationJan 31, 2024](</index/building-an-early-warning-system-for-llm-aided-biological-threat-creation/>)
 
-![Democratic Inputs To AI Grant Program Update](https://images.ctfassets.net/kftzwdyauwt9/f50ce1d2-4f61-4ed2-e560c624d631/6f4dd4542898a35d0a91b137f85c9834/Democratic_inputs_to_AI_grant_program_lessons_learned_and_implementation_plans.jpg?w=3840&q=90&fm=webp)
+![Abstract floral pattern with vibrant purple blooms on a green backdrop](https://images.ctfassets.net/kftzwdyauwt9/f50ce1d2-4f61-4ed2-e560c624d631/6f4dd4542898a35d0a91b137f85c9834/Democratic_inputs_to_AI_grant_program_lessons_learned_and_implementation_plans.jpg?w=3840&q=90&fm=webp)
 
 [Democratic inputs to AI grant program: lessons learned and implementation plansSafetyJan 16, 2024](</index/democratic-inputs-to-ai-grant-program-update/>)
 
@@ -101,9 +104,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -122,7 +126,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -140,6 +145,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -168,6 +174,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
