@@ -73,11 +73,17 @@ Trusted Contact builds on [parental controls safety notifications⁠(opens in a 
 ## Trusted Contact follows a few steps:
 
   * Users can add one adult (18+ Globally or 19+ in South Korea) as their Trusted Contact from their ChatGPT settings.
+
   * The Trusted Contact will receive an invitation explaining their role and must accept the invitation within one week in order for the feature to become active. If the Trusted Contact declines, the user can choose to add a different adult.
+
   * If our automated monitoring systems detect the user may be talking about self-harm in a way that indicates a serious safety concern, ChatGPT lets the user know that we may notify their Trusted Contact, and encourages the user to reach out to their Trusted Contact with suggested conversation starters.
+
   * From there, a small team of specially trained people review the situation. If these reviewers determine that the conversation may indicate a serious safety concern, ChatGPT will send the Trusted Contact a brief notification by email, text message, or in-app notification if they have a ChatGPT account
+
   * The notification is intentionally limited. It shares the general reason that self-harm came up in a potentially concerning way, and encourages the Trusted Contact to check in. It does not include chat details or transcripts to protect user privacy. The notification also includes a link to expert [_guidance_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/20001195-being-someones-trusted-contact#responding-to-a-notification>) for navigating sensitive conversations.
+
   * Users can always remove or edit their Trusted Contact in settings and the Trusted Contact can remove themselves at any time from our [_help center._ ⁠(opens in a new window)](<https://help.openai.com/articles/20001196>)
+
 
 
 
@@ -100,9 +106,13 @@ We developed Trusted Contact with guidance from clinicians, researchers, and org
 In addition to Trusted Contact, ChatGPT has safeguards to help guide sensitive conversations at every stage. We have continued improving how the system responds to different levels of risk expressed in a conversation:
 
   * **Supporting real-world help** : In sensitive moments, ChatGPT may encourage people to contact emergency services, crisis helplines, mental health professionals, or trusted people in their lives. 
+
   * **Responding with care:** We’ve worked with [_170+ mental health experts_ ⁠](<https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations/>) to improve ChatGPT’s ability to detect and respond to signs of potential distress, de-escalate conversations, and guide people to real-world support when appropriate. 
+
   * **Helping people stay in control of their time:** In some situations, ChatGPT may suggest taking a break or stepping away after extended use to promote healthy technology habits.
+
   * **Refusing harmful requests:** ChatGPT is trained to refuse providing instructions for suicide or self-harm. When users request this type of information, the system is trained to refuse the request and instead redirects toward safer responses and will surface localized crisis resources.
+
 
 
 
@@ -125,15 +135,17 @@ OpenAI
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Disrupting AI-enabled “false front” operations — cover](https://images.ctfassets.net/kftzwdyauwt9/DQdWPLtWbsq27D3JQPXZR/866ddf9dbac46c29308afa0f381bc17d/false-front-operations-cover.png?w=3840&q=90&fm=webp)
 
-![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
+[Disrupting AI-enabled “false front” operationsSafetyOct 8, 2026](</index/disrupting-ai-enabled-false-front-operations/>)
 
-[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
+![Our approach to EU provenance rules ](https://images.ctfassets.net/kftzwdyauwt9/uKx7OoL1QHDbl0T3GSTZG/0dd587131d067b16e32a9d0196d1ff52/our-approach-to-eu-provenance-rules-cover.png?w=3840&q=90&fm=webp)
 
-![ChatGPT for Teens — square card](https://images.ctfassets.net/kftzwdyauwt9/5IP7e1KeD8zkZq6YUrKdKW/2325215681ea59d32dd09b3ea90f12c5/Art_Card-TEENS-1x13x.png?w=3840&q=90&fm=webp)
+[Our approach to EU text provenance rulesSafetyOct 5, 2026](</index/eu-text-provenance/>)
 
-[Introducing ChatGPT for TeensProductAug 18, 2026](</index/chatgpt-for-teens/>)
+![Safety cases for frontier AI training > Card image](https://images.ctfassets.net/kftzwdyauwt9/1XyYuz1U7KqnQDU3dz8Ig9/aea6b4ea875a8dd7ee89e57cd9c3caef/safetfy-cases-for-frontier-ai-training-cover.png?w=3840&q=90&fm=webp)
+
+[Towards safety cases for frontier AI trainingSafetySep 28, 2026](</index/towards-safety-cases-for-frontier-ai-training/>)
 
 Research
 
@@ -145,9 +157,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -166,7 +179,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -184,6 +198,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -212,6 +227,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

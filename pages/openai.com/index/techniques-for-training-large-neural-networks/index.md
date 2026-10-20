@@ -71,9 +71,13 @@ Training a neural network is an iterative process. In every iteration, we do a p
 Various parallelism techniques slice this training process across different dimensions, including:
 
   * Data parallelism—run different subsets of the batch on different GPUs;
+
   * Pipeline parallelism—run different layers of the model on different GPUs;
+
   * Tensor parallelism—break up the math for a single operation such as a matrix multiplication to be split across GPUs;
+
   * Mixture-of-Experts—process each example by only a fraction of each layer.
+
 
 
 
@@ -124,10 +128,15 @@ Illustration of a mixture-of-experts (MoE) layer. Only 2 out of the  _n_ experts
 There are many other computational strategies to make training increasingly large neural networks more tractable. For example:
 
   * To compute the gradient, you need to have saved the original activations, which can consume a lot of device RAM. [ _Checkpointing_ ⁠(opens in a new window)](<https://arxiv.org/abs/1604.06174>) (also known as activation recomputation) stores any subset of activations, and recomputes the intermediate ones just-in-time during the backward pass. This saves a lot of memory at the computational cost of at most one additional full forward pass. One can also continually trade off between compute and memory cost by [selective activation recomputation⁠(opens in a new window)](<https://arxiv.org/abs/2205.05198>), which is checkpointing subsets of the activations that are relatively more expensive to store but cheaper to compute.
+
   * [_Mixed Precision Training_ ⁠(opens in a new window)](<https://arxiv.org/abs/1710.03740>) is to train models using lower-precision numbers (most commonly [FP16⁠(opens in a new window)](<https://en.wikipedia.org/wiki/Half-precision_floating-point_format>)). Modern accelerators can reach much higher FLOP counts with lower-precision numbers, and you also save on device RAM. With proper care, the resulting model can lose almost no accuracy.
+
   * _Offloading_ is to temporarily offload unused data to the CPU or amongst different devices and later read it back when needed. Naive implementations will slow down training a lot, but sophisticated implementations will pre-fetch data so that the device never needs to wait on it. One implementation of this idea is [ZeRO⁠(opens in a new window)](<https://arxiv.org/abs/1910.02054>) which splits the parameters, gradients, and optimizer states across all available hardware and materializes them as needed.
+
   * _Memory Efficient Optimizers_ have been proposed to reduce the memory footprint of the running state maintained by the optimizer, such as [Adafactor⁠(opens in a new window)](<https://arxiv.org/abs/1804.04235>).
+
   * _Compression_ also can be used for storing intermediate results in the network. For example, [Gist⁠(opens in a new window)](<https://www.microsoft.com/en-us/research/uploads/prod/2018/04/fiddle-gist-isca18.pdf>) compresses activations that are saved for the backward pass; [DALL·E⁠](</index/dall-e/>) compresses the gradients before synchronizing them.
+
 
 
 
@@ -151,15 +160,15 @@ Thanks to Nikolas Tezak, Sam Altman, Daniel Gackle, Ilya Sutskever, and Steven A
 
 [View all](</news/>)
 
-![Introducing Triton Open Source Gpu Programming For Neural Networks](https://images.ctfassets.net/kftzwdyauwt9/cdce1ebd-19a2-4848-a08ec8c44e18/55b924fc6628318148b7c5c4902551e7/image-18.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting in a soft, pastel, earth tone palette.](https://images.ctfassets.net/kftzwdyauwt9/cdce1ebd-19a2-4848-a08ec8c44e18/55b924fc6628318148b7c5c4902551e7/image-18.webp?w=3840&q=90&fm=webp)
 
 [Introducing Triton: Open-source GPU programming for neural networksReleaseJul 28, 2021](</index/triton/>)
 
-![Scaling Kubernetes To 7 500 Nodes](https://images.ctfassets.net/kftzwdyauwt9/84745f0a-d786-4066-99f031ec2cb2/be1d8d7357f9f5bc35970e058f42c8d0/image-25.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting in a soft, pastel palette.](https://images.ctfassets.net/kftzwdyauwt9/84745f0a-d786-4066-99f031ec2cb2/be1d8d7357f9f5bc35970e058f42c8d0/image-25.webp?w=3840&q=90&fm=webp)
 
 [Scaling Kubernetes to 7,500 nodesConclusionJan 25, 2021](</index/scaling-kubernetes-to-7500-nodes/>)
 
-![AI And Efficiency](https://images.ctfassets.net/kftzwdyauwt9/e5cba1f8-883b-4961-dca6f726f936/be1a627ab2f509a68b91b8a7ef29f610/image_128.png?w=3840&q=90&fm=webp)
+![An abstract expressionist smudge painting in a vibrant, warm palette.](https://images.ctfassets.net/kftzwdyauwt9/e5cba1f8-883b-4961-dca6f726f936/be1a627ab2f509a68b91b8a7ef29f610/image_128.png?w=3840&q=90&fm=webp)
 
 [AI and efficiencyPublicationMay 5, 2020](</index/ai-and-efficiency/>)
 
@@ -173,9 +182,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -194,7 +204,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -212,6 +223,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -240,6 +252,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

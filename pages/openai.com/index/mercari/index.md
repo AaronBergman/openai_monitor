@@ -61,7 +61,9 @@ Launched in October 2023, the Mercari AI Assistant helps users optimize their li
 This feature initially relied on a hybrid model approach using the OpenAI models:
 
   * **Offline analysis** : GPT‑4 analyzed top listings in each category to identify key attributes.
+
   * **Online suggestions** : GPT‑3.5 Turbo evaluated active listings of users and provided real-time improvement tips.
+
 
 
 
@@ -86,7 +88,9 @@ Originally developed with GPT‑4, the feature later transitioned to GPT‑4o mi
 **Positive results and user feedback**
 
   * **Over a few hundred AI-assisted listings are created per minute:** Listing conversion rates received a substantial boost.
+
   * **Positive user feedback:** Users appreciated reduced friction and time savings. Less experienced sellers reported increased confidence in creating professional-quality listings.
+
 
 
 
@@ -115,8 +119,11 @@ Looking ahead, Mercari envisions AI playing a pivotal role in shaping the compan
 The AI/LLM team focuses on three parallel goals:
 
   1. **Developing flagship features:** Improving and expanding key offerings like AI Listing Support.
+
   2. **Creating AI building blocks:** Providing foundational AI components for all product teams, enabling them to deliver AI solutions to customers even without internal AI specialists.
+
   3. **Innovating internal tools and services** : Leveraging AI to build new tools and deliver productivity boosts across the entire Mercari Group.
+
 
 
 
@@ -156,9 +163,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -177,7 +185,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -195,6 +204,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -223,6 +233,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

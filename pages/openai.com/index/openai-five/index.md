@@ -81,9 +81,13 @@ One AI milestone is to exceed human capabilities in a complex video game like [S
 Dota 2 is a real-time strategy game played between two teams of five players, with each player controlling a character called a “hero”. A Dota-playing AI must master the following:
 
   * **Long time horizons.** Dota games run at 30 frames per second for an average of 45 minutes, resulting in 80,000 ticks per game. Most actions (like ordering a hero to [move⁠(opens in a new window)](<https://developer.valvesoftware.com/wiki/Dota_Bot_Scripting#UNIT_SCOPED_FUNCTIONS>) to a location) have minor impact individually, but some individual actions like [town portal⁠(opens in a new window)](<https://dota2.gamepedia.com/Town_Portal_Scroll>) usage can affect the game strategically; some [strategies⁠(opens in a new window)](<https://www.liquiddota.com/forum/dota-2-strategy/454744-a-small-primer-on-dota-2-strategy>) can play out over an entire game. OpenAI Five observes every fourth frame, yielding 20,000 moves. [Chess⁠(opens in a new window)](<https://blog.ebemunk.com/a-visual-look-at-2-million-chess-games/>) usually ends before 40 moves, [Go⁠(opens in a new window)](<https://en.wikipedia.org/wiki/Go_and_mathematics#Game_tree_complexity>) before 150 moves, with almost every move being strategic.
+
   * **Partially-observed state.** Units and buildings can only see the area around them. The rest of the map is covered in a fog hiding enemies and their strategies. Strong play requires making inferences based on incomplete data, as well as modeling what one’s opponent might be up to. Both chess and Go are full-information games.
+
   * **High-dimensional, continuous action space.** In Dota, each hero can take dozens of actions, and many actions target either another unit or a position on the ground. We discretize the space into 170,000 possible actions per hero (not all valid each tick, such as using a spell on [cooldown⁠(opens in a new window)](<https://dota2.gamepedia.com/Cooldown>)); not counting the continuous parts, there are an average of ~1,000 valid actions each tick. The average [number of actions⁠(opens in a new window)](<https://en.wikipedia.org/wiki/Branching_factor>) in chess is 35; in Go, 250.
+
   * **High-dimensional, continuous observation space.** Dota is played on a large continuous [map⁠(opens in a new window)](<https://devilesk.com/dota2/apps/interactivemap/>) containing ten heroes, dozens of buildings, dozens of [NPC⁠(opens in a new window)](<https://en.wikipedia.org/wiki/Non-player_character>) units, and a long tail of game features such as runes, trees, and wards. Our model observes the state of a Dota game via Valve’s [Bot API⁠(opens in a new window)](<https://developer.valvesoftware.com/wiki/Dota_Bot_Scripting>) as 20,000 (mostly floating-point) numbers representing all information a human is allowed to access. A chess board is naturally represented as about 70 enumeration values (a 8x8 board of 6 piece types and minor [historical⁠(opens in a new window)](<https://en.wikipedia.org/wiki/Threefold_repetition>) [info⁠(opens in a new window)](<https://en.wikipedia.org/wiki/Castling>)); a Go board as about 400 enumeration values (a 19x19 board of 2 piece types plus [Ko⁠(opens in a new window)](<https://en.wikipedia.org/wiki/Go_\(game\)#Ko_rule>)).
+
 
 
 
@@ -146,10 +150,15 @@ We’ve implemented Kubernetes, Azure, and GCP backends for Rapid.
 Thus far OpenAI Five has played (with our [restrictions⁠](</index/openai-five/#restricted>)) versus each of these teams:
 
   1. Best OpenAI employee team: 2.5k [MMR⁠(opens in a new window)](<https://dota2.gamepedia.com/Matchmaking_Rating>) (46th percentile)
+
   2. Best audience players watching OpenAI employee match (including Blitz, who commentated the first OpenAI employee match): 4–6k MMR (90th-99th percentile), though they’d never played as a team.
+
   3. Valve employee team: 2.5–4k MMR (46th-90th percentile).
+
   4. Amateur team: 4.2k MMR (93rd percentile), trains as a team.
+
   5. Semi-pro team: 5.5k MMR (99th percentile), trains as a team.
+
 
 
 
@@ -164,8 +173,11 @@ Blitz
 We observed that OpenAI Five:
 
   * Repeatedly sacrificed its own [safe lane⁠(opens in a new window)](<https://dota2.gamepedia.com/Lane>) (top lane for dire; bottom lane for radiant) in exchange for controlling the enemy’s safe lane, forcing the fight onto the side that is harder for their opponent to defend. This strategy emerged in the professional scene in the last few years, and is now considered to be the prevailing tactic. Blitz commented that he only learned this after eight years of play, when [Team Liquid⁠(opens in a new window)](<https://liquipedia.net/dota2/Team_Liquid>) told him about it.
+
   * Pushed the [transitions⁠(opens in a new window)](<https://purgegamers.true.io/purge/phases-of-the-game/>) from early- to mid-game faster than its opponents. It did this by: (1) setting up successful [ganks⁠(opens in a new window)](<https://dota2.gamepedia.com/Ganking>) (when players move around the map to ambush an enemy hero—see animation) when players overextended in their lane, and (2) by grouping up to take towers before the opponents could organize a counterplay.
+
   * Deviated from current [playstyle⁠(opens in a new window)](<https://liquipedia.net/dota2/Metagame>) in a few areas, such as giving [support⁠(opens in a new window)](<https://dota2.gamepedia.com/Role#Support>) heroes (which usually do not take priority for resources) lots of early experience and gold. OpenAI Five’s prioritization allows for its damage to peak sooner and push its advantage harder, winning team fights and capitalizing on mistakes to ensure a fast win.
+
 
 
 
@@ -184,8 +196,11 @@ These differences matter most in 1v1 (where our bot had a reaction time of 67ms)
 ## Surprising findings
 
   * **Binary rewards can give good performance.** Our 1v1 model had a shaped reward, including rewards for last hits, kills, and the like. We ran an experiment where we only rewarded the agent for winning or losing, and it trained an order of magnitude slower and somewhat plateaued in the middle, in contrast to the smooth learning curves we usually see. The experiment ran on 4,500 cores and 16 k80 GPUs, training to the level of semi-pros (70 [TrueSkill⁠(opens in a new window)](<https://en.wikipedia.org/wiki/TrueSkill>)) rather than 90 TrueSkill of our best 1v1 bot).
+
   * **Creep blocking can be learned from scratch.** For 1v1, we learned [creep blocking⁠](</index/more-on-dota-2/#the-task>) using traditional RL with a “creep block” reward. One of our team members left a 2v2 model training when he went on vacation (proposing to his now wife!), intending to see how much longer training would boost performance. To his surprise, the model had [learned to creep block⁠(opens in a new window)](<https://cdn.openai.com/dota_2018/cm_creepblock.mp4>) without any special guidance or reward.
+
   * **We’re still fixing bugs.** The chart shows a training run of the code that defeated amateur players, compared to a version where we simply fixed a number of bugs, such as rare crashes during training, or a bug which resulted in a large negative reward for reaching level 25. It turns out it’s possible to beat good humans while still hiding serious bugs!
+
 
 
 
@@ -250,15 +265,15 @@ Thanks to the following for feedback on drafts of this post: Alexander Lavin, An
 
 [View all](</news/>)
 
-![Scaling Laws For Reward Model Overoptimization](https://images.ctfassets.net/kftzwdyauwt9/a8801fe6-8892-472b-f746d1d9fb2d/547c46ed9a8a71e89efbb7a7963a8932/image-6.webp?w=3840&q=90&fm=webp)
+![A simple pattern of dark squares arranged in clusters against a light background, creating a geometric design.](https://images.ctfassets.net/kftzwdyauwt9/a8801fe6-8892-472b-f746d1d9fb2d/547c46ed9a8a71e89efbb7a7963a8932/image-6.webp?w=3840&q=90&fm=webp)
 
 [Scaling laws for reward model overoptimizationPublicationOct 19, 2022](</index/scaling-laws-for-reward-model-overoptimization/>)
 
-![Screenshot of a scene from Minecraft](https://images.ctfassets.net/kftzwdyauwt9/ef9fc360-1a5a-4ca3-5c25b83b3564/50c07940455cc86ef84d91526d9cf3e0/vpt.jpg?w=3840&q=90&fm=webp)
+![Hills and trees surrounding a pond in an environment on Minecraft.](https://images.ctfassets.net/kftzwdyauwt9/ef9fc360-1a5a-4ca3-5c25b83b3564/50c07940455cc86ef84d91526d9cf3e0/vpt.jpg?w=3840&q=90&fm=webp)
 
 [Learning to play Minecraft with Video PreTrainingConclusionJun 23, 2022](</index/vpt/>)
 
-![Techniques For Training Large Neural Networks](https://images.ctfassets.net/kftzwdyauwt9/62793de4-0f01-42fc-539325d9af36/bc1ac82499fc1dc43f59accdd31d0195/image-9.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting with energetic, vibrant colors.](https://images.ctfassets.net/kftzwdyauwt9/62793de4-0f01-42fc-539325d9af36/bc1ac82499fc1dc43f59accdd31d0195/image-9.webp?w=3840&q=90&fm=webp)
 
 [Techniques for training large neural networksPublicationJun 9, 2022](</index/techniques-for-training-large-neural-networks/>)
 
@@ -272,9 +287,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -293,7 +309,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -311,6 +328,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -339,6 +357,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

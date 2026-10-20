@@ -32,7 +32,7 @@ OpenAI
 
 # Egnyte
 
-Explore and analyyze your content.
+Explore and analyyze your content
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691f749cd9088191befeb1d543c37d98>)[Contact sales](</contact-sales/>)
 
@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.egnyte.com>)
 
-[![](https://files.openai.com/content?id=file_000000003bb8722fbea64d0a87f36d33&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=7355697d61901b3cb56a17429fac65bc32bcba65b1a8bd4403c9fb574fd742db&v=0)Egnyte What IT contracts do we have(opens in a new window)](<https://chatgpt.com/?prompt=%40Egnyte+What+IT+contracts+do+we+have>)
+[![](https://files.openai.com/content?id=file_000000003bb8722fbea64d0a87f36d33&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=7355697d61901b3cb56a17429fac65bc32bcba65b1a8bd4403c9fb574fd742db&v=0)Egnyte What IT contracts do we have(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691f749cd9088191befeb1d543c37d98?install&prompt=What%20IT%20contracts%20do%20we%20have>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Securely search, open, and work with Egnyte files in ChatGPT using permission-ba
 
 ![](https://files.openai.com/content?id=file_000000003bb8722fbea64d0a87f36d33&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=7355697d61901b3cb56a17429fac65bc32bcba65b1a8bd4403c9fb574fd742db&v=0)Egnyte Search for [key term] across our Egnyte repositories. Return the most relevant contracts, reports, or specs with file paths and a 1-2 sentence relevance note.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Egnyte+Search+for+%5Bkey+term%5D+across+our+Egnyte+repositories.+Return+the+most+relevant+contracts%2C+reports%2C+or+specs+with+file+paths+and+a+1-2+sentence+relevance+note.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691f749cd9088191befeb1d543c37d98?install&prompt=Search%20for%20%5Bkey%20term%5D%20across%20our%20Egnyte%20repositories.%20Return%20the%20most%20relevant%20contracts%2C%20reports%2C%20or%20specs%20with%20file%20paths%20and%20a%201-2%20sentence%20relevance%20note.&surface=work>)
 
   * ### Ask questions and summarize documents
 
 ![](https://files.openai.com/content?id=file_000000003bb8722fbea64d0a87f36d33&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=7355697d61901b3cb56a17429fac65bc32bcba65b1a8bd4403c9fb574fd742db&v=0)Egnyte Open [file] and summarize purpose, key obligations or requirements, deadlines, owners, and any risks or exceptions. Quote the exact sections for critical items.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Egnyte+Open+%5Bfile%5D+and+summarize+purpose%2C+key+obligations+or+requirements%2C+deadlines%2C+owners%2C+and+any+risks+or+exceptions.+Quote+the+exact+sections+for+critical+items.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691f749cd9088191befeb1d543c37d98?install&prompt=Open%20%5Bfile%5D%20and%20summarize%20purpose%2C%20key%20obligations%20or%20requirements%2C%20deadlines%2C%20owners%2C%20and%20any%20risks%20or%20exceptions.%20Quote%20the%20exact%20sections%20for%20critical%20items.&surface=work>)
 
   * ### Work with files and collaboration context
 
 ![](https://files.openai.com/content?id=file_000000003bb8722fbea64d0a87f36d33&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=7355697d61901b3cb56a17429fac65bc32bcba65b1a8bd4403c9fb574fd742db&v=0)Egnyte Show recent file activity, comments, and shared links. Highlight any documents that look actively in review or awaiting approval.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Egnyte+Show+recent+file+activity%2C+comments%2C+and+shared+links.+Highlight+any+documents+that+look+actively+in+review+or+awaiting+approval.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_691f749cd9088191befeb1d543c37d98?install&prompt=Show%20recent%20file%20activity%2C%20comments%2C%20and%20shared%20links.%20Highlight%20any%20documents%20that%20look%20actively%20in%20review%20or%20awaiting%20approval.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Securely search, open, and work with Egnyte files in ChatGPT using permission-ba
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://support.egnyte.com/>)
+### [Plugin supportLearn more(opens in a new window)](<https://support.egnyte.com/>)
 
-### [Privacy policyLearn more](<https://www.egnyte.com/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.egnyte.com/privacy>)
 
 ## Add the Egnyte plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)SharePointSearch and pull from shared sites and OneDrive.](</business/plugins/microsoft-sharepoint/>)[![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)BoxSearch and reference your documents.](</business/plugins/box/>)[![](https://files.openai.com/content?id=file_00000000a244722fb4d7617dd4d0de3e&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=e415021db4f8bcb071c03376b31c4e68f467b7ab00dc0f85d47ff3f2e6f5b8ee&v=0)![](https://files.openai.com/content?id=file_00000000c47881f5939a1f42104d005a&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=64a14e8543d4133aa2b341ae5d50d7ca8f0d6a23d99b3ba9328dac32b00b94eb&v=0)CoveoSearch across your enterprise content sources.](</business/plugins/coveo/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages.](</business/plugins/notion/>)[![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)AsanaTurn Asana tasks into clear updates and plans.](</business/plugins/asana/>)
+[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)SharePointSearch and pull from shared sites and OneDrive](</business/plugins/microsoft-sharepoint/>)[![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)BoxSearch and reference your documents](</business/plugins/box/>)[![](https://files.openai.com/content?id=file_00000000a244722fb4d7617dd4d0de3e&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=e415021db4f8bcb071c03376b31c4e68f467b7ab00dc0f85d47ff3f2e6f5b8ee&v=0)![](https://files.openai.com/content?id=file_00000000c47881f5939a1f42104d005a&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=64a14e8543d4133aa2b341ae5d50d7ca8f0d6a23d99b3ba9328dac32b00b94eb&v=0)CoveoSearch your enterprise content](</business/plugins/coveo/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages](</business/plugins/notion/>)[![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)AsanaTurn Asana tasks into clear updates and plans](</business/plugins/asana/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

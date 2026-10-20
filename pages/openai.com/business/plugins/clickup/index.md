@@ -32,7 +32,7 @@ OpenAI
 
 # ClickUp
 
-Sync ClickUp tasks and docs for use in ChatGPT.
+Sync ClickUp tasks and docs for use in ChatGPT
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69431e6d26b88191b4029488aeb42f5b>)[Contact sales](</contact-sales/>)
 
@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://clickup.com>)
 
-[![](https://files.openai.com/content?id=file_00000000b7b8720c8deac386c4a94323&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=edec0308e34d7485d891307f4570c7443408f7747e3c9e70865c59f30a4f84d6&v=0)ClickUp What should I work on today?(opens in a new window)](<https://chatgpt.com/?prompt=%40ClickUp+What+should+I+work+on+today%3F>)
+[![](https://files.openai.com/content?id=file_00000000b7b8720c8deac386c4a94323&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=edec0308e34d7485d891307f4570c7443408f7747e3c9e70865c59f30a4f84d6&v=0)ClickUp What should I work on today?(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69431e6d26b88191b4029488aeb42f5b?install&prompt=What%20should%20I%20work%20on%20today%3F>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Let ChatGPT securely access ClickUp spaces, lists, and tasks to answer questions
 
 ![](https://files.openai.com/content?id=file_00000000b7b8720c8deac386c4a94323&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=edec0308e34d7485d891307f4570c7443408f7747e3c9e70865c59f30a4f84d6&v=0)ClickUp Create a sprint plan from our backlog for the next 2 weeks and balance work across the team.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ClickUp+Create+a+sprint+plan+from+our+backlog+for+the+next+2+weeks+and+balance+work+across+the+team.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69431e6d26b88191b4029488aeb42f5b?install&prompt=Create%20a%20sprint%20plan%20from%20our%20backlog%20for%20the%20next%202%20weeks%20and%20balance%20work%20across%20the%20team.&surface=work>)
 
   * ### Accelerate team workflows
 
 ![](https://files.openai.com/content?id=file_00000000b7b8720c8deac386c4a94323&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=edec0308e34d7485d891307f4570c7443408f7747e3c9e70865c59f30a4f84d6&v=0)ClickUp Show my overdue tasks and recommend what to tackle first based on urgency and dependency.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ClickUp+Show+my+overdue+tasks+and+recommend+what+to+tackle+first+based+on+urgency+and+dependency.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69431e6d26b88191b4029488aeb42f5b?install&prompt=Show%20my%20overdue%20tasks%20and%20recommend%20what%20to%20tackle%20first%20based%20on%20urgency%20and%20dependency.&surface=work>)
 
   * ### Improve operational visibility
 
 ![](https://files.openai.com/content?id=file_00000000b7b8720c8deac386c4a94323&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=edec0308e34d7485d891307f4570c7443408f7747e3c9e70865c59f30a4f84d6&v=0)ClickUp Summarize the current project status for [client] and write it like a professional weekly update.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ClickUp+Summarize+the+current+project+status+for+%5Bclient%5D+and+write+it+like+a+professional+weekly+update.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69431e6d26b88191b4029488aeb42f5b?install&prompt=Summarize%20the%20current%20project%20status%20for%20%5Bclient%5D%20and%20write%20it%20like%20a%20professional%20weekly%20update.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Let ChatGPT securely access ClickUp spaces, lists, and tasks to answer questions
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/12628397-clickup-synced-connector>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/12628397-clickup-synced-connector>)
 
-### [Plugin supportLearn more](<https://help.clickup.com/hc/en-us>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.clickup.com/hc/en-us>)
 
-### [Privacy policyLearn more](<https://clickup.com/terms/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://clickup.com/terms/privacy>)
 
 ## Add the ClickUp plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages.](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability.](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)AsanaTurn Asana tasks into clear updates and plans.](</business/plugins/asana/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages.](</business/plugins/notion/>)[![](https://files.openai.com/content?id=file_000000005ee871f88f1bfd73ad777a90&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=df0e9e02b8a5bfd8995607513d9e3bab6e2c60df30c2542878eab19896af6a5b&v=0)![](https://files.openai.com/content?id=file_000000005ee871f88f1bfd73ad777a90&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=df0e9e02b8a5bfd8995607513d9e3bab6e2c60df30c2542878eab19896af6a5b&v=0)Monday.comManage work in monday.com.](</business/plugins/monday-com/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)AsanaTurn Asana tasks into clear updates and plans](</business/plugins/asana/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages](</business/plugins/notion/>)[![](https://files.openai.com/content?id=file_000000005ee871f88f1bfd73ad777a90&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=df0e9e02b8a5bfd8995607513d9e3bab6e2c60df30c2542878eab19896af6a5b&v=0)![](https://files.openai.com/content?id=file_000000005ee871f88f1bfd73ad777a90&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=df0e9e02b8a5bfd8995607513d9e3bab6e2c60df30c2542878eab19896af6a5b&v=0)Monday.comManage work in monday.com](</business/plugins/monday-com/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
