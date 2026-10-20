@@ -79,23 +79,41 @@ The organizations announced today serve people and communities in every region o
 Examples are highlighted below:
 
   * [**Digital NEST** ⁠(opens in a new window)](<https://digitalnest.org/>)**(CA):** A workforce development nonprofit helping youth in agricultural communities thrive in today’s digital economy through career exploration, mentorship, training, and paid work experience.
+
   * [**Be Loud Studios** ⁠(opens in a new window)](<https://www.beloudstudios.org/>)**(LA):** Amplifies the voices of young people through radio and digital media and is exploring how to elevate youth perspectives in conversations around AI and mental health.
+
   * [**Delaware Alliance for Nonprofit Advancement** ⁠(opens in a new window)](<https://delawarenonprofit.org/>)**(DE):** Champions Delaware’s nonprofit sector by providing tools, knowledge, and connections that nonprofits need to strengthen their organizations and expand their impact.
+
   * [**Valley Initiative for Development and Advancement** ⁠(opens in a new window)](<https://vidacareers.org/>)**(TX):** Empowers underserved, low-income students and working adults to achieve economic mobility through comprehensive case management, wrap-around financial assistance, career navigation, and strong employer partnerships. VIDA is expanding access to AI and technology training programs to equip communities with the skills needed to thrive in the future workforce.
+
   * [**Rural Opportunity Institute** ⁠(opens in a new window)](<https://www.ruralopportunity.org/>)**(NC):** Builds the capacity of rural communities to support youth well-being, including helping school districts use existing public funding to expand on-site mental health services.
+
   * [**Springboard to Opportunities** ⁠(opens in a new window)](<https://springboardto.org/>)**(MS):** Supports residents of federally subsidized housing as they pursue their goals in school, work, and life. Created the first and longest-running guaranteed income initiative in the United States and is now exploring how AI impacts the communities they serve.
+
   * [**Arc of Madison County** ⁠(opens in a new window)](<https://hsvarc.org/>)**(AL):** Serves individuals with intellectual and developmental disabilities, and their families, and is exploring how AI can support specialized education and career pathways for neurodivergent learners.
+
   * [**Healthy Archuleta** ⁠(opens in a new window)](<https://www.foodcoalition4archuleta.org/>)**(CO):** Works to improve food and healthcare systems in a rural community to strengthen access, equity, and community wellbeing, strategically capturing learning that can be shared with other rural communities. The organization is exploring how AI can strengthen initiatives like the Community Food Hub, which connects local food producers, consumers, and entrepreneurs through a centrally located food hall.
+
   * [**Camai Community Health Center** ⁠(opens in a new window)](<https://www.camaichc.org/>)**(AK):** Federally Qualified Health Center exploring how AI can improve primary care and community health services for remote Alaskan communities.
+
   * [**Tribal Education Departments National Assembly** ⁠(opens in a new window)](<https://tedna.org/>)**(OK):** Native-run nonprofit that supports Tribal Education Departments and is running AI literacy programs to help strengthen tribal sovereignty.
+
   * [**3 Dots Downtown** ⁠(opens in a new window)](<https://3dotsdowntown.com/>)**(PA):** Local arts and community center exploring workshops and programs around AI literacy, art, and professional development.
+
   * [**Warriors & Quiet Waters Foundation**⁠(opens in a new window)](<https://www.warriorsandquietwaters.org/>)**(MT):** Helps post-9/11 combat veterans rediscover purpose, connection, and healing through transformative, nature-based experiences.
+
   * [**Ephrata Public Library** ⁠(opens in a new window)](<https://www.ephratapubliclibrary.org/>)**(PA):** Independent, nonprofit public library that offers digital literacy and workforce development programs.
+
   * [**STEM From Dance** ⁠(opens in a new window)](<https://stemfromdance.org/>)**(CA, FL, IL, MA, NY, NC, TX):** Partners with schools, community centers, and youth-serving organizations to combine dance and AI learning for young girls of color.
+
   * [**Amigos Together for Kids** ⁠(opens in a new window)](<https://www.amigosforkids.org/>)**(FL):** A Miami nonprofit dedicated to preventing child abuse and neglect by empowering parents, supporting families in crisis, and providing safe, enriching after-school and summer programming for children. 
+
   * [**Maui Roots Reborn** ⁠(opens in a new window)](<https://rootsreborn.org/>)**(HI):** Multicultural disaster response and justice organization that provides legal, financial, and social support to Maui’s immigrant and migrant community.
+
   * [**SOVA Innovation Hub** ⁠(opens in a new window)](<https://sovainnovationhub.com/>)**(VA):** Provides coworking space, training, and events that bring together entrepreneurs, educators, students, and nonprofit leaders to build digital skills and drive economic transformation in Southern Virginia.
+
   * [**Native American Journalists Association** ⁠(opens in a new window)](<https://indigenousjournalists.org/>)**(AZ, CA, KS, MN, MT, NM, NY, ND, OK, OR, WY)** : Advances the voices of Indigenous peoples in the media, which guides how they engage with emerging technologies like AI.
+
 
 
 
@@ -104,9 +122,13 @@ Examples are highlighted below:
 The People-First AI Fund backs work in areas that communities told us matter most, with flexible, unrestricted funding to address immediate needs:
 
   * **AI literacy and public understanding.** Programs that build knowledge, skills, and confidence so people—especially trusted local leaders like teachers, faith leaders, and youth mentors—can engage with AI in ways that matter for their lives.
+
   * **Community innovation.** Community-led efforts to shape how AI is used locally, strengthening civic life, improving access to essential services, and supporting well-being in place-based settings such as schools, libraries, clinics, and community centers.
+
   * **Economic opportunity.** Programs that expand access to meaningful, fairly distributed work as AI changes the labor landscape, including training for the jobs of the future, cooperative and shared-value models, and support for caregivers and local businesses.
+
   * **Transformative grants.** A Board-directed second wave of grants will support organizations already advancing transformative AI work across areas like health, and will prioritize projects with the potential to scale and create durable public benefit.
+
 
 
 
@@ -341,17 +363,17 @@ OpenAI
 
 [View all](</news/>)
 
-![California youth AI safety — cover](https://images.ctfassets.net/kftzwdyauwt9/3CsHxgcoiHHUUaYOB1FNiq/38e90de831dad795965ed98ffdd3a95a/Frame.png?w=3840&q=90&fm=webp)
+![Teaching students to think and learn through questions — Cover](https://images.ctfassets.net/kftzwdyauwt9/AHG23niw4hDTG5blxqb9u/54c7069a05fa9506426269f1a2b76a0f/teaching-students-to-think-and-learn-through-questions-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI supports California’s bill to advance youth AI safetyCompanyAug 31, 2026](</index/supporting-california-bill-advance-ai-youth-safety/>)
+[Teaching students to think and learn through questionsCompanyOct 15, 2026](</index/teaching-students-to-think-and-learn-through-questions/>)
 
-![Our decision on Cursor following its acquisition by SpaceX — cover](https://images.ctfassets.net/kftzwdyauwt9/3gFEgHvtA7Rsa5yUen97p5/b78a11ad81397a4003b879160e5a19b3/index-our-decision-on-cursor-following-its-acquisition-by-spacex-cover.png?w=3840&q=90&fm=webp)
+![The EU’s next chapter in AI is agentic — Cover](https://images.ctfassets.net/kftzwdyauwt9/1KGRRdbE0ggm4hqHd64ywl/f55ce61c0c7e3097ed6ed3744248c343/the-eus-next-chapter-in-ai-is-agentic-cover.png?w=3840&q=90&fm=webp)
 
-[Our decision on Cursor following its acquisition by SpaceXCompanyAug 28, 2026](</index/our-decision-on-cursor-following-its-acquisition-by-spacex/>)
+[Europe’s opportunity to deepen AI useGlobal AffairsOct 14, 2026](</index/the-eus-next-chapter-in-ai-is-agentic/>)
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![Atlassian partnership card — official white SVGs on Neutral 088](https://images.ctfassets.net/kftzwdyauwt9/3fWFo3Rbu3ABBh0ctAldTR/1790adae24af280abbb937cd88cb4957/atlassian-card-official.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[Atlassian and OpenAI expand their partnershipCompanyOct 6, 2026](</index/atlassian-partnership/>)
 
 Research
 
@@ -363,9 +385,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -384,7 +407,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -402,6 +426,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -430,6 +455,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

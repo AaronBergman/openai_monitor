@@ -55,8 +55,11 @@ By default, we do not use the following data to improve our foundational models 
 We also use the information provided via Health Features:
 
   * To communicate with you, such as to provide you customer support;
+
   * To prevent fraud, illegal activity, or misuses of our services, and to protect the security of our systems and services; and
+
   * To comply with legal obligations and to protect the rights, privacy, safety, or property of our users, OpenAI, and third parties.
+
 
 
 
@@ -73,10 +76,15 @@ We do not sell Personal Data of our users, including any Personal Data collected
 We’ve designed Health Features to keep you in control. Here’s more information about your choices: 
 
   * **Linked Accounts**. You may be able to use Health Features to connect with a variety of third-party data sources and tools, such as electronic health records, medical providers, and other third-party apps. You control which accounts and data are integrated to your account and you can remove or add new accounts at any time. See more [here⁠(opens in a new window)](<https://help.openai.com/articles/20001036-what-is-chatgpt-health>).
+
   * **Memories**. 
+
     *  _ChatGPT Health_ includes its own memory feature that allows us to remember certain details and preferences from your past conversations in ChatGPT Health and any connected apps or services, and provide you with more tailored responses. ChatGPT Health can store memories and incorporate any memories you have saved in your main ChatGPT account, all based on your account settings under “Personalization” and your instructions in ChatGPT Health. Your main ChatGPT account will not access memories you create just within ChatGPT Health. You can search, delete, and manage your ChatGPT Health memories under “View Health Memories”. See more [_here_ ⁠(opens in a new window)](<https://help.openai.com/articles/20001036>). 
+
     *  _Connect Health_ conversations are subject to your main ChatGPT account memory settings, which you can [_adjust_ ⁠(opens in a new window)](<https://help.openai.com/articles/8590148-memory-faq#how-do-i-enable-or-disable-saved-memories>) at any time.
+
   * **Deletion**. You can delete any conversations or memories, including within your main ChatGPT account or within ChatGPT Health, at any time. See more [_here_ ⁠(opens in a new window)](<https://help.openai.com/articles/20001036>).
+
 
 
 
@@ -98,10 +106,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -120,7 +128,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -138,6 +147,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -166,6 +176,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

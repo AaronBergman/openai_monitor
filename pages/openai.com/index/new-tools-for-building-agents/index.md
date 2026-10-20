@@ -306,11 +306,11 @@ Before launching CUA in Operator last year, we conducted extensive safety testin
 Benchmark type| Benchmark| Computer use (universal interface)| Web browsing agents| Human  
 ---|---|---|---|---  
 | | OpenAI CUA| Previous SOTA| Previous SOTA|   
-Computer use| OSWorld| 38.1%| [22.0%](<https://www.anthropic.com/news/3-5-models-and-computer-use>)| -| [72.4%](<https://arxiv.org/abs/2404.07972>)  
-Browser use| WebArena| 58.1%| [36.2%](<https://huggingface.co/spaces/ServiceNow/browsergym-leaderboard>)| [57.1%](<https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ>)| [78.2%](<https://arxiv.org/abs/2307.13854>)  
-WebVoyager| 87.0%| [56.0%](<https://www.trykura.com/benchmarks>)| [87.0%](<https://www.trykura.com/benchmarks>)| -  
+Computer use| OSWorld| 38.1%| [22.0%(opens in a new window)](<https://www.anthropic.com/news/3-5-models-and-computer-use>)| -| [72.4%(opens in a new window)](<https://arxiv.org/abs/2404.07972>)  
+Browser use| WebArena| 58.1%| [36.2%(opens in a new window)](<https://huggingface.co/spaces/ServiceNow/browsergym-leaderboard>)| [57.1%(opens in a new window)](<https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ>)| [78.2%(opens in a new window)](<https://arxiv.org/abs/2307.13854>)  
+WebVoyager| 87.0%| [56.0%(opens in a new window)](<https://www.trykura.com/benchmarks>)| [87.0%(opens in a new window)](<https://www.trykura.com/benchmarks>)| -  
   
-Evaluation details are described [here](<https://cdn.openai.com/cua/CUA_eval_extra_information.pdf>)
+Evaluation details are described [here(opens in a new window)](<https://cdn.openai.com/cua/CUA_eval_extra_information.pdf>)
 
 Starting today, the computer use tool is available as a research preview in the Responses API for select developers in [_usage tiers 3-5_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/rate-limits#usage-tiers>). Usage is [_priced_ ⁠(opens in a new window)](<https://platform.openai.com/docs/pricing>) at $3/1M input tokens and $12/1M output tokens. Learn more in our [_docs_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/tools-computer-use>) and check out the [_sample application_ ⁠(opens in a new window)](<https://github.com/openai/openai-cua-quickstart>) illustrating how to build with this tool.
 
@@ -492,10 +492,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -514,7 +514,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -561,6 +562,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

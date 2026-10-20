@@ -65,8 +65,11 @@ Energy-based models represent probability distributions over data by assigning a
 To generate samples from EBMs, we use an iterative refinement process based on [Langevin dynamics⁠(opens in a new window)](<https://en.wikipedia.org/wiki/Langevin_dynamics>). Informally, this involves performing noisy gradient descent on the energy function to arrive at low-energy configurations ([see paper for more details⁠(opens in a new window)](<http://arxiv.org/abs/1903.08689>)). Unlike [GANs⁠(opens in a new window)](<https://arxiv.org/abs/1406.2661>), [VAEs⁠(opens in a new window)](<https://www.ics.uci.edu/~welling/publications/papers/AEVB_ICLR14.pdf>), and [Flow-based models⁠(opens in a new window)](<https://arxiv.org/abs/1902.00275>), this approach does not require an explicit neural network to generate samples - samples are generated implicitly. The combination of EBMs and iterative refinement have the following benefits:
 
   * **Adaptive computation time**. We can run sequential refinement for long amount of time to generate sharp, diverse samples or a short amount of time for coarse less diverse samples. In the limit of infinite time, this procedure is [known to⁠(opens in a new window)](<https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf>) generate true samples from the energy model.
+
   * **Not restricted by generator network**. In both VAEs and Flow based models, the generator must learn a map from a continuous space to a possibly disconnected space containing different data modes, which requires large capacity and may not be possible to learn. In EBMs, by contrast, can easily learn to assign low energies at disjoint regions.
+
   * **Built-in compositionality**. Since each model represents an unnormalized probability distribution, models can be naturally combined through [product of experts⁠(opens in a new window)](<http://www.cs.toronto.edu/~fritz/absps/icann-99.pdf>) or other hierarchical models.
+
 
 
 
@@ -91,8 +94,11 @@ We tested energy-based models on classifying several different [out-of-distribut
 We found evidence that suggest the following observations, though in no way are we certain that these observations are correct:
 
   * We found it difficult to apply vanilla HMC to EBM training as optimal step sizes and leapfrog simulation numbers differ greatly during training, though applying adaptive HMC would be an interesting extension.
+
   * We found training ensembles of energy functions (sampling and evaluating on ensembles) to help a bit, but was not worth the added complexity.
+
   * We didn’t ﬁnd much success adding a gradient penalty term, as it seemed to hurt model capacity and sampling.
+
 
 
 
@@ -123,15 +129,15 @@ Thanks to Ilya Sutskever, Greg Brockman, Bob McGrew, Johannes Otterbach, Jacob S
 
 [View all](</news/>)
 
-![Hierarchical Text Conditional Image Generation With Clip Latents](https://images.ctfassets.net/kftzwdyauwt9/7c44eedc-3563-4438-c613706c52b1/fcfc38b26fd4878a3c6b4ca8d1d73b17/hierarchical-text-conditional-image-generation-with-clip-latents.jpg?w=3840&q=90&fm=webp)
+![A painting of a white and brown cat playing chess in a surrealism style.](https://images.ctfassets.net/kftzwdyauwt9/7c44eedc-3563-4438-c613706c52b1/fcfc38b26fd4878a3c6b4ca8d1d73b17/hierarchical-text-conditional-image-generation-with-clip-latents.jpg?w=3840&q=90&fm=webp)
 
 [Hierarchical text-conditional image generation with CLIP latentsPublicationApr 13, 2022](</index/hierarchical-text-conditional-image-generation-with-clip-latents/>)
 
-![DALL·E](https://images.ctfassets.net/kftzwdyauwt9/ed21faee-ce44-4d91-f5cc39941d47/bdd3983530857e93d205304e219e2d95/dall-e.jpg?w=3840&q=90&fm=webp)
+![A cylinder that interplays with text and imagery on different surfaces of the shape.](https://images.ctfassets.net/kftzwdyauwt9/ed21faee-ce44-4d91-f5cc39941d47/bdd3983530857e93d205304e219e2d95/dall-e.jpg?w=3840&q=90&fm=webp)
 
 [DALL·E: Creating images from textMilestoneJan 5, 2021](</index/dall-e/>)
 
-![Image GPT](https://images.ctfassets.net/kftzwdyauwt9/5ae77333-6ec9-4b5b-345335df9dfe/be9cfca3194bf819fbd8f45fd49a5185/image_127.png?w=3840&q=90&fm=webp)
+![A photo montage of various images of people, animals, and nature.](https://images.ctfassets.net/kftzwdyauwt9/5ae77333-6ec9-4b5b-345335df9dfe/be9cfca3194bf819fbd8f45fd49a5185/image_127.png?w=3840&q=90&fm=webp)
 
 [Image GPTPublicationJun 17, 2020](</index/image-gpt/>)
 
@@ -145,9 +151,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -166,7 +173,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -184,6 +192,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -212,6 +221,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

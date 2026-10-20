@@ -55,19 +55,19 @@ Aurora helps authorized Consilio users search their eDiscovery and legal-service
 
 ![](https://files.openai.com/content?id=file_000000009cd471f7bf3542b50f989ca7&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=dbd439c74bd649e992344783d6dfd5bfe58b9b1d8b11f6b7ca76410e528d029e&v=0)![](https://files.openai.com/content?id=file_000000009cd471f7bf3542b50f989ca7&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=dbd439c74bd649e992344783d6dfd5bfe58b9b1d8b11f6b7ca76410e528d029e&v=0)Aurora Find active matters for [client] and list their accessible workspaces. Use the returned information to recommend where to begin investigating [issue], explaining any gaps in scope.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Aurora+Find+active+matters+for+%5Bclient%5D+and+list+their+accessible+workspaces.+Use+the+returned+information+to+recommend+where+to+begin+investigating+%5Bissue%5D%2C+explaining+any+gaps+in+scope.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a271a3048848191bc4bb54e66eafef9?install&prompt=Find%20active%20matters%20for%20%5Bclient%5D%20and%20list%20their%20accessible%20workspaces.%20Use%20the%20returned%20information%20to%20recommend%20where%20to%20begin%20investigating%20%5Bissue%5D%2C%20explaining%20any%20gaps%20in%20scope.&surface=work>)
 
   * ### Build an evidence timeline
 
 ![](https://files.openai.com/content?id=file_000000009cd471f7bf3542b50f989ca7&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=dbd439c74bd649e992344783d6dfd5bfe58b9b1d8b11f6b7ca76410e528d029e&v=0)![](https://files.openai.com/content?id=file_000000009cd471f7bf3542b50f989ca7&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=dbd439c74bd649e992344783d6dfd5bfe58b9b1d8b11f6b7ca76410e528d029e&v=0)Aurora Search [workspace] for documents about [event] during [date range]. Build a chronology with source links, separate documented facts from inferences, and identify gaps worth investigating.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Aurora+Search+%5Bworkspace%5D+for+documents+about+%5Bevent%5D+during+%5Bdate+range%5D.+Build+a+chronology+with+source+links%2C+separate+documented+facts+from+inferences%2C+and+identify+gaps+worth+investigating.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a271a3048848191bc4bb54e66eafef9?install&prompt=Search%20%5Bworkspace%5D%20for%20documents%20about%20%5Bevent%5D%20during%20%5Bdate%20range%5D.%20Build%20a%20chronology%20with%20source%20links%2C%20separate%20documented%20facts%20from%20inferences%2C%20and%20identify%20gaps%20worth%20investigating.&surface=work>)
 
   * ### Test a case theory
 
 ![](https://files.openai.com/content?id=file_000000009cd471f7bf3542b50f989ca7&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=dbd439c74bd649e992344783d6dfd5bfe58b9b1d8b11f6b7ca76410e528d029e&v=0)![](https://files.openai.com/content?id=file_000000009cd471f7bf3542b50f989ca7&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=dbd439c74bd649e992344783d6dfd5bfe58b9b1d8b11f6b7ca76410e528d029e&v=0)Aurora Investigate [case theory] within [workspace]. Compare supporting and contradictory documents, link to the evidence, and prioritize the questions the record does not yet answer.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Aurora+Investigate+%5Bcase+theory%5D+within+%5Bworkspace%5D.+Compare+supporting+and+contradictory+documents%2C+link+to+the+evidence%2C+and+prioritize+the+questions+the+record+does+not+yet+answer.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a271a3048848191bc4bb54e66eafef9?install&prompt=Investigate%20%5Bcase%20theory%5D%20within%20%5Bworkspace%5D.%20Compare%20supporting%20and%20contradictory%20documents%2C%20link%20to%20the%20evidence%2C%20and%20prioritize%20the%20questions%20the%20record%20does%20not%20yet%20answer.&surface=work>)
 
 
 
@@ -82,11 +82,11 @@ Aurora helps authorized Consilio users search their eDiscovery and legal-service
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://helpdesk@consilio.com>)
+### [Plugin supportLearn more(opens in a new window)](<https://helpdesk@consilio.com>)
 
-### [Privacy policyLearn more](<https://mcp-docs.ai.consilio.com/docs/trust/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://mcp-docs.ai.consilio.com/docs/trust/privacy>)
 
 ## Add the Aurora plugin in a few clicks
 
@@ -96,13 +96,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000bd2c81f5afc221d1c0eba8c8&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=4c83445930de137970f0244a461ebf32f866df5e66ff8d2cf660403b8c5d4545&v=0)![](https://files.openai.com/content?id=file_0000000012dc81f593f3ecf63090980b&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=a25bd66558b34ef7da43f14afe8ed4ec39002f4af1c0a59774c000340323edc5&v=0)EverlawSearch and analyze evidence](</business/plugins/everlaw/>)[![](https://files.openai.com/content?id=file_00000000986481f5b9830c4cf2d19e99&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=26539f126d1768d62b92eb5a5fcc65e6d87c1ba39d476b78b1f4a0b6a23b0999&v=0)![](https://files.openai.com/content?id=file_00000000ee0481f7ac15693dc9fd8fd7&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=a5319adeb603b1c416cac50dca9587b2df4f7da3da1f3ab860a644a22711b16b&v=0)Trellis LawState Trial Court Research](</business/plugins/trellis-law/>)[![](https://files.openai.com/content?id=file_00000000bfe482118babfdd9b0cf7353&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=9da1a179f76e5116bb70d62b7a8de51b3b8add7a4e804d73b286809f88d6f98c&v=0)![](https://files.openai.com/content?id=file_0000000021a08246892b9999b59759a6&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=aa853daac645b2aae1fd54239165f2e024b6ba195281b5bbce6fdce230f8d381&v=0)Midpage Legal ResearchLegal Research Data for AI](</business/plugins/midpage/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000bd2c81f5afc221d1c0eba8c8&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=4c83445930de137970f0244a461ebf32f866df5e66ff8d2cf660403b8c5d4545&v=0)![](https://files.openai.com/content?id=file_0000000012dc81f593f3ecf63090980b&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=a25bd66558b34ef7da43f14afe8ed4ec39002f4af1c0a59774c000340323edc5&v=0)EverlawSearch and analyze evidence](</business/plugins/everlaw/>)[![](https://files.openai.com/content?id=file_00000000986481f5b9830c4cf2d19e99&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=26539f126d1768d62b92eb5a5fcc65e6d87c1ba39d476b78b1f4a0b6a23b0999&v=0)![](https://files.openai.com/content?id=file_00000000ee0481f7ac15693dc9fd8fd7&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=a5319adeb603b1c416cac50dca9587b2df4f7da3da1f3ab860a644a22711b16b&v=0)Trellis LawState Trial Court Research](</business/plugins/trellis-law/>)[![](https://files.openai.com/content?id=file_00000000bfe482118babfdd9b0cf7353&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=9da1a179f76e5116bb70d62b7a8de51b3b8add7a4e804d73b286809f88d6f98c&v=0)![](https://files.openai.com/content?id=file_0000000021a08246892b9999b59759a6&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=aa853daac645b2aae1fd54239165f2e024b6ba195281b5bbce6fdce230f8d381&v=0)Midpage Legal ResearchCase law, statutes, regulation](</business/plugins/midpage/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -114,10 +124,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -136,7 +146,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -183,6 +194,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

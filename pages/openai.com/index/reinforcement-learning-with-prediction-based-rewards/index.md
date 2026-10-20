@@ -26,18 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Progress in Montezuma’s Revenge
-
-  * Progress in Montezuma’s Revenge
-  * Large-scale study of curiosity-driven learning
-  * What do curious agents do?
-  * The noisy-TV Problem
-  * Random Network Distillation
-  * Implementation matters
-  * Future directions
-
-
-
 October 31, 2018
 
 [Milestone](</research/index/milestone/>)
@@ -53,6 +41,28 @@ October 31, 2018
 Loading…
 
 Share
+
+Progress in Montezuma’s Revenge
+
+  * Progress in Montezuma’s Revenge
+  * Large-scale study of curiosity-driven learning
+  * What do curious agents do?
+  * The noisy-TV Problem
+  * Random Network Distillation
+  * Implementation matters
+  * Future directions
+
+
+
+  * Progress in Montezuma’s Revenge
+  * Large-scale study of curiosity-driven learning
+  * What do curious agents do?
+  * The noisy-TV Problem
+  * Random Network Distillation
+  * Implementation matters
+  * Future directions
+
+
 
 We’ve developed [Random Network Distillation (RND)⁠](</index/reinforcement-learning-with-prediction-based-rewards/#RNDjump>), a prediction-based method for encouraging reinforcement learning agents to explore their environments through curiosity, which for the first time exceeds average human performance on [Montezuma’s Revenge⁠(opens in a new window)](<https://www.retrogames.cz/play_124-Atari2600.php?language=EN>).
 
@@ -126,8 +136,11 @@ In these experiments the agent controls the environment through a noisy controll
 Since next-state prediction is inherently susceptible to the noisy-TV problem, we identified the following relevant sources of prediction errors:
 
   * **Factor 1** : Prediction error is high where the predictor fails to generalize from previously seen examples. Novel experience then corresponds to high prediction error.
+
   * **Factor 2** : Prediction error is high because the prediction target is stochastic.
+
   * **Factor 3** : Prediction error is high because information necessary for the prediction is missing, or the model class of predictors is too limited to fit the complexity of the target function.
+
 
 
 
@@ -154,8 +167,11 @@ Big-picture considerations like susceptibility to the noisy-TV problem are impor
 We suggest the following paths forward for future research:
 
   * Analyze the benefits of different exploration methods and find novel ways of combining them.
+
   * Train a curious agent on many different environments without reward and investigate the transfer to target environments with rewards.
+
   * Investigate global exploration that involves coordinated decisions over long time horizons.
+
 
 
 
@@ -194,15 +210,15 @@ Blog post: Karl Cobbe, Alex Nichol, Joshua Achiam, Phillip Isola, Alex Ray, Jona
 
 [View all](</news/>)
 
-![Scaling Laws For Reward Model Overoptimization](https://images.ctfassets.net/kftzwdyauwt9/a8801fe6-8892-472b-f746d1d9fb2d/547c46ed9a8a71e89efbb7a7963a8932/image-6.webp?w=3840&q=90&fm=webp)
+![A simple pattern of dark squares arranged in clusters against a light background, creating a geometric design.](https://images.ctfassets.net/kftzwdyauwt9/a8801fe6-8892-472b-f746d1d9fb2d/547c46ed9a8a71e89efbb7a7963a8932/image-6.webp?w=3840&q=90&fm=webp)
 
 [Scaling laws for reward model overoptimizationPublicationOct 19, 2022](</index/scaling-laws-for-reward-model-overoptimization/>)
 
-![Screenshot of a scene from Minecraft](https://images.ctfassets.net/kftzwdyauwt9/ef9fc360-1a5a-4ca3-5c25b83b3564/50c07940455cc86ef84d91526d9cf3e0/vpt.jpg?w=3840&q=90&fm=webp)
+![Hills and trees surrounding a pond in an environment on Minecraft.](https://images.ctfassets.net/kftzwdyauwt9/ef9fc360-1a5a-4ca3-5c25b83b3564/50c07940455cc86ef84d91526d9cf3e0/vpt.jpg?w=3840&q=90&fm=webp)
 
 [Learning to play Minecraft with Video PreTrainingConclusionJun 23, 2022](</index/vpt/>)
 
-![CLIP](https://images.ctfassets.net/kftzwdyauwt9/5e490f66-703f-4228-221ca64049ed/8ed4358ba4b9f8779e07a2b15d7256e1/image_125.png?w=3840&q=90&fm=webp)
+![A grid of images with stacked duplicates of the images, emulating a 3D effect.](https://images.ctfassets.net/kftzwdyauwt9/5e490f66-703f-4228-221ca64049ed/8ed4358ba4b9f8779e07a2b15d7256e1/image_125.png?w=3840&q=90&fm=webp)
 
 [CLIP: Connecting text and imagesMilestoneJan 5, 2021](</index/clip/>)
 
@@ -216,9 +232,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -237,7 +254,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -255,6 +273,9 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -281,6 +302,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -288,6 +310,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

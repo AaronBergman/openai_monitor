@@ -115,20 +115,30 @@ Codex quickly proved valuable across several high-impact use cases, including au
 ## Results at a glance
 
   * Reduced development timelines from 2–3 weeks to 2–3 days for select projects
+
   * Increased engineering throughput, enabling faster iteration and experimentation
+
   * Improved code quality and consistency through automated reviews
+
   * Reduced manual workload in pull request reviews and documentation
+
   * Expanded innovation capacity by enabling non-engineering roles to prototype ideas
+
 
 
 
 ## Leadership lessons
 
   1. Combine broad AI access with deep workflow integration to maximize impact
+
   2. Prioritize real-world use cases over top-down mandates to drive adoption
+
   3. Establish cross-functional champions to scale knowledge organically
+
   4. Evaluate AI tools rigorously using measurable engineering metrics
+
   5. Focus on augmenting—not replacing—existing team capabilities
+
 
 
 
@@ -146,17 +156,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Fyxer customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7LbXXCnX1NLyS1i8mHGF1i/d75fdf2bf63cf463ce2e72915a783757/oai_Fyxer_1x1.png?w=3840&q=90&fm=webp)
+![Improving ChatGPT for low-resource programming languages — listing image](https://images.ctfassets.net/kftzwdyauwt9/5nGzHT5se0oEzcJbDGqwyz/5aafc7c71c35b11d713436e853f0b4b0/low-resource-programming-languages-cover.png?w=3840&q=90&fm=webp)
 
-[How Fyxer built an AI executive assistant people trustStartupSep 14, 2026](</index/fyxer/>)
+[Advancing coding in low‑resource programming languagesPublicationOct 19, 2026](</index/low-resource-programming-languages/>)
 
-![deployco seo image](https://images.ctfassets.net/kftzwdyauwt9/6pnntrVmfPSqsFYG5YlAvy/c69de8f9d518accd55c417898a20322e/og-seo.png?w=3840&q=90&fm=webp)
+![Itaú — Curved paper hero](https://images.ctfassets.net/kftzwdyauwt9/3yLSpHg03VFKN2L7PvfmYK/7869353b973d86465599cbc82cbaa7a2/itau-a-card-1080.png?w=3840&q=90&fm=webp)
 
-[Monitoring trade-off impacts when building AI productsSep 14, 2026](</deployco/news/monitoring-trade-off-impacts-when-building-ai-products/>)
+[How Itaú is building generative AI for its entire customer baseOct 16, 2026](</index/itau-generative-ai/>)
 
-![Perplexity customer story art card](https://images.ctfassets.net/kftzwdyauwt9/wGvW7AaxivnlRvLvZU7CE/146fd791b18b52b67dbb0a3692357a72/square.png?w=3840&q=90&fm=webp)
+![Benefit Street Partners — Cover](https://images.ctfassets.net/kftzwdyauwt9/4hoSVzGnXTL7t0Lc8leJTZ/bc394d73a743bc7c555a0ef89df90c2a/square.png?w=3840&q=90&fm=webp)
 
-[Perplexity trusts GPT-6 Astra with end-to-end systemsSep 14, 2026](</index/perplexity-improving-accuracy-with-astra/>)
+[Benefit Street Partners answers questions faster with CodexOct 16, 2026](</index/benefit-street-partners/>)
 
 Research
 
@@ -168,10 +178,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -190,7 +200,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -208,6 +219,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -236,6 +248,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

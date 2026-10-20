@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Methodology
-
-  * Methodology
-  * Sentiment neuron
-  * Example
-  * Unsupervised learning
-  * Next steps
-
-
-
 April 6, 2017
 
 [Publication](</research/index/publication/>)
@@ -53,6 +43,24 @@ Illustration: Ludwig Pettersson
 Loading…
 
 Share
+
+Methodology
+
+  * Methodology
+  * Sentiment neuron
+  * Example
+  * Unsupervised learning
+  * Next steps
+
+
+
+  * Methodology
+  * Sentiment neuron
+  * Example
+  * Unsupervised learning
+  * Next steps
+
+
 
 A [linear model⁠](</index/unsupervised-sentiment-neuron/#methodology>) using this representation achieves state-of-the-art sentiment analysis accuracy on a small but extensively-studied dataset, the Stanford Sentiment Treebank (we get 91.8% accuracy versus the previous best of 90.2%), and can match the performance of previous supervised systems using 30-100x fewer labeled examples. Our representation also contains a distinct “[sentiment neuron⁠](</index/unsupervised-sentiment-neuron/#sentimentneuron>)” which contains almost all of the sentiment signal.
 
@@ -101,8 +109,11 @@ Machine learning researchers have long dreamed of developing [unsupervised⁠(op
 Our results are a promising step towards general unsupervised representation learning. We found the results by exploring whether we could learn good quality representations as a side effect of language modeling, and scaled up an existing model on a carefully-chosen dataset. Yet the underlying phenomena remain more mysterious than clear.
 
   * These results were not as strong for datasets of long documents. We suspect our character-level model struggles to remember information over hundreds to thousands of timesteps. We think it’s worth trying hierarchical models that can adapt the timescales at which they operate. Further scaling up these models may further improve representation fidelity and performance on sentiment analysis and similar tasks.
+
   * The model struggles the more the input text diverges from review data. It’s worth verifying that broadening the corpus of text samples results in an equally informative representation that also applies to broader domains.
+
   * Our results suggest that there exist settings where very large next-step-prediction models learn excellent unsupervised representations. Training a large neural network to predict the next frame in a large collection of videos may result in unsupervised representations for object, scene, and action classifiers.
+
 
 
 
@@ -126,15 +137,15 @@ Artwork: Ludwig Pettersson
 
 [View all](</news/>)
 
-![Three farmers using a mobile app outside](https://images.ctfassets.net/kftzwdyauwt9/7b26cc3b-46d8-45b0-f67f6de0c8f8/8bc94d083a5a147609cddad159243ef7/digital_green.png?w=3840&q=90&fm=webp)
+![White Digital Green logo on a green background.](https://images.ctfassets.net/kftzwdyauwt9/7b26cc3b-46d8-45b0-f67f6de0c8f8/8bc94d083a5a147609cddad159243ef7/digital_green.png?w=3840&q=90&fm=webp)
 
 [Building agricultural database for farmersJan 12, 2024](</index/digital-green/>)
 
-![Wix cover image](https://images.ctfassets.net/kftzwdyauwt9/6E3QyNLzuWwK3EGBHPw7nQ/fbd0c5a34cc4f4ba096028adbdda8934/oai_Wix_1x1.png?w=3840&q=90&fm=webp)
+![White Wix logo on a background of blue and green paint swathes](https://images.ctfassets.net/kftzwdyauwt9/6E3QyNLzuWwK3EGBHPw7nQ/fbd0c5a34cc4f4ba096028adbdda8934/oai_Wix_1x1.png?w=3840&q=90&fm=webp)
 
 [Creating websites in minutes with AI Website BuilderMay 29, 2025](</index/wix/>)
 
-![WHOOP Coach HIIT](https://images.ctfassets.net/kftzwdyauwt9/163d4817-6436-4d20-83e0963f68f1/ef4bec09f31b32f8ca8a953a09da5897/whoop.png?w=3840&q=90&fm=webp)
+![White Whoop logo on a grey background.](https://images.ctfassets.net/kftzwdyauwt9/163d4817-6436-4d20-83e0963f68f1/ef4bec09f31b32f8ca8a953a09da5897/whoop.png?w=3840&q=90&fm=webp)
 
 [Delivering LLM-powered health solutionsJan 4, 2024](</index/whoop/>)
 
@@ -148,9 +159,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -169,7 +181,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -187,6 +200,9 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -213,6 +229,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -220,6 +237,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

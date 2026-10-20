@@ -136,13 +136,13 @@ Connect with others learning, sharing, and growing with AI.
 
 [Join the community](</academy/champion-programs/>)
 
-### [Help CenterAccount help, billing, troubleshooting, and product guidance.Visit Help Center](<https://help.openai.com/>)
+### [Help CenterAccount help, billing, troubleshooting, and product guidance.Visit Help Center(opens in a new window)](<https://help.openai.com/>)
 
-### [ChatGPT Work and CodexDocumentation and guides for using ChatGPT Work and Codex.View docs](<https://developers.openai.com/codex>)
+### [ChatGPT Work and CodexDocumentation and guides for using ChatGPT Work and Codex.View docs(opens in a new window)](<https://developers.openai.com/codex>)
 
-### [API documentationReference documentation, guides, and examples for building with the OpenAI API.View docs](<https://developers.openai.com/api/docs>)
+### [API documentationReference documentation, guides, and examples for building with the OpenAI API.View docs(opens in a new window)](<https://developers.openai.com/api/docs>)
 
-### [Admin resourcesHow to set up and manage your ChatGPT and Codex for your team.View docs](<https://learn.chatgpt.com/docs/administration>)
+### [Admin resourcesHow to set up and manage your ChatGPT and Codex for your team.View docs(opens in a new window)](<https://learn.chatgpt.com/docs/administration>)
 
 ### [Release notesStay up to date on product updates, new features, and platform changes.View release notes](<https://openai.com/products/release-notes/>)
 
@@ -162,10 +162,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -184,7 +184,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -202,6 +203,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -230,6 +232,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

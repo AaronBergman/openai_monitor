@@ -98,13 +98,7 @@ We worked with a small group of early partners to launch the first set of apps, 
 
 Booking.comCanvaCourseraExpediaFigmaSpotifyZillow
 
-![Mobile screen showing a ChatGPT conversation with a Booking.com integration. The user asks to ‘find me a hotel in Paris for two adults between 11/21–11/24 with parking facilities.’ Below, Booking.com displays search results for Zoku Paris and Le Meurice hotels with photos, prices, and amenities such as Wi-Fi, parking, and pool.](https://images.ctfassets.net/kftzwdyauwt9/2vKwAh34bawGmCw0ozfjg/191c1d3488fb6f331f935830008ce021/Booking_16x9__3_.png?w=3840&q=90&fm=webp)
-
 ZillowSpotify
-
-> "The Zillow app in ChatGPT shows the power of AI to make real estate feel more human. Together with OpenAI, we’re bringing a first-of-its-kind experience to millions — a conversational guide that makes finding a home faster, easier, and more intuitive."
-
-— Josh Weisberg, Head of AI at Zillow
 
 ## Apps coming soon
 
@@ -151,17 +145,15 @@ OpenAI
 
 [View all](</news/>)
 
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
+![Rosalind Academic Plan - Card](https://images.ctfassets.net/kftzwdyauwt9/7EaxSuBblXvd3Y6G2WLoET/4563ce56737d9c0ed1f05358f43c8a7d/rosalind-academic-plan-card.png?w=3840&q=90&fm=webp)
 
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
+[Introducing the Rosalind Academic PlanResearchOct 15, 2026](</index/introducing-the-rosalind-academic-plan/>)
 
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
+![Helping teens learn, plan, and shape the future of AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/3Gg3FDcLbArW4ZsVN8Ry5m/2dcb5d7f34f6cdedec3c6a3e6df83871/teens-learn-and-plan-cover.png?w=3840&q=90&fm=webp)
 
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
+[Helping teens learn, plan, and shape the future of AIProductOct 7, 2026](</index/teens-learn-and-plan/>)
 
-![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
-
-[Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
+[GPT-6 and Intelligent UI for everyoneProductOct 7, 2026](</index/gpt-6-for-everyone/>)
 
 Research
 
@@ -173,9 +165,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -194,7 +187,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -212,6 +206,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -240,6 +235,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -267,3 +263,9 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![Mobile screen showing a ChatGPT conversation with a Booking.com integration. The user asks to ‘find me a hotel in Paris for two adults between 11/21–11/24 with parking facilities.’ Below, Booking.com displays search results for Zoku Paris and Le Meurice hotels with photos, prices, and amenities such as Wi-Fi, parking, and pool.](https://images.ctfassets.net/kftzwdyauwt9/2vKwAh34bawGmCw0ozfjg/191c1d3488fb6f331f935830008ce021/Booking_16x9__3_.png?w=3840&q=90&fm=webp)
+
+> "The Zillow app in ChatGPT shows the power of AI to make real estate feel more human. Together with OpenAI, we’re bringing a first-of-its-kind experience to millions — a conversational guide that makes finding a home faster, easier, and more intuitive."
+
+— Josh Weisberg, Head of AI at Zillow
