@@ -57,25 +57,34 @@ Tickets and Registration
 ## Tickets and Registration
 
   * You may only register a ticket for yourself. Your ticket admits only the named ticket holder to the event, and cannot be transferred, sold, or shared.
+
   * We ask that you fill out the registration form accurately and to the best of your knowledge. Your name, company, and other information may be included on your attendee badge.
+
   * To register, you must be at least 16 years old at the time of the event.  
 If you are purchasing a ticket, the registration fee is not refundable or exchangeable.
+
   * However, if you are unable to attend due to special circumstances, please reach out to [devday@openai.com⁠](<mailto:devday@openai.com>).
+
   * Any hotel or travel expenses are separate from the registration fee and are not arranged by OpenAI.
+
 
 
 
 ## Check-in
 
   * During check-in, you will need to provide a valid photo ID that matches the name of the ticket holder. Only government-issued photo IDs are acceptable, such as a driver’s license or passport.
+
   * To ensure the safety of everyone at OpenAI DevDay, we may also request a reasonable search of any belongings you choose to bring into the event. 
+
 
 
 
 ## Recordings
 
   * OpenAI will be making recordings of the event, which may include your image, likeness, or voice. By registering and participating in the event, you grant OpenAI permission to use these recordings for promotional, educational, or other purposes, without compensation to you.
+
   * You’re welcome to take personal photos of the event. However, unless you’ve received prior written consent from the OpenAI team, you are not permitted to publicly stream or broadcast the event. If you’d like to request approved media access, please contact [press@devday.openai.com⁠](<mailto:press@devday.openai.com>).
+
 
 
 
@@ -105,9 +114,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -126,7 +136,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -144,6 +155,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -172,6 +184,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

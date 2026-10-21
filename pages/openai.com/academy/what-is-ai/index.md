@@ -65,8 +65,11 @@ Welcome! If you’re new to AI, you don’t need a technical background to get s
 You’ve probably seen AI show up in everyday moments, like when:
 
   * Your map app reroutes you around traffic
+
   * Your bank flags a purchase as “unusual”
+
   * A customer support chatbot answers common questions
+
 
 
 
@@ -111,15 +114,19 @@ Over time, as you learn what you like (speed vs depth, quick drafts vs careful a
 Here’s the simple hierarchy:
 
   * **AI** = the overall field
+
   * **Models** = trained systems that perform particular tasks
+
   * **Large language models (LLMs)** = models focused on understanding and generating language, trained over time by AI research labs
+
   * **ChatGPT** = a product that helps you use an LLM effectively
+
 
 
 
 Once you have this picture in mind, you’ll be set up to learn how to get great results with tools like ChatGPT—starting with how to talk to it to get the results you want. 
 
-Learn about [getting started with ChatGPT](</academy/getting-started/>) and prompt engineering.
+Learn about [getting started with ChatGPT](</academy/getting-started/>) and [prompt engineering](</academy/prompting/>).
 
 ## Continue learning with OpenAI Academy
 
@@ -153,9 +160,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -174,7 +182,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -192,6 +201,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -220,6 +230,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

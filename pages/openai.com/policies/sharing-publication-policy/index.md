@@ -41,10 +41,15 @@ To mitigate the possible risks of AI-generated content, we have set the followin
 Posting your own prompts or completions to social media is generally permissible, as is livestreaming your usage or demonstrating our products to groups of people. Please adhere to the following:
 
   * Manually review each generation before sharing or while streaming.
+
   * Attribute the content to your name or your company.
+
   * Indicate that the content is AI-generated in a way no user could reasonably miss or misunderstand.
+
   * Do not share content that violates our [Content Policy⁠⁠](</policies/usage-policies/>) or that may offend others.
+
   * If taking audience requests for prompts, use good judgment; do not input prompts that might result in violations of our [Content Policy⁠⁠](</policies/usage-policies/>).
+
 
 
 
@@ -54,14 +59,19 @@ If you would like to ensure the OpenAI team is aware of a particular completion,
 
 
 
+
 ## Content co-authored with the OpenAI API
 
 Creators who wish to publish their first-party written content (e.g., a book, compendium of short stories) created in part with the OpenAI API are permitted to do so under the following conditions:
 
   * The published content is attributed to your name or company.
+
   * The role of AI in formulating the content is clearly disclosed in a way that no reader could possibly miss, and that a typical reader would find sufficiently easy to understand.
+
   * Topics of the content do not violate OpenAI’s [Content Policy⁠⁠](</policies/usage-policies/>) or [Terms of Use⁠⁠](</policies/terms-of-use/>), e.g., are not related to adult content, spam, hateful content, content that incites violence, or other uses that may cause social harm.
+
   * We kindly ask that you refrain from sharing outputs that may offend others.
+
 
 
 
@@ -76,8 +86,11 @@ Here is some stock language you may use to describe your creative process, provi
 We believe it is important for the broader world to be able to evaluate our research and products, especially to understand and improve potential weaknesses and safety or bias problems in our models. Accordingly, we welcome research publications related to the OpenAI API.
 
   * In some cases, we may want to highlight your work internally and/or externally.
+
   * In others, such as publications that pertain to security or misuse of the API, we may want to take appropriate actions to protect our users.
+
   * If you notice any safety or security issues with the API in the course of your research, we ask that you please submit these immediately through our [Coordinated Vulnerability Disclosure Program⁠⁠](</policies/coordinated-vulnerability-disclosure-policy/>).
+
 
 
 
@@ -88,12 +101,19 @@ There are a number of research directions we are excited to explore with the Ope
 In particular, we consider the following to be especially important directions, though you are free to craft your own direction:
 
   * **Alignment** : How can we understand what objective, if any, a model is best understood as pursuing? How do we increase the extent to which that objective is aligned with human preferences, such as via prompt design or fine-tuning?
+
   * **Fairness and representation** : How should performance criteria be established for fairness and representation in language models? How can language models be improved in order to effectively support the goals of fairness and representation in specific, deployed contexts?
+
   * **Interdisciplinary research** : How can AI development draw on insights from other disciplines such as philosophy, cognitive science, and sociolinguistics?
+
   * **Interpretability and transparency** : How do these models work, mechanistically? Can we identify what concepts they’re using, or extract latent knowledge from the model, make inferences about the training procedure, or predict surprising future behavior?
+
   * **Misuse potential** : How can systems like the API be misused? What sorts of “red teaming” approaches can we develop to help us and other AI developers think about responsibly deploying technologies like this?
+
   * **Model exploration** : Models like those served by the API have a variety of capabilities which we have yet to explore. We’re excited by investigations in many areas including model limitations, linguistic properties, commonsense reasoning, and potential uses for many other problems.
+
   * **Robustness** : Generative models have uneven capability surfaces, with the potential for surprisingly strong and surprisingly weak areas of capability. How robust are large generative models to “natural” perturbations in the prompt, such as phrasing the same idea in different ways or with or without typos? Can we predict the kinds of domains and tasks for which large generative models are more likely to be robust (or not robust), and how does this relate to the training data? Are there techniques we can use to predict and mitigate worst-case behavior? How can robustness be measured in the context of few-shot learning (e.g., across variations in prompts)? Can we train models so that they satisfy safety properties with a very high level of reliability, even under adversarial inputs?
+
 
 
 
@@ -109,9 +129,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -130,7 +151,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -148,6 +170,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -176,6 +199,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

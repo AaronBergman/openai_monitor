@@ -57,7 +57,9 @@ ChatGPT allows you to upload and work with files directly in your conversations.
 ## How to work with files 
 
   1. Start a chat with ChatGPT.
+
   2. Upload your file by opening the tools menu and selecting “Add photos or files” (supported formats include CSV, XLSX, PDF, DOCX, JPEG, PNG, TXT, and more). 
+
 
 
 
@@ -66,9 +68,13 @@ ChatGPT allows you to upload and work with files directly in your conversations.
 3\. Ask a question or give a task, for example:
 
   * “Summarize the main findings in this report and call out any risks or open questions.”
+
   * “Visualize this sales data by region and highlight the biggest changes month over month.”
+
   * “Rewrite this document to be clearer and more concise, while keeping the same tone.”
+
   * “Extract the key dates and owners from this PDF into a simple table.”
+
 
 
 
@@ -79,8 +85,11 @@ ChatGPT allows you to upload and work with files directly in your conversations.
 Some versions of ChatGPT allow you to use **apps** , which let ChatGPT access third-party tools so you can bring external context into the conversation. Check out [_available apps here⁠._ ⁠(opens in a new window)](<https://help.openai.com/articles/11487775-connectors-in-chatgpt>)
 
   1. Go to [_Settings → Apps⁠_ ⁠(opens in a new window)](<https://chatgpt.com/?openaicom-did=a2948a4b-ed54-4ff6-a784-3c0e551a3c71&openaicom_referred=true#settings/Connectors>) to find an app to connect to.
+
   2. Complete the authentication and permissions flow.
+
   3. Apps will appear in Tools during chats, or you can use @ or / to bring one up.
+
 
 
 
@@ -91,7 +100,9 @@ _Note: For Enterprise workspaces, your organization’s admin controls which app
 ##  Further reading
 
   * [ _OpenAI Help Center: File Uploads FAQ⁠_ ⁠(opens in a new window)](<https://help.openai.com/articles/8555545-file-uploads-faq>)
+
   * [_OpenAI Help Center: Retention Policies in ChatGPT⁠_ ⁠(opens in a new window)](<https://help.openai.com/articles/8983778-chat-and-file-retention-policies-in-chatgpt>)
+
 
 
 
@@ -129,9 +140,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -150,7 +162,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -168,6 +181,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -196,6 +210,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

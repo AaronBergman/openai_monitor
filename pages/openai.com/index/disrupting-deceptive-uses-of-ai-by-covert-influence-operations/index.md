@@ -71,10 +71,15 @@ Over the last three months, our work against IO actors has disrupted covert infl
 Specifically, we disrupted: 
 
   * A previously unreported operation from Russia, which we dubbed **Bad Grammar,** operating mainly on Telegram and targeting Ukraine, Moldova, the Baltic States and the United States. The people behind**** Bad Grammar used our models to debug code for running a Telegram bot and to create short, political comments in Russian and English that were then posted on Telegram. 
+
   * An operation originating in Russia known as [_Doppelganger_ ⁠(opens in a new window)](<https://www.disinfo.eu/doppelganger-operation/>). People acting on behalf of **Doppelganger** used our models to generate comments in English, French, German, Italian and Polish that were posted on X and 9GAG; translate and edit articles in English and French that were posted on websites linked to this operation; generate headlines; and convert news articles into Facebook posts. 
+
   * A Chinese network known as [_Spamouflage_ ⁠(opens in a new window)](<https://graphika.com/reports/spamouflage>), which**** used our models to research public social media activity, generate texts in languages including Chinese, English, Japanese and Korean that were then posted across platforms including X, Medium and Blogspot, and debug code for managing databases and websites, including a previously unreported domain, revealscum[.]com. 
+
   * An Iranian operation known as the [_International Union of Virtual Media_ ⁠(opens in a new window)](<https://www.reuters.com/article/idUSKCN1LD2R7/>)**(IUVM)** , which used our models to generate and translate long-form articles, headlines and website tags that were then published on a website linked to this Iranian threat actor, iuvmpress[.]co; 
+
   * Activity by a commercial company in Israel called STOIC, because technically we disrupted the activity, not the company. We nicknamed this operation **Zero Zeno** , for the founder of the stoic school of philosophy. The people behind Zero Zeno used our models to generate articles and comments that were then posted across multiple platforms, notably Instagram, Facebook, X, and websites associated with this operation. 
+
 
 
 
@@ -87,9 +92,13 @@ So far, these operations do not appear to have benefited from meaningfully incre
 Based on the investigations into influence operations detailed in our report, and the work of the open-source community, we have identified the following trends in how covert influence operations have recently used artificial intelligence models like ours. 
 
   * **Content generation** : All these threat actors used our services to generate text (and occasionally images) in greater volumes, and with fewer language errors than would have been possible for the human operators alone. 
+
   * **Mixing old and new** : All of these operations used AI to some degree, but none used it exclusively. Instead, AI-generated material was just one of many types of content they posted, alongside more traditional formats, such as manually written texts or memes copied from across the internet. 
+
   * **Faking engagement** : Some of the networks we disrupted used our services to help create the _appearance_ of engagement across social media - for example, by generating replies to their own posts. This is distinct from attracting _authentic_ engagement, which none of the networks we describe here managed to do to a meaningful degree. 
+
   * **Productivity gains** : Many of the threat actors that we identified and disrupted used our services in an attempt to enhance productivity, such as summarizing social media posts or debugging code.
+
 
 
 
@@ -98,10 +107,15 @@ Based on the investigations into influence operations detailed in our report, an
 While much of the public debate so far has focused on the potential or actual use of AI by attackers, it is important to remember the advantages that AI offers to defenders. Our investigations also benefit from industry sharing and open-source research.
 
   * **Defensive design:** We impose friction on threat actors through our safety systems, which reflect our [_approach to responsibly deploying AI_ ⁠](<https://openai.com/safety>). For example, we repeatedly observed cases where our models refused to generate the text or images that the actors asked for. 
+
   * **AI-enhanced investigation** : Similar to our approach to [_using GPT‑4 for content moderation_ ⁠](<https://openai.com/blog/using-gpt-4-for-content-moderation>) and [_cyber defense_ ⁠](<https://openai.com/index/reimagining-secure-infrastructure-for-advanced-ai>), we have built our own AI-powered tools to make our detection and analysis more effective. The investigations described in the accompanying report took days, rather than weeks or months, thanks to our tooling. As our models improve, we’ll continue leveraging their capabilities to improve our investigations too. 
+
   * **Distribution matters** : Like traditional forms of content, AI-generated material must be distributed if it is to reach an audience. The IO posted across a wide range of different platforms, including X, Telegram, Facebook, Medium, Blogspot, and smaller forums, but none managed to engage a substantial audience. 
+
   * **Importance of industry sharing** : To increase the impact of our disruptions on these actors, we have shared detailed threat indicators with industry peers. Our own investigations benefited from years of open-source analysis conducted by the wider research community. 
+
   * **The human element** : AI can change the toolkit that human operators use, but it does not change the operators themselves. Our investigations showed that these actors were as prone to human error as previous generations have been - for example, publishing refusal messages from our models on social media and their websites. While it is important to be aware of the changing tools that threat actors use, we should not lose sight of the human limitations that can affect their operations and decision making. 
+
 
 
 
@@ -127,9 +141,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -148,7 +163,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -166,6 +182,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -194,6 +211,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

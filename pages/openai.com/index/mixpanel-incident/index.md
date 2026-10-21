@@ -51,11 +51,17 @@ On November 9, 2025, Mixpanel became aware of an attacker that gained unauthoriz
 User profile information associated with the use of [_platform.openai.com_ ⁠(opens in a new window)](<https://platform.openai.com>) may have been included in data exported from Mixpanel. The information that may have been affected was limited to:
 
   * Name that was provided to us on the account 
+
   * Email address associated with the account
+
   * Approximate coarse location based on user browser (city, state, country)
+
   * Operating system and browser used to access the account
+
   * Referring websites
+
   * Organization or User IDs associated with the account
+
 
 
 
@@ -74,9 +80,13 @@ The information that may have been affected here could be used as part of phishi
 Since names, email addresses, and OpenAI API metadata (e.g., user IDs) were included, we encourage you to remain vigilant for credible-looking phishing attempts or spam. As a reminder:
 
   * Treat unexpected emails or messages with caution, especially if they include links or attachments.
+
   * Double-check that any message claiming to be from OpenAI is sent from an official OpenAI domain.
+
   * OpenAI does not request passwords, API keys, or verification codes through email, text, or chat.
+
   * Further protect your account by enabling [_multi-factor authentication_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/7967234-enabling-or-disabling-multi-factor-authentication-mfa>). 
+
 
 
 
@@ -92,9 +102,11 @@ OpenAI
 
 
 
+
 **Was this caused by a vulnerability in OpenAI’s systems?**
 
   * No. This incident was limited to Mixpanel’s systems and did not involve unauthorized access to OpenAI’s infrastructure.
+
 
 
 
@@ -104,9 +116,11 @@ OpenAI
 
 
 
+
 **Was any of my API data, prompts, or outputs affected?**
 
   * No. Chat content, prompts, responses, or API usage data were not impacted.
+
 
 
 
@@ -116,9 +130,11 @@ OpenAI
 
 
 
+
 **Were OpenAI passwords, API keys, or payment information exposed?**
 
   * No. OpenAI passwords, API keys, payment information, government IDs, and account access credentials were not impacted. Additionally, we have confirmed that session tokens, authentication tokens, and other sensitive parameters for OpenAI services were not impacted.
+
 
 
 
@@ -128,9 +144,11 @@ OpenAI
 
 
 
+
 **What are you doing to protect my personal information and privacy?**
 
   * We have obtained the impacted datasets for independent review and are continuing to investigate potential impact, and monitor closely for any signs of misuse. We are notifying all individually impacted users and organizations and are in contact with Mixpanel on further response actions. 
+
 
 
 
@@ -140,9 +158,11 @@ OpenAI
 
 
 
+
 **Should I enable multi-factor authentication for my account?**
 
   * Yes. While account credentials or tokens were not impacted in this incident, as a best practice security control, we recommend all users enable multi-factor authentication to further protect their accounts. For enterprises and organizations, we recommend that MFA is enabled at the single sign-on layer. 
+
 
 
 
@@ -152,9 +172,11 @@ OpenAI
 
 
 
+
 **Is there someone I can reach out to if I have questions?**
 
   * If you have questions, concerns, or security issues, you can reach our support team at [_mixpanelincident@openai.com_ ⁠](<mailto:mixpanelincident@openai.com>). 
+
 
 
 
@@ -170,17 +192,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![OpenAI acquires Orchestra Bio — Cover](https://images.ctfassets.net/kftzwdyauwt9/aCCKzOGT6S74nQ6fkqoiC/f707768c583e7aa12d237c5917080f32/openai-to-acquire-orchestra-bio-cover.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[OpenAI acquires Orchestra BioCompanyOct 20, 2026](</index/openai-to-acquire-orchestra-bio/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![Teaching students to think and learn through questions — Cover](https://images.ctfassets.net/kftzwdyauwt9/AHG23niw4hDTG5blxqb9u/54c7069a05fa9506426269f1a2b76a0f/teaching-students-to-think-and-learn-through-questions-cover.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[Teaching students to think and learn through questionsCompanyOct 15, 2026](</index/teaching-students-to-think-and-learn-through-questions/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![Atlassian partnership card — official white SVGs on Neutral 088](https://images.ctfassets.net/kftzwdyauwt9/3fWFo3Rbu3ABBh0ctAldTR/1790adae24af280abbb937cd88cb4957/atlassian-card-official.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[Atlassian and OpenAI expand their partnershipCompanyOct 6, 2026](</index/atlassian-partnership/>)
 
 Research
 
@@ -192,9 +214,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -213,7 +236,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -231,6 +255,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -259,6 +284,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

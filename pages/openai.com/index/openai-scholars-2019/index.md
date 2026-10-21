@@ -81,10 +81,15 @@ Diversity is core to AI having a positive effect on the world—it’s necessary
 ## What we provide
 
   * $7.5k/mo stipend for 3 months from February 1, 2019 through May 2, 2019.
+
   * $25,000 worth of credits from Amazon Web Services.
+
   * A guaranteed interview with OpenAI for full-time work after completion of the Scholars program.
+
   * Access to a group Slack with the scholars and mentors. If you’re in the Bay Area, we’ll optionally provide a desk for you at the OpenAI office (which our past Scholars have found very valuable).
+
   * A mentor, who will work with you 1:1 via video call each week, answer your questions via chat/email, and work with you to design and execute a good project to stretch your skills. Mentors for this cohort include:
+
 
 
 
@@ -99,17 +104,24 @@ We look for people who are comfortable writing software, but no previous machine
 You are eligible to apply if:
 
   * You are a member of an underrepresented group in science and engineering.
+
   * You have US work authorization and are located in the United States for the duration of the program; We give preference to applicants who can be physically present during the program.
+
   * You understand this article on [calculus⁠(opens in a new window)](<http://wiki.fast.ai/index.php/Calculus_for_Deep_Learning>) and this article on [linear algebra⁠(opens in a new window)](<https://www.quantstart.com/articles/matrix-algebra-linear-algebra-for-deep-learning-part-2>). (It’s fine if you have to brush up on these skills).
+
   * You are comfortable programming in Python (other languages are helpful, but you’ll spend the program writing in Python).
+
 
 
 
 We’ll use these criteria for selection:
 
   * **Technical skills**. The stronger your technical background, the more time you’ll spend focusing on the deep learning itself.
+
   * **Self-motivation**. We’re looking for people who will work hard through those 3 months, and have demonstrated that they can push themselves to persevere through challenging work.
+
   * **Community building capabilities**. We want to hear from people who will inspire others (in the program and externally) to endeavor to learn deep learning as well.
+
 
 
 
@@ -134,15 +146,15 @@ Ashley Pilipiszyn, Larissa Schiavo, Greg Brockman
 
 [View all](</news/>)
 
-![Newspartnership Cover](https://images.ctfassets.net/kftzwdyauwt9/ffffbd46-a171-41c5-25d9eec16b7d/bd1bc987f38b1c2901819b4c211886a2/NewsPartnership_Cover.png?w=3840&q=90&fm=webp)
+![Soft pastel painting depicting a serene sky with wispy clouds, blending aqua, peach, and a hint of yellow at the horizon.](https://images.ctfassets.net/kftzwdyauwt9/ffffbd46-a171-41c5-25d9eec16b7d/bd1bc987f38b1c2901819b4c211886a2/NewsPartnership_Cover.png?w=3840&q=90&fm=webp)
 
 [Global news partnerships: Le Monde and Prisa MediaCompanyMar 13, 2024](</index/global-news-partnerships-le-monde-and-prisa-media/>)
 
-![New board of directors](https://images.ctfassets.net/kftzwdyauwt9/5J9s3ItUUDOTebSo0ZVmun/642e8632be32866792c7aaae0113aaa5/44.png?w=3840&q=90&fm=webp)
+![Abstract soft-focus background with a delicate blend of pale peach and a hint of pink.](https://images.ctfassets.net/kftzwdyauwt9/5J9s3ItUUDOTebSo0ZVmun/642e8632be32866792c7aaae0113aaa5/44.png?w=3840&q=90&fm=webp)
 
 [OpenAI announces new members to board of directorsCompanyMar 8, 2024](</index/openai-announces-new-members-to-board-of-directors/>)
 
-![News > Company carousel > Review completed > Media](https://images.ctfassets.net/kftzwdyauwt9/3BEH4mYgX0MXC45XOsbOru/fdcc0dadabd87f8e9a776a2f34647de0/37.png?w=3840&q=90&fm=webp)
+![Blurred abstract image with a soft fusion of peach, green, and pink hues with a white smudge in the upper region.](https://images.ctfassets.net/kftzwdyauwt9/3BEH4mYgX0MXC45XOsbOru/fdcc0dadabd87f8e9a776a2f34647de0/37.png?w=3840&q=90&fm=webp)
 
 [Review completed & Altman, Brockman to continue to lead OpenAICompanyMar 8, 2024](</index/review-completed-altman-brockman-to-continue-to-lead-openai/>)
 
@@ -156,9 +168,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -177,7 +190,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -195,6 +209,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -223,6 +238,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

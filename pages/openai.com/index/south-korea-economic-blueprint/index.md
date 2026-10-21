@@ -67,8 +67,11 @@ This blueprint builds on recent milestones, including OpenAI’s first country-l
 ## Why Korea and why now 
 
   * A strong foundation: Korea ranks among the global leaders in AI readiness, with deep strengths in chips, devices, and networks, and a vibrant private sector eager to adopt AI.
+
   * A clear policy focus: The government has committed significant public–private funds to strengthen competitiveness.
+
   * A window of opportunity: As frontier AI rapidly advances, global cooperation will shape the next decade of productivity and innovation.
+
 
 
 
@@ -77,7 +80,9 @@ This blueprint builds on recent milestones, including OpenAI’s first country-l
 The blueprint recommends a dual-track approach:
 
   * Build sovereign AI capabilities in foundation models, infrastructure, data governance, and GPU supply, so Korea can chart its own course.
+
   * Pursue strategic collaborations with frontier AI developers to accelerate adoption and ensure businesses gain access to state-of-the-art technologies. A notable example of the strategic collaborations between OpenAI and Samsung, SK, and the Ministry of Science and ICT (MSIT).
+
 
 
 
@@ -86,18 +91,26 @@ These tracks are complementary: frontier adoption can strengthen operational mat
 ## Priority areas for impact
 
   * Exports & industrial competitiveness: Korea’s export engine—semiconductors, autos, shipbuilding—can gain from AI-enabled design, smart factories, and autonomous systems. Frontier-grade tools help manufacturers reduce cycle times, improve yield, and optimize supply chains.
+
   * Healthcare & social welfare: With an aging population and high care utilization, AI can support clinicians, reduce errors, streamline documentation, and extend access—while preserving safety through sandboxes, monitoring, and human oversight.
+
   * Education & talent: AI tutors and educator copilots can personalize learning, ease administrative burdens, and expand access beyond major metros, helping cultivate an “AI-native” student experience and a next-generation talent pipeline.
+
   * SMEs & regional vitality: Lightweight, affordable AI assistants for paperwork, exports, and compliance can free up time for value-creating work and help smaller firms participate in the AI economy—supporting balanced growth beyond Seoul.
+
 
 
 
 ## Enablers: infrastructure, operations, data, and law
 
   * Infrastructure at scale: Partnerships under Stargate and ongoing work with MSIT aim to expand compute capacity in Korea. Frontier-level data center practices—on siting, power, efficiency, and software operations—can anchor a durable local ecosystem.
+
   * Operational readiness: Disciplined testing, staged rollouts, real-time monitoring, and clear incident response are essential for reliable AI deployment in enterprise and public services. Frontier collaboration can accelerate the diffusion of these practices.
+
   * Data governance & sandboxes: Interoperable data platforms, clear rules for consent and pseudonymization, and supervised regulatory sandboxes enable responsible experimentation—and faster translation from pilots to practice.
+
   * Modernized policy environment: Stable, internationally aligned guidelines reduce uncertainty and spur investment. Rationalizing barriers and opening non-sensitive public data can speed adoption where benefits are clear and risks are managed.
+
 
 
 
@@ -106,8 +119,11 @@ These tracks are complementary: frontier adoption can strengthen operational mat
 If South Korea pairs sovereign capability-building with targeted frontier partnerships, it can:
 
   * Scale AI across exports, healthcare, education, and SMEs—boosting productivity and inclusion.
+
   * Embed global best practices in infrastructure and operations—lowering cost and risk.
+
   * Develop an exportable “AI nation package” that bundles technology, financing, and policy know-how—similar to Korea’s track record in complex projects like nuclear power and smart cities.
+
 
 
 
@@ -130,17 +146,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![OpenAI acquires Orchestra Bio — Cover](https://images.ctfassets.net/kftzwdyauwt9/aCCKzOGT6S74nQ6fkqoiC/f707768c583e7aa12d237c5917080f32/openai-to-acquire-orchestra-bio-cover.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[OpenAI acquires Orchestra BioCompanyOct 20, 2026](</index/openai-to-acquire-orchestra-bio/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![Teaching students to think and learn through questions — Cover](https://images.ctfassets.net/kftzwdyauwt9/AHG23niw4hDTG5blxqb9u/54c7069a05fa9506426269f1a2b76a0f/teaching-students-to-think-and-learn-through-questions-cover.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[Teaching students to think and learn through questionsCompanyOct 15, 2026](</index/teaching-students-to-think-and-learn-through-questions/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![The EU’s next chapter in AI is agentic — Cover](https://images.ctfassets.net/kftzwdyauwt9/1KGRRdbE0ggm4hqHd64ywl/f55ce61c0c7e3097ed6ed3744248c343/the-eus-next-chapter-in-ai-is-agentic-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[Europe’s opportunity to deepen AI useGlobal AffairsOct 14, 2026](</index/the-eus-next-chapter-in-ai-is-agentic/>)
 
 Research
 
@@ -152,9 +168,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -173,7 +190,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -191,6 +209,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -219,6 +238,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

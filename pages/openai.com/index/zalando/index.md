@@ -39,8 +39,11 @@ Share
 Zalando worked with OpenAI to develop the Zalando Assistant, an AI-powered tool that provides personalized content recommendations and streamlines product discovery. With GPT‑4o mini and a robust evaluation framework, and compared to the previous version, the latest iteration of the Assistant has delivered:
 
   * A 23% increase in product clicks
+
   * A 40%+ increase in products added to the wishlist
+
   * Scaled availability to 25 markets featuring local languages
+
 
 
 
@@ -79,9 +82,13 @@ The transition proved pivotal. The Assistant could now operate in new languages 
 The combination of GPT‑4o mini and the improved evaluation process led to measurable outcomes that exceeded expectations in comparison to previous versions of the assistant:
 
   * **Improved engagement** : Product clicks increased by 23% within the recommendation carousel, and wishlist additions rose by 41%, demonstrating stronger user interaction.
+
   * **Quality feedback** : The number of recommendations deemed “unhelpful” by users decreased by 5%, reflecting higher satisfaction with the new Assistant’s picks.
+
   * **Better cost efficiency** : By transitioning from GPT‑3.5 to GPT‑4o mini, Zalando was able to scale its traffic 12x by deploying the Assistant to more markets, and without spending significantly more.
+
   * **Localization at scale** : The Assistant now performs seamlessly across all 25 of Zalando’s markets, supporting multiple languages and cultural contexts.
+
 
 
 
@@ -95,7 +102,7 @@ Building on this success, Zalando is progressing the Assistant with more convers
 
 [Talk with our team](</contact-sales/>)
 
-## Keep reading
+#### Keep reading
 
 [View all](</stories/>)
 
@@ -121,9 +128,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -142,7 +150,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -160,6 +169,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -188,6 +198,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

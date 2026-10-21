@@ -45,7 +45,9 @@ _After months of litigation, we are no longer under a legal order to retain cons
 _We’ve returned to our_[ _standard data retention practices_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/8983778-chat-and-file-retention-policies-in-chatgpt>)_:_
 
   * **_Deleted ChatGPT conversations_** _and_** _Temporary Chats_** _will be automatically deleted from our systems within_[ _30 days_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/8983778-chat-and-file-retention-policies-in-chatgpt>)_._
+
   * **_API data_** _will also be automatically deleted after_[ _30 days._ ⁠(opens in a new window)](<https://platform.openai.com/docs/faq/faq>)
+
 
 
 
@@ -72,23 +74,31 @@ We strongly believe this is an overreach by the New York Times. We’re continui
 **Why are The New York Times and other plaintiffs asking for this?**
 
   * The New York Times is suing OpenAI. As part of their baseless lawsuit, they’ve recently asked the court to force us to retain all user content indefinitely going forward, based on speculation that they might find something that supports their case.
+
   * We strongly believe this is an overreach. It risks your privacy without actually helping resolve the lawsuit. That’s why we’re fighting it.
+
 
 
 
 **Is my data impacted?**
 
   * Yes, if you have a ChatGPT Free, Plus, Pro, and Team subscription or if you use the OpenAI API (without a Zero Data Retention agreement).
+
   * This does _not_ impact ChatGPT Enterprise or ChatGPT Edu customers.
+
   * This does _not_ impact API customers who are using Zero Data Retention endpoints under our ZDR amendment.
+
 
 
 
 **What have you done to challenge this order to date?**
 
   * From the outset, we argued that the plaintiffs’ request to preserve “all output data” was vastly overbroad and conflicted with our privacy commitments. We filed a motion asking the Magistrate Judge to reconsider the preservation order, highlighting that indefinite retention of user data breaches industry norms and our own policies.
+
   * When we appeared before the Magistrate Judge on May 27, the Court clarified that ChatGPT Enterprise is excluded from preservation.
+
   * We have also appealed this order with the District Court Judge.
+
 
 
 
@@ -98,24 +108,31 @@ We strongly believe this is an overreach by the New York Times. We’re continui
 
 
 
+
 **If I delete my data from ChatGPT, will it still be retained under this order?**
 
   * The New York Times is demanding that we retain even [deleted ChatGPT chats⁠(opens in a new window)](<https://help.openai.com/en/articles/8983778-chat-and-file-retention-policies-in-chatgpt>) and API content that would typically be automatically removed from our systems within 30 days.
+
   * This does _not_ impact ChatGPT Enterprise or ChatGPT Edu customers.
+
 
 
 
 **How will you store my data and who can access it?**
 
   * The content covered by the court order is stored separately in a secure system. It’s protected under legal hold, meaning it can’t be accessed or used for purposes other than meeting legal obligations.
+
   * Only a small, audited OpenAI legal and security team would be able to access this data as necessary to comply with our legal obligations.
+
 
 
 
 **Will this data be shared with the New York Times, other plaintiffs, or anyone else?**
 
   * This data is not automatically shared with The New York Times or anyone else. It’s locked under a separate legal hold, meaning it’s securely stored and can only be accessed under strict legal protocols.
+
   * If plaintiffs continue to push for access in any way, we will fight to protect your privacy at every step.
+
 
 
 
@@ -125,16 +142,20 @@ We strongly believe this is an overreach by the New York Times. We’re continui
 
 
 
+
 **Does this court order violate GDPR or my rights under European or other privacy laws?**
 
   * We are taking steps to comply at this time because we must follow the law, but The New York Times’ demand does not align with our privacy standards. That is why we’re challenging it.
 
 
 
+
 **Does this change your training policies?**
 
   * Business customers: We don’t train our models on business data by default, and this court order does not change that.
+
   * Consumer customers: You control whether your chats are used to help improve ChatGPT within settings, and this order doesn’t change that either.
+
 
 
 
@@ -144,13 +165,19 @@ We strongly believe this is an overreach by the New York Times. We’re continui
 
 
 
+
 **What are your data retention policies?**
 
   * [ ChatGPT Free, Plus, Pro⁠(opens in a new window)](<https://help.openai.com/en/articles/8983778-chat-and-file-retention-policies-in-chatgpt>): When you delete a chat (or your account), the chat is removed from your account immediately and scheduled for permanent deletion from OpenAI systems within 30 days, unless we are required to retain it for legal or security reasons or as described [here⁠(opens in a new window)](<https://help.openai.com/en/articles/8809935-how-to-delete-and-archive-chats-in-chatgpt>).
+
   * [ChatGPT Team](</enterprise-privacy/>): Each of your end users controls whether their conversations are retained. Any deleted or unsaved conversations are removed from our systems within 30 days, unless we are legally required to retain them.
+
   * [ChatGPT Enterprise and ChatGPT Edu](</enterprise-privacy/>): Your workspace admins control how long your customer content is retained. Any deleted conversations are removed from our systems within 30 days, unless we are legally required to retain them.
+
   * [API](</enterprise-privacy/>): Business customers who build on top of our API control how long customer content is retained for application state based on the endpoints they use and their configurations (see [here⁠(opens in a new window)](<https://platform.openai.com/docs/guides/your-data#storage-requirements-and-retention-controls-per-endpoint>)). After 30 days, API inputs and outputs are removed from OpenAI logs, unless we are legally required to retain them. 
+
   * Zero Data Retention API: If a business customer is using Zero Data Retention endpoints, inputs and outputs are never logged and are not retained for application state.
+
 
 
 
@@ -159,7 +186,7 @@ We strongly believe this is an overreach by the New York Times. We’re continui
 
 
 
-## Author
+## Authors
 
 Brad Lightcap, OpenAI
 
@@ -167,15 +194,17 @@ Brad Lightcap, OpenAI
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Disrupting a coordinated model-distillation campaign — cover](https://images.ctfassets.net/kftzwdyauwt9/1n8Wz1YN3veGi9Fmt7qpSQ/7bc8a9d0a7ebf3800c10e72a360f9f22/disrupting-a-coordinated-model-distillation-campaign-cover.png?w=3840&q=90&fm=webp)
 
-![The Defender’s Window > Cover](https://images.ctfassets.net/kftzwdyauwt9/2We7bguC4FuOofZ8Lu6LUZ/02049fcee47c460695acab59bdb8f648/the-defenders-window-clean-cover.png?w=3840&q=90&fm=webp)
+[Disrupting a coordinated model-distillation campaignSecuritySep 30, 2026](</index/disrupting-a-coordinated-model-distillation-campaign/>)
 
-[The Defender’s WindowSecurityAug 17, 2026](</index/the-defenders-window/>)
+![Daybreak for Critical Infrastructure — cover](https://images.ctfassets.net/kftzwdyauwt9/3iCwHSjR2bfJPdDiWomsis/86d511413c2b0338bd211b41545be495/Option_65___1080_1080.png?w=3840&q=90&fm=webp)
 
-![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
+[Daybreak for Frontline DefendersSecuritySep 3, 2026](</index/daybreak-for-frontline-defenders/>)
 
-[Expanding Daybreak as the Cyber Defense Window NarrowsSecurityAug 10, 2026](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
+![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
+
+[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
 
 Research
 
@@ -187,9 +216,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -208,7 +238,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -226,6 +257,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -254,6 +286,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -77,8 +77,11 @@ By understanding resolution rate, Ada had a north star for their product. In add
 Ada had used OpenAI’s models before, mostly to generate training data for their NLP models. When putting OpenAI’s API to the test for their new use cases, Ada noted several differentiators: 
 
   * **Quality of inference:** Ada has built a synthetic test framework that simulates hundreds of thousands of end customers talking to their system, so they stress test models on scalability and quality. “We evaluate every major model on a regular basis, within a few weeks of them being released, and so far no one has bested OpenAI on our evaluation set,” Gozzo said. 
+
   * **Latency:** To ensure the best performance for Ada’s voice use cases, low-latency models are key. “For real-time reasoning, we’ve seen a big leap in latency and overall quality with GPT‑4o,” Gozzo said.
+
   * **Fine-tuning:** Ada uses OpenAI’s fine-tuning API to provide a confidence score about the level of hallucinations in a given response, and uses that score in the rest of the toolchain to minimize the number of hallucinations in the system. “We’re also excited about the possibility over time of using fine tuning to further improve our system's ability to reason, and the potential for the technique to allow for smaller, less expensive models to mimic the performance of frontier models,” Gozzo said. 
+
 
 
 
@@ -112,11 +115,9 @@ The sense of possibility is mutual. “One thing that stands out at OpenAI compa
 
 [Talk with our team](</contact-sales/>)
 
-## Keep reading
+#### Keep reading
 
-![Lowes logo superimposed on an abstract painting with prominent blue brushstrokes.](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
-
-[Lowe’s puts project expertise into every hand](</index/lowes/>)
+Lowe’s puts project expertise into every hand
 
 ![ASU logo in white, featuring a sunburst design, placed over a close-up of a green succulent plant with smooth, curving leaves.](https://images.ctfassets.net/kftzwdyauwt9/4vptUJ0S3Obe7393zv7Asa/441e686de9465c8afe3cca3eda317e87/oai_ASU_1_1.jpg?w=3840&q=90&fm=webp)
 
@@ -136,9 +137,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -157,7 +159,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -175,6 +178,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -203,6 +207,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

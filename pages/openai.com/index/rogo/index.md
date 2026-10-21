@@ -26,14 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Unlocking time and insights for modern finance firms
-
-  * Unlocking time and insights for modern finance firms
-  * Fine-tuning OpenAI’s models to automate financial work
-  * Fueling growth with OpenAI’s evolving models
-
-
-
 # Rogo scales AI-driven financial research with OpenAI o1
 
 ![Rogo logo](https://images.ctfassets.net/kftzwdyauwt9/6FThDDmj8QiFboYMsXNtYm/050776e9acb8c2de32d6ef7eaea0d918/oai_rogo_hero.png?w=3840&q=90&fm=webp)
@@ -42,6 +34,20 @@ Loading…
 
 Share
 
+Unlocking time and insights for modern finance firms
+
+  * Unlocking time and insights for modern finance firms
+  * Fine-tuning OpenAI’s models to automate financial work
+  * Fueling growth with OpenAI’s evolving models
+
+
+
+  * Unlocking time and insights for modern finance firms
+  * Fine-tuning OpenAI’s models to automate financial work
+  * Fueling growth with OpenAI’s evolving models
+
+
+
 [Rogo⁠(opens in a new window)](<https://rogo.ai/>), an enterprise-grade AI finance platform, is changing how investment banks, private equity firms, and asset managers work.
 
 By fine-tuning OpenAI’s models and integrating a broad set of financial datasets such as S&P Global, Crunchbase, and FactSet, Rogo delivers real-time financial intelligence to thousands of financial professionals, shifting their focus from manual work to high-value decision making.
@@ -49,8 +55,11 @@ By fine-tuning OpenAI’s models and integrating a broad set of financial datase
 Since emerging from stealth in 2024, Rogo has:
 
   * Served over**5,000 bankers** across publicly-traded investment banks and mega cap private equity firms.
+
   * Saved analysts**10+ hours** per week on tasks like meeting prep, company profiling, and market research.
+
   * Grown their Annual Recurring Revenue **(ARR) 27x** ,**** using OpenAI’s models to power their solutions.
+
 
 
 
@@ -63,8 +72,11 @@ Rogo uses a variety of OpenAI’s models to deliver a secure solution that integ
 Among dozens of other use cases, OpenAI’s API enabled Rogo to create a platform that delivers:
 
   1. **Accurate, real-time insights** : Users can pull actionable insights from filings, transcripts, and decks in seconds, and generate end-to-end, presentation-ready materials.
+
   2. **Automated diligence** : Rogo integrates private data rooms, generates tailored question lists, offers writing assistance, and helps track client interactions, saving analysts up to 10 hours each week and helping teams prepare faster for meetings.
+
   3. **Collaborative workflows** : Both junior and senior professionals rely on Rogo to streamline tasks like building market maps or doing competitive analyses, making it a shared resource across partners and analysts.
+
 
 
 
@@ -77,8 +89,11 @@ Rogo adapted OpenAI’s secure models to tackle the unique challenges of financi
 Their model architecture is layered to balance performance, cost, and use case requirements:
 
   * **GPT‑4o** powers Rogo’s chat-based Q&A and handles in-depth financial analysis.
+
   * **o1‑mini** is used to contextualize and structure financial data for effective search.
+
   * **o1** is reserved for evaluations, synthetic data generation, and advanced reasoning workflows.
+
 
 
 
@@ -104,11 +119,11 @@ Rogo continues to expand its platform’s capabilities. In December, Rogo hired 
 
 [Talk with our team](</contact-sales/>)
 
-## Keep reading
+#### Keep reading
 
 [View all](</stories/>)
 
-![\[2.0\] Card > Media > Zalando](https://images.ctfassets.net/kftzwdyauwt9/6SOwtELA1S0TYqttuHDBux/39e0d269327c02d3a6cc83679170f882/oai_zalando_1_1.png?w=3840&q=90&fm=webp)
+![Zalando logo in white, centered over a textured blue surface resembling fabric or a synthetic material.](https://images.ctfassets.net/kftzwdyauwt9/6SOwtELA1S0TYqttuHDBux/39e0d269327c02d3a6cc83679170f882/oai_zalando_1_1.png?w=3840&q=90&fm=webp)
 
 [Boosting the customer retail experience with GPT-4o miniDec 11, 2024](</index/zalando/>)
 
@@ -130,9 +145,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -151,7 +167,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -169,6 +186,9 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -195,6 +215,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -202,6 +223,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

@@ -30,7 +30,7 @@ OpenAI
 
 It’s the best time in history to be a builder. This year, we introduced the next generation of tools and models to help developers code faster, build agents more reliably, and scale their apps in ChatGPT. 
 
-  * [Learn about OpenAI DevDay 2026(opens in a new window)](<https://devday.openai.com>)
+  * [Learn about OpenAI DevDay 2026(opens in a new window)](</index/devday-2026-recap>)
 
 
 
@@ -81,6 +81,9 @@ Integrate video generation into your app with our latest Sora model.
 
 Check out new features like a Slack integration, Codex SDK, and enterprise controls in Codex—now generally available.
 
+  
+
+
 [Read the blog](</index/codex-now-generally-available/>)[View docs(opens in a new window)](<https://developers.openai.com/codex>)
 
 ![White square with a large black “5” and the word “Pro” beneath it, representing GPT-5 Pro, on a bright orange and pink gradient background.](https://images.ctfassets.net/kftzwdyauwt9/3HRi0ackFDdBDcxDHJz0SW/13bb982653be831aeb1234b3f06e0f9f/GPT-5_Pro_in_the_API.png?w=3840&q=90&fm=webp)
@@ -89,6 +92,9 @@ Check out new features like a Slack integration, Codex SDK, and enterprise contr
 
 The smartest model in the API for tasks where precision matters.
 
+  
+
+
 [ View docs(opens in a new window)](<https://platform.openai.com/docs/models/gpt-5-pro>)
 
 ![White icon of a sound waveform representing real-time voice or audio interaction, set against a blue and purple blurred background.](https://images.ctfassets.net/kftzwdyauwt9/5E0504ZrWdoULRw0bPHXEN/cc784806a2990d57e147e3af8140b0d4/gpt-realtime-mini.png?w=3840&q=90&fm=webp)
@@ -96,6 +102,9 @@ The smartest model in the API for tasks where precision matters.
 ### gpt-realtime-mini
 
 A smaller voice model that’s 70% less expensive than the large model.
+
+  
+
 
 [View docs(opens in a new window)](<https://platform.openai.com/docs/models/gpt-realtime-mini>)
 
@@ -121,10 +130,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -143,7 +152,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -190,6 +200,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -304,7 +315,7 @@ The best dev teams scale impact, not headcount. In this session, founders from C
 
 ### Building with Open Models
 
-Go beyond out-of-the-box models with gpt-oss, OpenAI's newest open model series. Discover how gpt-oss lets you adapt, extend, and fine-tune to your needs while combining seamlessly with GPT-5 for flexible, high-impact builds.
+Go beyond out-of-the-box models with gpt-oss, OpenAI's newest open model series. Discover how gpt-oss lets you adapt, extend, and fine-tune to your needs while combining seamlessly with GPT‑5 for flexible, high-impact builds.
 
 [Watch now(opens in a new window)](<https://youtu.be/1HL2YHRj270>)
 

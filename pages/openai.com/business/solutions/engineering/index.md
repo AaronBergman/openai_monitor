@@ -32,7 +32,7 @@ Codex takes engineering work from issue to tested, review-ready code—handling 
 
 [Contact sales](</contact-sales/>)[Explore Codex](</codex/>)
 
-Investigate this issue and prepare the smallest tested fix for review
+Investigate this issue and prepare the smallest tested fix for reviewInvestigate this issue and prepare the smallest tested fix for review
 
 ![OpenAI for Software Engineering hero chart.](https://images.ctfassets.net/kftzwdyauwt9/2Q1nda4GqilEZPLziKnQgt/5af3fce0199efac04043ca0a57a320a4/engineering-chart-1.png?w=3840&q=90&fm=webp)
 
@@ -266,6 +266,16 @@ Whether you’re scaling an in-house engineering team or building software for c
 
 [Contact sales](</contact-sales/>)[Explore Codex](</codex/>)
 
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
+
 Research
 
   * [Research Index](</research/index/>)
@@ -276,10 +286,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -298,7 +308,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -345,6 +356,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

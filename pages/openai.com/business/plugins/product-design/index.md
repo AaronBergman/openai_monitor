@@ -32,7 +32,7 @@ OpenAI
 
 # Product Design
 
-Turn product ideas into designs and research artifacts.
+Turn product ideas into designs and research artifacts
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_fa77aec24fc08191bc6e57f377126d76>)[Contact sales](</contact-sales/>)
 
@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://openai.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000fbf481f482108795756c37c9&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=d560e5bb3f73e93b1407b8c99fae66c368d23432f82c0d237713e4d3f41a1961&v=0)Product Design Help me get started(opens in a new window)](<https://chatgpt.com/?prompt=%40Product+Design+Help+me+get+started>)
+[![](https://files.openai.com/content?id=file_00000000fbf481f482108795756c37c9&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=d560e5bb3f73e93b1407b8c99fae66c368d23432f82c0d237713e4d3f41a1961&v=0)Product Design Help me get started(opens in a new window)](<https://chatgpt.com/plugins/Plugin_fa77aec24fc08191bc6e57f377126d76?install&prompt=Help%20me%20get%20started>)
 
 ## How it works
 
@@ -60,19 +60,19 @@ Use Product Design in ChatGPT to turn product briefs, research notes, and user j
 
 ![](https://files.openai.com/content?id=file_00000000fbf481f482108795756c37c9&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=d560e5bb3f73e93b1407b8c99fae66c368d23432f82c0d237713e4d3f41a1961&v=0)Product Design Turn this product idea into an interactive prototype.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Product+Design+Turn+this+product+idea+into+an+interactive+prototype.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_fa77aec24fc08191bc6e57f377126d76?install&prompt=Turn%20this%20product%20idea%20into%20an%20interactive%20prototype.&surface=work>)
 
   * ### Synthesize research into decisions
 
 ![](https://files.openai.com/content?id=file_00000000fbf481f482108795756c37c9&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=d560e5bb3f73e93b1407b8c99fae66c368d23432f82c0d237713e4d3f41a1961&v=0)Product Design Summarize these interview notes into themes, pain points, opportunity areas, and implications for the next design iteration.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Product+Design+Summarize+these+interview+notes+into+themes%2C+pain+points%2C+opportunity+areas%2C+and+implications+for+the+next+design+iteration.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_fa77aec24fc08191bc6e57f377126d76?install&prompt=Summarize%20these%20interview%20notes%20into%20themes%2C%20pain%20points%2C%20opportunity%20areas%2C%20and%20implications%20for%20the%20next%20design%20iteration.&surface=work>)
 
   * ### Prepare design handoff materials
 
 ![](https://files.openai.com/content?id=file_00000000fbf481f482108795756c37c9&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=d560e5bb3f73e93b1407b8c99fae66c368d23432f82c0d237713e4d3f41a1961&v=0)Product Design Review my app's authentication UX.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Product+Design+Review+my+app%27s+authentication+UX.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_fa77aec24fc08191bc6e57f377126d76?install&prompt=Review%20my%20app's%20authentication%20UX.&surface=work>)
 
 
 
@@ -95,9 +95,9 @@ Use Product Design in ChatGPT to turn product briefs, research notes, and user j
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/>)
 
 ### [Privacy policyLearn more](<https://openai.com/policies/privacy-policy/>)
 
@@ -109,13 +109,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets.](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects.](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages.](</business/plugins/notion/>)[![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)AmplitudeSearch and analyze analytics data.](</business/plugins/amplitude/>)
+[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages](</business/plugins/notion/>)[![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)AmplitudeSearch and analyze analytics data](</business/plugins/amplitude/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -127,10 +137,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -149,7 +159,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -196,6 +207,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

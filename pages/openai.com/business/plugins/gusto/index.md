@@ -32,7 +32,7 @@ OpenAI
 
 # Gusto
 
-Ask payroll, benefits, and HR questions using your Gusto data.
+Ask payroll, benefits, and HR questions using your Gusto data
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69375d9f172c8191b23d73be4107128a>)[Contact sales](</contact-sales/>)
 
@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://gusto.com>)
 
-[![](https://files.openai.com/content?id=file_00000000ac7471f5938c2faf47e7f4c3&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=666dae78fb6f0df3e372c8b40b3fd36004957883e9a35c69e189eb35e870cdd3&v=0)![](https://files.openai.com/content?id=file_00000000841481f79700470475f74217&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=3f58942b3f456302c0db30e62111cb2ffb6db3b48fa69730dbd16756d69af63f&v=0)Gusto let’s run payroll(opens in a new window)](<https://chatgpt.com/?prompt=%40Gusto+let%E2%80%99s+run+payroll>)
+[![](https://files.openai.com/content?id=file_00000000ac7471f5938c2faf47e7f4c3&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=666dae78fb6f0df3e372c8b40b3fd36004957883e9a35c69e189eb35e870cdd3&v=0)![](https://files.openai.com/content?id=file_00000000841481f79700470475f74217&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=3f58942b3f456302c0db30e62111cb2ffb6db3b48fa69730dbd16756d69af63f&v=0)Gusto let’s run payroll(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69375d9f172c8191b23d73be4107128a?install&prompt=let%E2%80%99s%20run%20payroll>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Bring payroll and team data from Gusto into ChatGPT to securely answer payroll, 
 
 ![](https://files.openai.com/content?id=file_00000000ac7471f5938c2faf47e7f4c3&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=666dae78fb6f0df3e372c8b40b3fd36004957883e9a35c69e189eb35e870cdd3&v=0)![](https://files.openai.com/content?id=file_00000000841481f79700470475f74217&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=3f58942b3f456302c0db30e62111cb2ffb6db3b48fa69730dbd16756d69af63f&v=0)Gusto Explain why this employees take home pay changed from last payroll using deductions, taxes, and benefits.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Gusto+Explain+why+this+employees+take+home+pay+changed+from+last+payroll+using+deductions%2C+taxes%2C+and+benefits.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69375d9f172c8191b23d73be4107128a?install&prompt=Explain%20why%20this%20employees%20take%20home%20pay%20changed%20from%20last%20payroll%20using%20deductions%2C%20taxes%2C%20and%20benefits.&surface=work>)
 
   * ### Review payroll runs and changes
 
 ![](https://files.openai.com/content?id=file_00000000ac7471f5938c2faf47e7f4c3&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=666dae78fb6f0df3e372c8b40b3fd36004957883e9a35c69e189eb35e870cdd3&v=0)![](https://files.openai.com/content?id=file_00000000841481f79700470475f74217&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=3f58942b3f456302c0db30e62111cb2ffb6db3b48fa69730dbd16756d69af63f&v=0)Gusto Show headcount changes over the last 6 months and estimate the monthly payroll cost impact.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Gusto+Show+headcount+changes+over+the+last+6+months+and+estimate+the+monthly+payroll+cost+impact.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69375d9f172c8191b23d73be4107128a?install&prompt=Show%20headcount%20changes%20over%20the%20last%206%20months%20and%20estimate%20the%20monthly%20payroll%20cost%20impact.&surface=work>)
 
   * ### Explore payroll and team data
 
 ![](https://files.openai.com/content?id=file_00000000ac7471f5938c2faf47e7f4c3&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=666dae78fb6f0df3e372c8b40b3fd36004957883e9a35c69e189eb35e870cdd3&v=0)![](https://files.openai.com/content?id=file_00000000841481f79700470475f74217&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=3f58942b3f456302c0db30e62111cb2ffb6db3b48fa69730dbd16756d69af63f&v=0)Gusto Compare overtime costs by department for the last quarter and highlight where it spiked and why.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Gusto+Compare+overtime+costs+by+department+for+the+last+quarter+and+highlight+where+it+spiked+and+why.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69375d9f172c8191b23d73be4107128a?install&prompt=Compare%20overtime%20costs%20by%20department%20for%20the%20last%20quarter%20and%20highlight%20where%20it%20spiked%20and%20why.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Bring payroll and team data from Gusto into ChatGPT to securely answer payroll, 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://support.gusto.com/>)
+### [Plugin supportLearn more(opens in a new window)](<https://support.gusto.com/>)
 
-### [Privacy policyLearn more](<https://gusto.com/legal/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://gusto.com/legal/privacy>)
 
 ## Add the Gusto plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)Intuit QuickBooksBusiness finances made simple](</business/plugins/quickbooks/>)[![](https://files.openai.com/content?id=file_00000000a9cc722fb923cc9523b65b7d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=3dfed128f0bb03d09bf162a2dc55fbe09a77b2bb881e6dda9588c139623cb79f&v=0)![](https://files.openai.com/content?id=file_00000000ae1881f78cb19e9602da73eb&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=e6620dc8efa5f7ff134320dd09ead486087108035fdad05773799d910563ee89&v=0)RampAutomate finance tasks.](</business/plugins/ramp/>)[![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)MercuryUnderstand your finances](</business/plugins/mercury/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)SharePointSearch and pull from shared sites and OneDrive.](</business/plugins/microsoft-sharepoint/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)Intuit QuickBooksBusiness finances made simple](</business/plugins/quickbooks/>)[![](https://files.openai.com/content?id=file_00000000a9cc722fb923cc9523b65b7d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=3dfed128f0bb03d09bf162a2dc55fbe09a77b2bb881e6dda9588c139623cb79f&v=0)![](https://files.openai.com/content?id=file_00000000ae1881f78cb19e9602da73eb&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=e6620dc8efa5f7ff134320dd09ead486087108035fdad05773799d910563ee89&v=0)RampAutomate finance tasks](</business/plugins/ramp/>)[![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)![](https://files.openai.com/content?id=file_00000000ac7881f59a95b718896b7902&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=8d4ea8c207d69a085a5d683c828b2957b9db2fc95aea683bf2589c66d6b62e66&v=0)MercuryUnderstand & manage your money](</business/plugins/mercury/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)SharePointSearch and pull from shared sites and OneDrive](</business/plugins/microsoft-sharepoint/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

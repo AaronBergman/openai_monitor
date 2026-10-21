@@ -69,8 +69,11 @@ OpenAI’s API provided Rox the flexibility to handle everything from data clean
 The platform’s design rests on three layers:
 
   * **Data layer:** Rox uses smaller models like GPT‑4o mini to unify fragmented data from various warehouses, making it structured and easily retrievable.
+
   * **Intelligence layer:** Mid-tier models perform complex reasoning and prioritize actions, collaborating with sales reps to augment their tasks.
+
   * **Interaction layer:** Advanced models like GPT‑4o and OpenAI’s Realtime API generate emails, manage LinkedIn outreach, and prepare voice-enabled meeting briefs.
+
 
 
 
@@ -103,8 +106,11 @@ The team credits their iterative approach—shipping updates daily—with accele
 Sales teams using Rox have reported substantial improvements:
 
   * **8+ hours saved weekly:** Reps are reclaiming time previously spent on administrative tasks, allowing them to focus on higher-value client interactions.
+
   * **35% increase in customer engagement:** Agents help reps stay responsive to key account changes and engage at critical moments.
+
   * **2x ROI on sales pipeline:** Beta clients saw a 2x increase in sales-accepted pipeline, leading many to scale Rox’s use across their teams and increase the number of accounts managed on the platform.
+
 
 
 
@@ -123,8 +129,11 @@ This flexibility allows Rox to deploy cost-effective models for data processing 
 Rox’s co-founders shared three key lessons for building effective AI-based solutions:
 
   1. **Start with a strong data layer:** “The most important thing is having your data layer set up well and the context management problem solved,” shares Derhacobian. Indexing semi-structured and unstructured data ensures that insights are actionable.
+
   2. **Focus on Applied AI:** Rox chose to work with OpenAI rather than building their own models. “We’re not here to research or create base models. We work with OpenAI to deliver amazing applications,” says Rox’s co-founder and CEO Ishan Mukherjee.
+
   3. **Iterate quickly:** Modern applied AI allows for a faster pace. “We pretty much ship daily,” says Damon Lin, one of Rox’s founding AI engineers, crediting their success to continuous iteration.
+
 
 
 
@@ -142,15 +151,15 @@ With OpenAI, Rox will continue to enable human-led sales functions that maximize
 
 ## Keep reading
 
-![\[2.0\] Card > Media > Estee Lauder](https://images.ctfassets.net/kftzwdyauwt9/5r8WffR8g3bbiYmlugUs9c/d9232bfac9f79ed6ad2fa79327822878/oai_esteelauder_1_1.jpg?w=3840&q=90&fm=webp)
+![Estée Lauder Companies logo in white, set against a textured close-up of crushed pink powder, resembling makeup pigments.](https://images.ctfassets.net/kftzwdyauwt9/5r8WffR8g3bbiYmlugUs9c/d9232bfac9f79ed6ad2fa79327822878/oai_esteelauder_1_1.jpg?w=3840&q=90&fm=webp)
 
 [Data-driven beauty and creativity with ChatGPTNov 13, 2024](</index/estee-lauder/>)
 
-![\[2.0\] Card > Media > Promega](https://images.ctfassets.net/kftzwdyauwt9/6nmHlhPH7ZDcQjAldewFpJ/4a2873907763d0d626525aa47d417885/oai_promega_1_1.jpg?w=3840&q=90&fm=webp)
+![Promega logo in white, placed over a background of swirling yellow and orange organic textures, resembling scientific imagery.](https://images.ctfassets.net/kftzwdyauwt9/6nmHlhPH7ZDcQjAldewFpJ/4a2873907763d0d626525aa47d417885/oai_promega_1_1.jpg?w=3840&q=90&fm=webp)
 
 [Promega’s top-down adoption of ChatGPT accelerates manufacturing, sales, and marketingOct 31, 2024](</index/promega/>)
 
-![Decagon](https://images.ctfassets.net/kftzwdyauwt9/3XcP4wsSw7Bxx5HuAz2Ht9/524e1452a4784a62c8db436ac7451445/oai_decagon_1_1.jpg?w=3840&q=90&fm=webp)
+![Decagon logo in white, featuring a hexagonal icon, over a background of dark metallic and glass-like surfaces reflecting blue light.](https://images.ctfassets.net/kftzwdyauwt9/3XcP4wsSw7Bxx5HuAz2Ht9/524e1452a4784a62c8db436ac7451445/oai_decagon_1_1.jpg?w=3840&q=90&fm=webp)
 
 [Delivering high-performance customer supportOct 29, 2024](</index/decagon/>)
 
@@ -164,9 +173,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -185,7 +195,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -203,6 +214,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -231,6 +243,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
