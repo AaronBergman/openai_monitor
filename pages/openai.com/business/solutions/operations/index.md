@@ -93,7 +93,7 @@ Operating reviews and reportingStrategic initiative trackingKPI and root-cause a
 
 Create this week’s operating review from our project trackers, KPI dashboards, and team updates. Highlight performance changes, risks, decisions needed, and next steps by owner.
 
-[Try in ChatGPT(opens in a new window)](<https://chatgpt.com/?surface=work&q=Create+this+week%E2%80%99s+operating+review+from+our+project+trackers%2C+KPI+dashboards%2C+and+team+updates.+Highlight+performance+changes%2C+risks%2C+decisions+needed%2C+and+next+steps+by+owner.>)
+[Try in ChatGPT(opens in a new window)](<https://chatgpt.com/?prompt=Create%20this%20week%E2%80%99s%20operating%20review%20from%20our%20project%20trackers%2C%20KPI%20dashboards%2C%20and%20team%20updates.%20Highlight%20performance%20changes%2C%20risks%2C%20decisions%20needed%2C%20and%20next%20steps%20by%20owner.&surface=work>)
 
 ## Why operations teams choose OpenAI
 
@@ -150,6 +150,16 @@ Get your most ambitious work done by spending more time bringing ideas to market
 
 [Contact sales](</contact-sales/>)[Get started(opens in a new window)](<https://chatgpt.com/team-sign-up>)
 
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
+
 Research
 
   * [Research Index](</research/index/>)
@@ -160,10 +170,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -182,7 +192,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -229,6 +240,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

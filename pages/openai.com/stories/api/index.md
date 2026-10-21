@@ -44,9 +44,9 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
-![OpenAI-branded Chip Ganassi Racing car on a track with large R&D text over a blurred grandstand.](https://images.ctfassets.net/kftzwdyauwt9/2sMgyKsbMrlLNgBeM8SYAh/83460e94830cfb5865cddb57e6fe837f/OpenAI_Ganassi_1x1.jpg?w=3840&q=90&fm=webp)
+![White R&D lettering over a purple and orange thermal image of a racing helmet.](https://images.ctfassets.net/kftzwdyauwt9/1fQoJn1iZzzNqo5Nr8VI7h/3d208eb87ae1c69e6dbd03946f609346/chip-ganassi-racing-art-card.jpg?w=3840&q=90&fm=webp)
 
-[Chip Ganassi Racing × OpenAIAPIMay 28, 2026](</index/chip-ganassi-racing/>)
+[Chip Ganassi Racing × OpenAIAPIOct 7, 2026](</index/chip-ganassi-racing/>)
 
 ![frontier-builders > cover image](https://images.ctfassets.net/kftzwdyauwt9/3F5TbrGy9fybfrp1gqrDIH/74aa1addfe0a0e859572fc036a85dcc6/Square.png?w=3840&q=90&fm=webp)
 
@@ -78,10 +78,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -100,7 +100,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -147,6 +148,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

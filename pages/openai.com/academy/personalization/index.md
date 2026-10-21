@@ -63,9 +63,13 @@ In this section, you’ll learn two simple ways to personalize ChatGPT so it beh
 Even small details can meaningfully improve results, such as:
 
   * Your role and responsibilities (“I lead customer onboarding” or “I’m a finance manager”)
+
   * Your preferred tone (concise, formal, friendly)
+
   * The types of outputs you want (bullets, tables, drafts you can copy and paste)
+
   * Guardrails (“Ask clarifying questions if requirements are unclear”)
+
 
 
 
@@ -82,8 +86,11 @@ See the [**custom instructions FAQ** ⁠(opens in a new window)](<https://help.o
 You can also manage Memory directly in conversation:
 
   * Ask: “What do you remember about me?”
+
   * Say: “Remember that…” to save something
+
   * Say: “Forget that.” to remove a specific item
+
 
 
 
@@ -133,9 +140,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -154,7 +162,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -172,6 +181,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -200,6 +210,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

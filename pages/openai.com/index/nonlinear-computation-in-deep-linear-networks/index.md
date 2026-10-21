@@ -188,15 +188,15 @@ Jakob Foerster
 
 [View all](</news/>)
 
-![Techniques For Training Large Neural Networks](https://images.ctfassets.net/kftzwdyauwt9/62793de4-0f01-42fc-539325d9af36/bc1ac82499fc1dc43f59accdd31d0195/image-9.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting with energetic, vibrant colors.](https://images.ctfassets.net/kftzwdyauwt9/62793de4-0f01-42fc-539325d9af36/bc1ac82499fc1dc43f59accdd31d0195/image-9.webp?w=3840&q=90&fm=webp)
 
 [Techniques for training large neural networksPublicationJun 9, 2022](</index/techniques-for-training-large-neural-networks/>)
 
-![Introducing Triton Open Source Gpu Programming For Neural Networks](https://images.ctfassets.net/kftzwdyauwt9/cdce1ebd-19a2-4848-a08ec8c44e18/55b924fc6628318148b7c5c4902551e7/image-18.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting in a soft, pastel, earth tone palette.](https://images.ctfassets.net/kftzwdyauwt9/cdce1ebd-19a2-4848-a08ec8c44e18/55b924fc6628318148b7c5c4902551e7/image-18.webp?w=3840&q=90&fm=webp)
 
 [Introducing Triton: Open-source GPU programming for neural networksReleaseJul 28, 2021](</index/triton/>)
 
-![Scaling Kubernetes To 7 500 Nodes](https://images.ctfassets.net/kftzwdyauwt9/84745f0a-d786-4066-99f031ec2cb2/be1d8d7357f9f5bc35970e058f42c8d0/image-25.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting in a soft, pastel palette.](https://images.ctfassets.net/kftzwdyauwt9/84745f0a-d786-4066-99f031ec2cb2/be1d8d7357f9f5bc35970e058f42c8d0/image-25.webp?w=3840&q=90&fm=webp)
 
 [Scaling Kubernetes to 7,500 nodesConclusionJan 25, 2021](</index/scaling-kubernetes-to-7500-nodes/>)
 
@@ -210,9 +210,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -231,7 +232,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -249,6 +251,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -277,6 +280,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

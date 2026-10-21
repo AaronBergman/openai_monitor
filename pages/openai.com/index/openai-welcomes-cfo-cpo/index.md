@@ -43,7 +43,9 @@ OpenAI has grown into a global organization serving hundreds of millions of cons
 That’s why we are excited to welcome two leaders with the right experience, skills, and values to push the mission forward: 
 
   * Sarah Friar is joining as Chief Financial Officer. She will lead a finance team that supports our mission by providing continued investment in our core research capabilities, and ensuring that we can scale to meet the needs of our growing customer base and the complex and global environment in which we are operating. 
+
   * Kevin Weil is joining as Chief Product Officer. He will lead a product team focused on applying our research to products and services that benefit consumers, developers, and businesses.
+
 
 
 
@@ -78,9 +80,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -99,7 +102,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -117,6 +121,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -145,6 +150,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -57,9 +57,13 @@ Full-timers
 ## Full-timers
 
   * **Yura Burda**. [Yura⁠(opens in a new window)](<https://sites.google.com/site/yburda/>) finished a math PhD at the age of 24, and switched into machine learning a year and a half ago. He’s focusing on [generative models⁠(opens in a new window)](<https://en.wikipedia.org/wiki/Generative_model>). He [discovered⁠(opens in a new window)](<http://arxiv.org/abs/1509.00519>) a simple but fundamental improvement to the variational lower bound that had evaded notice since its original discovery decades ago.
+
   * **Ian Goodfellow**. [Ian⁠(opens in a new window)](<https://www.linkedin.com/in/ian-goodfellow-b7187213>) is well known for his many contributions to machine learning, including the [MaxOut Network⁠(opens in a new window)](<http://arxiv.org/abs/1302.4389>) and the [Generative Adversarial Network⁠(opens in a new window)](<http://arxiv.org/abs/1406.2661>), the latter of which is a driver of excitement in generative modeling research. In addition, he’s the lead author of the [book⁠(opens in a new window)](<http://www.deeplearningbook.org/>) on deep learning.
+
   * **Alec Radford**. [Alec⁠(opens in a new window)](<https://twitter.com/alecrad>) created [DCGAN⁠(opens in a new window)](<http://arxiv.org/abs/1511.06434>), a neural model that could generate large, coherent images containing an unprecedented level of global coherence and detail. In addition, his model has learned to do [image analogies⁠(opens in a new window)](<https://github.com/Newmu/dcgan_code#arithmetic-on-faces>) in an entirely unsupervised way.
+
   * **Tim Salimans**. [Tim⁠(opens in a new window)](<http://timsalimans.com/>) is an expert on variational methods. The author of the first [paper⁠(opens in a new window)](<http://projecteuclid.org/euclid.ba/1386166315>) on stochastic gradient variational inference (for which he won the [Lindley prize⁠(opens in a new window)](<https://bayesian.org/awards/LindleyPrize.html>)), he was at one point ranked [number 2 overall⁠(opens in a new window)](<https://www.kaggle.com/timsalimans>) on Kaggle.
+
 
 
 
@@ -68,12 +72,19 @@ Full-timers
 Also joining us for the summer (and in some cases, to continue the collaboration once they return to their home institution):
 
   * **Peter Chen**. [Peter⁠(opens in a new window)](<https://www.linkedin.com/in/peter-xi-chen-25178356>) previously co-founded a [startup⁠(opens in a new window)](<https://angel.co/sellegit-1>) and did research on parallel computing and cognitive science. Recently, he’s been working on reinforcement learning, from theory to applications with deep neural nets.
+
   * **Rocky Duan**. [Rocky⁠(opens in a new window)](<https://www.linkedin.com/in/rocky-duan-1a82662a>) is a PhD student who previously co-founded a [startup⁠(opens in a new window)](<https://angel.co/sellegit-1>) (with Peter) and worked on a number of projects in robotics. He’s now transitioned to the field of deep reinforcement learning, and recently TA’d Berkeley’s [Deep Reinforcement Learning⁠(opens in a new window)](<http://rll.berkeley.edu/deeprlcourse/>) class.
+
   * **Linxi Fan**. Although [Linxi⁠(opens in a new window)](<https://jimfan.me/>) is just finishing up his undergrad, he has already worked on a [variety⁠(opens in a new window)](<http://arxiv.org/abs/1511.06430>) of projects in deep learning, including [Deep Speech 2⁠(opens in a new window)](<http://arxiv.org/abs/1512.02595>).
+
   * **Jon Gauthier**. [Jon⁠(opens in a new window)](<https://twitter.com/j_gauthier>) is an undergraduate student whose achievements include, among others, a [method⁠(opens in a new window)](<http://arxiv.org/pdf/1603.06021v1.pdf>) that makes it possible to efficiently train large recursive neural networks on large datasets.
+
   * **Jonathan Ho**. [Jonathan⁠(opens in a new window)](<https://www.linkedin.com/in/jonathan-ho-00243623>) is a PhD student at Stanford, where he is developing a new approach to imitation learning. Earlier in his research career, he had success [teaching robots how to tie knots⁠(opens in a new window)](<http://rll.berkeley.edu/isrr2013lfd/>).
+
   * **Rein Houthooft**. [Rein⁠(opens in a new window)](<http://reinhouthooft.github.io/>) hails from Belgium, started his research career in the field of computer networking, and now is developing novel ways to incorporate uncertainty into deep reinforcement learning algorithms.
+
   * **Eric Price**. [Eric⁠(opens in a new window)](<http://www.cs.utexas.edu/~ecprice/>) is a professor of theoretical computer science at UT Austin. His achievements include the development and the analysis of a [faster-than-_n log n_ sparse Fourier transform⁠(opens in a new window)](<http://dspace.mit.edu/openaccess-disseminate/1721.1/73474>). In his past life, he achieved a [perfect score⁠(opens in a new window)](<http://www.ioinformatics.org/locations/ioi05/contest/results.pdf>) at the IOI.
+
 
 
 
@@ -94,15 +105,15 @@ Greg Brockman
 
 [View all](</news/>)
 
-![Newspartnership Cover](https://images.ctfassets.net/kftzwdyauwt9/ffffbd46-a171-41c5-25d9eec16b7d/bd1bc987f38b1c2901819b4c211886a2/NewsPartnership_Cover.png?w=3840&q=90&fm=webp)
+![Soft pastel painting depicting a serene sky with wispy clouds, blending aqua, peach, and a hint of yellow at the horizon.](https://images.ctfassets.net/kftzwdyauwt9/ffffbd46-a171-41c5-25d9eec16b7d/bd1bc987f38b1c2901819b4c211886a2/NewsPartnership_Cover.png?w=3840&q=90&fm=webp)
 
 [Global news partnerships: Le Monde and Prisa MediaCompanyMar 13, 2024](</index/global-news-partnerships-le-monde-and-prisa-media/>)
 
-![New board of directors](https://images.ctfassets.net/kftzwdyauwt9/5J9s3ItUUDOTebSo0ZVmun/642e8632be32866792c7aaae0113aaa5/44.png?w=3840&q=90&fm=webp)
+![Abstract soft-focus background with a delicate blend of pale peach and a hint of pink.](https://images.ctfassets.net/kftzwdyauwt9/5J9s3ItUUDOTebSo0ZVmun/642e8632be32866792c7aaae0113aaa5/44.png?w=3840&q=90&fm=webp)
 
 [OpenAI announces new members to board of directorsCompanyMar 8, 2024](</index/openai-announces-new-members-to-board-of-directors/>)
 
-![News > Company carousel > Review completed > Media](https://images.ctfassets.net/kftzwdyauwt9/3BEH4mYgX0MXC45XOsbOru/fdcc0dadabd87f8e9a776a2f34647de0/37.png?w=3840&q=90&fm=webp)
+![Blurred abstract image with a soft fusion of peach, green, and pink hues with a white smudge in the upper region.](https://images.ctfassets.net/kftzwdyauwt9/3BEH4mYgX0MXC45XOsbOru/fdcc0dadabd87f8e9a776a2f34647de0/37.png?w=3840&q=90&fm=webp)
 
 [Review completed & Altman, Brockman to continue to lead OpenAICompanyMar 8, 2024](</index/review-completed-altman-brockman-to-continue-to-lead-openai/>)
 
@@ -116,9 +127,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -137,7 +149,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -155,6 +168,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -183,6 +197,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

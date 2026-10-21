@@ -71,18 +71,26 @@ Instead of toggling between multiple browser tabs and summarizing information yo
 ### How to use search in a chat
 
   1. Open a new chat in ChatGPT.
+
   2. Ask a question that requires current or detailed information (e.g., _“What are the top three AI trends in healthcare in 2025?”_), or click **Web Search** from your tools menu.
+
   3. Look for the small globe icon 🌐 next to the model’s response—this indicates that search was used.
+
   4. Click the citation links in the response to review the original sources.
+
   5. Follow-up with clarifying prompts, like _“Summarize this in 3 bullet points for executives”_ or _“Turn this into a customer-facing email draft.”_
+
 
 
 
 ###  Additional considerations
 
   * **Citations** : Always review linked sources before making decisions, since search results reflect what’s available on the web.
+
   * **Scope** : Search won’t replace specialized databases (e.g., subscription research tools or proprietary data).
+
   * **Admin settings** : In enterprise environments, Workspace Owners may choose to enable or disable search.
+
 
 
 
@@ -106,10 +114,13 @@ Unlike a traditional web search, deep research is **agentic** , meaning that it 
 
 
 
+
 3\. Review your report
 
   * Deep research may run for 5–30 minutes while it explores the web. You’ll get a notification when your report is ready. 
+
   * Ask follow-up questions or request further analysis, and deep research will refine the output as needed.
+
 
 
 
@@ -136,17 +147,17 @@ Discover additional guides and resources to help you build practical AI skills.
 
 [View all](</news/>)
 
-![Academy > Image generation > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4as9dmBmMnIulWoUEIBsOj/2441164935c8d325daa552d91c71f131/image-creation.png?w=3840&q=90&fm=webp)
+![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
 
-[Creating images with ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/image-generation/>)
+[How data science teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/chatgpt-work/how-data-science-teams-use-codex/>)
 
-![Academy > Projects > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/L0cSoOsBFybec07VSIDJw/27647c6494be7191e0e2168f5bf27044/projects.png?w=3840&q=90&fm=webp)
+![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
 
-[Using projects in ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/projects/>)
+[How sales teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/chatgpt-work/how-sales-teams-use-codex/>)
 
-![Academy > Custom GPTs > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2UV4fI7a8z34VgwSmpgzy1/2b09c857ffda3696fec60cad6fb18b86/custom-gpts.png?w=3840&q=90&fm=webp)
+![Academy > Getting started > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1Xk9723QKj2Vb9dC6RMebS/5e588c112042794e62178a224eaff418/getting-started.png?w=3840&q=90&fm=webp)
 
-[Using custom GPTs | OpenAIOpenAI AcademyApr 10, 2026](</academy/custom-gpts/>)
+[Getting started with ChatGPT | OpenAIOpenAI AcademyJul 10, 2026](</academy/getting-started/>)
 
 Research
 
@@ -158,9 +169,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -179,7 +191,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -197,6 +210,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -225,6 +239,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -79,8 +79,11 @@ A **skill** is a reusable, shareable workflow that tells ChatGPT how to do a spe
 A skill typically includes:
 
   * **Name and description** : Help ChatGPT recognize when the skill is relevant.
+
   * **Workflow instructions** : Step-by-step guidance for the worflow—usually written in a file called SKILL.md.
+
   * **Resources** : Supporting materials the workflow depends on, like templates, examples, brand guidelines, schemas, or tool access.
+
 
 
 
@@ -91,9 +94,13 @@ Skills are most useful when getting a good output from ChatGPT depends on follow
 Skills help with:
 
   * **Consistency:** Fewer missed sections, less drift in tone or format, and closer adherence to preferred format.
+
   * **Built-in best practices:** Lightweight enough for everyday users, but grounded in SME-approved workflows.
+
   * **Sharing the playbook:** Teams can use the same standard process directly in ChatGPT instead of relying on informal or undocumented knowledge.
+
   * **Reuse across surfaces:** Build once and apply broadly across different chats and use cases. 
+
 
 
 
@@ -106,10 +113,15 @@ Because it’s plain text and Markdown-based, **SKILL.md is portable**. It can b
 A typical SKILL.md file defines: 
 
   * What the skill does
+
   * Required inputs
+
   * Step-by-step instructions 
+
   * Required output format
+
   * Final checks before completion 
+
 
 
 
@@ -124,8 +136,11 @@ Ensure you know the input (what the user will typically provide, like files, lin
 There are a few different patterns we usually see in skills:
 
   * **Reusable processes (multi-step workflows):** Tasks where sequence matters and the goal is to follow a defined playbook—for example, compliance-ready reporting, finance reconciliation logic, or generating an executive report from multiple data sources.
+
   * **Tool-based workflows (consistent use of systems):** Work that depends on reliably pulling or combining information from specific tools or systems—for example, using Gong to extract account insights, or generating a summary from connected data sources. 
+
   * **Conventions and standards (voice, structure, quality bar):** Workflows that enforce consistent tone, format, or quality—even when the underlying content changes—for example, drafting a blog post using a style guide and supporting materials.
+
 
 
 
@@ -138,10 +153,15 @@ _Design tip:_**__**_Skills often work best as_** _small building blocks_** _you 
 Ask ChatGPT to create a skill, and fill in the rest of the prompt with a description of the skill you want ChatGPT to build. A strong set of instructions typically includes:
 
   * The job-to-be-done
+
   * Required inputs
+
   * A step-by-step process (numbered steps are helpful)
+
   * The required output format (uploaded examples are helpful)
+
   * Final quality checks
+
 
 
 
@@ -164,8 +184,11 @@ If supported by your workspace settings, you can share your skill with others in
 These tools serve different but complementary purposes. Here’s a simple framework to think about how they fit together:
 
   * **Skills:** Reusable workflows that teach ChatGPT how to complete specific tasks
+
   * **GPTs:** Goal-oriented, custom versions of ChatGPT that extend the expertise of a team, or help with time-based projects 
+
   * **Projects: T** eams can work from the same context, files, and conversations towards an end goal
+
 
 
 
@@ -197,17 +220,17 @@ Discover additional guides and resources to help you build practical AI skills.
 
 [View all](</news/>)
 
-![How data science teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/xyevYnp4Ptaa1eMgBDNjS/75fea80018f321b89809d893f1a5786d/data_science_teams.png?w=3840&q=90&fm=webp)
+![Academy > Prompting > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/6KuWyesIgCbrJUzXckTYSx/20183733ba66b4b535fe978fc7ec985b/your-first-chat.png?w=3840&q=90&fm=webp)
 
-[How data science teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/chatgpt-work/how-data-science-teams-use-codex/>)
+[Prompting fundamentals | OpenAIOpenAI AcademyApr 10, 2026](</academy/prompting/>)
 
-![How sales teams use Codex > card image](https://images.ctfassets.net/kftzwdyauwt9/1O4te2wMh6O77eDV6kapG3/02845b054a09297b9fada40c4cc9a71f/sales_teams.png?w=3840&q=90&fm=webp)
+![Academy > Personalizing ChatGPT > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2s9rOdoSHProR3I6Ai5P5/8ca619f82211ade2d76316f04aa3fbcc/personalizing-chatgpt.png?w=3840&q=90&fm=webp)
 
-[How sales teams use ChatGPT Work | OpenAIOpenAI AcademyJul 14, 2026](</academy/chatgpt-work/how-sales-teams-use-codex/>)
+[Personalizing ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/personalization/>)
 
-![Academy > Getting started > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1Xk9723QKj2Vb9dC6RMebS/5e588c112042794e62178a224eaff418/getting-started.png?w=3840&q=90&fm=webp)
+![Academy > Using files > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/7FdLCJL2BCjS8ef2BJ8rG0/8307b0a6be94e0333b43dbed5b93d187/using-files.png?w=3840&q=90&fm=webp)
 
-[Getting started with ChatGPT | OpenAIOpenAI AcademyJul 10, 2026](</academy/getting-started/>)
+[Working with files in ChatGPT | OpenAIOpenAI AcademyApr 10, 2026](</academy/working-with-files/>)
 
 Research
 
@@ -219,9 +242,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -240,7 +264,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -258,6 +283,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -286,6 +312,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

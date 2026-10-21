@@ -80,8 +80,6 @@ Find funding opportunities, prepare grant applications, draft manuscripts, manag
 
 ### Built with scientists, for the benefit of people
 
-Explore GPT‑6, OpenAI’s latest model.
-
 ![GPT-Rosalind label on an abstract green and teal background.](https://images.ctfassets.net/kftzwdyauwt9/29Gs5Tt0m032tOo1XHc6zd/1426f0b9050fac8208d1e8c9b505b5b0/GPTRosalind.png?w=3840&q=90&fm=webp)
 
 ### GPT-Rosalind
@@ -90,11 +88,11 @@ Our purpose-built life-science model helps qualified research organizations reas
 
 [Request access](</form/life-sciences-access/>)[Try the Life Sciences plugin(opens in a new window)](<https://chatgpt.com/plugins/plugins~Plugin_7113e6f705948191bad2d24c30465361?open_in_codex>)
 
-![GPT-5.6 label over planets and a star-filled sky.](https://images.ctfassets.net/kftzwdyauwt9/6JhTH6AePSYpw5uXF8mWQY/4bfbaf3e3734e088cb6e759d5808f17e/GPT5.6.png?w=3840&q=90&fm=webp)
+![A luminous numeral 6 formed from stars against a dark background.](https://images.ctfassets.net/kftzwdyauwt9/fXFJSIYQZRNfxiudpFPA8/14062bdb609e8aa204d52265475b7cf0/gpt-6-astra-science-card.png?w=3840&q=90&fm=webp)
 
 ### GPT-6
 
-Explore GPT-6, OpenAI’s latest model.
+GPT‑6 Astra combines advanced scientific reasoning with state-of-the-art coding and computer use to help researchers tackle demanding problems. With a 98% score on FrontierMath Tier 4, Astra has already helped solve long-standing open problems in mathematics.
 
 [Learn more](</index/gpt-6-astra/>)
 
@@ -182,10 +180,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -204,7 +202,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -251,6 +250,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

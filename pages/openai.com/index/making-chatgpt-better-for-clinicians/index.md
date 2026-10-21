@@ -66,8 +66,6 @@ ChatGPT for Clinicians builds on our foundation of continual model evaluation an
 
 Parisa, PediatricsDania, PediatricsAlbert, Internal Medicine/Cardiology
 
-> “This version of ChatGPT is as close to an ideal clinical support partner as it gets. It’s like an on-demand consultant I can engage on everything from current guidelines to billing and coding, with the added benefit of broad access to pediatric and pediatric subspecialty literature.”
-
 ## Designed for and with clinicians
 
 Our team worked with hundreds of physician advisors to inform and improve capabilities for ChatGPT for Clinicians, and ensure they support key clinician use cases.
@@ -77,12 +75,19 @@ Our team worked with hundreds of physician advisors to inform and improve capabi
 ChatGPT for Clinicians includes:
 
   * **Advanced AI models for complex clinical questions** : Free access to our current frontier models for healthcare use cases—to help handle questions, research, and documentation more reliably.
+
   * **Skills for repeatable clinical workflows:** Turn common workflows into reusable skills so ChatGPT can follow the same steps each time for tasks like referral letters, prior auth, and patient instructions.
+
   * **Trusted clinical search:** Reason through cases faster and with greater confidence with real-time, cited answers based on evidence from millions of reputable, peer-reviewed medical sources.
+
   * **Deep research across medical journals** : Delegate medical literature reviews to ChatGPT, set the sources you trust, steer the research if needed, and let it compile a comprehensive, well-cited report in minutes.
+
   * **CME from real clinical questions:** As you research clinical questions in ChatGPT, eligible evidence review can automatically count toward continuing medical education credits—without separate courses or extra paperwork.
+
   * **Optional support for HIPAA compliance:** Many clinical tasks don’t require PHI, but if needed, HIPAA support is available through a Business Associate Agreement (BAA) for eligible accounts. 
+
   * **Account security and privacy:** Conversations are not used to train models, plus protections like multi-factor authentication, help keep sensitive work secure.
+
 
 
 
@@ -153,17 +158,15 @@ Aakash Shah, University of Virginia; Aaron Phillips, Northwell Health; Aishatu I
 
 [View all](</news/>)
 
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
+![Rosalind Academic Plan - Card](https://images.ctfassets.net/kftzwdyauwt9/7EaxSuBblXvd3Y6G2WLoET/4563ce56737d9c0ed1f05358f43c8a7d/rosalind-academic-plan-card.png?w=3840&q=90&fm=webp)
 
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
+[Introducing the Rosalind Academic PlanResearchOct 15, 2026](</index/introducing-the-rosalind-academic-plan/>)
 
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
+![Helping teens learn, plan, and shape the future of AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/3Gg3FDcLbArW4ZsVN8Ry5m/2dcb5d7f34f6cdedec3c6a3e6df83871/teens-learn-and-plan-cover.png?w=3840&q=90&fm=webp)
 
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
+[Helping teens learn, plan, and shape the future of AIProductOct 7, 2026](</index/teens-learn-and-plan/>)
 
-![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
-
-[Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
+[GPT-6 and Intelligent UI for everyoneProductOct 7, 2026](</index/gpt-6-for-everyone/>)
 
 Research
 
@@ -175,9 +178,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -196,7 +200,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -214,6 +219,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -242,6 +248,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -269,3 +276,5 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> “This version of ChatGPT is as close to an ideal clinical support partner as it gets. It’s like an on-demand consultant I can engage on everything from current guidelines to billing and coding, with the added benefit of broad access to pediatric and pediatric subspecialty literature.”

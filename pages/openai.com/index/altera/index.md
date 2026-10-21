@@ -37,22 +37,14 @@ Share
 Tackling data degradation for long-term autonomy
 
   * Tackling data degradation for long-term autonomy
-
   * Harnessing GPT-4 to enhance cognitive and emotional AI
-
   * Creating the future: Building digital humans with purpose
 
 
-
-
-Table of contents
 
   * Tackling data degradation for long-term autonomy
-
   * Harnessing GPT-4 to enhance cognitive and emotional AI
-
   * Creating the future: Building digital humans with purpose
-
 
 
 
@@ -69,7 +61,9 @@ Yang, now Altera’s CEO, envisions a future where AI agents don’t just assist
 Just as automation helps increase human capacity by supporting repetitive tasks, digital humans—the Altera team believes—will be able to collaborate productively and even form bonds with people. This may look like:
 
   * Digital “coworkers” who can collaborate for days or weeks to proactively solve problems 
+
   * Long-duration multi-agent worlds where we can measure responses to economic policies, advertisements, and more
+
 
 
 
@@ -118,7 +112,7 @@ Altera plans to scale its efforts to create entire societies of digital humans c
 
 ## Keep reading
 
-![State of Minnesota > Card](https://images.ctfassets.net/kftzwdyauwt9/4feBd9mET2qUWGpGtdit6G/c23919743af1df1b3701944f3b346004/oai_minnesota_thumbnail.png?w=3840&q=90&fm=webp)
+![This image displays a soft-focus close-up of a textured green watercolor painting with the white logo “mn” centered over it, suggesting a serene, nature-inspired aesthetic.](https://images.ctfassets.net/kftzwdyauwt9/4feBd9mET2qUWGpGtdit6G/c23919743af1df1b3701944f3b346004/oai_minnesota_thumbnail.png?w=3840&q=90&fm=webp)
 
 [Minnesota’s Enterprise Translation Office uses ChatGPT to bridge language gapsSep 26, 2024](</index/state-of-minnesota/>)
 
@@ -126,7 +120,7 @@ Altera plans to scale its efforts to create entire societies of digital humans c
 
 [Introducing Verdi, an AI dev platform powered by GPT-4oSep 24, 2024](</index/mercado-libre/>)
 
-![Genmab > Cover](https://images.ctfassets.net/kftzwdyauwt9/5yh8gTLhVFcUsY9Nj0O02v/ab091a8b07f4c35f3ff19a58e4e18783/oai_Genmab_1_1.png?w=3840&q=90&fm=webp)
+![The Genmab logo on abstract artwork featuring swirling pastel shades of green, blue, and purple, resembling a DNA helix.](https://images.ctfassets.net/kftzwdyauwt9/5yh8gTLhVFcUsY9Nj0O02v/ab091a8b07f4c35f3ff19a58e4e18783/oai_Genmab_1_1.png?w=3840&q=90&fm=webp)
 
 [Genmab launches “AI Everywhere” Sep 19, 2024](</index/genmab/>)
 
@@ -140,9 +134,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -161,7 +156,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -179,6 +175,9 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -205,6 +204,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -212,6 +212,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

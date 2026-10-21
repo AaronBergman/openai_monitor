@@ -134,10 +134,6 @@ Our sCM distills knowledge from a pre-trained diffusion model. A key finding is 
 
 FID ScalingFID Ratio Scaling
 
-![Line graph comparing FID against single forward flops for three methods: 1-step SCM \(red\), 2-step SCM \(blue\), and Diffusion \(orange\), across model sizes \(S, M, L, XL, XXL\). All lines show decreasing FID as flops increase, with Diffusion performing best.](https://images.ctfassets.net/kftzwdyauwt9/u3YyJPCJIFQxOEagfKKZq/d2b13c2dbfe5117fe43ee54bf1f444b2/03_Light-padded.svg?w=3840&q=90)
-
-sCM scales commensurately with teacher diffusion models.
-
 ## Limitations
 
 The best sCMs still rely on pre-trained diffusion models for initialization and distillation, resulting in a small but consistent gap in sample quality compared to the teacher diffusion model. Additionally, FID as a metric for sample quality has its own limitations; being close in FID scores does not always reflect actual sample quality, and vice versa. Therefore, the quality of sCMs may need to be assessed differently depending on the requirements of specific applications.
@@ -230,9 +226,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -251,7 +248,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -269,6 +267,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -297,6 +296,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -324,3 +324,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![Line graph comparing FID against single forward flops for three methods: 1-step SCM \(red\), 2-step SCM \(blue\), and Diffusion \(orange\), across model sizes \(S, M, L, XL, XXL\). All lines show decreasing FID as flops increase, with Diffusion performing best.](https://images.ctfassets.net/kftzwdyauwt9/u3YyJPCJIFQxOEagfKKZq/d2b13c2dbfe5117fe43ee54bf1f444b2/03_Light-padded.svg?w=3840&q=90)
+
+sCM scales commensurately with teacher diffusion models.

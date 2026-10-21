@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Training AI systems using human feedback
-
-  * Training AI systems using human feedback
-  * Training models to assist human evaluation
-  * Training AI systems to do alignment research
-  * Limitations
-
-
-
 August 24, 2022
 
 [Safety](</news/safety-alignment/>)
@@ -51,6 +42,22 @@ Loading…
 
 Share
 
+Training AI systems using human feedback
+
+  * Training AI systems using human feedback
+  * Training models to assist human evaluation
+  * Training AI systems to do alignment research
+  * Limitations
+
+
+
+  * Training AI systems using human feedback
+  * Training models to assist human evaluation
+  * Training AI systems to do alignment research
+  * Limitations
+
+
+
 Our alignment research aims to make artificial general intelligence (AGI) aligned with human values and follow human intent. We take an iterative, empirical approach: by attempting to align highly capable AI systems, we can learn what works and what doesn’t, thus refining our ability to make AI systems safer and more aligned. Using scientific experiments, we study how alignment techniques scale and where they will break.
 
 We tackle alignment problems both in our most capable AI systems as well as alignment problems that we expect to encounter on our path to AGI. Our main goal is to push current alignment ideas as far as possible, and to understand and document precisely how they can succeed or why they will fail. We believe that even without fundamentally new alignment ideas, we can likely build sufficiently aligned AI systems to substantially advance alignment research itself.
@@ -60,8 +67,11 @@ We tackle alignment problems both in our most capable AI systems as well as alig
 At a high-level, our approach to alignment research focuses on engineering a scalable training signal for very smart AI systems that is aligned with human intent. It has three main pillars:
 
   1. Training AI systems using human feedback
+
   2. Training AI systems to assist human evaluation
+
   3. Training AI systems to do alignment research
+
 
 
 
@@ -88,9 +98,13 @@ RL from human feedback has a fundamental limitation: it assumes that humans can 
 Currently our main direction is based on RRM: we train models that can assist humans at evaluating our models on tasks that are too difficult for humans to evaluate directly. For example:
 
   * We trained a model to [summarize books⁠](</index/summarizing-books/>). Evaluating book summaries takes a long time for humans if they are unfamiliar with the book, but our model can assist human evaluation by writing chapter summaries.
+
   * We trained a model to [assist humans at evaluating the factual accuracy⁠](</index/webgpt/>) by browsing the web and providing quotes and links. On simple questions, this model’s outputs are already preferred to responses written by humans.
+
   * We trained a model to [write critical comments on its own outputs⁠](</index/critiques/>): On a query-based summarization task, assistance with critical comments increases the flaws humans find in model outputs by 50% on average. This holds even if we ask humans to write plausible looking but incorrect summaries.
+
   * We are creating a set of coding tasks selected to be very difficult to evaluate reliably for unassisted humans. We hope to release this data set soon.
+
 
 
 
@@ -117,10 +131,15 @@ Future versions of [WebGPT⁠](</index/webgpt/>), [InstructGPT⁠](</index/instr
 We’re very excited about this approach towards aligning AGI, but we expect that it needs to be adapted and improved as we learn more about how AI technology develops. Our approach also has a number of important limitations:
 
   * The path laid out here underemphasizes the importance of robustness and interpretability research, two areas OpenAI is currently underinvested in. If this fits your profile, please apply for our research scientist positions!
+
   * Using AI assistance for evaluation has the potential to scale up or amplify even subtle inconsistencies, biases, or vulnerabilities present in the AI assistant.
+
   * Aligning AGI likely involves solving very different problems than aligning today’s AI systems. We expect the transition to be somewhat continuous, but if there are major discontinuities or paradigm shifts, then most lessons learned from aligning models like InstructGPT might not be directly useful.
+
   * The hardest parts of the alignment problem might not be related to engineering a scalable and aligned training signal for our AI systems. Even if this is true, such a training signal will be necessary.
+
   * It might not be fundamentally easier to align models that can meaningfully accelerate alignment research than it is to align AGI. In other words, the least capable models that can help with alignment research might already be too dangerous if not properly aligned. If this is true, we won’t get much help from our own systems for solving alignment problems.
+
 
 
 
@@ -139,15 +158,15 @@ Jan Leike, John Schulman, Jeffrey Wu
 
 [View all](</news/>)
 
-![Disrupting malicious > media](https://images.ctfassets.net/kftzwdyauwt9/5080983d-9c4d-4479-17e421d7380a/0b42f77c2478bc5bc7bde3fddfc68462/45.png?w=3840&q=90&fm=webp)
+![Painterly depiction of a vibrant orange flower on a stem, rendered with a soft focus and warm yellow tones.](https://images.ctfassets.net/kftzwdyauwt9/5080983d-9c4d-4479-17e421d7380a/0b42f77c2478bc5bc7bde3fddfc68462/45.png?w=3840&q=90&fm=webp)
 
 [Disrupting malicious uses of AI by state-affiliated threat actorsSecurityFeb 14, 2024](</index/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors/>)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/ec66425e-99ca-4314-d04b087f8727/de7341b6a5281c2a220b93a737ce19b0/building-an-early-warning-system-for-llm-aided-biological-threat-creation.jpg?w=3840&q=90&fm=webp)
+![Sweeping strokes of orange, yellow, and purple in an abstract design](https://images.ctfassets.net/kftzwdyauwt9/ec66425e-99ca-4314-d04b087f8727/de7341b6a5281c2a220b93a737ce19b0/building-an-early-warning-system-for-llm-aided-biological-threat-creation.jpg?w=3840&q=90&fm=webp)
 
 [Building an early warning system for LLM-aided biological threat creationPublicationJan 31, 2024](</index/building-an-early-warning-system-for-llm-aided-biological-threat-creation/>)
 
-![Democratic Inputs To AI Grant Program Update](https://images.ctfassets.net/kftzwdyauwt9/f50ce1d2-4f61-4ed2-e560c624d631/6f4dd4542898a35d0a91b137f85c9834/Democratic_inputs_to_AI_grant_program_lessons_learned_and_implementation_plans.jpg?w=3840&q=90&fm=webp)
+![Abstract floral pattern with vibrant purple blooms on a green backdrop](https://images.ctfassets.net/kftzwdyauwt9/f50ce1d2-4f61-4ed2-e560c624d631/6f4dd4542898a35d0a91b137f85c9834/Democratic_inputs_to_AI_grant_program_lessons_learned_and_implementation_plans.jpg?w=3840&q=90&fm=webp)
 
 [Democratic inputs to AI grant program: lessons learned and implementation plansSafetyJan 16, 2024](</index/democratic-inputs-to-ai-grant-program-update/>)
 
@@ -161,9 +180,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -182,7 +202,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -200,6 +221,9 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
@@ -226,6 +250,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -233,6 +258,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
