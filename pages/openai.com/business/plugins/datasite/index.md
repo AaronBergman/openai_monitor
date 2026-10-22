@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.datasite.com/>)
 
-[![](https://files.openai.com/content?id=file_000000005e1c820e892defada55391c1&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=18c1a5eff99e7d9fc9ed0ccc75aa3b43393b6de2093757cc5aa6f85633f9e4ae&v=0)Datasite Create a Datasite project. Ask for the name, deal type, industry, location, and folder structure.(opens in a new window)](<https://chatgpt.com/?prompt=%40Datasite+Create+a+Datasite+project.+Ask+for+the+name%2C+deal+type%2C+industry%2C+location%2C+and+folder+structure.>)
+[![](https://files.openai.com/content?id=file_000000005e1c820e892defada55391c1&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=18c1a5eff99e7d9fc9ed0ccc75aa3b43393b6de2093757cc5aa6f85633f9e4ae&v=0)Datasite Create a Datasite project. Ask for the name, deal type, industry, location, and folder structure.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69eba17551ac81918231c83822b703b6?install&prompt=Create%20a%20Datasite%20project.%20Ask%20for%20the%20name%2C%20deal%20type%2C%20industry%2C%20location%2C%20and%20folder%20structure.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Connect ChatGPT to your Datasite virtual data room - the secure workspace where 
 
 ![](https://files.openai.com/content?id=file_000000005e1c820e892defada55391c1&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=18c1a5eff99e7d9fc9ed0ccc75aa3b43393b6de2093757cc5aa6f85633f9e4ae&v=0)Datasite Review this Datasite project's readiness. Identify empty folders, missing documents, and files flagged as unreadable, and prioritize the gaps to address.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Datasite+Review+this+Datasite+project%27s+readiness.+Identify+empty+folders%2C+missing+documents%2C+and+files+flagged+as+unreadable%2C+and+prioritize+the+gaps+to+address.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69eba17551ac81918231c83822b703b6?install&prompt=Review%20this%20Datasite%20project's%20readiness.%20Identify%20empty%20folders%2C%20missing%20documents%2C%20and%20files%20flagged%20as%20unreadable%2C%20and%20prioritize%20the%20gaps%20to%20address.&surface=work>)
 
   * ### Prepare a diligence brief
 
 ![](https://files.openai.com/content?id=file_000000005e1c820e892defada55391c1&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=18c1a5eff99e7d9fc9ed0ccc75aa3b43393b6de2093757cc5aa6f85633f9e4ae&v=0)Datasite Search this deal room for documents relevant to the diligence questions in my brief. Summarize findings and unanswered questions with source references.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Datasite+Search+this+deal+room+for+documents+relevant+to+the+diligence+questions+in+my+brief.+Summarize+findings+and+unanswered+questions+with+source+references.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69eba17551ac81918231c83822b703b6?install&prompt=Search%20this%20deal%20room%20for%20documents%20relevant%20to%20the%20diligence%20questions%20in%20my%20brief.%20Summarize%20findings%20and%20unanswered%20questions%20with%20source%20references.&surface=work>)
 
   * ### Review buyer questions
 
 ![](https://files.openai.com/content?id=file_000000005e1c820e892defada55391c1&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=18c1a5eff99e7d9fc9ed0ccc75aa3b43393b6de2093757cc5aa6f85633f9e4ae&v=0)Datasite Review open buyer Q&A for this project. Draft answers where supporting documents exist, cite them, and flag questions that need an expert response.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Datasite+Review+open+buyer+Q%26A+for+this+project.+Draft+answers+where+supporting+documents+exist%2C+cite+them%2C+and+flag+questions+that+need+an+expert+response.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69eba17551ac81918231c83822b703b6?install&prompt=Review%20open%20buyer%20Q%26A%20for%20this%20project.%20Draft%20answers%20where%20supporting%20documents%20exist%2C%20cite%20them%2C%20and%20flag%20questions%20that%20need%20an%20expert%20response.&surface=work>)
 
 
 
@@ -97,11 +97,11 @@ Connect ChatGPT to your Datasite virtual data room - the secure workspace where 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://datasite.my.site.com/datasiteassist/s/>)
+### [Plugin supportLearn more(opens in a new window)](<https://datasite.my.site.com/datasiteassist/s/>)
 
-### [Privacy policyLearn more](<https://www.datasite.com/en/legal/privacy-notice>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.datasite.com/en/legal/privacy-notice>)
 
 ## Add the Datasite plugin in a few clicks
 
@@ -111,13 +111,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingBuild banking analysis and client-ready materials.](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingSupport company research and deal analysis.](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_000000000aac722f9874ed898f906fe5&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=85be1e32ecd5938ebde62c35d9d37bc83792db94ae1d5bbc145313f90f374c50&v=0)![](https://files.openai.com/content?id=file_000000009ec481f6b74903ef6fa4c2bd&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=1b4092ec812db85c9135837e27a157eec9d4077b2ede5f941a94ea7ae1504a88&v=0)PitchBookFaster workflows with market intelligence.](</business/plugins/pitchbook/>)[![](https://files.openai.com/content?id=file_000000006e70720e8240729562593f87&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=881a44cfa311712291121e9cda4ef4b8d7fef216108a65296a5898c02d91507e&v=0)![](https://files.openai.com/content?id=file_00000000042c720882209039c0de8dbb&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=6488ddb504fdc95531899e70229555079be3267f213ba9f836a0a92bc39864a8&v=0)DocusignManage contracts from ChatGPT](</business/plugins/docusign/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
+[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingM&A, valuation, and financing](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingPublic equity research](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_000000000aac722f9874ed898f906fe5&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=85be1e32ecd5938ebde62c35d9d37bc83792db94ae1d5bbc145313f90f374c50&v=0)![](https://files.openai.com/content?id=file_000000009ec481f6b74903ef6fa4c2bd&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=1b4092ec812db85c9135837e27a157eec9d4077b2ede5f941a94ea7ae1504a88&v=0)PitchBookPrivate capital market data](</business/plugins/pitchbook/>)[![](https://files.openai.com/content?id=file_000000006e70720e8240729562593f87&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=881a44cfa311712291121e9cda4ef4b8d7fef216108a65296a5898c02d91507e&v=0)![](https://files.openai.com/content?id=file_00000000042c720882209039c0de8dbb&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=6488ddb504fdc95531899e70229555079be3267f213ba9f836a0a92bc39864a8&v=0)DocusignManage contracts from ChatGPT](</business/plugins/docusign/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -129,10 +139,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -151,7 +161,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -178,8 +189,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -198,6 +209,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

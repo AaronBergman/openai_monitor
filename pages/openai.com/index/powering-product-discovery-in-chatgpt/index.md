@@ -80,147 +80,6 @@ These updates are rolling out to all ChatGPT free, Go, Plus, and Pro users this 
 
 Find similar clothingCompare appliances
 
-## Before shopping improvements
-
-![shirt-input](//images.ctfassets.net/kftzwdyauwt9/72knoyXV7nOy5lsp8Cx4DU/6f833e69cd8c416cde495c348b3011bc/shirt-input.png?w=640&q=90&fm=webp)
-
-Help me find short sleeve button downs like this one
-
-That shirt has a great vibe—short sleeve button-down (often called a camp shirt or short-sleeve oxford) with a soft fabric and a subtle floral/mini-print. If you want more like it, here are some solid directions and brands to check out:
-
-#### 🔎 What to look for
-
-  * **Fabric:** Cotton, linen, or cotton-linen blends (breathable + slightly textured)
-  * **Fit:** Relaxed or “standard” fit (not too slim)
-  * **Collar:** Camp collar (more casual) or regular button-down like yours
-  * **Prints:** Micro florals, ditsy prints, or washed patterns (not too loud)
-
-
-
-* * *
-
-#### 👍 Brands that nail this style
-
-  * **Bonobos**  
-Great fit options (slim/standard) and lots of subtle prints like yours.
-  * **J.Crew** Look for their “Secret Wash” or linen shirts—often have similar small-scale patterns.
-  * **Taylor Stitch** Higher quality, slightly rugged versions of this style.
-  * **Marine Layer**  
-Super soft fabrics and relaxed California vibe—very similar feel.
-  * **Faherty**  
-A bit pricier, but excellent prints and comfort.
-  * **Uniqlo**  
-Budget-friendly, simpler versions if you want something clean and easy.
-  * **Outerknown**  
-Great if you like that laid-back but polished look.
-
-
-
-* * *
-
-#### 🔥 Style tip based on your pic
-
-That pink + white micro print works really well—flattering and summery. You could expand with:
-
-  * Soft blues or sage green prints
-  * Off-white with subtle patterns
-  * Linen versions for warmer weather
-
-
-
-* * *
-
-If you want, I can pull **specific shirts you can buy right now** (budget, mid-range, or premium).
-
-## After shopping improvements
-
-![shirt-input](//images.ctfassets.net/kftzwdyauwt9/72knoyXV7nOy5lsp8Cx4DU/6f833e69cd8c416cde495c348b3011bc/shirt-input.png?w=640&q=90&fm=webp)
-
-Help me find short sleeve button downs like this one 
-
-You’re basically wearing a **soft floral short-sleeve button-down with a relaxed fit + slightly washed color palette** —leans a little “California casual / vacation-but-not-loud.” I pulled options that match that exact vibe (not loud Hawaiian tourist shirts, more wearable everyday versions).
-
-* * *
-
-#### 🌸 Closest match to your vibe (muted floral, wearable everyday)
-
-![Two men modeling short-sleeve resort shirts: one wearing a light yellow shirt with subtle leaf patterns, and the other wearing a black shirt with a colorful floral print, each shown against a neutral background with product names and prices below.](https://images.ctfassets.net/kftzwdyauwt9/2RcTvt9PBcluqjbcrtfFgr/8770da04ed66bdb7b6ce64bcf161d5ba/resort-shirts.png?w=3840&q=90&fm=webp)
-
-These are your lane:
-
-  * **Soft color base + small floral print** (like yours)
-  * Not overly saturated
-  * Easy to wear with jeans, chinos, or shorts
-  * Slightly elevated vs beachy
-
-
-
-👉 If you want the closest upgrade to what you’re wearing:  
-**Abercrombie + Bonobos** are the safest bets.
-
-* * *
-
-#### 🌴 Slightly bolder / more “weekend” versions
-
-![Two short-sleeve button-up shirts displayed side by side: a black shirt with a bold white floral pattern shown on its own, and a white floral jacquard shirt worn by a model, with product names and prices listed below.](https://images.ctfassets.net/kftzwdyauwt9/oXopzF4CxSXdK0ex3pwdh/bef88e04fb95b04a3a892f17ab2b283d/resort-shirts-bolder.png?w=3840&q=90&fm=webp)
-
-Same category, just:
-
-  * Bigger prints
-  * More contrast
-  * Feels more vacation / dinner / drinks
-
-
-
-* * *
-
-#### 💸 Budget-friendly options (Target / Walmart tier)
-
-![Two men modeling short-sleeve floral shirts: one wearing a dark navy shirt with a white floral pattern, and the other wearing a bright blue tropical floral shirt, each shown against a neutral background with product names and prices below.](https://images.ctfassets.net/kftzwdyauwt9/1S4jFuQjmBba6qbCyLbFJS/50ee539b0bd2eaf8cc3de2adb55a91cb/resort-shirts-budget.png?w=3840&q=90&fm=webp)
-
-Good if you want multiples:
-
-  * Lightweight, breathable
-  * Less premium fabric but solid rotation pieces
-  * Easy to experiment with colors
-
-
-
-* * *
-
-#### 🧵 Nicer fabric / elevated feel (if you want to level it up)
-
-![Two men modeling short-sleeve button-up shirts: one wearing a light blue floral linen shirt with a subtle pattern, and the other wearing a navy shirt with a small pink floral print, each shown against a neutral background with product names and prices below.](https://images.ctfassets.net/kftzwdyauwt9/6vceBw2zmEgzZGRvmOEE8s/a4395409334b8f37bed4c3a2be98e787/resort-shirts-nicer.png?w=3840&q=90&fm=webp)
-
-What you get here:
-
-  * Linen or linen-blend (breathes way better)
-  * Softer drape (less stiff than your current shirt)
-  * Feels more “intentional outfit” vs casual throw-on
-
-
-
-* * *
-
-#### 📊 Quick comparison (so you can decide fast)
-
-Attribute| ****![Product photo of a shirt from Abercrombie](https://images.ctfassets.net/kftzwdyauwt9/6EN0wMzQdAc4EGe1sDLQXf/887e99c92d17853e5db3aa2849a9b61b/abercrombie.png?w=3840&q=90&fm=webp)**Abercrombie Resort Shirt**| ****![Product photo of a shirt from Bonobos](https://images.ctfassets.net/kftzwdyauwt9/21niV5ITcoq4RSS9juJIiW/91b1aa65ecce190e14734de5727ad215/bonobos.png?w=3840&q=90&fm=webp)**Bonobos Riviera Linen Shirt**| ****![Product photo of a shirt from Club Room](https://images.ctfassets.net/kftzwdyauwt9/7Q5pYOtgVhlI7BXj8l3dF/102e6c1bb8ee42b6ceabfff01b82fbbd/club-room.png?w=3840&q=90&fm=webp)**Club Room Linen Shirt**| ****![Product photo of a shirt from Nordstrom](https://images.ctfassets.net/kftzwdyauwt9/6XBECBoeh1MyeYYhw5b2IU/0aa051d3fc0735c0bad7ab150660724b/nordstrom.png?w=3840&q=90&fm=webp)**Nordstrom Leaf Print Shirt**| ****![Product photo of a shirt from Faherty](https://images.ctfassets.net/kftzwdyauwt9/6bru7qfg7KKJTzyEvAdcl/4817a5f65705b7dcdcfcf027746e9529/faherty.png?w=3840&q=90&fm=webp)**Faherty Breeze Shirt**  
----|---|---|---|---|---  
-Fabric| Linen blend| Linen| 100% linen| Linen| Premium cotton/linen blend  
-Print style| Subtle floral| Refined floral| Classic floral| Leaf/organic| Minimal pattern  
-Fit vibe| Relaxed| Tailored-relaxed| Regular| Regular| Relaxed  
-Best use| Everyday go-to| Dressier casual| Cheap rotation| Subtle alt| Premium comfort  
-  
-#### 🧠 My honest take for you
-
-  * **Buy 1:** Abercrombie → your new default
-  * **Add 1:** Bonobos _or_ Faherty → for when you want to feel sharper
-  * **Optional:** Grab a cheap Club Room to experiment with color
-
-
-
-That gives you a **tight 2–3 shirt system** that all work with the same jeans/pants.
-
 ## The foundation for AI-native commerce
 
 To power this shopping experience, we’re extending ACP to be the connective layer between merchants and users throughout discovery. 
@@ -262,17 +121,17 @@ OpenAI
 
 [View all](</news/>)
 
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
+![Patch the Planet: scaling a global response to critical vulnerabilities — Cover](https://images.ctfassets.net/kftzwdyauwt9/6PyrqMoyS15mNPtg8awwZn/30ddc462153abdeacf59376e741713db/patch-the-planet-scaling-a-global-response-to-critical-vulnerabilities-cover.png?w=3840&q=90&fm=webp)
 
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
+[Patch the Planet: global response coordination as agents uncover critical vulnerabilitiesSecurityOct 21, 2026](</index/coordinated-disclosure-of-critical-vulnerabilities/>)
 
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
+![ChatGPT Ads expands to 26 new countries — Cover](https://images.ctfassets.net/kftzwdyauwt9/1eOJBokizHqfepQO6lgFiY/b4a202d71316d951eac139e20ed828a7/chatgpt-ads-expands-26-new-countries-cover.png?w=3840&q=90&fm=webp)
 
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
+[ChatGPT Ads expands to 26 new countriesProductOct 21, 2026](</index/chatgpt-ads-expands-26-new-countries/>)
 
-![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
+![Rosalind Academic Plan - Card](https://images.ctfassets.net/kftzwdyauwt9/7EaxSuBblXvd3Y6G2WLoET/4563ce56737d9c0ed1f05358f43c8a7d/rosalind-academic-plan-card.png?w=3840&q=90&fm=webp)
 
-[Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
+[Introducing the Rosalind Academic PlanResearchOct 15, 2026](</index/introducing-the-rosalind-academic-plan/>)
 
 Research
 
@@ -284,9 +143,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -305,7 +165,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -323,6 +184,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -331,8 +193,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -351,6 +213,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -378,3 +241,178 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+## Before shopping improvements
+
+![shirt-input](//images.ctfassets.net/kftzwdyauwt9/72knoyXV7nOy5lsp8Cx4DU/6f833e69cd8c416cde495c348b3011bc/shirt-input.png?w=640&q=90&fm=webp)
+
+Help me find short sleeve button downs like this one
+
+That shirt has a great vibe—short sleeve button-down (often called a camp shirt or short-sleeve oxford) with a soft fabric and a subtle floral/mini-print. If you want more like it, here are some solid directions and brands to check out:
+
+#### 🔎 What to look for
+
+  * **Fabric:** Cotton, linen, or cotton-linen blends (breathable + slightly textured)
+
+  * **Fit:** Relaxed or “standard” fit (not too slim)
+
+  * **Collar:** Camp collar (more casual) or regular button-down like yours
+
+  * **Prints:** Micro florals, ditsy prints, or washed patterns (not too loud)
+
+
+
+
+* * *
+
+#### 👍 Brands that nail this style
+
+  * **Bonobos**  
+Great fit options (slim/standard) and lots of subtle prints like yours.
+
+  * **J.Crew**
+
+Look for their “Secret Wash” or linen shirts—often have similar small-scale patterns.
+
+  * **Taylor Stitch**
+
+Higher quality, slightly rugged versions of this style.
+
+  * **Marine Layer**  
+Super soft fabrics and relaxed California vibe—very similar feel.
+
+  * **Faherty**  
+A bit pricier, but excellent prints and comfort.
+
+  * **Uniqlo**  
+Budget-friendly, simpler versions if you want something clean and easy.
+
+  * **Outerknown**  
+Great if you like that laid-back but polished look.
+
+
+
+
+* * *
+
+#### 🔥 Style tip based on your pic
+
+That pink + white micro print works really well—flattering and summery. You could expand with:
+
+  * Soft blues or sage green prints
+
+  * Off-white with subtle patterns
+
+  * Linen versions for warmer weather
+
+
+
+
+* * *
+
+If you want, I can pull **specific shirts you can buy right now** (budget, mid-range, or premium).
+
+## After shopping improvements
+
+![shirt-input](//images.ctfassets.net/kftzwdyauwt9/72knoyXV7nOy5lsp8Cx4DU/6f833e69cd8c416cde495c348b3011bc/shirt-input.png?w=640&q=90&fm=webp)
+
+Help me find short sleeve button downs like this one 
+
+You’re basically wearing a **soft floral short-sleeve button-down with a relaxed fit + slightly washed color palette** —leans a little “California casual / vacation-but-not-loud.” I pulled options that match that exact vibe (not loud Hawaiian tourist shirts, more wearable everyday versions).
+
+* * *
+
+#### 🌸 Closest match to your vibe (muted floral, wearable everyday)
+
+![Two men modeling short-sleeve resort shirts: one wearing a light yellow shirt with subtle leaf patterns, and the other wearing a black shirt with a colorful floral print, each shown against a neutral background with product names and prices below.](https://images.ctfassets.net/kftzwdyauwt9/2RcTvt9PBcluqjbcrtfFgr/8770da04ed66bdb7b6ce64bcf161d5ba/resort-shirts.png?w=3840&q=90&fm=webp)
+
+These are your lane:
+
+  * **Soft color base + small floral print** (like yours)
+
+  * Not overly saturated
+
+  * Easy to wear with jeans, chinos, or shorts
+
+  * Slightly elevated vs beachy
+
+
+
+
+👉 If you want the closest upgrade to what you’re wearing:  
+**Abercrombie + Bonobos** are the safest bets.
+
+* * *
+
+#### 🌴 Slightly bolder / more “weekend” versions
+
+![Two short-sleeve button-up shirts displayed side by side: a black shirt with a bold white floral pattern shown on its own, and a white floral jacquard shirt worn by a model, with product names and prices listed below.](https://images.ctfassets.net/kftzwdyauwt9/oXopzF4CxSXdK0ex3pwdh/bef88e04fb95b04a3a892f17ab2b283d/resort-shirts-bolder.png?w=3840&q=90&fm=webp)
+
+Same category, just:
+
+  * Bigger prints
+
+  * More contrast
+
+  * Feels more vacation / dinner / drinks
+
+
+
+
+* * *
+
+#### 💸 Budget-friendly options (Target / Walmart tier)
+
+![Two men modeling short-sleeve floral shirts: one wearing a dark navy shirt with a white floral pattern, and the other wearing a bright blue tropical floral shirt, each shown against a neutral background with product names and prices below.](https://images.ctfassets.net/kftzwdyauwt9/1S4jFuQjmBba6qbCyLbFJS/50ee539b0bd2eaf8cc3de2adb55a91cb/resort-shirts-budget.png?w=3840&q=90&fm=webp)
+
+Good if you want multiples:
+
+  * Lightweight, breathable
+
+  * Less premium fabric but solid rotation pieces
+
+  * Easy to experiment with colors
+
+
+
+
+* * *
+
+#### 🧵 Nicer fabric / elevated feel (if you want to level it up)
+
+![Two men modeling short-sleeve button-up shirts: one wearing a light blue floral linen shirt with a subtle pattern, and the other wearing a navy shirt with a small pink floral print, each shown against a neutral background with product names and prices below.](https://images.ctfassets.net/kftzwdyauwt9/6vceBw2zmEgzZGRvmOEE8s/a4395409334b8f37bed4c3a2be98e787/resort-shirts-nicer.png?w=3840&q=90&fm=webp)
+
+What you get here:
+
+  * Linen or linen-blend (breathes way better)
+
+  * Softer drape (less stiff than your current shirt)
+
+  * Feels more “intentional outfit” vs casual throw-on
+
+
+
+
+* * *
+
+#### 📊 Quick comparison (so you can decide fast)
+
+Attribute| ****![Product photo of a shirt from Abercrombie](https://images.ctfassets.net/kftzwdyauwt9/6EN0wMzQdAc4EGe1sDLQXf/887e99c92d17853e5db3aa2849a9b61b/abercrombie.png?w=3840&q=90&fm=webp)**Abercrombie Resort Shirt**| ****![Product photo of a shirt from Bonobos](https://images.ctfassets.net/kftzwdyauwt9/21niV5ITcoq4RSS9juJIiW/91b1aa65ecce190e14734de5727ad215/bonobos.png?w=3840&q=90&fm=webp)**Bonobos Riviera Linen Shirt**| ****![Product photo of a shirt from Club Room](https://images.ctfassets.net/kftzwdyauwt9/7Q5pYOtgVhlI7BXj8l3dF/102e6c1bb8ee42b6ceabfff01b82fbbd/club-room.png?w=3840&q=90&fm=webp)**Club Room Linen Shirt**| ****![Product photo of a shirt from Nordstrom](https://images.ctfassets.net/kftzwdyauwt9/6XBECBoeh1MyeYYhw5b2IU/0aa051d3fc0735c0bad7ab150660724b/nordstrom.png?w=3840&q=90&fm=webp)**Nordstrom Leaf Print Shirt**| ****![Product photo of a shirt from Faherty](https://images.ctfassets.net/kftzwdyauwt9/6bru7qfg7KKJTzyEvAdcl/4817a5f65705b7dcdcfcf027746e9529/faherty.png?w=3840&q=90&fm=webp)**Faherty Breeze Shirt**  
+---|---|---|---|---|---  
+Fabric| Linen blend| Linen| 100% linen| Linen| Premium cotton/linen blend  
+Print style| Subtle floral| Refined floral| Classic floral| Leaf/organic| Minimal pattern  
+Fit vibe| Relaxed| Tailored-relaxed| Regular| Regular| Relaxed  
+Best use| Everyday go-to| Dressier casual| Cheap rotation| Subtle alt| Premium comfort  
+  
+#### 🧠 My honest take for you
+
+  * **Buy 1:** Abercrombie → your new default
+
+  * **Add 1:** Bonobos _or_ Faherty → for when you want to feel sharper
+
+  * **Optional:** Grab a cheap Club Room to experiment with color
+
+
+
+
+That gives you a **tight 2–3 shirt system** that all work with the same jeans/pants.

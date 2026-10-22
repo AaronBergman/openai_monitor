@@ -102,10 +102,6 @@ GPT‑5 is the strongest coding model we’ve ever released. It outperforms o3 a
 
 CursorWindsurfVercelJetBrainsFactoryLovableGitLabAugment CodeGitHubCognition
 
-> “GPT-5 is the smartest coding model we’ve used. Our team has found GPT-5 to be remarkably intelligent, easy to steer, and even to have a personality we haven’t seen in any other model. It not only catches tricky, deeply-hidden bugs but can also run long, multi-turn background agents to see complex tasks through to the finish—the kinds of problems that used to leave other models stuck. It’s become our daily driver for everything from scoping and planning PRs to completing end-to-end builds.”
-
-Michael Truell, Co-Founder & CEO at Cursor
-
 On SWE-bench Verified, an evaluation based on real-world software engineering tasks, GPT‑5 scores 74.9%, up from o3’s 69.1%. Notably, GPT‑5 achieves its high score with greater efficiency and speed: relative to o3 at high reasoning effort, GPT‑5 uses 22% fewer output tokens and 45% fewer tool calls.
 
 In [SWE-bench Verified⁠](<https://openai.com/index/introducing-swe-bench-verified/>), a model is given a code repository and issue description, and must generate a patch to solve the issue. Text labels indicate the reasoning effort. Our scores omit 23 of 500 problems whose solutions did not reliably pass on our infrastructure. GPT‑5 was given a short prompt that emphasized verifying solutions thoroughly; the same prompt did not benefit o3.
@@ -124,8 +120,6 @@ Here are some fun, cherry-picked examples of what GPT‑5 can do with a single p
 
 Espresso Lab websiteAudio step sequencer appOuter space game
 
-**`Prompt:`**`Please generate a beautiful, realistic landing page for a service that provides the ultimate coffee enthusiast a $200/month subscription that provides equipment rental and coaching for coffee roasting and creating the ultimate espresso. The target audience is a bay area middle-aged person who might work in tech and is educated, has disposable income, and is passionate about the art and science of coffee. Optimize for conversion for a 6 month signup.`
-
 See more examples by GPT‑5 in our gallery [_here_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/latest-model?gallery=open>).
 
 ### Coding collaboration
@@ -143,10 +137,6 @@ Beyond agentic coding, GPT‑5 is better at agentic tasks generally. GPT‑5 set
 ### Early feedback on GPT‑5 for agentic tasks
 
 ManusMercado LibreNotionGensparkInditexZendeskCanvaAtlassianHarveyBBVAClayUber
-
-> “GPT-5 is a big step up. It achieved the best performance we’ve ever seen from a single model on our internal benchmarks. GPT-5 excelled across various agentic tasks—even before we tweaked a single line of code or tailored a prompt. The new preambles and more precise control over tool use enabled a significant leap in the stability and steerability of our agents.”
-
-Yichao ‘Peak’ Ji, Co-Founder & Chief Scientist at Manus
 
 ### Instruction following
 
@@ -209,8 +199,11 @@ Because of Rayleigh scattering. Sunlight contains all colors, but air molecules 
 We don’t see a violet sky because:
 
   * The Sun emits slightly less violet than blue.
+
   * The upper atmosphere absorbs some violet/UV.
+
   * Human eyes are less sensitive to violet.
+
 
 
 
@@ -225,15 +218,20 @@ The sky looks blue because sunlight gets scattered by the tiny molecules in Eart
 Key points:
 
   * Sunlight is made of many colors (wavelengths). Shorter wavelengths, like violet and blue, are scattered much more strongly by air molecules than longer wavelengths like red. The scattering strength increases sharply as wavelength gets shorter.
+
   * As sunlight passes through the atmosphere, the shorter-wavelength light (especially blue) is scattered in all directions, so no matter where you look away from the Sun, you see that scattered blue light — the “blue sky.”
+
 
 
 
 Why not violet?
 
   * The Sun emits less violet than blue.
+
   * Our eyes are less sensitive to violet.
+
   * Some violet/UV is absorbed higher up by ozone.
+
 
 
 
@@ -242,15 +240,20 @@ Together, that makes the scattered light we perceive look mainly blue.
 Why are sunsets red/orange?
 
   * Near sunrise and sunset, sunlight travels a much longer path through the atmosphere.
+
   * Much of the blue light gets scattered out of the direct path before it reaches your eyes, leaving the remaining direct sunlight enriched in reds and oranges.
+
 
 
 
 Other influences:
 
   * Haze, pollution, smoke, or dust have larger particles that scatter light less selectively (called Mie scattering), making the sky look paler or whitish.
+
   * The blue sky is partially polarized due to the scattering geometry, which is why polarized sunglasses can darken parts of it.
+
   * On worlds with different atmospheres and particle sizes (like Mars), skies can look butterscotch or reddish for similar scattering reasons.
+
 
 
 
@@ -368,17 +371,17 @@ OpenAI
 
 [View all](</news/>)
 
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
+![Patch the Planet: scaling a global response to critical vulnerabilities — Cover](https://images.ctfassets.net/kftzwdyauwt9/6PyrqMoyS15mNPtg8awwZn/30ddc462153abdeacf59376e741713db/patch-the-planet-scaling-a-global-response-to-critical-vulnerabilities-cover.png?w=3840&q=90&fm=webp)
 
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
+[Patch the Planet: global response coordination as agents uncover critical vulnerabilitiesSecurityOct 21, 2026](</index/coordinated-disclosure-of-critical-vulnerabilities/>)
 
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
+![ChatGPT Ads expands to 26 new countries — Cover](https://images.ctfassets.net/kftzwdyauwt9/1eOJBokizHqfepQO6lgFiY/b4a202d71316d951eac139e20ed828a7/chatgpt-ads-expands-26-new-countries-cover.png?w=3840&q=90&fm=webp)
 
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
+[ChatGPT Ads expands to 26 new countriesProductOct 21, 2026](</index/chatgpt-ads-expands-26-new-countries/>)
 
-![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
+![Rosalind Academic Plan - Card](https://images.ctfassets.net/kftzwdyauwt9/7EaxSuBblXvd3Y6G2WLoET/4563ce56737d9c0ed1f05358f43c8a7d/rosalind-academic-plan-card.png?w=3840&q=90&fm=webp)
 
-[Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
+[Introducing the Rosalind Academic PlanResearchOct 15, 2026](</index/introducing-the-rosalind-academic-plan/>)
 
 Research
 
@@ -390,9 +393,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -411,7 +415,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -429,6 +434,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -437,8 +443,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -457,6 +463,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -484,3 +491,13 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> “GPT-5 is the smartest coding model we’ve used. Our team has found GPT-5 to be remarkably intelligent, easy to steer, and even to have a personality we haven’t seen in any other model. It not only catches tricky, deeply-hidden bugs but can also run long, multi-turn background agents to see complex tasks through to the finish—the kinds of problems that used to leave other models stuck. It’s become our daily driver for everything from scoping and planning PRs to completing end-to-end builds.”
+
+Michael Truell, Co-Founder & CEO at Cursor
+
+**`Prompt:`**`Please generate a beautiful, realistic landing page for a service that provides the ultimate coffee enthusiast a $200/month subscription that provides equipment rental and coaching for coffee roasting and creating the ultimate espresso. The target audience is a bay area middle-aged person who might work in tech and is educated, has disposable income, and is passionate about the art and science of coffee. Optimize for conversion for a 6 month signup.`
+
+> “GPT-5 is a big step up. It achieved the best performance we’ve ever seen from a single model on our internal benchmarks. GPT-5 excelled across various agentic tasks—even before we tweaked a single line of code or tailored a prompt. The new preambles and more precise control over tool use enabled a significant leap in the stability and steerability of our agents.”
+
+Yichao ‘Peak’ Ji, Co-Founder & Chief Scientist at Manus
