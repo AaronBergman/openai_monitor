@@ -52,41 +52,41 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
-![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
+![Broad access through consistent standards — Cover](https://images.ctfassets.net/kftzwdyauwt9/5yeylkVM0cZ2W6k2lcnVyE/42a8333bccf5064328630ebf7c667082/broad-access-through-consistent-standards-cover.png?w=3840&q=90&fm=webp)
 
-[Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
+[Broad access through consistent standardsSafetyOct 21, 2026](</index/broad-access-through-consistent-standards/>)
 
-![Sam Altman’s remarks at the United Nations Security Council cover image](https://images.ctfassets.net/kftzwdyauwt9/4O6fFZArVSBeCoNjTFwXXZ/cc5e374a6b62b8f328555f002b3bca49/sam-altman-s-remarks-at-the-united-nations-security-council-cover.png?w=3840&q=90&fm=webp)
+![OpenAI models are coming to Google Cloud — Cover](https://images.ctfassets.net/kftzwdyauwt9/QNIwW66RjOZ1CQM0LY7VE/46aaeb846de358274805964ce0899b49/openai-models-coming-to-google-cloud-cover.png?w=3840&q=90&fm=webp)
 
-[Sam Altman’s remarks at the United Nations Security CouncilGlobal AffairsSep 23, 2026](</index/sam-altman-un-security-council-remarks/>)
+[OpenAI models are coming to Google CloudCompanyOct 21, 2026](</index/openai-models-google-cloud/>)
 
-![ChatGPT Ads expands to Southeast Asia and Taiwan — cover](https://images.ctfassets.net/kftzwdyauwt9/2LRApkCOWR8QHAX6Sj3Rik/367336096ea9ec8e9623c1f4d6035c9f/chatgpt-ads-expands-to-southeast-asia-and-taiwan-cover.png?w=3840&q=90&fm=webp)
+![Patch the Planet: scaling a global response to critical vulnerabilities — Cover](https://images.ctfassets.net/kftzwdyauwt9/6PyrqMoyS15mNPtg8awwZn/30ddc462153abdeacf59376e741713db/patch-the-planet-scaling-a-global-response-to-critical-vulnerabilities-cover.png?w=3840&q=90&fm=webp)
 
-[ChatGPT Ads expands to Southeast Asia and TaiwanProductSep 23, 2026](</index/chatgpt-ads-expands-southeast-asia-taiwan/>)
+[Patch the Planet: global response coordination as agents uncover critical vulnerabilitiesSecurityOct 21, 2026](</index/coordinated-disclosure-of-critical-vulnerabilities/>)
 
-![Airbnb widens access to GPT-6 Astra and OpenAI frontier models - card image](https://images.ctfassets.net/kftzwdyauwt9/2prIXE6DtUo7UsJqRAl52K/f8c082ed29505ebfbcff9fe828ccc123/airbnb-widens-access-to-gpt-6-astra-and-openai-frontier-models-cover.png?w=3840&q=90&fm=webp)
+![ChatGPT Ads expands to 26 new countries — Cover](https://images.ctfassets.net/kftzwdyauwt9/1eOJBokizHqfepQO6lgFiY/b4a202d71316d951eac139e20ed828a7/chatgpt-ads-expands-26-new-countries-cover.png?w=3840&q=90&fm=webp)
 
-[Airbnb expands access to GPT-6 AstraCompanySep 23, 2026](</index/airbnb-gpt-6-astra/>)
+[ChatGPT Ads expands to 26 new countriesProductOct 21, 2026](</index/chatgpt-ads-expands-26-new-countries/>)
 
-![Better prompt caching for GPT-6 — Card image](https://images.ctfassets.net/kftzwdyauwt9/72ZKzMh8JgRDfdg4EYRtwY/ee5e406a08b69f00b0beb4ac00270364/7kneoqlc2qh37z1utkmtfk-cover-v1.png?w=3840&q=90&fm=webp)
+![Scaling AI to uncover new research leads in complex biological data — Cover](https://images.ctfassets.net/kftzwdyauwt9/5UED38veljkDWUT9l9b6eR/5d17087c963ea51bf01c1fbd754f19d9/scaling-ai-biological-data-cover.png?w=3840&q=90&fm=webp)
 
-[Better prompt caching for GPT-6ProductSep 22, 2026](</index/better-prompt-caching-for-gpt-6/>)
+[Using thousands of AI agents to uncover new leads in biological dataPublicationOct 21, 2026](</index/scaling-ai-research-for-complex-biological-data/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![Rethinking the ad stack around a new user journey — Art card](https://images.ctfassets.net/kftzwdyauwt9/3aewhPPb5NQ5IqOKEkrtzA/7209065f6e6ccf3a0476b43feb8336e1/rethinking-ads-card.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
+[How we built ChatGPT’s novel ad stack for user trust and relevanceEngineeringOct 21, 2026](</index/building-chatgpt-ad-stack/>)
 
-![Priorities and principles for effective third party assessments cover](https://images.ctfassets.net/kftzwdyauwt9/12cpbLOJFwXJ00Ma66GDVk/d4b392c0a9e18f078b23247a3f755f57/priorities-and-principles-for-effective-third-party-assessments-cover.png?w=3840&q=90&fm=webp)
+![Democratic governance of frontier AI, part II: Empowering cyber defenders — Cover](https://images.ctfassets.net/kftzwdyauwt9/7s66NRbeeddt0jh03kqYVr/e24d600e7890401b9ee82255ec7cb915/empowering-cyber-defenders-cover.png?w=3840&q=90&fm=webp)
 
-[Priorities and principles for effective third party assessmentsSafetySep 22, 2026](</index/priorities-principles-third-party-assessments/>)
+[Democratic governance of frontier AI, part II: Empowering cyber defendersGlobal AffairsOct 21, 2026](</index/empowering-cyber-defenders/>)
 
-![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
+![OpenAI acquires Orchestra Bio — Cover](https://images.ctfassets.net/kftzwdyauwt9/aCCKzOGT6S74nQ6fkqoiC/f707768c583e7aa12d237c5917080f32/openai-to-acquire-orchestra-bio-cover.png?w=3840&q=90&fm=webp)
 
-[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
+[OpenAI acquires Orchestra BioCompanyOct 20, 2026](</index/openai-to-acquire-orchestra-bio/>)
 
-![Expanding OpenAI Academy with new learning paths — cover](https://images.ctfassets.net/kftzwdyauwt9/45fB7Wzg6PiQPzz8V49LVr/ef443412e9d5f03f9d5ffcc79aefe18e/expanding-openai-academy-with-new-learning-paths-cover.png?w=3840&q=90&fm=webp)
+![Improving ChatGPT for low-resource programming languages — listing image](https://images.ctfassets.net/kftzwdyauwt9/5nGzHT5se0oEzcJbDGqwyz/5aafc7c71c35b11d713436e853f0b4b0/low-resource-programming-languages-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI Academy with new learning pathsCompanySep 21, 2026](</index/expanding-openai-academy-with-new-learning-paths/>)
+[Advancing coding in low‑resource programming languagesPublicationOct 19, 2026](</index/low-resource-programming-languages/>)
 
 Load more
 
@@ -100,10 +100,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -122,7 +122,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -149,8 +150,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -169,6 +170,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

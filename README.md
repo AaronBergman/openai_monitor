@@ -1,5 +1,51 @@
 # openai_monitor
 
+## 2026-10-22T09-15Z
+
+**Fetch time:** 2026-10-22T09:16Z (sitemap + 1,765 pages) UTC | **Baseline:** 2026-09-28T09-17Z (**24-day gap** — no runs between 09-29 and 10-21)
+
+**TL;DR:** A big catch-up run. Since the last snapshot OpenAI added 101 pages, removed 5, and refreshed the site-wide header/footer, which bumped the `<lastmod>` of 1,664 existing pages (almost all of them changed *only* in the shared navigation: footer now promotes GPT‑6.1 Sol, GPT‑6 Astra, Dots, Plugins, Models and Status; "Open Models" and "Apps SDK" links dropped). The real news is in the additions: **GPT‑6.1 Sol** (near‑Astra quality at ~1/5 the price), **GPT‑6 for all ChatGPT users** with "Intelligent UI", **"dots"** (always‑on agents on GPT‑6 Astra), a **DevDay 2026 recap**, **OpenAI models coming to Google Cloud**, the **Orchestra Bio acquisition**, an **OpenAI Marketplace**, ChatGPT **ads expanding to 26 more countries**, and security posts on a **model‑distillation campaign** and **critical PHP vulnerabilities** found with GPT‑5.6 Sol.
+
+### ⚠️ Anomalies
+
+- **Usage Policies dated in the future:** [`/policies/usage-policies/`](pages/openai.com/policies/usage-policies/index.md) now reads "Effective: November 20, 2026" (was Oct 29, 2025), with a changelog entry of 2026‑10‑21 clarifying that OpenAI outputs can't be used to train other models, plus new limits on licensed‑professional advice and on national‑security/law‑enforcement use. Published ~4 weeks before it takes effect; likely related to the distillation‑campaign post.
+- **33 `<lastmod>` values land 0–45 s *after* my run‑start clock** (many old model posts: GPT‑4, 4.5, 5, 5.3, 5.4, 5.5, 5.6, o3/o4‑mini, DALL·E 3…). Interpretation: OpenAI was regenerating pages during the fetch — consistent with the template rollout above — not a true future claim.
+- **7 new URLs with lastmod 12–21 days before I first saw them** (expected given the 24‑day gap): `/codex-originals/`, `/devday/2026/`, `/form/private-intelligence-interest/`, `/form/sign-in-with-chatgpt-interest/`, `/business/learn/board-guide-cybersecurity-ai/`, `/index/basis-tax-workbook-with-astra/`, `/index/lenfest-ai-collaborative-expansion/`.
+- **3 URLs vanished and returned:** `/business/plugins/alpaca/`, `/form/codex-ambassadors/` (gone since June), `/policies/row-privacy-policy/` (gone since May).
+- No backwards `<lastmod>` moves.
+
+Full detail in [`runs/2026-10-22T09-15Z/analysis.md`](runs/2026-10-22T09-15Z/analysis.md).
+
+### Notable additions
+
+- [GPT‑6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md) — matches GPT‑6 Astra on DeepSWE v1.1 at ~1/5 the cost; cached input $0.10/M tokens.
+- [GPT‑6 and Intelligent UI for everyone](pages/openai.com/index/gpt-6-for-everyone/index.md) — a GPT‑6 model for all ~1.2B weekly ChatGPT users; answers can be interactive UIs.
+- [Introducing dots](pages/openai.com/index/introducing-dots/index.md) — persistent agents with their own cloud computer, 4,000+ app connections, usable via ChatGPT/Slack/Teams.
+- [DevDay 2026 Recap](pages/openai.com/index/devday-2026-recap/index.md) (20+ announcements) and [DevDay sessions](pages/openai.com/devday/2026/index.md); [GPT‑6 model guide](pages/openai.com/index/practical-guide-building-gpt-6/index.md).
+- [OpenAI models are coming to Google Cloud](pages/openai.com/index/openai-models-google-cloud/index.md) (Model Garden, with Codex) + [access form](pages/openai.com/form/openai-on-google-cloud/index.md); [Atlassian partnership](pages/openai.com/index/atlassian-partnership/index.md).
+- [OpenAI acquires Orchestra Bio](pages/openai.com/index/openai-to-acquire-orchestra-bio/index.md) (drug‑development coordination, joins Rosalind); [Rosalind academic plan](pages/openai.com/index/introducing-the-rosalind-academic-plan/index.md).
+- [OpenAI Marketplace](pages/openai.com/business/marketplace/index.md) — apply existing OpenAI commitment to partner products; new plugin pages (Atlassian, WordPress.com, Jetpack, Alpaca, Sandstone, Spacefast) and partner pages (Bishop Fox, SpecterOps, TrustedSec, Insight, MegazoneCloud, Affinda).
+- Ads: [26 new countries / 100k+ advertisers](pages/openai.com/index/chatgpt-ads-expands-26-new-countries/index.md), [new formats & measurement](pages/openai.com/index/new-chatgpt-ads-format-and-measurement/index.md), [ad‑stack engineering post](pages/openai.com/index/building-chatgpt-ad-stack/index.md), [Brazil advertising terms](pages/openai.com/policies/brazil-advertising-terms/index.md).
+- Sign in with ChatGPT: [terms](pages/openai.com/policies/sign-in-with-chatgpt-terms/index.md) and [interest form](pages/openai.com/form/sign-in-with-chatgpt-interest/index.md); [Private Intelligence interest form](pages/openai.com/form/private-intelligence-interest/index.md); [Codex Originals](pages/openai.com/codex-originals/index.md).
+- Security/safety: [model‑distillation campaign disrupted](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md), [AI‑enabled "false front" operations](pages/openai.com/index/disrupting-ai-enabled-false-front-operations/index.md), [Patch the Planet — PHP vulnerabilities](pages/openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/index.md), [safety cases for frontier training](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md), [EU text provenance](pages/openai.com/index/eu-text-provenance/index.md).
+- ~35 customer stories (Albertsons, AT&T, Oracle, Jump Trading, Itaú, Sullivan & Cromwell, Cloudflare, Sophos, SentinelOne, Block, Asana, …) and 19 `/business/learn/*` guides.
+
+### Notable updates
+
+- **Global nav/footer refresh** on all 1,664 updated pages (see TL;DR) — template change, not content edits.
+- [Usage Policies](pages/openai.com/policies/usage-policies/index.md) — see anomaly above.
+- [Privacy policy](pages/openai.com/policies/privacy-policy/index.md) — "Last updated" Sep 10 → Oct 7, 2026; advertiser/data‑partner language reworded. Another policy updated Oct 14, 2026.
+- [Supplier code of conduct](pages/openai.com/policies/supplier-code/index.md) — rewritten: anti‑corruption now covers facilitating payments, new sanctions/export‑controls clause, risk‑based management‑system requirement.
+
+### Removed pages
+
+- `/business/partners/pathfindr/` (renamed → [Affinda](pages/openai.com/business/partners/affinda/index.md)); `/business/plugins/atlassian-rovo/` (→ Atlassian plugin pages); `/business/plugins/wordpress-com/` and `/business/plugins/mcp-server-for-wordpress/` (→ WordPress/Jetpack pages); `/form/ultrafast/`.
+
+_Stats: 2081 total URLs | 101 added | 1664 updated | 5 removed | 43 anomalies listed in diff.json (10 substantive/notable + 33 fetch‑window timestamps) | 43 sub-sitemaps_
+
+---
+
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)
@@ -27,7 +73,7 @@ None this run.
 
 None this run.
 
-_Stats: 1985 total URLs | 0 added | 35 updated (7 real, mostly cosmetic/nav) | 0 removed | 0 anomalies | 42 sub-sitemaps_
+_Stats: 1985 total URLs | 0 added | 35 updated (7 real, mostly cosmetic/nav) | 0 removed | 0 anomalies | 43 sub-sitemaps_
 
 ---
 
@@ -55,7 +101,7 @@ None — all 21 `<lastmod>`-bumped pages ([full list in analysis.md](runs/2026-0
 
 None this run.
 
-_Stats: 1985 total URLs | 0 added | 21 updated (0 real content changes) | 0 removed | 0 anomalies | 42 sub-sitemaps_
+_Stats: 1985 total URLs | 0 added | 21 updated (0 real content changes) | 0 removed | 0 anomalies | 43 sub-sitemaps_
 
 ---
 
@@ -92,7 +138,7 @@ Full detail in [`runs/2026-09-26T09-15Z/analysis.md`](runs/2026-09-26T09-15Z/ana
 
 None this run.
 
-_Stats: 1985 total URLs | 1 added | 300 updated (123 real content changes, of which 80 were pure related-articles carousel rotation) | 0 removed | 1 anomaly | 42 sub-sitemaps_
+_Stats: 1985 total URLs | 1 added | 300 updated (123 real content changes, of which 80 were pure related-articles carousel rotation) | 0 removed | 1 anomaly | 43 sub-sitemaps_
 
 ---
 
@@ -126,7 +172,7 @@ Full detail in [`runs/2026-09-25T09-16Z/analysis.md`](runs/2026-09-25T09-16Z/ana
 
 23 pages, all `/business/plugins/<slug>/`: academic-writing-toolkit, accuratescribe, alpaca, appdeploy, build-web-data-visualization, fieldy, floot, forms-ai, gsc-seo-and-content-planner, hatchable, mailopoly-inbox, make, peach-for-whatsapp-business, pocket-ai, prompt-perfect, shipstatic, spinach-ai, to3d, voder, weavely-forms-and-surveys, werify, whisper-transcribe-ai, wpwriter. See Anomaly #1 above.
 
-_Stats: 1984 total URLs | 0 added | 435 updated (143 real content changes + 292 pure `<lastmod>`-only noise) | 23 removed | 2 anomalies | 42 sub-sitemaps_
+_Stats: 1984 total URLs | 0 added | 435 updated (143 real content changes + 292 pure `<lastmod>`-only noise) | 23 removed | 2 anomalies | 43 sub-sitemaps_
 
 ---
 
@@ -164,7 +210,7 @@ Full detail in [`runs/2026-09-24T09-16Z/analysis.md`](runs/2026-09-24T09-16Z/ana
 
 None this run.
 
-_Stats: 2007 total URLs | 10 added | 241 updated (3 real content changes + 2 fetch-rendering anomalies + 56 known-rollout continuations + 180 pure noise) | 0 removed | 2 anomalies (both fetch-quality, not real site changes) | 42 sub-sitemaps_
+_Stats: 2007 total URLs | 10 added | 241 updated (3 real content changes + 2 fetch-rendering anomalies + 56 known-rollout continuations + 180 pure noise) | 0 removed | 2 anomalies (both fetch-quality, not real site changes) | 43 sub-sitemaps_
 
 ---
 
@@ -197,7 +243,7 @@ Full detail in [`runs/2026-09-23T09-15Z/analysis.md`](runs/2026-09-23T09-15Z/ana
 
 None this run.
 
-_Stats: 1997 total URLs | 4 added | 566 updated (214 plugin-rebrand + 97 footer-nav-only + ~253 recirculation noise + 2 fetch-rendering anomalies) | 0 removed | 2 anomalies (both fetch-quality, not real site changes) | 42 sub-sitemaps_
+_Stats: 1997 total URLs | 4 added | 566 updated (214 plugin-rebrand + 97 footer-nav-only + ~253 recirculation noise + 2 fetch-rendering anomalies) | 0 removed | 2 anomalies (both fetch-quality, not real site changes) | 43 sub-sitemaps_
 
 ---
 
@@ -238,7 +284,7 @@ Full detail in [`runs/2026-09-22T09-16Z/analysis.md`](runs/2026-09-22T09-16Z/ana
 
 - **`business/guaranteed-capacity/`** and **`form/guaranteed-capacity/`** — the "OpenAI Guaranteed Capacity" enterprise-compute product page and its lead-gen form both disappeared from the sitemap. Last snapshot preserved in git history; cause unclear (consolidated elsewhere vs. retired offering) — watching for a reappearance.
 
-_Stats: 1993 total URLs | 21 added | 451 updated (81 with visible content diff, 29 substantive) | 2 removed | 7 anomalies (0 of real concern) | 42 sub-sitemaps_
+_Stats: 1993 total URLs | 21 added | 451 updated (81 with visible content diff, 29 substantive) | 2 removed | 7 anomalies (0 of real concern) | 43 sub-sitemaps_
 
 ---
 
@@ -269,7 +315,7 @@ None. 0 new URLs today.
 
 None this run.
 
-_Stats: 1974 total URLs | 0 added | 38 updated (4 with visible content diff, 0 substantive) | 0 removed | 0 anomalies | 42 sub-sitemaps_
+_Stats: 1974 total URLs | 0 added | 38 updated (4 with visible content diff, 0 substantive) | 0 removed | 0 anomalies | 43 sub-sitemaps_
 
 ---
 
@@ -299,7 +345,7 @@ None. 0 new URLs today.
 
 None this run.
 
-_Stats: 1974 total URLs | 0 added | 95 updated (10 with visible content diff) | 0 removed | 0 anomalies | 42 sub-sitemaps_
+_Stats: 1974 total URLs | 0 added | 95 updated (10 with visible content diff) | 0 removed | 0 anomalies | 43 sub-sitemaps_
 
 ---
 
@@ -336,7 +382,7 @@ Full detail in [`runs/2026-09-19T09-15Z/analysis.md`](runs/2026-09-19T09-15Z/ana
 
 None this run.
 
-_Stats: 1974 total URLs | 226 added | 233 updated (109 with visible content diff) | 0 removed | 3 anomalies (2 new sub-sitemap sections + 1 cross-listing addition) | 42 sub-sitemaps_
+_Stats: 1974 total URLs | 226 added | 233 updated (109 with visible content diff) | 0 removed | 3 anomalies (2 new sub-sitemap sections + 1 cross-listing addition) | 43 sub-sitemaps_
 
 ---
 

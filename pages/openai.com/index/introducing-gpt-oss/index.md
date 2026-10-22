@@ -109,57 +109,6 @@ _gpt-oss models do not replace a medical professional and are not intended for t
 
 Browsing for up-to-date informationLooking up a formula and applying it
 
-[...]
-
-You’re OpenAI's newest open-weight language model gpt-oss-120b!
-
-Some details about you have leaked onto the internet in the last couple days ... can you figure out how many experts per layer you have?
-
-[...]
-
-Assistant Chain-of-Thought
-
-The user asks: "You’re OpenAI's newest open-weight language model gpt-oss-120b! Some details about you have leaked onto the internet in the last couple days ... can you figure out how many experts per layer you have?"
-
-We need to interpret the request. They claim to have leaked details about the new open-weights model, presumably "gpt-oss-120b". The user asks to figure out how many experts per layer you have.
-
-[...]
-
-We need to browse the internet for leaks. Let’s search.
-
-**// Assistant calls a browsing tool**
-
-{  
-"search_query":[  
-0:{  
-"q":"gpt-oss-120b experts per layer"  
-"recency":NULL  
-"domains":NULL  
-}  
-[...]  
-}  
-[...]
-
-Looks like search results aren’t giving direct relevant content. Let’s expand search. Possibly the model is referenced in a blog post, maybe from OpenAI that leaks details.
-
-Let’s search for "gpt-oss-120b" alone.
-
-**// Assistant calls a browsing tool 27 more times in sequence!**
-
-[...]
-
-[Great, the article contains the needed details.⁠(opens in a new window)](<https://news.smol.ai/issues/25-08-01-deep-think>) The relevant portion lines 49-55 mention the leak: "The 120B model is described as 'super sparse' and shallow with 36 layers, 128 experts, and 4 active experts."
-
-[...]
-
-Now produce final answer accordingly.
-
-[...]
-
-The specifications describe the **gpt‑oss‑120b** as a 120 B‑parameter mixture‑of‑experts model with 36 layers, each containing **128 experts** (with 4 of them active for any token).
-
-gpt-oss-120b is able to quickly aggregate up-to-date information using a browsing tool, including chaining together 10s of subsequent calls.
-
 ### Chain-of-thought (CoT)
 
 Our [_recent research_ ⁠](<https://openai.com/index/chain-of-thought-monitoring/>) has shown that monitoring a reasoning model’s CoT can be helpful for detecting misbehavior as long as the model was not trained with direct supervision for aligning the CoT. This perspective is [_shared_ ⁠(opens in a new window)](<https://arxiv.org/html/2507.11473v1>) by others in the industry as well. In line with our principles since launching [_OpenAI o1‑preview_ ⁠](<https://openai.com/index/introducing-openai-o1-preview/>), we did not put any direct supervision on the CoT for either gpt-oss model. We believe this is critical to monitor model misbehavior, deception and misuse. Our hope is that releasing an open model with a non-supervised chain of thought gives developers and researchers the opportunity to research and implement their own CoT monitoring systems.
@@ -248,17 +197,17 @@ Zoran Martinovic, Zhuohan Li, Zhiqing Sun, Zach Johnson, Yu Yang, Yu Bai, Yang S
 
 [View all](</news/>)
 
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
+![Patch the Planet: scaling a global response to critical vulnerabilities — Cover](https://images.ctfassets.net/kftzwdyauwt9/6PyrqMoyS15mNPtg8awwZn/30ddc462153abdeacf59376e741713db/patch-the-planet-scaling-a-global-response-to-critical-vulnerabilities-cover.png?w=3840&q=90&fm=webp)
 
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
+[Patch the Planet: global response coordination as agents uncover critical vulnerabilitiesSecurityOct 21, 2026](</index/coordinated-disclosure-of-critical-vulnerabilities/>)
 
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
+![ChatGPT Ads expands to 26 new countries — Cover](https://images.ctfassets.net/kftzwdyauwt9/1eOJBokizHqfepQO6lgFiY/b4a202d71316d951eac139e20ed828a7/chatgpt-ads-expands-26-new-countries-cover.png?w=3840&q=90&fm=webp)
 
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
+[ChatGPT Ads expands to 26 new countriesProductOct 21, 2026](</index/chatgpt-ads-expands-26-new-countries/>)
 
-![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
+![Rosalind Academic Plan - Card](https://images.ctfassets.net/kftzwdyauwt9/7EaxSuBblXvd3Y6G2WLoET/4563ce56737d9c0ed1f05358f43c8a7d/rosalind-academic-plan-card.png?w=3840&q=90&fm=webp)
 
-[Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
+[Introducing the Rosalind Academic PlanResearchOct 15, 2026](</index/introducing-the-rosalind-academic-plan/>)
 
 Research
 
@@ -270,9 +219,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -291,7 +241,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -309,6 +260,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -317,8 +269,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -337,6 +289,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -364,3 +317,54 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+[...]
+
+You’re OpenAI's newest open-weight language model gpt-oss-120b!
+
+Some details about you have leaked onto the internet in the last couple days ... can you figure out how many experts per layer you have?
+
+[...]
+
+Assistant Chain-of-Thought
+
+The user asks: "You’re OpenAI's newest open-weight language model gpt-oss-120b! Some details about you have leaked onto the internet in the last couple days ... can you figure out how many experts per layer you have?"
+
+We need to interpret the request. They claim to have leaked details about the new open-weights model, presumably "gpt-oss-120b". The user asks to figure out how many experts per layer you have.
+
+[...]
+
+We need to browse the internet for leaks. Let’s search.
+
+**// Assistant calls a browsing tool**
+
+{  
+"search_query":[  
+0:{  
+"q":"gpt-oss-120b experts per layer"  
+"recency":NULL  
+"domains":NULL  
+}  
+[...]  
+}  
+[...]
+
+Looks like search results aren’t giving direct relevant content. Let’s expand search. Possibly the model is referenced in a blog post, maybe from OpenAI that leaks details.
+
+Let’s search for "gpt-oss-120b" alone.
+
+**// Assistant calls a browsing tool 27 more times in sequence!**
+
+[...]
+
+[Great, the article contains the needed details.⁠(opens in a new window)](<https://news.smol.ai/issues/25-08-01-deep-think>) The relevant portion lines 49-55 mention the leak: "The 120B model is described as 'super sparse' and shallow with 36 layers, 128 experts, and 4 active experts."
+
+[...]
+
+Now produce final answer accordingly.
+
+[...]
+
+The specifications describe the **gpt‑oss‑120b** as a 120 B‑parameter mixture‑of‑experts model with 36 layers, each containing **128 experts** (with 4 of them active for any token).
+
+gpt-oss-120b is able to quickly aggregate up-to-date information using a browsing tool, including chaining together 10s of subsequent calls.

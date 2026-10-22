@@ -43,8 +43,11 @@ As AI capabilities continue to advance, so has the need for a new class of physi
 This new initiative will focus on three core efforts: 
 
   * **Designing for multiple generations of data center hardware:** OpenAI and Foxconn will co-design, engineer, and develop multiple generations of AI data center racks in parallel to keep pace with rapidly advancing model needs. By combining OpenAI’s infrastructure roadmap with Foxconn’s engineering and manufacturing expertise, we can bring new systems online faster and secure capacity for long-term growth.
+
   * **Strengthening and simplifying the U.S. AI supply chain:** Together, we will work to improve rack architecture so it can be manufactured across the U.S., broaden sourcing to include more chipsets and domestic suppliers, and expand localized testing and assembly. This will improve reliability, speed deployment, and strengthen the ecosystem, building a more resilient and scalable American supply chain.
+
   * **Building critical AI data center components in the U.S.:** Foxconn will manufacture key equipment for AI data centers—including cabling, networking, cooling, and power systems—in the U.S. This will support the rapid construction of high-performance compute infrastructure and help ensure the economic benefits reach workers and manufacturers in order to meet the demands of AI workloads today and in the future.
+
 
 
 
@@ -65,17 +68,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![Broad access through consistent standards — Cover](https://images.ctfassets.net/kftzwdyauwt9/5yeylkVM0cZ2W6k2lcnVyE/42a8333bccf5064328630ebf7c667082/broad-access-through-consistent-standards-cover.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[Broad access through consistent standardsSafetyOct 21, 2026](</index/broad-access-through-consistent-standards/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![OpenAI models are coming to Google Cloud — Cover](https://images.ctfassets.net/kftzwdyauwt9/QNIwW66RjOZ1CQM0LY7VE/46aaeb846de358274805964ce0899b49/openai-models-coming-to-google-cloud-cover.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[OpenAI models are coming to Google CloudCompanyOct 21, 2026](</index/openai-models-google-cloud/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![OpenAI acquires Orchestra Bio — Cover](https://images.ctfassets.net/kftzwdyauwt9/aCCKzOGT6S74nQ6fkqoiC/f707768c583e7aa12d237c5917080f32/openai-to-acquire-orchestra-bio-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[OpenAI acquires Orchestra BioCompanyOct 20, 2026](</index/openai-to-acquire-orchestra-bio/>)
 
 Research
 
@@ -87,9 +90,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -108,7 +112,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -126,6 +131,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -134,8 +140,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -154,6 +160,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

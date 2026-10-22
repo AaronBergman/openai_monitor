@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.paypal.com>)
 
-[![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)PayPal Create an invoice for $1500 to John Doe email:john@example.com for web design services(opens in a new window)](<https://chatgpt.com/?prompt=%40PayPal+Create+an+invoice+for+%241500+to+John+Doe+email%3Ajohn%40example.com+for+web+design+services>)
+[![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)PayPal Create an invoice for $1500 to John Doe email:john@example.com for web design services(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a9b5923744081919700d462374ad1b6?install&prompt=Create%20an%20invoice%20for%20%241500%20to%20John%20Doe%20email%3Ajohn%40example.com%20for%20web%20design%20services>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Manage your business and develop your payments integration.
 
 ![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)PayPal Create an invoice for $1500 to John Doe email:john@example.com for web design services
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40PayPal+Create+an+invoice+for+%241500+to+John+Doe+email%3Ajohn%40example.com+for+web+design+services>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a9b5923744081919700d462374ad1b6?install&prompt=Create%20an%20invoice%20for%20%241500%20to%20John%20Doe%20email%3Ajohn%40example.com%20for%20web%20design%20services&surface=work>)
 
   * ### Create a product payment link
 
 ![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)PayPal Create a payment link for a handmade ceramic mug priced at $35, with the description 'Hand-thrown ceramic mug, dishwasher safe.'
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40PayPal+Create+a+payment+link+for+a+handmade+ceramic+mug+priced+at+%2435%2C+with+the+description+%27Hand-thrown+ceramic+mug%2C+dishwasher+safe.%27>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a9b5923744081919700d462374ad1b6?install&prompt=Create%20a%20payment%20link%20for%20a%20handmade%20ceramic%20mug%20priced%20at%20%2435%2C%20with%20the%20description%20'Hand-thrown%20ceramic%20mug%2C%20dishwasher%20safe.'&surface=work>)
 
   * ### Review monthly payment activity
 
 ![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)![](https://files.openai.com/content?id=file_000000001f24820c8690d15377467396&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=488863f4dc57b6c8bf9c24411bc4dee7c68f9fb3d834d3e153b8cc66c609e437&v=0)PayPal Summarize my PayPal activity last month: transactions, disputes, invoice status.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40PayPal+Summarize+my+PayPal+activity+last+month%3A+transactions%2C+disputes%2C+invoice+status.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a9b5923744081919700d462374ad1b6?install&prompt=Summarize%20my%20PayPal%20activity%20last%20month%3A%20transactions%2C%20disputes%2C%20invoice%20status.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Manage your business and develop your payments integration.
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://www.paypal.com/us/cshelp/contact-us>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.paypal.com/us/cshelp/contact-us>)
 
-### [Privacy policyLearn more](<https://www.paypal.com/us/legalhub/paypal/privacy-full>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.paypal.com/us/legalhub/paypal/privacy-full>)
 
 ## Add the PayPal plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)Intuit QuickBooksBusiness finances made simple](</business/plugins/quickbooks/>)[![](https://files.openai.com/content?id=file_00000000c8c881f6b1898c574dac4e10&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=5893839a27316a5af69bb3d001943b0ec293a3c64279d9ec08803564a1d9b16b&v=0)![](https://files.openai.com/content?id=file_000000006ab081f793cba420e30fd6aa&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=abab6e040ce7a4e418276d0f37dcc1cfe7194cf719a08826f8b043598e18c0f9&v=0)ShopifyCreate and manage your store](</business/plugins/shopify/>)[![](https://files.openai.com/content?id=file_00000000679472069fa7c35ce5919579&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=38636a046f717091f234b4cacc5910c1314058595218bebbe09a395bf5f680c1&v=0)![](https://files.openai.com/content?id=file_00000000679472069fa7c35ce5919579&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=38636a046f717091f234b4cacc5910c1314058595218bebbe09a395bf5f680c1&v=0)StripeUse the Stripe plugin for ChatGPT to analyze live revenue, customers, subscriptions, disputes, and refunds, and build payment integrations.](</business/plugins/stripe/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)Intuit QuickBooksBusiness finances made simple](</business/plugins/quickbooks/>)[![](https://files.openai.com/content?id=file_00000000c8c881f6b1898c574dac4e10&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=5893839a27316a5af69bb3d001943b0ec293a3c64279d9ec08803564a1d9b16b&v=0)![](https://files.openai.com/content?id=file_000000006ab081f793cba420e30fd6aa&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=abab6e040ce7a4e418276d0f37dcc1cfe7194cf719a08826f8b043598e18c0f9&v=0)ShopifyCreate and manage your store](</business/plugins/shopify/>)[![](https://files.openai.com/content?id=file_00000000679472069fa7c35ce5919579&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=38636a046f717091f234b4cacc5910c1314058595218bebbe09a395bf5f680c1&v=0)![](https://files.openai.com/content?id=file_00000000679472069fa7c35ce5919579&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=38636a046f717091f234b4cacc5910c1314058595218bebbe09a395bf5f680c1&v=0)StripeUse the Stripe plugin for ChatGPT to analyze live revenue, customers, subscriptions, disputes, and refunds, and build payment integrations](</business/plugins/stripe/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

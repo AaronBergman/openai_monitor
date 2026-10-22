@@ -54,17 +54,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Building shared standards for the next phase of AI - art card](https://images.ctfassets.net/kftzwdyauwt9/aQqo6ytHD8RKLFOAPu3vC/c7189f6ec0853600e0e7110885d03541/building-shared-standards-next-phase-ai-cover.png?w=3840&q=90&fm=webp)
+![Democratic governance of frontier AI, part II: Empowering cyber defenders — Cover](https://images.ctfassets.net/kftzwdyauwt9/7s66NRbeeddt0jh03kqYVr/e24d600e7890401b9ee82255ec7cb915/empowering-cyber-defenders-cover.png?w=3840&q=90&fm=webp)
 
-[Building standards for the next phase of AIGlobal AffairsSep 21, 2026](</index/building-standards-next-phase-ai/>)
+[Democratic governance of frontier AI, part II: Empowering cyber defendersGlobal AffairsOct 21, 2026](</index/empowering-cyber-defenders/>)
 
-![Helping older adults use AI in everyday life — art card](https://images.ctfassets.net/kftzwdyauwt9/6ewlK5oKVHp0phTezeh0rT/2c9454f9757b567c1837e07013ffe2f1/older-adults-art-card-v001.png?w=3840&q=90&fm=webp)
+![The EU’s next chapter in AI is agentic — Cover](https://images.ctfassets.net/kftzwdyauwt9/1KGRRdbE0ggm4hqHd64ywl/f55ce61c0c7e3097ed6ed3744248c343/the-eus-next-chapter-in-ai-is-agentic-cover.png?w=3840&q=90&fm=webp)
 
-[Helping older adults use AI in everyday lifeGlobal AffairsSep 16, 2026](</index/helping-older-adults-use-ai-in-everyday-life/>)
+[Europe’s opportunity to deepen AI useGlobal AffairsOct 14, 2026](</index/the-eus-next-chapter-in-ai-is-agentic/>)
 
-![How workers are turning AI experimentation into new ways of working > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2jmyTNjTKCj9B3jyQBjFMr/24da3865e110be70e6e93b196cfd752c/blog-art-card-option040-v001.png?w=3840&q=90&fm=webp)
+![Helping small businesses put AI to work — card](https://images.ctfassets.net/kftzwdyauwt9/7DQxQ61fzFDJjB09z1T6Xx/41d00e7e9ad08ba9fdd9f4d69071a3e8/helping-small-businesses-put-ai-to-work-cover.png?w=3840&q=90&fm=webp)
 
-[How workers are unlocking new ways of workingGlobal AffairsSep 16, 2026](</index/unlocking-new-ways-of-working/>)
+[Helping small businesses put AI to workGlobal AffairsSep 30, 2026](</index/helping-small-businesses-put-ai-to-work/>)
 
 Research
 
@@ -76,10 +76,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -98,7 +98,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -125,8 +126,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -145,6 +146,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

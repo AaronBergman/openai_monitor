@@ -71,8 +71,11 @@ Voice AI only feels natural if conversation moves at the speed of speech. When t
 At OpenAI’s scale, that translates into three concrete requirements:
 
   * Global reach for more than 900 million weekly active users
+
   * Fast connection setup so a user can start speaking as soon as a session begins
+
   * Low and stable media round-trip time, with low jitter and packet loss, so turn-taking feels crisp
+
 
 
 
@@ -111,7 +114,9 @@ After choosing the transceiver model, our first implementation was a single Go s
 Operationally, the transceiver service does two jobs:
 
   * Signaling: SDP negotiation, codec selection, ICE credentials, and session setup
+
   * Media: Terminating downstream WebRTC connections and maintaining upstream connections to backend services for inference and orchestration
+
 
 
 
@@ -122,8 +127,11 @@ We wanted the service to run like the rest of our infrastructure: on Kubernetes,
 The first problem was the one-port-per-session model itself. At high concurrency, that means exposing and managing very large UDP port ranges.
 
   * Cloud load balancers and Kubernetes services are not designed around tens of thousands of public UDP ports per service. Each additional range adds operational complexity in load balancer config, health checking, firewall policy, and rollout safety.3
+
   * Large UDP port ranges are hard to secure because they expand the externally reachable surface area and make network policy harder to audit.
+
   * They’re also a poor fit for autoscaling. Pods are constantly added, removed, and rescheduled in Kubernetes. Requiring each pod to reserve and advertise a large stable port range makes that elasticity brittle.4
+
 
 
 
@@ -190,16 +198,22 @@ We wrote the relay service in Go and kept the implementation narrow on purpose. 
 Key design choices:
 
   * **No protocol termination:** Relay parses only STUN headers/ufrag; it uses cached state for subsequent DTLS, RTP, and RTCP, keeping packets opaque.
+
   * **Ephemeral state:** It maintains a small, short-timeout, in-memory map of client address to transceiver destination for flow state and observability.
+
   * **Horizontal scalability:** Multiple relay instances run in parallel behind a load balancer. State is not hard WebRTC state, so restarts cause minimal traffic drops and quick flow recovery.
+
 
 
 
 Efficiency measures:
 
   * `SO_REUSEPORT` is a Linux socket option that allows multiple relay workers on the same machine to bind the same UDP port. The kernel then distributes incoming packets across those workers, which avoids a single read-loop bottleneck.
+
   * `runtime.LockOSThread` pins each UDP-reading goroutine to a specific OS thread. Combined with `SO_REUSEPORT`, that tends to keep packets from the same flow (the source and destination IP:Port plus protocol) on the same CPU core, improving cache locality and reducing context switching.
+
   * Pre-allocated buffers and minimal copying keep parsing and allocation overhead low to avoid garbage collection in Go.
+
 
 
 
@@ -214,9 +228,13 @@ The broader lesson is that the best place to add complexity is in a thin routing
 A few choices were especially important:
 
   * Preserve protocol semantics at the edge. Clients still speak standard WebRTC, which keeps browser and mobile interoperability intact.
+
   * Keep hard session states in one place. Transceiver owns ICE, DTLS, SRTP, and session lifecycle; relay only forwards packets.
+
   * Route on information already present in setup. The ICE ufrag gave us a first-packet routing hook without adding a hot-path lookup dependency.
+
   * Optimize for the common case before reaching for kernel bypass. A narrow Go implementation with careful use of `SO_REUSEPORT`, thread pinning, and low-allocation parsing was enough for our workload.
+
 
 
 
@@ -226,7 +244,7 @@ Real-time voice AI only works when infrastructure makes latency feel invisible. 
 
 
 
-## Author
+## Authors
 
 Yi Zhang, William McDonald
 
@@ -248,17 +266,17 @@ Yi Zhang, William McDonald
 
 [View all](</news/>)
 
+![Rethinking the ad stack around a new user journey — Art card](https://images.ctfassets.net/kftzwdyauwt9/3aewhPPb5NQ5IqOKEkrtzA/7209065f6e6ccf3a0476b43feb8336e1/rethinking-ads-card.png?w=3840&q=90&fm=webp)
+
+[How we built ChatGPT’s novel ad stack for user trust and relevanceEngineeringOct 21, 2026](</index/building-chatgpt-ad-stack/>)
+
+![Scaling Storage for 1 Billion ChatGPT Users \(Part I\) card image](https://images.ctfassets.net/kftzwdyauwt9/2X23NOb0P4V1KDzUBkeNpl/888204b45a1c84ddfa24c9ed31111a9c/OAI_HabitatPT1_Art_Card_1x1.png?w=3840&q=90&fm=webp)
+
+[Rapidly scaling online storage to serve over 1 billion ChatGPT usersEngineeringSep 11, 2026](</index/scaling-storage-one-billion-users-part-one/>)
+
 ![Jalapeño inference — Art Card](https://images.ctfassets.net/kftzwdyauwt9/26K8mLbrpbaDvoFY0NrE04/8e4ad0b3f28042c22d6d5130bd4f4019/jalapeno-art-card.png?w=3840&q=90&fm=webp)
 
 [Jalapeño’s first results show industry-leading speed and efficiency in AI inferenceEngineeringAug 25, 2026](</index/jalapeno-first-results/>)
-
-![Continuous voice interaction with GPT Live - art card](https://images.ctfassets.net/kftzwdyauwt9/3PyfDzfjOozLbJnaZIkRLD/6aef080bb4e7d6a6b8a6dc23436848db/gpt-live-art-card.png?w=3840&q=90&fm=webp)
-
-[Continuous voice interaction with GPT LiveEngineeringAug 3, 2026](</index/continuous-voice-interaction-with-gpt-live/>)
-
-![GPT-5.6 efficiency article — art card](https://images.ctfassets.net/kftzwdyauwt9/5ExPWhZDZXbZgTHE7aeE5d/0526071f749a3b44adff3c45a12322b7/How_GPT-5.6_fuses_frontier_intelligence_with_frontier_efficiency_ART_CARD__1_.png?w=3840&q=90&fm=webp)
-
-[How GPT-5.6 fuses frontier intelligence with frontier efficiencyEngineeringJul 29, 2026](</index/gpt-5-6-frontier-intelligence-efficiency/>)
 
 Research
 
@@ -270,9 +288,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -291,7 +310,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -309,6 +329,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -317,8 +338,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -337,6 +358,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

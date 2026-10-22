@@ -49,16 +49,27 @@ It also refines and adds new provisions that enable each company to independentl
 What has evolved:
 
   * Once AGI is declared by OpenAI, that declaration will now be verified by an independent expert panel.
+
   * Microsoft’s IP rights for both models and products are extended through 2032 and now includes models post-AGI, with appropriate safety guardrails. 
+
   * Microsoft’s IP rights to research, defined as the confidential methods used in the development of models and systems, will remain until either the expert panel verifies AGI or through 2030, whichever is first. Research IP includes, for example, models intended for internal deployment or research only. Beyond that, research IP does not include model architecture, model weights, inference code, finetuning code, and any IP related to data center hardware and software; and Microsoft retains these non-Research IP rights.
+
   * Microsoft’s IP rights now exclude OpenAI’s consumer hardware. 
+
   * OpenAI can now jointly develop some products with third parties. API products developed with third parties will be exclusive to Azure. Non-API products may be served on any cloud provider.
+
   * Microsoft can now independently pursue AGI alone or in partnership with third parties.
+
   * If Microsoft uses OpenAI’s IP to develop AGI, prior to AGI being declared, the models will be subject to compute thresholds; those thresholds are significantly larger than the size of systems used to train leading models today. 
+
   * The revenue share agreement remains until the expert panel verifies AGI, though payments will be made over a longer period of time.
+
   * OpenAI has contracted to purchase an incremental $250B of Azure services, and Microsoft will no longer have a right of first refusal to be OpenAI’s compute provider.
+
   * OpenAI can now provide API access to US government national security customers, regardless of the cloud provider.
+
   * OpenAI is now able to release open weight models that meet requisite capability criteria.
+
 
 
 
@@ -76,15 +87,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![Broad access through consistent standards — Cover](https://images.ctfassets.net/kftzwdyauwt9/5yeylkVM0cZ2W6k2lcnVyE/42a8333bccf5064328630ebf7c667082/broad-access-through-consistent-standards-cover.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[Broad access through consistent standardsSafetyOct 21, 2026](</index/broad-access-through-consistent-standards/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![OpenAI models are coming to Google Cloud — Cover](https://images.ctfassets.net/kftzwdyauwt9/QNIwW66RjOZ1CQM0LY7VE/46aaeb846de358274805964ce0899b49/openai-models-coming-to-google-cloud-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[OpenAI models are coming to Google CloudCompanyOct 21, 2026](</index/openai-models-google-cloud/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![OpenAI acquires Orchestra Bio — Cover](https://images.ctfassets.net/kftzwdyauwt9/aCCKzOGT6S74nQ6fkqoiC/f707768c583e7aa12d237c5917080f32/openai-to-acquire-orchestra-bio-cover.png?w=3840&q=90&fm=webp)
+
+[OpenAI acquires Orchestra BioCompanyOct 20, 2026](</index/openai-to-acquire-orchestra-bio/>)
 
 Research
 
@@ -96,9 +109,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -117,7 +131,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -135,6 +150,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -143,8 +159,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -163,6 +179,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

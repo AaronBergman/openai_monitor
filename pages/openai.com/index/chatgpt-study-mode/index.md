@@ -98,6 +98,166 @@ _“The best way I’d describe it is a live, 24/7, all-knowing “office hours.
 
 Parker Jones (Game Theory)Praja Tickoo (Accounting)Nolan Windham (Bayes' Theorem)Cecily Chung (Discrete Mathematics)
 
+## Getting started 
+
+Study mode is especially useful for homework help, test prep, and learning new topics. To try it, select “Study and learn” from tools in ChatGPT and ask a question. 
+
+Working through a homework problemPrepping for an exam
+
+## Limitations and what’s next
+
+This is a first step in a longer journey to improve learning in ChatGPT. Today, study mode is powered by custom system instructions. We chose this approach because it lets us quickly learn from real student feedback and improve the experience—even if it results in some inconsistent behavior and mistakes across conversations. We plan on training this behavior directly into our main models once we’ve learned what works best through iteration and student feedback. 
+
+We’re also exploring functionality to make study mode more engaging and helpful for students including:
+
+  * Clearer visualizations for complex or text-heavy concepts
+
+  * Goal setting and progress tracking across conversations
+
+  * Deeper personalization tailored to each student’s skill level and goals
+
+
+
+
+The research landscape is still taking shape on the best ways to apply AI in education. OpenAI is enabling further research on learning and AI through various partners in its [_NextGenAI_ ⁠](<https://openai.com/index/introducing-nextgenai/>) initiative, and working with experts from the SCALE Initiative at [_Stanford University’s Accelerator for Learning_ ⁠(opens in a new window)](<https://scale.stanford.edu/research-in-action/how-chatgpt-impacting-schools>) to study and share**** how AI tools influence learning outcomes in areas like K-12 education.
+
+As we run longer-term studies on how students learn best with AI, we intend to publish a deeper analysis of what we’ve learned about the links between model design and cognition, shape future product experiences based on these insights, and work side by side with the broader education ecosystem to ensure AI benefits learners worldwide.
+
+  * [2025](</news/?tags=2025>)
+  * [ChatGPT](</news/?tags=chatgpt>)
+  * [User Safety & Control](</news/?tags=user-safety>)
+
+
+
+## Author
+
+OpenAI
+
+## Keep reading
+
+[View all](</news/>)
+
+![Patch the Planet: scaling a global response to critical vulnerabilities — Cover](https://images.ctfassets.net/kftzwdyauwt9/6PyrqMoyS15mNPtg8awwZn/30ddc462153abdeacf59376e741713db/patch-the-planet-scaling-a-global-response-to-critical-vulnerabilities-cover.png?w=3840&q=90&fm=webp)
+
+[Patch the Planet: global response coordination as agents uncover critical vulnerabilitiesSecurityOct 21, 2026](</index/coordinated-disclosure-of-critical-vulnerabilities/>)
+
+![ChatGPT Ads expands to 26 new countries — Cover](https://images.ctfassets.net/kftzwdyauwt9/1eOJBokizHqfepQO6lgFiY/b4a202d71316d951eac139e20ed828a7/chatgpt-ads-expands-26-new-countries-cover.png?w=3840&q=90&fm=webp)
+
+[ChatGPT Ads expands to 26 new countriesProductOct 21, 2026](</index/chatgpt-ads-expands-26-new-countries/>)
+
+![Rosalind Academic Plan - Card](https://images.ctfassets.net/kftzwdyauwt9/7EaxSuBblXvd3Y6G2WLoET/4563ce56737d9c0ed1f05358f43c8a7d/rosalind-academic-plan-card.png?w=3840&q=90&fm=webp)
+
+[Introducing the Rosalind Academic PlanResearchOct 15, 2026](</index/introducing-the-rosalind-academic-plan/>)
+
+Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+Products
+
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
+  * [Release Notes](</products/release-notes/>)
+
+
+
+API Platform
+
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
+
+
+
+Business
+
+  * [Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Careers](</careers/>)
+  * [News](</news/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
+
+
+
+More
+
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States
+
 I want to learn about Game Theory, specifically the broad spectrum that the field entails, then also the ways in which you think it’d be useful for me to understand in my daily life. I want you to of course follow my curiousity, but mostly you will be teaching me about it, and keeping a high level plan to iterate through so I can cover the full scope here. I will ask questions when I am curious, but be deadset on quickly educating me on this. 
 
 Perfect. Here’s the high-level plan I’ll drive us through—think of it as a layered roadmap from foundational ideas to practical intuition:
@@ -112,19 +272,26 @@ Perfect. Here’s the high-level plan I’ll drive us through—think of it as a
 
 
 
+
 **2\. Types of Games**
 
   * Cooperative vs non-cooperative
+
   * Simultaneous vs sequential
+
   * Zero-sum vs non-zero-sum
+
 
 
 
 **3\. Basic Concepts**
 
   * Players, strategies, payoffs, information
+
   * Dominant strategies
+
   * Nash equilibrium (core to nearly everything)
+
 
 
 
@@ -135,17 +302,24 @@ Perfect. Here’s the high-level plan I’ll drive us through—think of it as a
 **4\. Famous Games**
 
   * Prisoner’s Dilemma
+
   * Chicken
+
   * Battle of the Sexes
+
   * Stag Hunt
+
   * Matching Pennies
+
 
 
 
 **5\. Mixed Strategy Equilibria**
 
   * When no pure strategy works
+
   * Randomization and expected payoffs
+
 
 
 
@@ -156,21 +330,27 @@ Perfect. Here’s the high-level plan I’ll drive us through—think of it as a
 **6\. Repeated Games & Folk Theorems**
 
   * Cooperation emerging over time
+
   * Tit for Tat, Grim Trigger, etc.
+
 
 
 
 **7\. Extensive-Form Games**
 
   * Game trees, backward induction
+
   * Subgame Perfect Equilibria
+
 
 
 
 **8\. Bayesian Games**
 
   * Games with incomplete information
+
   * Beliefs, types, and expected utility
+
 
 
 
@@ -184,15 +364,18 @@ Perfect. Here’s the high-level plan I’ll drive us through—think of it as a
 
 
 
+
 **10\. Behavioral Game Theory**
 
   * Bounded rationality, fairness, heuristics
 
 
 
+
 **11\. Daily Life Applications**
 
   * Negotiation, dating, politics, AI systems, etc.
+
 
 
 
@@ -206,9 +389,11 @@ Perfect. Here’s the high-level plan I’ll drive us through—think of it as a
 
 
 
+
 **13\. Algorithmic Game Theory**
 
   * Network effects, internet auctions
+
 
 
 
@@ -218,14 +403,19 @@ Perfect. Here’s the high-level plan I’ll drive us through—think of it as a
 
 
 
+
 * * *
 
 Throughout this, I’ll mix in:
 
   * 🔄 Guided examples
+
   * 🧠 Thought experiments
+
   * 🎭 Real-life situations to map theory onto
+
   * 🧩 Quick checks to make sure ideas are sticking
+
 
 
 
@@ -275,9 +465,13 @@ At its heart, **Game Theory studies strategic interactions** : any situation whe
 Here are the elements every formal game model needs:
 
   * **Players** – The decision-makers.
+
   * **Strategies** – The complete set of actions each player could take.
+
   * **Payoffs** – The outcomes (usually represented numerically) each player receives depending on the combination of strategies chosen.
+
   * **Rules of play** – Whether players move simultaneously or in turns, whether they see each other’s moves, whether they play once or repeatedly.
+
 
 
 
@@ -300,156 +494,3 @@ Next up, I’ll walk through **types of games** (Phase 1 continued), then move i
 Let me know if you want to pause, go deeper, or shift gears—but otherwise I’ll keep pressing forward.
 
 I like the rock paper scissors example. Keep going, connecting to my life where possible. want to internalize this to be a better person/decision maker
-
-## Getting started 
-
-Study mode is especially useful for homework help, test prep, and learning new topics. To try it, select “Study and learn” from tools in ChatGPT and ask a question. 
-
-Working through a homework problemPrepping for an exam
-
-## Limitations and what’s next
-
-This is a first step in a longer journey to improve learning in ChatGPT. Today, study mode is powered by custom system instructions. We chose this approach because it lets us quickly learn from real student feedback and improve the experience—even if it results in some inconsistent behavior and mistakes across conversations. We plan on training this behavior directly into our main models once we’ve learned what works best through iteration and student feedback. 
-
-We’re also exploring functionality to make study mode more engaging and helpful for students including:
-
-  * Clearer visualizations for complex or text-heavy concepts
-  * Goal setting and progress tracking across conversations
-  * Deeper personalization tailored to each student’s skill level and goals
-
-
-
-The research landscape is still taking shape on the best ways to apply AI in education. OpenAI is enabling further research on learning and AI through various partners in its [_NextGenAI_ ⁠](<https://openai.com/index/introducing-nextgenai/>) initiative, and working with experts from the SCALE Initiative at [_Stanford University’s Accelerator for Learning_ ⁠(opens in a new window)](<https://scale.stanford.edu/research-in-action/how-chatgpt-impacting-schools>) to study and share**** how AI tools influence learning outcomes in areas like K-12 education.
-
-As we run longer-term studies on how students learn best with AI, we intend to publish a deeper analysis of what we’ve learned about the links between model design and cognition, shape future product experiences based on these insights, and work side by side with the broader education ecosystem to ensure AI benefits learners worldwide.
-
-  * [2025](</news/?tags=2025>)
-  * [ChatGPT](</news/?tags=chatgpt>)
-  * [User Safety & Control](</news/?tags=user-safety>)
-
-
-
-## Author
-
-OpenAI
-
-## Keep reading
-
-[View all](</news/>)
-
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
-
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
-
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
-
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
-
-![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
-
-[Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
-
-Research
-
-  * [Research Index](</research/index/>)
-  * [Research Overview](</research/>)
-  * [Economic Research](</signals/>)
-
-
-
-Latest Advancements
-
-  * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-
-
-
-Safety
-
-  * [Safety Approach](</safety/>)
-  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
-  * [Security & Privacy](</security-and-privacy/>)
-  * [Trust & Transparency](</trust-and-transparency/>)
-
-
-
-Products
-
-  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
-  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
-  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
-  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
-  * [Release Notes](</products/release-notes/>)
-
-
-
-API Platform
-
-  * [Overview](</api/>)
-  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
-  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
-
-
-
-Business
-
-  * [Overview](</business/>)
-  * [Solutions](</solutions/>)
-  * [Resources](</business/learn/>)
-  * [Customer Stories](</business/customer-stories/>)
-  * [Partner Network](</business/partners/>)
-  * [Contact Sales](</contact-sales/>)
-
-
-
-Developers
-
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
-  * [Docs(opens in a new window)](<https://developers.openai.com/>)
-  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
-
-
-
-Company
-
-  * [About Us](</about/>)
-  * [Our Charter](</charter/>)
-  * [Careers](</careers/>)
-  * [News](</news/>)
-
-
-
-Support
-
-  * [Help Center(opens in a new window)](<https://help.openai.com/>)
-
-
-
-More
-
-  * [Stories](</stories/>)
-  * [Academy](</academy/>)
-  * [Supply Co.](</supply/>)
-  * [Livestreams](</live/>)
-  * [Podcast](</podcast/>)
-  * [RSS](<https://openai.com/news/rss.xml>)
-
-
-
-Terms & Policies
-
-  * [Terms of Use](</policies/terms-of-use/>)
-  * [Privacy Policy](</policies/privacy-policy/>)
-  * [Other Policies ](</policies/>)
-
-
-
-[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
-
-OpenAI © 2015–2026Your privacy choices
-
-EnglishUnited States
