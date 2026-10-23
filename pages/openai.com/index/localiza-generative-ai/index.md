@@ -1,0 +1,331 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+# How Localiza reorganized work around generative AI
+
+For the company, generative AI is more than a productivity layer: it is a new computing interface. That commitment takes shape across three areas—transforming the business, creating new customer interfaces, and building AI-native products.
+
+[Contact sales](</contact-sales/>)
+
+Company size: Enterprise
+
+Region: Latin America
+
+Industry: Travel
+
+Products: ChatGPT, API, Codex
+
+Loading…
+
+Share
+
+A new kind of computing, not a new tool
+
+  * A new kind of computing, not a new tool
+  * Pillar 1: scale enables learning
+  * Pillar 2: customers describe their needs in natural language
+  * Pillar 3: Liza, a product designed around conversation
+  * Learning together, since GPT-3.5
+  * Results overview
+  * Lessons for leaders
+  * Tips
+  * Next steps
+
+
+
+  * A new kind of computing, not a new tool
+  * Pillar 1: scale enables learning
+  * Pillar 2: customers describe their needs in natural language
+  * Pillar 3: Liza, a product designed around conversation
+  * Learning together, since GPT-3.5
+  * Results overview
+  * Lessons for leaders
+  * Tips
+  * Next steps
+
+
+
+## A new kind of computing, not a new tool
+
+When generative AI arrived, Localiza took a view that defined everything that followed: this was more than another piece of software in the toolkit; it was a change in the way the company operates.
+
+Rather than pursuing isolated use cases, the company organized its collaboration with OpenAI around three strategic pillars: transforming the business through experimentation at scale, creating new customer interfaces, and building AI-native products. What connects all three is the decision to redesign processes around intelligence, context, and speed.
+
+> “We see this as a powerful tool that helps our teams do what they already do well. They live our culture, understand our customers’ needs, and know how to deliver great service.”
+
+—André Petenussi, CTO, Localiza
+
+## Pillar 1: scale enables learning
+
+The principle guiding internal adoption is straightforward: scale enables learning, and learning creates better products.
+
+In practice, that meant distributing ChatGPT licenses as a resource for experimentation and productivity, rather than simply as an individual benefit. Teams across Localiza, from finance to day-to-day operations, maintain active experiments with custom GPTs, agents, and Codex.
+
+Codex first arrived in the technology department—software engineers, product managers, designers, and data scientists. But adoption did not stop there: analysts, managers, PMOs, lawyers, and other business specialists began building their own prototypes and automations to test hypotheses within their areas of expertise.
+
+This was an effect the company had not anticipated—a redefinition of the stages before development, with multidisciplinary teams prototyping solutions before they enter a development queue.
+
+The bottleneck, he says, is human rather than technical.
+
+> “The big challenge is helping a large team learn new ways of working and build new skills, while ensuring that all 19 of our tribes and 130 squads work efficiently and consistently.”
+
+—André Petenussi, CTO, Localiza
+
+## Pillar 2: customers describe their needs in natural language
+
+The second area starts with an observation about behavior: people have begun describing what they need in natural language, creating a new entry point for mobility services—at the very moment they express their intent.
+
+Localiza’s internal data confirms this shift: traffic originating from LLMs has been growing rapidly since 2024, with ChatGPT emerging as the main channel.
+
+The company chose to establish a presence in this space early. In March 2026, it became Brazil’s first mobility platform—and one of the first in Latin America—to offer an app integrated directly into ChatGPT. Customers can explore rental, subscription, and used-car options and begin their journey in the conversation, before completing the transaction in Localiza’s secure environment.
+
+> “We believe we’ve been able to serve our customers in these new ways because we took on this challenge early and have kept learning at every step.”
+
+—André Petenussi, CTO, Localiza
+
+Internally, Localiza’s app in ChatGPT is treated as what it is: an experiment designed to keep the company close to the frontier of customer behavior, accelerate learning from real interactions, and explore how AI complements the existing ecosystem.
+
+## Pillar 3: Liza, a product designed around conversation
+
+The company’s clearest example of an AI-native product is Liza, a conversational assistant that has become an established success story in its operations.
+
+The difference from a traditional chatbot lies in the architecture, not the interface. Rather than following a fixed decision tree, Liza was built around conversation, intent, and context: it combines OpenAI models, Localiza services, and specialized tools to support key parts of the experience, from understanding the initial request to assisting with key stages of the rental journey.
+
+The ambition is to handle repetitive journeys with quality and free teams for complex, higher-value interactions.
+
+But success is not measured by the volume of automation.
+
+Localiza was already mapping and measuring its customer service journeys before it had access to this type of technology—and that foundation made it possible to decide clearly where an agent should step in and where a human needs to intervene.
+
+> “We’ve always been committed to making the customer journey as seamless as possible, and we’ve developed metrics to measure the quality of that experience. We track conversion too, of course, but our main focus is the customer experience.”
+
+—André Petenussi, CTO, Localiza
+
+Liza also serves as a continuous learning loop: aggregated, monitored signals from interactions help identify needs, points of friction, and service opportunities. Combined with voice capabilities—voice-to-text and text-to-voice—these signals support its evolution from a transactional chatbot into an AI-native customer interface that can learn and scale across different mobility journeys.
+
+> “This frees up much of the team to tackle more meaningful problems with greater confidence and ease, helping us deliver on our mission for our customers.”
+
+—André Petenussi, CTO, Localiza
+
+## Learning together, since GPT‑3.5
+
+The partnership with OpenAI began early: the first version of Liza still ran on GPT‑3.5.
+
+For Petenussi, the central value of the relationship lies in active learning between two companies evolving in parallel, rather than in a specific feature—with the partner understanding Localiza’s challenges and the different maturity levels of its capabilities, both within and outside technology.
+
+It is an argument he often makes to other companies in the market: with a technology that is still maturing, trial and error and close collaboration have considerable value.
+
+> “We believe we’re still in the early years of a technology that is transforming markets, how we work, and how we use products and services. It will help shape our world over the next 5, 10, and 15 years.”
+
+—André Petenussi, CTO, Localiza
+
+## Results overview
+
+  * In March 2026, Localiza became the first company in Brazil, and one of the first in Latin America, to launch an app integrated directly into ChatGPT; more recently, it joined the platform’s advertising pilot in Brazil as an advertiser.
+
+  * Traffic from LLMs has been growing rapidly since 2024, with ChatGPT as the main channel.
+
+  * The Liza assistant operates with more than 60 specialized agents, built on reasoning models, MCP integration, and specialized tools that orchestrate the rental journey.
+
+  * Teams across the company—from finance to operations—maintain active experiments with custom GPTs, agents, and Codex.
+
+  * Codex reached the technology department and spread to business areas, with analysts, managers, PMOs, and lawyers building their own prototypes and automations.
+
+  * The technology operation is organized into 19 tribes and 130 squads.
+
+
+
+
+## Lessons for leaders
+
+  * Treat AI as a new operating model, rather than a productivity layer. The greatest gains come from redesigning processes around intelligence, context, and speed.
+
+  * Use scale to generate learning. Simultaneous experiments at scale produce more organizational knowledge than a perfect pilot.
+
+  * Take experimentation beyond technology. When lawyers, PMOs, and analysts prototype within their own areas, the nature of upstream work changes.
+
+  * Map and measure your journeys before automating them. Having quality metrics in place enables you to decide where an agent should intervene and where a human is indispensable.
+
+  * The adoption bottleneck is reskilling, not the model. Changing how hundreds of people work is harder—and more decisive—than integrating the technology.
+
+
+
+
+## Tips
+
+  * Start with the customer’s problem and journey, rather than a model feature.
+
+  * Allocate licenses as an experimentation budget, rather than an individual benefit.
+
+  * Establish quality metrics before scaling conversational agents.
+
+  * Treat a presence in new conversational channels as a learning experiment, rather than an acquisition campaign.
+
+  * Close the loop: use the signals generated by each interaction to improve the product itself.
+
+
+
+
+## Next steps
+
+Localiza’s ambition is to put AI at the center of its next experiences and processes—whether in how work is produced, the experience created for customers, or the resolution of an operational problem.
+
+The next areas already being developed with OpenAI include the evolution of Liza and sales-focused agents, the establishment of conversational interfaces as a customer entry point, and the new cycle of agentic software development.
+
+> “The main focus is how we create better experiences. Whether that is to improve the profitability of our business, to ensure its health, or, above all, to create delightful experiences for our customers and our employees.”
+
+—André Petenussi, CTO, Localiza
+
+## Join the new era of work
+
+More than 1 million businesses around the world are achieving meaningful results with OpenAI.
+
+[Contact sales](</contact-sales/>)
+
+## Keep reading
+
+![loveholidays customer story art card v4](https://images.ctfassets.net/kftzwdyauwt9/42xFRYjHeI7h1ELHyL62wf/2a1c83c585109d5735c19967bb2a4e05/loveholidays-hero-art-card-v4.png?w=3840&q=90&fm=webp)
+
+[How loveholidays is making everyone a builder with CodexAug 26, 2026](</index/loveholidays/>)
+
+![Virgin Atlantic ChatGPT Work card image](https://images.ctfassets.net/kftzwdyauwt9/4G2F8rchz4lfJxdQGBYEb0/e367ed4f9ac0a5cfe505ddb1eed20393/oai_VirginAtlantic_1x1.png?w=3840&q=90&fm=webp)
+
+[Virgin Atlantic sharpens customer journeys with ChatGPT WorkAug 10, 2026](</index/virgin-atlantic/chatgpt-work/>)
+
+![Virgin Atlantic customer story hero image 1x1](https://images.ctfassets.net/kftzwdyauwt9/6WNcKcxQ4YROa131BHbMqK/3abfa2f73d5eed41b9fcb723c6e24e1e/virgin-atlantic-hero.png?w=3840&q=90&fm=webp)
+
+[How Virgin Atlantic ships faster with CodexMay 22, 2026](</index/virgin-atlantic/>)
+
+Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+Products
+
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
+  * [Release Notes](</products/release-notes/>)
+
+
+
+API Platform
+
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
+
+
+
+Business
+
+  * [Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Careers](</careers/>)
+  * [News](</news/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
+
+
+
+More
+
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

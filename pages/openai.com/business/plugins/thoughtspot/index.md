@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.thoughtspot.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000ed648211bd6b1d2bd35935ae&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=2301391f081d1fe4c1a980443f2225d8409c916973d8c89174b09f28387de4f4&v=0)ThoughtSpot SpotterCode Embed a ThoughtSpot Liveboard in React with cookieless trusted auth and runtime filters by customer ID.(opens in a new window)](<https://chatgpt.com/?prompt=%40ThoughtSpot+SpotterCode+Embed+a+ThoughtSpot+Liveboard+in+React+with+cookieless+trusted+auth+and+runtime+filters+by+customer+ID.>)
+[![](https://files.openai.com/content?id=file_00000000ed648211bd6b1d2bd35935ae&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=2301391f081d1fe4c1a980443f2225d8409c916973d8c89174b09f28387de4f4&v=0)ThoughtSpot SpotterCode Embed a ThoughtSpot Liveboard in React with cookieless trusted auth and runtime filters by customer ID.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa240082b3c81919f204960ce7e0dc0?install&prompt=Embed%20a%20ThoughtSpot%20Liveboard%20in%20React%20with%20cookieless%20trusted%20auth%20and%20runtime%20filters%20by%20customer%20ID.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Whether you're a developer building embedded analytics, a product leader shippin
 
 ![](https://files.openai.com/content?id=file_00000000ed648211bd6b1d2bd35935ae&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=2301391f081d1fe4c1a980443f2225d8409c916973d8c89174b09f28387de4f4&v=0)ThoughtSpot SpotterCode Embed a ThoughtSpot Liveboard in React with cookieless trusted auth and runtime filters by customer ID.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ThoughtSpot+SpotterCode+Embed+a+ThoughtSpot+Liveboard+in+React+with+cookieless+trusted+auth+and+runtime+filters+by+customer+ID.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa240082b3c81919f204960ce7e0dc0?install&prompt=Embed%20a%20ThoughtSpot%20Liveboard%20in%20React%20with%20cookieless%20trusted%20auth%20and%20runtime%20filters%20by%20customer%20ID.&surface=work>)
 
   * ### Organize executive reporting
 
 ![](https://files.openai.com/content?id=file_00000000ed648211bd6b1d2bd35935ae&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=2301391f081d1fe4c1a980443f2225d8409c916973d8c89174b09f28387de4f4&v=0)ThoughtSpot SpotterCode List Liveboards tagged 'executive', show who can edit each, and tag them all 'Exec Reporting'.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ThoughtSpot+SpotterCode+List+Liveboards+tagged+%27executive%27%2C+show+who+can+edit+each%2C+and+tag+them+all+%27Exec+Reporting%27.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa240082b3c81919f204960ce7e0dc0?install&prompt=List%20Liveboards%20tagged%20'executive'%2C%20show%20who%20can%20edit%20each%2C%20and%20tag%20them%20all%20'Exec%20Reporting'.&surface=work>)
 
   * ### Fix embedded authentication
 
 ![](https://files.openai.com/content?id=file_00000000ed648211bd6b1d2bd35935ae&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=2301391f081d1fe4c1a980443f2225d8409c916973d8c89174b09f28387de4f4&v=0)ThoughtSpot SpotterCode Diagnose repeated AuthExpire events in my SpotterEmbed. Review my authentication code, implement automatic token refresh, and explain how to verify that the embedded session recovers.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ThoughtSpot+SpotterCode+Diagnose+repeated+AuthExpire+events+in+my+SpotterEmbed.+Review+my+authentication+code%2C+implement+automatic+token+refresh%2C+and+explain+how+to+verify+that+the+embedded+session+recovers.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa240082b3c81919f204960ce7e0dc0?install&prompt=Diagnose%20repeated%20AuthExpire%20events%20in%20my%20SpotterEmbed.%20Review%20my%20authentication%20code%2C%20implement%20automatic%20token%20refresh%2C%20and%20explain%20how%20to%20verify%20that%20the%20embedded%20session%20recovers.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Whether you're a developer building embedded analytics, a product leader shippin
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://thoughtspot.com/support-request>)
+### [Plugin supportLearn more(opens in a new window)](<https://thoughtspot.com/support-request>)
 
-### [Privacy policyLearn more](<https://www.thoughtspot.com/privacy-statement>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.thoughtspot.com/privacy-statement>)
 
 ## Add the ThoughtSpot SpotterCode plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)AlationGoverned Knowledge Layer](</business/plugins/alation/>)[![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)SnowflakeAsk governed analytics questions of Snowflake data.](</business/plugins/snowflake/>)[![](https://files.openai.com/content?id=file_0000000059fc722f971e299766273267&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=c2f626a4b43d972d019fe35011d284b1e334a431ff00c01b4e8b6e8f312c7726&v=0)![](https://files.openai.com/content?id=file_0000000059fc722f971e299766273267&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=c2f626a4b43d972d019fe35011d284b1e334a431ff00c01b4e8b6e8f312c7726&v=0)MetabaseQuery and explore your Metabase data](</business/plugins/metabase/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)AlationGoverned Knowledge Layer](</business/plugins/alation/>)[![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)SnowflakeAsk governed analytics questions of Snowflake data](</business/plugins/snowflake/>)[![](https://files.openai.com/content?id=file_0000000059fc722f971e299766273267&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=c2f626a4b43d972d019fe35011d284b1e334a431ff00c01b4e8b6e8f312c7726&v=0)![](https://files.openai.com/content?id=file_0000000059fc722f971e299766273267&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=c2f626a4b43d972d019fe35011d284b1e334a431ff00c01b4e8b6e8f312c7726&v=0)MetabaseQuery and explore your Metabase data](</business/plugins/metabase/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

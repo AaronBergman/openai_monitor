@@ -89,9 +89,13 @@ To make sense of how we worked with Codex, it helps to know where it shines and 
 **Where Codex needs guidance**
 
   1. Codex isn’t yet great at inferring what it hasn’t been told (e.g., your preferred architecture patterns, product strategy, real user behavior, and internal norms or shortcuts).
+
   2. Similarly, Codex couldn’t see the app actually run: It couldn’t open Sora on a device, notice that a scroll felt off, or sense that a flow was confusing. Only our team could cover these experiential tasks.
+
   3. Each instance requires onboarding. Sharing context with clear goals, constraints, and guidance on “how we do things” was essential to making Codex execute well.
+
   4. In the same vein, Codex struggled with deep architectural judgment: Left on its own, it might introduce an extra view model where we really wanted to extend an existing one or push logic into the UI layer that clearly belonged in a repository. Its instinct is to get something working, not to prioritize long‑term cleanliness.
+
 
 
 
@@ -115,11 +119,17 @@ We found it useful to have Codex create and maintain a generous amount of AGENT.
 **Where Codex excels**
 
   1. Reading and understanding large codebases rapidly: Codex knows essentially all major programming languages, which makes it easier to leverage the same concepts across many platforms without complex abstractions.
+
   2. Testing coverage: Codex is (uniquely) enthusiastic about writing unit tests to cover a broad variety of cases. Not every test was deep, but having breadth of coverage was helpful in preventing regressions. 
+
   3. Applying feedback: In a similar vein, Codex is good at reacting to feedback. When CI failed, we could paste log output into a prompt and ask Codex to propose fixes.
+
   4. Massively parallel, disposable execution: Most won’t push the limits of the number of sessions they could actually run at any one time. It’s highly feasible to test multiple ideas in parallel and view code as disposable.
+
   5. Offering new perspective: In design discussions, we used Codex as a generative tool to explore potential failure points and discover new ways to solve a problem. For example, while we designed video player memory optimizations, Codex sifted through multiple SDKs to propose approaches we wouldn’t have had time to parse. The insights from Codex’s research proved invaluable in minimizing memory footprint in the final app.
+
   6. Enabling higher‑leverage work: In practice, we ended up spending more time reviewing and directing code than writing it ourselves. That said, Codex is very good at code review, too, often catching bugs before they’re merged, improving reliability.
+
 
 
 
@@ -170,7 +180,9 @@ We started our project with a huge stepping stone: Sora had already shipped on i
 Beneath the quip are two principles:.
 
   1. Logic is portable. Whether the code is written in Swift or Kotlin, the underlying application logic – data models, network calls, validation rules, business logic – are the same. Codex is very good at reading a Swift implementation and producing an equivalent in Kotlin that preserves semantics.
+
   2. Concrete examples provide powerful context. A fresh Codex session that can see “here is exactly how this works on iOS” and “here is the Android architecture” is far more effective than one that’s only working from natural language descriptions.
+
 
 
 
@@ -223,7 +235,7 @@ Patrick Hum, RJ Marsan
 
 [Sora 2 is here ResearchSep 30, 2025](</index/sora-2/>)
 
-![Sora 2 system card cover image](https://images.ctfassets.net/kftzwdyauwt9/2ODeQUACmwUM3lkFQKzWki/426121ad50716c1a1eb4034ecb824c7e/1_x_1__.png?w=3840&q=90&fm=webp)
+![Sora 2 system card](https://images.ctfassets.net/kftzwdyauwt9/2ODeQUACmwUM3lkFQKzWki/426121ad50716c1a1eb4034ecb824c7e/1_x_1__.png?w=3840&q=90&fm=webp)
 
 [Sora 2 System CardPublicationSep 30, 2025](</index/sora-2-system-card/>)
 
@@ -237,9 +249,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -258,7 +271,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -276,6 +290,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -284,8 +299,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -304,6 +319,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

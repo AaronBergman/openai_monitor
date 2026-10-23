@@ -1,5 +1,53 @@
 # openai_monitor
 
+## 2026-10-23T09-15Z
+
+**Fetch time:** 2026-10-23T09:16Z (sitemaps) + 1,784 pages, all fetched OK | **Baseline:** 2026-09-28T09-17Z (**25-day gap** — the routine did not run Sep 29 – Oct 22, so this entry covers the whole stretch)
+
+**TL;DR:** A big catch-up entry. OpenAI's site grew from 1,985 to 2,086 URLs (+106 new, −5 removed) and a site-wide redesign of the header/footer was rolling out as we fetched (767 pages stamped "modified" today alone). The headline news in the new pages: **GPT-6.1 Sol** (a cheaper near-Astra-level model), **GPT-6 for everyone in ChatGPT with "Intelligent UI"**, **Dots** (always-on background agents), **DevDay 2026** (Sep 29, "20+ announcements"), **OpenAI models coming to Google Cloud**, an expanded **Atlassian** partnership, the acquisition of **Orchestra Bio**, **ChatGPT Ads expanding to 26 more countries**, and a security post about disrupting a **model-distillation campaign**. Policy pages were also busy: new **Usage Policies effective Nov 20, 2026**, plus updates to the privacy, cookie, advertising, service terms and supplier code.
+
+### ⚠️ Anomalies
+
+- **Site-wide template change:** 1,675 of 1,678 "updated" pages are mostly nav/footer edits (GPT-6.1 Sol / GPT-6 Astra / Dots / Plugins / Models / Status links added; GPT-5.4, Open Models, Apps SDK links dropped). Treat most of the 1,678 "updates" as noise.
+- **New sub-sitemap** `learn-demos` (13 URLs) → 43 sub-sitemaps. **19 URLs migrated between sub-sitemaps**, mostly into `learn-guides`/`learn-webinars` (a Learn-hub reorganisation).
+- **3 reappeared URLs:** `/business/plugins/alpaca/`, `/form/codex-ambassadors/`, `/policies/row-privacy-policy/`.
+- **7 backdated new URLs** (lastmod 8–22 days before we first saw them): `/codex-originals/`, `/devday/2026/`, `/form/private-intelligence-interest/`, `/form/sign-in-with-chatgpt-interest/`, `/business/learn/board-guide-cybersecurity-ai/`, `/index/lenfest-ai-collaborative-expansion/`, `/index/teens-learn-and-plan/` (largely an artifact of the 25-day gap).
+- **5 "future" lastmods** (0–26 s after our run began; live edits in flight, benign): `/signals/`, `/signals/research/`, `/collective-cyberdefense/application/`, `/index/introducing-gpt-live/`, `/index/strengthening-societal-resilience-with-rosalind-biodefense/`.
+- **Forward-dated policy:** Usage Policies now say "Effective November 20, 2026."
+- No backwards-moving lastmods.
+
+Full detail in [`runs/2026-10-23T09-15Z/analysis.md`](runs/2026-10-23T09-15Z/analysis.md).
+
+### Notable additions
+
+- [GPT-6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md) — near GPT-6 Astra performance on coding/computer use at ~1/5 the token price.
+- [GPT-6 and Intelligent UI for everyone](pages/openai.com/index/gpt-6-for-everyone/index.md) (Oct 7) — new GPT-6 model for ChatGPT's 1.2 B weekly users; answers as interactive UIs.
+- [Introducing dots](pages/openai.com/index/introducing-dots/index.md) — always-on agents with their own cloud computer, 4,000+ app connections.
+- [DevDay 2026 recap](pages/openai.com/index/devday-2026-recap/index.md), [Decisions API](pages/openai.com/index/decisions-api/index.md).
+- [OpenAI models are coming to Google Cloud](pages/openai.com/index/openai-models-google-cloud/index.md); [Atlassian partnership](pages/openai.com/index/atlassian-partnership/index.md); [OpenAI Marketplace](pages/openai.com/business/marketplace/index.md).
+- [OpenAI acquires Orchestra Bio](pages/openai.com/index/openai-to-acquire-orchestra-bio/index.md); [Rosalind Academic Plan](pages/openai.com/index/introducing-the-rosalind-academic-plan/index.md).
+- Ads: [ChatGPT Ads expands to 26 countries](pages/openai.com/index/chatgpt-ads-expands-26-new-countries/index.md), [ad stack](pages/openai.com/index/building-chatgpt-ad-stack/index.md), [Brazil Advertising Terms](pages/openai.com/policies/brazil-advertising-terms/index.md).
+- Security: [Disrupting a coordinated model-distillation campaign](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md), [Patch the Planet (PHP vulnerabilities)](pages/openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/index.md), [Towards safety cases for frontier AI training](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md).
+- "Sign in with ChatGPT" is coming: [terms](pages/openai.com/policies/sign-in-with-chatgpt-terms/index.md) and an interest form.
+- ~25 customer stories (Uber, Oracle, AT&T, Albertsons, Itaú, Sophos, Block…), 13 Learn demos, 6 partner pages, 7 plugin pages.
+
+### Notable updates
+
+- **[Usage Policies](pages/openai.com/policies/usage-policies/index.md)** — new version effective Nov 20, 2026; the licensed-advice rule now targets *building tools* that give such advice without a licensed professional, and bars implying the AI itself is licensed.
+- **[Privacy policy](pages/openai.com/policies/privacy-policy/index.md)** (Sep 10) drops Sora from the intro and firms up ad-partner data use; **[cookie policy](pages/openai.com/policies/cookie-policy/index.md)** (Oct 7) adds ads.openai.com cookies, doubles `oai-did` lifetime to 2 years; **[Service Terms](pages/openai.com/policies/service-terms/index.md)** (Oct 16) add *Prompt-to-Voice*; **[Advertising Terms](pages/openai.com/policies/advertising-terms/index.md)** (Oct 15) restructured; [Supplier Code](pages/openai.com/policies/supplier-code/index.md) rewritten.
+- **[Pricing](pages/openai.com/business/pricing/index.md)** adds GPT-6.x and Dots; **[Codex](pages/openai.com/codex/index.md)** now shows Plus $20 / Pro $100 plans; homepage hero now GPT-6 / Intelligent UI / math / Dots.
+- **[Election safeguards 2026](pages/openai.com/index/election-safeguards-2026/index.md)** — Oct 20 update (Democracy Works, AP vote counts, Daybreak for election officials). **[Math progress](pages/openai.com/index/sharing-ai-progress-in-mathematics/index.md)** — $5 M to a Simons Foundation initiative.
+- 7 legacy model posts (o1-preview, o1-mini, o3-mini, o3/o4-mini…) now carry "no longer available / deprecated" banners.
+- 302 plugin pages switched to one-click install deep links; WebMCP Challenge page became a winners page; Daybreak stats roughly doubled.
+
+### Removed pages
+
+- `/business/partners/pathfindr/` (→ Affinda), `/business/plugins/atlassian-rovo/` (→ atlassian), `/business/plugins/mcp-server-for-wordpress/` and `/business/plugins/wordpress-com/` (→ wordpress), `/form/ultrafast/` (preview sign-up closed).
+
+_Stats: 2086 total URLs | 106 added | 1678 updated (≈1,000+ nav/footer/carousel noise) | 5 removed | 36 anomaly records (35 page-level + 1 site-wide) | 43 sub-sitemaps_
+
+---
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

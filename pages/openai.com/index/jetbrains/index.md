@@ -73,8 +73,11 @@ JetBrains believed that LLMs could provide immense value to their customers if i
 JetBrains considered all the leading LLM providers, but chose OpenAI as first LLM provider for the following reasons:
 
   * **Advanced reasoning capabilities:** JetBrains found OpenAI’s API to have the most intelligent features, with its advanced reasoning capabilities standing out in particular.
+
   * **Technical customer support** : Vladislav Tankov, Team Lead of JetBrains AI, emphasized the stellar technical support provided by OpenAI’s technical team. This guidance was pivotal when JetBrains encountered challenges during the integration process: “We worked with developers who really care about what we create and how we create it,” he said. 
+
   * **Superior technical performance:** In JetBrains’ comparative analysis of LLM Providers, OpenAI’s API stood out in terms of technical criteria such as, latency, accuracy, and throughput.
+
 
 
 
@@ -85,10 +88,15 @@ Vladislav Tankov, Team Lead of JetBrains AI
 Having decided on OpenAI's API as their LLM provider, JetBrains was then able to unlock a range of capabilities in its AI Assistant product: 
 
   * Developers can offload mundane and less creative tasks, like writing tests and naming variables, to the AI Assistant.
+
   * Developers can write prompts in natural language and receive code suggestions when writing business logic.
+
   * The AI Assistant can generate documentation and write commit messages.
+
   * The AI Assistant can explain code and refactor code snippets.
+
   * The AI Assistant can clarify what errors mean and suggest fixes to address issues.
+
 
 
 
@@ -99,10 +107,15 @@ Having decided on OpenAI's API as their LLM provider, JetBrains was then able to
 JetBrains AI Assistant has become **the fastest-growing product in the company’s 24-year history** with outstanding levels of customer satisfaction. Developers who use the product highlight: 
 
   * **Unprecedented productivity gains** : “I’ve been a developer for 30 years. I can’t think of anything that has provided a bigger productivity boost than JetBrains AI Assistant,” one respondent said. 
+
   * **Spending less time on information search** : 78% of surveyed developers report spending less time searching for information, giving them more time to spend on more engaging tasks.
+
   * **Reduced switching costs:** “JetBrains AI Assistant operates inside the IDE, unlike other assistants that require an open browser,” one engineer said, which simplifies the developer workflow and makes it easier to complete tasks.
+
   * **Increased efficiency:** 77% of polled developers report feeling more productive with their time, while 71% report being able to complete tasks more quickly.
+
   * **A brainstorming tool:** One engineer emphasized how JetBrains AI Assistant has become a helpful tool for getting unstuck: “I love it. It helps with imposter syndrome because you can just ask the LLM for help.”
+
 
 
 
@@ -111,8 +124,11 @@ JetBrains AI Assistant has become **the fastest-growing product in the company�
 JetBrains is working on several new features to further accelerate software development: 
 
   * **Project structure generation** : The team has built prototypes that generate customized project directories from text prompts. Initial results look exciting.
+
   * **Automation of workflows in the terminal:** The team sees huge potential in automating various common terminal tasks that are necessary but mundane.
+
   * **Tight integration with JetBrains** [**code insight** ⁠(opens in a new window)](<https://www.jetbrains.com/datagrip/features/coding_assistance.html>)**:** “Our IDEs know a lot about the codebase of a user's project, so we are looking to provide this context and capability to LLM providers for completely new features,” said Vladislav Tankov, Team Lead of JetBrains AI.
+
 
 
 
@@ -124,15 +140,15 @@ JetBrains is working on several new features to further accelerate software deve
 
 ## Related articles
 
-![Unload](https://images.ctfassets.net/kftzwdyauwt9/15d768b2-bd52-4e68-bebaf96d50b3/e3f414371811a69d73091cc36a44ce8f/holiday_extras.png?w=3840&q=90&fm=webp)
+![White Holiday Extras logo on a purple background.](https://images.ctfassets.net/kftzwdyauwt9/15d768b2-bd52-4e68-bebaf96d50b3/e3f414371811a69d73091cc36a44ce8f/holiday_extras.png?w=3840&q=90&fm=webp)
 
 [Building a data-driven, efficient culture with AIMar 18, 2024](</index/holiday-extras/>)
 
-![Screenshot 2024 03 12 At 1128 27am](https://images.ctfassets.net/kftzwdyauwt9/e4cda57a-c977-4855-16b96e288c99/40db1a7d78522f9f9030942dd4a3e72b/superhuman.png?w=3840&q=90&fm=webp)
+![White Superhuman logo on a purple background.](https://images.ctfassets.net/kftzwdyauwt9/e4cda57a-c977-4855-16b96e288c99/40db1a7d78522f9f9030942dd4a3e72b/superhuman.png?w=3840&q=90&fm=webp)
 
 [Reimagining the email experience with AIMar 18, 2024](</index/superhuman/>)
 
-![Salesforce](https://images.ctfassets.net/kftzwdyauwt9/603cb121-042e-415f-d47db25cfa42/0ac2e22ee90f4a809c3eb3fff797d107/salesforce.png?w=3840&q=90&fm=webp)
+![White Salesforce logo on a blue background](https://images.ctfassets.net/kftzwdyauwt9/603cb121-042e-415f-d47db25cfa42/0ac2e22ee90f4a809c3eb3fff797d107/salesforce.png?w=3840&q=90&fm=webp)
 
 [Enterprise-ready trust and safetyMar 18, 2024](</index/salesforce/>)
 
@@ -146,9 +162,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -167,7 +184,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -185,6 +203,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -193,8 +212,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -213,6 +232,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -79,8 +79,11 @@ Today, we’re releasing “[Early science acceleration experiments with GPT‑5
 These case studies show how, in the hands of experts, GPT‑5 is accelerating scientific discovery, and why that acceleration matters:
 
   * **Biology** : In a study led by Derya Unutmaz, M.D., scientists spent months trying to explain a puzzling change in human immune cells. GPT‑5 identified the likely mechanism within minutes from an unpublished chart and suggested an experiment that proved it. This kind of speed could help researchers understand diseases faster and develop better treatments.
+
   * **Mathematics** : In another case, researchers Mehtaab Sawhney and Mark Sellke were tackling a decades-old open problem originally proposed by Paul Erdős. They were stuck on the final step, and GPT‑5 contributed a new idea about how one odd number breaks the pattern, which helped them complete the proof. Advances like this strengthen the mathematical foundations that many algorithms and security techniques ultimately rely on.
+
   * **Algorithms & optimization:** Researchers Sébastien Bubeck and Christian Coester were testing whether a common decision-making method used in robotics and routing was as reliable as people assumed. GPT‑5 found a new, clear example showing the method can fail and also improved a classic result in optimization, the math used to figure out the best way to solve a problem. This type of advance helps engineers better understand the decision-making systems used in robotics, routing, and other real-world applications.
+
 
 
 
@@ -103,8 +106,11 @@ Using GPT‑5 effectively is a skill. Researchers learn how to pose questions, w
 Across these early studies, GPT‑5 appears able to shorten parts of the research workflow when used by experts. It does not run projects or solve scientific problems autonomously, but it can expand the surface area of exploration and help researchers move faster toward correct results.
 
   * One emerging capability is conceptual literature search. GPT‑5 can often identify deeper relationships between ideas and retrieve relevant material across languages and less accessible sources. Researchers report finding references, connections, and theses they did not previously know.
+
   * In mathematics and theoretical computer science, where structure is explicit and feedback loops are fast, GPT‑5 is especially helpful. Mathematicians have used GPT‑5 to generate viable proof outlines in minutes, transforming work that otherwise might have taken days or weeks. In physics and computational domains, the model can propose simplifying transformations or point to analogous structures in other fields.
+
   * In biology and other empirical sciences, the model can propose mechanisms and design experiments to validate these hypotheses in the wet lab.
+
 
 
 
@@ -142,15 +148,17 @@ Kevin Weil
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Scaling AI to uncover new research leads in complex biological data — Cover](https://images.ctfassets.net/kftzwdyauwt9/5UED38veljkDWUT9l9b6eR/5d17087c963ea51bf01c1fbd754f19d9/scaling-ai-biological-data-cover.png?w=3840&q=90&fm=webp)
 
-![Pacing model development in an era of cyber-critical capabilities — Card image](https://images.ctfassets.net/kftzwdyauwt9/3tUOfo4E1xZComoOiRjHJm/51c532f25dd4062f92bff0e41ea00c3c/index-pacing-model-development-cyber-capabilities-dark-cover.png?w=3840&q=90&fm=webp)
+[Using thousands of AI agents to uncover new leads in biological dataPublicationOct 21, 2026](</index/scaling-ai-research-for-complex-biological-data/>)
 
-[Pacing model development in an era of cyber-critical capabilitiesCompanyAug 18, 2026](</index/pacing-model-development-cyber-capabilities/>)
+![Improving ChatGPT for low-resource programming languages — listing image](https://images.ctfassets.net/kftzwdyauwt9/5nGzHT5se0oEzcJbDGqwyz/5aafc7c71c35b11d713436e853f0b4b0/low-resource-programming-languages-cover.png?w=3840&q=90&fm=webp)
 
-![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
+[Advancing coding in low‑resource programming languagesPublicationOct 19, 2026](</index/low-resource-programming-languages/>)
 
-[Ten advances in mathematics and theoretical computer sciencePublicationAug 1, 2026](</index/ten-advances-in-mathematics/>)
+![Rosalind Academic Plan - Card](https://images.ctfassets.net/kftzwdyauwt9/7EaxSuBblXvd3Y6G2WLoET/4563ce56737d9c0ed1f05358f43c8a7d/rosalind-academic-plan-card.png?w=3840&q=90&fm=webp)
+
+[Introducing the Rosalind Academic PlanResearchOct 15, 2026](</index/introducing-the-rosalind-academic-plan/>)
 
 Research
 
@@ -162,9 +170,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -183,7 +192,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -201,6 +211,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -209,8 +220,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -229,6 +240,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
