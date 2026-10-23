@@ -3,7 +3,7 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://openai.com/research/index/</loc>
-    <lastmod>2026-09-25T19:21:42.614Z</lastmod>
+    <lastmod>2026-10-23T09:06:54.440Z</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="sk-SK"
@@ -28,11 +28,6 @@
       rel="alternate"
       hreflang="pt-BR"
       href="https://openai.com/pt-BR/research/index/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pl-PL"
-      href="https://openai.com/pl-PL/research/index/"
     />
     <xhtml:link
       rel="alternate"
@@ -71,18 +66,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="gu-IN"
-      href="https://openai.com/gu-IN/research/index/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="de-DE"
       href="https://openai.com/de-DE/research/index/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-Hant"
-      href="https://openai.com/zh-Hant/research/index/"
+      hreflang="ta-IN"
+      href="https://openai.com/ta-IN/research/index/"
     />
     <xhtml:link
       rel="alternate"
@@ -93,11 +83,6 @@
       rel="alternate"
       hreflang="sv-SE"
       href="https://openai.com/sv-SE/research/index/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="da-DK"
-      href="https://openai.com/da-DK/research/index/"
     />
     <xhtml:link
       rel="alternate"
@@ -136,8 +121,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="sw-KE"
-      href="https://openai.com/sw-KE/research/index/"
+      hreflang="da-DK"
+      href="https://openai.com/da-DK/research/index/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="sr-Latn-RS"
+      href="https://openai.com/sr-Latn-RS/research/index/"
     />
     <xhtml:link
       rel="alternate"
@@ -146,8 +136,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="sr-Latn-RS"
-      href="https://openai.com/sr-Latn-RS/research/index/"
+      hreflang="tr-TR"
+      href="https://openai.com/tr-TR/research/index/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="sw-KE"
+      href="https://openai.com/sw-KE/research/index/"
     />
     <xhtml:link
       rel="alternate"
@@ -161,48 +156,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="tr-TR"
-      href="https://openai.com/tr-TR/research/index/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mk-MK"
-      href="https://openai.com/mk-MK/research/index/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ta-IN"
-      href="https://openai.com/ta-IN/research/index/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/research/index/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="vi-VN"
       href="https://openai.com/vi-VN/research/index/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="hy-AM"
-      href="https://openai.com/hy-AM/research/index/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="bg-BG"
-      href="https://openai.com/bg-BG/research/index/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="bn-BD"
-      href="https://openai.com/bn-BD/research/index/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="kk-Cyrl"
-      href="https://openai.com/kk-Cyrl/research/index/"
     />
     <xhtml:link
       rel="alternate"
@@ -221,33 +176,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ar"
-      href="https://openai.com/ar/research/index/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="lt-LT"
       href="https://openai.com/lt-LT/research/index/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="my-MM"
-      href="https://openai.com/my-MM/research/index/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="sq-AL"
       href="https://openai.com/sq-AL/research/index/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="pa-IN"
-      href="https://openai.com/pa-IN/research/index/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="mt-MT"
-      href="https://openai.com/mt-MT/research/index/"
     />
     <xhtml:link
       rel="alternate"
@@ -281,11 +216,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ml-IN"
-      href="https://openai.com/ml-IN/research/index/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ms-BN"
       href="https://openai.com/ms-BN/research/index/"
     />
@@ -313,11 +243,6 @@
       rel="alternate"
       hreflang="hi-IN"
       href="https://openai.com/hi-IN/research/index/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/research/index/"
     />
     <xhtml:link
       rel="alternate"
@@ -349,15 +274,90 @@
       hreflang="fi-FI"
       href="https://openai.com/fi-FI/research/index/"
     />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mt-MT"
+      href="https://openai.com/mt-MT/research/index/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ar"
+      href="https://openai.com/ar/research/index/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-Hant"
+      href="https://openai.com/zh-Hant/research/index/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="bg-BG"
+      href="https://openai.com/bg-BG/research/index/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="mk-MK"
+      href="https://openai.com/mk-MK/research/index/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/research/index/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="my-MM"
+      href="https://openai.com/my-MM/research/index/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="kk-Cyrl"
+      href="https://openai.com/kk-Cyrl/research/index/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pl-PL"
+      href="https://openai.com/pl-PL/research/index/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ml-IN"
+      href="https://openai.com/ml-IN/research/index/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/research/index/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="he-IL"
+      href="https://openai.com/he-IL/research/index/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="bn-BD"
+      href="https://openai.com/bn-BD/research/index/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hy-AM"
+      href="https://openai.com/hy-AM/research/index/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pa-IN"
+      href="https://openai.com/pa-IN/research/index/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="gu-IN"
+      href="https://openai.com/gu-IN/research/index/"
+    />
   </url>
   <url>
     <loc>https://openai.com/index/first-proof-submissions/</loc>
-    <lastmod>2026-09-25T19:18:23.653Z</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="ga-IE"
-      href="https://openai.com/ga-IE/index/first-proof-submissions/"
-    />
+    <lastmod>2026-10-23T09:06:10.591Z</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="sl-SI"
@@ -372,6 +372,11 @@
       rel="alternate"
       hreflang="zh-Hans-CN"
       href="https://openai.com/zh-Hans-CN/index/first-proof-submissions/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ga-IE"
+      href="https://openai.com/ga-IE/index/first-proof-submissions/"
     />
     <xhtml:link
       rel="alternate"
@@ -425,11 +430,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="th-TH"
-      href="https://openai.com/th-TH/index/first-proof-submissions/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="es-ES"
       href="https://openai.com/es-ES/index/first-proof-submissions/"
     />
@@ -457,11 +457,6 @@
       rel="alternate"
       hreflang="hu-HU"
       href="https://openai.com/hu-HU/index/first-proof-submissions/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="gu-IN"
-      href="https://openai.com/gu-IN/index/first-proof-submissions/"
     />
     <xhtml:link
       rel="alternate"
@@ -570,11 +565,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="hy-AM"
-      href="https://openai.com/hy-AM/index/first-proof-submissions/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="nb-NO"
       href="https://openai.com/nb-NO/index/first-proof-submissions/"
     />
@@ -590,11 +580,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ur-IN"
-      href="https://openai.com/ur-IN/index/first-proof-submissions/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="mn-MN"
       href="https://openai.com/mn-MN/index/first-proof-submissions/"
     />
@@ -605,11 +590,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="sw-KE"
-      href="https://openai.com/sw-KE/index/first-proof-submissions/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ms-MY"
       href="https://openai.com/ms-MY/index/first-proof-submissions/"
     />
@@ -617,11 +597,6 @@
       rel="alternate"
       hreflang="tr-TR"
       href="https://openai.com/tr-TR/index/first-proof-submissions/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ms-BN"
-      href="https://openai.com/ms-BN/index/first-proof-submissions/"
     />
     <xhtml:link
       rel="alternate"
@@ -695,13 +670,43 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="sw-KE"
+      href="https://openai.com/sw-KE/index/first-proof-submissions/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="sq-AL"
       href="https://openai.com/sq-AL/index/first-proof-submissions/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="gu-IN"
+      href="https://openai.com/gu-IN/index/first-proof-submissions/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="hy-AM"
+      href="https://openai.com/hy-AM/index/first-proof-submissions/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ur-IN"
+      href="https://openai.com/ur-IN/index/first-proof-submissions/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="he-IL"
+      href="https://openai.com/he-IL/index/first-proof-submissions/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="th-TH"
+      href="https://openai.com/th-TH/index/first-proof-submissions/"
     />
   </url>
   <url>
     <loc>https://openai.com/news/research/</loc>
-    <lastmod>2026-09-25T18:59:55.019Z</lastmod>
+    <lastmod>2026-10-23T09:06:01.241Z</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="fr-FR"
@@ -724,28 +729,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="pt-PT"
-      href="https://openai.com/pt-PT/news/research/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="is-IS"
       href="https://openai.com/is-IS/news/research/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="sq-AL"
-      href="https://openai.com/sq-AL/news/research/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ms-MY"
       href="https://openai.com/ms-MY/news/research/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="id-ID"
-      href="https://openai.com/id-ID/news/research/"
     />
     <xhtml:link
       rel="alternate"
@@ -994,11 +984,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="te-IN"
-      href="https://openai.com/te-IN/news/research/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ga-IE"
       href="https://openai.com/ga-IE/news/research/"
     />
@@ -1042,19 +1027,44 @@
       hreflang="hu-HU"
       href="https://openai.com/hu-HU/news/research/"
     />
+    <xhtml:link
+      rel="alternate"
+      hreflang="te-IN"
+      href="https://openai.com/te-IN/news/research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="id-ID"
+      href="https://openai.com/id-ID/news/research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="pt-PT"
+      href="https://openai.com/pt-PT/news/research/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="sq-AL"
+      href="https://openai.com/sq-AL/news/research/"
+    />
   </url>
   <url>
     <loc>https://openai.com/research/index/conclusion/</loc>
-    <lastmod>2026-09-25T18:59:21.275Z</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="ca-ES"
-      href="https://openai.com/ca-ES/research/index/conclusion/"
-    />
+    <lastmod>2026-10-23T04:48:51.360Z</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="jv-ID"
       href="https://openai.com/jv-ID/research/index/conclusion/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="he-IL"
+      href="https://openai.com/he-IL/research/index/conclusion/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/research/index/conclusion/"
     />
     <xhtml:link
       rel="alternate"
@@ -1068,28 +1078,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/research/index/conclusion/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="ga-IE"
       href="https://openai.com/ga-IE/research/index/conclusion/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ms-MY"
-      href="https://openai.com/ms-MY/research/index/conclusion/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="kk-Cyrl"
-      href="https://openai.com/kk-Cyrl/research/index/conclusion/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ka-GE"
-      href="https://openai.com/ka-GE/research/index/conclusion/"
     />
     <xhtml:link
       rel="alternate"
@@ -1126,18 +1116,61 @@
       hreflang="mt-MT"
       href="https://openai.com/mt-MT/research/index/conclusion/"
     />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ms-MY"
+      href="https://openai.com/ms-MY/research/index/conclusion/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ca-ES"
+      href="https://openai.com/ca-ES/research/index/conclusion/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="kk-Cyrl"
+      href="https://openai.com/kk-Cyrl/research/index/conclusion/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ka-GE"
+      href="https://openai.com/ka-GE/research/index/conclusion/"
+    />
   </url>
   <url>
-    <loc>https://openai.com/index/vpt/</loc>
-    <lastmod>2026-08-25T22:37:24.188Z</lastmod>
+    <loc>https://openai.com/index/infrastructure-for-deep-learning/</loc>
+    <lastmod>2026-10-21T09:50:35.322Z</lastmod>
   </url>
   <url>
     <loc>https://openai.com/index/scaling-kubernetes-to-7500-nodes/</loc>
-    <lastmod>2026-08-25T22:10:08.978Z</lastmod>
+    <lastmod>2026-10-21T06:08:48.602Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openai.com/index/nonlinear-computation-in-deep-linear-networks/</loc>
+    <lastmod>2026-10-21T06:02:04.318Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openai.com/index/prover-verifier-games-improve-legibility/</loc>
+    <lastmod>2026-10-21T05:37:20.489Z</lastmod>
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-419"
+      href="https://openai.com/es-419/index/prover-verifier-games-improve-legibility/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="es-ES"
+      href="https://openai.com/es-ES/index/prover-verifier-games-improve-legibility/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja-JP"
+      href="https://openai.com/ja-JP/index/prover-verifier-games-improve-legibility/"
+    />
   </url>
   <url>
     <loc>https://openai.com/index/gpt-4o-system-card/external-testers-acknowledgements/</loc>
-    <lastmod>2026-08-25T21:58:11.331Z</lastmod>
+    <lastmod>2026-10-21T05:28:01.223Z</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="sv-SE"
@@ -1245,63 +1278,44 @@
     />
   </url>
   <url>
-    <loc>https://openai.com/index/confidence-building-measures-for-artificial-intelligence/</loc>
-    <lastmod>2026-08-25T21:58:10.615Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openai.com/index/openai-o1-system-card/external-testers-acknowledgements/</loc>
-    <lastmod>2026-08-25T21:58:10.368Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openai.com/index/infrastructure-for-deep-learning/</loc>
-    <lastmod>2026-08-25T21:58:10.312Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openai.com/index/retro-contest-results/</loc>
-    <lastmod>2026-08-25T21:58:09.907Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openai.com/index/language-model-safety-and-misuse/</loc>
-    <lastmod>2026-08-25T21:58:09.428Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openai.com/index/learning-montezumas-revenge-from-a-single-demonstration/</loc>
-    <lastmod>2026-08-20T18:34:12.245Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openai.com/index/prover-verifier-games-improve-legibility/</loc>
-    <lastmod>2026-07-30T01:22:07.667Z</lastmod>
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja-JP"
-      href="https://openai.com/ja-JP/index/prover-verifier-games-improve-legibility/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-419"
-      href="https://openai.com/es-419/index/prover-verifier-games-improve-legibility/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="es-ES"
-      href="https://openai.com/es-ES/index/prover-verifier-games-improve-legibility/"
-    />
-  </url>
-  <url>
-    <loc>https://openai.com/index/attacking-machine-learning-with-adversarial-examples/</loc>
-    <lastmod>2026-07-30T01:22:07.602Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openai.com/index/faulty-reward-functions/</loc>
-    <lastmod>2026-07-30T01:22:07.512Z</lastmod>
+    <loc>https://openai.com/index/scaling-kubernetes-to-2500-nodes/</loc>
+    <lastmod>2026-10-21T05:20:46.642Z</lastmod>
   </url>
   <url>
     <loc>https://openai.com/index/learning-to-communicate/</loc>
-    <lastmod>2026-07-30T01:22:07.209Z</lastmod>
+    <lastmod>2026-10-21T03:32:20.655Z</lastmod>
   </url>
   <url>
-    <loc>https://openai.com/index/scaling-kubernetes-to-2500-nodes/</loc>
-    <lastmod>2026-07-30T01:22:07.076Z</lastmod>
+    <loc>https://openai.com/index/faulty-reward-functions/</loc>
+    <lastmod>2026-10-21T01:55:50.737Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openai.com/index/learning-montezumas-revenge-from-a-single-demonstration/</loc>
+    <lastmod>2026-10-20T22:10:59.419Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openai.com/index/retro-contest-results/</loc>
+    <lastmod>2026-10-20T11:51:18.430Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openai.com/index/vpt/</loc>
+    <lastmod>2026-10-20T02:02:41.493Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openai.com/index/attacking-machine-learning-with-adversarial-examples/</loc>
+    <lastmod>2026-10-19T08:28:50.242Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openai.com/index/openai-o1-system-card/external-testers-acknowledgements/</loc>
+    <lastmod>2026-10-19T07:42:57.475Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openai.com/index/confidence-building-measures-for-artificial-intelligence/</loc>
+    <lastmod>2026-10-19T05:04:24.414Z</lastmod>
+  </url>
+  <url>
+    <loc>https://openai.com/index/language-model-safety-and-misuse/</loc>
+    <lastmod>2026-10-19T03:18:41.471Z</lastmod>
   </url>
   <url>
     <loc>https://openai.com/index/spam-detection-in-the-physical-world/</loc>
@@ -1310,9 +1324,5 @@
   <url>
     <loc>https://openai.com/index/ai-and-compute/</loc>
     <lastmod>2026-07-30T01:22:05.754Z</lastmod>
-  </url>
-  <url>
-    <loc>https://openai.com/index/nonlinear-computation-in-deep-linear-networks/</loc>
-    <lastmod>2026-07-30T01:22:05.748Z</lastmod>
   </url>
 </urlset>

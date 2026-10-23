@@ -91,8 +91,6 @@ We also partnered with news and data providers to add up-to-date information and
 
 WeatherStocksSportsNewsMaps
 
-![Introducing search > Example tabs > Weather](https://images.ctfassets.net/kftzwdyauwt9/1SkPlPB4yyoBfMIjg7W73V/35318fcf364624175903b39ea795a67b/Weather.png?w=3840&q=90&fm=webp)
-
 > “ChatGPT search promises to better highlight and attribute information from trustworthy news sources, benefiting audiences while expanding the reach of publishers like ourselves who produce premium journalism.”
 
 Pam Wasserstein, President, Vox Media
@@ -156,11 +154,11 @@ Barret Zoph, Greg Brockman, Ian Silber, John Schulman, Kevin Weil, Mira Murati, 
 
 [View all](</news/>)
 
-![Search GPT > Cover Asset](https://images.ctfassets.net/kftzwdyauwt9/3PW6ybA3KHgTzQRTLewRE0/6b7dbca9baa496dce6cf2d929b0d971d/SearchGPT_1x1_Asset_2.png?w=3840&q=90&fm=webp)
+![The image shows a minimalist search interface labeled "SearchGPT" with a circular icon next to the text. Below is a search bar with the placeholder text, "What are you looking for?" against a blurred, soft background of blue and pink tones.](https://images.ctfassets.net/kftzwdyauwt9/3PW6ybA3KHgTzQRTLewRE0/6b7dbca9baa496dce6cf2d929b0d971d/SearchGPT_1x1_Asset_2.png?w=3840&q=90&fm=webp)
 
 [SearchGPT is a prototype of new AI search featuresProductJul 25, 2024](</index/searchgpt-prototype/>)
 
-![Canvas > cover image](https://images.ctfassets.net/kftzwdyauwt9/2ZJmwm7FLSmjnnyqQIuFNY/a34114c80379cf2b84cf6e28332c21ce/Canvas_Card.png?w=3840&q=90&fm=webp)
+![A small circular button with a pencil and sparkle symbol in the center, set against a blurred gradient background of warm orange, pink, and red hues.](https://images.ctfassets.net/kftzwdyauwt9/2ZJmwm7FLSmjnnyqQIuFNY/a34114c80379cf2b84cf6e28332c21ce/Canvas_Card.png?w=3840&q=90&fm=webp)
 
 [Introducing canvas, a new way to write and code with ChatGPT.ProductOct 3, 2024](</index/introducing-canvas/>)
 
@@ -178,9 +176,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -199,7 +198,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -217,6 +217,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -225,8 +226,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -245,6 +246,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -272,3 +274,5 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![Introducing search > Example tabs > Weather](https://images.ctfassets.net/kftzwdyauwt9/1SkPlPB4yyoBfMIjg7W73V/35318fcf364624175903b39ea795a67b/Weather.png?w=3840&q=90&fm=webp)

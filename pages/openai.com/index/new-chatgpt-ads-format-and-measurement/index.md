@@ -1,0 +1,264 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+October 5, 2026
+
+[Product](</news/product-releases/>)[ChatGPT](</stories/chatgpt/>)
+
+# Building advertising for the way people use AI
+
+A new visual ad format helps people explore products and services, with expanded measurement to help businesses understand ad impact.
+
+[Start advertising in ChatGPT(opens in a new window)](<https://ads.openai.com>)
+
+![Two ChatGPT mobile screens show Heirloom Grocery visual ads with product images and Learn more buttons during image generation.](https://images.ctfassets.net/kftzwdyauwt9/67KkeiDAWPNKV0czIQnrpU/3f3ca0a38f8154a982285b0ba6fa42e7/heirloom-grocery-visual-ads-hero.png?w=3840&q=90&fm=webp)
+
+Loading…
+
+Share
+
+Bringing products and services to life
+
+  * Bringing products and services to life
+  * Measuring the impact of ChatGPT Ads
+  * Building confidence in alignment with our Ads Principles
+  * Expanding the features of ChatGPT Ads
+
+
+
+  * Bringing products and services to life
+  * Measuring the impact of ChatGPT Ads
+  * Building confidence in alignment with our Ads Principles
+  * Expanding the features of ChatGPT Ads
+
+
+
+We’re introducing a new visual ad format in ChatGPT, expanding our measurement tools and partnerships, and developing new ways to understand brand suitability.
+
+ChatGPT reaches 1.2 billion people each week, making it the world’s largest AI-native consumer platform. Advertising helps us bring the benefits of AI to more people. That broad access is central to our mission, and a strength of our business. It allows us to serve a much larger market than subscriptions alone, while giving businesses a new way to reach people as they explore ideas, make decisions and discover products and services relevant to what they’re trying to accomplish.
+
+## Bringing products and services to life
+
+Our new visual ad format helps people imagine how products and services could fit into their lives. Through images showing product inspiration, product usage, or the experiences they make possible, people can discover a new brand, understand what makes an offering distinctive, and decide what to buy. For advertisers, this creates new opportunities to tell their story through images.
+
+Initially, we’ll test this new ad format during image generation in ChatGPT for users on the Free and Go plans. Ads will be clearly labeled, and remain separate from the image being created. As with our other ad formats, advertising does not influence the answers ChatGPT provides.
+
+Testing will begin later this month in the US with an initial group of advertisers. 
+
+## Measuring the impact of ChatGPT Ads
+
+Our measurement philosophy for ChatGPT Ads is focused on supporting both in-house and partner-led measurement solutions. Today, we’re expanding our measurement tools and partner ecosystem to help advertisers understand how ChatGPT Ads contribute to their business using the systems they already rely on.
+
+Integrations with Hightouch, Tealium, and LiveRamp make it easier for advertisers to send conversion data from their existing systems to ChatGPT Ads.
+
+We now support leading attribution partners across the web and app space, enabling Conversions API, reporting, and click attribution solutions with companies including AppsFlyer, Triple Whale, Adjust, DV Rockerbox, Northbeam, Branch, Singular, Kochava, Airbridge, and Tenjin. We also have partnerships with full-funnel and advanced measurement partners, including Fospha and INCRMNTAL. 
+
+Incrementality measurement plays an important role in building a fuller understanding of advertising’s business impact. While our work on incrementality is still in its early stages, we’re partnering with Haus, Measured, and WorkMagic to explore geo-based experiments to help advertisers understand the causal impact of ChatGPT Ads. 
+
+Early partner findings illustrate strong performance across different measurement approaches. According to DV Rockerbox, WeightWatchers’ attributed cost per acquisition on ChatGPT Ads was 15.3% lower than its blended paid-search benchmark. WorkMagic reported statistically significant lift for wellness brand Dose, with 67% of incremental purchases coming from net-new customers. And according to Triple Whale, 93% of Portland Leather’s visitors from ChatGPT Ads were new.
+
+Read more about these measurement tools and partnerships on our Ads Blog [_here_ ⁠(opens in a new window)](<http://ads.openai.com/blog/more-ways-to-measure>). 
+
+## Building confidence in alignment with our Ads Principles
+
+Confidence in advertising also depends on understanding the environment where ads can appear. OpenAI’s [_advertising policies_](</policies/ad-policies/>) and guardrails are designed to protect users, preserve trust, and give brands confidence in their ad placements. Our placement guardrails assess whether a conversation is appropriate for advertising, helping keep ads out of emotionally vulnerable, sensitive, or otherwise unsuitable contexts.
+
+Automated review, human oversight, and ongoing monitoring help us identify and address policy violations and improve our safeguards over time. For narrow placement requirements specific to a brand’s own policies, Negative Phrases are now available to qualifying advertisers. 
+
+We’re also developing brand suitability evaluation pilots with DoubleVerify (DV) and Integral Ad Science (IAS) to help advertisers build a better understanding of the ads environment. This approach allows independent partners to assess how our brand safety standards are applied in a controlled testing environment, without accessing private user conversations. Our goal is to give advertisers greater transparency into how those safeguards work while protecting conversation privacy.
+
+> _“As advertising expands into AI-native environments, marketers need confidence that brand safety protections are durable, consistent, and built to operate at scale. IAS’s independent evaluation will assess how OpenAI’s safeguards perform across a broad and evolving range of scenarios, giving advertisers greater transparency into brand safety and suitability, while preserving the privacy of real user conversations.”_
+
+ _— Lidiane Jones, CEO of Integral Ad Science_
+
+>  _“ChatGPT is creating a fundamentally different advertising environment, where context is defined by the conversation itself rather than a page or video. As advertising in these environments scales, delivering ads next to conversations that align with advertisers’ suitability goals becomes essential. We’re excited to partner with OpenAI with the goal to bring independent measurement to this dynamic environment while respecting user privacy, helping to give advertisers greater confidence as they explore this emerging and promising channel.”_
+
+ _— Mark Zagorski, CEO of DoubleVerify_
+
+1 of 2
+
+>  _“As advertising expands into AI-native environments, marketers need confidence that brand safety protections are durable, consistent, and built to operate at scale. IAS’s independent evaluation will assess how OpenAI’s safeguards perform across a broad and evolving range of scenarios, giving advertisers greater transparency into brand safety and suitability, while preserving the privacy of real user conversations.”_
+
+ _— Lidiane Jones, CEO of Integral Ad Science_
+
+>  _“ChatGPT is creating a fundamentally different advertising environment, where context is defined by the conversation itself rather than a page or video. As advertising in these environments scales, delivering ads next to conversations that align with advertisers’ suitability goals becomes essential. We’re excited to partner with OpenAI with the goal to bring independent measurement to this dynamic environment while respecting user privacy, helping to give advertisers greater confidence as they explore this emerging and promising channel.”_
+
+ _— Mark Zagorski, CEO of DoubleVerify_
+
+  * Integral Ad Science
+
+  * DoubleVerify
+
+
+
+
+  * Integral Ad Science
+  * DoubleVerify
+
+
+
+## Expanding the features of ChatGPT Ads
+
+Our new visual ad format helps people discover products and services and imagine how they could fit into their lives, while giving advertisers new ways to tell their stories more visually. Across ChatGPT Ads, expanded measurement and brand suitability efforts help businesses understand campaign impact and build confidence in the contexts where their ads appear. These features are consistent with our ads principles: ChatGPT’s answers stay independent, conversations stay private, and users remain in control of their experience.
+
+Today’s updates are part of our broader ambition to help people discover products and services, evaluate options, and make decisions in ChatGPT. We will continue to evolve our ad platform with new formats and capabilities to help businesses reach customers in useful and relevant ways and provide opportunities for businesses of all sizes to grow and thrive.
+
+Businesses can sign up today for ads at [_ads.openai.com_ ⁠(opens in a new window)](<http://ads.openai.com>)⁠⁠. 
+
+  * [2026](</news/?tags=2026>)
+
+
+
+## Author
+
+OpenAI
+
+## Keep reading
+
+[View all](</news/>)
+
+![Build more responsive apps with the Decisions API — Cover](https://images.ctfassets.net/kftzwdyauwt9/6E0HwFxJrpWOEiFct0ZfQE/bb595e7e6ab06dfd2c953cb915c8f89a/build-more-responsive-apps-with-the-decisions-api-cover.png?w=3840&q=90&fm=webp)
+
+[Build more responsive apps with the Decisions APIProductOct 22, 2026](</index/decisions-api/>)
+
+![Patch the Planet: scaling a global response to critical vulnerabilities — Cover](https://images.ctfassets.net/kftzwdyauwt9/6PyrqMoyS15mNPtg8awwZn/30ddc462153abdeacf59376e741713db/patch-the-planet-scaling-a-global-response-to-critical-vulnerabilities-cover.png?w=3840&q=90&fm=webp)
+
+[Patch the Planet: global response coordination as agents uncover critical vulnerabilitiesSecurityOct 21, 2026](</index/coordinated-disclosure-of-critical-vulnerabilities/>)
+
+![ChatGPT Ads expands to 26 new countries — Cover](https://images.ctfassets.net/kftzwdyauwt9/1eOJBokizHqfepQO6lgFiY/b4a202d71316d951eac139e20ed828a7/chatgpt-ads-expands-26-new-countries-cover.png?w=3840&q=90&fm=webp)
+
+[ChatGPT Ads expands to 26 new countriesProductOct 21, 2026](</index/chatgpt-ads-expands-26-new-countries/>)
+
+Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+Products
+
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
+  * [Release Notes](</products/release-notes/>)
+
+
+
+API Platform
+
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
+
+
+
+Business
+
+  * [Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Careers](</careers/>)
+  * [News](</news/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
+
+
+
+More
+
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

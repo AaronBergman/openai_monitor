@@ -75,12 +75,19 @@ Our mission includes making advanced AI tools available to as many people as pos
 When using GPT‑4o, ChatGPT Free users will now have access to features such as:
 
   * Experience [_GPT‑4_ ⁠](<https://openai.com/index/gpt-4/>) level intelligence 
+
   * [ _Get responses_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/8077698-how-do-i-use-chatgpt-browse-with-bing-to-search-the-web>) from both the model and the web 
+
   * [ _Analyze data_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/8437071-advanced-data-analysis-chatgpt-enterprise-version>) and create charts 
+
   * [ _Chat about photos_ ⁠](<https://openai.com/index/chatgpt-can-now-see-hear-and-speak/>) you take
+
   * [ _Upload files_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/8555545-file-uploads-faq>) for assistance summarizing, writing or analyzing
+
   * Discover and use [_GPTs_ ⁠](<https://openai.com/index/introducing-gpts/>) and the [_GPT Store_ ⁠](<https://openai.com/index/introducing-the-gpt-store/>)
+
   * Build a more helpful experience with [_Memory_ ⁠](<https://openai.com/index/memory-and-new-controls-for-chatgpt/>)
+
 
 
 
@@ -114,9 +121,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -135,7 +143,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -153,6 +162,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -161,8 +171,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -181,6 +191,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

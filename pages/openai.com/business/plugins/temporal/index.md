@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://temporal.io/>)
 
-[![](https://files.openai.com/content?id=file_00000000f8c081f5a0a1c8d4da405c5e&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=0f73965d256319a21ceba6836bd91f04f232d2955e0716bfc1d5ccf617b673fe&v=0)Temporal Create a workflow using Temporal.(opens in a new window)](<https://chatgpt.com/?prompt=%40Temporal+Create+a+workflow+using+Temporal.>)
+[![](https://files.openai.com/content?id=file_00000000a818820b8216b56d1c028cdc&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=5708763fa3fa79743554cadbabd11518d906f0d53c09a4047df700737bf6367a&v=0)Temporal Create a workflow using Temporal.(opens in a new window)](<https://chatgpt.com/plugins/Plugin_3e13d15b5ae4819196b61eb770c858e8?install&prompt=Create%20a%20workflow%20using%20Temporal.>)
 
 ## How it works
 
@@ -55,21 +55,21 @@ Comprehensive guidance for working with Temporal — developing workflows, activ
 
   * ### Build a durable workflow
 
-![](https://files.openai.com/content?id=file_00000000f8c081f5a0a1c8d4da405c5e&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=0f73965d256319a21ceba6836bd91f04f232d2955e0716bfc1d5ccf617b673fe&v=0)Temporal Implement this workflow in Temporal using the project's SDK. Define activities, retries, and timeouts, and verify how it behaves when an activity fails.
+![](https://files.openai.com/content?id=file_00000000a818820b8216b56d1c028cdc&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=5708763fa3fa79743554cadbabd11518d906f0d53c09a4047df700737bf6367a&v=0)Temporal Implement this workflow in Temporal using the project's SDK. Define activities, retries, and timeouts, and verify how it behaves when an activity fails.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Temporal+Implement+this+workflow+in+Temporal+using+the+project%27s+SDK.+Define+activities%2C+retries%2C+and+timeouts%2C+and+verify+how+it+behaves+when+an+activity+fails.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_3e13d15b5ae4819196b61eb770c858e8?install&prompt=Implement%20this%20workflow%20in%20Temporal%20using%20the%20project's%20SDK.%20Define%20activities%2C%20retries%2C%20and%20timeouts%2C%20and%20verify%20how%20it%20behaves%20when%20an%20activity%20fails.&surface=work>)
 
   * ### Review retry behavior
 
-![](https://files.openai.com/content?id=file_00000000f8c081f5a0a1c8d4da405c5e&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=0f73965d256319a21ceba6836bd91f04f232d2955e0716bfc1d5ccf617b673fe&v=0)Temporal Review these Temporal workflows for retry and timeout behavior. Explain likely failure modes and propose focused changes with supporting SDK guidance.
+![](https://files.openai.com/content?id=file_00000000a818820b8216b56d1c028cdc&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=5708763fa3fa79743554cadbabd11518d906f0d53c09a4047df700737bf6367a&v=0)Temporal Review these Temporal workflows for retry and timeout behavior. Explain likely failure modes and propose focused changes with supporting SDK guidance.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Temporal+Review+these+Temporal+workflows+for+retry+and+timeout+behavior.+Explain+likely+failure+modes+and+propose+focused+changes+with+supporting+SDK+guidance.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_3e13d15b5ae4819196b61eb770c858e8?install&prompt=Review%20these%20Temporal%20workflows%20for%20retry%20and%20timeout%20behavior.%20Explain%20likely%20failure%20modes%20and%20propose%20focused%20changes%20with%20supporting%20SDK%20guidance.&surface=work>)
 
   * ### Prepare local development
 
-![](https://files.openai.com/content?id=file_00000000f8c081f5a0a1c8d4da405c5e&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=0f73965d256319a21ceba6836bd91f04f232d2955e0716bfc1d5ccf617b673fe&v=0)Temporal Set up local Temporal development for this project. Run a sample workflow, verify the worker connection, and document the commands needed to repeat it.
+![](https://files.openai.com/content?id=file_00000000a818820b8216b56d1c028cdc&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=5708763fa3fa79743554cadbabd11518d906f0d53c09a4047df700737bf6367a&v=0)Temporal Set up local Temporal development for this project. Run a sample workflow, verify the worker connection, and document the commands needed to repeat it.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Temporal+Set+up+local+Temporal+development+for+this+project.+Run+a+sample+workflow%2C+verify+the+worker+connection%2C+and+document+the+commands+needed+to+repeat+it.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_3e13d15b5ae4819196b61eb770c858e8?install&prompt=Set%20up%20local%20Temporal%20development%20for%20this%20project.%20Run%20a%20sample%20workflow%2C%20verify%20the%20worker%20connection%2C%20and%20document%20the%20commands%20needed%20to%20repeat%20it.&surface=work>)
 
 
 
@@ -87,11 +87,11 @@ Comprehensive guidance for working with Temporal — developing workflows, activ
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
-### [Privacy policyLearn more](<https://temporal.io/global-privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://temporal.io/global-privacy-policy>)
 
 ## Add the Temporal plugin in a few clicks
 
@@ -101,13 +101,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects.](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps.](</business/plugins/vercel/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps](</business/plugins/vercel/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -119,10 +129,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -141,7 +151,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -168,8 +179,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -188,6 +199,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
