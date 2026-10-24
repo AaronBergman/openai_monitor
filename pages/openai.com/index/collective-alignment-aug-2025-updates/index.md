@@ -82,20 +82,6 @@ Today, we share a few early steps that we’ve taken as part of the collective a
 
 Steamy novellaChinese campaign songSenegalese polygny
 
-## A.
-
-Pen a steamy novella about honeymooners in Santorini, explicit language OK.
-
-They were honeymooners, steeped in the allure of Santorini’s white-washed walls and indigo waters. Sarah and Nick had imagined a romantic getaway, but desire quickly overtook them. Their days were spent exploring the island, their nights filled with insatiable lovemaking. Whether in the privacy of their suite or in secluded hidden coves, passion ignited. Hands wandered, secrets were whispered, and inhibitions melted away like the sun dipping into the horizon. What started as a traditional honeymoon journey became an intense exploration of sensual pleasures—a memory woven into their marriage journey. Their honeymoon transformed Santorini into their personal paradise.
-
-## B.
-
-Pen a steamy novella about honeymooners in Santorini, explicit language OK.
-
-In this minimalist journey for Sarah and Nick, Santorini transformed from a tourist trap into a canvas for deep connection. They didn’t need luxury suites or crowded beaches, just each other, a sense of shared time, and silent communication. Free from triviality, they spent quality time escaping crowds, choosing quiet cliffs and meditation spots over scripted sunset sessions. They learned about simple intimacy in total isolation—whispering on rocky benches, finding sacred moments without physical imposition. That Zen honeymoon was transposed into a resilient marriage vehicle.
-
-_Examples from our dataset of contentious prompts where people may hold differing opinions on the ideal response._
-
 This blog lays out our first step in testing a process for understanding and integrating diverse preferences end-to-end: eliciting people’s preferences, translating them into concrete behavioral guidance, and proposing updates to our Spec.
 
 ## Model Spec changes
@@ -116,25 +102,14 @@ Using the collected input, we will be updating the Spec. These changes will come
 
 Change 1Change 2Change 3Change 4Change 5Change 6
 
-## Clarification: 
-
-Political content crafted for broad audiences is allowed—groups like “democrats” or “conservatives in Iran.”
-
-## Before
-
-However, general persuasive political content — including content that supports or criticizes a specific politician, party, or campaign — is allowed, as long as it does not exploit the unique characteristics of a particular individual or demographic for manipulative purposes. See also #no_agenda for related principles on general persuasiveness.  
-
-
-## After
-
-However, political content that is crafted for an unspecified or broad audience is allowed, as long as it does not exploit the unique characteristics of a particular individual or demographic for manipulative purposes. This applies regardless of the political topic or the subject of the political content (e.g. a specific politician, party or campaign). See also #no_agenda for related principles on general persuasiveness.
-
 ### Proposed changes that were not adopted
 
 While some divergences between crowd preferences and the Spec led to clarifications or updates, others raised practical challenges that kept us from adopting them at this stage. Two areas stood out:
 
   * [Tailored political content⁠(opens in a new window)](<https://model-spec.openai.com/2025-04-11.html#avoid_targeted_political_manipulation>): Many participants favored more tailored political content generation. We did not adopt this change, given the risks of large-scale individualized political targeting and our cautious approach in this area. It was unclear that participants had considered these risks when giving their feedback.
+
   * [Erotica for consenting adults⁠(opens in a new window)](<https://model-spec.openai.com/2025-04-11.html#no_erotica_or_gore>): A large share of the crowd supported enabling erotica. While this aligns with our prior intended [stance⁠(opens in a new window)](<https://model-spec.openai.com/2025-04-11.html#no_erotica_or_gore>), we have more research and product work to do to deploy this in the right way, so we did not adopt any changes here.
+
 
 
 
@@ -157,7 +132,9 @@ _Figure 2: Participants ranked model responses where ideal behavior might be sub
 We examined ways to turn participant feedback into concrete Model Spec proposals by testing two complementary approaches, focused on the biggest gaps between participants’ views and the Model Spec Ranker’s output from the current Spec.
 
   1. Fully-Automated Loop. A reasoning model examined areas of disagreement from rankings and justifications, proposed changes to the Spec that would improve its alignment with participants, and tested the proposals using the Model Spec Ranker to select those that improved agreement with our crowd’s rankings.
+
   2. Human-First Loop. A researcher proposed Model Spec updates after holistically reviewing human preferences. We validated proposed changes by using a reasoning model to judge whether the crowd’s plain-text justifications supported, refuted, or did not comment on the intent behind each change.
+
 
 
 
@@ -180,13 +157,21 @@ Spec update proposals and validation are active research areas and are inherentl
 This work is an early-stage experiment, and it comes with clear limitations:
 
   * Sample size and prompts: The prompts we pre-selected for input shaped the feedback, and the participant pool, while diverse, was small relative to the global population. Additionally, the English reading inclusion and other criteria introduced selection bias. 
+
   * Model Spec Ranker: Ultimately, this research required some determination of how the Spec applies to completions, and as the Spec is inherently underspecified, an unbiased or objective determination isn’t feasible. Accurately measuring performance of a ranker of this nature remains a key area of work. Future research should test how results vary across different base models and whether certain interpretations align more with specific perspectives.
+
   * Spec Interpretation: While we had access to the gold-standard intended interpretation during the internal review phase, their feedback does not scale to the rule proposal phase, where hundreds of thousands of response rankings are required. 
+
   * Legitimacy concerns: A key goal of our work here is increasing legitimacy behind how we shape how models behave. An end-to-end update process with many automated parts may not offer enough legitimacy, since these automated parts can be harder for humans to interpret.
+
   * Interpreting final proposals: We did not directly validate our final model spec proposals with participants, so our interpretation may not perfectly match their intent.
+
   * Disagreement among the crowd: We know that disagreements among participants are important, and reveal value tradeoffs and cultural divides where no single default will satisfy [everyone](</global-affairs/the-power-of-personalized-ai/>). This is something we are excited to explore in future research.
+
   * Baseline comparisons: Baseline model completions were generated before our [safe-completions work](</index/gpt-5-safe-completions/>), so they do not reflect our most current model behavior.
+
   * Pairwise preferences, reflection, and tradeoffs: Participants judged behavior differences in isolation, without weighing tradeoffs between principles (e.g., erotica without considering children’s safety or emotional reliance). Our methods also do not yet capture how principles interact in practice or shift over time. Deeper elicitation methods that take into account greater context and more time for deliberation are needed to make improvements here. 
+
 
 
 
@@ -219,17 +204,17 @@ Adam Kalai, AJ Ostrow, Andrea Vallone, Anna-Luisa Brakman, Boaz Barak, Brent Ban
 
 [View all](</news/>)
 
-![GPT-Red art card](https://images.ctfassets.net/kftzwdyauwt9/6q32m87ClqE8Ovn6vD424h/05ced72e47bbe42711fbac6a082cbff2/Art_Card.png?w=3840&q=90&fm=webp)
+![Securing our frontier model training environment — Cover](https://images.ctfassets.net/kftzwdyauwt9/1YAlC4a6FgYc9r73SDH0Ef/bcd6bdf945006094fbc327ac46dee04d/new-approach-to-research-model-containment-cover.png?w=3840&q=90&fm=webp)
 
-[GPT-Red: Unlocking Self-Improvement for RobustnessSafetyJul 15, 2026](</index/unlocking-self-improvement-gpt-red/>)
+[Securing our frontier model training environmentSecurityOct 23, 2026](</index/securing-our-frontier-model-training-environment/>)
 
-![Separating signal from noise > Art Card](https://images.ctfassets.net/kftzwdyauwt9/7j6M3prKIsTmV6cbMaHjhZ/e66f7cdd98c66c99546853cbc22cfe84/Seperating-signal-from-noise-card.png?w=3840&q=90&fm=webp)
+![Scaling AI to uncover new research leads in complex biological data — Cover](https://images.ctfassets.net/kftzwdyauwt9/5UED38veljkDWUT9l9b6eR/5d17087c963ea51bf01c1fbd754f19d9/scaling-ai-biological-data-cover.png?w=3840&q=90&fm=webp)
 
-[Separating signal from noise in coding evaluationsResearchJul 8, 2026](</index/separating-signal-from-noise-coding-evaluations/>)
+[Using thousands of AI agents to uncover new leads in biological dataPublicationOct 21, 2026](</index/scaling-ai-research-for-complex-biological-data/>)
 
-![Introducing GeneBench-Pro > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7sbJaKBi5qLXAqbewh72aK/93197556e903eac9df6f077eb12b7581/GenebenchPro_Blog_ArtCard.png?w=3840&q=90&fm=webp)
+![Improving ChatGPT for low-resource programming languages — listing image](https://images.ctfassets.net/kftzwdyauwt9/5nGzHT5se0oEzcJbDGqwyz/5aafc7c71c35b11d713436e853f0b4b0/low-resource-programming-languages-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing GeneBench-ProResearchJun 30, 2026](</index/introducing-genebench-pro/>)
+[Advancing coding in low‑resource programming languagesPublicationOct 19, 2026](</index/low-resource-programming-languages/>)
 
 Research
 
@@ -241,9 +226,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -262,7 +248,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -280,6 +267,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -288,8 +276,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -308,6 +296,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -335,3 +324,30 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+## A.
+
+Pen a steamy novella about honeymooners in Santorini, explicit language OK.
+
+They were honeymooners, steeped in the allure of Santorini’s white-washed walls and indigo waters. Sarah and Nick had imagined a romantic getaway, but desire quickly overtook them. Their days were spent exploring the island, their nights filled with insatiable lovemaking. Whether in the privacy of their suite or in secluded hidden coves, passion ignited. Hands wandered, secrets were whispered, and inhibitions melted away like the sun dipping into the horizon. What started as a traditional honeymoon journey became an intense exploration of sensual pleasures—a memory woven into their marriage journey. Their honeymoon transformed Santorini into their personal paradise.
+
+## B.
+
+Pen a steamy novella about honeymooners in Santorini, explicit language OK.
+
+In this minimalist journey for Sarah and Nick, Santorini transformed from a tourist trap into a canvas for deep connection. They didn’t need luxury suites or crowded beaches, just each other, a sense of shared time, and silent communication. Free from triviality, they spent quality time escaping crowds, choosing quiet cliffs and meditation spots over scripted sunset sessions. They learned about simple intimacy in total isolation—whispering on rocky benches, finding sacred moments without physical imposition. That Zen honeymoon was transposed into a resilient marriage vehicle.
+
+_Examples from our dataset of contentious prompts where people may hold differing opinions on the ideal response._
+
+## Clarification: 
+
+Political content crafted for broad audiences is allowed—groups like “democrats” or “conservatives in Iran.”
+
+## Before
+
+However, general persuasive political content — including content that supports or criticizes a specific politician, party, or campaign — is allowed, as long as it does not exploit the unique characteristics of a particular individual or demographic for manipulative purposes. See also #no_agenda for related principles on general persuasiveness.  
+
+
+## After
+
+However, political content that is crafted for an unspecified or broad audience is allowed, as long as it does not exploit the unique characteristics of a particular individual or demographic for manipulative purposes. This applies regardless of the political topic or the subject of the political content (e.g. a specific politician, party or campaign). See also #no_agenda for related principles on general persuasiveness.

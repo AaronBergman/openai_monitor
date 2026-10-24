@@ -38,7 +38,7 @@ OpenAI
 
 EXL is a global data and AI company: 68,000+ employees, $2.24B in revenue over the last 12 months, and delivery centers on 6 continents. We design, build, and run AI systems inside the operations of insurers, banks, healthcare payers, and life sciences firms, where audit trails and model risk review decide whether anything ships. Our agentic platform, EXLerate.ai, deploys OpenAI models against client data and 25 years of process knowledge. Through iMerit, acquired in 2026, we add expert data annotation, model evaluation, and red-teaming for frontier AI labs. Data-and-AI-led services are 61% of revenue and grew 30% in the second quarter of 2026.
 
-![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_FQVT5KKASWjBBFjsRNgKJ7PnGJVy)
+![Select Partner](/images/partner-tier-badges/OAI_PartnerNetwork_SelectPartner.svg?dpl=dpl_72wEdcgq5stSz49QsjnRrbhU8C6x)
 
 Countries served
     United States, Canada, United Kingdom, Ireland, India, Philippines, Australia, South Africa, Bulgaria, Czech Republic, Romania, and Colombia
@@ -59,10 +59,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -81,7 +81,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -108,8 +109,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -128,6 +129,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

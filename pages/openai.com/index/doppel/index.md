@@ -91,10 +91,15 @@ Doppel’s LLM-driven pipeline sits at the center of its detection stack. After 
 Here’s how it works:
 
   * **Signal filtering and feature extraction:** Doppel’s systems ingest millions of domains, URLs, and accounts daily. A combination of heuristics and OpenAI o4-mini filters out noise and extracts structured features to guide downstream model evaluations.
+
   * **Parallel threat confirmation:** Each signal is passed through multiple GPT‑5 prompts purpose-built for different types of threat analysis. These prompts assess factors like impersonation risk, brand misuse, or social engineering patterns.
+
   * **Threat classification:** The RFT version of o4-mini synthesizes the earlier confirmations to assign a structured label—malicious, benign, or ambiguous—with production-grade consistency.
+
   * **Final verification:** A second GPT‑5 pass validates the model’s decision and generates a natural-language justification. If confidence exceeds threshold, the system auto-initiates enforcement.
+
   * **Human review:** Low-confidence or conflicting results are routed to human analysts. Their decisions are logged and fed back into the RFT loop to continuously improve model consistency.
+
 
 
 
@@ -125,9 +130,13 @@ That visibility enhances trust, which is a critical factor for Doppel’s users.
 ## Results at a glance
 
   * Cut analyst workloads by 80%
+
   * Reduced threat response times from hours to minutes
+
   * Tripled threat-handling capacity
+
   * Most threats classified automatically
+
 
 
 
@@ -147,15 +156,17 @@ With each iteration, Doppel is building toward a system that defends what’s re
 
 ## Keep reading
 
-[Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free usersProductAug 6, 2026](</index/improving-gpt-5-6-sol-in-chatgpt/>)
+![Rapidly scaling online storage to serve over 1 billion ChatGPT users \(Part II\) — card](https://images.ctfassets.net/kftzwdyauwt9/3a839ECHaGsidJPLJqqm5s/55968ec17735b96514d1bb4851f43bf8/scaling-storage-one-billion-users-part-two-card.png?w=3840&q=90&fm=webp)
 
-![APA partnership > card image](https://images.ctfassets.net/kftzwdyauwt9/7Iu2mNExtUq2EqstK69WkH/7fb0f37c3c69d9481f8ea803af7ae613/openai-and-apa-advance-responsible-ai-for-youth-1_1.png?w=3840&q=90&fm=webp)
+[Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)EngineeringOct 23, 2026](</index/scaling-storage-one-billion-users-part-two/>)
 
-[OpenAI and APA advance responsible AI for youthCompanyAug 6, 2026](</index/openai-and-apa-partner-to-advance-responsible-ai/>)
+![Securing our frontier model training environment — Cover](https://images.ctfassets.net/kftzwdyauwt9/1YAlC4a6FgYc9r73SDH0Ef/bcd6bdf945006094fbc327ac46dee04d/new-approach-to-research-model-containment-cover.png?w=3840&q=90&fm=webp)
 
-![How people use ChatGPT around the world > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5quRLt4fW8Js506D8eNKl3/3d9938860836620ec50b148f4e3f1a49/Art_Card__5_.png?w=3840&q=90&fm=webp)
+[Securing our frontier model training environmentSecurityOct 23, 2026](</index/securing-our-frontier-model-training-environment/>)
 
-[How the world is putting ChatGPT to workCompanyAug 6, 2026](</index/how-the-world-is-putting-chatgpt-to-work/>)
+![OpenAI and Poland’s NASK announce partnership — cover](https://images.ctfassets.net/kftzwdyauwt9/5iNpIavxCdztEpxDKfc72s/15273fe6022d7f1c77b5a6622c26dd1f/openai-and-poland-s-nask-announce-partnership-cover.png?w=3840&q=90&fm=webp)
+
+[OpenAI and NASK partner on AI safety and securityGlobal AffairsOct 23, 2026](</index/openai-nask-ai-safety-security-partnership/>)
 
 Research
 
@@ -167,9 +178,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -188,7 +200,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -206,6 +219,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -214,8 +228,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -234,6 +248,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.deepjudge.ai/>)
 
-[![](https://files.openai.com/content?id=file_00000000e51c820a9016d312d0bff162&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=1bffa8e0936cf5c472d0e3ca4f2151587e3d20c774a8555a6e264b2e2dd0668f&v=0)DeepJudge Find precedent clauses confirming management's indemnification rights survive unchanged after a merger.(opens in a new window)](<https://chatgpt.com/?prompt=%40DeepJudge+Find+precedent+clauses+confirming+management%27s+indemnification+rights+survive+unchanged+after+a+merger.>)
+[![](https://files.openai.com/content?id=file_00000000e51c820a9016d312d0bff162&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=1bffa8e0936cf5c472d0e3ca4f2151587e3d20c774a8555a6e264b2e2dd0668f&v=0)DeepJudge Find precedent clauses confirming management's indemnification rights survive unchanged after a merger.(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a912914ffe08191a761d4b44f55c048?install&prompt=Find%20precedent%20clauses%20confirming%20management's%20indemnification%20rights%20survive%20unchanged%20after%20a%20merger.>)
 
 ## How it works
 
@@ -57,30 +57,30 @@ DeepJudge helps authorized users search internal documents, retrieve source cont
 
 ![](https://files.openai.com/content?id=file_00000000e51c820a9016d312d0bff162&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=1bffa8e0936cf5c472d0e3ca4f2151587e3d20c774a8555a6e264b2e2dd0668f&v=0)DeepJudge Find internal precedents preserving management's indemnification rights after a merger. Compare scope and exceptions, recommend the closest matches for our draft, and cite source clauses.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40DeepJudge+Find+internal+precedents+preserving+management%27s+indemnification+rights+after+a+merger.+Compare+scope+and+exceptions%2C+recommend+the+closest+matches+for+our+draft%2C+and+cite+source+clauses.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a912914ffe08191a761d4b44f55c048?install&prompt=Find%20internal%20precedents%20preserving%20management's%20indemnification%20rights%20after%20a%20merger.%20Compare%20scope%20and%20exceptions%2C%20recommend%20the%20closest%20matches%20for%20our%20draft%2C%20and%20cite%20source%20clauses.&surface=work>)
 
   * ### Compare force majeure exits
 
 ![](https://files.openai.com/content?id=file_00000000e51c820a9016d312d0bff162&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=1bffa8e0936cf5c472d0e3ca4f2151587e3d20c774a8555a6e264b2e2dd0668f&v=0)DeepJudge Find internal contracts allowing termination after extended force majeure. Compare duration thresholds and written notice requirements in a cited table, and flag differences to consider in our draft.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40DeepJudge+Find+internal+contracts+allowing+termination+after+extended+force+majeure.+Compare+duration+thresholds+and+written+notice+requirements+in+a+cited+table%2C+and+flag+differences+to+consider+in+our+draft.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a912914ffe08191a761d4b44f55c048?install&prompt=Find%20internal%20contracts%20allowing%20termination%20after%20extended%20force%20majeure.%20Compare%20duration%20thresholds%20and%20written%20notice%20requirements%20in%20a%20cited%20table%2C%20and%20flag%20differences%20to%20consider%20in%20our%20draft.&surface=work>)
 
   * ### Assess change of control terms
 
 ![](https://files.openai.com/content?id=file_00000000e51c820a9016d312d0bff162&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=1bffa8e0936cf5c472d0e3ca4f2151587e3d20c774a8555a6e264b2e2dd0668f&v=0)DeepJudge Search contracts for this matter for severance and equity acceleration triggered by a change of control. Summarize triggers and conditions with source citations, and prioritize provisions for further review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40DeepJudge+Search+contracts+for+this+matter+for+severance+and+equity+acceleration+triggered+by+a+change+of+control.+Summarize+triggers+and+conditions+with+source+citations%2C+and+prioritize+provisions+for+further+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a912914ffe08191a761d4b44f55c048?install&prompt=Search%20contracts%20for%20this%20matter%20for%20severance%20and%20equity%20acceleration%20triggered%20by%20a%20change%20of%20control.%20Summarize%20triggers%20and%20conditions%20with%20source%20citations%2C%20and%20prioritize%20provisions%20for%20further%20review.&surface=work>)
 
 
 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
-### [Privacy policyLearn more](<https://www.deepjudge.ai/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.deepjudge.ai/privacy-policy>)
 
 ## Add the DeepJudge plugin in a few clicks
 
@@ -90,13 +90,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingBuild banking analysis and client-ready materials.](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)LegalQuants TransactionalContract and deal workflows](</business/plugins/legalquants-transactional/>)[![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)HarveyLegal intelligence from Harvey](</business/plugins/harvey/>)[![](https://files.openai.com/content?id=file_00000000cac4820d98ffabd82b64b5e5&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=9019336a1754b36e48a3e49d09d9596a8064a3f03a157f37e799e8bd45400599&v=0)![](https://files.openai.com/content?id=file_00000000cac4820d98ffabd82b64b5e5&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=9019336a1754b36e48a3e49d09d9596a8064a3f03a157f37e799e8bd45400599&v=0)NetDocumentsSearch and retrieve documents](</business/plugins/netdocuments/>)[![](https://files.openai.com/content?id=file_000000003b788243b58bf33b5d039a1b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=cb1f1dea30dfc38b2ca73f1dd6d5732558f298df2f58c557685d6d2d69345d16&v=0)![](https://files.openai.com/content?id=file_000000003b788243b58bf33b5d039a1b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=cb1f1dea30dfc38b2ca73f1dd6d5732558f298df2f58c557685d6d2d69345d16&v=0)iManage WorkGoverned knowledge. AI ready.](</business/plugins/imanage-work/>)[![](https://files.openai.com/content?id=file_000000003cf081f4a823a4bcbcae26d0&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b3e1fc09e31bb17f78ebf55401f8d3cac3b9edd6087a211f7964659e5519685f&v=0)![](https://files.openai.com/content?id=file_0000000068c082118faa38a9695cf072&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=c55bd8046d0d523ffa96f722e6a8a90b9bdd2e9222af9131e995c3b7a7154b36&v=0)HighQSearch your matter data](</business/plugins/thomson-reuters-highq/>)
+[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingM&A, valuation, and financing](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)LegalQuants TransactionalContract and deal workflows](</business/plugins/legalquants-transactional/>)[![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)HarveyLegal intelligence from Harvey](</business/plugins/harvey/>)[![](https://files.openai.com/content?id=file_00000000cac4820d98ffabd82b64b5e5&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=9019336a1754b36e48a3e49d09d9596a8064a3f03a157f37e799e8bd45400599&v=0)![](https://files.openai.com/content?id=file_00000000cac4820d98ffabd82b64b5e5&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=9019336a1754b36e48a3e49d09d9596a8064a3f03a157f37e799e8bd45400599&v=0)NetDocumentsSearch and retrieve documents](</business/plugins/netdocuments/>)[![](https://files.openai.com/content?id=file_000000003b788243b58bf33b5d039a1b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=cb1f1dea30dfc38b2ca73f1dd6d5732558f298df2f58c557685d6d2d69345d16&v=0)![](https://files.openai.com/content?id=file_000000003b788243b58bf33b5d039a1b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=cb1f1dea30dfc38b2ca73f1dd6d5732558f298df2f58c557685d6d2d69345d16&v=0)iManage WorkGoverned knowledge. AI ready.](</business/plugins/imanage-work/>)[![](https://files.openai.com/content?id=file_000000003cf081f4a823a4bcbcae26d0&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b3e1fc09e31bb17f78ebf55401f8d3cac3b9edd6087a211f7964659e5519685f&v=0)![](https://files.openai.com/content?id=file_0000000068c082118faa38a9695cf072&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=c55bd8046d0d523ffa96f722e6a8a90b9bdd2e9222af9131e995c3b7a7154b36&v=0)HighQSearch your matter data](</business/plugins/thomson-reuters-highq/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -108,10 +118,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -130,7 +140,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -157,8 +168,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -177,6 +188,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

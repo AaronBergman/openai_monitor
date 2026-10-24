@@ -26,83 +26,123 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-OpenAI for retail
+OpenAI for retail and ecommerce
 
-# Power every retail store, shopper, and channel with AI
+# Stay ahead as AI reshapes shopping
 
-Give teams the tools to work more efficiently and make shopping memorable across every channel.
+Help customers discover your products, buy with confidence, and get expert service across your websites, apps, and stores.
 
-[Contact sales](</contact-sales/>)
+[Contact sales](</business/contact-sales-retail/>)[Get started(opens in a new window)](<https://chatgpt.com/team-sign-up>)
 
-![Warehouse worker wearing a high-visibility vest uses a tablet to check inventory while reaching for a box on a storage shelf in a large distribution center.](https://images.ctfassets.net/kftzwdyauwt9/5nmNL9J9IXJ3PWkJXswpsi/74fc3710db8f3630bc94010b4e472934/Soultions_for_Retail_v3.jpg?w=3840&q=90&fm=webp)
+Trusted by leading retailers
 
-### Trusted by leading retailers
+## Put AI to work across your retail business
 
-### AI you can deploy with confidence
+Get the models, tools, and deployment support to build and scale AI shopping experiences across text, voice, and images.
 
-Built to solve your biggest business challenges—from headquarters to every store.
+#### Help shoppers buy with confidence
 
-#### Powering the next era of retail 
+Build shopping assistants that can understand images, answer by voice, and show visual previews on your sites and apps.
 
-Stay ahead of shifting shopper expectations with insights from 800M+ weekly users researching and buying on ChatGPT.
+#### Reach customers as they decide
 
-#### Proven retail adoption paths
+Introduce your products through ChatGPT Ads as shoppers research, compare, and decide what to buy.
 
-Used by thousands of associates, merchandisers, and corporate teams to improve efficiency and create better shopping experiences.
+#### Deliver better service at scale
 
-#### Built to automate store processes
+Resolve customer and supplier issues faster with AI assistance connected to your product, order, and policy information.
 
-Agents, orchestration, and solution patterns solve today’s challenges from scheduling to replenishment, and unlock new opportunities.
+#### Bring new experiences to market faster
 
-### Accelerate innovation across your organization
+Build, test, and ship storefront features, shopping apps, and internal tools faster with Codex.
 
-Transform how your teams learn, build, and work with AI. 
+## AI use cases for retail and ecommerce
 
-![Data table and chat interface showing a question about which pet accessories SKUs are at risk of running out of stock, with inventory details visible in the background.](https://images.ctfassets.net/kftzwdyauwt9/1NDuHWQeMYdPBFgTTO5Z8j/5336ea525bc229ba9740daaf4e5c36bc/Proven_Adoption.png?w=3840&q=90&fm=webp)
+## Reach shoppers in ChatGPT
 
-### Drive productivity in every department 
+1.2 billion people use ChatGPT each week. Connect with shoppers as they explore, compare, and decide what to buy.
 
-With ChatGPT Enterprise, teams can analyze sales and shopper data, streamline merchandising and marketing workflows, and delight shoppers with fast, efficient service.
+#### Get your products discovered
 
-[Contact sales](</contact-sales/>)[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)
+Help shoppers find your products by sharing current product details, prices, and availability.
 
-![Analytics dashboard titled “Global Sales Trends 2026” showing a question about the impact of a 25% markdown on cereal sales, with charts and category breakdowns.](https://images.ctfassets.net/kftzwdyauwt9/5gigsaYcbaH31bc1TwKAZH/6f2bb8c3b2c272f04622387fe485f3b9/Shaping_the_next_era_of_retail.png?w=3840&q=90&fm=webp)
+[Share product feeds(opens in a new window)](<https://chatgpt.com/merchants/>)
 
-### Build intelligent operations across channels
+#### Reach customers with relevant ads
 
-Use the API Platform and Codex to create team assistants and automated workflows that scale AI across your stores, distribution centers, supply chain, and digital experiences.
+Introduce your products during relevant shopping conversations and measure campaign performance.
 
-[Explore API platform](</api/>)[Try Codex](</codex/>)
+[Try ChatGPT ads(opens in a new window)](<https://ads.openai.com/>)
 
-![Grid of integration logos including Canva, Google, Box, Databricks, Slack, Dropbox, SharePoint, and GitHub on a blue gradient background.](https://images.ctfassets.net/kftzwdyauwt9/0je9KqiifJK0I0mpPT3mZ/b301f97a3bc0f750bcbf829ca76ff3dc/Innovation_that_grows_with_you.png?w=3840&q=90&fm=webp)
+![Two ChatGPT conversations showing grocery ads and product recommendations on a blue gradient.](https://images.ctfassets.net/kftzwdyauwt9/3v8J2lbMFrPfKoq0AWRBgK/b6fd7bfa183e7686114e661a7b5b3965/reach-shoppers-chatgpt-inline.png?w=3840&q=90&fm=webp)
 
-### Connect your shopper and business data
+## Trusted by retail and ecommerce leaders
 
-Securely bring together external signals, inventory trends, historical data, and internal knowledge to enrich every prompt and deliver more informed outputs.
+1 of 4
 
-[Explore app integrations](</business/plugins/>)[Connect with MCP](<https://platform.openai.com/docs/mcp>)
+> “We wanted to give every associate the confidence of a ten-year veteran… Before, you’d have three people spending 30 minutes trying to help. Now, one associate can get it done in minutes.”
 
-### High-impact use cases for retail
+Vinny Scalese, SVP of Store Operations, Lowe’s
 
-### Learn from leaders driving change
+> “We’re building for a world where AI is part of the shopping journey. What’s been most valuable is the thought partnership. … It’s working through new use cases together and being able to move quickly.”
 
-![Lowes logo superimposed on an abstract painting with prominent blue brushstrokes.](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
+Fiona Tan, Chief Technology Officer, Wayfair
 
-[Lowe’s puts project expertise into every hand ](</index/lowes/>)
+> “…partnering with OpenAI to make discovery through the Target app in ChatGPT as easy and joyful as browsing our aisles.”
 
-![OpenAI | Target](https://images.ctfassets.net/kftzwdyauwt9/6P5KRvvJ6ActnTBekWeF97/583436c7976f7823f04f731d1bb2172f/OpenAI_Target_Partnership_Blog_1-1.png?w=3840&q=90&fm=webp)
+Prat Vemana, EVP, Chief Information and Product Officer, Target
 
-[OpenAI and Target team up on new AI-powered experiencesCompany](</index/target-partnership/>)
+> “By partnering closely with OpenAI, we’ve been able to learn together as we move quickly to shape what agentic commerce can become.”
 
-![Zalando logo in white, centered over a textured blue surface resembling fabric or a synthetic material.](https://images.ctfassets.net/kftzwdyauwt9/6SOwtELA1S0TYqttuHDBux/39e0d269327c02d3a6cc83679170f882/oai_zalando_1_1.png?w=3840&q=90&fm=webp)
+Daniel Danker, EVP, AI Acceleration, Product and Design, Walmart
 
-[Boosting the customer retail experience with GPT-4o mini](</index/zalando/>)
+  * Lowe’s
 
-## Change how people shop, research, and work together
+  * Wayfair
 
-See how OpenAI can help you get started and scale AI faster.
+  * Target
 
-[Contact sales](</contact-sales/>)
+  * Walmart
+
+
+
+
+  * Lowe’s
+  * Wayfair
+  * Target
+  * Walmart
+
+
+
+## See how retail leaders put AI to work
+
+![Lowe’s logo on a blue painted background.](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
+
+[Scaled expert guidance online and in stores](</index/lowes/>)
+
+![White Albertsons logo centered on blue abstract artwork.](https://images.ctfassets.net/kftzwdyauwt9/1ESUF0o2HsfiYhNYXZOn6p/0f544e5fd29915819ffc87aa56d2c412/albertsons-retail-card.png?w=3840&q=90&fm=webp)
+
+[Opened a new shopping channel in ChatGPT](</index/albertsons-reimagining-retail/>)
+
+![Wayfair logo on a purple textured background.](https://images.ctfassets.net/kftzwdyauwt9/1AHxshp97DsdLFaEA7wNFe/f11dd8a1aa25536c436b50c62fec9210/oai_wayfair_1x1.png?w=3840&q=90&fm=webp)
+
+[Expanded product discovery and freed team capacity](</index/wayfair/>)
+
+## Build your next retail experience with OpenAI
+
+Talk with our retail sales team about your business priorities and where AI can make the biggest difference.
+
+[Contact sales](</business/contact-sales-retail/>)[Get started(opens in a new window)](<https://chatgpt.com/team-sign-up>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -114,10 +154,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -136,7 +176,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -154,6 +195,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -162,8 +204,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -182,6 +224,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -210,40 +253,32 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-![Shopping assistant interface asking for gift budget preferences, with selectable options like “Up to $25” and “Up to $50,” and a prompt for shopping research.](https://images.ctfassets.net/kftzwdyauwt9/4Jy2cOmSfeGqgtqcLIoT14/7e10605b4f43acc86033e06fc3272583/Changing_how_consumers_shop.png?w=3840&q=90&fm=webp)
+![Shopping assistant recommends two outfits for a work dinner under $250, alongside shoes and pearl earrings.](https://images.ctfassets.net/kftzwdyauwt9/gcmtlxYIEGqvMfUahsUIm/43628b6126d42a6664288e5711ed237c/retail-shopping-assistance-inline.png?w=3840&q=90&fm=webp)
 
-![Conversational retail assistant recommending an alternative grill product, “X-Grill 500,” after confirming another item is out of stock.](https://images.ctfassets.net/kftzwdyauwt9/6QNAooMe9umpu9t4ZKDug7/a5194fc64e9438f00d7a3b03ee4fc6d6/Equip_store_teams_with_an_intelligent_companion.png?w=3840&q=90&fm=webp)
+![Supplier Support Workspace compares shipment and receiving records, opens a receiving review, and drafts a supplier reply.](https://images.ctfassets.net/kftzwdyauwt9/51gjrpetOzP8rI1C6MreNq/1897150daa2b02ca3cab575b7f9d0fc9/retail-customer-supplier-service-inline.png?w=3840&q=90&fm=webp)
 
-![Marketing creative interface displaying a coffee cup promo image and text reading “Aussie Coffee. Come Say G’day on Open Day 17 March 9am,” alongside a prompt to create a promotional image.](https://images.ctfassets.net/kftzwdyauwt9/3aD0gQszmpVW6BnnLb5HXT/702baae976ba31a319daab8692d52d4d/Accelerate_and_localize_marketing_creative.png?w=3840&q=90&fm=webp)
+![Catalog quality review corrects a coffee table’s material, leg design, finish, scalloped edges, and drawer attributes.](https://images.ctfassets.net/kftzwdyauwt9/Dp6M84TV7UJmUNU86CCeb/37365434670a1711f02504e11603378b/retail-catalog-enrichment-inline.png?w=3840&q=90&fm=webp)
 
-![Interface mockup showing a conversational shopping assistant answering a customer question about winter pants to pair with a jacket, with an agent panel labeled “Fashion Agent.”](https://images.ctfassets.net/kftzwdyauwt9/3skmmAlH3yXbMnNvDoUzfB/ad01297148fc808683ab46acb5cb6da1/Create_conversational_shopping_experiences.png?w=3840&q=90&fm=webp)
+![Associate Assistant recommends a waterproof jacket under $150 with size, stock, store location, and returns information.](https://images.ctfassets.net/kftzwdyauwt9/ObbPtjVhrNs2AF56lCyJh/e027395e7d23a804fd676b5de2bde2a7/retail-store-associate-assistance-inline.png?w=3840&q=90&fm=webp)
 
-![Supplier analytics view ranking top suppliers to prioritize, with a chat prompt asking which suppliers to focus outreach on and a ranked explanation shown in the background.](https://images.ctfassets.net/kftzwdyauwt9/3TwrXtzNCkfTO7WiU8ljVF/3adce7398b3ea3b8e65575aecd985d6d/Strengthen_supplier_negotiations.png?w=3840&q=90&fm=webp)
+![Codex adds and tests a “Complete the look” feature for a retail storefront showing coordinated products.](https://images.ctfassets.net/kftzwdyauwt9/74mbQVZoVIABn6Os81wDh/220711710ded22f46156d51af3aced48/retail-software-development-inline.png?w=3840&q=90&fm=webp)
 
-![Store visit report interface with an action plan table listing issues, impact levels, and recommended actions, alongside uploaded photos and notes from a store walk.](https://images.ctfassets.net/kftzwdyauwt9/2fFz7oNTIwYvnGvaUPqylh/22f9b07ab702bcf529e3fd7fde473034/Optimize_store_visits_with_actionable_insights.png?w=3840&q=90&fm=webp)
+### Shopping assistance
 
-### Change how consumers shop
+Help shoppers find and choose the right products with personalized guidance.
 
-Hundreds of millions of people use ChatGPT to find products. ChatGPT shopping research gives them in-depth comparisons, constraints, and tradeoffs.
+### Customer and supplier service
 
-[Learn more⁠](<https://openai.com/index/chatgpt-shopping-research/>)
+Resolve routine requests faster so teams can focus on complex issues.
 
-### Equip store teams with an intelligent companion
+### Catalog enrichment
 
-Associates receive instant, multilingual answers to product, policy, and operational questions—and can guide shoppers to the right items or alternatives—reducing training time and improving service consistency.
+Make products easier to discover and compare with richer descriptions and accurate attributes.
 
-### Accelerate and localize marketing creative
+### Store associate assistance
 
-Teams can generate concepts, adapt assets for every channel or market, and iterate visual styles in seconds, speeding up production and improving personalization.
+Give associates product expertise to serve customers confidently across departments.
 
-### Create conversational shopping experiences
+### Software development
 
-Shoppers can describe what they need in their own words and receive accurate product suggestions that increase conversion and reduce returns.
-
-### Strengthen supplier negotiations
-
-AI synthesizes sales, margin, inventory, and delivery inputs into negotiation-ready analyses and talking points, increasing merchant bandwidth and improving financial outcomes.
-
-### Optimize store visits with actionable insights
-
-Regional leaders can turn notes and photos from in-person visits into clear insights and prioritized action plans, helping raise service quality across stores.
+Build, test, and improve storefronts and internal tools faster with Codex.
