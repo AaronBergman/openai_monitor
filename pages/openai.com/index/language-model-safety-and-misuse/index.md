@@ -73,10 +73,15 @@ Over the past two years, we’ve learned a lot about how language models can be 
 Large language models are now capable of performing a [very wide range of tasks⁠(opens in a new window)](<https://arxiv.org/abs/2005.14165>), often out of the box. Their risk profiles, potential applications, and wider effects on society [remain⁠(opens in a new window)](<https://arxiv.org/abs/2108.07258>) [poorly⁠(opens in a new window)](<https://arxiv.org/abs/2102.02503>) [understood⁠(opens in a new window)](<https://deepmind.com/research/publications/2021/ethical-and-social-risks-of-harm-from-language-models>). As a result, our deployment approach emphasizes continuous iteration, and makes use of the following strategies aimed at maximizing the benefits of deployment while reducing associated risks:
 
   * Pre-deployment risk analysis, leveraging a growing set of safety evaluations and red teaming tools (e.g., we checked our InstructGPT for any safety degradations using the evaluations [discussed below⁠](</index/language-model-safety-and-misuse/#risk-impact-measurement>))
+
   * Starting with a small user base (e.g., both GPT‑3 and our [InstructGPT⁠](</index/instruction-following/>) series began as private betas)
+
   * Studying the results of pilots of novel use cases (e.g., exploring the conditions under which we could safely enable longform content generation, working with a small number of customers)
+
   * Implementing processes that help keep a pulse on usage (e.g., review of use cases, token quotas, and rate limits)
+
   * Conducting detailed retrospective reviews (e.g., of safety incidents and major deployments)
+
 
 
 
@@ -89,13 +94,21 @@ There is no silver bullet for responsible deployment, so we try to learn about a
 While not exhaustive, some areas where we’ve invested so far includeA:
 
   * Pre-training [data⁠(opens in a new window)](<https://arxiv.org/abs/2005.14165>) curation and filtering
+
   * [Fine-tuning⁠](</index/improving-language-model-behavior/>) models to better [follow instructions⁠](</index/instruction-following/>)
+
   * Risk analysis of potential deployments
+
   * Providing detailed user [documentation⁠(opens in a new window)](<https://beta.openai.com/docs/introduction/overview>)
+
   * Building [tools⁠(opens in a new window)](<https://beta.openai.com/docs/engines/content-filter>) to screen harmful model outputs
+
   * Reviewing use cases against our [policies⁠(opens in a new window)](<https://beta.openai.com/docs/usage-guidelines>)
+
   * Monitoring for signs of [misuse⁠](</index/language-model-safety-and-misuse/#misuse>)
+
   * Studying the [impacts of our models⁠](</index/language-model-safety-and-misuse/#risk-impact-measurement>)
+
 
 
 
@@ -210,15 +223,15 @@ Thanks to Lilian Weng, Rosie Campbell, Anna Makanju, Bob McGrew, Hannah Wong, Ry
 
 [View all](</news/>)
 
-![Disrupting malicious > media](https://images.ctfassets.net/kftzwdyauwt9/5080983d-9c4d-4479-17e421d7380a/0b42f77c2478bc5bc7bde3fddfc68462/45.png?w=3840&q=90&fm=webp)
+![Painterly depiction of a vibrant orange flower on a stem, rendered with a soft focus and warm yellow tones.](https://images.ctfassets.net/kftzwdyauwt9/5080983d-9c4d-4479-17e421d7380a/0b42f77c2478bc5bc7bde3fddfc68462/45.png?w=3840&q=90&fm=webp)
 
 [Disrupting malicious uses of AI by state-affiliated threat actorsSecurityFeb 14, 2024](</index/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors/>)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/ec66425e-99ca-4314-d04b087f8727/de7341b6a5281c2a220b93a737ce19b0/building-an-early-warning-system-for-llm-aided-biological-threat-creation.jpg?w=3840&q=90&fm=webp)
+![Sweeping strokes of orange, yellow, and purple in an abstract design](https://images.ctfassets.net/kftzwdyauwt9/ec66425e-99ca-4314-d04b087f8727/de7341b6a5281c2a220b93a737ce19b0/building-an-early-warning-system-for-llm-aided-biological-threat-creation.jpg?w=3840&q=90&fm=webp)
 
 [Building an early warning system for LLM-aided biological threat creationPublicationJan 31, 2024](</index/building-an-early-warning-system-for-llm-aided-biological-threat-creation/>)
 
-![Democratic Inputs To AI Grant Program Update](https://images.ctfassets.net/kftzwdyauwt9/f50ce1d2-4f61-4ed2-e560c624d631/6f4dd4542898a35d0a91b137f85c9834/Democratic_inputs_to_AI_grant_program_lessons_learned_and_implementation_plans.jpg?w=3840&q=90&fm=webp)
+![Abstract floral pattern with vibrant purple blooms on a green backdrop](https://images.ctfassets.net/kftzwdyauwt9/f50ce1d2-4f61-4ed2-e560c624d631/6f4dd4542898a35d0a91b137f85c9834/Democratic_inputs_to_AI_grant_program_lessons_learned_and_implementation_plans.jpg?w=3840&q=90&fm=webp)
 
 [Democratic inputs to AI grant program: lessons learned and implementation plansSafetyJan 16, 2024](</index/democratic-inputs-to-ai-grant-program-update/>)
 
@@ -232,9 +245,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -253,7 +267,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -271,6 +286,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -279,8 +295,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -299,6 +315,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

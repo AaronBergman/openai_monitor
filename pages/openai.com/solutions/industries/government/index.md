@@ -26,14 +26,6 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-Webinar
-
-### Join us Monday, September 14, 11:15 a.m.–12 p.m. ET
-
-to learn about OneGov access for eligible state, local, and federal governments and tribal nations.
-
-[Register Now(opens in a new window)](<https://academy.openai.com/home/events/openai-onegov-2-0-what-government-leaders-need-to-know-72u08jy54f>)
-
 OpenAI for government
 
 # AI that meets the needs of government
@@ -96,7 +88,7 @@ Learn more about FedRAMP⁠(opens in a new window)](<https://help.openai.com/en/
 
 #### ChatGPT Gov and AWS GovCloud for sensitive workloads
 
-Use ChatGPT Gov for a self-hosted experience on Azure OpenAI, or use Codex & API deployments in AWS GovCloud (coming soon).
+Use ChatGPT Gov for a self-hosted experience on Azure OpenAI, or use Codex & API deployments in AWS GovCloud.
 
   * Extend AI to more sensitive internal workflows, subject to our usage policies.
 
@@ -118,7 +110,7 @@ Use ChatGPT Gov for a self-hosted experience on Azure OpenAI, or use Codex & API
 ChatGPT FedRAMP| **✓**| **✓**|  —| —  
 OpenAI API FedRAMP| **✓**| **✓**|  —| —  
 AWS GovCloud API| **✓**| **✓**| **✓**| **✓**  
-AWS GovCloud Codex| Coming soon| Coming soon| Coming soon| Coming soon  
+AWS GovCloud Codex| **✓**| **✓**| **✓**| **✓**  
   
 ## OpenAI for Government FAQ
 
@@ -150,6 +142,16 @@ See why over 1 million public sector professionals rely on OpenAI products to su
 
 [Contact sales](</contact-sales/>)
 
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
+
 Research
 
   * [Research Index](</research/index/>)
@@ -160,10 +162,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -182,7 +184,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -200,6 +203,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -208,8 +212,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -228,6 +232,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -287,7 +292,9 @@ For FedRAMP package access, U.S. agencies can contact [_fedramp@openai.com_ ⁠]
 
 ### Does OpenAI offer Codex for government customers?
 
-Yes. Codex CLI is currently offered via FedRAMP API key sign-in to respect the FedRAMP boundary. Soon other Codex modalities (Desktop App, IDE, Cloud) and sign-in options (FedRAMP ChatGPT) will be available. The downloadable local Codex product sits outside the FedRAMP boundary due to FedRAMP rules and should be reviewed by the agency Authorizing Official (more [_here_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/20001070-chatgpt-enterprise-and-api-platform-for-fedramp?#codex>)).
+Yes. Codex App and CLI are now available for local workflows with Amazon Bedrock in AWS GovCloud. See the [GovCloud configuration guide⁠(opens in a new window)](<https://learn.chatgpt.com/docs/enterprise/govcloud-configuration>).
+
+Codex CLI is currently offered via FedRAMP API key sign-in to respect the FedRAMP boundary. The downloadable local Codex product sits outside the FedRAMP boundary due to FedRAMP rules and should be reviewed by the agency Authorizing Official (more [_here_ ⁠(opens in a new window)](<https://help.openai.com/articles/20001070-chatgpt-enterprise-and-api-platform-for-fedramp?#codex>)).
 
 ### Can I use OpenAI API in government environments?
 

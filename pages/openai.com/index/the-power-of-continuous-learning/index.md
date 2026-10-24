@@ -47,8 +47,11 @@ Share
 Artificial general intelligence (AGI) should outperform humans at most economically valuable work. I’m looking forward to seeing AGI help human society in these ways:
 
   1. Fully automate or significantly reduce human efforts on tasks that are repetitive and non-innovative. In other words, AGI should drastically boost human productivity.
+
   2. Greatly expedite the discovery of new scientific breakthroughs, including but not limited to facilitating human decision making process by providing additional analyses and information.
+
   3. Understand and interact with the physical world effectively, efficiently and safely.
+
 
 
 
@@ -61,8 +64,11 @@ From simulation and RL training to vision perception and hardware firmware, we c
 Since the beginning of 2021, I started leading the Applied AI Research team. Managing a team presents a different set of challenges and requires working style changes. I’m most proud of several projects related to language model safety within Applied AI:
 
   1. We designed and constructed a set of evaluation data and tasks to assess the tendency of pre-trained language models to generate hateful, sexual, or violent content.
+
   2. We created a detailed taxonomy and built a strong classifier to [detect unwanted content⁠](</index/new-and-improved-content-moderation-tooling/>) as well as the reason why the content is inappropriate.
+
   3. We are working on various techniques to make the model less likely to generate unsafe outputs.
+
 
 
 
@@ -116,15 +122,15 @@ People around me. I’m honored to work with a large group of extremely talented
 
 [View all](</news/>)
 
-![city](https://images.ctfassets.net/kftzwdyauwt9/5Wm11GSMw6U7lLDKdcyuUY/3180687ca07ba934009f3c2b9219c10c/city.webp?w=3840&q=90&fm=webp)
+![Abstract image with warm tones and geometric shapes reminiscent of a sunset over a stylized city skyline.](https://images.ctfassets.net/kftzwdyauwt9/5Wm11GSMw6U7lLDKdcyuUY/3180687ca07ba934009f3c2b9219c10c/city.webp?w=3840&q=90&fm=webp)
 
 [Introducing OpenAI LondonCompanyJun 28, 2023](</index/introducing-openai-london/>)
 
-![Person gazing across the room with an optimistic expression](https://images.ctfassets.net/kftzwdyauwt9/21098b49-868d-4515-ca433071d782/838b1914602aaba2e3d935b70d1fa11b/stangel-2022-0795.jpg?w=3840&q=90&fm=webp)
+![Headshot of a smiling person with glasses looking to the side against a concrete background.](https://images.ctfassets.net/kftzwdyauwt9/21098b49-868d-4515-ca433071d782/838b1914602aaba2e3d935b70d1fa11b/stangel-2022-0795.jpg?w=3840&q=90&fm=webp)
 
 [Discovering the minutiae of backend systemsCompanyDec 8, 2022](</index/discovering-the-minutiae-of-backend-systems/>)
 
-![openai-residency](https://images.ctfassets.net/kftzwdyauwt9/3CWY2fzXldmJCJPs2UQU4m/e433068601b00f45980358b7d03a0524/openai-residency.jpg?w=3840&q=90&fm=webp)
+![Expressionistic use of pastels to create a vivid scene of pink peaks against a bright blue sky.](https://images.ctfassets.net/kftzwdyauwt9/3CWY2fzXldmJCJPs2UQU4m/e433068601b00f45980358b7d03a0524/openai-residency.jpg?w=3840&q=90&fm=webp)
 
 [OpenAI ResidencyCompanyNov 30, 2021](</index/openai-residency/>)
 
@@ -138,9 +144,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -159,7 +166,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -177,6 +185,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -185,8 +194,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -205,6 +214,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

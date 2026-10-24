@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.sanity.io/>)
 
-[![](https://files.openai.com/content?id=file_00000000d93881f5ba3e018685339586&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=64f93e0cf4b4339a012d8c16094192a0fce27e7675d8d78f1ee576730556cb5b&v=0)![](https://files.openai.com/content?id=file_00000000edd881f7a2ca70577b668076&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b5dc0aff14c24e7d4062ed7a24b376a7d95c615380cdc3c16b6822a46bf0df16&v=0)Sanity create 5 new recipe pages for our Spring menu(opens in a new window)](<https://chatgpt.com/?prompt=%40Sanity+create+5+new+recipe+pages+for+our+Spring+menu>)
+[![](https://files.openai.com/content?id=file_00000000d93881f5ba3e018685339586&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=64f93e0cf4b4339a012d8c16094192a0fce27e7675d8d78f1ee576730556cb5b&v=0)![](https://files.openai.com/content?id=file_00000000edd881f7a2ca70577b668076&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b5dc0aff14c24e7d4062ed7a24b376a7d95c615380cdc3c16b6822a46bf0df16&v=0)Sanity create 5 new recipe pages for our Spring menu(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69ceae6d8d78819192e59f76b8e170b5?install&prompt=create%205%20new%20recipe%20pages%20for%20our%20Spring%20menu>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Create, query, and manage your structured content in Sanity directly from ChatGP
 
 ![](https://files.openai.com/content?id=file_00000000d93881f5ba3e018685339586&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=64f93e0cf4b4339a012d8c16094192a0fce27e7675d8d78f1ee576730556cb5b&v=0)![](https://files.openai.com/content?id=file_00000000edd881f7a2ca70577b668076&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b5dc0aff14c24e7d4062ed7a24b376a7d95c615380cdc3c16b6822a46bf0df16&v=0)Sanity Audit these Sanity documents for missing required content and inconsistent terminology. Group issues by priority and link the affected records.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Sanity+Audit+these+Sanity+documents+for+missing+required+content+and+inconsistent+terminology.+Group+issues+by+priority+and+link+the+affected+records.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69ceae6d8d78819192e59f76b8e170b5?install&prompt=Audit%20these%20Sanity%20documents%20for%20missing%20required%20content%20and%20inconsistent%20terminology.%20Group%20issues%20by%20priority%20and%20link%20the%20affected%20records.&surface=work>)
 
   * ### Draft product pages
 
 ![](https://files.openai.com/content?id=file_00000000d93881f5ba3e018685339586&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=64f93e0cf4b4339a012d8c16094192a0fce27e7675d8d78f1ee576730556cb5b&v=0)![](https://files.openai.com/content?id=file_00000000edd881f7a2ca70577b668076&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b5dc0aff14c24e7d4062ed7a24b376a7d95c615380cdc3c16b6822a46bf0df16&v=0)Sanity Create draft Sanity product pages from this supplied data. Follow the existing schema, preserve source facts, and flag missing fields.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Sanity+Create+draft+Sanity+product+pages+from+this+supplied+data.+Follow+the+existing+schema%2C+preserve+source+facts%2C+and+flag+missing+fields.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69ceae6d8d78819192e59f76b8e170b5?install&prompt=Create%20draft%20Sanity%20product%20pages%20from%20this%20supplied%20data.%20Follow%20the%20existing%20schema%2C%20preserve%20source%20facts%2C%20and%20flag%20missing%20fields.&surface=work>)
 
   * ### Review release readiness
 
 ![](https://files.openai.com/content?id=file_00000000d93881f5ba3e018685339586&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=64f93e0cf4b4339a012d8c16094192a0fce27e7675d8d78f1ee576730556cb5b&v=0)![](https://files.openai.com/content?id=file_00000000edd881f7a2ca70577b668076&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b5dc0aff14c24e7d4062ed7a24b376a7d95c615380cdc3c16b6822a46bf0df16&v=0)Sanity Review the documents in this Sanity release. Summarize the changes and flag missing content or broken references before publication.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Sanity+Review+the+documents+in+this+Sanity+release.+Summarize+the+changes+and+flag+missing+content+or+broken+references+before+publication.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69ceae6d8d78819192e59f76b8e170b5?install&prompt=Review%20the%20documents%20in%20this%20Sanity%20release.%20Summarize%20the%20changes%20and%20flag%20missing%20content%20or%20broken%20references%20before%20publication.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Create, query, and manage your structured content in Sanity directly from ChatGP
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://www.sanity.io/community/join>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.sanity.io/community/join>)
 
-### [Privacy policyLearn more](<https://www.sanity.io/legal/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.sanity.io/legal/privacy>)
 
 ## Add the Sanity plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
+[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
