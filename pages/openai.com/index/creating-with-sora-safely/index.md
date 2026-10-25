@@ -74,17 +74,17 @@ The Sora team
 
 [View all](</news/>)
 
-![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
+![Broad access through consistent standards — Cover](https://images.ctfassets.net/kftzwdyauwt9/5yeylkVM0cZ2W6k2lcnVyE/42a8333bccf5064328630ebf7c667082/broad-access-through-consistent-standards-cover.png?w=3840&q=90&fm=webp)
 
-[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
+[Broad access through consistent standardsSafetyOct 21, 2026](</index/broad-access-through-consistent-standards/>)
 
-![Teen development research grants — Card image](https://images.ctfassets.net/kftzwdyauwt9/492WJ2zEboE6VdmchhCjIA/34e10aa1208a6988e3db2341d849d5b4/4bzz6p65ky7zwfd4pe42ou-cover__3_.png?w=3840&q=90&fm=webp)
+![Disrupting AI-enabled “false front” operations — cover](https://images.ctfassets.net/kftzwdyauwt9/DQdWPLtWbsq27D3JQPXZR/866ddf9dbac46c29308afa0f381bc17d/false-front-operations-cover.png?w=3840&q=90&fm=webp)
 
-[Funding grants for new research into AI and teen developmentSafetySep 8, 2026](</index/teen-development-research-grants/>)
+[Disrupting AI-enabled “false front” operationsSafetyOct 8, 2026](</index/disrupting-ai-enabled-false-front-operations/>)
 
-![An alien mind > Listing card](https://images.ctfassets.net/kftzwdyauwt9/7ut3G8rKt5ia4P3yRqi2qN/6ffb429f70548a881eb46a4e7e61498e/Option_120___1080_1080.png?w=3840&q=90&fm=webp)
+![Our approach to EU provenance rules ](https://images.ctfassets.net/kftzwdyauwt9/uKx7OoL1QHDbl0T3GSTZG/0dd587131d067b16e32a9d0196d1ff52/our-approach-to-eu-provenance-rules-cover.png?w=3840&q=90&fm=webp)
 
-[An Alien MindSafetySep 6, 2026](</index/an-alien-mind/>)
+[Our approach to EU text provenance rulesSafetyOct 5, 2026](</index/eu-text-provenance/>)
 
 Research
 
@@ -96,10 +96,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -118,7 +118,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -136,6 +137,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -144,8 +146,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -164,6 +166,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

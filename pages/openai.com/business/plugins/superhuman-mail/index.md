@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://superhuman.com/products/mail>)
 
-[![](https://files.openai.com/content?id=file_000000003dc481f79d27abe9bc606400&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=df15c2affd7fda6cf42d6e94413ef75d90e3578c39d6665c746125b581468b73&v=0)Superhuman Mail draft an email introducing myself to Lauren(opens in a new window)](<https://chatgpt.com/?prompt=%40Superhuman+Mail+draft+an+email+introducing+myself+to+Lauren>)
+[![](https://files.openai.com/content?id=file_000000003dc481f79d27abe9bc606400&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=df15c2affd7fda6cf42d6e94413ef75d90e3578c39d6665c746125b581468b73&v=0)Superhuman Mail draft an email introducing myself to Lauren(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69a21e4058dc8191a6220fa911310d7b?install&prompt=draft%20an%20email%20introducing%20myself%20to%20Lauren>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Connect Superhuman Mail to build powerful workflows across Gmail, Outlook, and G
 
 ![](https://files.openai.com/content?id=file_000000003dc481f79d27abe9bc606400&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=df15c2affd7fda6cf42d6e94413ef75d90e3578c39d6665c746125b581468b73&v=0)Superhuman Mail Review customer emails from the last seven days. Summarize the unresolved requests and recommend which threads to address first, with links or message references.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Superhuman+Mail+Review+customer+emails+from+the+last+seven+days.+Summarize+the+unresolved+requests+and+recommend+which+threads+to+address+first%2C+with+links+or+message+references.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69a21e4058dc8191a6220fa911310d7b?install&prompt=Review%20customer%20emails%20from%20the%20last%20seven%20days.%20Summarize%20the%20unresolved%20requests%20and%20recommend%20which%20threads%20to%20address%20first%2C%20with%20links%20or%20message%20references.&surface=work>)
 
   * ### Prepare an email reply
 
 ![](https://files.openai.com/content?id=file_000000003dc481f79d27abe9bc606400&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=df15c2affd7fda6cf42d6e94413ef75d90e3578c39d6665c746125b581468b73&v=0)Superhuman Mail Read this email thread and draft a concise reply that addresses each open question. Flag any facts I need to confirm before sending.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Superhuman+Mail+Read+this+email+thread+and+draft+a+concise+reply+that+addresses+each+open+question.+Flag+any+facts+I+need+to+confirm+before+sending.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69a21e4058dc8191a6220fa911310d7b?install&prompt=Read%20this%20email%20thread%20and%20draft%20a%20concise%20reply%20that%20addresses%20each%20open%20question.%20Flag%20any%20facts%20I%20need%20to%20confirm%20before%20sending.&surface=work>)
 
   * ### Recover email decisions
 
 ![](https://files.openai.com/content?id=file_000000003dc481f79d27abe9bc606400&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=df15c2affd7fda6cf42d6e94413ef75d90e3578c39d6665c746125b581468b73&v=0)Superhuman Mail Review this project email thread and summarize decisions, promised follow-ups, and stated dates. Distinguish confirmed commitments from tentative suggestions.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Superhuman+Mail+Review+this+project+email+thread+and+summarize+decisions%2C+promised+follow-ups%2C+and+stated+dates.+Distinguish+confirmed+commitments+from+tentative+suggestions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69a21e4058dc8191a6220fa911310d7b?install&prompt=Review%20this%20project%20email%20thread%20and%20summarize%20decisions%2C%20promised%20follow-ups%2C%20and%20stated%20dates.%20Distinguish%20confirmed%20commitments%20from%20tentative%20suggestions.&surface=work>)
 
 
 
@@ -95,11 +95,11 @@ Connect Superhuman Mail to build powerful workflows across Gmail, Outlook, and G
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.superhuman.com/hc/en-us>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.superhuman.com/hc/en-us>)
 
-### [Privacy policyLearn more](<https://www.grammarly.com/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.grammarly.com/privacy-policy>)
 
 ## Add the Superhuman Mail plugin in a few clicks
 
@@ -109,13 +109,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability.](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages.](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)AsanaTurn Asana tasks into clear updates and plans.](</business/plugins/asana/>)
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)AsanaTurn Asana tasks into clear updates and plans](</business/plugins/asana/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -127,10 +137,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -149,7 +159,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -176,8 +187,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -196,6 +207,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

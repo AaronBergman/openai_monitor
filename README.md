@@ -1,5 +1,43 @@
 # openai_monitor
 
+## 2026-10-25T09-16Z
+
+**Fetch time:** 2026-10-25T09:16Z (sitemap + 1,792 pages) UTC | **Baseline:** 2026-09-28T09-17Z (**27-day gap** — the routine did not run Sep 29 – Oct 24, so this entry covers a month of change)
+
+**TL;DR:** A big catch-up run. The sitemap grew from 1,985 to 2,093 URLs (+114 added, 6 removed, 43 sub-sitemaps, up from 42). The headline is a new model generation on the site: **GPT‑6.1 Sol** now has its own launch page and appears in the global navigation alongside GPT‑6 Astra, replacing the old GPT‑5.4 link — and that nav change alone accounts for 1,679 of the 1,684 pages whose `<lastmod>` moved (a site-wide template redeploy, not 1,679 edits). Other themes among the new pages: a heavy **cybersecurity push** (a "Cyber at the Frontier" keynote, vulnerability-disclosure and defender-blueprint posts, three security-firm partner pages), **DevDay 2026** wrap-up pages, **ChatGPT Ads** expansion to 26 more countries, an **OpenAI Marketplace** and many new **Plugins** pages, an announced acquisition (**Orchestra Bio**), **OpenAI models on Google Cloud**, and a batch of customer stories.
+
+### ⚠️ Anomalies (13)
+
+- **future_lastmod (1):** [`/index/securing-our-frontier-model-training-environment/`](https://openai.com/index/securing-our-frontier-model-training-environment/) claims `<lastmod>` 09:17:35.978Z, ~6 seconds *after* our fetch time (09:17:29Z). Almost certainly clock skew/live-generated timestamps, but notable: the page was being (re)published at the moment we fetched it.
+- **backdated_new_url (9):** new URLs whose `<lastmod>` is 9–24 days older than our first sighting — they existed (or were modified) during the monitoring gap, so these are *not* necessarily secret pages; the gap explains most. Oldest: [`/form/private-intelligence-interest/`](https://openai.com/form/private-intelligence-interest/) (lastmod Oct 1), [`/form/sign-in-with-chatgpt-interest/`](https://openai.com/form/sign-in-with-chatgpt-interest/) (Oct 7), [`/devday/2026/`](https://openai.com/devday/2026/) (Oct 8), [`/business/learn/board-guide-cybersecurity-ai/`](https://openai.com/business/learn/board-guide-cybersecurity-ai/) and [`/index/lenfest-ai-collaborative-expansion/`](https://openai.com/index/lenfest-ai-collaborative-expansion/) (Oct 9), [`/index/teens-learn-and-plan/`](https://openai.com/index/teens-learn-and-plan/) (Oct 14), and the Bishop Fox / SpecterOps / TrustedSec partner pages (Oct 15).
+- **reappeared_url (3):** [`/business/plugins/alpaca/`](https://openai.com/business/plugins/alpaca/) (last seen 2026-09-24), [`/form/codex-ambassadors/`](https://openai.com/form/codex-ambassadors/) (last seen 2026-06-24), [`/policies/row-privacy-policy/`](https://openai.com/policies/row-privacy-policy/) (last seen 2026-05-27) — each vanished from the sitemap at some point and came back.
+- **Fetch failures (6, HTTP 500, needs follow-up):** `/index/devday-2026-recap/` (new, no snapshot saved), plus updated pages `/chatgpt/use-cases/writing-with-ai/`, `/index/axios-developer-tool-compromise/`, `/index/grab/`, `/index/morgan-stanley/`, `/index/transfer-of-adversarial-robustness-between-perturbation-types/` (prior snapshot kept).
+
+Full detail in [`runs/2026-10-25T09-16Z/analysis.md`](runs/2026-10-25T09-16Z/analysis.md).
+
+### Notable additions
+
+- **Models / platform:** [GPT‑6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md) ("a more capable Sol across tasks"); [GPT‑6 and Intelligent UI for everyone](pages/openai.com/index/gpt-6-for-everyone/index.md); [model guide for the GPT‑6 family](pages/openai.com/index/practical-guide-building-gpt-6/index.md); [Decisions API](pages/openai.com/index/decisions-api/index.md) (fast, low-cost decisions for apps); [Dots](pages/openai.com/index/introducing-dots/index.md) (new ChatGPT feature); [OpenAI models coming to Google Cloud](pages/openai.com/index/openai-models-google-cloud/index.md) with a related interest form.
+- **Cybersecurity push:** [Cyber at the Frontier](pages/openai.com/cyber-at-the-frontier/index.md) (live keynote on cyber defense); [Democratic governance of frontier AI, part II: Empowering cyber defenders](pages/openai.com/index/empowering-cyber-defenders/index.md) (blueprint); [Patch the Planet](pages/openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/index.md) (coordinating response as agents find critical vulnerabilities); [Securing our frontier model training environment](pages/openai.com/index/securing-our-frontier-model-training-environment/index.md); [Towards safety cases for frontier AI training](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md); [Disrupting a coordinated model-distillation campaign](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md) and ["false front" operations](pages/openai.com/index/disrupting-ai-enabled-false-front-operations/index.md); partner pages for Bishop Fox, SpecterOps, TrustedSec; customer stories from Block, SentinelOne, Sophos, Cloudflare.
+- **Business:** [OpenAI Marketplace](pages/openai.com/business/marketplace/index.md) (spend OpenAI commitment on partner products); [ChatGPT Ads expands to 26 countries](pages/openai.com/index/chatgpt-ads-expands-26-new-countries/index.md) (100,000+ advertisers) plus ad-stack and measurement posts and a Brazil advertising-terms policy; forward-deployed-engineering pages; ~16 new "business/learn" guides; ~12 new Plugins pages (Atlassian, Oracle NetSuite ×4, WordPress, Jetpack, Sandstone, Spacefast, Alpaca…).
+- **Corporate / science:** [OpenAI acquires Orchestra Bio](pages/openai.com/index/openai-to-acquire-orchestra-bio/index.md) (AI drug-development platform); [Rosalind Academic Plan](pages/openai.com/index/introducing-the-rosalind-academic-plan/index.md) (sponsored GPT‑Rosalind access for labs); [Sharing AI progress in mathematics](pages/openai.com/index/sharing-ai-progress-in-mathematics/index.md); [partnership with Poland’s NASK](pages/openai.com/index/openai-nask-ai-safety-security-partnership/index.md); [EU text provenance approach](pages/openai.com/index/eu-text-provenance/index.md); Sign in with ChatGPT terms and interest form.
+- **Events:** [DevDay 2026](pages/openai.com/devday/2026/index.md) landing page ("a whole new era of working with AI").
+
+### Notable updates
+
+- **Site-wide navigation change (1,679 pages):** the nav/footer swapped the GPT‑5.4 link for **GPT‑6.1 Sol** and **GPT‑6 Astra**, added Dots, OpenAI Status, Models and Plugins links, pointed Codex to chatgpt.com, and dropped the Open Models and Apps SDK links. This is template churn, not content edits.
+- Beyond nav, only the largest page-level rewrites are visible in the diffs (e.g. [`/index/learning-to-reason-with-llms/`](pages/openai.com/index/learning-to-reason-with-llms/index.md), [`/index/introducing-deep-research/`](pages/openai.com/index/introducing-deep-research/index.md), [`/index/codex-for-every-role-tool-workflow/`](pages/openai.com/index/codex-for-every-role-tool-workflow/index.md), [`/business/learn/`](pages/openai.com/business/learn/index.md)); these were not individually reviewed beyond diff size — see analysis.md.
+
+### Removed pages
+
+[`/business/partners/pathfindr/`](https://openai.com/business/partners/pathfindr/), [`/business/plugins/atlassian-rovo/`](https://openai.com/business/plugins/atlassian-rovo/) (superseded by new `/business/plugins/atlassian/`), `/business/plugins/mcp-server-for-wordpress/` and `/business/plugins/wordpress-com/` (superseded by `/business/plugins/wordpress/`), `/form/ultrafast/`, `/prism/`. Last snapshots remain in git history.
+
+_Stats: 2093 total URLs | 114 added | 1684 updated (1679 nav-only template change) | 6 removed | 13 anomalies | 43 sub-sitemaps_
+
+---
+
+
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

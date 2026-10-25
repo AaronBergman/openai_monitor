@@ -145,16 +145,6 @@ Return the JSON object in your final answer:
 
 clinical_registry.tsv.gzexpression_summary.tsv.gzgermline_pgx.tsv.gzlongread_txr1_region.tsv.gztumor_assay_metrics.tsv.gzdlr1_allele_table.tsv.gzdata_dictionary.tsv.gz
 
-**patient_id**| **analysis_set**| **age**| **sex**| **site**| **calendar_period**| **ecog**| **tumor_burden**| **prior_lines**| **prior_resistance**| **lineage_class**| **therapy_class**| **assessed16**| **benefit16**| **tox_stop_8wk**| **time_zero_day**  
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-MTB0001| 1| 73.8| M| S1| P2| 2| 0.787| 3| 1| A| TXR1i| 0| | 1| 0  
-MTB0002| 1| 55.2| M| S3| P1| 1| 2.637| 0| 1| A| TXR1i| 1| 0| 0| 0  
-MTB0003| 1| 68.8| F| S4| P2| 0| 0.891| 2| 1| A| TXR1i| 1| 1| 1| 0  
-MTB0004| 1| 82.8| F| S2| P2| 2| 4.101| 0| 0| B| TXR1i| 1| 0| 0| 0  
-MTB0005| 1| 65.5| F| S1| P3| 1| 7.0| 1| 1| A| TXR1i| 1| 0| 0| 0  
-  
-Registry covariates, therapy, week-16 assessment, benefit, and early toxicity.
-
 * * *
 
 Case study 2
@@ -178,16 +168,22 @@ Estimate the requested quantities.
 Definitions:
 
   * lncrna_specific_lfc: the pooled-screen matched-control day-10 log2 growth effect expected at 100% effective knockdown of the dominant LINC473 transcript, not local DNA-locus effects.
+
   * neighbor_mediated_lfc: the pooled-screen matched-control day-10 log2 growth effect expected at 100% KIN1 repression in the local LINC473-locus model after accounting for concomitant LINC473 transcript knockdown.
+
   * advance_target: 1 if the evidence supports advancing LINC473 as a transcript-directed target, else 0.
+
 
 
 
 Conventions:
 
   * all growth effects are log2(day10/day0) competitive-growth effects relative to matched controls;
+
   * more negative numbers indicate stronger loss of fitness;
+
   * set advance_target to 1 only if lncrna_specific_lfc <= -0.08 and neighbor_mediated_lfc > -0.25; otherwise 0.
+
 
 
 
@@ -241,16 +237,6 @@ Return the JSON object in your final answer:
 ### Files provided to the model
 
 guide_map.tsv.gzlocal_expression.tsv.gzguide_followup.tsv.gzcrispri_counts.tsv.gzcasrx_followup.tsv.gz
-
-**guide_id**| **nominal_target**| **chr**| **coord**| **strand**| **dist_lnc_tss_bp**| **dist_neighbor_tss_bp**| **guide_gc_frac**  
----|---|---|---|---|---|---|---  
-g001| LINC473| chr7| 100014| +| 14| 30| 0.624  
-g002| LINC473| chr7| 100035| -| 43| 67| 0.584  
-g003| LINC473| chr7| 100051| +| 116| 56| 0.622  
-g004| LINC473| chr7| 100066| -| 59| 66| 0.617  
-g005| LINC473| chr7| 100088| +| 74| 77| 0.715  
-  
-Guide coordinates, targets, distances, and GC features.
 
 * * *
 
@@ -320,16 +306,6 @@ Return the JSON object in your final answer:
 ### Files provided to the model
 
 protein_PROTA_phase1.tsv.gzprotein_PROTB_phase1.tsv.gzdisease_association.tsv.gzvariant_metadata.tsv.gzlocus_correlation_EUR.npzprotein_PROTA_phase2.tsv.gzprotein_PROTB_phase2.tsv.gzdataset_metadata.tsv.gzprotein_measurements.tsv.gz
-
-**snp**| **pos_bp**| **effect_allele**| **other_allele**| **maf**| **beta**| **se**| **pval**  
----|---|---|---|---|---|---|---  
-rs200000| 50000000| A| C| 0.42215| 0.006438668310706808| 0.003267330091203412| 0.04876727714241972  
-rs200001| 50010126| A| C| 0.05709| 0.011008993337581301| 0.006955239208750407| 0.11345916603941006  
-rs200002| 50020253| G| T| 0.09021| 0.009922014757116319| 0.005633023027015518| 0.07817048492026045  
-rs200003| 50030379| G| T| 0.48399| 0.010569215614164573| 0.0032291419740237445| 0.0010638520681901973  
-rs200004| 50040506| A| G| 0.37703| 0.007036551378238654| 0.0033297592321269802| 0.034580976884336506  
-  
-Screening-stage protein association summaries for PROTA.
 
 * * *
 
@@ -408,16 +384,6 @@ Return the JSON object in your final answer:
 
 cohort_roster.tsv.gzcalibration_controls.tsv.gzassay_observations.tsv.gzpartner_roster.tsv.gztarget_metadata.tsv.gz
 
-**sample_id**| **collection**| **ancestry**| **family_history_tier**  
----|---|---|---  
-S_EUR_0001| screening| EUR| 0  
-S_EUR_0002| screening| EUR| 0  
-S_EUR_0003| screening| EUR| 0  
-S_EUR_0004| screening| EUR| 0  
-S_EUR_0005| screening| EUR| 1  
-  
-Screening-roster adults with ancestry and screening context.
-
 * * *
 
 Case study 5
@@ -478,16 +444,6 @@ Return the JSON object in your final answer:
 ### Files provided to the model
 
 cells.csv.gzempty_drops.csv.gzdonors.csv.gz
-
-**cell_id**| **donor**| **total_umi**| **HBB**| **IFI6**| **ISG15**| **LST1**| **CXCL10**  
----|---|---|---|---|---|---|---  
-D01_C001| D01| 1113| 7| 3| 4| 83| 5  
-D01_C002| D01| 1103| 6| 3| 3| 112| 10  
-D01_C003| D01| 1141| 9| 8| 12| 63| 9  
-D01_C004| D01| 1250| 7| 60| 43| 2| 17  
-D01_C005| D01| 1045| 9| 1| 2| 51| 15  
-  
-Per-cell UMI counts for marker genes, contamination markers, and the target gene.
 
 * * *
 
@@ -562,16 +518,6 @@ Return the JSON object in your final answer:
 
 cohort.tsv.gzmarker_info.tsv.gzexpression_panel.tsv.gzfile_notes.tsv.gztag_markers.tsv.gzbreakpoint_panel.tsv.gzsampling_design.tsv.gz
 
-**sample_id**| **case**| **age**| **age_band**| **sex**| **pc1**| **pc2**| **pc3**| **ancestry_group**| **clinic_stratum**| **recruitment_stream**  
----|---|---|---|---|---|---|---|---|---|---  
-Q00012| 1| 50.45| 50_64| 0| -1.01514| -0.21032| -0.08849| EUR| tertiary| clinic  
-Q00028| 0| 57.39| 50_64| 0| -1.25987| -0.12498| 0.2344| EUR| regional| registry  
-Q00029| 1| 68.4| 65_plus| 0| 0.91598| 0.62177| 0.01891| AFR| tertiary| clinic  
-Q00030| 1| 74.07| 65_plus| 1| 0.21125| -0.59634| -0.08197| EAS| community| registry  
-Q00032| 1| 82.82| 65_plus| 0| -1.12034| -0.24372| 0.14665| EUR| community| clinic  
-  
-Clinical and covariate data for the full cohort.
-
 * * *
 
 Case study 7
@@ -641,16 +587,6 @@ Return the JSON object in your final answer:
 
 bins_20kb.tsv.gzbins_40kb.tsv.gzcontacts_20kb.tsv.gzcontacts_40kb.tsv.gz
 
-**bin_id**| **chrom**| **start**| **end**| **gc_content**| **mappability**| **re_sites**  
----|---|---|---|---|---|---  
-0| chr8| 400000| 420000| 0.46199033821572594| 0.9787574214704273| 5  
-1| chr8| 420000| 440000| 0.5044124208534677| 0.8901084943498397| 5  
-2| chr8| 440000| 460000| 0.43218451584938194| 0.9056879289326712| 3  
-3| chr8| 460000| 480000| 0.4733197282681218| 0.9376529840664789| 3  
-4| chr8| 480000| 500000| 0.4444956062150748| 0.8682565517981877| 4  
-  
-Target-resolution bin annotations.
-
 * * *
 
 Case study 8
@@ -717,25 +653,19 @@ Return the JSON object in your final answer:
 Data files:
 
   * markers.tsv.gz: marker metadata
+
   * founders.tsv.gz: founder alleles at each marker
+
   * ril_genotypes.npz: observed RIL genotypes (biallelic)
+
   * phenotypes.tsv.gz: phenotype and covariates
+
 
 
 
 ### Files provided to the model
 
 markers.tsv.gzril_genotypes.npzfounders.tsv.gzphenotypes.tsv.gz
-
-**marker_id**| **chr**| **pos_cM**  
----|---|---  
-m2_065| 2| 59.762431265596575  
-m2_103| 2| 94.52656615104739  
-m2_107| 2| 98.18761427503033  
-m2_079| 2| 72.20130244108847  
-m1_054| 1| 49.907510212292195  
-  
-Marker identifiers, chromosomes, and genetic-map positions.
 
 * * *
 
@@ -810,16 +740,6 @@ Return the JSON object in your final answer:
 
 segments.tsv.gzmap_info.tsv.gz
 
-**chrom**| **hap**| **start_morgan**| **end_morgan**| **anc**| **posterior**| **low_complexity_frac**  
----|---|---|---|---|---|---  
-chr1| h1| 0.03| 0.505| A| 0.985| 0.08  
-chr1| h1| 0.505| 0.535| B| 0.62| 0.92  
-chr1| h1| 0.535| 1.478849| A| 0.985| 0.08  
-chr1| h1| 1.503727| 1.852681| B| 0.985| 0.08  
-chr1| h1| 1.852681| 2.422373| A| 0.985| 0.08  
-  
-Phased local-ancestry tracts with coordinates, ancestry labels, posterior values, and QC annotations.
-
 * * *
 
 Case study 10
@@ -889,16 +809,6 @@ Return the JSON object in your final answer:
 
 locus_A_timeseries.tsv.gzvariant_info.tsv.gzlocus_B_timeseries.tsv.gzNe_schedule.tsv.gz
 
-**generation**| **alt_reads**| **total_reads**| **seq_error**| **sample_year**  
----|---|---|---|---  
-6| 36| 40| 0.16| -4500  
-12| 34| 45| 0.16| -4278  
-18| 41| 55| 0.16| -4056  
-24| 38| 70| 0.16| -3833  
-30| 36| 90| 0.16| -3611  
-  
-Read-count time series for locus A.
-
 Research
 
   * [Research Index](</research/index/>)
@@ -909,9 +819,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -930,7 +841,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -948,6 +860,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -956,8 +869,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -976,6 +889,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -1003,3 +917,103 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+**patient_id**| **analysis_set**| **age**| **sex**| **site**| **calendar_period**| **ecog**| **tumor_burden**| **prior_lines**| **prior_resistance**| **lineage_class**| **therapy_class**| **assessed16**| **benefit16**| **tox_stop_8wk**| **time_zero_day**  
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
+MTB0001| 1| 73.8| M| S1| P2| 2| 0.787| 3| 1| A| TXR1i| 0| | 1| 0  
+MTB0002| 1| 55.2| M| S3| P1| 1| 2.637| 0| 1| A| TXR1i| 1| 0| 0| 0  
+MTB0003| 1| 68.8| F| S4| P2| 0| 0.891| 2| 1| A| TXR1i| 1| 1| 1| 0  
+MTB0004| 1| 82.8| F| S2| P2| 2| 4.101| 0| 0| B| TXR1i| 1| 0| 0| 0  
+MTB0005| 1| 65.5| F| S1| P3| 1| 7.0| 1| 1| A| TXR1i| 1| 0| 0| 0  
+  
+Registry covariates, therapy, week-16 assessment, benefit, and early toxicity.
+
+**guide_id**| **nominal_target**| **chr**| **coord**| **strand**| **dist_lnc_tss_bp**| **dist_neighbor_tss_bp**| **guide_gc_frac**  
+---|---|---|---|---|---|---|---  
+g001| LINC473| chr7| 100014| +| 14| 30| 0.624  
+g002| LINC473| chr7| 100035| -| 43| 67| 0.584  
+g003| LINC473| chr7| 100051| +| 116| 56| 0.622  
+g004| LINC473| chr7| 100066| -| 59| 66| 0.617  
+g005| LINC473| chr7| 100088| +| 74| 77| 0.715  
+  
+Guide coordinates, targets, distances, and GC features.
+
+**snp**| **pos_bp**| **effect_allele**| **other_allele**| **maf**| **beta**| **se**| **pval**  
+---|---|---|---|---|---|---|---  
+rs200000| 50000000| A| C| 0.42215| 0.006438668310706808| 0.003267330091203412| 0.04876727714241972  
+rs200001| 50010126| A| C| 0.05709| 0.011008993337581301| 0.006955239208750407| 0.11345916603941006  
+rs200002| 50020253| G| T| 0.09021| 0.009922014757116319| 0.005633023027015518| 0.07817048492026045  
+rs200003| 50030379| G| T| 0.48399| 0.010569215614164573| 0.0032291419740237445| 0.0010638520681901973  
+rs200004| 50040506| A| G| 0.37703| 0.007036551378238654| 0.0033297592321269802| 0.034580976884336506  
+  
+Screening-stage protein association summaries for PROTA.
+
+**sample_id**| **collection**| **ancestry**| **family_history_tier**  
+---|---|---|---  
+S_EUR_0001| screening| EUR| 0  
+S_EUR_0002| screening| EUR| 0  
+S_EUR_0003| screening| EUR| 0  
+S_EUR_0004| screening| EUR| 0  
+S_EUR_0005| screening| EUR| 1  
+  
+Screening-roster adults with ancestry and screening context.
+
+**cell_id**| **donor**| **total_umi**| **HBB**| **IFI6**| **ISG15**| **LST1**| **CXCL10**  
+---|---|---|---|---|---|---|---  
+D01_C001| D01| 1113| 7| 3| 4| 83| 5  
+D01_C002| D01| 1103| 6| 3| 3| 112| 10  
+D01_C003| D01| 1141| 9| 8| 12| 63| 9  
+D01_C004| D01| 1250| 7| 60| 43| 2| 17  
+D01_C005| D01| 1045| 9| 1| 2| 51| 15  
+  
+Per-cell UMI counts for marker genes, contamination markers, and the target gene.
+
+**sample_id**| **case**| **age**| **age_band**| **sex**| **pc1**| **pc2**| **pc3**| **ancestry_group**| **clinic_stratum**| **recruitment_stream**  
+---|---|---|---|---|---|---|---|---|---|---  
+Q00012| 1| 50.45| 50_64| 0| -1.01514| -0.21032| -0.08849| EUR| tertiary| clinic  
+Q00028| 0| 57.39| 50_64| 0| -1.25987| -0.12498| 0.2344| EUR| regional| registry  
+Q00029| 1| 68.4| 65_plus| 0| 0.91598| 0.62177| 0.01891| AFR| tertiary| clinic  
+Q00030| 1| 74.07| 65_plus| 1| 0.21125| -0.59634| -0.08197| EAS| community| registry  
+Q00032| 1| 82.82| 65_plus| 0| -1.12034| -0.24372| 0.14665| EUR| community| clinic  
+  
+Clinical and covariate data for the full cohort.
+
+**bin_id**| **chrom**| **start**| **end**| **gc_content**| **mappability**| **re_sites**  
+---|---|---|---|---|---|---  
+0| chr8| 400000| 420000| 0.46199033821572594| 0.9787574214704273| 5  
+1| chr8| 420000| 440000| 0.5044124208534677| 0.8901084943498397| 5  
+2| chr8| 440000| 460000| 0.43218451584938194| 0.9056879289326712| 3  
+3| chr8| 460000| 480000| 0.4733197282681218| 0.9376529840664789| 3  
+4| chr8| 480000| 500000| 0.4444956062150748| 0.8682565517981877| 4  
+  
+Target-resolution bin annotations.
+
+**marker_id**| **chr**| **pos_cM**  
+---|---|---  
+m2_065| 2| 59.762431265596575  
+m2_103| 2| 94.52656615104739  
+m2_107| 2| 98.18761427503033  
+m2_079| 2| 72.20130244108847  
+m1_054| 1| 49.907510212292195  
+  
+Marker identifiers, chromosomes, and genetic-map positions.
+
+**chrom**| **hap**| **start_morgan**| **end_morgan**| **anc**| **posterior**| **low_complexity_frac**  
+---|---|---|---|---|---|---  
+chr1| h1| 0.03| 0.505| A| 0.985| 0.08  
+chr1| h1| 0.505| 0.535| B| 0.62| 0.92  
+chr1| h1| 0.535| 1.478849| A| 0.985| 0.08  
+chr1| h1| 1.503727| 1.852681| B| 0.985| 0.08  
+chr1| h1| 1.852681| 2.422373| A| 0.985| 0.08  
+  
+Phased local-ancestry tracts with coordinates, ancestry labels, posterior values, and QC annotations.
+
+**generation**| **alt_reads**| **total_reads**| **seq_error**| **sample_year**  
+---|---|---|---|---  
+6| 36| 40| 0.16| -4500  
+12| 34| 45| 0.16| -4278  
+18| 41| 55| 0.16| -4056  
+24| 38| 70| 0.16| -3833  
+30| 36| 90| 0.16| -3611  
+  
+Read-count time series for locus A.

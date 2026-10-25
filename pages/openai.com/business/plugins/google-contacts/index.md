@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://contacts.google.com>)
 
-[![](https://files.openai.com/content?id=file_000000009c20722fb75b2374812c3c8a&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=acd964a8b4f80a717458abc57b616b543835abfba08ad49e65d46df3d137f120&v=0)Google Contacts Find contact details for this person(opens in a new window)](<https://chatgpt.com/?prompt=%40Google+Contacts+Find+contact+details+for+this+person>)
+[![](https://files.openai.com/content?id=file_000000009c20722fb75b2374812c3c8a&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=acd964a8b4f80a717458abc57b616b543835abfba08ad49e65d46df3d137f120&v=0)Google Contacts Find contact details for this person(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_c97194162860819190a6f840a61b9889?install&prompt=Find%20contact%20details%20for%20this%20person>)
 
 ## How it works
 
@@ -60,19 +60,19 @@ Search Google Contacts and directory entries to find people by name, email, comp
 
 ![](https://files.openai.com/content?id=file_000000009c20722fb75b2374812c3c8a&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=acd964a8b4f80a717458abc57b616b543835abfba08ad49e65d46df3d137f120&v=0)Google Contacts Find the saved contact for this person and company. Show the available work details and flag ambiguous matches before recommending which record to use.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Google+Contacts+Find+the+saved+contact+for+this+person+and+company.+Show+the+available+work+details+and+flag+ambiguous+matches+before+recommending+which+record+to+use.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_c97194162860819190a6f840a61b9889?install&prompt=Find%20the%20saved%20contact%20for%20this%20person%20and%20company.%20Show%20the%20available%20work%20details%20and%20flag%20ambiguous%20matches%20before%20recommending%20which%20record%20to%20use.&surface=work>)
 
   * ### Prepare an account contact list
 
 ![](https://files.openai.com/content?id=file_000000009c20722fb75b2374812c3c8a&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=acd964a8b4f80a717458abc57b616b543835abfba08ad49e65d46df3d137f120&v=0)Google Contacts Find my saved contacts at this company. Group them by the available organization or role information and highlight missing details.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Google+Contacts+Find+my+saved+contacts+at+this+company.+Group+them+by+the+available+organization+or+role+information+and+highlight+missing+details.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_c97194162860819190a6f840a61b9889?install&prompt=Find%20my%20saved%20contacts%20at%20this%20company.%20Group%20them%20by%20the%20available%20organization%20or%20role%20information%20and%20highlight%20missing%20details.&surface=work>)
 
   * ### Verify meeting contacts
 
 ![](https://files.openai.com/content?id=file_000000009c20722fb75b2374812c3c8a&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=acd964a8b4f80a717458abc57b616b543835abfba08ad49e65d46df3d137f120&v=0)Google Contacts Look up these five attendees in my contacts. Return their saved work emails and organizations, and flag names that do not have a clear match.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Google+Contacts+Look+up+these+five+attendees+in+my+contacts.+Return+their+saved+work+emails+and+organizations%2C+and+flag+names+that+do+not+have+a+clear+match.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_c97194162860819190a6f840a61b9889?install&prompt=Look%20up%20these%20five%20attendees%20in%20my%20contacts.%20Return%20their%20saved%20work%20emails%20and%20organizations%2C%20and%20flag%20names%20that%20do%20not%20have%20a%20clear%20match.&surface=work>)
 
 
 
@@ -87,11 +87,11 @@ Search Google Contacts and directory entries to find people by name, email, comp
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
-### [Privacy policyLearn more](<https://policies.google.com/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://policies.google.com/privacy>)
 
 ## Add the Google Contacts plugin in a few clicks
 
@@ -101,13 +101,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)GmailFind and reference emails from your inbox.](</business/plugins/gmail/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability.](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)SalesforceUse the Salesforce plugin to review permitted CRM records, understand accounts and deals, summarize pipeline risk, and prepare follow-up.](</business/plugins/salesforce/>)[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpotAnalyze CRM data and surface insights.](</business/plugins/hubspot/>)[![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)ClayFind and engage prospects.](</business/plugins/clay/>)
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)GmailFind and reference emails from your inbox](</business/plugins/gmail/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)SalesforceUse the Salesforce plugin to review permitted CRM records, understand accounts and deals, summarize pipeline risk, and prepare follow-up](</business/plugins/salesforce/>)[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpotAnalyze CRM data and surface insights](</business/plugins/hubspot/>)[![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)ClayGTM Data and Functions](</business/plugins/clay/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -119,10 +129,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -141,7 +151,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -168,8 +179,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -188,6 +199,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

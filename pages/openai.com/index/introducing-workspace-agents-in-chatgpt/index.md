@@ -99,10 +99,15 @@ Describe the job you want done or just drop in a file. ChatGPT helps turn it int
 Here are a few agents teams at OpenAI have built—and that your team can build, too:
 
   * **Software Reviewer** : Reviews employee software requests, checks them against approved tools and policies, recommends next steps, and files IT tickets when needed.
+
   * **Product Feedback Router** : Monitors Slack, support channels, and public forums, then turns feedback into prioritized tickets and weekly product summaries.
+
   * **Weekly Metrics Reporter** : Pulls data every Friday, creates charts, writes the summary, and shares a report with the team.
+
   * **Lead Outreach Agent** : Researches inbound leads, scores them against your qualification rubric, drafts personalized follow-up emails, and updates your CRM.
+
   * **Third-Party Risk Manager** :**** Researches vendors, assesses signals like sanctions exposure, financial health, and reputational risk, and produces a structured report.
+
 
 
 
@@ -158,10 +163,6 @@ Early testers of workspace agents are already seeing more consistent results and
 
 RipplingSoftBank Corp.Better MortgageBBVAHibob
 
-> “The hard part of building an agent is not the model. It’s the integrations, memory, the user experience. Workspace agents collapsed that work, so one of our Sales Consultants built, evaluated, and iterated a Sales Opportunity agent end to end without an engineering team. It researches accounts, summarizes Gong calls, and posts deal briefs directly into the team’s Slack room. What used to take reps 5-6 hours a week now runs automatically in the background on every deal.”
-
-— Ankur Bhatt, AI Engineering, Rippling
-
 ## Availability and pricing
 
 Workspace agents are available in research preview for ChatGPT Business, Enterprise, Edu, and Teachers plans. For Enterprise and Edu plans, admins can enable agents using role-based controls.
@@ -189,17 +190,17 @@ OpenAI
 
 [View all](</news/>)
 
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
+![Build more responsive apps with the Decisions API — Cover](https://images.ctfassets.net/kftzwdyauwt9/6E0HwFxJrpWOEiFct0ZfQE/bb595e7e6ab06dfd2c953cb915c8f89a/build-more-responsive-apps-with-the-decisions-api-cover.png?w=3840&q=90&fm=webp)
 
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
+[Build more responsive apps with the Decisions APIProductOct 22, 2026](</index/decisions-api/>)
 
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
+![Patch the Planet: scaling a global response to critical vulnerabilities — Cover](https://images.ctfassets.net/kftzwdyauwt9/6PyrqMoyS15mNPtg8awwZn/30ddc462153abdeacf59376e741713db/patch-the-planet-scaling-a-global-response-to-critical-vulnerabilities-cover.png?w=3840&q=90&fm=webp)
 
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
+[Patch the Planet: global response coordination as agents uncover critical vulnerabilitiesSecurityOct 21, 2026](</index/coordinated-disclosure-of-critical-vulnerabilities/>)
 
-![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
+![ChatGPT Ads expands to 26 new countries — Cover](https://images.ctfassets.net/kftzwdyauwt9/1eOJBokizHqfepQO6lgFiY/b4a202d71316d951eac139e20ed828a7/chatgpt-ads-expands-26-new-countries-cover.png?w=3840&q=90&fm=webp)
 
-[Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
+[ChatGPT Ads expands to 26 new countriesProductOct 21, 2026](</index/chatgpt-ads-expands-26-new-countries/>)
 
 Research
 
@@ -211,9 +212,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -232,7 +234,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -250,6 +253,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -258,8 +262,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -278,6 +282,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -305,3 +310,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> “The hard part of building an agent is not the model. It’s the integrations, memory, the user experience. Workspace agents collapsed that work, so one of our Sales Consultants built, evaluated, and iterated a Sales Opportunity agent end to end without an engineering team. It researches accounts, summarizes Gong calls, and posts deal briefs directly into the team’s Slack room. What used to take reps 5-6 hours a week now runs automatically in the background on every deal.”
+
+— Ankur Bhatt, AI Engineering, Rippling
