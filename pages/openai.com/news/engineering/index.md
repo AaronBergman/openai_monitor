@@ -54,6 +54,14 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![Rapidly scaling online storage to serve over 1 billion ChatGPT users \(Part II\) — card](https://images.ctfassets.net/kftzwdyauwt9/3a839ECHaGsidJPLJqqm5s/55968ec17735b96514d1bb4851f43bf8/scaling-storage-one-billion-users-part-two-card.png?w=3840&q=90&fm=webp)
+
+[Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)EngineeringOct 23, 2026](</index/scaling-storage-one-billion-users-part-two/>)
+
+![Rethinking the ad stack around a new user journey — Art card](https://images.ctfassets.net/kftzwdyauwt9/3aewhPPb5NQ5IqOKEkrtzA/7209065f6e6ccf3a0476b43feb8336e1/rethinking-ads-card.png?w=3840&q=90&fm=webp)
+
+[How we built ChatGPT’s novel ad stack for user trust and relevanceEngineeringOct 21, 2026](</index/building-chatgpt-ad-stack/>)
+
 ![Scaling Storage for 1 Billion ChatGPT Users \(Part I\) card image](https://images.ctfassets.net/kftzwdyauwt9/2X23NOb0P4V1KDzUBkeNpl/888204b45a1c84ddfa24c9ed31111a9c/OAI_HabitatPT1_Art_Card_1x1.png?w=3840&q=90&fm=webp)
 
 [Rapidly scaling online storage to serve over 1 billion ChatGPT usersEngineeringSep 11, 2026](</index/scaling-storage-one-billion-users-part-one/>)
@@ -82,14 +90,6 @@ Switch cards to hide Media
 
 [Building a safe, effective sandbox to enable Codex on WindowsEngineeringMay 13, 2026](</index/building-codex-windows-sandbox/>)
 
-![MRC 1_1](https://images.ctfassets.net/kftzwdyauwt9/IRqiqOUeNlFne8NPTbELM/9ab024f4581e7065eaf42aa18d14b724/Art_Card.png?w=3840&q=90&fm=webp)
-
-[Supercomputer networking to accelerate large scale AI trainingEngineeringMay 5, 2026](</index/mrc-supercomputer-networking/>)
-
-![How OpenAI delivers low-latency voice AI at scale > art card](https://images.ctfassets.net/kftzwdyauwt9/3ZT7WZXrDjX1tFlLjcTPXp/07d42ee6cc762208896f09c385853359/Voice_AI__art_card.png?w=3840&q=90&fm=webp)
-
-[How OpenAI delivers low-latency voice AI at scaleEngineeringMay 4, 2026](</index/delivering-low-latency-voice-ai-at-scale/>)
-
 Load more
 
 Research
@@ -102,10 +102,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -124,7 +124,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -151,8 +152,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -171,6 +172,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

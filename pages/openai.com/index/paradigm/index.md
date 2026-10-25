@@ -79,18 +79,26 @@ Paradigm believed they would need a specialized medical model to get good result
 Ultimately, they chose OpenAI for several reasons: 
 
   * **Accuracy:** Paradigm ran rigorous evaluations on their expert-curated golden data sets. GPT‑4 was at least 10% more accurate than state-of-the-art ML models on a blended precision/recall metric. In some cases, they saw “unbelievable” improvements. “The accuracy of OpenAI was better than our existing deployment and optimization of industry best-practice expert-trained models, and it was sometimes better than our trained clinicians,” Hirsch said. “The more complex the information, and the more different places that information sat, the better GPT‑4 was.” 
+
   * **Ease of use:** “From a product standpoint, everything was just easy. The API was easy to use, and it was easy to integrate into our stack.” The team also appreciated that OpenAI’s support included high-quality API documentation: “Compared to working with other organizations, we can be more self-sufficient with OpenAI.”
+
   * **Multimodal entry and long context windows:** Both features were key for medical record data.
+
   * **Security and regulatory compliance:** “What really sold us on working with OpenAI was your serious approach to supporting regulatory compliance, including supporting our need to comply with HIPAA. Since we serve healthcare providers and their patients, regulatory compliance is a non-negotiable requirement for us.”
+
 
 
 
 ## GPT-4 improves product speed, data quality, and costs of operation
 
   * **Extracting new data elements in days, not months:** GPT‑4 has upended how Paradigm thinks about their core infrastructure, completely replacing the process of building ML models one by one for individual data components. This has greatly accelerated Paradigm’s roadmap, allowing them to rapidly expand to new provider partners and types of trials. 
+
   * **90% reduction in expert clinician time needed for model validation:** Paradigm estimates that they only need 1/10th of the data to evaluate GPT‑4’s output, compared to previous specialized ML models. 
+
   * **10% increase in accuracy:** With more accurate data than before—even outperforming human experts in many cases—GPT‑4 has reduced the need for expert human intervention in model results. Doctors and nurses at Paradigm and their healthcare provider partners are able to spend more time on patient care, rather than reading documents. 
+
   * **More equitable access to trials:** While they are still proving this out, Paradigm believes that GPT‑4 can more accurately screen underserved patients for trials. These patients tend to have less structured data in their medical record and more unstructured data (e.g., notes), which GPT‑4 excels at extracting and interpreting.
+
 
 
 
@@ -106,15 +114,15 @@ Paradigm is excited about how they can continue to increase the patient screenin
 
 ## Related articles
 
-![Jetbrains > Hero > Media item > Asset](https://images.ctfassets.net/kftzwdyauwt9/46d99f08-c849-4c73-5a6c7b83ea9c/6e0eaaaf815df2a53f997b36ce57ad13/jetbrains.png?w=3840&q=90&fm=webp)
+![White JetBrains logo on a purple background.](https://images.ctfassets.net/kftzwdyauwt9/46d99f08-c849-4c73-5a6c7b83ea9c/6e0eaaaf815df2a53f997b36ce57ad13/jetbrains.png?w=3840&q=90&fm=webp)
 
 [Embedding AI into developer softwareMar 21, 2024](</index/jetbrains/>)
 
-![Unload](https://images.ctfassets.net/kftzwdyauwt9/15d768b2-bd52-4e68-bebaf96d50b3/e3f414371811a69d73091cc36a44ce8f/holiday_extras.png?w=3840&q=90&fm=webp)
+![White Holiday Extras logo on a purple background.](https://images.ctfassets.net/kftzwdyauwt9/15d768b2-bd52-4e68-bebaf96d50b3/e3f414371811a69d73091cc36a44ce8f/holiday_extras.png?w=3840&q=90&fm=webp)
 
 [Building a data-driven, efficient culture with AIMar 18, 2024](</index/holiday-extras/>)
 
-![Screenshot 2024 03 12 At 1128 27am](https://images.ctfassets.net/kftzwdyauwt9/e4cda57a-c977-4855-16b96e288c99/40db1a7d78522f9f9030942dd4a3e72b/superhuman.png?w=3840&q=90&fm=webp)
+![White Superhuman logo on a purple background.](https://images.ctfassets.net/kftzwdyauwt9/e4cda57a-c977-4855-16b96e288c99/40db1a7d78522f9f9030942dd4a3e72b/superhuman.png?w=3840&q=90&fm=webp)
 
 [Reimagining the email experience with AIMar 18, 2024](</index/superhuman/>)
 
@@ -128,9 +136,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -149,7 +158,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -167,6 +177,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -175,8 +186,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -195,6 +206,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
