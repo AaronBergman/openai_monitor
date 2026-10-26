@@ -59,10 +59,15 @@ Instead of building formulas, pivot tables, or dashboards for every question, yo
 ## Data analysis directly in ChatGPT
 
   1. Start with the decision you’re trying to support. A simple frame is: _“I’m trying to decide ___, based on ___.”_ This tells ChatGPT what “done” looks like and keeps the analysis focused.
+
   2. Provide your data along with any critical context—definitions, timeframe, and what key columns represent. You can provide data via **file upload** , or by using a **connected app**. 
+
   3. Ask for an approach, not just an answer. or example, request an exploratory data analysis (EDA) summary followed by hypotheses to test. This leads to more structured and reliable results than jumping straight to conclusions.
+
   4. If visuals would help, request them explicitly—what to plot, how to segment, and any must-haves like axis labels or units. 
+
   5. Ask for outputs you can reuse such as a clean final table or a short executive summary that translates findings into action.
+
 
 
 
@@ -91,8 +96,11 @@ Prepare for review| “Before editing anything, outline your plan. Tell me which
 ## Tips for success
 
   * Help ChatGPT help you by sharing what “good” looks like up front including what success metric you care about, the timeframe you’re looking at, and which groups or segments you want to compare.
+
   * If the numbers really matter, you can also ask it to show how it got there including the assumptions it made, any formulas it used to calculate metrics, and quick checks for missing data or unusual spikes.
+
   * It also helps to set a few simple ground rules so the analysis stays trustworthy. For example, you can tell it not to treat correlations as causes, to point out any limitations in the data, and to flag anything that looks off. And before you share results or make a decision, do a quick reality check—pick a couple key numbers and spot-verify them to make sure everything adds up.
+
 
 
 
@@ -157,9 +165,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -178,7 +187,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -196,6 +206,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -204,8 +215,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -224,6 +235,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

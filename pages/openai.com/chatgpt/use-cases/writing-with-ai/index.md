@@ -51,8 +51,11 @@ Hi! I want to write a short story, but I need a little help getting started. Can
 I’d like all the ideas to come from me, but I want your help eliciting them. First, provide me with 10 questions to: 
 
   * Inspire my creativity and imagination
+
   * Prompt me to juxtapose disparate concepts or settings to create novel ideas
+
   * Recall meaningful memories, funny stories, conversations, and emotional moments from my own life experiences
+
 
 
 
@@ -61,15 +64,25 @@ Then, ask me each question one at a time. For each response, ask two follow-up q
 Absolutely! Let’s get creative! Here are the 10 questions I’ll ask to guide your storytelling:
 
   1. What was the most surprising or unexpected thing that ever happened to you?
+
   2. What’s a hobby, job, or skill you’ve always wanted to master, but never had the time or opportunity to pursue?
+
   3. Imagine a place where two completely different worlds collide. What would those worlds look like, and how would they interact?
+
   4. Have you ever had a conversation that left a lasting impression on you? What was it about?
+
   5. What’s the funniest or strangest coincidence you’ve ever experienced?
+
   6. Is there a time in your life when you felt completely out of your element? What was that experience like?
+
   7. What’s the most peculiar or mysterious place you’ve ever been to?
+
   8. Think of an object you own that has sentimental value. How could that object be magical in a story?
+
   9. Have you ever had a vivid dream that stuck with you long after you woke up? What happened in it?
+
   10. If you could speak to your younger self, what would you say? How might that conversation spark a story?
+
 
 
 
@@ -231,9 +244,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -252,7 +266,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -270,6 +285,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -278,8 +294,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -298,6 +314,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

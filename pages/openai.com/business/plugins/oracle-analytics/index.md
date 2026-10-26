@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.oracle.com/analytics/business-intelligence/technologies/bi.html>)
 
-[![](https://files.openai.com/content?id=file_00000000f33481f79cf1bfb02497ab1c&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3c41016d88c854974c04fb1898a4664ac6abf98d2453911f162449d074bb2603&v=0)Oracle Analytics Summarize my Oracle BI dashboard and explain what changed.(opens in a new window)](<https://chatgpt.com/?prompt=%40Oracle+Analytics+Summarize+my+Oracle+BI+dashboard+and+explain+what+changed.>)
+[![](https://files.openai.com/content?id=file_00000000f33481f79cf1bfb02497ab1c&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3c41016d88c854974c04fb1898a4664ac6abf98d2453911f162449d074bb2603&v=0)Oracle Analytics Summarize my Oracle BI dashboard and explain what changed.(opens in a new window)](<https://chatgpt.com/plugins/Plugin_1c7fdf7f11dc819183017847ab1295cb?install&prompt=Summarize%20my%20Oracle%20BI%20dashboard%20and%20explain%20what%20changed.>)
 
 ## How it works
 
@@ -60,19 +60,19 @@ Turn questions into answers in your organization's Oracle BI workspace. Requires
 
 ![](https://files.openai.com/content?id=file_00000000f33481f79cf1bfb02497ab1c&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3c41016d88c854974c04fb1898a4664ac6abf98d2453911f162449d074bb2603&v=0)Oracle Analytics Review my Oracle BI sales dashboard for the latest reporting period. Summarize the largest changes, drill into the supporting details, and prepare a short briefing with recommended follow-up questions.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Oracle+Analytics+Review+my+Oracle+BI+sales+dashboard+for+the+latest+reporting+period.+Summarize+the+largest+changes%2C+drill+into+the+supporting+details%2C+and+prepare+a+short+briefing+with+recommended+follow-up+questions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_1c7fdf7f11dc819183017847ab1295cb?install&prompt=Review%20my%20Oracle%20BI%20sales%20dashboard%20for%20the%20latest%20reporting%20period.%20Summarize%20the%20largest%20changes%2C%20drill%20into%20the%20supporting%20details%2C%20and%20prepare%20a%20short%20briefing%20with%20recommended%20follow-up%20questions.&surface=work>)
 
   * ### Compare regional performance
 
 ![](https://files.openai.com/content?id=file_00000000f33481f79cf1bfb02497ab1c&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3c41016d88c854974c04fb1898a4664ac6abf98d2453911f162449d074bb2603&v=0)Oracle Analytics Compare this quarter with last quarter by region and export the results.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Oracle+Analytics+Compare+this+quarter+with+last+quarter+by+region+and+export+the+results.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_1c7fdf7f11dc819183017847ab1295cb?install&prompt=Compare%20this%20quarter%20with%20last%20quarter%20by%20region%20and%20export%20the%20results.&surface=work>)
 
   * ### Create a revenue analysis
 
 ![](https://files.openai.com/content?id=file_00000000f33481f79cf1bfb02497ab1c&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3c41016d88c854974c04fb1898a4664ac6abf98d2453911f162449d074bb2603&v=0)Oracle Analytics Create a revenue-by-region analysis and save it in My Folders.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Oracle+Analytics+Create+a+revenue-by-region+analysis+and+save+it+in+My+Folders.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_1c7fdf7f11dc819183017847ab1295cb?install&prompt=Create%20a%20revenue-by-region%20analysis%20and%20save%20it%20in%20My%20Folders.&surface=work>)
 
 
 
@@ -87,9 +87,9 @@ Turn questions into answers in your organization's Oracle BI workspace. Requires
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
 ### [Privacy policyLearn more](<https://openai.com/policies/row-privacy-policy/>)
 
@@ -101,13 +101,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)AlationGoverned Knowledge Layer](</business/plugins/alation/>)[![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)DBTWork with dbt projects](</business/plugins/dbt/>)[![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)Microsoft Power BIExplore and author analytics in your browser](</business/plugins/microsoft-power-bi/>)[![](https://files.openai.com/content?id=file_00000000305c81f592476d99e3faab61&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=64c45bfe23621d0cb193310b6fc5cded6a470a131c891a40a6dca4c7198340d4&v=0)![](https://files.openai.com/content?id=file_00000000dda481f58d27cff6712efd6e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=0f9a40070454550d86b04a4023fefbd1dbcceb54dc9defdb316dfc7467777022&v=0)TableauSee and understand data](</business/plugins/tableau/>)[![](https://files.openai.com/content?id=file_00000000333471f69062a3ef9b51c5cc&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=8497e91942dbb748ab58beeaf764b868b0233c8259f5375156a575f257f6ba72)![](https://files.openai.com/content?id=file_00000000b7b871f6a5c1c3749690cca3&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e856610017bcd39e2392d0467d774092cd216436cbe4703d7518137078f5bd73)Omni AnalyticsQuery business data](</business/plugins/omni/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)AlationGoverned Knowledge Layer](</business/plugins/alation/>)[![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)DBTWork with dbt projects](</business/plugins/dbt/>)[![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)Microsoft Power BIExplore and author analytics in your browser](</business/plugins/microsoft-power-bi/>)[![](https://files.openai.com/content?id=file_00000000305c81f592476d99e3faab61&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=64c45bfe23621d0cb193310b6fc5cded6a470a131c891a40a6dca4c7198340d4&v=0)![](https://files.openai.com/content?id=file_00000000dda481f58d27cff6712efd6e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=0f9a40070454550d86b04a4023fefbd1dbcceb54dc9defdb316dfc7467777022&v=0)TableauSee and understand data](</business/plugins/tableau/>)[![](https://files.openai.com/content?id=file_00000000333471f69062a3ef9b51c5cc&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=8497e91942dbb748ab58beeaf764b868b0233c8259f5375156a575f257f6ba72)![](https://files.openai.com/content?id=file_00000000b7b871f6a5c1c3749690cca3&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e856610017bcd39e2392d0467d774092cd216436cbe4703d7518137078f5bd73)Omni AnalyticsQuery business data](</business/plugins/omni/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -119,10 +129,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -141,7 +151,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -168,8 +179,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -188,6 +199,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

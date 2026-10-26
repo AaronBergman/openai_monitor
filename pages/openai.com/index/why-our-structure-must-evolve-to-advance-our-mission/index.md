@@ -39,8 +39,11 @@ Share
 OpenAI’s Board of Directors is evaluating our corporate structure in order to best support the mission of ensuring artificial general intelligence (AGI)1 benefits all of humanity, with three objectives:
 
   1. Choose a non-profit / for-profit structure that is best for the long-term success of the mission.
+
   2. Make the non-profit sustainable.
+
   3. Equip each arm to do its part.
+
 
 
 
@@ -81,8 +84,11 @@ The [hundreds⁠(opens in a new window)](<https://www.investopedia.com/meta-says
 As we enter 2025, we will have to become more than a lab and a startup—we have to become an enduring company. The Board’s objectives as it considers, in consultation with outside legal and financial advisors, how to best structure OpenAI to advance the mission of ensuring AGI benefits all of humanity have been:
 
   1. **Choose a non-profit / for-profit structure that is best for the long-term success of the mission.** Our plan is to transform our existing for-profit into a Delaware [Public Benefit Corporation⁠(opens in a new window)](<https://en.wikipedia.org/wiki/Benefit_corporation>) (PBC) with ordinary shares of stock and the OpenAI mission as its public benefit interest. The PBC is a [structure⁠(opens in a new window)](<https://www.theinformation.com/articles/musks-xai-incorporates-as-benefit-corporation-with-positive-impact-goal>) [used⁠](<https://openai.com/index/elon-musk-wanted-an-openai-for-profit/>) [by⁠(opens in a new window)](<https://en.wikipedia.org/wiki/Inflection_AI>) [many⁠(opens in a new window)](<https://www.anthropic.com/company>) [others⁠(opens in a new window)](<https://corpgov.law.harvard.edu/2022/02/18/converting-to-a-delaware-public-benefit-corporation-lessons-from-experience/>) that requires the company to balance shareholder interests, stakeholder interests, and a public benefit interest in its decisionmaking. It will enable us to raise the necessary capital with conventional terms like others in this space.
+
   2. **Make the non-profit sustainable.** Our plan would result in one of the best resourced non-profits in history. The non-profit’s significant interest in the existing for-profit would take the form of shares in the PBC at a fair valuation determined by independent financial advisors. This will multiply the resources that our donors gave manyfold.
+
   3. **Equip each arm to do its part.** Our current structure does not allow the Board to directly consider the interests of those who would finance the mission and does not enable the non-profit to easily do more than control the for-profit. The PBC will run and control OpenAI’s operations and business, while the non-profit will hire a leadership team and staff to pursue charitable initiatives in sectors such as health care, education, and science.
+
 
 
 
@@ -118,9 +124,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -139,7 +146,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -157,6 +165,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -165,8 +174,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +194,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

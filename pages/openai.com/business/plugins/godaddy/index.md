@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.godaddy.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000651071f6b83a1e63cf9ed138&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=7&sig=90eee273c73de673d14ec3c9a7b5c787b98e1fff91b27c77c75f42d1a434d742&v=0)![](https://files.openai.com/content?id=file_000000008efc71f6abe5ed3a403558ed&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=7&sig=c5dadefc60300c9cb4afaa5ec97df40943978dc7287b56e297ca752280418ac3&v=0)GoDaddy Show me pizza related domains(opens in a new window)](<https://chatgpt.com/?prompt=%40GoDaddy+Show+me+pizza+related+domains>)
+[![](https://files.openai.com/content?id=file_00000000651071f6b83a1e63cf9ed138&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=7&sig=90eee273c73de673d14ec3c9a7b5c787b98e1fff91b27c77c75f42d1a434d742&v=0)![](https://files.openai.com/content?id=file_000000008efc71f6abe5ed3a403558ed&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=7&sig=c5dadefc60300c9cb4afaa5ec97df40943978dc7287b56e297ca752280418ac3&v=0)GoDaddy Show me pizza related domains(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697b9ea0c7f0819183c54233b42cd3a6?install&prompt=Show%20me%20pizza%20related%20domains>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Our app makes it easy to search for and buy available domains. Simply type in yo
 
 ![](https://files.openai.com/content?id=file_00000000651071f6b83a1e63cf9ed138&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=7&sig=90eee273c73de673d14ec3c9a7b5c787b98e1fff91b27c77c75f42d1a434d742&v=0)![](https://files.openai.com/content?id=file_000000008efc71f6abe5ed3a403558ed&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=7&sig=c5dadefc60300c9cb4afaa5ec97df40943978dc7287b56e297ca752280418ac3&v=0)GoDaddy Find available domain names for the business in this brief. Prefer short, easy-to-spell names and explain the tradeoffs among five options.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40GoDaddy+Find+available+domain+names+for+the+business+in+this+brief.+Prefer+short%2C+easy-to-spell+names+and+explain+the+tradeoffs+among+five+options.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697b9ea0c7f0819183c54233b42cd3a6?install&prompt=Find%20available%20domain%20names%20for%20the%20business%20in%20this%20brief.%20Prefer%20short%2C%20easy-to-spell%20names%20and%20explain%20the%20tradeoffs%20among%20five%20options.&surface=work>)
 
   * ### Compare domain alternatives
 
 ![](https://files.openai.com/content?id=file_00000000651071f6b83a1e63cf9ed138&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=7&sig=90eee273c73de673d14ec3c9a7b5c787b98e1fff91b27c77c75f42d1a434d742&v=0)![](https://files.openai.com/content?id=file_000000008efc71f6abe5ed3a403558ed&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=7&sig=c5dadefc60300c9cb4afaa5ec97df40943978dc7287b56e297ca752280418ac3&v=0)GoDaddy Check availability for these domain names. If a name is unavailable, suggest close alternatives that preserve the brand's meaning and explain your shortlist.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40GoDaddy+Check+availability+for+these+domain+names.+If+a+name+is+unavailable%2C+suggest+close+alternatives+that+preserve+the+brand%27s+meaning+and+explain+your+shortlist.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697b9ea0c7f0819183c54233b42cd3a6?install&prompt=Check%20availability%20for%20these%20domain%20names.%20If%20a%20name%20is%20unavailable%2C%20suggest%20close%20alternatives%20that%20preserve%20the%20brand's%20meaning%20and%20explain%20your%20shortlist.&surface=work>)
 
   * ### Check launch domains
 
 ![](https://files.openai.com/content?id=file_00000000651071f6b83a1e63cf9ed138&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=7&sig=90eee273c73de673d14ec3c9a7b5c787b98e1fff91b27c77c75f42d1a434d742&v=0)![](https://files.openai.com/content?id=file_000000008efc71f6abe5ed3a403558ed&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=7&sig=c5dadefc60300c9cb4afaa5ec97df40943978dc7287b56e297ca752280418ac3&v=0)GoDaddy Check these ten proposed launch domains and group them by availability. Recommend three memorable options based on the supplied brand criteria.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40GoDaddy+Check+these+ten+proposed+launch+domains+and+group+them+by+availability.+Recommend+three+memorable+options+based+on+the+supplied+brand+criteria.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_697b9ea0c7f0819183c54233b42cd3a6?install&prompt=Check%20these%20ten%20proposed%20launch%20domains%20and%20group%20them%20by%20availability.%20Recommend%20three%20memorable%20options%20based%20on%20the%20supplied%20brand%20criteria.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Our app makes it easy to search for and buy available domains. Simply type in yo
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
-### [Privacy policyLearn more](<https://www.godaddy.com/agreements/showdoc?pageid=PRIVACY>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.godaddy.com/agreements/showdoc?pageid=PRIVACY>)
 
 ## Add the GoDaddy plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets.](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps.](</business/plugins/vercel/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps](</business/plugins/vercel/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
