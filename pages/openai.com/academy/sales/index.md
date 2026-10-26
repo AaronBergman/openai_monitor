@@ -63,8 +63,11 @@ The result is more time for customer conversations and more consistency across o
 ## Why sales teams use ChatGPT?
 
   * **Speeds up account and meeting prep without missing the basics.** Before a call, reps often pull context from multiple sources. ChatGPT can research accounts, synthesize internal context, highlight gaps, and produce a clear prep brief and follow-up plan.
+
   * **Makes outreach and follow-up more consistent—and easier to personalize.** Good sales writing is specific, concise, and relevant. ChatGPT can draft first-pass emails, call recaps, and next-step messages tailored to the account, while keeping tone and structure consistent across the team.
+
   * **Helps keep deals coordinated internally.** Deals often slow down due to unclear ownership or next steps. ChatGPT can turn updates into action plans, decision logs, and stakeholder-ready summaries to keep teams aligned.
+
 
 
 
@@ -131,9 +134,13 @@ For sales leaders, value shows up in execution quality and team throughput—not
 Look for signals like:
 
   * Faster prep for customer meetings
+
   * More consistent follow-ups
+
   * Higher-quality CRM updates
+
   * Less delay between deal steps
+
 
 
 
@@ -225,9 +232,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -246,7 +254,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -264,6 +273,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -272,8 +282,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -292,6 +302,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -47,8 +47,11 @@ Sam Altman, as CEO, will rejoin the OpenAI Board of Directors.
 The OpenAI Board also announced today the election of three new Board members as one part of its commitment to expansion, including: 
 
   * **Dr. Sue Desmond-Hellmann** , _former CEO of the Bill and Melinda Gates Foundation and on the Board of Directors at Pfizer and on the President’s Council of Advisors on Science and Technology._
+
   * **Nicole Seligman** , _former EVP and Global General Counsel of Sony and President of Sony Entertainment and on the Board of Directors at Paramount Global, Meira GTx, and Intuitive Machines, Inc._
+
   * **Fidji Simo** , _CEO and Chair of Instacart and on the Board of Directors at Shopify_
+
 
 
 
@@ -59,9 +62,13 @@ Taylor further stated, “As Chair of the Board, I am excited to welcome Sue, Ni
 The Board also announced the adoption of important improvements to OpenAI’s governance structure. Key enhancements include:
 
   * Adopting a new set of corporate governance guidelines;
+
   * Strengthening OpenAI’s Conflict of Interest Policy;
+
   * Creating a whistleblower hotline to serve as an anonymous reporting resource for all OpenAI employees and contractors; and
+
   * Creating additional Board committees, including a Mission & Strategy committee focused on implementation and advancement of the core mission of OpenAI. 
+
 
 
 
@@ -96,15 +103,15 @@ OpenAI
 
 [View all](</news/>)
 
-![Newspartnership Cover](https://images.ctfassets.net/kftzwdyauwt9/ffffbd46-a171-41c5-25d9eec16b7d/bd1bc987f38b1c2901819b4c211886a2/NewsPartnership_Cover.png?w=3840&q=90&fm=webp)
+![Soft pastel painting depicting a serene sky with wispy clouds, blending aqua, peach, and a hint of yellow at the horizon.](https://images.ctfassets.net/kftzwdyauwt9/ffffbd46-a171-41c5-25d9eec16b7d/bd1bc987f38b1c2901819b4c211886a2/NewsPartnership_Cover.png?w=3840&q=90&fm=webp)
 
 [Global news partnerships: Le Monde and Prisa MediaCompanyMar 13, 2024](</index/global-news-partnerships-le-monde-and-prisa-media/>)
 
-![New board of directors](https://images.ctfassets.net/kftzwdyauwt9/5J9s3ItUUDOTebSo0ZVmun/642e8632be32866792c7aaae0113aaa5/44.png?w=3840&q=90&fm=webp)
+![Abstract soft-focus background with a delicate blend of pale peach and a hint of pink.](https://images.ctfassets.net/kftzwdyauwt9/5J9s3ItUUDOTebSo0ZVmun/642e8632be32866792c7aaae0113aaa5/44.png?w=3840&q=90&fm=webp)
 
 [OpenAI announces new members to board of directorsCompanyMar 8, 2024](</index/openai-announces-new-members-to-board-of-directors/>)
 
-![OpenAI and Elon Musk > Media Item](https://images.ctfassets.net/kftzwdyauwt9/2M3VUBzndWoB6PWQ9Uad8u/4abfd8660278a657726e5284d0b8dabe/31.png?w=3840&q=90&fm=webp)
+![Softly focused image of a delicate flower with pale pink petals and a subtle golden center.](https://images.ctfassets.net/kftzwdyauwt9/2M3VUBzndWoB6PWQ9Uad8u/4abfd8660278a657726e5284d0b8dabe/31.png?w=3840&q=90&fm=webp)
 
 [OpenAI and Elon MuskCompanyMar 5, 2024](</index/openai-elon-musk/>)
 
@@ -118,9 +125,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -139,7 +147,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -157,6 +166,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -165,8 +175,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +195,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

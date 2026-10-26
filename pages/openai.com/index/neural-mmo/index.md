@@ -71,9 +71,13 @@ In recent years, multiagent settings have become an effective [platform⁠(opens
 To address these challenges, we built our Neural MMO to meet the following criteria:
 
   * **Persistence** : Agents learn concurrently in the presence of other learning agents with no environment resets. Strategies must consider long time horizons and adapt to potentially rapid changes in the behaviors of other agents.
+
   * **Scale** : The environment supports a large and variable number of entities. Our experiments consider up to 100M lifetimes of 128 concurrent agents in each of 100 concurrent servers.
+
   * **Efficiency** : The computational barrier to entry is low. We can train effective policies on a single desktop CPU.
+
   * **Expansion** : Similarily [to⁠(opens in a new window)](<https://oldschool.runescape.com/>) [existing⁠(opens in a new window)](<https://worldofwarcraft.com/en-us/>) [MMOs⁠(opens in a new window)](<https://en.wikipedia.org/wiki/Massively_multiplayer_online_game>), our Neural MMO is designed to update with new content. Current core features include procedural generation of tile-based terrain, a food and water foraging system, and a strategic combat system. There is an opportunity for open-source driven expansion in the future.
+
 
 
 
@@ -148,15 +152,15 @@ We also thank the following for feedback on drafts of this post: Greg Brockman, 
 
 [View all](</news/>)
 
-![Whisper](https://images.ctfassets.net/kftzwdyauwt9/13c810cb-0592-442d-190ab7378bef/a7cb2299d034abe93023f662f8d32263/Speech_Rec_16_9.png?w=3840&q=90&fm=webp)
+![An abstract expressionist painting with soft, pastel colors depicting a pond and orange flowers.](https://images.ctfassets.net/kftzwdyauwt9/13c810cb-0592-442d-190ab7378bef/a7cb2299d034abe93023f662f8d32263/Speech_Rec_16_9.png?w=3840&q=90&fm=webp)
 
 [Introducing WhisperReleaseSep 21, 2022](</index/whisper/>)
 
-![Screenshot of a scene from Minecraft](https://images.ctfassets.net/kftzwdyauwt9/ef9fc360-1a5a-4ca3-5c25b83b3564/50c07940455cc86ef84d91526d9cf3e0/vpt.jpg?w=3840&q=90&fm=webp)
+![Hills and trees surrounding a pond in an environment on Minecraft.](https://images.ctfassets.net/kftzwdyauwt9/ef9fc360-1a5a-4ca3-5c25b83b3564/50c07940455cc86ef84d91526d9cf3e0/vpt.jpg?w=3840&q=90&fm=webp)
 
 [Learning to play Minecraft with Video PreTrainingConclusionJun 23, 2022](</index/vpt/>)
 
-![Techniques For Training Large Neural Networks](https://images.ctfassets.net/kftzwdyauwt9/62793de4-0f01-42fc-539325d9af36/bc1ac82499fc1dc43f59accdd31d0195/image-9.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting with energetic, vibrant colors.](https://images.ctfassets.net/kftzwdyauwt9/62793de4-0f01-42fc-539325d9af36/bc1ac82499fc1dc43f59accdd31d0195/image-9.webp?w=3840&q=90&fm=webp)
 
 [Techniques for training large neural networksPublicationJun 9, 2022](</index/techniques-for-training-large-neural-networks/>)
 
@@ -170,9 +174,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -191,7 +196,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -209,6 +215,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -217,8 +224,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -237,6 +244,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

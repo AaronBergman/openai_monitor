@@ -32,7 +32,7 @@ OpenAI
 
 # Aha!
 
-Connect to sync Aha! product roadmaps and features for use in ChatGPT.
+Connect to sync Aha! product roadmaps and features for use in ChatGPT
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a75de1e29a081919a00e5aaa57568d6>)[Contact sales](</contact-sales/>)
 
@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.aha.io/>)
 
-[![](https://files.openai.com/content?id=file_00000000d94481f7a5d7fe678c79e2d3&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=17e8c83c42eb29fe23a9ddeafefe51f6f355a986fd413c3f34febd802aef2bdc&v=0)Aha! Summarize the customer feedback we received last week.(opens in a new window)](<https://chatgpt.com/?prompt=%40Aha%21+Summarize+the+customer+feedback+we+received+last+week.>)
+[![](https://files.openai.com/content?id=file_00000000d94481f7a5d7fe678c79e2d3&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=17e8c83c42eb29fe23a9ddeafefe51f6f355a986fd413c3f34febd802aef2bdc&v=0)Aha! Summarize the customer feedback we received last week.(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a75de1e29a081919a00e5aaa57568d6?install&prompt=Summarize%20the%20customer%20feedback%20we%20received%20last%20week.>)
 
 ## How it works
 
@@ -57,30 +57,30 @@ Give teams instant, accurate answers about roadmaps, releases, and priorities by
 
 ![](https://files.openai.com/content?id=file_00000000d94481f7a5d7fe678c79e2d3&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=17e8c83c42eb29fe23a9ddeafefe51f6f355a986fd413c3f34febd802aef2bdc&v=0)Aha! What features are scheduled to ship next, and which ones look at risk based on status, dependencies, or slipped dates? Keep it easy to scan and make the language exec-friendly.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Aha%21+What+features+are+scheduled+to+ship+next%2C+and+which+ones+look+at+risk+based+on+status%2C+dependencies%2C+or+slipped+dates%3F+Keep+it+easy+to+scan+and+make+the+language+exec-friendly.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a75de1e29a081919a00e5aaa57568d6?install&prompt=What%20features%20are%20scheduled%20to%20ship%20next%2C%20and%20which%20ones%20look%20at%20risk%20based%20on%20status%2C%20dependencies%2C%20or%20slipped%20dates%3F%20Keep%20it%20easy%20to%20scan%20and%20make%20the%20language%20exec-friendly.&surface=work>)
 
   * ### Speed up release communication
 
 ![](https://files.openai.com/content?id=file_00000000d94481f7a5d7fe678c79e2d3&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=17e8c83c42eb29fe23a9ddeafefe51f6f355a986fd413c3f34febd802aef2bdc&v=0)Aha! Draft release notes for the most recent release using the latest feature updates and make it customer-friendly (no internal jargon).
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Aha%21+Draft+release+notes+for+the+most+recent+release+using+the+latest+feature+updates+and+make+it+customer-friendly+%28no+internal+jargon%29.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a75de1e29a081919a00e5aaa57568d6?install&prompt=Draft%20release%20notes%20for%20the%20most%20recent%20release%20using%20the%20latest%20feature%20updates%20and%20make%20it%20customer-friendly%20\(no%20internal%20jargon\).&surface=work>)
 
   * ### Make better priority decisions
 
 ![](https://files.openai.com/content?id=file_00000000d94481f7a5d7fe678c79e2d3&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=17e8c83c42eb29fe23a9ddeafefe51f6f355a986fd413c3f34febd802aef2bdc&v=0)Aha! Find the ideas with the most votes in the last 90 days, group them by theme, and suggest a shortlist for next quarter planning.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Aha%21+Find+the+ideas+with+the+most+votes+in+the+last+90+days%2C+group+them+by+theme%2C+and+suggest+a+shortlist+for+next+quarter+planning.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a75de1e29a081919a00e5aaa57568d6?install&prompt=Find%20the%20ideas%20with%20the%20most%20votes%20in%20the%20last%2090%20days%2C%20group%20them%20by%20theme%2C%20and%20suggest%20a%20shortlist%20for%20next%20quarter%20planning.&surface=work>)
 
 
 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/12628380-aha-synced-connector>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/12628380-aha-synced-connector>)
 
-### [Plugin supportLearn more](<https://www.aha.io/support>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.aha.io/support>)
 
-### [Privacy policyLearn more](<https://www.aha.io/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.aha.io/privacy>)
 
 ## Add the Aha! plugin in a few clicks
 
@@ -90,13 +90,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets.](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects.](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages.](</business/plugins/notion/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages.](</business/plugins/slack/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages](</business/plugins/notion/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages](</business/plugins/slack/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -108,10 +118,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -130,7 +140,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -157,8 +168,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -177,6 +188,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

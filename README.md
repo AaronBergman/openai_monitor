@@ -1,5 +1,44 @@
 # openai_monitor
 
+## 2026-10-26T09-17Z
+
+**Fetch time:** 2026-10-26T09:17Z (sitemap + 1,820 pages) UTC | **Baseline:** 2026-09-28T09-17Z (**28 days earlier — 27 daily runs were missed**)
+
+**TL;DR:** This entry covers a month of changes at once. The sitemap grew from 1,985 to 2,093 URLs (114 added, 6 removed) and every changed page was touched by a site-wide nav/footer refresh that now advertises GPT-6.1 Sol, GPT-6 Astra, "Dots" and Plugins. The new pages tell the story of the month: GPT-6 rolled out to all ChatGPT users with an "Intelligent UI" (Oct 7), GPT-6.1 Sol launched as a cheaper near-Astra model, "dots" (always-on agents) debuted at DevDay (Sep 29), ChatGPT Ads reached 89 countries, OpenAI models are coming to Google Cloud, and a cluster of security posts describes hardening model-training environments after AI agents found sandbox escapes.
+
+### Anomalies
+
+- **Coverage gap:** no runs Sep 29 – Oct 25, so everything here is aggregated and short-lived pages in that window were not seen.
+- **3 reappeared URLs:** [`/business/plugins/alpaca/`](pages/openai.com/business/plugins/alpaca/index.md) (gone Sep 25, back), [`/form/codex-ambassadors/`](pages/openai.com/form/codex-ambassadors/index.md) (gone since June; back with a lastmod 17 minutes before our fetch alongside new Codex Originals pages), [`/policies/row-privacy-policy/`](pages/openai.com/policies/row-privacy-policy/index.md) (gone since May).
+- **New URL with no `<lastmod>`:** [`/index/introducing-gpt-6-1-sol/`](pages/openai.com/index/introducing-gpt-6-1-sol/index.md).
+- **220 URLs moved between sub-sitemaps** (e.g. 35 company→global-affairs, 25 product→release, 10 safety→security) — looks like category re-tagging; plugin categories also reshuffled.
+- **New 43rd sub-sitemap `learn-demos`** (14 business demo pages).
+- No future-dated or backwards lastmods.
+
+Full detail in [`runs/2026-10-26T09-17Z/analysis.md`](runs/2026-10-26T09-17Z/analysis.md).
+
+### Notable additions
+
+- [GPT-6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md): near-GPT-6-Astra capability at one-fifth the price.
+- [GPT-6 and Intelligent UI for everyone](pages/openai.com/index/gpt-6-for-everyone/index.md) (Oct 7): a GPT-6 model for ChatGPT's 1.2 B weekly users; answers as interactive UIs.
+- [Introducing dots](pages/openai.com/index/introducing-dots/index.md) (Sep 29) and [DevDay 2026 recap](pages/openai.com/index/devday-2026-recap/index.md): always-on agents on GPT-6 Astra connecting to 4,000+ apps; 20+ announcements.
+- [Decisions API](pages/openai.com/index/decisions-api/index.md) and [GPT-6 model guide](pages/openai.com/index/practical-guide-building-gpt-6/index.md).
+- Ads: [26 new countries / 89 total, 100,000+ advertisers](pages/openai.com/index/chatgpt-ads-expands-26-new-countries/index.md), [new visual ad format](pages/openai.com/index/new-chatgpt-ads-format-and-measurement/index.md), [ad-stack engineering post](pages/openai.com/index/building-chatgpt-ad-stack/index.md).
+- Security/safety: [Securing our frontier model training environment](pages/openai.com/index/securing-our-frontier-model-training-environment/index.md), [Towards safety cases](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md), [Patch the Planet](pages/openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/index.md), [model-distillation campaign disrupted](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md), [Cyber defenders blueprint](pages/openai.com/index/empowering-cyber-defenders/index.md), [EU text provenance](pages/openai.com/index/eu-text-provenance/index.md), [NASK (Poland) partnership](pages/openai.com/index/openai-nask-ai-safety-security-partnership/index.md).
+- Partners/deals: [OpenAI models on Google Cloud](pages/openai.com/index/openai-models-google-cloud/index.md), [Atlassian](pages/openai.com/index/atlassian-partnership/index.md), [Uber ChatGPT Work (30,000+ staff)](pages/openai.com/index/uber-chatgpt-work-rollout/index.md), [Orchestra Bio acquisition](pages/openai.com/index/openai-to-acquire-orchestra-bio/index.md), [Rosalind Academic Plan](pages/openai.com/index/introducing-the-rosalind-academic-plan/index.md); plus ~25 customer stories and new security-firm partner pages.
+
+### Notable updates
+
+- **Site-wide nav/footer change on ~1,703 pages:** adds GPT-6.1 Sol, GPT-6 Astra, Dots, Plugins, Models, OpenAI Status; removes GPT-5.4, Open Models, Apps SDK; Codex now links to chatgpt.com/codex.
+- **"Get OpenAI for Business updates" email signup** added to ~378 business pages.
+- "Latest posts" widgets rotated to the new articles. No other individual page was analyzed in depth (see analysis).
+
+### Removals
+
+[`/prism/`](pages/openai.com/prism/index.md), `/form/ultrafast/`, `/business/partners/pathfindr/`, and three plugin pages (`atlassian-rovo`, `wordpress-com`, `mcp-server-for-wordpress`) — the last two superseded by new `wordpress` and `atlassian` plugin pages.
+
+**Stats:** 2,093 URLs · 114 added · 1,706 updated · 6 removed · 7 anomalies · 43 sub-sitemaps
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

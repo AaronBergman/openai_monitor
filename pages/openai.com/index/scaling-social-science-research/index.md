@@ -52,6 +52,59 @@ Beyond this type of measurement, GABRIEL also provides practical tools researche
 
 GABRIEL is available now as an [_open-source Python library_ ⁠(opens in a new window)](<https://github.com/openai/GABRIEL>), with a [_tutorial notebook_ ⁠(opens in a new window)](<https://colab.research.google.com/drive/1RMUeAWACpViqiUMlPMMwPTKyGU-OX756?usp=sharing>) to get started. It is designed to require minimal technical background. We’ll keep improving GABRIEL over time based on feedback from the academic community. We hope this tool will help more researchers bring the richness of qualitative data and human stories into their work.
 
+## Citation
+
+#### Citation
+
+`
+    
+    
+    1
+    
+    @techreport{openaiecon2026measurement,
+    
+    2
+    
+      author = {Hemanth Asirvatham and Elliott Mokski and Andrei Shleifer},
+    
+    3
+    
+      title = {{GPT} as a Measurement Tool},
+    
+    4
+    
+      date = {2026-02},
+    
+    5
+    
+      year = {2026},
+    
+    6
+    
+      institution = {National Bureau of Economic Research},
+    
+    7
+    
+      type = {Working paper},
+    
+    8
+    
+      number = {34834},
+    
+    9
+    
+      doi = {10.3386/w34834},
+    
+    10
+    
+      url = {https://cdn.openai.com/pdf/7517a586-5bfa-4b87-bd3d-6ea0e9e844c7/GPT-as-a-measurement-tool.pdf},
+    
+    11
+    
+    }
+
+`
+
   * [2026](</news/?tags=2026>)
   * [Economic Research](</news/?tags=economic-research>)
 
@@ -65,17 +118,17 @@ OpenAI
 
 [View all](</news/>)
 
-![OpenAI extends cyber access to Ukraine for civilian defense — cover](https://images.ctfassets.net/kftzwdyauwt9/4NsiJiqUurW5ypfaulGCFm/8b5bfad7d895c4fc6aa20766d5c88b0c/openai-extends-cyber-access-to-ukraine-for-civilian-defense-cover.png?w=3840&q=90&fm=webp)
+![Securing our frontier model training environment — Cover](https://images.ctfassets.net/kftzwdyauwt9/1YAlC4a6FgYc9r73SDH0Ef/bcd6bdf945006094fbc327ac46dee04d/new-approach-to-research-model-containment-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI extends cyber access to Ukraine for civilian defenseGlobal AffairsSep 23, 2026](</index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/>)
+[Securing our frontier model training environmentSecurityOct 23, 2026](</index/securing-our-frontier-model-training-environment/>)
 
-![Sam Altman’s remarks at the United Nations Security Council cover image](https://images.ctfassets.net/kftzwdyauwt9/4O6fFZArVSBeCoNjTFwXXZ/cc5e374a6b62b8f328555f002b3bca49/sam-altman-s-remarks-at-the-united-nations-security-council-cover.png?w=3840&q=90&fm=webp)
+![OpenAI and Poland’s NASK announce partnership — cover](https://images.ctfassets.net/kftzwdyauwt9/5iNpIavxCdztEpxDKfc72s/15273fe6022d7f1c77b5a6622c26dd1f/openai-and-poland-s-nask-announce-partnership-cover.png?w=3840&q=90&fm=webp)
 
-[Sam Altman’s remarks at the United Nations Security CouncilGlobal AffairsSep 23, 2026](</index/sam-altman-un-security-council-remarks/>)
+[OpenAI and NASK partner on AI safety and securityGlobal AffairsOct 23, 2026](</index/openai-nask-ai-safety-security-partnership/>)
 
-![Mental Health Bench art card](https://images.ctfassets.net/kftzwdyauwt9/1GVQAEpVME68kCI7Ol2ApW/abde191546741612492ae27f9baf7f3e/Mental_Health_Bench__art_card.png?w=3840&q=90&fm=webp)
+![Scaling AI to uncover new research leads in complex biological data — Cover](https://images.ctfassets.net/kftzwdyauwt9/5UED38veljkDWUT9l9b6eR/5d17087c963ea51bf01c1fbd754f19d9/scaling-ai-biological-data-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing MentalHealthBenchPublicationSep 23, 2026](</index/introducing-mentalhealthbench/>)
+[Using thousands of AI agents to uncover new leads in biological dataPublicationOct 21, 2026](</index/scaling-ai-research-for-complex-biological-data/>)
 
 Research
 
@@ -87,10 +140,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -109,7 +162,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -136,8 +190,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -156,6 +210,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

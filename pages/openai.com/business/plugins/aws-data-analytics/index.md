@@ -55,19 +55,19 @@ Data lake, analytics, and ETL workflows with S3 Tables, AWS Glue, and Athena. Co
 
 ![](https://files.openai.com/content?id=file_000000000ed881f6857938316275184f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=51d210da2c1fa7b5abfba4519d8cab9a9ec45c6c4e6934371f929fd47fba01f7&v=0)![](https://files.openai.com/content?id=file_000000000ed881f6857938316275184f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=51d210da2c1fa7b5abfba4519d8cab9a9ec45c6c4e6934371f929fd47fba01f7&v=0)AWS Data Analytics Find tables in the Glue Data Catalog in [region] that could answer [business question]. Summarize their schemas and locations, recommend the best sources, and flag missing data.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40AWS+Data+Analytics+Find+tables+in+the+Glue+Data+Catalog+in+%5Bregion%5D+that+could+answer+%5Bbusiness+question%5D.+Summarize+their+schemas+and+locations%2C+recommend+the+best+sources%2C+and+flag+missing+data.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6?install&prompt=Find%20tables%20in%20the%20Glue%20Data%20Catalog%20in%20%5Bregion%5D%20that%20could%20answer%20%5Bbusiness%20question%5D.%20Summarize%20their%20schemas%20and%20locations%2C%20recommend%20the%20best%20sources%2C%20and%20flag%20missing%20data.&surface=work>)
 
   * ### Analyze sales trends
 
 ![](https://files.openai.com/content?id=file_000000000ed881f6857938316275184f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=51d210da2c1fa7b5abfba4519d8cab9a9ec45c6c4e6934371f929fd47fba01f7&v=0)![](https://files.openai.com/content?id=file_000000000ed881f6857938316275184f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=51d210da2c1fa7b5abfba4519d8cab9a9ec45c6c4e6934371f929fd47fba01f7&v=0)AWS Data Analytics Use Athena to analyze monthly sales in [table] for the last quarter. Compare regions, identify the largest changes, and return the SQL with a concise findings summary.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40AWS+Data+Analytics+Use+Athena+to+analyze+monthly+sales+in+%5Btable%5D+for+the+last+quarter.+Compare+regions%2C+identify+the+largest+changes%2C+and+return+the+SQL+with+a+concise+findings+summary.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6?install&prompt=Use%20Athena%20to%20analyze%20monthly%20sales%20in%20%5Btable%5D%20for%20the%20last%20quarter.%20Compare%20regions%2C%20identify%20the%20largest%20changes%2C%20and%20return%20the%20SQL%20with%20a%20concise%20findings%20summary.&surface=work>)
 
   * ### Plan data lake ingestion
 
 ![](https://files.openai.com/content?id=file_000000000ed881f6857938316275184f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=51d210da2c1fa7b5abfba4519d8cab9a9ec45c6c4e6934371f929fd47fba01f7&v=0)![](https://files.openai.com/content?id=file_000000000ed881f6857938316275184f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=51d210da2c1fa7b5abfba4519d8cab9a9ec45c6c4e6934371f929fd47fba01f7&v=0)AWS Data Analytics Plan ingestion of [source table] into S3 Tables in [region]. Inspect the source schema, recommend an ingestion approach, and list prerequisites and validation checks before any data movement.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40AWS+Data+Analytics+Plan+ingestion+of+%5Bsource+table%5D+into+S3+Tables+in+%5Bregion%5D.+Inspect+the+source+schema%2C+recommend+an+ingestion+approach%2C+and+list+prerequisites+and+validation+checks+before+any+data+movement.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a917708c64481918f7ddea0cef4b8e6?install&prompt=Plan%20ingestion%20of%20%5Bsource%20table%5D%20into%20S3%20Tables%20in%20%5Bregion%5D.%20Inspect%20the%20source%20schema%2C%20recommend%20an%20ingestion%20approach%2C%20and%20list%20prerequisites%20and%20validation%20checks%20before%20any%20data%20movement.&surface=work>)
 
 
 
@@ -96,11 +96,11 @@ Data lake, analytics, and ETL workflows with S3 Tables, AWS Glue, and Athena. Co
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://aws.amazon.com/contact-us/>)
+### [Plugin supportLearn more(opens in a new window)](<https://aws.amazon.com/contact-us/>)
 
-### [Privacy policyLearn more](<https://docs.aws.amazon.com/agent-toolkit/latest/userguide/data-protection.html>)
+### [Privacy policyLearn more(opens in a new window)](<https://docs.aws.amazon.com/agent-toolkit/latest/userguide/data-protection.html>)
 
 ## Add the AWS Data Analytics plugin in a few clicks
 
@@ -110,13 +110,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)SnowflakeAsk governed analytics questions of Snowflake data.](</business/plugins/snowflake/>)[![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)BigQueryExplore BigQuery data and generate SQL from natural language.](</business/plugins/bigquery/>)[![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)Databricks GenieAnalyze lakehouse data and dashboards with natural language.](</business/plugins/databricks/>)[![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)DBTWork with dbt projects](</business/plugins/dbt/>)[![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)AlationGoverned Knowledge Layer](</business/plugins/alation/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)SnowflakeAsk governed analytics questions of Snowflake data](</business/plugins/snowflake/>)[![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)BigQueryExplore BigQuery data and generate SQL from natural language](</business/plugins/bigquery/>)[![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)Databricks GenieAnalyze lakehouse data and dashboards with natural language](</business/plugins/databricks/>)[![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)DBTWork with dbt projects](</business/plugins/dbt/>)[![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)AlationGoverned Knowledge Layer](</business/plugins/alation/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -128,10 +138,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -150,7 +160,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -177,8 +188,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -197,6 +208,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

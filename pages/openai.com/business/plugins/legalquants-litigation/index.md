@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://legalquants.com>)
 
-[![](https://files.openai.com/content?id=file_000000006a9481f5b7d5bbabd183b778&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=695fb2d78527213dc05715c4aa8958b42abeec4f1527c1a5cd22ec9266833b58&v=0)LegalQuants Litigation Check every authority in their motion. The authorities I have are in this folder.(opens in a new window)](<https://chatgpt.com/?prompt=%40LegalQuants+Litigation+Check+every+authority+in+their+motion.+The+authorities+I+have+are+in+this+folder.>)
+[![](https://files.openai.com/content?id=file_000000006a9481f5b7d5bbabd183b778&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=695fb2d78527213dc05715c4aa8958b42abeec4f1527c1a5cd22ec9266833b58&v=0)LegalQuants Litigation Check every authority in their motion. The authorities I have are in this folder.(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa118e4284081918b44f45b58d06de6?install&prompt=Check%20every%20authority%20in%20their%20motion.%20The%20authorities%20I%20have%20are%20in%20this%20folder.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Source-grounded legal workflows for litigators, with shared daily-practice tools
 
 ![](https://files.openai.com/content?id=file_000000006a9481f5b7d5bbabd183b778&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=695fb2d78527213dc05715c4aa8958b42abeec4f1527c1a5cd22ec9266833b58&v=0)LegalQuants Litigation Check every authority in their motion. The authorities I have are in this folder.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LegalQuants+Litigation+Check+every+authority+in+their+motion.+The+authorities+I+have+are+in+this+folder.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa118e4284081918b44f45b58d06de6?install&prompt=Check%20every%20authority%20in%20their%20motion.%20The%20authorities%20I%20have%20are%20in%20this%20folder.&surface=work>)
 
   * ### Pressure-test an opposing motion
 
 ![](https://files.openai.com/content?id=file_000000006a9481f5b7d5bbabd183b778&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=695fb2d78527213dc05715c4aa8958b42abeec4f1527c1a5cd22ec9266833b58&v=0)LegalQuants Litigation Pressure-test the other side's motion against our documents.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LegalQuants+Litigation+Pressure-test+the+other+side%27s+motion+against+our+documents.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa118e4284081918b44f45b58d06de6?install&prompt=Pressure-test%20the%20other%20side's%20motion%20against%20our%20documents.&surface=work>)
 
   * ### Prepare a deposition outline
 
 ![](https://files.openai.com/content?id=file_000000006a9481f5b7d5bbabd183b778&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=695fb2d78527213dc05715c4aa8958b42abeec4f1527c1a5cd22ec9266833b58&v=0)LegalQuants Litigation Prepare a deposition outline for our witness from the matter record, with exhibits.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LegalQuants+Litigation+Prepare+a+deposition+outline+for+our+witness+from+the+matter+record%2C+with+exhibits.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa118e4284081918b44f45b58d06de6?install&prompt=Prepare%20a%20deposition%20outline%20for%20our%20witness%20from%20the%20matter%20record%2C%20with%20exhibits.&surface=work>)
 
 
 
@@ -92,11 +92,11 @@ Source-grounded legal workflows for litigators, with shared daily-practice tools
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
-### [Privacy policyLearn more](<https://legalquants.com/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://legalquants.com/privacy>)
 
 ## Add the LegalQuants Litigation plugin in a few clicks
 
@@ -114,6 +114,16 @@ Bring your organization’s data and tools into OpenAI products and accelerate w
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
 
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
+
 Research
 
   * [Research Index](</research/index/>)
@@ -124,10 +134,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -146,7 +156,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -173,8 +184,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -193,6 +204,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

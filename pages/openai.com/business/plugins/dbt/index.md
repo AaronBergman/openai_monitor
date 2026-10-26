@@ -55,19 +55,19 @@ dbt MCP Server helps users inspect dbt projects, query dbt Semantic Layer metric
 
 ![](https://files.openai.com/content?id=file_00000000df4881f788a37df4207ac9dc&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4020564437afe11a5605bfe53ade5270adde75ec5dd47fc0054ea7bff442c67f&v=0)DBT Query our Semantic Layer revenue metric for the last two quarters by customer segment. Identify the largest contributors to the change and explain the definition, filters, and time grain used.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40DBT+Query+our+Semantic+Layer+revenue+metric+for+the+last+two+quarters+by+customer+segment.+Identify+the+largest+contributors+to+the+change+and+explain+the+definition%2C+filters%2C+and+time+grain+used.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a710de0c6b08191a298927933709e4e?install&prompt=Query%20our%20Semantic%20Layer%20revenue%20metric%20for%20the%20last%20two%20quarters%20by%20customer%20segment.%20Identify%20the%20largest%20contributors%20to%20the%20change%20and%20explain%20the%20definition%2C%20filters%2C%20and%20time%20grain%20used.&surface=work>)
 
   * ### Assess model change impact
 
 ![](https://files.openai.com/content?id=file_00000000df4881f788a37df4207ac9dc&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4020564437afe11a5605bfe53ade5270adde75ec5dd47fc0054ea7bff442c67f&v=0)DBT Inspect the lineage and metadata for our orders model. Identify downstream models and metrics affected by changing its customer key, and propose a focused validation checklist before implementation.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40DBT+Inspect+the+lineage+and+metadata+for+our+orders+model.+Identify+downstream+models+and+metrics+affected+by+changing+its+customer+key%2C+and+propose+a+focused+validation+checklist+before+implementation.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a710de0c6b08191a298927933709e4e?install&prompt=Inspect%20the%20lineage%20and%20metadata%20for%20our%20orders%20model.%20Identify%20downstream%20models%20and%20metrics%20affected%20by%20changing%20its%20customer%20key%2C%20and%20propose%20a%20focused%20validation%20checklist%20before%20implementation.&surface=work>)
 
   * ### Diagnose a failed job
 
 ![](https://files.openai.com/content?id=file_00000000df4881f788a37df4207ac9dc&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4020564437afe11a5605bfe53ade5270adde75ec5dd47fc0054ea7bff442c67f&v=0)DBT Review the latest failed production job, its run results, and affected model metadata. Identify the likely failure point, distinguish evidence from hypotheses, and recommend the next debugging steps.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40DBT+Review+the+latest+failed+production+job%2C+its+run+results%2C+and+affected+model+metadata.+Identify+the+likely+failure+point%2C+distinguish+evidence+from+hypotheses%2C+and+recommend+the+next+debugging+steps.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a710de0c6b08191a298927933709e4e?install&prompt=Review%20the%20latest%20failed%20production%20job%2C%20its%20run%20results%2C%20and%20affected%20model%20metadata.%20Identify%20the%20likely%20failure%20point%2C%20distinguish%20evidence%20from%20hypotheses%2C%20and%20recommend%20the%20next%20debugging%20steps.&surface=work>)
 
 
 
@@ -90,11 +90,11 @@ dbt MCP Server helps users inspect dbt projects, query dbt Semantic Layer metric
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
-### [Privacy policyLearn more](<https://www.getdbt.com/cloud/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.getdbt.com/cloud/privacy-policy>)
 
 ## Add the DBT plugin in a few clicks
 
@@ -104,13 +104,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)SnowflakeAsk governed analytics questions of Snowflake data.](</business/plugins/snowflake/>)[![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)BigQueryExplore BigQuery data and generate SQL from natural language.](</business/plugins/bigquery/>)[![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)Databricks GenieAnalyze lakehouse data and dashboards with natural language.](</business/plugins/databricks/>)[![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)AlationGoverned Knowledge Layer](</business/plugins/alation/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)SnowflakeAsk governed analytics questions of Snowflake data](</business/plugins/snowflake/>)[![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)BigQueryExplore BigQuery data and generate SQL from natural language](</business/plugins/bigquery/>)[![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)![](https://files.openai.com/content?id=file_00000000fb6081f7aa3f621147713ad6&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=7b7a02db1929ca7e8aebd24b459d525b6ac1ae88b282b387816507320645a98d&v=0)Databricks GenieAnalyze lakehouse data and dashboards with natural language](</business/plugins/databricks/>)[![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)AlationGoverned Knowledge Layer](</business/plugins/alation/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -122,10 +132,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -144,7 +154,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -171,8 +182,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -191,6 +202,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
