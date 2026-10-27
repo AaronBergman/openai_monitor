@@ -1,5 +1,48 @@
 # openai_monitor
 
+## 2026-10-27T09-16Z
+
+**Fetch time:** 2026-10-27T09:17Z (sitemap + 1,827 pages) UTC | **Baseline:** 2026-09-28T09-17Z (**29-day gap** — the monitor did not run Sep 29 – Oct 26, so this entry covers a whole month)
+
+**TL;DR:** A big catch-up. The sitemap grew from 1,985 to 2,100 URLs (+122 new, 7 removed). The headline launches are **GPT-6.1 Sol** and **GPT-6.1 Terra** (cheaper, near-flagship models), **"dots"** (always-on AI agents with their own cloud computer), **GPT-6 with "Intelligent UI"**, a **DevDay 2026** recap (20+ announcements), **OpenAI models coming to Google Cloud**, the acquisition of **Orchestra Bio**, and ChatGPT Ads expanding to 26 more countries. On the safety side OpenAI published a write-up of disrupting a **model-distillation campaign** and a post on **locking down its frontier-model training environment**. Nearly all 1,705 "updated" pages were touched by one site-wide navigation/footer redesign (new model list, Dots/Plugins/Status links, a business-newsletter signup), so the real content changes are fewer: the **Usage Policies were rewritten with an effective date of Nov 20, 2026**, and the Privacy Policy, Advertising Terms and Sub-processor list were all updated.
+
+### Anomalies
+
+- **Future-dated policy:** [`/policies/usage-policies/`](pages/openai.com/policies/usage-policies/index.md) now says "Effective: November 20, 2026" (24 days after our fetch). The rewrite narrows the licensed-professional-advice rule to *building AI tools* that give tailored advice, adds "law enforcement" to the national-security clause, and restructures the minors section.
+- **6 `<lastmod>` values slightly in the future** (1–3 s after our fetch at 09:17:07Z): `/api/`, `/index/evaluating-chain-of-thought-monitorability/`, `/index/model-ml/`, `/index/mufg/`, `/index/oscar/`, `/signals/data/` — timestamps look generated at request time, not real edits.
+- **3 URLs disappeared and reappeared:** `/business/plugins/alpaca/`, `/form/codex-ambassadors/` (now an application form), `/policies/row-privacy-policy/` (back with its old Mar 6, 2026 lastmod).
+- **22 sub-sitemap membership changes**, driven by a new `learn-webinars` sub-sitemap (43 sub-sitemaps now) that pulled `/business/learn/*` and webinar pages out of `page`/`company`; one influence-operation report moved from `global-affairs` to `safety`.
+- **Observation gap:** 29 days with no run; first_seen for the new URLs is an upper bound. No backwards-moving `<lastmod>`s.
+
+Full detail in [`runs/2026-10-27T09-16Z/analysis.md`](runs/2026-10-27T09-16Z/analysis.md).
+
+### Notable additions
+
+- [GPT-6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md): nearly matches GPT-6 Astra on agentic coding/computer use at ~1/5 the price; cached input $0.10/M tokens.
+- [GPT-6.1 Terra](pages/openai.com/index/introducing-gpt-6-1-terra/index.md): fast, cheap model strong on visual reasoning and computer use; API prices 50% below GPT-5.6 Terra.
+- [Introducing dots](pages/openai.com/index/introducing-dots/index.md): persistent agents on GPT-6 Astra that work 24/7 via ChatGPT, Slack or Teams and connect to 4,000+ apps through plugins.
+- [GPT-6 and Intelligent UI for everyone](pages/openai.com/index/gpt-6-for-everyone/index.md), [DevDay 2026 recap](pages/openai.com/index/devday-2026-recap/index.md), [Decisions API](pages/openai.com/index/decisions-api/index.md).
+- [OpenAI models are coming to Google Cloud](pages/openai.com/index/openai-models-google-cloud/index.md) and [Atlassian partnership](pages/openai.com/index/atlassian-partnership/index.md); [OpenAI acquires Orchestra Bio](pages/openai.com/index/openai-to-acquire-orchestra-bio/index.md) and the [Rosalind Academic Plan](pages/openai.com/index/introducing-the-rosalind-academic-plan/index.md).
+- [Disrupting a coordinated model-distillation campaign](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md), [Securing our frontier model training environment](pages/openai.com/index/securing-our-frontier-model-training-environment/index.md), ["Patch the Planet" coordinated vulnerability disclosure](pages/openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/index.md), [EU text provenance / textGrain watermarking](pages/openai.com/index/eu-text-provenance/index.md).
+- Ads: [ChatGPT Ads expands to 26 countries](pages/openai.com/index/chatgpt-ads-expands-26-new-countries/index.md), [how the ChatGPT ad stack works](pages/openai.com/index/building-chatgpt-ad-stack/index.md), [Brazil Advertising Terms](pages/openai.com/policies/brazil-advertising-terms/index.md).
+- Business: [OpenAI Marketplace](pages/openai.com/business/marketplace/index.md), [Forward Deployed Engineering](pages/openai.com/business/forward-deployed-engineering/index.md), [Sign in with ChatGPT terms](pages/openai.com/policies/sign-in-with-chatgpt-terms/index.md), plus ~40 customer stories (Uber, Albertsons, Itaú, Sullivan & Cromwell, Block, Cloudflare…) and 13 new plugin pages (Oracle NetSuite ×5, Atlassian ×2, WordPress, …).
+
+### Notable updates
+
+- **Site-wide nav/footer redesign** on all 1,705 updated pages: model list now GPT-6.1 Sol / GPT-6 Astra, new Dots / Plugins / Models / Status links, Open Models and Apps SDK links dropped, business-newsletter signup on 378 pages.
+- [Usage Policies](pages/openai.com/policies/usage-policies/index.md) rewritten (effective Nov 20, 2026) — see Anomalies.
+- [Privacy Policy](pages/openai.com/policies/privacy-policy/index.md) (Sep 10): Sora dropped from intro; stronger "we receive" data-partner/advertiser wording. [Advertising Terms](pages/openai.com/policies/advertising-terms/index.md) (Oct 15): Brazil carve-out, reseller guide removed. [Sub-processor list](pages/openai.com/policies/sub-processor-list/index.md) (Oct 14): regional Cloudflare processing; Intercom and Confluent dropped.
+- [`/codex/`](pages/openai.com/codex/index.md) relaunched as "Build anything with Codex" with Plus $20 / Pro $100 plan blocks; [pricing](pages/openai.com/business/pricing/index.md) adds GPT-6.x rows and Dots, drops Canvas; [homepage](pages/openai.com/index.md) hero now GPT-6.1 Terra.
+- Old o1/o3 posts gained "This post introduced OpenAI o1…" banners noting the models are retired; [Codex Ambassadors form](pages/openai.com/form/codex-ambassadors/index.md) became an application with intro-video requirement.
+
+### Removed pages
+
+`/prism/`, `/form/ultrafast/` (while a new Ultrafast case-study post appeared), `/business/partners/pathfindr/`, and four plugin pages (`atlassian-rovo`, `mcp-server-for-wordpress`, `oracle-analytics`, `wordpress-com`) that look renamed to `atlassian`, `wordpress`, `oracle-analytics-cloud`. Last snapshots are in git history.
+
+_Stats: 2100 total URLs | 122 added | 1705 updated (~875 with content beyond nav/footer) | 7 removed | 33 anomalies (22 are sub-sitemap membership shifts) | 43 sub-sitemaps_
+
+---
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

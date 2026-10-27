@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.datadoghq.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000c5ac81f7981f0ba2186edefd&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=991736a5b60d6bebf175e891640894fc768995b940bf94d5cc3fa50044ebee56&v=0)Datadog Experiments Analyze how users move through my product and find the largest drop-off.(opens in a new window)](<https://chatgpt.com/?prompt=%40Datadog+Experiments+Analyze+how+users+move+through+my+product+and+find+the+largest+drop-off.>)
+[![](https://files.openai.com/content?id=file_00000000c5ac81f7981f0ba2186edefd&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=991736a5b60d6bebf175e891640894fc768995b940bf94d5cc3fa50044ebee56&v=0)Datadog Experiments Analyze how users move through my product and find the largest drop-off.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a7c7752de408191a101b78e59fda025?install&prompt=Analyze%20how%20users%20move%20through%20my%20product%20and%20find%20the%20largest%20drop-off.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ This plugin is the best way to agentically interact with Datadog Product Analyti
 
 ![](https://files.openai.com/content?id=file_00000000c5ac81f7981f0ba2186edefd&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=991736a5b60d6bebf175e891640894fc768995b940bf94d5cc3fa50044ebee56&v=0)Datadog Experiments Analyze the [funnel] over the last 30 days. Identify the largest drop-off, compare available user segments, and recommend a focused improvement with the supporting data.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Datadog+Experiments+Analyze+the+%5Bfunnel%5D+over+the+last+30+days.+Identify+the+largest+drop-off%2C+compare+available+user+segments%2C+and+recommend+a+focused+improvement+with+the+supporting+data.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a7c7752de408191a101b78e59fda025?install&prompt=Analyze%20the%20%5Bfunnel%5D%20over%20the%20last%2030%20days.%20Identify%20the%20largest%20drop-off%2C%20compare%20available%20user%20segments%2C%20and%20recommend%20a%20focused%20improvement%20with%20the%20supporting%20data.&surface=work>)
 
   * ### Evaluate experiment results
 
 ![](https://files.openai.com/content?id=file_00000000c5ac81f7981f0ba2186edefd&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=991736a5b60d6bebf175e891640894fc768995b940bf94d5cc3fa50044ebee56&v=0)Datadog Experiments Check [experiment] for validity, review its primary metric and guardrails, and explain the result. Recommend whether to ship, continue, or investigate, with uncertainties made explicit.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Datadog+Experiments+Check+%5Bexperiment%5D+for+validity%2C+review+its+primary+metric+and+guardrails%2C+and+explain+the+result.+Recommend+whether+to+ship%2C+continue%2C+or+investigate%2C+with+uncertainties+made+explicit.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a7c7752de408191a101b78e59fda025?install&prompt=Check%20%5Bexperiment%5D%20for%20validity%2C%20review%20its%20primary%20metric%20and%20guardrails%2C%20and%20explain%20the%20result.%20Recommend%20whether%20to%20ship%2C%20continue%2C%20or%20investigate%2C%20with%20uncertainties%20made%20explicit.&surface=work>)
 
   * ### Configure a controlled rollout
 
 ![](https://files.openai.com/content?id=file_00000000c5ac81f7981f0ba2186edefd&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=8&sig=991736a5b60d6bebf175e891640894fc768995b940bf94d5cc3fa50044ebee56&v=0)Datadog Experiments Create or update [feature flag] in [environment] for [target users] at [percentage] traffic. Review the existing configuration first and summarize the targeting and rollout changes.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Datadog+Experiments+Create+or+update+%5Bfeature+flag%5D+in+%5Benvironment%5D+for+%5Btarget+users%5D+at+%5Bpercentage%5D+traffic.+Review+the+existing+configuration+first+and+summarize+the+targeting+and+rollout+changes.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a7c7752de408191a101b78e59fda025?install&prompt=Create%20or%20update%20%5Bfeature%20flag%5D%20in%20%5Benvironment%5D%20for%20%5Btarget%20users%5D%20at%20%5Bpercentage%5D%20traffic.%20Review%20the%20existing%20configuration%20first%20and%20summarize%20the%20targeting%20and%20rollout%20changes.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ This plugin is the best way to agentically interact with Datadog Product Analyti
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://www.datadoghq.com/support/>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.datadoghq.com/support/>)
 
-### [Privacy policyLearn more](<https://www.datadoghq.com/legal/privacy/>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.datadoghq.com/legal/privacy/>)
 
 ## Add the Datadog Experiments plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000007ee471f68631b7c4fb2ffa0a&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=7&sig=f39323d7fba4dba005497862549d9ff3191e0c24bc6700a2237bf3762d766f18&v=0)![](https://files.openai.com/content?id=file_00000000e2d871f68e451c2bb9f42a42&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=7&sig=3ba6e3e1b43a390e59ea926e37c54ea9438a2986c3edb670677ee8d4b26bfd24&v=0)StatsigConnect to Statsig](</business/plugins/statsig/>)[![](https://files.openai.com/content?id=file_000000005b3871f6b95972994a48b4df&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=7&sig=6951ee8bd27a31bc3ffd73cd770da5a85c2109314f7f8a6c9ceaef0e3e889a8c&v=0)![](https://files.openai.com/content?id=file_00000000757071fda31fdc61ead4b1de&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=6de478713f87a23958fc06e392cd5e8d77b097e68bbc59a4db72fabbb40b62bd&v=0)MixpanelQuery and analyze Mixpanel](</business/plugins/mixpanel/>)[![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)AmplitudeSearch and analyze analytics data.](</business/plugins/amplitude/>)[![](https://files.openai.com/content?id=file_00000000dff871fd97ecd3e12034e065&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ba5b5cb9e8613449f77c1752691f4f467846a43b941dc1f29632cf788fd3c426&v=0)![](https://files.openai.com/content?id=file_00000000b5bc71fdb6d8dc0bdc786058&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=416aab41b7a94dcf98fc20d43b8d80a0c807853ab48379f20a984d6f6daa0b1a&v=0)PostHogAnalyze your product data](</business/plugins/posthog/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000007ee471f68631b7c4fb2ffa0a&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=7&sig=f39323d7fba4dba005497862549d9ff3191e0c24bc6700a2237bf3762d766f18&v=0)![](https://files.openai.com/content?id=file_00000000e2d871f68e451c2bb9f42a42&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=7&sig=3ba6e3e1b43a390e59ea926e37c54ea9438a2986c3edb670677ee8d4b26bfd24&v=0)StatsigConnect to Statsig](</business/plugins/statsig/>)[![](https://files.openai.com/content?id=file_000000005b3871f6b95972994a48b4df&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=7&sig=6951ee8bd27a31bc3ffd73cd770da5a85c2109314f7f8a6c9ceaef0e3e889a8c&v=0)![](https://files.openai.com/content?id=file_00000000757071fda31fdc61ead4b1de&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=6de478713f87a23958fc06e392cd5e8d77b097e68bbc59a4db72fabbb40b62bd&v=0)MixpanelQuery and analyze Mixpanel](</business/plugins/mixpanel/>)[![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)AmplitudeSearch and analyze analytics data](</business/plugins/amplitude/>)[![](https://files.openai.com/content?id=file_00000000dff871fd97ecd3e12034e065&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ba5b5cb9e8613449f77c1752691f4f467846a43b941dc1f29632cf788fd3c426&v=0)![](https://files.openai.com/content?id=file_00000000b5bc71fdb6d8dc0bdc786058&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=416aab41b7a94dcf98fc20d43b8d80a0c807853ab48379f20a984d6f6daa0b1a&v=0)PostHogAnalyze your product data](</business/plugins/posthog/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

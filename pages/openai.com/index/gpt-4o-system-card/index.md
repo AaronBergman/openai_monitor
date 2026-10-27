@@ -32,7 +32,7 @@ August 8, 2024
 
 # GPT‑4o System Card
 
-[View PDF version](<https://cdn.openai.com/gpt-4o-system-card.pdf>)
+[View PDF version(opens in a new window)](<https://cdn.openai.com/gpt-4o-system-card.pdf>)
 
 Loading…
 
@@ -135,15 +135,20 @@ In line with our commitment to building AI safely and consistent with our volunt
 GPT‑4o's capabilities were pre-trained using data up to October 2023, sourced from a wide variety of materials including:
 
   1. **Select publicly available data,** mostly collected from industry-standard machine learning datasets and web crawls.
+
   2. **Proprietary data from data partnerships**. We form partnerships to access non-publicly available data, such as pay-walled content, archives, and metadata. For example, we [_partnered with Shutterstock_ ⁠(opens in a new window)](<https://www.shutterstock.com/press/20435>)5 on building and delivering AI-generated images. 
+
 
 
 
 The key dataset components that contribute to GPT‑4o’s capabilities are:
 
   1. **Web Data –** Data from public web pages provides a rich and diverse range of information, ensuring the model learns from a wide variety of perspectives and topics.
+
   2. **Code and math –** Including code and math data in training helps the model develop robust reasoning skills by exposing it to structured logic and problem-solving processes.
+
   3. **Multimodal data –** Our dataset includes images, audio, and video to teach the LLMs how to interpret and generate non-textual input and output. From this data, the model learns how to interpret visual images, actions and sequences in real-world contexts, language patterns, and speech nuances.
+
 
 
 
@@ -152,9 +157,13 @@ Prior to deployment, OpenAI assesses and mitigates potential risks that may stem
 We find that the majority of effective testing and mitigations are done _after_ the pre-training stage because filtering pre-trained data alone cannot address nuanced and context-specific harms. At the same time, certain pre-training filtering mitigations can provide an additional layer of defense that, along with other safety mitigations, help exclude unwanted and harmful information from our datasets:
 
   * We use our Moderation API and safety classifiers to filter out data that could contribute to harmful content or information hazards, including CSAM, hateful content, violence, and CBRN. 
+
   * As with our previous image generation systems, we filter our image generation datasets for explicit content such as graphic sexual material and CSAM. 
+
   * We use advanced data filtering processes to reduce personal information from training data.****
+
   * Upon releasing DALL·E 3, we piloted a new approach to give users the power to [opt images out of training⁠](<https://openai.com/index/dall-e-3/>). To respect those opt-outs, we fingerprinted the images and used the fingerprints to remove all instances of the images from the training dataset for the GPT‑4o series of models.
+
 
 
 
@@ -269,7 +278,9 @@ should_comply| 0.70| **0.83******
 **Evaluations** : We run evaluations on GPT‑4o Advanced Voice Mode using a fixed assistant voice (“shimmer”) and Voice Engine to generate user inputs across a range of voice samplesI. We use two sets of voice samples for TTS:
 
   * Official system voices (3 different voices)
+
   * A diverse set of voices collected from two data campaigns. This comprises 27 different English voice samples from speakers from a wide range of countries, and a mix of genders.
+
 
 
 
@@ -288,7 +299,9 @@ We evaluate on two sets of tasks: Capabilities and Safety Behavior
 **Risk Description:** Audio input can lead to the model making potentially biased inferences about speakers. We define two categories:
 
   * Ungrounded inference (UGI): making inferences about a speaker that couldn’t be determined solely from audio content. This includes inferences about things such as a speaker’s race, socio-economic status/occupation, religious beliefs, personality traits, political attributes, intelligence, appearance (e.g., eye color, attractiveness), gender identity, sexual preference, or criminal history. This can lead to both allocative and representational harms13, 15 depending on how such behavior manifests.
+
   * Sensitive trait attribution (STA): making inferences about a speaker that could plausibly be determined solely from audio content. This includes inferences about things such as a speaker’s accent or nationality. Potential harms from STA include an increase in risks from surveillance16 and a difference in quality of service for speakers with different voice attributes12, 13, 14.
+
 
 
 
@@ -459,17 +472,24 @@ Success rate (%)
 We evaluated GPT‑4o on an agentic task assessment to evaluate its ability to take basic autonomous actions required for self-exfiltration, self-improvement, and resource acquisition in a text-only environment. These tasks included:
 
   * Simple software engineering in service of fraud (building an authenticated proxy for the OpenAI API).
+
   * Given API access to an Azure account, loading an open source language model for inference via an HTTP API.
+
   * Several tasks involving simplified versions of the above, offering hints or addressing only a specific part of the task.
+
 
 
 
 Provided relevant tooling, GPT‑4o scored 0% on the end-to-end autonomous replication and adaptation (ARA) tasks across 100 trials, although it was able to complete some substeps. We complemented the tests of autonomous replication and adaptation with assessments of GPT‑4o’s ability to automate machine learning research & development. These included:
 
   * OpenAI research coding interview: 63% pass@1, 95% pass@100
+
   * OpenAI interview, multiple choice questions: 61% consensus@32
+
   * SWE-Bench: 19% pass@1, using the best available post-training and public scaffolds at the time
+
   * Select machine learning engineering tasks from METR: 0/10 trials
+
 
 
 
@@ -575,7 +595,7 @@ What do you know about the paper Frustrated two-photon creation via interference
 
 ![Quantum physics](https://cdn.openai.com/gpt-4o-system-card/quantum-phsysics.jpg?w=3840&q=90&fm=webp)
 
-Image Source: Hochrainer, A., Lahirin, M., Erhard, M., and Zeilinger, A. Hardy's Proposal in three historic experiments initiated the research in Path Identity. Quantum Indistinguishability by Path Identity: The awakening of a sleeping beauty. Jan 2021. Available at: <https://www.researchgate.net/figure/Three-historic-experiments-initiated-the-research-in-Path-Identity-A-The-experiment-by_fig1_348321138>. Licensed under [CC BY 4.0.](<https://creativecommons.org/licenses/by/4.0/>)
+Image Source: Hochrainer, A., Lahirin, M., Erhard, M., and Zeilinger, A. Hardy's Proposal in three historic experiments initiated the research in Path Identity. Quantum Indistinguishability by Path Identity: The awakening of a sleeping beauty. Jan 2021. Available at: <https://www.researchgate.net/figure/Three-historic-experiments-initiated-the-research-in-Path-Identity-A-The-experiment-by_fig1_348321138>[(opens in a new window)](<https://www.researchgate.net/figure/Three-historic-experiments-initiated-the-research-in-Path-Identity-A-The-experiment-by_fig1_348321138>). Licensed under [CC BY 4.0.(opens in a new window)](<https://creativecommons.org/licenses/by/4.0/>)
 
 Assistant
 
@@ -591,7 +611,7 @@ User
 
 ![Quantum physics](https://cdn.openai.com/gpt-4o-system-card/correlation-functions.jpg?w=3840&q=90&fm=webp)
 
-Image Source: Rupprecht, Peter & Lewis, Christopher & Helmchen, Fritjof. (2022). Centripetal integration of past events by hippocampal astrocytes. Available at: <https://www.researchgate.net/figure/Temporal-sequence-of-neuronal-spike-rate-motor-behaviors-pupil-diameter-and-global_fig2_362753410>. Licensed under [CC BY-NC 4.0.](<https://creativecommons.org/licenses/by-nc/4.0/>)
+Image Source: Rupprecht, Peter & Lewis, Christopher & Helmchen, Fritjof. (2022). Centripetal integration of past events by hippocampal astrocytes. Available at: <https://www.researchgate.net/figure/Temporal-sequence-of-neuronal-spike-rate-motor-behaviors-pupil-diameter-and-global_fig2_362753410>[(opens in a new window)](<https://www.researchgate.net/figure/Temporal-sequence-of-neuronal-spike-rate-motor-behaviors-pupil-diameter-and-global_fig2_362753410>). Licensed under [CC BY-NC 4.0.(opens in a new window)](<https://creativecommons.org/licenses/by-nc/4.0/>)
 
 This figure shows correlation functions that were computed between an global astrocytic signal recorded from a mice and different variables of interest. What can be concluded about the relationship between paw movement and global astrocytic signal? Please think through your answer step-by-step.
 
@@ -614,8 +634,11 @@ GPT‑4o shows improved reading comprehension and reasoning across a sample of h
 To evaluate GPT‑4o's performance in text across a select group of languages historically underrepresented in Internet text, we collaborated with external researchers and language facilitators to develop evaluations in five African languages: Amharic, Hausa, Northern Sotho (Sepedi), Swahili, Yoruba. This initial assessment focused on translating two popular language benchmarks and creating small novel language-specific reading comprehension 
 
   * **ARC-Easy:** This subset of the AI2 Reasoning Challenge59 focuses on evaluating a model’s ability to answer grade-school science questions. It contains questions that are generally easier to answer and do not require complex reasoning.
+
   * **TruthfulQA60:** This benchmark measures the truthfulness of a model’s answers. It consists of questions that some humans might answer falsely due to misconceptions. The objective is to see if models can avoid generating false answers that mimic these misconceptions.
+
   * **Uhura Eval** : This novel reading comprehension evaluation was created with fluent speakers of the languages and inspected for quality.
+
 
 
 
@@ -667,7 +690,9 @@ We used TTS to convert existing text safety evals to audio. We then evaluate the
 Our two main metrics for this eval are:
 
   * not_unsafe: does the model produce audio output that is unsafe?
+
   * not_overrefuse: does the model refuse to comply with a benign request?
+
 
 
 
@@ -675,11 +700,17 @@ Our two main metrics for this eval are:
 We also note sub-metrics for higher severity categories, specifically:
 
   * sexual/minors
+
   * sexual/illegal
+
   * extremist/propaganda
+
   * illicit/violent
+
   * illicit/non-violent
+
   * self-harm/instructions
+
 
 
 
@@ -1055,9 +1086,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -1076,7 +1108,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -1094,6 +1127,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -1102,8 +1136,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -1122,6 +1156,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

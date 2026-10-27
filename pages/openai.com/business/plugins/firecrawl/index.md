@@ -32,9 +32,12 @@ OpenAI
 
 # Firecrawl
 
-Search and scrape the web
+Search and extract web data
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a314a73f8ac819195b0d55e36b9c609>)[Contact sales](</contact-sales/>)
+
+Capabilities
+    Web search, Page scraping, Site crawling, Structured extraction, Browser interaction, Change monitoring, Research
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -45,31 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://firecrawl.dev>)
 
-[![](https://files.openai.com/content?id=file_00000000065881f4a641d2723fc2def5&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=f8b6d48f5a39ff48083c78d74a7deaca875e6ccba2fbbfe4eb60b6ec01102a56&v=0)Firecrawl Search the web for this week's biggest AI announcements(opens in a new window)](<https://chatgpt.com/?prompt=%40Firecrawl+Search+the+web+for+this+week%27s+biggest+AI+announcements>)
+[![](https://files.openai.com/content?id=file_00000000e2608230b9af7e0e70f2ec42&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=ef6c7d7ac4bd9282f4c9143875b3b587518c30409c6ec0529d95ecde375939a8&v=0)Firecrawl Based on what you know about me, use Alexandria to pull fresh data that moves one of my goals forward today(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a314a73f8ac819195b0d55e36b9c609?install&prompt=Based%20on%20what%20you%20know%20about%20me%2C%20use%20Alexandria%20to%20pull%20fresh%20data%20that%20moves%20one%20of%20my%20goals%20forward%20today>)
 
 ## How it works
 
-Firecrawl helps users search the web, retrieve clean page content, crawl sites, parse documents, run web research jobs, search scientific and developer indexes, and manage recurring page monitors through ChatGPT.
+Firecrawl helps users search the web, extract page and document content, discover structured data providers, and research developer documentation and scientific papers. It also supports browser interactions, multi-page crawls, structured research jobs, website change monitoring, and account credit-usage checks.
 
 ## What else can you do?
 
   * ### Extract website content
 
-![](https://files.openai.com/content?id=file_00000000065881f4a641d2723fc2def5&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=f8b6d48f5a39ff48083c78d74a7deaca875e6ccba2fbbfe4eb60b6ec01102a56&v=0)Firecrawl Extract the product names, descriptions, and listed prices from these five public pages. Include source URLs and leave unavailable values blank.
+![](https://files.openai.com/content?id=file_00000000e2608230b9af7e0e70f2ec42&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=ef6c7d7ac4bd9282f4c9143875b3b587518c30409c6ec0529d95ecde375939a8&v=0)Firecrawl Extract the product names, descriptions, and listed prices from these five public pages. Include source URLs and leave unavailable values blank.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Firecrawl+Extract+the+product+names%2C+descriptions%2C+and+listed+prices+from+these+five+public+pages.+Include+source+URLs+and+leave+unavailable+values+blank.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a314a73f8ac819195b0d55e36b9c609?install&prompt=Extract%20the%20product%20names%2C%20descriptions%2C%20and%20listed%20prices%20from%20these%20five%20public%20pages.%20Include%20source%20URLs%20and%20leave%20unavailable%20values%20blank.&surface=work>)
 
   * ### Research a market question
 
-![](https://files.openai.com/content?id=file_00000000065881f4a641d2723fc2def5&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=f8b6d48f5a39ff48083c78d74a7deaca875e6ccba2fbbfe4eb60b6ec01102a56&v=0)Firecrawl Research this market question and return a brief with the main findings, conflicting evidence, and source links. Prioritize primary sources.
+![](https://files.openai.com/content?id=file_00000000e2608230b9af7e0e70f2ec42&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=ef6c7d7ac4bd9282f4c9143875b3b587518c30409c6ec0529d95ecde375939a8&v=0)Firecrawl Research this market question and return a brief with the main findings, conflicting evidence, and source links. Prioritize primary sources.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Firecrawl+Research+this+market+question+and+return+a+brief+with+the+main+findings%2C+conflicting+evidence%2C+and+source+links.+Prioritize+primary+sources.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a314a73f8ac819195b0d55e36b9c609?install&prompt=Research%20this%20market%20question%20and%20return%20a%20brief%20with%20the%20main%20findings%2C%20conflicting%20evidence%2C%20and%20source%20links.%20Prioritize%20primary%20sources.&surface=work>)
 
   * ### Review a documentation site
 
-![](https://files.openai.com/content?id=file_00000000065881f4a641d2723fc2def5&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=f8b6d48f5a39ff48083c78d74a7deaca875e6ccba2fbbfe4eb60b6ec01102a56&v=0)Firecrawl Search and read this documentation site to answer my integration question. Summarize supported options and return links to the most useful examples.
+![](https://files.openai.com/content?id=file_00000000e2608230b9af7e0e70f2ec42&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=ef6c7d7ac4bd9282f4c9143875b3b587518c30409c6ec0529d95ecde375939a8&v=0)Firecrawl Search and read this documentation site to answer my integration question. Summarize supported options and return links to the most useful examples.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Firecrawl+Search+and+read+this+documentation+site+to+answer+my+integration+question.+Summarize+supported+options+and+return+links+to+the+most+useful+examples.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a314a73f8ac819195b0d55e36b9c609?install&prompt=Search%20and%20read%20this%20documentation%20site%20to%20answer%20my%20integration%20question.%20Summarize%20supported%20options%20and%20return%20links%20to%20the%20most%20useful%20examples.&surface=work>)
 
 
 
@@ -84,25 +87,25 @@ Firecrawl helps users search the web, retrieve clean page content, crawl sites, 
 
 ### Skills
 
-  * firecrawl-crawl
+  * brand-identity
+  * business-contact-research
+  * design
+  * enrich-lead
+  * fantasy-sports
+  * find-leads
   * firecrawl
-  * firecrawl-agent
-  * firecrawl-developer-index
-  * firecrawl-download
-  * firecrawl-interact
-  * firecrawl-map
-  * firecrawl-monitor
-  * 5 more
+  * firecrawl-deep-research
+  * 4 more
 
 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://www.firecrawl.dev/support>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.firecrawl.dev/support>)
 
-### [Privacy policyLearn more](<https://www.firecrawl.dev/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.firecrawl.dev/privacy-policy>)
 
 ## Add the Firecrawl plugin in a few clicks
 
@@ -112,13 +115,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingSupport company research and deal analysis.](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingPublic equity research](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -130,10 +143,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -152,7 +165,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -179,8 +193,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -199,6 +213,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

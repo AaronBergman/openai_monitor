@@ -63,7 +63,7 @@ OpenAI
 
 [View all](</news/>)
 
-![city](https://images.ctfassets.net/kftzwdyauwt9/5Wm11GSMw6U7lLDKdcyuUY/3180687ca07ba934009f3c2b9219c10c/city.webp?w=3840&q=90&fm=webp)
+![Abstract image with warm tones and geometric shapes reminiscent of a sunset over a stylized city skyline.](https://images.ctfassets.net/kftzwdyauwt9/5Wm11GSMw6U7lLDKdcyuUY/3180687ca07ba934009f3c2b9219c10c/city.webp?w=3840&q=90&fm=webp)
 
 [Introducing OpenAI LondonCompanyJun 28, 2023](</index/introducing-openai-london/>)
 
@@ -71,7 +71,7 @@ OpenAI
 
 [The power of continuous learningCompanyDec 23, 2022](</index/the-power-of-continuous-learning/>)
 
-![Person gazing across the room with an optimistic expression](https://images.ctfassets.net/kftzwdyauwt9/21098b49-868d-4515-ca433071d782/838b1914602aaba2e3d935b70d1fa11b/stangel-2022-0795.jpg?w=3840&q=90&fm=webp)
+![Headshot of a smiling person with glasses looking to the side against a concrete background.](https://images.ctfassets.net/kftzwdyauwt9/21098b49-868d-4515-ca433071d782/838b1914602aaba2e3d935b70d1fa11b/stangel-2022-0795.jpg?w=3840&q=90&fm=webp)
 
 [Discovering the minutiae of backend systemsCompanyDec 8, 2022](</index/discovering-the-minutiae-of-backend-systems/>)
 
@@ -85,9 +85,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -106,7 +107,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -124,6 +126,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -132,8 +135,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -152,6 +155,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

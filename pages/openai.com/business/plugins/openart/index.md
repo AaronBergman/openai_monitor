@@ -45,31 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://openart.ai/home>)
 
-[![](https://files.openai.com/content?id=file_00000000579c81f59643529ca5c68e65&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=5a459273ea920f6c677efc828afa9213be7b49ff2ae143e929dcb523a4173d4a&v=0)OpenArt Storyboard for a wireless headphone ad pink-haired model, dark studio, white headphones, sound-wave rings, cinematic(opens in a new window)](<https://chatgpt.com/?prompt=%40OpenArt+Storyboard+for+a+wireless+headphone+ad+pink-haired+model%2C+dark+studio%2C+white+headphones%2C+sound-wave+rings%2C+cinematic>)
+[![](https://files.openai.com/content?id=file_00000000f0a082309d28cf77e97a68ee&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=8061622b46306b9984bf203b7aaf0c850d61ff4cc5966c56a9c81d0a30b70ef1&v=0)OpenArt Storyboard for a wireless headphone ad pink-haired model, dark studio, white headphones, sound-wave rings, cinematic(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a42dbbe74c081918a592a0aad65ca26?install&prompt=Storyboard%20for%20a%20wireless%20headphone%20ad%20pink-haired%20model%2C%20dark%20studio%2C%20white%20headphones%2C%20sound-wave%20rings%2C%20cinematic>)
 
 ## How it works
 
-Create images and video on OpenArt without leaving ChatGPT. Just describe what you want, add reference images if you like, and pick from the latest AI models: GPT Image 2, Nano Banana 2, Seedance 2.0, Kling 3 Omni, and more. OpenArt generates it and brings the result back into the chat, updating as it finishes, so you can go from an idea to a finished image or video in a single conversation. No editing tools required. Revisit your past creations anytime, keep your work organized in projects, and check your credit balance as you go. New models appear here automatically as OpenArt adds them.
+Create images and video on OpenArt without leaving ChatGPT. Just describe what you want, add reference images if you like, and pick from the latest AI models: Seedance 2.5 / 2.0, GPT Image 2.5, Nano Banana Pro / 2, Minimax H3 / H3 max, Gemini Omni Flash, Wan 3.0, and more. OpenArt generates it and brings the result back into the chat, updating as it finishes, so you can go from an idea to a finished image or video in a single conversation. No editing tools required. Revisit your past creations anytime, keep your work organized in projects, and check your credit balance as you go. New models appear here automatically as OpenArt adds them.
 
 ## What else can you do?
 
   * ### Create product imagery
 
-![](https://files.openai.com/content?id=file_00000000579c81f59643529ca5c68e65&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=5a459273ea920f6c677efc828afa9213be7b49ff2ae143e929dcb523a4173d4a&v=0)OpenArt Create a product hero image from this reference photo and brand brief. Preserve the product's identifying details, keep space for a headline, and show the result.
+![](https://files.openai.com/content?id=file_00000000f0a082309d28cf77e97a68ee&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=8061622b46306b9984bf203b7aaf0c850d61ff4cc5966c56a9c81d0a30b70ef1&v=0)OpenArt Create a product hero image from this reference photo and brand brief. Preserve the product's identifying details, keep space for a headline, and show the result.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40OpenArt+Create+a+product+hero+image+from+this+reference+photo+and+brand+brief.+Preserve+the+product%27s+identifying+details%2C+keep+space+for+a+headline%2C+and+show+the+result.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a42dbbe74c081918a592a0aad65ca26?install&prompt=Create%20a%20product%20hero%20image%20from%20this%20reference%20photo%20and%20brand%20brief.%20Preserve%20the%20product's%20identifying%20details%2C%20keep%20space%20for%20a%20headline%2C%20and%20show%20the%20result.&surface=work>)
 
   * ### Make a launch video
 
-![](https://files.openai.com/content?id=file_00000000579c81f59643529ca5c68e65&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=5a459273ea920f6c677efc828afa9213be7b49ff2ae143e929dcb523a4173d4a&v=0)OpenArt Create a 15-second launch video using these product references. Focus on one supported benefit, follow the brand palette, and end with the supplied call to action.
+![](https://files.openai.com/content?id=file_00000000f0a082309d28cf77e97a68ee&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=8061622b46306b9984bf203b7aaf0c850d61ff4cc5966c56a9c81d0a30b70ef1&v=0)OpenArt Create a 15-second launch video using these product references. Focus on one supported benefit, follow the brand palette, and end with the supplied call to action.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40OpenArt+Create+a+15-second+launch+video+using+these+product+references.+Focus+on+one+supported+benefit%2C+follow+the+brand+palette%2C+and+end+with+the+supplied+call+to+action.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a42dbbe74c081918a592a0aad65ca26?install&prompt=Create%20a%2015-second%20launch%20video%20using%20these%20product%20references.%20Focus%20on%20one%20supported%20benefit%2C%20follow%20the%20brand%20palette%2C%20and%20end%20with%20the%20supplied%20call%20to%20action.&surface=work>)
 
   * ### Explore campaign concepts
 
-![](https://files.openai.com/content?id=file_00000000579c81f59643529ca5c68e65&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=5a459273ea920f6c677efc828afa9213be7b49ff2ae143e929dcb523a4173d4a&v=0)OpenArt Generate three distinct campaign images from this brief. Keep the audience and message consistent, vary the visual treatment, and explain the tradeoffs between directions.
+![](https://files.openai.com/content?id=file_00000000f0a082309d28cf77e97a68ee&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=8061622b46306b9984bf203b7aaf0c850d61ff4cc5966c56a9c81d0a30b70ef1&v=0)OpenArt Generate three distinct campaign images from this brief. Keep the audience and message consistent, vary the visual treatment, and explain the tradeoffs between directions.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40OpenArt+Generate+three+distinct+campaign+images+from+this+brief.+Keep+the+audience+and+message+consistent%2C+vary+the+visual+treatment%2C+and+explain+the+tradeoffs+between+directions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a42dbbe74c081918a592a0aad65ca26?install&prompt=Generate%20three%20distinct%20campaign%20images%20from%20this%20brief.%20Keep%20the%20audience%20and%20message%20consistent%2C%20vary%20the%20visual%20treatment%2C%20and%20explain%20the%20tradeoffs%20between%20directions.&surface=work>)
 
 
 
@@ -78,17 +78,17 @@ Create images and video on OpenArt without leaving ChatGPT. Just describe what y
 
 ### App
 
-  * ![](https://files.openai.com/content?id=file_0000000020f881f7af2b761b1c59ebce&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=f9a552782b257bf665b8eaa5ac7b1d8bc7c495e4d96654168c967bea14486cf2&v=0)OpenArt
+  * ![](https://files.openai.com/content?id=file_00000000a33882309ac5cf9e72475e58&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=472c3ee2069516080d7e9b178dde4c13a014f83defd8ecd8e7535a30078f25f2&v=0)OpenArt
 
 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://openart.ai/suite/help-center#general-support-community>)
+### [Plugin supportLearn more(opens in a new window)](<https://openart.ai/suite/help-center#general-support-community>)
 
-### [Privacy policyLearn more](<https://openart.ai/suite/terms>)
+### [Privacy policyLearn more(opens in a new window)](<https://openart.ai/suite/terms>)
 
 ## Add the OpenArt plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets.](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_00000000ffac722f987914a6f7db710b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=26b2c9500db3c7de3659e1e158826d1ced4806f01d50f831132375e3b497a249&v=0)![](https://files.openai.com/content?id=file_00000000aa0081f79505b7d543758347&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=73f24d3e0b666fdb3c380b13bb034ddd67e0e42a39ef70031b8401cfe081741c&v=0)CloudinaryManage, modify, and host your images and videos.](</business/plugins/cloudinary/>)[![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)PresentationsCreate and edit presentations](</business/plugins/presentations/>)
+[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_00000000ffac722f987914a6f7db710b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=26b2c9500db3c7de3659e1e158826d1ced4806f01d50f831132375e3b497a249&v=0)![](https://files.openai.com/content?id=file_00000000aa0081f79505b7d543758347&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=73f24d3e0b666fdb3c380b13bb034ddd67e0e42a39ef70031b8401cfe081741c&v=0)CloudinaryManage, modify, and host your images and videos](</business/plugins/cloudinary/>)[![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)PresentationsCreate and edit presentations](</business/plugins/presentations/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -53,10 +53,15 @@ Sam Altman, CEO of OpenAI
 The office opening reflects the rapid adoption of AI in France, where organizations, start-ups and businesses are already using our tools to tackle challenging problems and drive productivity and creativity. These include:
 
   * **Sanofi** : In a joint partnership with Formation Bio and OpenAI, the global healthcare company, has launched Muse, an AI-powered tool that aims to speed up patient recruitment for clinical drug trials, bringing new treatments to patients faster.
+
   * **Simplon** : A digital skills training organization providing tech literacy programs to underserved communities. Simplon is the first European partner in the [_OpenAI Academy_ ⁠](<https://openai.com/global-affairs/openai-academy/>) program, which aims to democratize access to AI technologies.
+
   * **Mirakl** : The global leader in platform software is using our AI to drive significant growth for third-party sellers on its marketplaces while boosting internal productivity.
+
   * **ESCP Business School** : Is using our AI to offer personalized learning and freeing up faculty from administrative tasks so they can focus more on their students.
+
   * **Ask Mona** : A cultural organization transforming knowledge and learning by using AI to create engaging experiences for cultural institutions and their audiences.
+
 
 
 
@@ -81,10 +86,15 @@ Sam Altman, PDG d'OpenAI
 L'ouverture du bureau reflète l'adoption rapide de l'IA en France, où les organisations, start-ups et entreprises utilisent déjà nos outils pour relever des défis complexes et stimuler la productivité et la créativité. Parmi elles :
 
   * **Sanofi** : En collaboration avec Formation Bio et OpenAI, a lancé Muse, un outil innovant alimenté par l’intelligence artificielle. Cet outil a pour objectif d’accélérer le recrutement de patients pour les essais cliniques de médicaments, permettant ainsi de rendre les nouveaux traitements disponibles plus rapidement pour les patients.
+
   * **Simplon** : Une organisation de formation aux compétences numériques qui propose des programmes d'alphabétisation technologique aux communautés sous-représentées. Simplon est le premier partenaire européen du programme OpenAI Academy, qui vise à démocratiser l'accès aux technologies de l'IA.
+
   * **Mirakl** : Leader mondial des logiciels de plateforme, elle utilise notre IA pour générer une croissance significative pour les vendeurs tiers sur ses marketplaces tout en augmentant la productivité interne.
+
   * **ESCP** **Business** **School** : L’école utilise notre IA pour offrir des expériences d'apprentissage personnalisées, libérant le corps professoral des tâches administratives afin qu'il puisse se concentrer davantage sur ses étudiants.
+
   * **Ask** **Mona** : Une organisation culturelle qui transforme la connaissance et l'apprentissage en utilisant l'IA pour créer des expériences engageantes pour les institutions culturelles et leurs publics.
+
 
 
 
@@ -118,9 +128,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -139,7 +150,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -157,6 +169,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -165,8 +178,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +198,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -107,9 +107,13 @@ Those changes added up to a more consistent and believable personality, which in
 As Tolan evolved, a few principles emerged that now guide how the team builds and evolves its voice architecture:
 
   * **Design for conversational volatility:** Voice conversations shift mid-sentence. Systems need to pivot just as quickly to feel natural.
+
   * **Treat latency as part of the product experience:** Sub-second responsiveness shapes whether a voice agent feels conversational or mechanical.
+
   * **Build memory as a retrieval system, not a transcript:** High-quality compression and fast vector search deliver more consistent personality than oversized context windows.
+
   * **Rebuild context every turn:** Don’t fight drift with bigger prompts. Regenerating context each turn keeps agents grounded as conversations meander.
+
 
 
 
@@ -129,17 +133,17 @@ Looking ahead, Tolan plans to deepen its investments in steerability and memory 
 
 [View all](</news/>)
 
-![replit-customer-story-art-card-1x1](https://images.ctfassets.net/kftzwdyauwt9/2ZUd2sTOK6p4MrjDZnvCoM/512b38a71cf26f09c3cda3c51169c401/replit-customer-story-art-card-1x1.png?w=3840&q=90&fm=webp)
+![Greptile — Connections card](https://images.ctfassets.net/kftzwdyauwt9/3MXN8yaWRaIYfhebDhB9oe/234b309da77eba8ac8bce11f880a31df/greptile-connections-card.png?w=3840&q=90&fm=webp)
 
-[Replit expands access to software creation with GPT-5.6 LunaStartupAug 19, 2026](</index/replit/>)
+[Greptile takes bug detection beyond code review with GPT-6 AstraStartupOct 26, 2026](</index/greptile-code-review-codex-astra/>)
 
-![Model ML customer story card image](https://images.ctfassets.net/kftzwdyauwt9/3STNMQMrFRC8mFdLYtjkV4/9cc21e9c729b2ae7cdf75aa3f49b3033/modelml-card.png?w=3840&q=90&fm=webp)
+![Terminal X customer story art card](https://images.ctfassets.net/kftzwdyauwt9/29IRF5U5FEXGBdiixWvNg2/96d2b7012e134930671a998d0ae31d05/Terminal-X-A-square-1080.png?w=3840&q=90&fm=webp)
 
-[Model ML completes finance work more efficiently with GPT-5.6 SolStartupAug 10, 2026](</index/model-ml/>)
+[Terminal X matches senior investor judgment 88.6% with GPT-6.1StartupOct 20, 2026](</index/terminal-x/>)
 
-![Warp customer story 1x1 hero art card](https://images.ctfassets.net/kftzwdyauwt9/3DK9g0hpubvAEz7lDs0nUf/713989b24b9d377312714303868b9126/oai_Warp_1x1.png?w=3840&q=90&fm=webp)
+![Stack Overflow — cover](https://images.ctfassets.net/kftzwdyauwt9/7G7Qm0twGySzDyv7voEB7I/c871019ba810709cd59e761995a21316/stack-overflow-cover.png?w=3840&q=90&fm=webp)
 
-[Warp’s big bet on building open source with GPT-5.5StartupMay 27, 2026](</index/warp/>)
+[Stack Overflow for Agents triples signups with ChatGPT pluginStartupOct 16, 2026](</index/stack-overflow-chatgpt-plugin/>)
 
 Research
 
@@ -151,9 +155,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -172,7 +177,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -190,6 +196,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -198,8 +205,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -218,6 +225,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

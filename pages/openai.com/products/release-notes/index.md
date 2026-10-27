@@ -43,113 +43,73 @@ Sort
 
 ChatGPT
 
-Sep 24, 2026
+Oct 23, 2026
 
-Preview
+GA
 
-## External access controls
+## Workspace analytics updates in Admin Console
 
-Global admins in ChatGPT Business and Enterprise organizations can now manage whether ChatGPT Sites can use members’ connected apps and whether applications can access ChatGPT Ads. These controls are on the redesigned External access page in the OpenAI Admin Console. Identity-only sign-in remains separate from data access.
+Workspace analytics for ChatGPT Enterprise and Edu now spans Usage and Insights in Admin Console. Benchmarks and User surveys are under Insights, with User surveys replacing the Impact tab.
 
-Both new permissions are off by default during the admin preview. Members must still authorize access using their own permissions. Sites access also depends on workspace and individual app settings.
+Usage > Overview now includes Workplace health to track workspace adoption. The usage export flow also supports a by-user report. Find GPT and project reports under Usage > GPTs and Usage > Projects.
 
-[View source(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#external-access-controls>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#external-access-controls>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/12289294-managing-your-tenant-in-admin-console>)
+[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#workspace-analytics-updates-in-admin-console>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10875114-workspace-analytics-for-chatgpt-enterprise-and-edu>)
 
 ChatGPT
 
-Sep 23, 2026
+Oct 23, 2026
 
 GA
 
-## Use plugins in Voice and get work done by speaking
+## 7-day grace period for personal workspace migration
 
-Live now supports plugins on web, iOS, and Android. You can use the plugins and connected apps available to your account during a Voice conversation and follow written responses in the chat.
+Enterprise and Edu workspaces with a verified domain now provide a 7-day grace period for users required to migrate from their personal ChatGPT workspace. This allows users time to prepare for the change, including exporting a copy of their conversations before migrating or deactivating their personal workspace.
 
-Voice is also available in Work on web and mobile. Ask it to create documents, presentations, and spreadsheets, use connected apps, or work in a browser. When you end a Voice call in Work, an unfinished task can continue in text.
+Users can use their personal workspace until the deadline shown in ChatGPT. The period starts when users are added to the workspace.
 
-Free and Go users can use Voice in Chat with the plugins their plan supports. Existing app connections, permissions, and usage limits apply.
+The grace period is fixed at 7 days and can’t be changed by workspace admins. Access to your Enterprise or Edu workspace remains blocked until users complete the required migration or deactivation.
 
-For Business, Enterprise, and Edu workspaces, workspace controls continue to apply. Voice in Work requires both Voice and Work access, and plugins retain their existing app access, data permissions, and action restrictions. Enabling Voice does not enable Work or a blocked plugin. When an action needs your approval, review it on screen.
+This migration requirement and 7-day grace period do not apply to workspaces without a verified domain.
 
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking>)
+[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#7-day-grace-period-for-personal-workspace-migration>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/8801890-migrating-your-personal-workspace-to-chatgpt-business-or-enterprise>)
 
-Codex
+API
 
-Sep 23, 2026
-
-GA
-
-## ChatGPT for iOS updates: redesigned home, iPad split view, and nested repositories
-
-### New features
-
-  * Redesigned home screen.
-
-  * New iPad split view keeps your task list beside the open task in landscape.
-
-  * Added support for browsing changes inside nested Git repositories.
-
-
-
-
-### Improvements and bug fixes
-
-  * Side chats now carry over attachments, selected text, and review comments.
-
-  * Fixed replies appearing blank or incomplete when the next queued prompt starts.
-
-  * New tasks preserve your selected computer and better recognize project checkouts and worktrees.
-
-  * More reliable file links, with clearer loading feedback when opening files and new tasks.
-
-  * Clearer error messages explain why task history could not load and what to try next.
-
-  * Smoother animations when adding photos from the camera or Photo Library.
-
-  * Fixed pairing failures caused by an incorrect device clock and SSH connection issues on Mac and Linux.
-
-
-
-
-[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-09-23-mobile>)
-
-Codex
-
-Sep 22, 2026
+Oct 22, 2026
 
 GA
 
-## GPT-6 Sol and GPT-6 Luna
+## Decisions API with GPT-6 Luna is now generally available
 
-We’re introducing GPT‑6 Sol and GPT‑6 Luna in ChatGPT Work and Codex. These models are separate from the models available in Chat.
+The Decisions API is now generally available with `gpt-6-luna`. Cache shared input across requests for prompt-cache discounts, include images in individual question instructions, and pass structured data directly with `input_json`. Each request now supports up to 400 questions, increased from 200 in public beta.
 
-Codex desktop keeps the model you selected manually.
-
-Available models and reasoning effort options depend on your plan and workspace settings.
-
-GPT‑6 Sol and GPT‑6 Luna are rolling out to Codex and ChatGPT Work at lower token prices than their GPT‑5.6 predecessors. Use Sol for complex coding and agentic workflows, and Luna for focused, high-volume tasks.
-
-Both models are rolling out to Plus, Pro, Business, Enterprise, and Edu users. Free and Go users can access Luna in the desktop app. Availability depends on rollout and workspace settings; Enterprise administrators must enable the new models. In ChatGPT, the models are available in Work and Codex, but not Chat.
-
-[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-6-sol>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-09-22-gpt-6-sol-luna>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-6-sol-and-luna-in-work-and-codex>)
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/decisions>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/changelog#october-2026>)
 
 ChatGPT
 
-Sep 22, 2026
+Oct 22, 2026
 
 GA
 
-## Create flashcards in ChatGPT
+## Share profiles within your Enterprise workspace
 
-You can now create interactive flashcards in ChatGPT. Ask for flashcards on a topic you want to learn, or upload your notes and ask ChatGPT to turn them into flashcards.
+Enterprise workspace members can share their profiles with coworkers, including activity and Sites they choose to showcase. Workspace owners control whether profiles and activity are available and whether profiles are visible only to their owners or to other workspace members.
 
-Tap a card to flip it, then select ✔️ if you know the answer or ❌ to practice it again later. Shuffle your cards to practice in a different order.
+Shared Enterprise profiles are limited to members of the same workspace. Adding a Site to a profile does not change who can access that Site. Shared profiles do not show conversation titles or content.
 
-Flashcards are automatically saved in your library. To practice again, open them there or ask ChatGPT to review them back.
+[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#share-profiles-within-your-enterprise-workspace>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001539-shareable-profiles-in-chatgpt>)
 
-Available on mobile and web for all ChatGPT plans.
+API
 
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-flashcards-in-chatgpt>)
+Oct 21, 2026
+
+GA
+
+## Service tier controls for API projects
+
+You can now choose which service tiers projects can use in Platform settings. Organization settings can restrict service tiers for all projects.
+
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/error-codes>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/changelog#october-2026>)
 
 Load more
 
@@ -163,10 +123,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -185,7 +145,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -212,8 +173,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -232,6 +193,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
