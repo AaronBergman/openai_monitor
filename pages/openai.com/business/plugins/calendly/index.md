@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://calendly.com>)
 
-[![](https://files.openai.com/content?id=file_00000000744881f5b8ff393bbdedd21c&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=1837bac37722f1f78ec3d650782e164a4c0b0c18dd6eca3044e7b669bd45ce65&v=0)Calendly Create a new 30-minute event type called Intro Meeting to meet via Zoom.(opens in a new window)](<https://chatgpt.com/?prompt=%40Calendly+Create+a+new+30-minute+event+type+called+Intro+Meeting+to+meet+via+Zoom.>)
+[![](https://files.openai.com/content?id=file_00000000744881f5b8ff393bbdedd21c&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=1837bac37722f1f78ec3d650782e164a4c0b0c18dd6eca3044e7b669bd45ce65&v=0)Calendly Create a new 30-minute event type called Intro Meeting to meet via Zoom.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69d7f67021c88191bb8aac736eff6cb3?install&prompt=Create%20a%20new%2030-minute%20event%20type%20called%20Intro%20Meeting%20to%20meet%20via%20Zoom.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Bring Calendly into ChatGPT to take scheduling actions through simple prompts. C
 
 ![](https://files.openai.com/content?id=file_00000000744881f5b8ff393bbdedd21c&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=1837bac37722f1f78ec3d650782e164a4c0b0c18dd6eca3044e7b669bd45ce65&v=0)Calendly Create a 30-minute intro meeting event type using these availability and location requirements. Show the resulting settings and scheduling link.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Calendly+Create+a+30-minute+intro+meeting+event+type+using+these+availability+and+location+requirements.+Show+the+resulting+settings+and+scheduling+link.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69d7f67021c88191bb8aac736eff6cb3?install&prompt=Create%20a%2030-minute%20intro%20meeting%20event%20type%20using%20these%20availability%20and%20location%20requirements.%20Show%20the%20resulting%20settings%20and%20scheduling%20link.&surface=work>)
 
   * ### Review upcoming bookings
 
 ![](https://files.openai.com/content?id=file_00000000744881f5b8ff393bbdedd21c&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=1837bac37722f1f78ec3d650782e164a4c0b0c18dd6eca3044e7b669bd45ce65&v=0)Calendly Review my upcoming Calendly bookings for this week. Summarize the times, event types, and available attendee details, and flag potential scheduling conflicts.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Calendly+Review+my+upcoming+Calendly+bookings+for+this+week.+Summarize+the+times%2C+event+types%2C+and+available+attendee+details%2C+and+flag+potential+scheduling+conflicts.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69d7f67021c88191bb8aac736eff6cb3?install&prompt=Review%20my%20upcoming%20Calendly%20bookings%20for%20this%20week.%20Summarize%20the%20times%2C%20event%20types%2C%20and%20available%20attendee%20details%2C%20and%20flag%20potential%20scheduling%20conflicts.&surface=work>)
 
   * ### Adjust meeting availability
 
 ![](https://files.openai.com/content?id=file_00000000744881f5b8ff393bbdedd21c&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=1837bac37722f1f78ec3d650782e164a4c0b0c18dd6eca3044e7b669bd45ce65&v=0)Calendly Update this event type's availability to match these working hours. Check the time zone and summarize the resulting schedule.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Calendly+Update+this+event+type%27s+availability+to+match+these+working+hours.+Check+the+time+zone+and+summarize+the+resulting+schedule.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69d7f67021c88191bb8aac736eff6cb3?install&prompt=Update%20this%20event%20type's%20availability%20to%20match%20these%20working%20hours.%20Check%20the%20time%20zone%20and%20summarize%20the%20resulting%20schedule.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Bring Calendly into ChatGPT to take scheduling actions through simple prompts. C
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://calendly.com/help/support>)
+### [Plugin supportLearn more(opens in a new window)](<https://calendly.com/help/support>)
 
-### [Privacy policyLearn more](<https://calendly.com/legal/privacy-notice>)
+### [Privacy policyLearn more(opens in a new window)](<https://calendly.com/legal/privacy-notice>)
 
 ## Add the Calendly plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability.](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages.](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)AsanaTurn Asana tasks into clear updates and plans.](</business/plugins/asana/>)
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)AsanaTurn Asana tasks into clear updates and plans](</business/plugins/asana/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

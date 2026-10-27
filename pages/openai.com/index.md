@@ -30,55 +30,53 @@ What can I help with?
 
 Message ChatGPT
 
-[Learn about ChatGPT Business](</business/>)[Talk with ChatGPT](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)More
+[Learn about ChatGPT Business](</business/>)[Talk with ChatGPT(opens in a new window)](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)More
 
-![astra 16x9 poster](https://images.ctfassets.net/kftzwdyauwt9/6aziMFlkfqPiaNdkZujHdo/74adba940d8bc2c3d9f7e500c71298ab/astra_16x9_poster.png?w=3840&q=50&fm=webp)
+![GPT-6.1 Terra](https://images.ctfassets.net/kftzwdyauwt9/6A4TNlyfbaFa9hFjse6N54/34a0605cb33eaebbf2c90d8fe4b1f107/Art_Card_16x9.png?w=3840&q=90&fm=webp)
 
-[GPT-6 Astra: A new generation of intelligenceResearch28 min read](</index/gpt-6-astra/>)
+[Introducing GPT-6.1 TerraProductOct 26, 20266 min read](</index/introducing-gpt-6-1-terra/>)
 
-![astra 16x9 poster](https://images.ctfassets.net/kftzwdyauwt9/6aziMFlkfqPiaNdkZujHdo/74adba940d8bc2c3d9f7e500c71298ab/astra_16x9_poster.png?w=3840&q=50&fm=webp)
+![GPT-6.1 Terra](https://images.ctfassets.net/kftzwdyauwt9/6A4TNlyfbaFa9hFjse6N54/34a0605cb33eaebbf2c90d8fe4b1f107/Art_Card_16x9.png?w=3840&q=90&fm=webp)
 
-[GPT-6 Astra: A new generation of intelligenceResearch28 min read](</index/gpt-6-astra/>)
+[Introducing GPT-6.1 TerraProductOct 26, 20266 min read](</index/introducing-gpt-6-1-terra/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+[GPT-6 and Intelligent UI for everyoneProductOct 7, 202612 min read](</index/gpt-6-for-everyone/>)
 
-[Introducing GPT-6 Sol and LunaProduct8 min read](</index/introducing-gpt-6-sol-and-luna/>)
+![Securing our frontier model training environment — Cover](https://images.ctfassets.net/kftzwdyauwt9/1YAlC4a6FgYc9r73SDH0Ef/bcd6bdf945006094fbc327ac46dee04d/new-approach-to-research-model-containment-cover.png?w=3840&q=90&fm=webp)
 
-![Mental Health Bench art card](https://images.ctfassets.net/kftzwdyauwt9/1GVQAEpVME68kCI7Ol2ApW/abde191546741612492ae27f9baf7f3e/Mental_Health_Bench__art_card.png?w=3840&q=90&fm=webp)
+[Securing our frontier model training environmentSecurityOct 23, 20268 min read](</index/securing-our-frontier-model-training-environment/>)
 
-[Introducing MentalHealthBenchPublication8 min read](</index/introducing-mentalhealthbench/>)
+![Introducing dots — cover art card \(square\)](https://images.ctfassets.net/kftzwdyauwt9/2TCcE1IdEPpWT2vaC3PDWu/e78bceb30c38422b1461a2326838e762/Art_Card___1_1_1080x1080.png?w=3840&q=90&fm=webp)
 
-![images2point5 1-1](https://images.ctfassets.net/kftzwdyauwt9/6C1icjo4Zz6MzpbQl1K2qx/8bf8ec06aae235d81019c24f6098d2f0/images2point5_1-1c.png?w=3840&q=90&fm=webp)
-
-[Introducing ChatGPT Images 2.5Product6 min read](</index/introducing-chatgpt-images-2-5/>)
+## [Introducing DotsProductSep 29, 20268 min read](</index/introducing-dots/>)
 
 ## Recent news
 
 [View more](</news/company-announcements/>)
 
-![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
+![Patch the Planet: scaling a global response to critical vulnerabilities — Cover](https://images.ctfassets.net/kftzwdyauwt9/6PyrqMoyS15mNPtg8awwZn/30ddc462153abdeacf59376e741713db/patch-the-planet-scaling-a-global-response-to-critical-vulnerabilities-cover.png?w=3840&q=90&fm=webp)
 
-[Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
+[Patch the Planet: global response coordination as agents uncover critical vulnerabilitiesSecurityOct 21, 2026](</index/coordinated-disclosure-of-critical-vulnerabilities/>)
 
-![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
+![Scaling AI to uncover new research leads in complex biological data — Cover](https://images.ctfassets.net/kftzwdyauwt9/5UED38veljkDWUT9l9b6eR/5d17087c963ea51bf01c1fbd754f19d9/scaling-ai-biological-data-cover.png?w=3840&q=90&fm=webp)
 
-[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
+[Using thousands of AI agents to uncover new leads in biological dataPublicationOct 21, 2026](</index/scaling-ai-research-for-complex-biological-data/>)
 
-![Introducing Astra for Law — art card](https://images.ctfassets.net/kftzwdyauwt9/4vshYjPreJaZEO8O7sSTFX/e61e1b0c2f67305b55171ae3cc8042b8/introducing-astra-for-law-art-card.png?w=3840&q=90&fm=webp)
+![OpenAI acquires Orchestra Bio — Cover](https://images.ctfassets.net/kftzwdyauwt9/aCCKzOGT6S74nQ6fkqoiC/f707768c583e7aa12d237c5917080f32/openai-to-acquire-orchestra-bio-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing Astra for LawCompanySep 17, 2026](</index/astra-for-law/>)
+[OpenAI acquires Orchestra BioCompanyOct 20, 2026](</index/openai-to-acquire-orchestra-bio/>)
 
-![Paul Christiano joins OpenAI Foundation Board — card](https://images.ctfassets.net/kftzwdyauwt9/4PcDbhz75I70TjyGat7oHl/598dd1e865018860c3591cb95c9bc72e/paul-christiano-joins-openai-foundation-board--cover-v001.png?w=3840&q=90&fm=webp)
+![Mental Health Bench art card](https://images.ctfassets.net/kftzwdyauwt9/1GVQAEpVME68kCI7Ol2ApW/abde191546741612492ae27f9baf7f3e/Mental_Health_Bench__art_card.png?w=3840&q=90&fm=webp)
 
-[Paul Christiano joins OpenAI Foundation BoardCompanySep 9, 2026](</index/paul-christiano-joins-openai-foundation-board/>)
+[Introducing MentalHealthBenchPublicationSep 23, 2026](</index/introducing-mentalhealthbench/>)
 
-![The Work Now Within Reach — clean cover](https://images.ctfassets.net/kftzwdyauwt9/5iHLTPM4ZhKe4dAwOPfpy2/347b9d804542685bb13dbb63e985d91e/c3f562e2b08a0bfc.png?w=3840&q=90&fm=webp)
+![DevDay 2026 Recap — cover image \(1:1\)](https://images.ctfassets.net/kftzwdyauwt9/1C75hfnvbohzm6Fx3hd7ux/1391c894029045aa51d520e4d80f6f4b/DevDay_Blog_ArtCard_1x1.png?w=3840&q=90&fm=webp)
 
-[The Work Now Within ReachCompanySep 8, 2026](</index/the-work-now-within-reach/>)
+[DevDay 2026 RecapCompanySep 29, 2026](</index/devday-2026-recap/>)
 
-![Supporting journalism from classrooms to newsrooms — listing card](https://images.ctfassets.net/kftzwdyauwt9/2uvvRNdvFkdWWXNtANgtAF/36e0f8b6a0c35abf88eec71519823409/Option_70___1080_1080.png?w=3840&q=90&fm=webp)
+![oai ironclad cua 1x1](https://images.ctfassets.net/kftzwdyauwt9/23y88t0gUd7FSqVFa9n1uq/6d227695a77e7a2cf3e6607bc69e1cf2/oai_ironclad_cua_1x1.png?w=3840&q=90&fm=webp)
 
-[Supporting journalism from classrooms to newsroomsCompanySep 8, 2026](</index/supporting-journalism-from-classrooms-to-newsrooms/>)
+[Advancing computer use with IroncladPublicationOct 6, 2026](</index/advancing-computer-use-with-ironclad/>)
 
 ## Stories
 
@@ -142,10 +140,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -164,7 +162,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -191,8 +190,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -211,6 +210,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

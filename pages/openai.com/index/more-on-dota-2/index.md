@@ -65,14 +65,23 @@ Our Dota 2 result shows that self-play can catapult the performance of machine l
 The project’s timeline is the following. For some perspective, 15% of players are below 1.5k [MMR⁠(opens in a new window)](<https://dota.rgp.io/mmr/>); 58% of players are below 3k; 99.99% are below 7.5k.
 
   * **March 1st** : had our first classical reinforcement learning [results⁠(opens in a new window)](<https://www.youtube.com/watch?v=5Fv2c4aNS2w&feature=youtu.be>) in a simple Dota environment, where a Drow Ranger learns to kite a hardcoded Earthshaker.
+
   * **May 8th** : 1.5k MMR tester says he’s been getting better faster than the bot.
+
   * **Early June** : beat 1.5k MMR tester
+
   * **June 30th** : winning most games against 3k MMR tester
+
   * **July 8th** : barely get first [win⁠(opens in a new window)](<https://www.youtube.com/watch?v=FBoUHay7XBI&feature=youtu.be&t=345>) against 7.5k MMR semi-pro tester.
+
   * **August 7th** : beat [Blitz⁠(opens in a new window)](<http://wiki.teamliquid.net/dota2/Blitz>) (6.2k former pro) 3–0, [Pajkatt⁠(opens in a new window)](<http://wiki.teamliquid.net/dota2/Pajkatt>) (8.5k pro) 2–1, and [CC&C⁠(opens in a new window)](<http://wiki.teamliquid.net/dota2/CC%26C>) (8.9k pro) 3–0. All agreed that Sumail would figure out how to beat it.
+
   * **August 9th** : beat Arteezy (10k pro, top player) 10–0. He says Sumail could figure out this bot.
+
   * **August 10th** : beat Sumail (8.3k pro, top 1v1 player) 6–0, who says it’s unbeatable. Plays the Aug 9th bot, where he goes 2–1.
+
   * **August 11th** : beat Dendi (7.3k pro, former world champion, old-school crowd favorite) 2–0. Bot has 60% win rate versus August 10th bot.
+
 
 
 
@@ -83,8 +92,11 @@ The full game is 5v5, but 1v1 also [appears⁠(opens in a new window)](<https://
 The bot operated off the following interfaces:
 
   * **Observations:** Bot API features, which are designed to be the same set of features that humans can see, related to heroes, creeps, courier, and the terrain near the hero. The game is partially observable.
+
   * **Actions:** Actions accessible by the bot API, chosen at a frequency comparable to humans, including moving to a location, attacking a unit, or using an item.
+
   * **Feedback:** The bot received incentives for winning and basic metrics like health and [last hits⁠(opens in a new window)](<https://dota2.gamepedia.com/Creep_control_techniques#Last-hitting>).
+
 
 
 
@@ -109,8 +121,11 @@ Though Sumail called the bot “unbeatable”, it can still be confused in situa
 The successful exploits fell into three archetypes:
 
   * **Creep pulling** : it’s possible to repeatedly attract the lane creeps into chasing you right when they spawn (between the bot’s tier 2 and tier 3 towers). You end up with dozens of creeps chasing you around the map, and eventually the bot’s tower dies via attrition.
+
   * **Orb of venom + wind lace** : this gives you a big movement speed advantage over the bot at level 1 and allows for a quick first blood. You need to exploit this head start to kill the bot one more time.
+
   * **Level 1 raze** : this requires a lot of skill, but several 6–7k MMR players were able to kill the bot at level 1 by successfully hitting 3–5 razes in a short span of time.
+
 
 
 
@@ -151,15 +166,15 @@ OpenAI
 
 [View all](</news/>)
 
-![Scaling Laws For Reward Model Overoptimization](https://images.ctfassets.net/kftzwdyauwt9/a8801fe6-8892-472b-f746d1d9fb2d/547c46ed9a8a71e89efbb7a7963a8932/image-6.webp?w=3840&q=90&fm=webp)
+![A simple pattern of dark squares arranged in clusters against a light background, creating a geometric design.](https://images.ctfassets.net/kftzwdyauwt9/a8801fe6-8892-472b-f746d1d9fb2d/547c46ed9a8a71e89efbb7a7963a8932/image-6.webp?w=3840&q=90&fm=webp)
 
 [Scaling laws for reward model overoptimizationPublicationOct 19, 2022](</index/scaling-laws-for-reward-model-overoptimization/>)
 
-![Screenshot of a scene from Minecraft](https://images.ctfassets.net/kftzwdyauwt9/ef9fc360-1a5a-4ca3-5c25b83b3564/50c07940455cc86ef84d91526d9cf3e0/vpt.jpg?w=3840&q=90&fm=webp)
+![Hills and trees surrounding a pond in an environment on Minecraft.](https://images.ctfassets.net/kftzwdyauwt9/ef9fc360-1a5a-4ca3-5c25b83b3564/50c07940455cc86ef84d91526d9cf3e0/vpt.jpg?w=3840&q=90&fm=webp)
 
 [Learning to play Minecraft with Video PreTrainingConclusionJun 23, 2022](</index/vpt/>)
 
-![Techniques For Training Large Neural Networks](https://images.ctfassets.net/kftzwdyauwt9/62793de4-0f01-42fc-539325d9af36/bc1ac82499fc1dc43f59accdd31d0195/image-9.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting with energetic, vibrant colors.](https://images.ctfassets.net/kftzwdyauwt9/62793de4-0f01-42fc-539325d9af36/bc1ac82499fc1dc43f59accdd31d0195/image-9.webp?w=3840&q=90&fm=webp)
 
 [Techniques for training large neural networksPublicationJun 9, 2022](</index/techniques-for-training-large-neural-networks/>)
 
@@ -173,9 +188,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -194,7 +210,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -212,6 +229,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -220,8 +238,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -240,6 +258,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

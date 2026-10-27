@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.tableau.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000bac481fdae8a18454b21033c&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=8d0e9980c88584df67cf888a8455ea5b89f8cd6c68083164a1bf1caf22c16a21&v=0)Tableau Tell me about the Tableau Plugin and what it can do.(opens in a new window)](<https://chatgpt.com/?prompt=%40Tableau+Tell+me+about+the+Tableau+Plugin+and+what+it+can+do.>)
+[![](https://files.openai.com/content?id=file_00000000bac481fdae8a18454b21033c&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=8d0e9980c88584df67cf888a8455ea5b89f8cd6c68083164a1bf1caf22c16a21&v=0)Tableau Tell me about the Tableau Plugin and what it can do.(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa0b89dcfc88191ba9971f2d7182516?install&prompt=Tell%20me%20about%20the%20Tableau%20Plugin%20and%20what%20it%20can%20do.>)
 
 ## How it works
 
@@ -60,19 +60,19 @@ Connects Codex to Tableau's hosted MCP server (mcp.tableau.com) so you can searc
 
 ![](https://files.openai.com/content?id=file_00000000bac481fdae8a18454b21033c&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=8d0e9980c88584df67cf888a8455ea5b89f8cd6c68083164a1bf1caf22c16a21&v=0)Tableau Show me the Commission Model dashboard. Also, tell me who is above 100% attainment
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Tableau+Show+me+the+Commission+Model+dashboard.+Also%2C+tell+me+who+is+above+100%25+attainment>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa0b89dcfc88191ba9971f2d7182516?install&prompt=Show%20me%20the%20Commission%20Model%20dashboard.%20Also%2C%20tell%20me%20who%20is%20above%20100%25%20attainment&surface=work>)
 
   * ### Explain metric changes
 
 ![](https://files.openai.com/content?id=file_00000000bac481fdae8a18454b21033c&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=8d0e9980c88584df67cf888a8455ea5b89f8cd6c68083164a1bf1caf22c16a21&v=0)Tableau Review my Pulse metrics for [business area] over the last month. Summarize the largest changes and available insights, and recommend which metrics need investigation with links to the sources.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Tableau+Review+my+Pulse+metrics+for+%5Bbusiness+area%5D+over+the+last+month.+Summarize+the+largest+changes+and+available+insights%2C+and+recommend+which+metrics+need+investigation+with+links+to+the+sources.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa0b89dcfc88191ba9971f2d7182516?install&prompt=Review%20my%20Pulse%20metrics%20for%20%5Bbusiness%20area%5D%20over%20the%20last%20month.%20Summarize%20the%20largest%20changes%20and%20available%20insights%2C%20and%20recommend%20which%20metrics%20need%20investigation%20with%20links%20to%20the%20sources.&surface=work>)
 
   * ### Compare category profitability
 
 ![](https://files.openai.com/content?id=file_00000000bac481fdae8a18454b21033c&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=8d0e9980c88584df67cf888a8455ea5b89f8cd6c68083164a1bf1caf22c16a21&v=0)Tableau Use the superstore workbook as a starting point, and add a new sheet showing profit ratio (profit / sales) by category.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Tableau+Use+the+superstore+workbook+as+a+starting+point%2C+and+add+a+new+sheet+showing+profit+ratio+%28profit+%2F+sales%29+by+category.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa0b89dcfc88191ba9971f2d7182516?install&prompt=Use%20the%20superstore%20workbook%20as%20a%20starting%20point%2C%20and%20add%20a%20new%20sheet%20showing%20profit%20ratio%20\(profit%20%2F%20sales\)%20by%20category.&surface=work>)
 
 
 
@@ -98,11 +98,11 @@ Connects Codex to Tableau's hosted MCP server (mcp.tableau.com) so you can searc
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
-### [Privacy policyLearn more](<https://www.salesforce.com/company/legal/privacy/>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.salesforce.com/company/legal/privacy/>)
 
 ## Add the Tableau plugin in a few clicks
 
@@ -112,13 +112,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)SnowflakeAsk governed analytics questions of Snowflake data.](</business/plugins/snowflake/>)[![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)BigQueryExplore BigQuery data and generate SQL from natural language.](</business/plugins/bigquery/>)[![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)DBTWork with dbt projects](</business/plugins/dbt/>)[![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)AlationGoverned Knowledge Layer](</business/plugins/alation/>)[![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)Microsoft Power BIExplore and author analytics in your browser](</business/plugins/microsoft-power-bi/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)SnowflakeAsk governed analytics questions of Snowflake data](</business/plugins/snowflake/>)[![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)BigQueryExplore BigQuery data and generate SQL from natural language](</business/plugins/bigquery/>)[![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)DBTWork with dbt projects](</business/plugins/dbt/>)[![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)AlationGoverned Knowledge Layer](</business/plugins/alation/>)[![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)Microsoft Power BIExplore and author analytics in your browser](</business/plugins/microsoft-power-bi/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -130,10 +140,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -152,7 +162,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -179,8 +190,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -199,6 +210,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

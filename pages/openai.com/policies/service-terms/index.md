@@ -30,7 +30,7 @@ Select language
 
 …
 
-Updated: September 21, 2026
+Updated: October 16, 2026
 
 # Service terms
 
@@ -38,9 +38,13 @@ These Service Terms govern your use of the Services. Capitalized terms not defin
 
 ## 1\. API
 
-OpenAI’s indemnification obligations to API customers under the Agreement include any third party claim that Customer’s use or distribution of Output infringes a third party’s intellectual property right. This indemnity does not apply where: (i) Customer or Customer’s End Users knew or should have known the Output was infringing or likely to infringe, (ii) Customer or Customer’s End Users disabled, ignored, or did not use any relevant citation, filtering or safety features or restrictions provided by OpenAI, (iii) Output was modified, transformed, or used in combination with products or services not provided by or on behalf of OpenAI, (iv) Customer or its End Users did not have the right to use the Input or fine-tuning files to generate the allegedly infringing Output, (v) the claim alleges violation of trademark or related rights based on Customer’s or its End Users’ use of Output in trade or commerce, and (vi) the allegedly infringing Output is from content from a Third Party Offering.
+(a) **General.** OpenAI’s indemnification obligations to API customers under the Agreement include any third party claim that Customer’s use or distribution of Output infringes a third party’s intellectual property right. This indemnity does not apply where: (i) Customer or Customer’s End Users knew or should have known the Output was infringing or likely to infringe, (ii) Customer or Customer’s End Users disabled, ignored, or did not use any relevant citation, filtering or safety features or restrictions provided by OpenAI, (iii) Output was modified, transformed, or used in combination with products or services not provided by or on behalf of OpenAI, (iv) Customer or its End Users did not have the right to use the Input or fine-tuning files to generate the allegedly infringing Output, (v) the claim alleges violation of trademark or related rights based on Customer’s or its End Users’ use of Output in trade or commerce, and (vi) the allegedly infringing Output is from content from a Third Party Offering.
 
-Customer will only, and will ensure that its End Users only, use APIs in accordance with the applicable documentation at [_https://platform.openai.com/docs⁠⁠_ ⁠(opens in a new window)](<https://platform.openai.com/docs>).
+Customer will only, and will ensure that its End Users only, use APIs in accordance with the applicable documentation at[ _https://platform.openai.com/docs⁠⁠⁠_ ⁠(opens in a new window)](<https://platform.openai.com/docs>)
+
+(b) **Prompt-to-Voice.** Prompt-to-Voice allows Customers to create synthetic voices from text prompts for use in generating speech. You may not use Prompt-to-Voice to reproduce any person’s voice without express consent and all necessary rights. Customer must clearly disclose that generated speech is AI-generated, must not intentionally remove or alter OpenAI-provided indicators of AI origin, and must require End Users to comply with these requirements.
+
+OpenAI’s indemnification obligations under these Service Terms and the Agreement do not apply to Prompt-to-Voice or its Output.
 
 ## 2\. Beta Services
 
@@ -116,7 +120,7 @@ Some OpenAI Services may involve Customer downloading and installing software, p
 
 ## 11\. ChatGPT Sites
 
-ChatGPT Sites is a feature that enables users to create, publish, and maintain websites or web applications. The use of ChatGPT Sites is subject to the [ChatGPT Sites Terms](</policies/chatgpt-sites-terms/>)[⁠⁠(opens in a new window)](<https://openai-dotcom-preview.vercel.app/policies/chatgpt-sites-terms/>).
+ChatGPT Sites is a feature that enables users to create, publish, and maintain websites or web applications. The use of ChatGPT Sites is subject to the [ChatGPT Sites Terms](</policies/chatgpt-sites-terms/>)[⁠⁠](<https://openai.com/policies/chatgpt-sites-terms/>).
 
 ## 12\. OpenAI Academy
 
@@ -134,6 +138,20 @@ Data and Output may be inaccurate, delayed, or outdated. Review important inform
 
 Your use of Financial Services, including third-party data and content, is subject to the[ Financial Services Terms⁠](<https://openai.com/policies/financial-services-terms/>), including applicable data partner terms, disclaimers, and restrictions on use and redistribution. Your use of credit score services, such as connecting to and accessing credit scores, reports, monitoring, and personalized insights, is also subject to the [Credit Score Terms](</policies/credit-score-terms/>).
 
+## 14\. Dots and Agentic Features
+
+(a)**Responsibility.** You decide how to use dots and related agentic features, including what access, authority, and instructions you give them. You are responsible for actions they take and content they share on your behalf. 
+
+(b)**Oversight.** You are responsible for providing oversight appropriate to the task and its potential consequences. This includes setting clear instructions and appropriate limits and reviewing actions and communications. 
+
+(c)**Purchases and payments.** You must have permission to use any account or payment method you provide. You are responsible for transactions made on your behalf. You must provide appropriate purchase guidance, monitor your accounts, and promptly raise any errors with the relevant financial institution or payment provider. Third-party terms may also apply to these transactions.
+
+## 15\. Sign in with ChatGPT
+
+Sign in with ChatGPT (“SIWC”) allows developers to enable users to connect their ChatGPT accounts, including certain features or functionality within those accounts, to their tool, application, or website. If you use SIWC in your services, the [Sign in with ChatGPT Terms](</policies/sign-in-with-chatgpt-terms/>) apply.
+
+If you are a user connecting your account to a service using SIWC, you agree to share information necessary to authenticate you (including name, email, and/or profile photo) and, where relevant, your ChatGPT usage. The information you share with another service will be subject to that service’s terms, policies, and configuration.
+
 Research
 
   * [Research Index](</research/index/>)
@@ -144,10 +162,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -166,7 +184,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -193,8 +212,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -213,6 +232,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

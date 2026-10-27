@@ -32,7 +32,7 @@ OpenAI
 
 # LSEG
 
-Access LSEG financial data for pricing and market analysis.
+Data and analytics
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_698aec3092e48191a4484b43a3fc79b8>)[Contact sales](</contact-sales/>)
 
@@ -45,31 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.lseg.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000e45471f5b5de13a805b0fb63&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e9831c00e25c94de6b24d86bd2d8c9fbff051cc5586a98f3b5bc1cac5496a2af&v=0)LSEG Get the spot price for the top 10 cross currencies traded on forex exchange(opens in a new window)](<https://chatgpt.com/?prompt=%40LSEG+Get+the+spot+price+for+the+top+10+cross+currencies+traded+on+forex+exchange>)
+[![](https://files.openai.com/content?id=file_00000000a30081f48e7153f3edddefa1&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=bc49e8d01e96473be0adcd70f644933f362d13fd9a2ebb6674c9add1de7d216f&v=0)LSEG Get the spot price for the top 10 cross currencies traded on forex exchange(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_698aec3092e48191a4484b43a3fc79b8?install&prompt=Get%20the%20spot%20price%20for%20the%20top%2010%20cross%20currencies%20traded%20on%20forex%20exchange>)
 
 ## How it works
 
-Access LSEG’s institutional-grade financial data in ChatGPT to price and analyze bonds, FX, and equities, search news and earnings transcripts, and explore macroeconomic indicators.
+The LSEG connector provides real-time access to LSEG's comprehensive financial market data ecosystem, spanning across asset classes and domains. It enables seamless integration of institutional-grade market data, analytics and valuation tools directly into conversational AI workflows, allowing users to access deep market insights, perform complex calculations and analyse financial instruments through natural language interactions.
 
 ## What else can you do?
 
   * ### Support market and instrument analysis
 
-![](https://files.openai.com/content?id=file_00000000e45471f5b5de13a805b0fb63&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e9831c00e25c94de6b24d86bd2d8c9fbff051cc5586a98f3b5bc1cac5496a2af&v=0)LSEG Get the latest EURUSD spot plus key level context and summarize what changed since yesterday.
+![](https://files.openai.com/content?id=file_00000000a30081f48e7153f3edddefa1&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=bc49e8d01e96473be0adcd70f644933f362d13fd9a2ebb6674c9add1de7d216f&v=0)LSEG Get the latest EURUSD spot plus key level context and summarize what changed since yesterday.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LSEG+Get+the+latest+EURUSD+spot+plus+key+level+context+and+summarize+what+changed+since+yesterday.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_698aec3092e48191a4484b43a3fc79b8?install&prompt=Get%20the%20latest%20EURUSD%20spot%20plus%20key%20level%20context%20and%20summarize%20what%20changed%20since%20yesterday.&surface=work>)
 
   * ### Enhance risk and exposure analysis
 
-![](https://files.openai.com/content?id=file_00000000e45471f5b5de13a805b0fb63&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e9831c00e25c94de6b24d86bd2d8c9fbff051cc5586a98f3b5bc1cac5496a2af&v=0)LSEG Pull the latest inflation indicators and rate curves for the US and euro area, then summarize the differences our treasury team should review.
+![](https://files.openai.com/content?id=file_00000000a30081f48e7153f3edddefa1&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=bc49e8d01e96473be0adcd70f644933f362d13fd9a2ebb6674c9add1de7d216f&v=0)LSEG Pull the latest inflation indicators and rate curves for the US and euro area, then summarize the differences our treasury team should review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LSEG+Pull+the+latest+inflation+indicators+and+rate+curves+for+the+US+and+euro+area%2C+then+summarize+the+differences+our+treasury+team+should+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_698aec3092e48191a4484b43a3fc79b8?install&prompt=Pull%20the%20latest%20inflation%20indicators%20and%20rate%20curves%20for%20the%20US%20and%20euro%20area%2C%20then%20summarize%20the%20differences%20our%20treasury%20team%20should%20review.&surface=work>)
 
   * ### Improve research and market monitoring
 
-![](https://files.openai.com/content?id=file_00000000e45471f5b5de13a805b0fb63&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=e9831c00e25c94de6b24d86bd2d8c9fbff051cc5586a98f3b5bc1cac5496a2af&v=0)LSEG Create a daily morning brief for my watchlist tickers using relevant headlines and price moves.
+![](https://files.openai.com/content?id=file_00000000a30081f48e7153f3edddefa1&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=bc49e8d01e96473be0adcd70f644933f362d13fd9a2ebb6674c9add1de7d216f&v=0)LSEG Create a daily morning brief for my watchlist tickers using relevant headlines and price moves.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LSEG+Create+a+daily+morning+brief+for+my+watchlist+tickers+using+relevant+headlines+and+price+moves.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_698aec3092e48191a4484b43a3fc79b8?install&prompt=Create%20a%20daily%20morning%20brief%20for%20my%20watchlist%20tickers%20using%20relevant%20headlines%20and%20price%20moves.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Access LSEG’s institutional-grade financial data in ChatGPT to price and analy
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://www.lseg.com/contact-us>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.lseg.com/contact-us>)
 
-### [Privacy policyLearn more](<https://www.lseg.com/privacy-statement>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.lseg.com/privacy-statement>)
 
 ## Add the LSEG plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingSupport company research and deal analysis.](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingBuild banking analysis and client-ready materials.](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)DaloopaAccess financial KPIs with source links.](</business/plugins/daloopa/>)[![](https://files.openai.com/content?id=file_000000009c38722f80144f00dd87ea34&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=8e9598782d7e36464e64c394a2fecb5ab3bf6b35731be6a16d3b9ec05b080a32&v=0)![](https://files.openai.com/content?id=file_000000003ec881f6aaeecf3f949966e5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=1c18816d30ee51f5b8365b1c3d420e3b9da7e6f4d0f9830032b871fc457f48f6&v=0)MorningstarAccess live market insights.](</business/plugins/morningstar/>)[![](https://files.openai.com/content?id=file_00000000481081fd8fa0b56b51d4dfa6&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=6bebe30dc8d1f4c345fef5b8b23efabdde989bb11c89c7ee921440c96af1211f&v=0)![](https://files.openai.com/content?id=file_00000000481081fd8fa0b56b51d4dfa6&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=6bebe30dc8d1f4c345fef5b8b23efabdde989bb11c89c7ee921440c96af1211f&v=0)Interactive Brokers (IBKR)Analyze global markets](</business/plugins/interactive-brokers/>)
+[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingPublic equity research](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingM&A, valuation, and financing](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)DaloopaFinancial KPIs with links](</business/plugins/daloopa/>)[![](https://files.openai.com/content?id=file_000000009c38722f80144f00dd87ea34&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=8e9598782d7e36464e64c394a2fecb5ab3bf6b35731be6a16d3b9ec05b080a32&v=0)![](https://files.openai.com/content?id=file_000000003ec881f6aaeecf3f949966e5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=1c18816d30ee51f5b8365b1c3d420e3b9da7e6f4d0f9830032b871fc457f48f6&v=0)MorningstarInvestment and market insights](</business/plugins/morningstar/>)[![](https://files.openai.com/content?id=file_00000000481081fd8fa0b56b51d4dfa6&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=6bebe30dc8d1f4c345fef5b8b23efabdde989bb11c89c7ee921440c96af1211f&v=0)![](https://files.openai.com/content?id=file_00000000481081fd8fa0b56b51d4dfa6&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=6bebe30dc8d1f4c345fef5b8b23efabdde989bb11c89c7ee921440c96af1211f&v=0)Interactive Brokers (IBKR)Analyze global markets](</business/plugins/interactive-brokers/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

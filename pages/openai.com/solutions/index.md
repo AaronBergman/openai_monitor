@@ -26,13 +26,21 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
+New
+
+### Introducing ChatGPT-6 Astra:
+
+**Our most capable model, built for the hardest work businesses need to get done.**
+
+[Learn more](</business/model/>)
+
 # Put AI to work across your organization
 
 Explore proven ways to apply AI across your organization—built to fit how your teams work.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
 
-## Departments
+## Teams
 
 ![OpenAI for Finance art card.](https://images.ctfassets.net/kftzwdyauwt9/2UABLkelbsY8aLeITzA67o/774191c8c9665456b21fb342bb3a49d6/openai-for-finance-art-card-1x1.png?w=3840&q=90&fm=webp)
 
@@ -42,10 +50,6 @@ Explore proven ways to apply AI across your organization—built to fit how your
 
 [Data AnalyticsTurn insights into decisions.](</business/solutions/data/>)
 
-![Teal design illustration with UI panels and a Design label.](https://images.ctfassets.net/kftzwdyauwt9/1yxcDQemevwiukyJiCdtie/8a7edff489d9ec2a7b40d932c70f90e2/openai-for-design-leaders-art-card-1x1.png?w=3840&q=90&fm=webp)
-
-[DesignBring ideas to life faster.](</business/solutions/design/>)
-
 ![OpenAI for Sales art card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2oKPbRYGS150hf1g2PQKwN/5beb1d4135e818ef1aa3d6141c6d5398/openai-for-sales-art-card-1x1.png?w=3840&q=90&fm=webp)
 
 [SalesMove opportunities to revenue.](</business/solutions/sales/>)
@@ -54,15 +58,57 @@ Explore proven ways to apply AI across your organization—built to fit how your
 
 [MarketingCreate, optimize, and scale campaigns.](</business/solutions/marketing/>)
 
+![ChatGPT Work for Operations teams placeholder art card.](https://images.ctfassets.net/kftzwdyauwt9/3Rcj8AL1Fc5gTPJgB0MpvA/09c2b634566bbe164a201985bdabdcc2/Operations_art_card_1x1.png?w=3840&q=90&fm=webp)
+
+[OperationsManage projects, analyze data and automate workflows.](</business/solutions/operations/>)
+
 ![Pink engineering illustration with code checklist rows and an Engineering label.](https://images.ctfassets.net/kftzwdyauwt9/6J9lr7qH7vG5meoBrQ6wAp/620069b9364384ac3682e4c241e19477/openai-for-software-engineering-art-card-1x1.png?w=3840&q=90&fm=webp)
 
 [EngineeringShip reliable software faster.](</business/solutions/engineering/>)
 
+![Teal design illustration with UI panels and a Design label.](https://images.ctfassets.net/kftzwdyauwt9/1yxcDQemevwiukyJiCdtie/8a7edff489d9ec2a7b40d932c70f90e2/openai-for-design-leaders-art-card-1x1.png?w=3840&q=90&fm=webp)
+
+[DesignBring ideas to life faster.](</business/solutions/design/>)
+
+![Legal label over an abstract document illustration on an orange background.](https://images.ctfassets.net/kftzwdyauwt9/13un0iwtunEoKs4rae9NtQ/8b8a6c8c8bfef7c668f7c9f33b5b80c0/legal-teams-art-card-1x1.png?w=3840&q=90&fm=webp)
+
+[LegalBring legal and business context together.](</business/solutions/legal/>)
+
+## Industries
+
+![Cybersecurity cover image](https://images.ctfassets.net/kftzwdyauwt9/5Wne8L2ZgsgJJ7cAAKogds/fd908d2bb3d349be1bdac2fba779e7bc/business-solutions-cybersecurity-1x1.png?w=3840&q=90&fm=webp)
+
+[CybersecurityFind vulnerabilities and move faster from findings to fixes.](</business/solutions/cybersecurity/>)
+
+![Blue bar-chart illustration with a Financial services label.](https://images.ctfassets.net/kftzwdyauwt9/7svZFLPf8aQXuq1qzd5ip2/a2ac8a5447b62833fd6faedefd2f8ef4/Financial-services_1x1-6.png?w=3840&q=90&fm=webp)
+
+[Financial servicesBuild trust and stay ahead in any market.](</solutions/industries/financial-services/>)
+
+![Orange illustration with a data table and a Healthcare label.](https://images.ctfassets.net/kftzwdyauwt9/3eYZJZRU04HuMwgCTbjm50/c5cedb04f24816b9c7b05d45a3d7c5ac/Healthcare_1x1-4.png?w=3840&q=90&fm=webp)
+
+[HealthcareImprove outcomes and deliver better care.](</solutions/industries/healthcare/>)
+
+![Green illustration with document and card panels and a Law label.](https://images.ctfassets.net/kftzwdyauwt9/4L0A0xhGZnyZEVITqmuN3m/b54d359fb30c48aa06894486fed8a849/Law_1x1.png?w=3840&q=90&fm=webp)
+
+[LawDeliver stronger counsel with your firm’s expertise.](</solutions/industries/law/>)
+
+![Blue retail illustration with product tiles and a Retail label.](https://images.ctfassets.net/kftzwdyauwt9/5lTw9Q7sErfPUNN5X31D4m/2bf6621be44b6a6cc55aec943e3cad49/Retail_1x1-2.png?w=3840&q=90&fm=webp)
+
+[RetailDeliver better shopping experiences.](</solutions/industries/retail/>)
+
+![Pink illustration with document panels and a Government label.](https://images.ctfassets.net/kftzwdyauwt9/5bbOKvE2ySkrwVS58bOpmB/d447c2a08f510a86b1f26583c52e65b9/Government_1x1-3.png?w=3840&q=90&fm=webp)
+
+[GovernmentSupport essential public services.](</solutions/industries/government/>)
+
+![Coral illustration with interface panels and an Education label.](https://images.ctfassets.net/kftzwdyauwt9/2s7gWqCD962ncybGPHSBtt/f6125018e4b1b734552ce057227468f5/Education_1x1-5.png?w=3840&q=90&fm=webp)
+
+[EducationEmpower students, educators, and researchers.](</business/solutions/education/>)
+
+![Green illustration with concentric circles and a Life sciences label.](https://images.ctfassets.net/kftzwdyauwt9/1QO6OlGFMqcwQiKLy6LCkd/1711a0f9022a0361eb98cacc3732d69e/Life-sciences_1x1-1.png?w=3840&q=90&fm=webp)
+
+[Life sciencesConnect science to patient impact.](</rosalind/>)
+
 ## Use cases
-
-![coding hero](https://images.ctfassets.net/kftzwdyauwt9/tkSHlFEfwqpbwSCGuikll/6659aa9a6b4ade6ea5bffb9d609d8afd/Wallpaper-coding-hero.png?w=3840&q=90&fm=webp)
-
-[CodingBuild, debug, and ship faster.](</solutions/use-case/coding/>)
 
 ![solution-contentcreation-hero](https://images.ctfassets.net/kftzwdyauwt9/11AhW3RqHajVdmOwUXEAny/bd20fa9b7b4fe0fbcba6229a4c5544de/solution-contentcreation-hero.png?w=3840&q=90&fm=webp)
 
@@ -76,55 +122,15 @@ Explore proven ways to apply AI across your organization—built to fit how your
 
 [AgentsExtend your team with agents that take action.](</solutions/use-case/agents/>)
 
-![solution-data analysis-hero](https://images.ctfassets.net/kftzwdyauwt9/7I5bqgWC7nLBDTC2rkXfjP/ac7a07972ffcf44b54065fcd6e2a164c/solution-data_analysis-hero.png?w=3840&q=90&fm=webp)
-
-[Data analysisUncover insights that drive smarter decisions.](</solutions/use-case/data-analysis/>)
-
-## Industries
-
-![Financial Services > Hero > Media > Image](https://images.ctfassets.net/kftzwdyauwt9/4yxnqdKmyr8iLfsDB5Rq9v/3d088473e569e609637a68abef46753b/openai_Solutions_FIncialServices_HeroImage.png?w=3840&q=90&fm=webp)
-
-[Financial servicesBuild trust and stay ahead in any market.](</solutions/industries/financial-services/>)
-
-![Soultions for Healthcare Hero](https://images.ctfassets.net/kftzwdyauwt9/u1PVXOVRZ1GXMdsv8UEmM/da02288549d77638aac43786f8a00787/Soultions_for_Healthcare_Hero.png?w=3840&q=90&fm=webp)
-
-[HealthcareImprove outcomes and deliver better care.](</solutions/industries/healthcare/>)
-
-![3 people in a science lab, in lab coats looking at a tablet](https://images.ctfassets.net/kftzwdyauwt9/1D6nnZ4EvlhS7bGdCna7OC/b3fade9e482d3bc9cacdea118cf8e5f3/hero.png?w=3840&q=90&fm=webp)
-
-[Life sciencesConnect science to patient impact.](</gpt-rosalind/>)
-
-![Soultions for Retail v3](https://images.ctfassets.net/kftzwdyauwt9/5nmNL9J9IXJ3PWkJXswpsi/74fc3710db8f3630bc94010b4e472934/Soultions_for_Retail_v3.jpg?w=3840&q=90&fm=webp)
-
-[RetailDeliver better shopping experiences.](</solutions/industries/retail/>)
-
-![Three colleagues collaborate around a laptop and documents in an office with a world map in the background.](https://images.ctfassets.net/kftzwdyauwt9/58Z3FVzE5RBuiCdDvAu5AL/6bbf05f04d5da1b3f9a84347e532b745/Generated_image_1__2_.png?w=3840&q=90&fm=webp)
-
-[GovernmentSupport essential public services.](</solutions/industries/government/>)
-
-![Three students smiling as they collaborate around a laptop at an outdoor campus table.](https://images.ctfassets.net/kftzwdyauwt9/4yjcnQ5Iofb9jCyqAWYCD2/1016789007213bcfc7a8890e08b0193a/students_group_4.png?w=3840&q=90&fm=webp)
-
-[EducationEmpower students, educators, and researchers.](</business/solutions/education/>)
-
-### Blueprints
-
-![MCPKit > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3dPHv7wBWSleh1Zlwdtjzp/98a7ad90806109dc245dc23c5c532040/MCPKit_Hero.png?w=3840&q=90&fm=webp)
-
-[MCPKitConnect data to ChatGPT with custom MCP Servers.](</solutions/blueprints/mcpkit/>)
-
-![A chatbot interface answers a question about risk management SLAs, listing key points like initial risk pre-check and full risk assessment turnaround times. Beside it, a knowledge base panel shows related files such as “10 Customer Support Policies” and “11 Risk Management.” The background is light blue with soft gradients.](https://images.ctfassets.net/kftzwdyauwt9/2briu94lsaszigOQS2v5qo/6f46409b3005d9716a3eb1928e5dabb6/knowledge_retrieval_Hero.png?w=3840&q=90&fm=webp)
-
-[Knowledge RetrievalProvide trusted answers, backed by your data.](</solutions/blueprints/knowledge-retrieval/>)
-
 ## AI you can deploy with confidence
 
 Bring advanced intelligence into your organization with security, control, and transparency.
 
-### Connect your data
+### Connect your favorite business tools to ChatGPT
 
-Bring your business context into every prompt—delivering reliable, cited responses.
+Bring your business apps and data into ChatGPT with plugins.
 
-[Explore apps](</business/plugins/>)[Connect with MCP(opens in a new window)](<https://platform.openai.com/docs/mcp>)
+[Explore plugins](</business/plugins/>)
 
 ![A central icon representing data connections is linked by dotted lines to three surrounding service icons: SharePoint \(top right\), Google Drive \(bottom left\), and GitHub \(bottom right\). The background is a smooth blue gradient with soft white squares scattered throughout.](https://images.ctfassets.net/kftzwdyauwt9/72bUSPivEgoBquGs57nWab/4ab9b5aa798eb7d975838afd8e6c8126/Hero-v1.png?w=3840&q=90&fm=webp)
 
@@ -142,6 +148,16 @@ See how OpenAI can help you scale AI securely and responsibly.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
 
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
+
 Research
 
   * [Research Index](</research/index/>)
@@ -152,9 +168,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -173,7 +190,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -191,6 +209,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -199,8 +218,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -219,6 +238,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

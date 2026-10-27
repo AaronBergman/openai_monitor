@@ -41,80 +41,44 @@ Share
 What is an internal site or app?
 
   * What is an internal site or app?
-
   * What ChatGPT sites does
-
   * Start with a small, focused use case
-
   * How to build a site in Codex
-
     * 1\. Describe what you need
-
     * 2\. Review the first version
-
     * 3\. Ask Codex to make changes
-
     * 4\. Deploy the site
-
     * 5\. Share it with the right people
-
   * Review before you share
-
   * Keep your site up to date with an automation
-
   * Try it
-
   * Common questions
-
     * Do I need to know how to code?
-
     * Is a site the same as a full software product?
-
     * Can I update a site after I deploy it?
-
     * Can a site connect to my organization’s data?
-
     * What should admins review?
-
 
 
 
   * What is an internal site or app?
-
   * What ChatGPT sites does
-
   * Start with a small, focused use case
-
   * How to build a site in Codex
-
     * 1\. Describe what you need
-
     * 2\. Review the first version
-
     * 3\. Ask Codex to make changes
-
     * 4\. Deploy the site
-
     * 5\. Share it with the right people
-
   * Review before you share
-
   * Keep your site up to date with an automation
-
   * Try it
-
   * Common questions
-
     * Do I need to know how to code?
-
     * Is a site the same as a full software product?
-
     * Can I update a site after I deploy it?
-
     * Can a site connect to my organization’s data?
-
     * What should admins review?
-
 
 
 
@@ -253,22 +217,6 @@ Discover additional guides and resources to help you build practical AI skills.
 
 [View all topics](</academy/>)
 
-## Keep reading
-
-[View all](</news/>)
-
-![Plugins > card image](https://images.ctfassets.net/kftzwdyauwt9/7r2o2rTyjurYOamZ2sKDY1/5373d74efd317af8de9cc71fa7479778/plugins.png?w=3840&q=90&fm=webp)
-
-[Plugins and skills | OpenAIOpenAI AcademyApr 23, 2026](</academy/codex-plugins-and-skills/>)
-
-![Automations > card image](https://images.ctfassets.net/kftzwdyauwt9/WWbNfZvQUCV942pR9wPFw/69567e99135e87f695b94809ac026162/automations.png?w=3840&q=90&fm=webp)
-
-[Automations | OpenAIOpenAI AcademyApr 23, 2026](</academy/codex-automations/>)
-
-![Codex for Work Settings > card image](https://images.ctfassets.net/kftzwdyauwt9/3NQj95eRxxmebJ1Z9xjJu/c2d88b2ddf9c9b668450132d099ab97b/settings.png?w=3840&q=90&fm=webp)
-
-[Settings | OpenAIOpenAI AcademyApr 23, 2026](</academy/codex-settings/>)
-
 Research
 
   * [Research Index](</research/index/>)
@@ -279,9 +227,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -300,7 +249,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -318,6 +268,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -326,8 +277,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -346,6 +297,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -353,6 +305,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

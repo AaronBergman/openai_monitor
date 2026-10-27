@@ -69,9 +69,13 @@ Users no longer need to manually design layouts or write content from scratch. I
 OpenAI’s models power several key components of Wix’s AI website builder, including:
 
   * **Content generation** : AI text creator crafts engaging website copy, blog posts, product descriptions, and SEO-friendly text.
+
   * **Image processing** : GPT‑4o’s vision capabilities support image captioning and classification for portfolios and blog posts, as well as menu parsing from restaurant images.
+
   * **Business management tools** : AI-driven report generators help users manage their operations with natural language queries.
+
   * **Translation** :**** Powered by OpenAI’s models, the AI website builder is currently available in nine languages, ranging from English to Japanese to Turkish.
+
 
 
 
@@ -108,9 +112,13 @@ To make this technology as broadly accessible as possible, Wix built a [_website
 The team at Wix is just getting started. Using OpenAI’s LLMs, they want to expand their AI offerings to help every role:
 
   * **Customer care** : Helping their customers handle customer tickets
+
   * **Business managers** : Assisting managers in customer communications and generating reports that understand natural language queries
+
   * **Entrepreneurs** : Expanding their businesses with smart, scalable business tools 
+
   * **Marketers** : Enabling hyper-personalized content creation and campaigns 
+
 
 
 
@@ -122,17 +130,17 @@ As Wix continues to optimize and expand its AI-powered features, the company is 
 
 ## Keep reading
 
-![Coderabbit cover image](https://images.ctfassets.net/kftzwdyauwt9/7b5nc20N6oPfgjCUheFe2F/55fe1900f5ce545f22014a0dcfd4aad3/oai_coderabbit_1x1.png?w=3840&q=90&fm=webp)
+![Greptile — Connections card](https://images.ctfassets.net/kftzwdyauwt9/3MXN8yaWRaIYfhebDhB9oe/234b309da77eba8ac8bce11f880a31df/greptile-connections-card.png?w=3840&q=90&fm=webp)
 
-[ Shipping code faster with o3, o4-mini, and GPT-4.1May 22, 2025](</index/coderabbit/>)
+[Greptile takes bug detection beyond code review with GPT-6 AstraStartupOct 26, 2026](</index/greptile-code-review-codex-astra/>)
 
-![San Antonio Spurs Cover Image](https://images.ctfassets.net/kftzwdyauwt9/3T53lsDpxxxZkP95bJqGlk/72b9117d5dddf09c24521dfee740ce13/oai_Spur_1x1.png?w=3840&q=90&fm=webp)
+![Working with academic communities to build scientific understanding — Cover](https://images.ctfassets.net/kftzwdyauwt9/77i38N8Ov2vmY2uJ4pWRIQ/5f6f3eceaf8751f07fc23f179ad14c32/from-ai-results-to-scientific-understanding-cover.png?w=3840&q=90&fm=webp)
 
-[The San Antonio Spurs use ChatGPT to scale impact on and off the courtMay 7, 2025](</index/san-antonio-spurs/>)
+[Working with academic communities to build scientific understandingResearchOct 26, 2026](</index/building-scientific-understanding-with-academic-communities/>)
 
-![Lowes > Cover media](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
+![GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases — Cover](https://images.ctfassets.net/kftzwdyauwt9/1It2GB1ZfejdSTYbMPMr09/440bbe7151c3c08c0d7d9353f4789539/gpt-6-1-sol-helps-coderabbit-strengthen-security-across-complex-codebases-cover.png?w=3840&q=90&fm=webp)
 
-[Lowe’s puts project expertise into every hand May 7, 2025](</index/lowes/>)
+[GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebasesSecurityOct 26, 2026](</index/gpt-6-1-sol-coderabbit-code-security/>)
 
 Research
 
@@ -144,10 +152,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -166,7 +174,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -184,6 +193,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -192,8 +202,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -212,6 +222,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
