@@ -26,7 +26,7 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Updated: August 6, 2026
+Updated: October 26, 2026
 
 # Signals individual data
 
@@ -45,6 +45,7 @@ How people use ChatGPT
   * Usage by different groups
     * Usage by self-reported age
     * Users with typically feminine or masculine names
+  * Citation
 
 
 
@@ -57,10 +58,11 @@ How people use ChatGPT
   * Usage by different groups
     * Usage by self-reported age
     * Users with typically feminine or masculine names
+  * Citation
 
 
 
-On this page, you can find regularly updated, privacy-preserving insights on adoption and real-world use of individual ChatGPT use. This analysis is based on a sample of messages between July 2024 and June 2026. This dataset reflects only messages within ChatGPT Free, Go, Plus, and Pro accounts, which are accounts generally managed by individuals rather than institutions. For more information on how organizations are using AI, please visit Enterprise Signals [here](</signals/enterprise-data/>)⁠.
+On this page, you can find regularly updated, privacy-preserving insights on adoption and real-world use of individual ChatGPT use. This analysis is based on a sample of messages between July 2024 and September 2026. This dataset reflects only messages within ChatGPT Free, Go, Plus, and Pro accounts, which are accounts generally managed by individuals rather than institutions. For more information on how organizations are using AI, please visit Enterprise Signals [here](</signals/enterprise-data/>)⁠.
 
 ## How people use ChatGPT
 
@@ -70,7 +72,7 @@ The data available here offers an insight into how individual ChatGPT is being u
 
 This section looks at overall usage of ChatGPT across work and non-work settings. The data reveals that certain topics of conversation—such as technical help and writing—arise more frequently in work contexts than non-work contexts.
 
-Data is based on messages sent in June 2026.
+Data is based on messages sent in September 2026.
 
 #### ChatGPT at work
 
@@ -78,7 +80,7 @@ This section explores how individual ChatGPT plans are used for work purposes, i
 
 This chart shows the likelihood that a message is work-related given the plan being used, which gives us a sense of what models people look to for work versus other purposes. In this chart, data begins in September 2024, not July 2024.
 
-Asking is when a user is seeking information or clarification from ChatGPT. Doing is when a user wants ChatGPT to produce an output or perform a task. Expressing is when a user expresses views or feelings to ChatGPT, but is not seeking any information or action from it. Data is based on messages sent in June 2026.
+Asking is when a user is seeking information or clarification from ChatGPT. Doing is when a user wants ChatGPT to produce an output or perform a task. Expressing is when a user expresses views or feelings to ChatGPT, but is not seeking any information or action from it. Data is based on messages sent in September 2026.
 
 Not displayed on this page is information on share of messages and share of work-related messages by O*NET intermediate work activity within each month. That data can be downloaded on the [data and methodology page](</signals/data-download/>).
 
@@ -86,13 +88,13 @@ Not displayed on this page is information on share of messages and share of work
 
 #### Global
 
-The map above shows the ranking of countries by the number of messages sent per person between April and June 2026. Smaller numbers correspond to higher levels of per-capita usage. Countries with insufficient data and those in which OpenAI does not operate are excluded.
+The map above shows the ranking of countries by the number of messages sent per person. Smaller numbers correspond to higher levels of per-capita usage. Countries with insufficient data and those in which OpenAI does not operate are excluded.
 
 #### United States
 
-This figure is based on data from the year 2025.
+This figure is based on data from Q1 2025 through Q3 2026.
 
-This figure is based on data from the year 2025.
+This figure is based on data from Q1 2025 through Q3 2026.
 
 ## Usage by different groups
 
@@ -102,7 +104,7 @@ This section offers data on how different groups of users are using ChatGPT. In 
 
 This is an analysis of only users who self-reported their age within their ChatGPT platform.
 
-This is an analysis of only users who self-reported their age within their ChatGPT platform. The bars reflect the share of messages in each topic sent by users in each self-reported age group during June 2026.
+This is an analysis of only users who self-reported their age within their ChatGPT platform. The bars reflect the share of messages in each topic sent by users in each self-reported age group during September 2026.
 
 #### Users with typically feminine or masculine names
 
@@ -110,11 +112,54 @@ This shows our best estimate of how many people with typically feminine or mascu
 
 This analysis excludes messages from names that are not typically masculine or typically feminine. For more about the methodology we used to determine this please read our full [methodology](</signals/data-download/>).
 
-This figure shows the share of messages in each use case that were sent by users with traditionally masculine and traditionally feminine names during June 2026. This analysis excludes messages from names that are not typically masculine or typically feminine. For more about the methodology we used to determine this please read our full [methodology](</signals/data-download/>).
+This figure shows the share of messages in each use case that were sent by users with traditionally masculine and traditionally feminine names during September 2026. This analysis excludes messages from names that are not typically masculine or typically feminine. For more about the methodology we used to determine this please read our full [methodology](</signals/data-download/>).
 
-If you download and use this data, please cite our work with the following suggested citation: 
+## Citation
 
-Aaron Chatterji, Thomas Cunningham, David J. Deming, Zoe Hitzig, Drew Johnston, Alex Martin Richmond, Christopher Ong, Carl Yan Shan, and Kevin Wadman, "OpenAI Signals v2.0," https://cdn.openai.com/signals/data-dictionary.pdf.
+If you download and use this data, please cite our work with the following suggested citation:
+
+#### Citation
+
+`
+    
+    
+    1
+    
+    @online{openaiecon2026signalsdata,
+    
+    2
+    
+      author = {Aaron Chatterji and Thomas Cunningham and David J. Deming and Zoe Hitzig and Drew Johnston and Alex Martin Richmond and Christopher Ong and Carl Yan Shan and Kevin Wadman},
+    
+    3
+    
+      title = {{OpenAI} Signals v3.0},
+    
+    4
+    
+      year = {2026},
+    
+    5
+    
+      organization = {OpenAI},
+    
+    6
+    
+      url = {https://openai.com/signals/data-download/},
+    
+    7
+    
+      urldate = {2026-10-26},
+    
+    8
+    
+      note = {Data download and methodology},
+    
+    9
+    
+    }
+
+`
 
 ### Discover more
 
@@ -160,10 +205,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -182,7 +227,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -200,6 +246,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -208,8 +255,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -228,6 +275,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

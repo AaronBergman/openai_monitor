@@ -43,24 +43,16 @@ Share
 Collaborating to Secure the Deployment of AI Agents
 
   * Collaborating to Secure the Deployment of AI Agents
-
   * Collaborating on Biosecurity
-
   * Why this matters
-
   * Looking ahead
-
 
 
 
   * Collaborating to Secure the Deployment of AI Agents
-
   * Collaborating on Biosecurity
-
   * Why this matters
-
   * Looking ahead
-
 
 
 
@@ -95,10 +87,15 @@ As part of our ongoing collaboration with UK AISI, in May UK AISI began red-team
 As part of this collaboration, UK AISI was granted in-depth access to our systems, supported by bespoke work from OpenAI to allow deeper customization and security. This included:
 
   * Non-public prototypes of our safeguard systems
+
   * “Helpful-only” model variants with certain guardrails removed
+
   * OpenAI’s internal policy guidance around biological misuse
+
   * Access to the chain of thought of OpenAI’s internal safety monitor models to more efficiently identify vulnerabilities
+
   * Selective disabling of certain mitigations and enforcement during testing to probe subcomponents of the system
+
 
 
 
@@ -119,10 +116,15 @@ The work above complements the other internal and external stress-testing we did
 ## Why this matters
 
   * These collaborations represent some of the deepest public-private collaborations on evaluating real-world frontier AI systems for security and against misuse, and we hope they serve as promising models for the field.
+
   * Collaborating with partner governments enables us to tap into their national security expertise, while sharing the state of frontier technology with the government. This hands-on experience in turn enables partner governments to develop technically-grounded best practices which accelerate innovation and security throughout the AI industry.
+
   * This collaboration led to meaningful improvements in the security of some of the world’s most widely used AI systems.
+
   * External expert analyses of our systems’ security helps us spot issues we might otherwise miss and builds accountability and trust in our systems.
+
   * Ongoing collaborations can go deeper and yield more value than one-off pre-deployment evaluations.
+
 
 
 
@@ -145,17 +147,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Why teens deserve access to safe AI — card image](https://images.ctfassets.net/kftzwdyauwt9/qMYBYjbkSSEYQbsQyyfRQ/d9fe2585ed8bbf73ffee5d6ed8bcc39e/why-teens-card.jpg?w=3840&q=90&fm=webp)
+![OpenAI and Poland’s NASK announce partnership — cover](https://images.ctfassets.net/kftzwdyauwt9/5iNpIavxCdztEpxDKfc72s/15273fe6022d7f1c77b5a6622c26dd1f/openai-and-poland-s-nask-announce-partnership-cover.png?w=3840&q=90&fm=webp)
 
-[Why teens deserve access to safe AISafetyJul 16, 2026](</index/why-teens-deserve-access-safe-ai/>)
+[OpenAI and NASK partner on AI safety and securityGlobal AffairsOct 23, 2026](</index/openai-nask-ai-safety-security-partnership/>)
 
-![Helping build shared standards for advanced AI - card image](https://images.ctfassets.net/kftzwdyauwt9/5bSU7ItzcBWGtWhApmmJ6X/a818a91ef36b39ed07d62566ec318760/Frame2.png?w=3840&q=90&fm=webp)
+![Broad access through consistent standards — Cover](https://images.ctfassets.net/kftzwdyauwt9/5yeylkVM0cZ2W6k2lcnVyE/42a8333bccf5064328630ebf7c667082/broad-access-through-consistent-standards-cover.png?w=3840&q=90&fm=webp)
 
-[The US is advancing AI safety through state and federal actionGlobal AffairsJul 15, 2026](</index/advancing-ai-safety-through-state-and-federal-action/>)
+[Broad access through consistent standardsSafetyOct 21, 2026](</index/broad-access-through-consistent-standards/>)
 
-![GPT-Red art card](https://images.ctfassets.net/kftzwdyauwt9/6q32m87ClqE8Ovn6vD424h/05ced72e47bbe42711fbac6a082cbff2/Art_Card.png?w=3840&q=90&fm=webp)
+![Democratic governance of frontier AI, part II: Empowering cyber defenders — Cover](https://images.ctfassets.net/kftzwdyauwt9/7s66NRbeeddt0jh03kqYVr/e24d600e7890401b9ee82255ec7cb915/empowering-cyber-defenders-cover.png?w=3840&q=90&fm=webp)
 
-[GPT-Red: Unlocking Self-Improvement for RobustnessSafetyJul 15, 2026](</index/unlocking-self-improvement-gpt-red/>)
+[Democratic governance of frontier AI, part II: Empowering cyber defendersGlobal AffairsOct 21, 2026](</index/empowering-cyber-defenders/>)
 
 Research
 
@@ -167,9 +169,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -188,7 +191,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -206,6 +210,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -214,8 +219,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -234,6 +239,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

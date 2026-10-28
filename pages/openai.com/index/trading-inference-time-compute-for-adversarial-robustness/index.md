@@ -66,26 +66,31 @@ We conducted extensive experiments to assess how increasing inference-time compu
 
 Many-Shot MathLMP MathSoft Tokens MathPrompt InjectionLMP MisuseTransferred Vision Attacks
 
-![Heatmap titled “Many-shots attack on math,” showing attack success probability \(color scale from yellow to purple\) against attack length \(tokens\) and inference time compute.](https://images.ctfassets.net/kftzwdyauwt9/6EowQrzC4oreNSwKzq5n0q/5f55a2501515e47079b2d1bf26bfd064/Figure_A_Light.svg?w=3840&q=90)
-
- _A typical result in the paper: The Y axis is the amount of resources of the attacker, and the X axis is the amount of inference-time compute. We see that as the attacker’s resources grow, so does its success probability. But for every fixed amount of attacker’s resources, the probability of success decays as the model is spending more compute at inference time._
-
 To study the relationship between adversarial robustness (as measured by attacker resources) and test-time compute, we considered a number of different types of tasks. These include:
 
   1. Mathematical tasks, including very simple ones such as adding or multiplying two numbers, as well as more sophisticated ones such as [_MATH_ ⁠(opens in a new window)](<https://arxiv.org/abs/2103.03874>). For each such task, we considered a number of “goals” by the adversary: get the model to output 42 instead of the correct answer, get the model to output the correct answer plus one, or get the model to output the correct answer times seven.
+
   2. Adversarial version of the [_SimpleQA_ ⁠](<https://openai.com/index/introducing-simpleqa/>) factuality benchmark. This is a dataset of questions that were chosen to be hard for models to resolve without browsing, and we simulated injection of adversarial prompts in the browsed web pages.
+
   3. Adversarial images from the [_Attack Bard_ ⁠(opens in a new window)](<https://arxiv.org/abs/2309.11751>) paper.
+
   4. Misuse prompts from the [_StrongREJECT_ ⁠(opens in a new window)](<https://arxiv.org/abs/2402.10260>) benchmarks. These are prompts that the model should **not** comply with, but the attacker’s goal is to get the model to do so.
+
   5. An internal evaluation for following one of the rules in our model [_spec_ ⁠](<https://openai.com/index/introducing-the-model-spec/>).
+
 
 
 
 We considered a number of “attack surfaces” for the adversary, including: 
 
   1. The “many shot” attack (see [_Anthropic 2024_ ⁠(opens in a new window)](<https://www.anthropic.com/research/many-shot-jailbreaking>)) where a number of “bad” input/output examples are provided by the adversary.
+
   2. Optimizing soft tokens (arbitrary embedding vectors) to achieve the adversary’s goal.
+
   3. An adversarial language model program (LMP)--that is, a structured program incorporating language models in its control flow–that does “AI red teaming”
+
   4. Adversarial multi modal inputs.
+
 
 
 
@@ -98,8 +103,11 @@ In many of these cases, we see that the **adversary’s success probability decr
 There are cases where (at least so far) inference-time compute does not improve robustness:
 
   1. In some cases, we see that initially the adversary's success _increases_ with the defender’s inference-time compute and later decreases. We believe this is because the defender needs a minimum amount of test-time compute to achieve the attacker’s goal (e.g. to respond with one plus the correct answer, it must be able to solve the math problem).
+
   2. More importantly, there are cases where the attack’s success does not decay as we give the defender more inference-time compute. This is especially evident on the StrongREJECT benchmark with the LMP attack. Some of the prompts in this benchmark request information that is not prohibited in all circumstances, and so the LMP can find contexts in which the specification-compliant response is to provide this information. See Figure 10 in the paper for an example.
+
   3. Our ability to control the model’s test-time compute usage is not perfect. We see that the attacker can sometimes fool the model into not thinking or using its inference-time compute unproductively. For this paper we did not explore teaching the model to use its allotted compute “wisely” and simply did the most naive thing; we think this is a promising area of research to improve adversarial robustness.
+
 
 
 
@@ -131,9 +139,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -152,7 +161,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -170,6 +180,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -178,8 +189,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -198,6 +209,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -225,3 +237,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![Heatmap titled “Many-shots attack on math,” showing attack success probability \(color scale from yellow to purple\) against attack length \(tokens\) and inference time compute.](https://images.ctfassets.net/kftzwdyauwt9/6EowQrzC4oreNSwKzq5n0q/5f55a2501515e47079b2d1bf26bfd064/Figure_A_Light.svg?w=3840&q=90)
+
+_A typical result in the paper: The Y axis is the amount of resources of the attacker, and the X axis is the amount of inference-time compute. We see that as the attacker’s resources grow, so does its success probability. But for every fixed amount of attacker’s resources, the probability of success decays as the model is spending more compute at inference time._
