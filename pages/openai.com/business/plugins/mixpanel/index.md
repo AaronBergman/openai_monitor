@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://mixpanel.com/home>)
 
-[![](https://files.openai.com/content?id=file_0000000078a0720cb09ada9b963d9ae2&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ea4dd34961af995dcdc8d19cde15c8a45f4b6d3fc566fb43c566071a6b7291ba&v=0)Mixpanel how many sign ups did we have in Feb?(opens in a new window)](<https://chatgpt.com/?prompt=%40Mixpanel+how+many+sign+ups+did+we+have+in+Feb%3F>)
+[![](https://files.openai.com/content?id=file_0000000078a0720cb09ada9b963d9ae2&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ea4dd34961af995dcdc8d19cde15c8a45f4b6d3fc566fb43c566071a6b7291ba&v=0)Mixpanel how many sign ups did we have in Feb?(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69b2e9aed45c8191b254b207dfcc2bb4?install&prompt=how%20many%20sign%20ups%20did%20we%20have%20in%20Feb%3F>)
 
 ## How it works
 
@@ -60,19 +60,19 @@ Query and analyze your Mixpanel data directly in ChatGPT. Run segmentation, funn
 
 ![](https://files.openai.com/content?id=file_0000000078a0720cb09ada9b963d9ae2&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ea4dd34961af995dcdc8d19cde15c8a45f4b6d3fc566fb43c566071a6b7291ba&v=0)Mixpanel Analyze the signup-to-activation funnel for the last 30 days. Compare drop-off by platform and acquisition channel, identify the biggest friction points, and recommend two follow-up investigations.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Mixpanel+Analyze+the+signup-to-activation+funnel+for+the+last+30+days.+Compare+drop-off+by+platform+and+acquisition+channel%2C+identify+the+biggest+friction+points%2C+and+recommend+two+follow-up+investigations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69b2e9aed45c8191b254b207dfcc2bb4?install&prompt=Analyze%20the%20signup-to-activation%20funnel%20for%20the%20last%2030%20days.%20Compare%20drop-off%20by%20platform%20and%20acquisition%20channel%2C%20identify%20the%20biggest%20friction%20points%2C%20and%20recommend%20two%20follow-up%20investigations.&surface=work>)
 
   * ### Compare user retention
 
 ![](https://files.openai.com/content?id=file_0000000078a0720cb09ada9b963d9ae2&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ea4dd34961af995dcdc8d19cde15c8a45f4b6d3fc566fb43c566071a6b7291ba&v=0)Mixpanel Compare weekly retention for signup cohorts from the last eight weeks. Break down the largest differences by platform, account for incomplete observation windows, and summarize which cohorts need attention.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Mixpanel+Compare+weekly+retention+for+signup+cohorts+from+the+last+eight+weeks.+Break+down+the+largest+differences+by+platform%2C+account+for+incomplete+observation+windows%2C+and+summarize+which+cohorts+need+attention.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69b2e9aed45c8191b254b207dfcc2bb4?install&prompt=Compare%20weekly%20retention%20for%20signup%20cohorts%20from%20the%20last%20eight%20weeks.%20Break%20down%20the%20largest%20differences%20by%20platform%2C%20account%20for%20incomplete%20observation%20windows%2C%20and%20summarize%20which%20cohorts%20need%20attention.&surface=work>)
 
   * ### Build a purchase dashboard
 
 ![](https://files.openai.com/content?id=file_0000000078a0720cb09ada9b963d9ae2&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ea4dd34961af995dcdc8d19cde15c8a45f4b6d3fc566fb43c566071a6b7291ba&v=0)Mixpanel Create a dashboard for weekly purchase activity over the last three months. Include purchase counts, revenue where tracked, and the checkout funnel, with notes defining each metric and highlighting recent changes.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Mixpanel+Create+a+dashboard+for+weekly+purchase+activity+over+the+last+three+months.+Include+purchase+counts%2C+revenue+where+tracked%2C+and+the+checkout+funnel%2C+with+notes+defining+each+metric+and+highlighting+recent+changes.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69b2e9aed45c8191b254b207dfcc2bb4?install&prompt=Create%20a%20dashboard%20for%20weekly%20purchase%20activity%20over%20the%20last%20three%20months.%20Include%20purchase%20counts%2C%20revenue%20where%20tracked%2C%20and%20the%20checkout%20funnel%2C%20with%20notes%20defining%20each%20metric%20and%20highlighting%20recent%20changes.&surface=work>)
 
 
 
@@ -87,11 +87,11 @@ Query and analyze your Mixpanel data directly in ChatGPT. Run segmentation, funn
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://mixpanel.com/contact-us/support/>)
+### [Plugin supportLearn more(opens in a new window)](<https://mixpanel.com/contact-us/support/>)
 
-### [Privacy policyLearn more](<https://mixpanel.com/legal/privacy-policy/>)
+### [Privacy policyLearn more(opens in a new window)](<https://mixpanel.com/legal/privacy-policy/>)
 
 ## Add the Mixpanel plugin in a few clicks
 
@@ -101,13 +101,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)AmplitudeSearch and analyze analytics data.](</business/plugins/amplitude/>)[![](https://files.openai.com/content?id=file_00000000dff871fd97ecd3e12034e065&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ba5b5cb9e8613449f77c1752691f4f467846a43b941dc1f29632cf788fd3c426&v=0)![](https://files.openai.com/content?id=file_00000000b5bc71fdb6d8dc0bdc786058&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=416aab41b7a94dcf98fc20d43b8d80a0c807853ab48379f20a984d6f6daa0b1a&v=0)PostHogAnalyze your product data](</business/plugins/posthog/>)[![](https://files.openai.com/content?id=file_000000007ee471f68631b7c4fb2ffa0a&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=7&sig=f39323d7fba4dba005497862549d9ff3191e0c24bc6700a2237bf3762d766f18&v=0)![](https://files.openai.com/content?id=file_00000000e2d871f68e451c2bb9f42a42&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=7&sig=3ba6e3e1b43a390e59ea926e37c54ea9438a2986c3edb670677ee8d4b26bfd24&v=0)StatsigConnect to Statsig](</business/plugins/statsig/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)![](https://files.openai.com/content?id=file_00000000dff471f588ea17f78eed1b4a&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=1&sig=06eddbb51a98c9ee74a1de3034ceb17a70d9c53ed5292fbf73a29439ad14d63b&v=0)AmplitudeSearch and analyze analytics data](</business/plugins/amplitude/>)[![](https://files.openai.com/content?id=file_00000000dff871fd97ecd3e12034e065&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=1&sig=ba5b5cb9e8613449f77c1752691f4f467846a43b941dc1f29632cf788fd3c426&v=0)![](https://files.openai.com/content?id=file_00000000b5bc71fdb6d8dc0bdc786058&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=416aab41b7a94dcf98fc20d43b8d80a0c807853ab48379f20a984d6f6daa0b1a&v=0)PostHogAnalyze your product data](</business/plugins/posthog/>)[![](https://files.openai.com/content?id=file_000000007ee471f68631b7c4fb2ffa0a&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=7&sig=f39323d7fba4dba005497862549d9ff3191e0c24bc6700a2237bf3762d766f18&v=0)![](https://files.openai.com/content?id=file_00000000e2d871f68e451c2bb9f42a42&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=7&sig=3ba6e3e1b43a390e59ea926e37c54ea9438a2986c3edb670677ee8d4b26bfd24&v=0)StatsigConnect to Statsig](</business/plugins/statsig/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -119,10 +129,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -141,7 +151,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -168,8 +179,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -188,6 +199,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

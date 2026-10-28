@@ -65,10 +65,15 @@ We’ve found that the biggest contributions at OpenAI come from cross-functiona
 On a typical learning day, people do things like:
 
   * Reimplement papers.
+
   * Follow deep learning tutorials.
+
   * Play with new tools in cluster management, compilation, virtual world generation, or coding paradigms.
+
   * Learn how to do research on bite-sized problems.
+
   * Read about new developments in seemingly unrelated areas of AI.
+
 
 
 
@@ -95,51 +100,77 @@ The following are examples of what people learn on a single Learning Day.
 #### **Deep learning reading**
 
   * “[Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules⁠(opens in a new window)](<https://arxiv.org/abs/1905.05393>)”
+
   * “[Learning Domain Randomization Distributions for Transfer of Locomotion Policies⁠(opens in a new window)](<https://arxiv.org/abs/1906.00410>)”
+
   * “[Neural Graph Evolution: Towards Efficient Automatic Robot DesignLearning to Learn with Probabilistic Task Embeddings⁠(opens in a new window)](<https://bair.berkeley.edu/blog/2019/06/10/pearl/>)”
+
   * “[Mid-Level Visual Representations Improve Generalization and Sample Efficiency for Learning Visuomotor Policies⁠(opens in a new window)](<http://perceptual.actor/assets/main_paper.pdf>)”
+
   * “[Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables⁠(opens in a new window)](<https://arxiv.org/abs/1903.08254>)”
+
   * “[Does computer vision matter for action?⁠(opens in a new window)](<https://arxiv.org/pdf/1905.12887.pdf>)”
+
   * “[WAIC, but Why? Generative Ensembles for Robust Anomaly Detection⁠(opens in a new window)](<https://arxiv.org/abs/1810.01392>)”
+
   * “[Weight Agnostic Neural Networks⁠(opens in a new window)](<https://arxiv.org/abs/1906.04358>)”
+
   * “[Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations⁠(opens in a new window)](<https://arxiv.org/abs/1811.12359>)”
+
   * [Deep unsupervised learning⁠(opens in a new window)](<https://sites.google.com/view/berkeley-cs294-158-sp19/home>)
+
   * [Deep RL Bootcamp⁠(opens in a new window)](<https://sites.google.com/view/deep-rl-bootcamp/lectures>)
+
 
 
 
 #### **Deep learning coding**
 
   * [ Reptile⁠](</index/reptile/>) and [MAML⁠(opens in a new window)](<https://arxiv.org/abs/1803.02999>)
+
   * Play with code in [JAX⁠(opens in a new window)](<https://github.com/google/jax>)
+
   * Apply [Sparse Transformers⁠(opens in a new window)](<https://github.com/openai/sparse_attention>) to vision tasks
+
   * Implement LSTM and transformer from scratch; train them on Penn treebank
+
   * Train a neural net to reproduce the behavior of a physical motor
+
 
 
 
 #### **Math and statistics**
 
   * [ Time Series Analysis⁠(opens in a new window)](<https://www.youtube.com/watch?v=uBeM1FUk4Ps&t=1606s>)
+
   * [_The Book of Why: The New Science of Cause and Effect_ ⁠(opens in a new window)](<https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X>)
+
 
 
 
 #### **Management**
 
   * [ _Thanks for the Feedback: The Science and Art of Receiving Feedback Well_ ⁠(opens in a new window)](<https://www.amazon.com/Thanks-Feedback-Science-Receiving-Well/dp/0670014664>)
+
   * [ _Change Your Questions, Change Your Life: 10 Powerful Tools for Life and Work_ ⁠(opens in a new window)](<https://www.amazon.com/Change-Your-Questions-Life-Institute/dp/1576756009>)
+
 
 
 
 #### **Historical context on powerful technologies**
 
   * [ _Dark Territory: The Secret History of Cyber War_ ⁠(opens in a new window)](<https://www.amazon.com/Dark-Territory-Secret-History-Cyber/dp/1476763267>)
+
   * [_The Hacked World Order: How Nations Fight, Trade, Maneuver, and Manipulate in the Digital Age_ ⁠(opens in a new window)](<https://www.amazon.com/Hacked-World-Order-Maneuver-Manipulate/dp/1469065894>)
+
   * [_Technology Transfer to the USSR, 1928–1937 and 1966–1975: The Role of Western Technology in Soviet Economic Development_ ⁠(opens in a new window)](<https://www.amazon.com/Technology-Transfer-USSR-1928-1937-1966-1975-ebook/dp/B07TKDR9Q2>)
+
   * [_The Turing Test: Verbal Behavior as the Hallmark of Intelligence_ ⁠(opens in a new window)](<https://www.amazon.com/Turing-Test-Behavior-Hallmark-Intelligence/dp/0262692937>)
+
   * [_The Information: A History, A Theory, A Flood_ ⁠(opens in a new window)](<https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235>)
+
   * [_Radical Markets: Uprooting Capitalism and Democracy for a Just Society_ ⁠(opens in a new window)](<http://radicalmarkets.com/>)
+
 
 
 
@@ -175,7 +206,7 @@ OpenAI
 
 [View all](</news/>)
 
-![city](https://images.ctfassets.net/kftzwdyauwt9/5Wm11GSMw6U7lLDKdcyuUY/3180687ca07ba934009f3c2b9219c10c/city.webp?w=3840&q=90&fm=webp)
+![Abstract image with warm tones and geometric shapes reminiscent of a sunset over a stylized city skyline.](https://images.ctfassets.net/kftzwdyauwt9/5Wm11GSMw6U7lLDKdcyuUY/3180687ca07ba934009f3c2b9219c10c/city.webp?w=3840&q=90&fm=webp)
 
 [Introducing OpenAI LondonCompanyJun 28, 2023](</index/introducing-openai-london/>)
 
@@ -183,7 +214,7 @@ OpenAI
 
 [The power of continuous learningCompanyDec 23, 2022](</index/the-power-of-continuous-learning/>)
 
-![Person gazing across the room with an optimistic expression](https://images.ctfassets.net/kftzwdyauwt9/21098b49-868d-4515-ca433071d782/838b1914602aaba2e3d935b70d1fa11b/stangel-2022-0795.jpg?w=3840&q=90&fm=webp)
+![Headshot of a smiling person with glasses looking to the side against a concrete background.](https://images.ctfassets.net/kftzwdyauwt9/21098b49-868d-4515-ca433071d782/838b1914602aaba2e3d935b70d1fa11b/stangel-2022-0795.jpg?w=3840&q=90&fm=webp)
 
 [Discovering the minutiae of backend systemsCompanyDec 8, 2022](</index/discovering-the-minutiae-of-backend-systems/>)
 
@@ -197,9 +228,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -218,7 +250,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -236,6 +269,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -244,8 +278,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -264,6 +298,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

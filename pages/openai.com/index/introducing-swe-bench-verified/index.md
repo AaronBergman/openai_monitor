@@ -91,8 +91,11 @@ A proposed edit is evaluated by running both the `FAIL_TO_PASS` and `PASS_TO_PAS
 Given the potential relevance of SWE-bench for the Preparedness Framework, we aimed to find ways in which we could improve the robustness and reliability of the benchmark. We identified three major areas for improvement2: 
 
   1. The unit tests used to evaluate the correctness of a solution are often overly specific, and in some cases are even unrelated to the issue. This potentially causes correct solutions to be rejected. 
+
   2. Many samples have an issue description that is underspecified, leading to ambiguity on what the problem is and how it should be solved.
+
   3. It is sometimes difficult to reliably set up the SWE-bench development environments for the agents, inadvertently causing unit tests to fail regardless of the solution. In such cases, perfectly valid solutions might be graded as incorrect.
+
 
 
 
@@ -231,7 +234,9 @@ We worked with 93 software developers experienced in Python to manually screen S
 We annotate samples to capture:
 
   * Whether we consider the issue description to be underspecified and hence unfair to be testing on.
+
   * Whether the `FAIL_TO_PASS` unit tests filter out valid solutions.
+
 
 
 
@@ -422,10 +427,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -444,7 +449,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -462,6 +468,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -470,8 +477,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -490,6 +497,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

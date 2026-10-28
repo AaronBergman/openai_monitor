@@ -32,7 +32,7 @@ OpenAI
 
 # Sider Scholar
 
-Search 350M+ Paper. Save. Chat
+Search Papers & Research
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6948b485f5bc8191adb4df13f369cec7>)[Contact sales](</contact-sales/>)
 
@@ -45,31 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://sider.ai/wisebase/scholar-research>)
 
-[![](https://files.openai.com/content?id=file_00000000aeb071f68c578d1acc629d05&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=05b844e098b8ca6b0d1794b152f2d94c15c0cf9829ae6ff0c57a19ab9a5abe90)![](https://files.openai.com/content?id=file_00000000aeb071f68c578d1acc629d05&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=05b844e098b8ca6b0d1794b152f2d94c15c0cf9829ae6ff0c57a19ab9a5abe90)Sider Scholar Sider Scholar Search for recent papers on LLM alignment.(opens in a new window)](<https://chatgpt.com/?prompt=%40Sider+Scholar+Sider+Scholar+Search+for+recent+papers+on+LLM+alignment.>)
+[![](https://files.openai.com/content?id=file_000000000404823095d2fffb225559b0&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=229ca1dc40b8f14c6cbc65a32f70a3f095d9fe9b7a356ffe85301794b6c9bc00&v=0)Sider Scholar Search recent papers on LLM alignment.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6948b485f5bc8191adb4df13f369cec7?install&prompt=Search%20recent%20papers%20on%20LLM%20alignment.>)
 
 ## How it works
 
-Your AI Research Assistant lets you search 350M+ research papers, chat with large volumes of research PDFs, and save findings to your Wisebase (knowledge base). 1\. Global Academic Search (Search & Read) \- Major Sources: Search 350M+ papers from Google Scholar, PubMed, arXiv, and more. \- Read Instantly: Access full papers instantly to verify findings. 2\. Build Your Knowledge Base (Save & Collect) \- Save for Continuous Research: Save searched papers to Wisebase for continuous questioning and deep analysis of your findings. \- Save Chat History: Save key research discussions as editable documents to capture and refine insights. 3\. Unified Knowledge Analysis (Agentic RAG) \- Chat with Your Collection: Analyze your entire collection simultaneously. \- Traceable Sources: Get grounded answers with precise Reference Indices to verify every claim. 4\. Visual Knowledge Organization (Visualize & Explore) \- Knowledge Graphing: Instantly generate interactive graphs from any paper to explore definitions, cause-and-effect links, and concept hierarchies. Ideal Use Cases: For researchers, PhD students, and academics who need to access massive academic sources and synthesize grounded arguments with precise citations. How to Use in ChatGPT 1\. Connect App: Connect Sider Scholar to ChatGPT. 2\. Trigger: Type “@Sider Scholar". Sample Prompts \- Search Paper: “@Sider Scholar Search recent papers on 'LLM alignment' published in the last two years.” \- Chat with Knowledge Base: “@Sider Scholar Answer questions about 'CRISPR gene editing' using my Knowledge Base.” \- Visual Research: “@Sider Scholar Build a Knowledge Graph explaining key concepts in 'Reinforcement Learning'.”
+Search scholarly literature, read papers, save findings, and organize research in Wisebase.
 
 ## What else can you do?
 
   * ### Build an evidence table
 
-![](https://files.openai.com/content?id=file_00000000aeb071f68c578d1acc629d05&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=05b844e098b8ca6b0d1794b152f2d94c15c0cf9829ae6ff0c57a19ab9a5abe90)![](https://files.openai.com/content?id=file_00000000aeb071f68c578d1acc629d05&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=05b844e098b8ca6b0d1794b152f2d94c15c0cf9829ae6ff0c57a19ab9a5abe90)Sider Scholar Find recent research on this question and compare the methods, findings, and limitations in a table. Include source links and distinguish full-text evidence from abstracts.
+![](https://files.openai.com/content?id=file_000000000404823095d2fffb225559b0&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=229ca1dc40b8f14c6cbc65a32f70a3f095d9fe9b7a356ffe85301794b6c9bc00&v=0)Sider Scholar Find recent research on this question and compare the methods, findings, and limitations in a table. Include source links and distinguish full-text evidence from abstracts.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Sider+Scholar+Find+recent+research+on+this+question+and+compare+the+methods%2C+findings%2C+and+limitations+in+a+table.+Include+source+links+and+distinguish+full-text+evidence+from+abstracts.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6948b485f5bc8191adb4df13f369cec7?install&prompt=Find%20recent%20research%20on%20this%20question%20and%20compare%20the%20methods%2C%20findings%2C%20and%20limitations%20in%20a%20table.%20Include%20source%20links%20and%20distinguish%20full-text%20evidence%20from%20abstracts.&surface=work>)
 
   * ### Scope a literature review
 
-![](https://files.openai.com/content?id=file_00000000aeb071f68c578d1acc629d05&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=05b844e098b8ca6b0d1794b152f2d94c15c0cf9829ae6ff0c57a19ab9a5abe90)![](https://files.openai.com/content?id=file_00000000aeb071f68c578d1acc629d05&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=05b844e098b8ca6b0d1794b152f2d94c15c0cf9829ae6ff0c57a19ab9a5abe90)Sider Scholar Search for research addressing this R&D question. Propose a focused reading list, explain each paper's relevance, and identify gaps that need further investigation.
+![](https://files.openai.com/content?id=file_000000000404823095d2fffb225559b0&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=229ca1dc40b8f14c6cbc65a32f70a3f095d9fe9b7a356ffe85301794b6c9bc00&v=0)Sider Scholar Search for research addressing this R&D question. Propose a focused reading list, explain each paper's relevance, and identify gaps that need further investigation.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Sider+Scholar+Search+for+research+addressing+this+R%26D+question.+Propose+a+focused+reading+list%2C+explain+each+paper%27s+relevance%2C+and+identify+gaps+that+need+further+investigation.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6948b485f5bc8191adb4df13f369cec7?install&prompt=Search%20for%20research%20addressing%20this%20R%26D%20question.%20Propose%20a%20focused%20reading%20list%2C%20explain%20each%20paper's%20relevance%2C%20and%20identify%20gaps%20that%20need%20further%20investigation.&surface=work>)
 
   * ### Compare research findings
 
-![](https://files.openai.com/content?id=file_00000000aeb071f68c578d1acc629d05&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=05b844e098b8ca6b0d1794b152f2d94c15c0cf9829ae6ff0c57a19ab9a5abe90)![](https://files.openai.com/content?id=file_00000000aeb071f68c578d1acc629d05&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=05b844e098b8ca6b0d1794b152f2d94c15c0cf9829ae6ff0c57a19ab9a5abe90)Sider Scholar Compare the studies on this topic, separating consistent findings from disagreements. Explain methodological differences where documented and cite each source.
+![](https://files.openai.com/content?id=file_000000000404823095d2fffb225559b0&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=229ca1dc40b8f14c6cbc65a32f70a3f095d9fe9b7a356ffe85301794b6c9bc00&v=0)Sider Scholar Compare the studies on this topic, separating consistent findings from disagreements. Explain methodological differences where documented and cite each source.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Sider+Scholar+Compare+the+studies+on+this+topic%2C+separating+consistent+findings+from+disagreements.+Explain+methodological+differences+where+documented+and+cite+each+source.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6948b485f5bc8191adb4df13f369cec7?install&prompt=Compare%20the%20studies%20on%20this%20topic%2C%20separating%20consistent%20findings%20from%20disagreements.%20Explain%20methodological%20differences%20where%20documented%20and%20cite%20each%20source.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Your AI Research Assistant lets you search 350M+ research papers, chat with larg
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://sider.ai/help-center>)
+### [Plugin supportLearn more(opens in a new window)](<https://sider.ai/help-center>)
 
-### [Privacy policyLearn more](<https://sider.ai/policies/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://sider.ai/policies/privacy>)
 
 ## Add the Sider Scholar plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000009080720c98a45b9cd6ee083f&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=8934eb25d96bba2bfd29b97de3ed875d8caa4e7e17c1b48e28843cc9423b10a9&v=0)![](https://files.openai.com/content?id=file_00000000c9bc81f7b98a27c81cc57bd7&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f14586e5e1c0907518a48f23fe94ffc19b99c728d987e8dab9ba8dd5111e4f94&v=0)BioRenderFind and create figures](</business/plugins/biorender/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)[![](https://files.openai.com/content?id=file_00000000b5d471f5b4fe2bdb43f0ba33&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=20e8fa203ddff0cc1c1dae090b410d5517560a1710adb9847e702801250490bd&v=0)![](https://files.openai.com/content?id=file_00000000b5d471f5b4fe2bdb43f0ba33&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=20e8fa203ddff0cc1c1dae090b410d5517560a1710adb9847e702801250490bd&v=0)ZoteroFind papers and add citations from Zotero](</business/plugins/zotero/>)[![](https://files.openai.com/content?id=file_00000000c0cc71f7abb7f7391ab3a82e&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=7&sig=b6e77796fb1bb97255e82c76279c4818bc08fc16b04153e3105fd6328952321e&v=0)![](https://files.openai.com/content?id=file_00000000f3f071f78b9667c3a41d9958&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=7&sig=07dce48b78a17f0fc86ea357f5e95241ffb5e140802c4b1afe2eea1f9077bea9&v=0)ConsensusExplore scientific research](</business/plugins/consensus/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000009080720c98a45b9cd6ee083f&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=8934eb25d96bba2bfd29b97de3ed875d8caa4e7e17c1b48e28843cc9423b10a9&v=0)![](https://files.openai.com/content?id=file_00000000c9bc81f7b98a27c81cc57bd7&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f14586e5e1c0907518a48f23fe94ffc19b99c728d987e8dab9ba8dd5111e4f94&v=0)BioRenderFind and create figures](</business/plugins/biorender/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)[![](https://files.openai.com/content?id=file_00000000b5d471f5b4fe2bdb43f0ba33&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=20e8fa203ddff0cc1c1dae090b410d5517560a1710adb9847e702801250490bd&v=0)![](https://files.openai.com/content?id=file_00000000b5d471f5b4fe2bdb43f0ba33&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=20e8fa203ddff0cc1c1dae090b410d5517560a1710adb9847e702801250490bd&v=0)ZoteroFind papers and add citations from Zotero](</business/plugins/zotero/>)[![](https://files.openai.com/content?id=file_00000000c0cc71f7abb7f7391ab3a82e&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=7&sig=b6e77796fb1bb97255e82c76279c4818bc08fc16b04153e3105fd6328952321e&v=0)![](https://files.openai.com/content?id=file_00000000f3f071f78b9667c3a41d9958&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=7&sig=07dce48b78a17f0fc86ea357f5e95241ffb5e140802c4b1afe2eea1f9077bea9&v=0)ConsensusSearch peer-reviewed research](</business/plugins/consensus/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

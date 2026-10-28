@@ -35,8 +35,11 @@ If you are interested in beta testing Aardvark, tell us about your team and envi
 Requirements to join the beta:
 
   * **GitHub Cloud integration.** Aardvark currently uses the GitHub Cloud API (github.com) for the initial beta. If your team doesn’t use GitHub today, you won’t be able to join this beta.
+
   * **Measurement & feedback commitment.** You agree to use and interact with the Aardvark platform during the term of the beta and provide qualitative feedback.
+
   * **Policy compliance.** You are willing to abide by OpenAI’s terms of service, product policies and beta agreement.
+
 
 
 
@@ -46,7 +49,7 @@ Organization name *
 
 OpenAI OrgID *
 
-[Click here](<https://platform.openai.com/settings/organization/general>) to find yours
+[Click here(opens in a new window)](<https://platform.openai.com/settings/organization/general>) to find yours
 
 Organization type *
 
@@ -108,7 +111,7 @@ No
 
 Why do you want to pilot Aardvark? (max 300 characters) *
 
-Information submitted to us via this form will be handled in accordance with OpenAI’s [Privacy Policy](</policies/privacy-policy/>).  
+Information submitted to us via this form will be handled in accordance with OpenAI’s [Privacy Policy(opens in a new window)](</policies/privacy-policy/>).  
   
 In order to access Aardvark, we require that your organization enter into our Beta Agreement & Data Policy, which will be shared upon selection for the beta program. OpenAI will not train our models on your code shared in the beta program.
 
@@ -124,9 +127,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -145,7 +149,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -163,6 +168,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -171,8 +177,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -191,6 +197,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

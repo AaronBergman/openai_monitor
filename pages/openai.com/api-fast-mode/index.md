@@ -44,9 +44,11 @@ _Note: Priority processing was renamed Fast mode on July 30, 2026. You can use e
 |  Short context| Long context| Uptime SLA3| Latency SLA3  
 ---|---|---|---|---  
 Price per 1M input tokens| Price per 1M input tokens (cached)| Price per 1M output tokens| Price per 1M input tokens| Price per 1M input tokens (cached)| Price per 1M output tokens  
-GPT-6 Astra| $20.00| $2.00| $100.00| $40.00| $4.00| $150.00| —| —  
-GPT-6 Sol| $4.00| $0.40| $20.00| $8.00| $0.80| $30.00| —| —  
-GPT-6 Luna| $0.20| $0.02| $1.00| $0.40| $0.04| $1.50| —| —  
+GPT-6 Astra| $20.00| $2.00| $100.00| $40.00| $4.00| $150.00| 99.9%| —  
+GPT-6.1 Sol| $4.00| $0.20| $20.00| $8.00| $0.40| $30.00| 99.9%| —  
+GPT-6.1 Terra| $2.00| $0.10| $10.00| $4.00| $0.20| $15.00| 99.9%| —  
+GPT-6 Sol| $4.00| $0.40| $20.00| $8.00| $0.80| $30.00| 99.9%| —  
+GPT-6 Luna| $0.20| $0.02| $1.00| $0.40| $0.04| $1.50| 99.9%| —  
 GPT-5.6 Sol| $8.00| $0.80| $40.00| $16.00| $1.60| $60.00| 99.9%| 99% > 80 tokens per second2  
 GPT-5.6 Terra| $4.00| $0.40| $24.00| $8.00| $0.80| $36.00| 99.9%| 99% > 70 tokens per second2  
 GPT-5.6 Luna| $0.40| $0.04| $2.40| $0.80| $0.08| $3.60| 99.9%| 99% > 100 tokens per second2  
@@ -113,10 +115,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -135,7 +137,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -162,8 +165,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -182,6 +185,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
