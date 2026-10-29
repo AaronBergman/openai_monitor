@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://slidesgpt.com>)
 
-[![](https://files.openai.com/content?id=file_000000005bbc71f69de40800dfc35440&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=3c0cacb5216e11f063549d9fba7c268e9545f4b90c5c0b6665b8be10779c2304&v=0)![](https://files.openai.com/content?id=file_000000005bbc71f69de40800dfc35440&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=3c0cacb5216e11f063549d9fba7c268e9545f4b90c5c0b6665b8be10779c2304&v=0)Agentic Slides by SlidesGPT Create a slide about the benefits of renewable energy.(opens in a new window)](<https://chatgpt.com/?prompt=%40Agentic+Slides+by+SlidesGPT+Create+a+slide+about+the+benefits+of+renewable+energy.>)
+[![](https://files.openai.com/content?id=file_000000005bbc71f69de40800dfc35440&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=3c0cacb5216e11f063549d9fba7c268e9545f4b90c5c0b6665b8be10779c2304&v=0)![](https://files.openai.com/content?id=file_000000005bbc71f69de40800dfc35440&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=3c0cacb5216e11f063549d9fba7c268e9545f4b90c5c0b6665b8be10779c2304&v=0)Agentic Slides by SlidesGPT Create a slide about the benefits of renewable energy.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_695bd06f20d88191b873f501a7dd6620?install&prompt=Create%20a%20slide%20about%20the%20benefits%20of%20renewable%20energy.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Use SlidesGPT to generate presentations with AI. First, name a topic that the pr
 
 ![](https://files.openai.com/content?id=file_000000005bbc71f69de40800dfc35440&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=3c0cacb5216e11f063549d9fba7c268e9545f4b90c5c0b6665b8be10779c2304&v=0)![](https://files.openai.com/content?id=file_000000005bbc71f69de40800dfc35440&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=3c0cacb5216e11f063549d9fba7c268e9545f4b90c5c0b6665b8be10779c2304&v=0)Agentic Slides by SlidesGPT Create a six-slide presentation from this report. Lead with the decision needed, show the supporting evidence, and end with risks and next steps.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Agentic+Slides+by+SlidesGPT+Create+a+six-slide+presentation+from+this+report.+Lead+with+the+decision+needed%2C+show+the+supporting+evidence%2C+and+end+with+risks+and+next+steps.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_695bd06f20d88191b873f501a7dd6620?install&prompt=Create%20a%20six-slide%20presentation%20from%20this%20report.%20Lead%20with%20the%20decision%20needed%2C%20show%20the%20supporting%20evidence%2C%20and%20end%20with%20risks%20and%20next%20steps.&surface=work>)
 
   * ### Present a project proposal
 
 ![](https://files.openai.com/content?id=file_000000005bbc71f69de40800dfc35440&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=3c0cacb5216e11f063549d9fba7c268e9545f4b90c5c0b6665b8be10779c2304&v=0)![](https://files.openai.com/content?id=file_000000005bbc71f69de40800dfc35440&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=3c0cacb5216e11f063549d9fba7c268e9545f4b90c5c0b6665b8be10779c2304&v=0)Agentic Slides by SlidesGPT Turn this project brief into a five-slide proposal covering the problem, options, recommendation, timeline, and open decisions. Use only supplied facts.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Agentic+Slides+by+SlidesGPT+Turn+this+project+brief+into+a+five-slide+proposal+covering+the+problem%2C+options%2C+recommendation%2C+timeline%2C+and+open+decisions.+Use+only+supplied+facts.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_695bd06f20d88191b873f501a7dd6620?install&prompt=Turn%20this%20project%20brief%20into%20a%20five-slide%20proposal%20covering%20the%20problem%2C%20options%2C%20recommendation%2C%20timeline%2C%20and%20open%20decisions.%20Use%20only%20supplied%20facts.&surface=work>)
 
   * ### Prepare a training deck
 
 ![](https://files.openai.com/content?id=file_000000005bbc71f69de40800dfc35440&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=3c0cacb5216e11f063549d9fba7c268e9545f4b90c5c0b6665b8be10779c2304&v=0)![](https://files.openai.com/content?id=file_000000005bbc71f69de40800dfc35440&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=3c0cacb5216e11f063549d9fba7c268e9545f4b90c5c0b6665b8be10779c2304&v=0)Agentic Slides by SlidesGPT Create an eight-slide training presentation from this process document. Include a worked example and a final knowledge check, and define unfamiliar terms.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Agentic+Slides+by+SlidesGPT+Create+an+eight-slide+training+presentation+from+this+process+document.+Include+a+worked+example+and+a+final+knowledge+check%2C+and+define+unfamiliar+terms.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_695bd06f20d88191b873f501a7dd6620?install&prompt=Create%20an%20eight-slide%20training%20presentation%20from%20this%20process%20document.%20Include%20a%20worked%20example%20and%20a%20final%20knowledge%20check%2C%20and%20define%20unfamiliar%20terms.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Use SlidesGPT to generate presentations with AI. First, name a topic that the pr
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://team@slidesgpt.com>)
+### [Plugin supportLearn more(opens in a new window)](<https://team@slidesgpt.com>)
 
-### [Privacy policyLearn more](<https://slidesgpt.com/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://slidesgpt.com/privacy>)
 
 ## Add the Agentic Slides by SlidesGPT plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages.](</business/plugins/slack/>)
+[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages](</business/plugins/slack/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

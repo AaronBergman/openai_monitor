@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://legalquants.com>)
 
-[![](https://files.openai.com/content?id=file_0000000012d881f699ced32c30041c21&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=48a3694868be0061a0914e166ba0071ff5a39ea717481abb696d34f92cc245fb&v=0)The LegalQuants Companion I don't know what to type.(opens in a new window)](<https://chatgpt.com/?prompt=%40The+LegalQuants+Companion+I+don%27t+know+what+to+type.>)
+[![](https://files.openai.com/content?id=file_0000000012d881f699ced32c30041c21&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=48a3694868be0061a0914e166ba0071ff5a39ea717481abb696d34f92cc245fb&v=0)The LegalQuants Companion I don't know what to type.(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa11d9434f4819189f3ca4fd2154fe8?install&prompt=I%20don't%20know%20what%20to%20type.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Your journey with AI as a lawyer — ask, assess, reflect, apply, connect.
 
 ![](https://files.openai.com/content?id=file_0000000012d881f699ced32c30041c21&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=48a3694868be0061a0914e166ba0071ff5a39ea717481abb696d34f92cc245fb&v=0)The LegalQuants Companion Assess me. Where am I with AI as a lawyer?
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40The+LegalQuants+Companion+Assess+me.+Where+am+I+with+AI+as+a+lawyer%3F>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa11d9434f4819189f3ca4fd2154fe8?install&prompt=Assess%20me.%20Where%20am%20I%20with%20AI%20as%20a%20lawyer%3F&surface=work>)
 
   * ### Shape your first AI assignment
 
 ![](https://files.openai.com/content?id=file_0000000012d881f699ced32c30041c21&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=48a3694868be0061a0914e166ba0071ff5a39ea717481abb696d34f92cc245fb&v=0)The LegalQuants Companion Help me choose a bounded task from my legal practice to try with AI. Ask about the work, available materials, and constraints, then draft an assignment with a clear outcome and review criteria.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40The+LegalQuants+Companion+Help+me+choose+a+bounded+task+from+my+legal+practice+to+try+with+AI.+Ask+about+the+work%2C+available+materials%2C+and+constraints%2C+then+draft+an+assignment+with+a+clear+outcome+and+review+criteria.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa11d9434f4819189f3ca4fd2154fe8?install&prompt=Help%20me%20choose%20a%20bounded%20task%20from%20my%20legal%20practice%20to%20try%20with%20AI.%20Ask%20about%20the%20work%2C%20available%20materials%2C%20and%20constraints%2C%20then%20draft%20an%20assignment%20with%20a%20clear%20outcome%20and%20review%20criteria.&surface=work>)
 
   * ### Reflect on an AI workflow
 
 ![](https://files.openai.com/content?id=file_0000000012d881f699ced32c30041c21&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=48a3694868be0061a0914e166ba0071ff5a39ea717481abb696d34f92cc245fb&v=0)The LegalQuants Companion Help me debrief a recent legal task I completed with AI. Ask what I tried and how I checked the result, identify what worked and what needs improvement, and suggest one change for next time.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40The+LegalQuants+Companion+Help+me+debrief+a+recent+legal+task+I+completed+with+AI.+Ask+what+I+tried+and+how+I+checked+the+result%2C+identify+what+worked+and+what+needs+improvement%2C+and+suggest+one+change+for+next+time.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa11d9434f4819189f3ca4fd2154fe8?install&prompt=Help%20me%20debrief%20a%20recent%20legal%20task%20I%20completed%20with%20AI.%20Ask%20what%20I%20tried%20and%20how%20I%20checked%20the%20result%2C%20identify%20what%20worked%20and%20what%20needs%20improvement%2C%20and%20suggest%20one%20change%20for%20next%20time.&surface=work>)
 
 
 
@@ -91,11 +91,11 @@ Your journey with AI as a lawyer — ask, assess, reflect, apply, connect.
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
-### [Privacy policyLearn more](<https://legalquants.com/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://legalquants.com/privacy>)
 
 ## Add the The LegalQuants Companion plugin in a few clicks
 
@@ -105,13 +105,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_0000000059c071f699aa0c9a6126c1c4&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=1&sig=6e5be95a764660ee3463d1b811628737b39c8feb9242e69935259319bef3af30)![](https://files.openai.com/content?id=file_000000008b2c7230a31b920a76e70872&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=2bdadb33af1218faa1cacc80584b8b39b47e59bf54ffb2c3e98db379f36a892d&v=0)OpenAI CertifiedComplete structured AI skills courses with applied practice and certificates.](</business/plugins/openai-certified/>)[![](https://files.openai.com/content?id=file_0000000039e481f5b9f0a73943313467&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=c4c1862b7a78a8a9e2b0dcd4088169869b3dd0e3e39d86b15016dbc680cc05f7&v=0)![](https://files.openai.com/content?id=file_0000000039e481f5b9f0a73943313467&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=c4c1862b7a78a8a9e2b0dcd4088169869b3dd0e3e39d86b15016dbc680cc05f7&v=0)LegalQuants LitigationWorkflows for litigators](</business/plugins/legalquants-litigation/>)[![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)LegalQuants TransactionalContract and deal workflows](</business/plugins/legalquants-transactional/>)[![](https://files.openai.com/content?id=file_0000000033ec81f6a5077baa2c492e08&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3fc3f532d061de604b2bee6605c591e9ea8b4b532b4f90c3be4c357147560563&v=0)![](https://files.openai.com/content?id=file_0000000033ec81f6a5077baa2c492e08&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3fc3f532d061de604b2bee6605c591e9ea8b4b532b4f90c3be4c357147560563&v=0)CourtListenerLegal research for everyone](</business/plugins/courtlistener/>)[![](https://files.openai.com/content?id=file_0000000042e881fc8502e92a53b8fd86&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=f4e663b3c13ed42309372692978d68c9992ccae23344891eff34ae04f405f1d0&v=0)![](https://files.openai.com/content?id=file_00000000c80081fca8e45ede41ed8a8c&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=fb3482bba45e61188e4761af9435dac63756daa149266208a8270577a773f367&v=0)LegoraLegal research with citations](</business/plugins/legora/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages.](</business/plugins/notion/>)
+[![](https://files.openai.com/content?id=file_0000000059c071f699aa0c9a6126c1c4&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=1&sig=6e5be95a764660ee3463d1b811628737b39c8feb9242e69935259319bef3af30)![](https://files.openai.com/content?id=file_000000008b2c7230a31b920a76e70872&cdn=1&cp=pi&ma=32227200&ts=0&p=pi&cid=1&sig=2bdadb33af1218faa1cacc80584b8b39b47e59bf54ffb2c3e98db379f36a892d&v=0)OpenAI CertifiedLearn practical AI skills inside ChatGPT and earn OpenAI Certified credentials.](</business/plugins/openai-certified/>)[![](https://files.openai.com/content?id=file_0000000039e481f5b9f0a73943313467&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=c4c1862b7a78a8a9e2b0dcd4088169869b3dd0e3e39d86b15016dbc680cc05f7&v=0)![](https://files.openai.com/content?id=file_0000000039e481f5b9f0a73943313467&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=c4c1862b7a78a8a9e2b0dcd4088169869b3dd0e3e39d86b15016dbc680cc05f7&v=0)LegalQuants LitigationWorkflows for litigators](</business/plugins/legalquants-litigation/>)[![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)LegalQuants TransactionalContract and deal workflows](</business/plugins/legalquants-transactional/>)[![](https://files.openai.com/content?id=file_0000000033ec81f6a5077baa2c492e08&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3fc3f532d061de604b2bee6605c591e9ea8b4b532b4f90c3be4c357147560563&v=0)![](https://files.openai.com/content?id=file_0000000033ec81f6a5077baa2c492e08&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3fc3f532d061de604b2bee6605c591e9ea8b4b532b4f90c3be4c357147560563&v=0)CourtListenerLegal research for everyone](</business/plugins/courtlistener/>)[![](https://files.openai.com/content?id=file_0000000042e881fc8502e92a53b8fd86&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=f4e663b3c13ed42309372692978d68c9992ccae23344891eff34ae04f405f1d0&v=0)![](https://files.openai.com/content?id=file_00000000c80081fca8e45ede41ed8a8c&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=fb3482bba45e61188e4761af9435dac63756daa149266208a8270577a773f367&v=0)LegoraLegal research with citations](</business/plugins/legora/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages](</business/plugins/notion/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -123,10 +133,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -145,7 +155,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -172,8 +183,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -192,6 +203,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -105,17 +105,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Paul Christiano joins OpenAI Foundation Board — card](https://images.ctfassets.net/kftzwdyauwt9/4PcDbhz75I70TjyGat7oHl/598dd1e865018860c3591cb95c9bc72e/paul-christiano-joins-openai-foundation-board--cover-v001.png?w=3840&q=90&fm=webp)
+![OpenAI and ServiceNow expand partnership across enterprise workflows, software development and security — Cover](https://images.ctfassets.net/kftzwdyauwt9/i2nR5RpyJ2Iz1XrsQX3Gm/edcbc52f12d4aff29b80aa36bb67f0fe/openai-servicenow-partnership-expansion-cover.png?w=3840&q=90&fm=webp)
 
-[Paul Christiano joins OpenAI Foundation BoardCompanySep 9, 2026](</index/paul-christiano-joins-openai-foundation-board/>)
+[OpenAI and ServiceNow expand partnership across enterprise workflowsCompanyOct 28, 2026](</index/openai-servicenow-partnership-expansion/>)
 
-![The Work Now Within Reach — clean cover](https://images.ctfassets.net/kftzwdyauwt9/5iHLTPM4ZhKe4dAwOPfpy2/347b9d804542685bb13dbb63e985d91e/c3f562e2b08a0bfc.png?w=3840&q=90&fm=webp)
+![OpenAI expands partnership with Oracle to bring its apps to ChatGPT — Cover](https://images.ctfassets.net/kftzwdyauwt9/1rEHkDRZ1mqyO5gnyVU4CE/4311739367a7b7e322d07b62ff3c1836/openai-oracle-apps-chatgpt-blue-art-card-1080x1080.png?w=3840&q=90&fm=webp)
 
-[The Work Now Within ReachCompanySep 8, 2026](</index/the-work-now-within-reach/>)
+[OpenAI expands partnership with Oracle to bring its apps to ChatGPTCompanyOct 27, 2026](</index/oracle-apps-in-chatgpt/>)
 
-![Supporting journalism from classrooms to newsrooms — listing card](https://images.ctfassets.net/kftzwdyauwt9/2uvvRNdvFkdWWXNtANgtAF/36e0f8b6a0c35abf88eec71519823409/Option_70___1080_1080.png?w=3840&q=90&fm=webp)
+![Uber brings ChatGPT Work to all employees — cover](https://images.ctfassets.net/kftzwdyauwt9/30Y90LyD1QsbcsXhgLcbqH/7a9226e0bf6e06c7309a2b322e729a84/uber-brings-chatgpt-work-to-all-employees-cover.png?w=3840&q=90&fm=webp)
 
-[Supporting journalism from classrooms to newsroomsCompanySep 8, 2026](</index/supporting-journalism-from-classrooms-to-newsrooms/>)
+[Uber brings ChatGPT Work to all employees with OpenAICompanyOct 22, 2026](</index/uber-chatgpt-work-rollout/>)
 
 Research
 
@@ -127,10 +127,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -149,7 +149,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -167,6 +168,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -175,8 +177,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -195,6 +197,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

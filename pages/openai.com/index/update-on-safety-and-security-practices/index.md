@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-1\. Establishing Independent Governance for Safety & Security 
-
-  * 1\. Establishing Independent Governance for Safety & Security 
-  * 2\. Enhancing Security Measures
-  * 3\. Being Transparent About Our Work
-  * 4\. Collaborating with External Organizations
-  * 5\. Unifying Our Safety Frameworks for Model Development and Monitoring
-
-
-
 September 16, 2024
 
 [Safety](</news/safety-alignment/>)
@@ -50,15 +40,38 @@ Loading…
 
 Share
 
+1\. Establishing Independent Governance for Safety & Security 
+
+  * 1\. Establishing Independent Governance for Safety & Security 
+  * 2\. Enhancing Security Measures
+  * 3\. Being Transparent About Our Work
+  * 4\. Collaborating with External Organizations
+  * 5\. Unifying Our Safety Frameworks for Model Development and Monitoring
+
+
+
+  * 1\. Establishing Independent Governance for Safety & Security 
+  * 2\. Enhancing Security Measures
+  * 3\. Being Transparent About Our Work
+  * 4\. Collaborating with External Organizations
+  * 5\. Unifying Our Safety Frameworks for Model Development and Monitoring
+
+
+
 We established the Safety and Security Committee to make recommendations on critical safety and security decisions as OpenAI models reach each new level of capability and continue solving hard problems for people around the world. As one of its initial mandates, the [_Safety and Security Committee conducted a 90-day review_ ⁠](<https://openai.com/index/openai-board-forms-safety-and-security-committee/>) of safety and security-related processes and safeguards and made recommendations to the full Board. 
 
 Following the full Board's review, we are now sharing the Safety and Security Committee’s recommendations across five key areas, which we are adopting. These include enhancements we have made to build on our governance, safety, and security [_practices_ ⁠](<https://openai.com/index/openai-safety-update/>). 
 
   1. Establishing independent governance for safety & security
+
   2. Enhancing security measures
+
   3. Being transparent about our work
+
   4. Collaborating with external organizations
+
   5. Unifying our safety frameworks for model development and monitoring
+
 
 
 
@@ -108,9 +121,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -129,7 +143,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -147,14 +162,17 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -173,6 +191,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -180,6 +199,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

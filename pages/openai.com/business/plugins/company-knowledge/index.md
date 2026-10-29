@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://openai.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000ee9481f791ebad320eb2cb04&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=b14010c851af3e337d6a003d919942c4a40c58d0257921578610b5bc00e0bd2b&v=0)Company Knowledge Summarize the latest updates on this project across messages, docs, and code(opens in a new window)](<https://chatgpt.com/?prompt=%40Company+Knowledge+Summarize+the+latest+updates+on+this+project+across+messages%2C+docs%2C+and+code>)
+[![](https://files.openai.com/content?id=file_00000000ee9481f791ebad320eb2cb04&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=b14010c851af3e337d6a003d919942c4a40c58d0257921578610b5bc00e0bd2b&v=0)Company Knowledge Summarize the latest updates on this project across messages, docs, and code(opens in a new window)](<https://chatgpt.com/plugins/Plugin_b0672f102c2081919b893649fdcfeeaa?install&prompt=Summarize%20the%20latest%20updates%20on%20this%20project%20across%20messages%2C%20docs%2C%20and%20code>)
 
 ## How it works
 
@@ -60,19 +60,19 @@ Company Knowledge helps you find decisions, documents, owners, and recent projec
 
 ![](https://files.openai.com/content?id=file_00000000ee9481f791ebad320eb2cb04&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=b14010c851af3e337d6a003d919942c4a40c58d0257921578610b5bc00e0bd2b&v=0)Company Knowledge Find the latest decisions about this project across connected sources. Summarize what changed, who owns the next steps, and any conflicting information, with citations.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Company+Knowledge+Find+the+latest+decisions+about+this+project+across+connected+sources.+Summarize+what+changed%2C+who+owns+the+next+steps%2C+and+any+conflicting+information%2C+with+citations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_b0672f102c2081919b893649fdcfeeaa?install&prompt=Find%20the%20latest%20decisions%20about%20this%20project%20across%20connected%20sources.%20Summarize%20what%20changed%2C%20who%20owns%20the%20next%20steps%2C%20and%20any%20conflicting%20information%2C%20with%20citations.&surface=work>)
 
   * ### Prepare a project brief
 
 ![](https://files.openai.com/content?id=file_00000000ee9481f791ebad320eb2cb04&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=b14010c851af3e337d6a003d919942c4a40c58d0257921578610b5bc00e0bd2b&v=0)Company Knowledge Prepare a brief on this project using accessible documents and discussions. Include goals, current status, unresolved questions, and links to the supporting sources.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Company+Knowledge+Prepare+a+brief+on+this+project+using+accessible+documents+and+discussions.+Include+goals%2C+current+status%2C+unresolved+questions%2C+and+links+to+the+supporting+sources.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_b0672f102c2081919b893649fdcfeeaa?install&prompt=Prepare%20a%20brief%20on%20this%20project%20using%20accessible%20documents%20and%20discussions.%20Include%20goals%2C%20current%20status%2C%20unresolved%20questions%2C%20and%20links%20to%20the%20supporting%20sources.&surface=work>)
 
   * ### Find the source of truth
 
 ![](https://files.openai.com/content?id=file_00000000ee9481f791ebad320eb2cb04&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=b14010c851af3e337d6a003d919942c4a40c58d0257921578610b5bc00e0bd2b&v=0)Company Knowledge Find the current guidance on this process. Compare conflicting documents, explain which appears most authoritative, and cite sources for the recommendation.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Company+Knowledge+Find+the+current+guidance+on+this+process.+Compare+conflicting+documents%2C+explain+which+appears+most+authoritative%2C+and+cite+sources+for+the+recommendation.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_b0672f102c2081919b893649fdcfeeaa?install&prompt=Find%20the%20current%20guidance%20on%20this%20process.%20Compare%20conflicting%20documents%2C%20explain%20which%20appears%20most%20authoritative%2C%20and%20cite%20sources%20for%20the%20recommendation.&surface=work>)
 
 
 
@@ -87,9 +87,9 @@ Company Knowledge helps you find decisions, documents, owners, and recent projec
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
 ### [Privacy policyLearn more](<https://openai.com/policies/privacy-policy/>)
 
@@ -101,13 +101,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages.](</business/plugins/notion/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages](</business/plugins/notion/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -119,10 +129,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -141,7 +151,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -168,8 +179,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -188,6 +199,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

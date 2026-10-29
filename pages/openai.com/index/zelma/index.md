@@ -47,9 +47,13 @@ Novy leveraged [function calling⁠(opens in a new window)](<https://platform.op
 The biggest challenge was trying to predict how people would phrase their questions, and keeping the prompts within Zelma’s scope of knowledge. “We addressed this through intentional design choices in Zelma’s user experience that nudge people to ask questions Zelma can answer,” Dr. Oster explained. Key features include:
 
   * **Suggesting example prompts.** Because Zelma covers only a specific domain of education data, these suggestions help users understand Zelma’s scope of knowledge and how to phrase their prompts.
+
   * **Making all questions**[**public.** ⁠(opens in a new window)](<https://www.zelma.ai/featured>) This helps people learn from what others have asked while also preventing users from submitting high volumes of irrelevant queries.
+
   * **Showing the SQL code.** Zelma provides its logic to help you quickly verify its answers. For non-coders, the factors are also explained in plain language.
+
   * **Explaining the context.** Zelma gives context through definitions and flagging notable events—such as changes in the state assessment—to help you understand any external factors that might have influenced the data in a given year.
+
 
 
 
@@ -77,15 +81,15 @@ From scattered data portals and spreadsheets to a user-friendly website, Zelma t
 
 ## Related customer stories
 
-![Klarna > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/1rKhPYNyBR444XDwzBejML/34c714921e283fd064343fcfd29a8d9b/klarna-v2.png?w=3840&q=90&fm=webp)
+![White Klarna logo on a mauve background.](https://images.ctfassets.net/kftzwdyauwt9/1rKhPYNyBR444XDwzBejML/34c714921e283fd064343fcfd29a8d9b/klarna-v2.png?w=3840&q=90&fm=webp)
 
 [Klarna's AI assistant does the work of 700 full-time agentsApr 5, 2024](</index/klarna/>)
 
-![Harvey Cover Image](https://images.ctfassets.net/kftzwdyauwt9/4tOsY4kprIobRIBvif5sOt/0a208a8f901f000a8be4cef8426c37fc/harvey.png?w=3840&q=90&fm=webp)
+![White Harvey logo on a grey background.](https://images.ctfassets.net/kftzwdyauwt9/4tOsY4kprIobRIBvif5sOt/0a208a8f901f000a8be4cef8426c37fc/harvey.png?w=3840&q=90&fm=webp)
 
 [Customizing models for legal professionalsApr 2, 2024](</index/harvey/>)
 
-![Oscar Cover Image](https://images.ctfassets.net/kftzwdyauwt9/3pyY5QDNdExFmc3OcrqqBK/643bb793e8173e886c56e952e34c69c2/oscar.png?w=3840&q=90&fm=webp)
+![White Oscar logo on a blue background.](https://images.ctfassets.net/kftzwdyauwt9/3pyY5QDNdExFmc3OcrqqBK/643bb793e8173e886c56e952e34c69c2/oscar.png?w=3840&q=90&fm=webp)
 
 [Reducing health insurance costs and improving careApr 1, 2024](</index/oscar/>)
 
@@ -99,9 +103,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -120,7 +125,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -138,6 +144,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -146,8 +153,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -166,6 +173,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -46,6 +46,7 @@ Nearly half of occupation-specific AI use crosses job boundaries
   * Some tasks travel farther than others
   * More task crossover in small businesses
   * The task list itself is changing
+  * Citation
 
 
 
@@ -53,6 +54,7 @@ Nearly half of occupation-specific AI use crosses job boundaries
   * Some tasks travel farther than others
   * More task crossover in small businesses
   * The task list itself is changing
+  * Citation
 
 
 
@@ -133,6 +135,51 @@ AI may be especially useful as a generalist tool where specialist resources are 
 
 AI usage data like this is an indicator of where work is shifting. It allows us to see how AI lets workers experiment with new combinations of activities before firms rewrite job descriptions or create new job titles. In that sense, usage patterns may provide an early signal of occupational change that conventional labor-market statistics will capture only later.
 
+## Citation
+
+#### Citation
+
+`
+    
+    
+    1
+    
+    @techreport{openaiecon2026workfrontier,
+    
+    2
+    
+      author = {Caroline Chin and Alex Martin Richmond},
+    
+    3
+    
+      title = {Work at the Frontier: How {AI} is expanding what people do at work},
+    
+    4
+    
+      date = {2026-07},
+    
+    5
+    
+      year = {2026},
+    
+    6
+    
+      institution = {OpenAI},
+    
+    7
+    
+      type = {Report},
+    
+    8
+    
+      url = {https://cdn.openai.com/pdf/work-at-the-frontier-report.pdf},
+    
+    9
+    
+    }
+
+`
+
   * [Economic Research](</news/?tags=economic-research>)
   * [2026](</news/?tags=2026>)
 
@@ -146,17 +193,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
+![OpenAI and ServiceNow expand partnership across enterprise workflows, software development and security — Cover](https://images.ctfassets.net/kftzwdyauwt9/i2nR5RpyJ2Iz1XrsQX3Gm/edcbc52f12d4aff29b80aa36bb67f0fe/openai-servicenow-partnership-expansion-cover.png?w=3840&q=90&fm=webp)
 
-[Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
+[OpenAI and ServiceNow expand partnership across enterprise workflowsCompanyOct 28, 2026](</index/openai-servicenow-partnership-expansion/>)
 
-![Airbnb widens access to GPT-6 Astra and OpenAI frontier models - card image](https://images.ctfassets.net/kftzwdyauwt9/2prIXE6DtUo7UsJqRAl52K/f8c082ed29505ebfbcff9fe828ccc123/airbnb-widens-access-to-gpt-6-astra-and-openai-frontier-models-cover.png?w=3840&q=90&fm=webp)
+![OpenAI expands partnership with Oracle to bring its apps to ChatGPT — Cover](https://images.ctfassets.net/kftzwdyauwt9/1rEHkDRZ1mqyO5gnyVU4CE/4311739367a7b7e322d07b62ff3c1836/openai-oracle-apps-chatgpt-blue-art-card-1080x1080.png?w=3840&q=90&fm=webp)
 
-[Airbnb expands access to GPT-6 AstraCompanySep 23, 2026](</index/airbnb-gpt-6-astra/>)
+[OpenAI expands partnership with Oracle to bring its apps to ChatGPTCompanyOct 27, 2026](</index/oracle-apps-in-chatgpt/>)
 
-![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
+![Uber brings ChatGPT Work to all employees — cover](https://images.ctfassets.net/kftzwdyauwt9/30Y90LyD1QsbcsXhgLcbqH/7a9226e0bf6e06c7309a2b322e729a84/uber-brings-chatgpt-work-to-all-employees-cover.png?w=3840&q=90&fm=webp)
 
-[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
+[Uber brings ChatGPT Work to all employees with OpenAICompanyOct 22, 2026](</index/uber-chatgpt-work-rollout/>)
 
 Research
 
@@ -168,10 +215,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -190,7 +237,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -217,8 +265,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -237,6 +285,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
