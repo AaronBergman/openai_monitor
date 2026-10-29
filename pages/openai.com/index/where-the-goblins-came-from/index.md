@@ -164,17 +164,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Mental Health Bench art card](https://images.ctfassets.net/kftzwdyauwt9/1GVQAEpVME68kCI7Ol2ApW/abde191546741612492ae27f9baf7f3e/Mental_Health_Bench__art_card.png?w=3840&q=90&fm=webp)
+![Working with academic communities to build scientific understanding — Cover](https://images.ctfassets.net/kftzwdyauwt9/77i38N8Ov2vmY2uJ4pWRIQ/5f6f3eceaf8751f07fc23f179ad14c32/from-ai-results-to-scientific-understanding-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing MentalHealthBenchPublicationSep 23, 2026](</index/introducing-mentalhealthbench/>)
+[Working with academic communities to build scientific understandingResearchOct 26, 2026](</index/building-scientific-understanding-with-academic-communities/>)
 
-![Navier–Stokes solution — art card](https://images.ctfassets.net/kftzwdyauwt9/2VUQZfeF2GtKRitKYdkoLu/cc96d05424afb2c9adcca0734ecdafb1/navier-stokes-art-card.png?w=3840&q=90&fm=webp)
+![Securing our frontier model training environment — Cover](https://images.ctfassets.net/kftzwdyauwt9/1YAlC4a6FgYc9r73SDH0Ef/bcd6bdf945006094fbc327ac46dee04d/new-approach-to-research-model-containment-cover.png?w=3840&q=90&fm=webp)
 
-[An OpenAI model proposes a solution to the Navier–Stokes problemResearchSep 8, 2026](</index/navier-stokes-solution/>)
+[Securing our frontier model training environmentSecurityOct 23, 2026](</index/securing-our-frontier-model-training-environment/>)
 
-![Research acceleration: The view inside OpenAI > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5kS3OG1Jfdja5xLmYcRwgr/f53b9dfe985df5969aff5dc41f2d1934/Art_Card__7_.png?w=3840&q=90&fm=webp)
+![Scaling AI to uncover new research leads in complex biological data — Cover](https://images.ctfassets.net/kftzwdyauwt9/5UED38veljkDWUT9l9b6eR/5d17087c963ea51bf01c1fbd754f19d9/scaling-ai-biological-data-cover.png?w=3840&q=90&fm=webp)
 
-[Research acceleration: The view inside OpenAIResearchSep 6, 2026](</index/research-acceleration-view-inside-openai/>)
+[Using thousands of AI agents to uncover new leads in biological dataPublicationOct 21, 2026](</index/scaling-ai-research-for-complex-biological-data/>)
 
 Research
 
@@ -186,10 +186,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -208,7 +208,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -235,8 +236,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -255,6 +256,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

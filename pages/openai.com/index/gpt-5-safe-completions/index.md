@@ -152,17 +152,17 @@ Yuan Yuan, Tina Sriskandarajah, Anna-Luisa Brakman, Alec Helyar, Alex Beutel, An
 
 [View all](</news/>)
 
-![Sam Altman’s remarks at the United Nations Security Council cover image](https://images.ctfassets.net/kftzwdyauwt9/4O6fFZArVSBeCoNjTFwXXZ/cc5e374a6b62b8f328555f002b3bca49/sam-altman-s-remarks-at-the-united-nations-security-council-cover.png?w=3840&q=90&fm=webp)
+![Working with academic communities to build scientific understanding — Cover](https://images.ctfassets.net/kftzwdyauwt9/77i38N8Ov2vmY2uJ4pWRIQ/5f6f3eceaf8751f07fc23f179ad14c32/from-ai-results-to-scientific-understanding-cover.png?w=3840&q=90&fm=webp)
 
-[Sam Altman’s remarks at the United Nations Security CouncilGlobal AffairsSep 23, 2026](</index/sam-altman-un-security-council-remarks/>)
+[Working with academic communities to build scientific understandingResearchOct 26, 2026](</index/building-scientific-understanding-with-academic-communities/>)
 
-![Mental Health Bench art card](https://images.ctfassets.net/kftzwdyauwt9/1GVQAEpVME68kCI7Ol2ApW/abde191546741612492ae27f9baf7f3e/Mental_Health_Bench__art_card.png?w=3840&q=90&fm=webp)
+![Sunlight illuminates Earth against a starry sky.](https://cdn.openai.com/mdx-assets/71f084db-a08b-48c5-b96e-5fbdc21a1a00/terra-art-card-1x1.9a2f828b.png)
 
-[Introducing MentalHealthBenchPublicationSep 23, 2026](</index/introducing-mentalhealthbench/>)
+[Introducing GPT-6.1 TerraProductOct 26, 2026](</index/introducing-gpt-6-1-terra/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![Securing our frontier model training environment — Cover](https://images.ctfassets.net/kftzwdyauwt9/1YAlC4a6FgYc9r73SDH0Ef/bcd6bdf945006094fbc327ac46dee04d/new-approach-to-research-model-containment-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
+[Securing our frontier model training environmentSecurityOct 23, 2026](</index/securing-our-frontier-model-training-environment/>)
 
 Research
 
@@ -174,10 +174,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -196,7 +196,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -223,8 +224,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -243,6 +244,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

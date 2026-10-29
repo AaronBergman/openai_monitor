@@ -61,15 +61,17 @@ OpenAI
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Working with academic communities to build scientific understanding — Cover](https://images.ctfassets.net/kftzwdyauwt9/77i38N8Ov2vmY2uJ4pWRIQ/5f6f3eceaf8751f07fc23f179ad14c32/from-ai-results-to-scientific-understanding-cover.png?w=3840&q=90&fm=webp)
 
-![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
+[Working with academic communities to build scientific understandingResearchOct 26, 2026](</index/building-scientific-understanding-with-academic-communities/>)
 
-[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
+![Securing our frontier model training environment — Cover](https://images.ctfassets.net/kftzwdyauwt9/1YAlC4a6FgYc9r73SDH0Ef/bcd6bdf945006094fbc327ac46dee04d/new-approach-to-research-model-containment-cover.png?w=3840&q=90&fm=webp)
 
-![Pacing model development in an era of cyber-critical capabilities — Card image](https://images.ctfassets.net/kftzwdyauwt9/3tUOfo4E1xZComoOiRjHJm/51c532f25dd4062f92bff0e41ea00c3c/index-pacing-model-development-cyber-capabilities-dark-cover.png?w=3840&q=90&fm=webp)
+[Securing our frontier model training environmentSecurityOct 23, 2026](</index/securing-our-frontier-model-training-environment/>)
 
-[Pacing model development in an era of cyber-critical capabilitiesCompanyAug 18, 2026](</index/pacing-model-development-cyber-capabilities/>)
+![Broad access through consistent standards — Cover](https://images.ctfassets.net/kftzwdyauwt9/5yeylkVM0cZ2W6k2lcnVyE/42a8333bccf5064328630ebf7c667082/broad-access-through-consistent-standards-cover.png?w=3840&q=90&fm=webp)
+
+[Broad access through consistent standardsSafetyOct 21, 2026](</index/broad-access-through-consistent-standards/>)
 
 Research
 
@@ -81,9 +83,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -102,7 +105,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -120,6 +124,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -128,8 +133,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -148,6 +153,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

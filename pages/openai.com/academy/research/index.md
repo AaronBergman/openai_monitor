@@ -55,9 +55,13 @@ Researching with ChatGPT helps you move from question to evidence to decision mo
 **Why use ChatGPT for research?**
 
   * Turn a fuzzy question into a clear research plan and set of sub-questions.
+
   * Sift through many sources faster and capture the important details with citations.
+
   * Produce consistent deliverables such as briefs, memos, competitor tables, annotated bibliographies.
+
   * Identify gaps, contradictions, and weak signals early—before committing to a direction.
+
 
 
 
@@ -76,10 +80,15 @@ ChatGPT offers two main approaches for research, depending on how deep you need 
 ## Tips for success
 
   * Ask for a research outline first, including sub-questions, source strategy, and evaluation criteria.
+
   * Require citations for key claims, and request a source quality check when accuracy matters.
+
   * Ask for a “what’s missing” section to surface unknowns, disputed areas, or data limitations.
+
   * If you need to share findings, request a one-page or one-slide summary alongside the full output.
+
   * Follow up with targeted prompts such as “Go deeper on X,” “Validate Y,” or “Compare A vs B.”
+
 
 
 
@@ -137,9 +146,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -158,7 +168,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -176,6 +187,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -184,8 +196,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -204,6 +216,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

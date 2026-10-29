@@ -41,19 +41,19 @@ That ambition led to an unexpected connection. OpenAI researcher Joyce Ruffell, 
 In its first year, the focus was using AI to make sense of the team’s vast data—from car sensors to race and pit crew performance. Now, it’s about connecting those insights and freeing engineers to think strategically, where gains of just tenths of a second can decide a race.  
 
 
-![side view of an indycar rendered in ASCII 0s and 1s with blue text overlaid: development, drive, dedication, discipline, determination](https://images.ctfassets.net/kftzwdyauwt9/8y97f6u909r7p9PWwk2gF/e639c7275a75c51ae4f10285c37c1c2f/Script.jpg?w=3840&q=90&fm=webp)
+![Monochrome close-up of an IndyCar’s front wheel and bodywork.](https://images.ctfassets.net/kftzwdyauwt9/5lHNNvg1P5uQkvMxMTXr4T/ee9399e34d3e6338acca1ec2a7b50e8e/chip-ganassi-racing-research-car-figma-crop.webp?w=3840&q=90&fm=webp)
 
-![A black Formula 1 race car with the number 10 and OpenAI logo speeds past a grandstand filled with blurred spectators under a clear blue sky.](https://images.ctfassets.net/kftzwdyauwt9/6l28zsU3lRKCIgVyxgQIiv/e1e9c16ff2dc33b86b2e0ce1ab7e7b02/Ganassi-Layout-When-racing-met-research-Gallery-1.png?w=3840&q=90&fm=webp)
+![The OpenAI-branded number 10 IndyCar speeds along the track.](https://images.ctfassets.net/kftzwdyauwt9/4sRGHjvBQ4ME3Ai29Vj3fN/dde900d10d802c3c589655ec2f5c5930/chip-ganassi-racing-car-on-track-figma-crop.webp?w=3840&q=90&fm=webp)
 
-![stylized black and white image of a pit crew member with a fuel pump](https://images.ctfassets.net/kftzwdyauwt9/4ik1cekCVtIYg83KrUAhfO/f00e2a3867f7289266fb3287dfe3e62f/EPISODE_01_PART_02_V008_16-9_EXTENDED.00_00_22_10.Still002_1.png?w=3840&q=90&fm=webp)
+![An OpenAI number 10 pit sign beside the racing circuit.](https://images.ctfassets.net/kftzwdyauwt9/35f2bCjeUVEipAglfs5re1/ea87b34d26ba377c090e659c415f519f/chip-ganassi-racing-number-ten-figma-crop.webp?w=3840&q=90&fm=webp)
 
-![Close-up of a young person smiling and wearing a headset with a microphone, adjusting the earpiece with their hand.](https://images.ctfassets.net/kftzwdyauwt9/2VIkumAiJdooUsNUCbfIYL/f3d5654c2c218e7db5924052797fc6b7/Ganassi-Layout-When-racing-met-research-Gallery-2.png?w=3840&q=90&fm=webp)
+![A smiling researcher wears a headset with a microphone.](https://images.ctfassets.net/kftzwdyauwt9/2Ysv0dipjCkV8Ml92ZZiyA/2ea3b29818ba751c292a7213f6943357/chip-ganassi-racing-research-headset-figma-crop.webp?w=3840&q=90&fm=webp)
 
 ## R&D: The series
 
-Follow the journey of OAI researcher Joyce Ruffell and the CGR team as they search for a competitive edge in every piece of data in their pursuit of a second-straight IndyCar title. 
+Follow the journey of OAI researcher Joyce Ruffell and the CGR team as they search for a competitive edge in every piece of data in their pursuit of a historic 18th IndyCar title.
 
-Off to a hot start, the CGR team looks to continue their momentum and help driver Alex Palou bring home his first win at the legendary Grand Prix of Long Beach.
+Part TwoPart One
 
 ## Driven by data
 
@@ -61,17 +61,17 @@ Racing is intensely data-driven, with inputs from historical records, every test
 
 Over 200 sensors are on a Ganassi IndyCar, generating nearly one billion data points per hour during a race.
 
-![inverted image of a pit crew member working on a tire](https://images.ctfassets.net/kftzwdyauwt9/41Bsjy65O1kpmPMerNLTEH/0a44391b543692112604b953b8bb21fc/EPISODE_01_PART_02_V008_16-9_EXTENDED.00_00_17_09.Still001_3.png?w=3840&q=90&fm=webp)
+![Thermal view of an IndyCar and pit crew during a pit stop.](https://images.ctfassets.net/kftzwdyauwt9/2JaFQzwODkLhL3DVV4E8o1/c9b7a147030c5d4d89f56669e3f6ea6e/chip-ganassi-racing-thermal-pit-stop-design-crop.webp?w=3840&q=90&fm=webp)
 
-![image of a man in a racing uniform surrounded by falling confetti](https://images.ctfassets.net/kftzwdyauwt9/4zrPoPqLopGleOvmcIp03g/52dcc056866e85feea428bd0b3a1c091/13.png?w=3840&q=90&fm=webp)
+![A racing driver in an OpenAI-branded suit celebrates amid falling confetti.](https://images.ctfassets.net/kftzwdyauwt9/7f4X1mEpuLA4O3yZwANOSD/406e3df963975991ed67fa880d6c904f/chip-ganassi-racing-celebration-design-crop.webp?w=3840&q=90&fm=webp)
 
 > “We have been working with the Chip Ganassi team to build a number of race day tools with the intention of helping them get data faster, more accurately, and more efficiently.”
 
 Joyce Ruffell, researcher and engineer, OpenAI
 
-![diagram of a race track](https://images.ctfassets.net/kftzwdyauwt9/5nhKu7IE3ROQu9e6Q38T26/2d9f1e448a009e9f2aa4f632914d7257/EPISODE_01_PART_01_V007_16-9_1.png?w=3840&q=90&fm=webp)
+![A stylized visualization of the front wheel and suspension of a race car.](https://images.ctfassets.net/kftzwdyauwt9/6TMLoR73vjQzSwAYmgjlI6/f08e626090a97bf9269b57aa2034cc23/chip-ganassi-racing-data-visualization-design-crop.webp?w=3840&q=90&fm=webp)
 
-![image of indycar engineers working on testing equipment](https://images.ctfassets.net/kftzwdyauwt9/5fzZTnwu1gLvSUAllG27jf/2c72006362a5a73238f7df2761fdd91d/11.png?w=3840&q=90&fm=webp)
+![Close-up of the OpenAI-branded number 10 IndyCar’s cockpit in the pit lane.](https://images.ctfassets.net/kftzwdyauwt9/4jQBtgaLpxujfQYKYz9f9R/e4453130558a8a5507733776bc56a9d0/chip-ganassi-racing-cockpit-design-crop.webp?w=3840&q=90&fm=webp)
 
 ## The core team
 
@@ -125,29 +125,43 @@ Team Manager & Race Day Strategist, Chip Ganassi Racing
 
 Read more
 
+## Limited-edition merch
+
+Our partnership went beyond the lab and the track. In celebration of our shared culture, we collaborated with Chip Ganassi Racing on a drop that explored where performance meets research.
+
+[View the collection](<https://openai.com/supply/shop/ganassi/>)
+
+![An orange R&D Co. OpenAI pin on blue racing merchandise.](https://images.ctfassets.net/kftzwdyauwt9/5V1cziPDHgltMfrxGHl0S6/e8c46291dccdbc76e3957f814c9c2d51/chip-ganassi-racing-merch-pin.webp?w=3840&q=90&fm=webp)
+
+![An OpenAI-branded model IndyCar on a red tray beside workshop tools.](https://images.ctfassets.net/kftzwdyauwt9/6W8u9ivwgJIdfNtkuQyAOs/24eae7957d42842cc75433f1ad8287c6/chip-ganassi-racing-merch-car.webp?w=3840&q=90&fm=webp)
+
+![An OpenAI racing suit-shaped accessory hangs beside a racing circuit.](https://images.ctfassets.net/kftzwdyauwt9/1TJSceqjnAv7j9d8Mgxxjx/d45155e21ce556867613b685f129fddb/chip-ganassi-racing-merch-suit.webp?w=3840&q=90&fm=webp)
+
 > “Ganassi is bringing its racing knowledge. OpenAI is bringing its frontier intelligence. And we’re putting that together to make decisions and go faster.”
 
 Pete Williams, Head of Tech, Chip Ganassi Racing
 
-![Rear view of a race car in a garage with its rear wing displaying "Research & Deployment Co." Two people stand nearby, one in a black jacket and the other in a white racing uniform. The car has visible mechanical components and a DHL Chip Ganassi Racing logo on its rear diffuser.](https://images.ctfassets.net/kftzwdyauwt9/4MFwifNkgsaBjru9nLBI08/25135951574aa28c1a2f62a5aece7f0e/Ganassi-Layout-Quote-Carousel-Carousel-6.png?w=3840&q=90&fm=webp)
+![Close-up of a colorful racing helmet beside a racing suit.](https://images.ctfassets.net/kftzwdyauwt9/5hGXFllQwARjpkWA9ulbmd/913d461148bef10f423c0d94a1c466e6/chip-ganassi-racing-gallery-helmet.webp?w=3840&q=90&fm=webp)
 
-![A group of smiling people wearing racing team uniforms and caps gather closely, many raising one finger in celebration or unity.](https://images.ctfassets.net/kftzwdyauwt9/4rr9ZYx8sdMAWOvekzethC/5ff265634e041bab22b6e3192a96782b/Ganassi-Layout-Quote-Carousel-Carousel-1.png?w=3840&q=90&fm=webp)
+![The OpenAI-branded racing team poses together in front of the US Capitol.](https://images.ctfassets.net/kftzwdyauwt9/52mP4IJYhFyAbN6GUdMSnH/c4f20360943bd8852d01bb9edd3168c6/chip-ganassi-racing-gallery-team.webp?w=3840&q=90&fm=webp)
 
-![A high-speed black and blue Formula 1 race car is captured from behind as it speeds along a racetrack with red, white, and blue painted curbs in bright daylight. The car's rear wing displays the words "Research & Deployment Co." and the image conveys intense motion and blurred surroundings.](https://images.ctfassets.net/kftzwdyauwt9/1AAVOY8uV2zhwolotRaDEJ/0ab8512b9b4ccbb28b53f44a7d34fbd2/Ganassi-Layout-Quote-Carousel-Carousel-2.png?w=3840&q=90&fm=webp)
+![An OpenAI-branded IndyCar and pit crew during a pit stop.](https://images.ctfassets.net/kftzwdyauwt9/48dcSxUuKF1X4mEqcWQiJV/960f64b50b16e9ee722eb090310982f9/chip-ganassi-racing-gallery-pit-stop.webp?w=3840&q=90&fm=webp)
 
-![A black IndyCar race car with OpenAI branding speeds on a track, viewed from above, with motion blur emphasizing its fast movement.](https://images.ctfassets.net/kftzwdyauwt9/ph5HokBOWcCw5TSmcajkQ/513843726840c0e394d4df1861528b45/Ganassi-Layout-Quote-Carousel-Carousel-3.png?w=3840&q=90&fm=webp)
+![An OpenAI-branded IndyCar speeds past spectators.](https://images.ctfassets.net/kftzwdyauwt9/phRHDFmY2NIeLvzuI1Cuk/9831e53e9df9f0a2ae48c80627b5f183/chip-ganassi-racing-gallery-speed.webp?w=3840&q=90&fm=webp)
 
-![Close-up of a person wearing sunglasses and a helmet, with a reflection of a black race car and a person in a white shirt on a track visible in the lenses.](https://images.ctfassets.net/kftzwdyauwt9/3NBce9LO5SV2YXsy8SW3rh/86b4a09da9dfaa54b3616cb981448458/Ganassi-Layout-Quote-Carousel-Carousel-4.png?w=3840&q=90&fm=webp)
+![A pit crew member carries equipment through the pit lane.](https://images.ctfassets.net/kftzwdyauwt9/XBV9TGVgbScJmEvCNvNEA/48ec597b4f6d153a0fedb23690665b5d/chip-ganassi-racing-gallery-pit-crew.webp?w=3840&q=90&fm=webp)
 
-![Close-up image of a racing helmet with a colorful design featuring logos of Honda, OpenAI, and Chip Ganassi Racing on the visor and shell.](https://images.ctfassets.net/kftzwdyauwt9/TdjwANaElHf9bQ3UTmitS/7bf1cce2cf7bdcd9d15fc09509553207/Ganassi-Layout-Quote-Carousel-Carousel-5.png?w=3840&q=90&fm=webp)
+![Rear view of the number 10 IndyCar surrounded by the pit crew.](https://images.ctfassets.net/kftzwdyauwt9/1YmGaO0gpx9xYCje7JefAM/3fb96a8ae62290df85adb5d8e500b30e/chip-ganassi-racing-gallery-pit-lane.webp?w=3840&q=90&fm=webp)
 
-![Close-up of a blue and black racing car wing with the word "OPENAI" printed on it, scattered with multicolored confetti in yellow, blue, and orange.](https://images.ctfassets.net/kftzwdyauwt9/3JcxqYcOv6bfW49TgazTHn/fb65e57834ff00fe5886c9ae475112d4/Ganassi-Layout-Quote-Carousel-Carousel-7.png?w=3840&q=90&fm=webp)
+![Close-up of the OpenAI-branded IndyCar’s cockpit and bodywork.](https://images.ctfassets.net/kftzwdyauwt9/5i5PBjgEzVKSX6BOBOTN1c/dba6ec0290b31462cb0b23f8205d82c1/chip-ganassi-racing-gallery-car-detail.webp?w=3840&q=90&fm=webp)
 
-![A group of five people, four men in white racing suits with OpenAI logos and one woman in a white shirt and black pants, stand and chat beside a race car tire on a race track. They appear relaxed and are smiling, with a metal fence and trees in the background.](https://images.ctfassets.net/kftzwdyauwt9/5yS2VUbkDFUKMGParXul3i/1621431002c3363ac6079d9526206017/Ganassi-Layout-Quote-Carousel-Carousel-8.png?w=3840&q=90&fm=webp)
+![Rear view of an IndyCar in a garage, with Research & Deployment Co. on its rear wing.](https://images.ctfassets.net/kftzwdyauwt9/4PgGwFOIWBPgFGLLsNmqWA/c60568747087ceea850c3bec2a93985a/chip-ganassi-racing-gallery-garage.webp?w=3840&q=90&fm=webp)
 
-![A blue IndyCar race car with OpenAI branding is being towed on a racing street circuit lined with spectators on both sides under clear blue skies. A black Acura banner spans across the track.](https://images.ctfassets.net/kftzwdyauwt9/bv2AVOJS1GUoFT0WNJGi0/96dea95468b202281bcc2103ab5eb30b/Ganassi-Layout-Quote-Carousel-Carousel-9.png?w=3840&q=90&fm=webp)
+![An OpenAI-branded IndyCar in the pit lane with spectators on both sides.](https://images.ctfassets.net/kftzwdyauwt9/6MzuDbvMtDiLxieGYARa4q/b79495c351274dac4b531b6a8eb8df2d/chip-ganassi-racing-gallery-race-day.webp?w=3840&q=90&fm=webp)
 
-![Rear view of a black race car in a pit lane with "Research & Deployment Co." on its rear wing, surrounded by crew members in white and black uniforms.](https://images.ctfassets.net/kftzwdyauwt9/3Z3GN7SDJlxgyZkVvWmFAH/e6927bdd6aa0995e2403673f6a356ab1/Ganassi-Layout-Quote-Carousel-Carousel-10.png?w=3840&q=90&fm=webp)
+![Overhead view of an OpenAI-branded IndyCar speeding along the track.](https://images.ctfassets.net/kftzwdyauwt9/XKguINE6YgdKuPRmv3Muq/4bd8025ec9176ef611ce8fdd002d3e96/chip-ganassi-racing-gallery-overhead.webp?w=3840&q=90&fm=webp)
+
+![Confetti scattered across an OpenAI-branded race car.](https://images.ctfassets.net/kftzwdyauwt9/1ZBLVWJ1evFeqxpSKr3kBe/14b3b05f2f7b47af0d0c2d68cb71a2f5/chip-ganassi-racing-gallery-confetti.webp?w=3840&q=90&fm=webp)
 
 Research
 
@@ -159,10 +173,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -181,7 +195,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -199,6 +214,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -207,8 +223,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -227,6 +243,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -254,3 +271,7 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+R&D: Part 2 - Win or learn
+
+With only a few races left, Chip Ganassi Racing and OpenAI turn setbacks into insights as they chase a historic championship to become the winningest team in IndyCar history.

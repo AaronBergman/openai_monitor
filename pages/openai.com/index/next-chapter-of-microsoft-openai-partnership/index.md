@@ -49,16 +49,27 @@ It also refines and adds new provisions that enable each company to independentl
 What has evolved:
 
   * Once AGI is declared by OpenAI, that declaration will now be verified by an independent expert panel.
+
   * Microsoft’s IP rights for both models and products are extended through 2032 and now includes models post-AGI, with appropriate safety guardrails. 
+
   * Microsoft’s IP rights to research, defined as the confidential methods used in the development of models and systems, will remain until either the expert panel verifies AGI or through 2030, whichever is first. Research IP includes, for example, models intended for internal deployment or research only. Beyond that, research IP does not include model architecture, model weights, inference code, finetuning code, and any IP related to data center hardware and software; and Microsoft retains these non-Research IP rights.
+
   * Microsoft’s IP rights now exclude OpenAI’s consumer hardware. 
+
   * OpenAI can now jointly develop some products with third parties. API products developed with third parties will be exclusive to Azure. Non-API products may be served on any cloud provider.
+
   * Microsoft can now independently pursue AGI alone or in partnership with third parties.
+
   * If Microsoft uses OpenAI’s IP to develop AGI, prior to AGI being declared, the models will be subject to compute thresholds; those thresholds are significantly larger than the size of systems used to train leading models today. 
+
   * The revenue share agreement remains until the expert panel verifies AGI, though payments will be made over a longer period of time.
+
   * OpenAI has contracted to purchase an incremental $250B of Azure services, and Microsoft will no longer have a right of first refusal to be OpenAI’s compute provider.
+
   * OpenAI can now provide API access to US government national security customers, regardless of the cloud provider.
+
   * OpenAI is now able to release open weight models that meet requisite capability criteria.
+
 
 
 
@@ -76,15 +87,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![OpenAI and ServiceNow expand partnership across enterprise workflows, software development and security — Cover](https://images.ctfassets.net/kftzwdyauwt9/i2nR5RpyJ2Iz1XrsQX3Gm/edcbc52f12d4aff29b80aa36bb67f0fe/openai-servicenow-partnership-expansion-cover.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[OpenAI and ServiceNow expand partnership across enterprise workflowsCompanyOct 28, 2026](</index/openai-servicenow-partnership-expansion/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![OpenAI expands partnership with Oracle to bring its apps to ChatGPT — Cover](https://images.ctfassets.net/kftzwdyauwt9/1rEHkDRZ1mqyO5gnyVU4CE/4311739367a7b7e322d07b62ff3c1836/openai-oracle-apps-chatgpt-blue-art-card-1080x1080.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[OpenAI expands partnership with Oracle to bring its apps to ChatGPTCompanyOct 27, 2026](</index/oracle-apps-in-chatgpt/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Uber brings ChatGPT Work to all employees — cover](https://images.ctfassets.net/kftzwdyauwt9/30Y90LyD1QsbcsXhgLcbqH/7a9226e0bf6e06c7309a2b322e729a84/uber-brings-chatgpt-work-to-all-employees-cover.png?w=3840&q=90&fm=webp)
+
+[Uber brings ChatGPT Work to all employees with OpenAICompanyOct 22, 2026](</index/uber-chatgpt-work-rollout/>)
 
 Research
 
@@ -96,9 +109,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -117,7 +131,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -135,6 +150,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -143,8 +159,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -163,6 +179,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
