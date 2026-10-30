@@ -1,5 +1,46 @@
 # openai_monitor
 
+## 2026-10-30T09-17Z
+
+**Fetch time:** 2026-10-30T09:18Z UTC (sitemap + 1,847 pages, 0 fetch failures) | **Baseline:** 2026-09-28T09-17Z (**32-day gap — this entry aggregates a month**)
+
+**TL;DR:** A big catch-up entry. OpenAI's site moved to a new model generation: **GPT-6.1 Sol** and **GPT-6.1 Terra** (Oct 26 and after), **GPT-6 for all ChatGPT users** with "Intelligent UI", and **Dots** — always-on agents that have their own cloud computer and connect to 4,000+ apps. A DevDay 2026 recap, an updated Model Spec, OpenAI models coming to Google Cloud, and the Orchestra Bio acquisition (life sciences) also appeared. 136 URLs were added, 14 removed (mostly renames), and a sitewide nav/footer update touched 1,711 pages, which is why nearly every page's `<lastmod>` changed.
+
+### Anomalies
+- **32-day baseline gap**: no runs exist for 09-29..10-29; first_seen dates for new pages are 10-30 even though on-page dates show Oct 22–29.
+- **Sitewide `<lastmod>` refresh**: 1,711 URLs changed; ~570 stamps equal today's fetch hour. Cause: shared nav/footer change (new model links, Plugins/Models/Status/Dots links, "Get OpenAI for Business updates" signup).
+- **Two lastmods 1–2 s "in the future"** relative to run start (`/index/gpt-5-1-codex-max/`, `/index/updated-model-spec/`) — request-time stamping, not a real future date; the former is an old page being touched.
+- **3 re-appeared URLs**: `/business/plugins/alpaca/`, `/form/codex-ambassadors/`, `/policies/row-privacy-policy/`.
+- **219 URLs moved between sub-sitemaps** (company→global-affairs 35, product→release 25, plugins-legal→plugins-operations 12, safety→security 10, …) plus a new `learn-demos` sub-sitemap (14 URLs).
+- **21 URLs lack `<lastmod>`**, including the new GPT-6.1 Sol/Terra pages and the `/supply/product/*` merch pages.
+- `/cyber-at-the-frontier/` is a page of obfuscated ASCII noise — looks like a deliberate teaser.
+
+### Notable additions
+- [GPT-6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md): near GPT-6 Astra on coding/computer use at ~1/5 the price; cached input $0.10/M tokens.
+- [GPT-6.1 Terra](pages/openai.com/index/introducing-gpt-6-1-terra/index.md): fast, cheap model with better visual reasoning and computer use; API prices 50% below GPT-5.6 Terra.
+- [Introducing dots](pages/openai.com/index/introducing-dots/index.md): background agents on GPT-6 Astra reachable via ChatGPT, Slack, Teams.
+- [GPT-6 and Intelligent UI for everyone](pages/openai.com/index/gpt-6-for-everyone/index.md); [DevDay 2026 recap](pages/openai.com/index/devday-2026-recap/index.md) (20+ announcements); [Decisions API](pages/openai.com/index/decisions-api/index.md).
+- [Updated Model Spec](pages/openai.com/index/updated-model-spec/index.md) (Oct 29): reorganized around five values — faithfulness to human intent, harm minimization, honesty, human agency, care.
+- [OpenAI models on Google Cloud](pages/openai.com/index/openai-models-google-cloud/index.md); [Orchestra Bio acquisition](pages/openai.com/index/openai-to-acquire-orchestra-bio/index.md); partnerships with [ServiceNow](pages/openai.com/index/openai-servicenow-partnership-expansion/index.md), [Oracle](pages/openai.com/index/oracle-apps-in-chatgpt/index.md), [Atlassian](pages/openai.com/index/atlassian-partnership/index.md), [NASK (Poland)](pages/openai.com/index/openai-nask-ai-safety-security-partnership/index.md).
+- [OpenAI Private Intelligence](pages/openai.com/business/private-intelligence/index.md) and [OpenAI Marketplace](pages/openai.com/business/marketplace/index.md).
+- Security/safety cluster: [detecting frontier model misalignment](pages/openai.com/index/how-we-detect-frontier-model-misalignment/index.md), [securing the training environment](pages/openai.com/index/securing-our-frontier-model-training-environment/index.md), [model-distillation campaign disruption](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md), [safety cases](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md).
+- Ads push: [ChatGPT Ads in 26 new countries](pages/openai.com/index/chatgpt-ads-expands-26-new-countries/index.md), [new ad formats](pages/openai.com/index/new-chatgpt-ads-format-and-measurement/index.md), [Brazil advertising terms](pages/openai.com/policies/brazil-advertising-terms/index.md).
+- ~25 customer stories, ~13 plugin pages (Oracle NetSuite, Atlassian, Krea, WordPress.com…), 6 partner pages, 14 learn-demo pages. Full list: `runs/2026-10-30T09-17Z/diff.json`.
+
+### Notable updates
+- Sitewide nav: "latest models" now GPT-6.1 Sol / GPT-6 Astra (GPT-5.4 and GPT-6 dropped); Codex links to chatgpt.com/codex; Open Models and Apps SDK links removed; Plugins, Models, Status, Dots links added.
+- ~900 pages show refreshed "recent posts" cards (Oct 23–29 items replace Sep 22 items).
+- Large churn on some older pages (`learning-to-reason-with-llms`, `introducing-deep-research`, `policies/supplier-code`, `policies/cookie-policy`) not individually reviewed.
+
+### Removals
+14 URLs, mostly renames: partner pages (canva, dropbox, gusto, hubspot, quickbooks, stripe, pathfindr→affinda), plugins (atlassian-rovo→atlassian, wordpress-com/mcp-server-for-wordpress→wordpress, oracle-analytics→oracle-analytics-cloud), `/economic-research-exchange/`→`/economic-research-collaborators/`, `/form/ultrafast/`, `/prism/`.
+
+Full detail: [`runs/2026-10-30T09-17Z/analysis.md`](runs/2026-10-30T09-17Z/analysis.md)
+
+**Stats:** total URLs 2,107 | added 136 | updated 1,711 | removed 14 | anomalies 7 kinds (60 items in diff.json) | sub-sitemaps 43
+
+---
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

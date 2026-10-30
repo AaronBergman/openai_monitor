@@ -1,0 +1,258 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+September 28, 2026
+
+[Company](</news/company-announcements/>)[Safety](</news/safety-alignment/>)
+
+# How we will do better for Australia
+
+Loading…
+
+Share
+
+When we became aware and how we responded to this incident
+
+  * When we became aware and how we responded to this incident
+  * What happened with Services Australia Medicare Statistics Reporting Service
+  * What we are changing
+  * Rebuilding trust with Australians
+
+
+
+  * When we became aware and how we responded to this incident
+  * What happened with Services Australia Medicare Statistics Reporting Service
+  * What we are changing
+  * Rebuilding trust with Australians
+
+
+
+In June, during internal training and evaluation our models accessed Australian government websites in ways they were not authorised to. We also should have handled our response better. We are sorry and working to do better in the future.
+
+In this post, we are setting out what we know, what we have changed, and what we will do to rebuild trust with the Australian people. This is a new kind of cyber incident which represents an emerging global challenge. One of the ways we intend to take accountability for the situation is to be intentional in working with Australia to help develop practical approaches to how AI developers and governments identify, disclose, and respond to AI cyber behaviour, whether malicious or unintentional.
+
+## When we became aware and how we responded to this incident
+
+After the [_Hugging Face incident_](</index/hugging-face-incident-and-the-road-ahead/>) in July, we began reviewing earlier training and evaluation activity to identify other affected organisations. In mid-August, that review identified activity affecting the Australian government websites below.
+
+Here’s what we know based on the evidence:
+
+  * **Services Australia:** An OpenAI model discovered a way to gain non-public access to the service, and ran commands, retrieved internal files, credentials and aggregate statistics, and wrote files. However, individual patient or client records were not accessed. We cover this incident in more detail below.
+
+  * **NSW Bureau of Crime Statistics and Research (BOCSAR):** An OpenAI model accessed BOCSAR’s public Crime Mapping Tool to research public crime statistics (we explain further below why models carry out various information research tasks). The model made API and website metadata requests via the public BOCSAR tool, which supplies credentials for browser API requests. The BOCSAR system returned application configuration, operational jobs and logs, and website metadata. Crime records of individuals were not accessed.
+
+  * **Victorian Department of Health:** OpenAI agents discovered an exposed access key to query the Victorian Agency for Health Information’s reporting system and retrieve reporting configuration and aggregate survey statistics. The extent to which this information should have been accessible is unclear, and depends on VAHI’s access policies. Individual medical records or identifiable survey responses were not accessed.
+
+  * **Australian Institute of Health and Welfare:** OpenAI agents retrieved aggregate statistics using third-party browsing and download services, including from AIHW’s website, and queried chart data directly. Separate attempts to bypass access controls were unsuccessful. The downloaded material appears to have been publicly available. There was no system compromise. Individual medical records were not accessed.
+
+
+
+
+We launched investigations into these activities as soon as we became aware in mid-August. We notified Services Australia and the Victorian Department of Health on 10 September and the NSW Bureau of Crime Statistics and Research on 18 September. The activity related to the Australian Institute of Health and Welfare did not meet our disclosure thresholds because the way it was accessed seemed consistent with public access, but we notified it on 24 September to share our findings and offer a briefing.
+
+Our aim was to give affected agencies a detailed account once our investigation was complete. However, we should have shared preliminary findings sooner and kept Australian agencies updated as more facts emerged.
+
+Since then we’ve worked closely with Australian government agencies to share what we’ve learned to date. If we identify any additional affected agencies, we will notify them promptly and directly with the information available and provide updates as further facts emerge.
+
+## What happened with Services Australia Medicare Statistics Reporting Service
+
+During internal training and evaluation in June, we were running an experimental, internal-only OpenAI model that was not intended for public release and without the full set of safeguards used in our publicly available products. In the course of this training and evaluation, it accessed Services Australia’s Medicare Statistics Reporting Service. Our review to date has found no evidence that anyone’s medical records were accessed.
+
+When we do internal training and evaluation on our models, we assign them tasks drawn from a broad collection of research questions spanning many subjects, reflecting the kinds of detailed questions users might ask. This trains a model to find, interpret and analyse publicly available information so the model can be more useful to people. Our models are supposed to answer these questions using publicly published statistics.
+
+In this case, one of the tasks assigned to the model was to research government spending per person on medicines for skin conditions in Victorian communities. The model had difficulty obtaining that information, and it took actions that we had not authorised it to take. In the course of looking for this information at Services Australia’s Medicare Statistics Reporting Service, it discovered a way to gain non-public access to the service. It then used this access to review technical system information and source code related to the service—all still with the objective of trying to find the information it was originally looking for. We did not intend for this activity to occur, and the access to the service and follow-on activity should not have happened.
+
+## What we are changing
+
+Following the [_Hugging Face incident_](</index/hugging-face-incident-and-the-road-ahead/>) , we strengthened our research safeguards, including additional network restrictions and expanded monitoring. We implemented controls to block live internet access in these research environments, with web access served through cached content. As an additional layer of security, our current monitoring systems would have detected this activity and paged our team for urgent human review. For example, when a model gained live internet access during a [_recent training run_ ⁠(opens in a new window)](<https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/>), our monitoring detected the activity and paged a human reviewer, and we stopped the run. We continue to test these protections and address gaps. Hugging Face remains the most severe incident we have observed.
+
+People want to know AI is being developed safely, and that starts with what companies like ours do ourselves. We recently [_shared_ ⁠(opens in a new window)](<https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/>) that we’ve paused training and evaluation involving tool use for our most capable models and will resume training them only when we are confident that we have additional safeguards in place, which we are working on now.
+
+As AI systems broadly grow more capable, we also see a narrowing window to help organizations find and fix weaknesses. This takes collective action working with defenders worldwide.
+
+We have joined organizations across technology, cybersecurity and critical infrastructure in a [_call for collective action on cyber defence_](</collective-cyberdefense/>). That call starts with our own responsibilities including stronger safeguards, timely disclosure and practical support for affected organisations. It also calls for investment in the teams protecting essential services, so they can find vulnerabilities, verify fixes and share what works.
+
+In Australia, we are committing resources and expertise to support affected agencies and help defenders put these principles into practice, including:
+
+  * **Dedicated support for affected agencies.** We will commit the resources needed to help affected agencies understand what happened and assess the impact. This includes sharing relevant technical findings and arranging engagement with our response teams through appropriate information-sharing arrangements.
+
+  * **Funding and support to strengthen cyber defences.** We will support Australian governments and industry through credits from our $1 billion [_Daybreak for Frontline Defenders_](</index/daybreak-for-frontline-defenders/>) fund and technical assistance to strengthen cyber defences across critical infrastructure and other sensitive environments. Building on our engagement with governments and critical infrastructure operators, this work will help organisations better understand, detect and respond to risks from increasingly capable AI agents.
+
+  * **An Australian taskforce.** We will establish a taskforce with independent Australian expertise to develop practical policy recommendations for managing risks from increasingly capable AI agents. Drawing on lessons from these incidents, it will focus on improving notification processes, strengthening coordination between AI developers and government, and identifying measures to better protect government systems. The taskforce’s recommendations will inform OpenAI’s approach and support the Australian governments’ work on AI safety and cybersecurity. The taskforce, which is expected to complete its work by the end of the year, will also recommend practical steps AI companies can take to reduce the risk of similar incidents.
+
+
+
+
+## Rebuilding trust with Australians
+
+Australia’s governments, industries, and citizens are and have been invaluable partners to OpenAI. We do not take this for granted, and we intend to make this right.
+
+OpenAI’s Chief Strategy Officer, Jason Kwon, will fly in from OpenAI’s US headquarters to appear at the Joint Select Committee on Artificial Intelligence in Sydney on Tuesday 6 October. He will answer questions about what we know, how we responded, what steps we have taken, and how we will do better going forward.
+
+We will continue sharing verified findings with affected agencies and relevant governments. We will publish updates on our [_ongoing review_](</hugging-face-incident-and-misalignment/>) and progress against these commitments. We know we have a lot of work ahead of us to rebuild trust, and that we are accountable for showing Australians that we’re making meaningful changes and following through on our promises.
+
+**_October 4, 2026: Update on model activity involving the NSW National Parks and Wildlife Service_**
+
+Our ongoing review has identified activity affecting the NSW National Parks and Wildlife Service’s (NPWS) Fire History records. In June, a model researching Australian wildfire statistics used crafted queries against NPWS’s Fire History mapping service to infer database metadata that was not intended to be publicly exposed through the service. Separately, the model also downloaded the publicly available NPWS Fire History mapping dataset. The results we reviewed do not show that the model retrieved personal information.
+
+After we became aware of this activity on Tuesday, September 29, we conducted an urgent internal technical and legal review to understand what happened. Once that review was complete, we provided a high-level briefing to the NSW Premier’s office and confirmed the appropriate contact at the NSW Department of Climate Change, Energy, the Environment and Water (DCCEEW), which includes NPWS. That initial contact took place within 48 hours of us first identifying the activity. We sent a technical notification through the appropriate NSW Government channel and obtained details for the relevant DCCEEW contacts. After receipt was confirmed, we followed up with those contacts to offer a technical briefing.
+
+We will continue to support DCCEEW and NPWS, including sharing relevant technical findings and arranging engagement with our response teams through appropriate information-sharing arrangements.
+
+  * [2026](</news/?tags=2026>)
+
+
+
+## Author
+
+OpenAI
+
+## Keep reading
+
+[View all](</news/>)
+
+![An updated Model Spec for more capable and beneficial AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/4nEE8sUTl3LEhrhTSjX3M4/448a13dd2d7f5d809e1fcdeba3001f15/model-spec-update-more-capable-beneficial-ai-cover.png?w=3840&q=90&fm=webp)
+
+[An updated Model Spec for more capable and beneficial AISafetyOct 29, 2026](</index/updated-model-spec/>)
+
+![How we detect frontier model misalignment — Cover](https://images.ctfassets.net/kftzwdyauwt9/43ZavE2amLHMmbxH8EL8VM/1464d0f68c0f3c45e9d255992aab32b1/how-we-detect-frontier-model-misalignment-cover.png?w=3840&q=90&fm=webp)
+
+[How we detect frontier model misalignmentSecurityOct 29, 2026](</index/how-we-detect-frontier-model-misalignment/>)
+
+![OpenAI and ServiceNow expand partnership across enterprise workflows, software development and security — Cover](https://images.ctfassets.net/kftzwdyauwt9/i2nR5RpyJ2Iz1XrsQX3Gm/edcbc52f12d4aff29b80aa36bb67f0fe/openai-servicenow-partnership-expansion-cover.png?w=3840&q=90&fm=webp)
+
+[OpenAI and ServiceNow expand partnership across enterprise workflowsCompanyOct 28, 2026](</index/openai-servicenow-partnership-expansion/>)
+
+Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+Products
+
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
+  * [Release Notes](</products/release-notes/>)
+
+
+
+API Platform
+
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
+
+
+
+Business
+
+  * [Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Careers](</careers/>)
+  * [News](</news/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
+
+
+
+More
+
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

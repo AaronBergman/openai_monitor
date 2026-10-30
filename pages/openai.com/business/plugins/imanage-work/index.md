@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://imanage.com>)
 
-[![](https://files.openai.com/content?id=file_000000006d488243a4f7690295604f37&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=9a16612ee54d0438f4439dd105d8835500a50a06952d450cd28a233292d0be77&v=0)iManage Work Find our matter for the Corvale acquisition for Thornwick.(opens in a new window)](<https://chatgpt.com/?prompt=%40iManage+Work+Find+our+matter+for+the+Corvale+acquisition+for+Thornwick.>)
+[![](https://files.openai.com/content?id=file_000000006d488243a4f7690295604f37&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=9a16612ee54d0438f4439dd105d8835500a50a06952d450cd28a233292d0be77&v=0)iManage Work Find our matter for the Corvale acquisition for Thornwick.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a7c5d8a6c508191893a34347001ed1c?install&prompt=Find%20our%20matter%20for%20the%20Corvale%20acquisition%20for%20Thornwick.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Securely connect governed iManage content to ChatGPT. Search, read, and organize
 
 ![](https://files.openai.com/content?id=file_000000006d488243a4f7690295604f37&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=9a16612ee54d0438f4439dd105d8835500a50a06952d450cd28a233292d0be77&v=0)iManage Work Prepare a one-page handoff brief for Thornwick's Corvale acquisition from up to five key matter documents. Summarize the deal status and open questions, link each source, and flag missing information.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40iManage+Work+Prepare+a+one-page+handoff+brief+for+Thornwick%27s+Corvale+acquisition+from+up+to+five+key+matter+documents.+Summarize+the+deal+status+and+open+questions%2C+link+each+source%2C+and+flag+missing+information.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a7c5d8a6c508191893a34347001ed1c?install&prompt=Prepare%20a%20one-page%20handoff%20brief%20for%20Thornwick's%20Corvale%20acquisition%20from%20up%20to%20five%20key%20matter%20documents.%20Summarize%20the%20deal%20status%20and%20open%20questions%2C%20link%20each%20source%2C%20and%20flag%20missing%20information.&surface=work>)
 
   * ### Prioritize diligence risks
 
 ![](https://files.openai.com/content?id=file_000000006d488243a4f7690295604f37&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=9a16612ee54d0438f4439dd105d8835500a50a06952d450cd28a233292d0be77&v=0)iManage Work Open the Project Corvale due diligence report and prepare a briefing on its five most consequential risks. Explain the business impact, cite the supporting sections, and recommend questions for the deal team.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40iManage+Work+Open+the+Project+Corvale+due+diligence+report+and+prepare+a+briefing+on+its+five+most+consequential+risks.+Explain+the+business+impact%2C+cite+the+supporting+sections%2C+and+recommend+questions+for+the+deal+team.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a7c5d8a6c508191893a34347001ed1c?install&prompt=Open%20the%20Project%20Corvale%20due%20diligence%20report%20and%20prepare%20a%20briefing%20on%20its%20five%20most%20consequential%20risks.%20Explain%20the%20business%20impact%2C%20cite%20the%20supporting%20sections%2C%20and%20recommend%20questions%20for%20the%20deal%20team.&surface=work>)
 
   * ### Review agreement revisions
 
 ![](https://files.openai.com/content?id=file_000000006d488243a4f7690295604f37&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=9a16612ee54d0438f4439dd105d8835500a50a06952d450cd28a233292d0be77&v=0)iManage Work The Project Corvale SPA has been revised. What changed between version 1 and the current draft, and what points are still open?
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40iManage+Work+The+Project+Corvale+SPA+has+been+revised.+What+changed+between+version+1+and+the+current+draft%2C+and+what+points+are+still+open%3F>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a7c5d8a6c508191893a34347001ed1c?install&prompt=The%20Project%20Corvale%20SPA%20has%20been%20revised.%20What%20changed%20between%20version%201%20and%20the%20current%20draft%2C%20and%20what%20points%20are%20still%20open%3F&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Securely connect governed iManage content to ChatGPT. Search, read, and organize
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://imanage.com/contact-us>)
+### [Plugin supportLearn more(opens in a new window)](<https://imanage.com/contact-us>)
 
-### [Privacy policyLearn more](<https://imanage.com/about/privacy-notice>)
+### [Privacy policyLearn more(opens in a new window)](<https://imanage.com/about/privacy-notice>)
 
 ## Add the iManage Work plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingBuild banking analysis and client-ready materials.](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_000000003cf081f4a823a4bcbcae26d0&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b3e1fc09e31bb17f78ebf55401f8d3cac3b9edd6087a211f7964659e5519685f&v=0)![](https://files.openai.com/content?id=file_0000000068c082118faa38a9695cf072&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=c55bd8046d0d523ffa96f722e6a8a90b9bdd2e9222af9131e995c3b7a7154b36&v=0)HighQSearch your matter data](</business/plugins/thomson-reuters-highq/>)[![](https://files.openai.com/content?id=file_00000000cac4820d98ffabd82b64b5e5&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=9019336a1754b36e48a3e49d09d9596a8064a3f03a157f37e799e8bd45400599&v=0)![](https://files.openai.com/content?id=file_00000000cac4820d98ffabd82b64b5e5&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=9019336a1754b36e48a3e49d09d9596a8064a3f03a157f37e799e8bd45400599&v=0)NetDocumentsSearch and retrieve documents](</business/plugins/netdocuments/>)[![](https://files.openai.com/content?id=file_000000004ac081f4a2babd21cb0c76fe&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=69535a9a212d9e8fa4efb433f5f3c77c1f81e7609f21797c9ced39e705d95814&v=0)![](https://files.openai.com/content?id=file_00000000fbd882468e689e19856cd127&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=6c0a998d6c2b61ce68106280a996c23c3cffdc424852768e5ad651687fadcb73&v=0)DeepJudgeSearch internal knowledge](</business/plugins/deepjudge/>)[![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)HarveyLegal intelligence from Harvey](</business/plugins/harvey/>)[![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)LegalQuants TransactionalContract and deal workflows](</business/plugins/legalquants-transactional/>)
+[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingM&A, valuation, and financing](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_000000003cf081f4a823a4bcbcae26d0&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b3e1fc09e31bb17f78ebf55401f8d3cac3b9edd6087a211f7964659e5519685f&v=0)![](https://files.openai.com/content?id=file_0000000068c082118faa38a9695cf072&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=c55bd8046d0d523ffa96f722e6a8a90b9bdd2e9222af9131e995c3b7a7154b36&v=0)HighQSearch your matter data](</business/plugins/thomson-reuters-highq/>)[![](https://files.openai.com/content?id=file_00000000cac4820d98ffabd82b64b5e5&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=9019336a1754b36e48a3e49d09d9596a8064a3f03a157f37e799e8bd45400599&v=0)![](https://files.openai.com/content?id=file_00000000cac4820d98ffabd82b64b5e5&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=9019336a1754b36e48a3e49d09d9596a8064a3f03a157f37e799e8bd45400599&v=0)NetDocumentsSearch and retrieve documents](</business/plugins/netdocuments/>)[![](https://files.openai.com/content?id=file_000000004ac081f4a2babd21cb0c76fe&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=69535a9a212d9e8fa4efb433f5f3c77c1f81e7609f21797c9ced39e705d95814&v=0)![](https://files.openai.com/content?id=file_00000000fbd882468e689e19856cd127&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=6c0a998d6c2b61ce68106280a996c23c3cffdc424852768e5ad651687fadcb73&v=0)DeepJudgeSearch internal knowledge](</business/plugins/deepjudge/>)[![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)HarveyLegal intelligence from Harvey](</business/plugins/harvey/>)[![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)LegalQuants TransactionalContract and deal workflows](</business/plugins/legalquants-transactional/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

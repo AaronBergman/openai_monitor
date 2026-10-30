@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.lecg.com/>)
 
-[![](https://files.openai.com/content?id=file_000000009c2481f8b9e6b2dbc533ffed&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=cb88bea07f7a355d0efbae2a01208f208fed790260aac686be48a32abb9c0db9&v=0)Compliance Horizon Scanner Set up my compliance profile and help me choose US states.(opens in a new window)](<https://chatgpt.com/?prompt=%40Compliance+Horizon+Scanner+Set+up+my+compliance+profile+and+help+me+choose+US+states.>)
+[![](https://files.openai.com/content?id=file_000000009c2481f8b9e6b2dbc533ffed&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=cb88bea07f7a355d0efbae2a01208f208fed790260aac686be48a32abb9c0db9&v=0)Compliance Horizon Scanner Set up my compliance profile and help me choose US states.(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa2e3dfeac4819199d6e0df1d881288?install&prompt=Set%20up%20my%20compliance%20profile%20and%20help%20me%20choose%20US%20states.>)
 
 ## How it works
 
@@ -60,19 +60,19 @@ A disciplined horizon-scanning workflow for legal and compliance teams. You buil
 
 ![](https://files.openai.com/content?id=file_000000009c2481f8b9e6b2dbc533ffed&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=cb88bea07f7a355d0efbae2a01208f208fed790260aac686be48a32abb9c0db9&v=0)Compliance Horizon Scanner Set up my compliance profile and help me choose US states.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Compliance+Horizon+Scanner+Set+up+my+compliance+profile+and+help+me+choose+US+states.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa2e3dfeac4819199d6e0df1d881288?install&prompt=Set%20up%20my%20compliance%20profile%20and%20help%20me%20choose%20US%20states.&surface=work>)
 
   * ### Review recent regulatory changes
 
 ![](https://files.openai.com/content?id=file_000000009c2481f8b9e6b2dbc533ffed&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=cb88bea07f7a355d0efbae2a01208f208fed790260aac686be48a32abb9c0db9&v=0)Compliance Horizon Scanner Find regulatory changes since my last scan, with sources and gaps.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Compliance+Horizon+Scanner+Find+regulatory+changes+since+my+last+scan%2C+with+sources+and+gaps.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa2e3dfeac4819199d6e0df1d881288?install&prompt=Find%20regulatory%20changes%20since%20my%20last%20scan%2C%20with%20sources%20and%20gaps.&surface=work>)
 
   * ### Plan around regulatory deadlines
 
 ![](https://files.openai.com/content?id=file_000000009c2481f8b9e6b2dbc533ffed&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=cb88bea07f7a355d0efbae2a01208f208fed790260aac686be48a32abb9c0db9&v=0)Compliance Horizon Scanner Build a sourced calendar of upcoming regulatory deadlines.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Compliance+Horizon+Scanner+Build+a+sourced+calendar+of+upcoming+regulatory+deadlines.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugins_6aa2e3dfeac4819199d6e0df1d881288?install&prompt=Build%20a%20sourced%20calendar%20of%20upcoming%20regulatory%20deadlines.&surface=work>)
 
 
 
@@ -91,11 +91,11 @@ A disciplined horizon-scanning workflow for legal and compliance teams. You buil
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
-### [Privacy policyLearn more](<https://www.lecg.com/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.lecg.com/privacy-policy>)
 
 ## Add the Compliance Horizon Scanner plugin in a few clicks
 
@@ -105,13 +105,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_0000000042e881fc8502e92a53b8fd86&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=f4e663b3c13ed42309372692978d68c9992ccae23344891eff34ae04f405f1d0&v=0)![](https://files.openai.com/content?id=file_00000000c80081fca8e45ede41ed8a8c&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=fb3482bba45e61188e4761af9435dac63756daa149266208a8270577a773f367&v=0)LegoraLegal research with citations](</business/plugins/legora/>)[![](https://files.openai.com/content?id=file_0000000033ec81f6a5077baa2c492e08&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3fc3f532d061de604b2bee6605c591e9ea8b4b532b4f90c3be4c357147560563&v=0)![](https://files.openai.com/content?id=file_0000000033ec81f6a5077baa2c492e08&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3fc3f532d061de604b2bee6605c591e9ea8b4b532b4f90c3be4c357147560563&v=0)CourtListenerLegal research for everyone](</business/plugins/courtlistener/>)[![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)HarveyLegal intelligence from Harvey](</business/plugins/harvey/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability.](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages.](</business/plugins/notion/>)[![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)SharePointSearch and pull from shared sites and OneDrive.](</business/plugins/microsoft-sharepoint/>)
+[![](https://files.openai.com/content?id=file_0000000042e881fc8502e92a53b8fd86&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=f4e663b3c13ed42309372692978d68c9992ccae23344891eff34ae04f405f1d0&v=0)![](https://files.openai.com/content?id=file_00000000c80081fca8e45ede41ed8a8c&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=fb3482bba45e61188e4761af9435dac63756daa149266208a8270577a773f367&v=0)LegoraLegal research with citations](</business/plugins/legora/>)[![](https://files.openai.com/content?id=file_0000000033ec81f6a5077baa2c492e08&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3fc3f532d061de604b2bee6605c591e9ea8b4b532b4f90c3be4c357147560563&v=0)![](https://files.openai.com/content?id=file_0000000033ec81f6a5077baa2c492e08&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3fc3f532d061de604b2bee6605c591e9ea8b4b532b4f90c3be4c357147560563&v=0)CourtListenerLegal research for everyone](</business/plugins/courtlistener/>)[![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)HarveyLegal intelligence from Harvey](</business/plugins/harvey/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_00000000dca471f5a61c7e4a3fab77a4&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=63bacca4cbadf25340543a539567d26664d1f530be2b3f6119d3aaeb4edbed56&v=0)![](https://files.openai.com/content?id=file_00000000aaf8722f9e07cbdd00ea7ad8&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=450cfa6b24e75515f4907572297126983f2d33e3f6f73cab443b4b5596a0deef&v=0)NotionSearch and reference your Notion pages](</business/plugins/notion/>)[![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)![](https://files.openai.com/content?id=file_00000000bec871f5b16bea82279ccf21&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=1&sig=dae48439fa494947db53290285649ef7f8819b8db88432aa57eb884533747051&v=0)SharePointSearch and pull from shared sites and OneDrive](</business/plugins/microsoft-sharepoint/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -123,10 +133,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -145,7 +155,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -172,8 +183,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -192,6 +203,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

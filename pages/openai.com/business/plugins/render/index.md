@@ -32,9 +32,12 @@ OpenAI
 
 # Render
 
-Manage Render resources
+Build and deploy apps & agents
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a624c56bfe081918f7544f7d58f6faf>)[Contact sales](</contact-sales/>)
+
+Capabilities
+    Interactive, Write
 
 Category
     [Engineering & IT](</business/plugins/?tab=plugins-engineering-it>)
@@ -45,31 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://render.com>)
 
-[![](https://files.openai.com/content?id=file_00000000f47481f7a449fcf5f9163d35&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=3a93e236dc1cbe07e9078428ed2dde7c346885ce13e763934adce4e78bad6287&v=0)Render Deploy this application to Render and configure everything it needs(opens in a new window)](<https://chatgpt.com/?prompt=%40Render+Deploy+this+application+to+Render+and+configure+everything+it+needs>)
+[![](https://files.openai.com/content?id=file_000000005a7481f4b7602f4ea1359d06&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=fe3b8783bf3d50977b8d7af5271e1075f4e8f9f83f2761b27d535a6f350b6697&v=0)Render How are my Render services doing?(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a624c56bfe081918f7544f7d58f6faf?install&prompt=How%20are%20my%20Render%20services%20doing%3F>)
 
 ## How it works
 
-Render helps users inspect services, deploys, logs, and metrics; create services and data stores; query Render Postgres databases; trigger deployments; and manage environment variables through ChatGPT.
+Build and deploy apps and agents on Render. Provides skills for deploying apps with Blueprints, debugging failed deploys, monitoring service health and metrics, building Render Workflows, and migrating from Heroku.
 
 ## What else can you do?
 
   * ### Investigate a failed deployment
 
-![](https://files.openai.com/content?id=file_00000000f47481f7a449fcf5f9163d35&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=3a93e236dc1cbe07e9078428ed2dde7c346885ce13e763934adce4e78bad6287&v=0)Render Inspect the latest failed deployment and its logs. Identify the most likely cause, distinguish evidence from hypotheses, and recommend the smallest corrective change.
+![](https://files.openai.com/content?id=file_000000005a7481f4b7602f4ea1359d06&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=fe3b8783bf3d50977b8d7af5271e1075f4e8f9f83f2761b27d535a6f350b6697&v=0)Render Inspect the latest failed deployment and its logs. Identify the most likely cause, distinguish evidence from hypotheses, and recommend the smallest corrective change.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Render+Inspect+the+latest+failed+deployment+and+its+logs.+Identify+the+most+likely+cause%2C+distinguish+evidence+from+hypotheses%2C+and+recommend+the+smallest+corrective+change.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a624c56bfe081918f7544f7d58f6faf?install&prompt=Inspect%20the%20latest%20failed%20deployment%20and%20its%20logs.%20Identify%20the%20most%20likely%20cause%2C%20distinguish%20evidence%20from%20hypotheses%2C%20and%20recommend%20the%20smallest%20corrective%20change.&surface=work>)
 
   * ### Review service health
 
-![](https://files.openai.com/content?id=file_00000000f47481f7a449fcf5f9163d35&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=3a93e236dc1cbe07e9078428ed2dde7c346885ce13e763934adce4e78bad6287&v=0)Render Review this service's recent deployments and logs. Summarize its current status, recurring errors, and the next checks that would clarify any problems.
+![](https://files.openai.com/content?id=file_000000005a7481f4b7602f4ea1359d06&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=fe3b8783bf3d50977b8d7af5271e1075f4e8f9f83f2761b27d535a6f350b6697&v=0)Render Review this service's recent deployments and logs. Summarize its current status, recurring errors, and the next checks that would clarify any problems.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Render+Review+this+service%27s+recent+deployments+and+logs.+Summarize+its+current+status%2C+recurring+errors%2C+and+the+next+checks+that+would+clarify+any+problems.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a624c56bfe081918f7544f7d58f6faf?install&prompt=Review%20this%20service's%20recent%20deployments%20and%20logs.%20Summarize%20its%20current%20status%2C%20recurring%20errors%2C%20and%20the%20next%20checks%20that%20would%20clarify%20any%20problems.&surface=work>)
 
   * ### Deploy an application
 
-![](https://files.openai.com/content?id=file_00000000f47481f7a449fcf5f9163d35&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=3a93e236dc1cbe07e9078428ed2dde7c346885ce13e763934adce4e78bad6287&v=0)Render Deploy this application using the provided requirements. Check the required configuration, report any missing inputs, and return the deployment result and URL.
+![](https://files.openai.com/content?id=file_000000005a7481f4b7602f4ea1359d06&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=fe3b8783bf3d50977b8d7af5271e1075f4e8f9f83f2761b27d535a6f350b6697&v=0)Render Deploy this application using the provided requirements. Check the required configuration, report any missing inputs, and return the deployment result and URL.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Render+Deploy+this+application+using+the+provided+requirements.+Check+the+required+configuration%2C+report+any+missing+inputs%2C+and+return+the+deployment+result+and+URL.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a624c56bfe081918f7544f7d58f6faf?install&prompt=Deploy%20this%20application%20using%20the%20provided%20requirements.%20Check%20the%20required%20configuration%2C%20report%20any%20missing%20inputs%2C%20and%20return%20the%20deployment%20result%20and%20URL.&surface=work>)
 
 
 
@@ -98,11 +101,11 @@ Render helps users inspect services, deploys, logs, and metrics; create services
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://dashboard.render.com>)
+### [Plugin supportLearn more(opens in a new window)](<https://dashboard.render.com>)
 
-### [Privacy policyLearn more](<https://render.com/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://render.com/privacy>)
 
 ## Add the Render plugin in a few clicks
 
@@ -112,13 +115,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects.](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps.](</business/plugins/vercel/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps](</business/plugins/vercel/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -130,10 +143,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -152,7 +165,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -179,8 +193,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -199,6 +213,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
