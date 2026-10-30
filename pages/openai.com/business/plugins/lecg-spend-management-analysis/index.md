@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.lecg.com>)
 
-[![](https://files.openai.com/content?id=file_0000000003a4820c887063c2cb71a1c0&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=2d32e5733497e25fae13a5c78e9d22716f9ccc7a2ffddcea4a47d995242dbde7&v=0)Spend Management Analysis Review this legal billing export for staffing and budget risks.(opens in a new window)](<https://chatgpt.com/?prompt=%40Spend+Management+Analysis+Review+this+legal+billing+export+for+staffing+and+budget+risks.>)
+[![](https://files.openai.com/content?id=file_0000000003a4820c887063c2cb71a1c0&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=2d32e5733497e25fae13a5c78e9d22716f9ccc7a2ffddcea4a47d995242dbde7&v=0)Spend Management Analysis Review this legal billing export for staffing and budget risks.(opens in a new window)](<https://chatgpt.com/plugins/plugins_6a91edf74f488191ae3e90e50125a0fb?install&prompt=Review%20this%20legal%20billing%20export%20for%20staffing%20and%20budget%20risks.>)
 
 ## How it works
 
@@ -60,19 +60,19 @@ Analyze uploaded legal e-billing, invoice, timekeeping, or matter-economics data
 
 ![](https://files.openai.com/content?id=file_0000000003a4820c887063c2cb71a1c0&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=2d32e5733497e25fae13a5c78e9d22716f9ccc7a2ffddcea4a47d995242dbde7&v=0)Spend Management Analysis Review this legal billing export for staffing and budget risks.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Spend+Management+Analysis+Review+this+legal+billing+export+for+staffing+and+budget+risks.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugins_6a91edf74f488191ae3e90e50125a0fb?install&prompt=Review%20this%20legal%20billing%20export%20for%20staffing%20and%20budget%20risks.&surface=work>)
 
   * ### Prepare outside counsel review points
 
 ![](https://files.openai.com/content?id=file_0000000003a4820c887063c2cb71a1c0&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=2d32e5733497e25fae13a5c78e9d22716f9ccc7a2ffddcea4a47d995242dbde7&v=0)Spend Management Analysis Prepare QBR talking points from my outside counsel spend.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Spend+Management+Analysis+Prepare+QBR+talking+points+from+my+outside+counsel+spend.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugins_6a91edf74f488191ae3e90e50125a0fb?install&prompt=Prepare%20QBR%20talking%20points%20from%20my%20outside%20counsel%20spend.&surface=work>)
 
   * ### Check a matter's budget
 
 ![](https://files.openai.com/content?id=file_0000000003a4820c887063c2cb71a1c0&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=2d32e5733497e25fae13a5c78e9d22716f9ccc7a2ffddcea4a47d995242dbde7&v=0)Spend Management Analysis Check whether this active matter is on track against budget.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Spend+Management+Analysis+Check+whether+this+active+matter+is+on+track+against+budget.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugins_6a91edf74f488191ae3e90e50125a0fb?install&prompt=Check%20whether%20this%20active%20matter%20is%20on%20track%20against%20budget.&surface=work>)
 
 
 
@@ -87,9 +87,9 @@ Analyze uploaded legal e-billing, invoice, timekeeping, or matter-economics data
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
 ### [Privacy policyLearn more](<https://openai.com/policies/privacy-policy/>)
 
@@ -101,13 +101,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000004dd481f5b47bc4f3f6df5679&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=b97ac77f8ea251e7fc86364d808db63f4874e9f61ee66e7a90ccb59da9e841e5&v=0)![](https://files.openai.com/content?id=file_000000004dd481f5b47bc4f3f6df5679&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=b97ac77f8ea251e7fc86364d808db63f4874e9f61ee66e7a90ccb59da9e841e5&v=0)LaurelRecord work, unlock insight](</business/plugins/laurel/>)[![](https://files.openai.com/content?id=file_00000000a9cc722fb923cc9523b65b7d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=3dfed128f0bb03d09bf162a2dc55fbe09a77b2bb881e6dda9588c139623cb79f&v=0)![](https://files.openai.com/content?id=file_00000000ae1881f78cb19e9602da73eb&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=e6620dc8efa5f7ff134320dd09ead486087108035fdad05773799d910563ee89&v=0)RampAutomate finance tasks.](</business/plugins/ramp/>)[![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)Intuit QuickBooksBusiness finances made simple](</business/plugins/quickbooks/>)[![](https://files.openai.com/content?id=file_000000003cf081f4a823a4bcbcae26d0&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b3e1fc09e31bb17f78ebf55401f8d3cac3b9edd6087a211f7964659e5519685f&v=0)![](https://files.openai.com/content?id=file_0000000068c082118faa38a9695cf072&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=c55bd8046d0d523ffa96f722e6a8a90b9bdd2e9222af9131e995c3b7a7154b36&v=0)HighQSearch your matter data](</business/plugins/thomson-reuters-highq/>)[![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)Microsoft Power BIExplore and author analytics in your browser](</business/plugins/microsoft-power-bi/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000004dd481f5b47bc4f3f6df5679&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=b97ac77f8ea251e7fc86364d808db63f4874e9f61ee66e7a90ccb59da9e841e5&v=0)![](https://files.openai.com/content?id=file_000000004dd481f5b47bc4f3f6df5679&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=b97ac77f8ea251e7fc86364d808db63f4874e9f61ee66e7a90ccb59da9e841e5&v=0)LaurelRecord work, unlock insight](</business/plugins/laurel/>)[![](https://files.openai.com/content?id=file_00000000a9cc722fb923cc9523b65b7d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=3dfed128f0bb03d09bf162a2dc55fbe09a77b2bb881e6dda9588c139623cb79f&v=0)![](https://files.openai.com/content?id=file_00000000ae1881f78cb19e9602da73eb&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=e6620dc8efa5f7ff134320dd09ead486087108035fdad05773799d910563ee89&v=0)RampAutomate finance tasks](</business/plugins/ramp/>)[![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)Intuit QuickBooksAccounting Payments & Payroll](</business/plugins/quickbooks/>)[![](https://files.openai.com/content?id=file_000000003cf081f4a823a4bcbcae26d0&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b3e1fc09e31bb17f78ebf55401f8d3cac3b9edd6087a211f7964659e5519685f&v=0)![](https://files.openai.com/content?id=file_0000000068c082118faa38a9695cf072&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=c55bd8046d0d523ffa96f722e6a8a90b9bdd2e9222af9131e995c3b7a7154b36&v=0)HighQSearch your matter data](</business/plugins/thomson-reuters-highq/>)[![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)Microsoft Power BIExplore and author analytics in your browser](</business/plugins/microsoft-power-bi/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -119,10 +129,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -141,7 +151,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -168,8 +179,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -188,6 +199,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

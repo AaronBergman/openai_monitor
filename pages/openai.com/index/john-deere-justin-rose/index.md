@@ -147,22 +147,6 @@ _John Deere is leveraging OpenAI APIs to support their customer success teams, d
 
 OpenAI
 
-## Related articles
-
-[View all](</news/>)
-
-![Introducing the Agents API — cover image](https://images.ctfassets.net/kftzwdyauwt9/6iP1bamSOXsPLwzFAepmx2/8b8fec31ba235a13ee695a607d7fe641/cover-image.png?w=3840&q=90&fm=webp)
-
-[Introducing the Agents APIProductSep 10, 2026](</index/introducing-the-agents-api/>)
-
-![Higgsfield > Card Image](https://images.ctfassets.net/kftzwdyauwt9/1QYuGKBKSzphKj2bCMG4Tp/aab097df8ead5298a1cbce05209801f7/oai_higgsfield_1x1.png?w=3840&q=90&fm=webp)
-
-[How Higgsfield turns simple ideas into cinematic social videosAPIJan 21, 2026](</index/higgsfield/>)
-
-![EF EP16 cover image ](https://images.ctfassets.net/kftzwdyauwt9/28Kps4AIGz3EXLMNoADT3n/637ce07b68697ba479b05b1b63eba312/EF_Ep16_1.2.png?w=3840&q=90&fm=webp)
-
-[How CRED is tapping AI to deliver premium customer experiencesAPINov 5, 2025](</index/cred-swamy-seetharaman/>)
-
 Research
 
   * [Research Index](</research/index/>)
@@ -173,10 +157,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -195,7 +179,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -213,6 +198,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -221,8 +207,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -241,6 +227,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

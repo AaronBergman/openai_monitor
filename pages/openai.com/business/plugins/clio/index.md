@@ -55,19 +55,19 @@ Bring Vincent’s legal intelligence into Codex. Research the law, analyze docke
 
 ![](https://files.openai.com/content?id=file_0000000014b881fda4f58beb54ae1129&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=097778accce66c9462f925d14fe6d63009ebbb6be816acb21bf7d5b3dc7a1c62&v=0)Clio Compare [legal issue] in [jurisdiction A] and [jurisdiction B]. Prepare a cited memo on material differences, risks for the facts below, and questions counsel should resolve before advising the business.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Clio+Compare+%5Blegal+issue%5D+in+%5Bjurisdiction+A%5D+and+%5Bjurisdiction+B%5D.+Prepare+a+cited+memo+on+material+differences%2C+risks+for+the+facts+below%2C+and+questions+counsel+should+resolve+before+advising+the+business.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a9ae42bf8148191b31cd429bd5937d5?install&prompt=Compare%20%5Blegal%20issue%5D%20in%20%5Bjurisdiction%20A%5D%20and%20%5Bjurisdiction%20B%5D.%20Prepare%20a%20cited%20memo%20on%20material%20differences%2C%20risks%20for%20the%20facts%20below%2C%20and%20questions%20counsel%20should%20resolve%20before%20advising%20the%20business.&surface=work>)
 
   * ### Brief recent docket activity
 
 ![](https://files.openai.com/content?id=file_0000000014b881fda4f58beb54ae1129&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=097778accce66c9462f925d14fe6d63009ebbb6be816acb21bf7d5b3dc7a1c62&v=0)Clio Review available filings for [case and court] from the past 90 days. Build a cited procedural timeline, summarize key rulings and pending motions, and identify issues that need counsel's attention.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Clio+Review+available+filings+for+%5Bcase+and+court%5D+from+the+past+90+days.+Build+a+cited+procedural+timeline%2C+summarize+key+rulings+and+pending+motions%2C+and+identify+issues+that+need+counsel%27s+attention.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a9ae42bf8148191b31cd429bd5937d5?install&prompt=Review%20available%20filings%20for%20%5Bcase%20and%20court%5D%20from%20the%20past%2090%20days.%20Build%20a%20cited%20procedural%20timeline%2C%20summarize%20key%20rulings%20and%20pending%20motions%2C%20and%20identify%20issues%20that%20need%20counsel's%20attention.&surface=work>)
 
   * ### Build a motion argument
 
 ![](https://files.openai.com/content?id=file_0000000014b881fda4f58beb54ae1129&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=097778accce66c9462f925d14fe6d63009ebbb6be816acb21bf7d5b3dc7a1c62&v=0)Clio Build an argument outline for [motion] in [jurisdiction] using the facts below. Cite supporting and adverse authorities, distinguish weak comparisons, and flag factual gaps for attorney review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Clio+Build+an+argument+outline+for+%5Bmotion%5D+in+%5Bjurisdiction%5D+using+the+facts+below.+Cite+supporting+and+adverse+authorities%2C+distinguish+weak+comparisons%2C+and+flag+factual+gaps+for+attorney+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a9ae42bf8148191b31cd429bd5937d5?install&prompt=Build%20an%20argument%20outline%20for%20%5Bmotion%5D%20in%20%5Bjurisdiction%5D%20using%20the%20facts%20below.%20Cite%20supporting%20and%20adverse%20authorities%2C%20distinguish%20weak%20comparisons%2C%20and%20flag%20factual%20gaps%20for%20attorney%20review.&surface=work>)
 
 
 
@@ -92,11 +92,11 @@ Bring Vincent’s legal intelligence into Codex. Research the law, analyze docke
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://support.clio.com>)
+### [Plugin supportLearn more(opens in a new window)](<https://support.clio.com>)
 
-### [Privacy policyLearn more](<https://www.clio.com/privacy/>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.clio.com/privacy/>)
 
 ## Add the Clio plugin in a few clicks
 
@@ -114,6 +114,16 @@ Bring your organization’s data and tools into OpenAI products and accelerate w
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
 
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
+
 Research
 
   * [Research Index](</research/index/>)
@@ -124,10 +134,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -146,7 +156,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -173,8 +184,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -193,6 +204,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

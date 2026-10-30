@@ -80,17 +80,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Proaction customer story art card - Option A](https://images.ctfassets.net/kftzwdyauwt9/46K6EGB5ApjTSkngvI7uU7/ce0c43f11865fd90348773ceb39485ee/proaction-option-a-art-card.png?w=3840&q=90&fm=webp)
+![An updated Model Spec for more capable and beneficial AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/4nEE8sUTl3LEhrhTSjX3M4/448a13dd2d7f5d809e1fcdeba3001f15/model-spec-update-more-capable-beneficial-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Proaction boosts sales 60% and saves 75+ hours with CodexSep 25, 2026](</index/proaction/>)
+[An updated Model Spec for more capable and beneficial AISafetyOct 29, 2026](</index/updated-model-spec/>)
 
-![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
+![How we detect frontier model misalignment — Cover](https://images.ctfassets.net/kftzwdyauwt9/43ZavE2amLHMmbxH8EL8VM/1464d0f68c0f3c45e9d255992aab32b1/how-we-detect-frontier-model-misalignment-cover.png?w=3840&q=90&fm=webp)
 
-[Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
+[How we detect frontier model misalignmentSecurityOct 29, 2026](</index/how-we-detect-frontier-model-misalignment/>)
 
-![OpenAI extends cyber access to Ukraine for civilian defense — cover](https://images.ctfassets.net/kftzwdyauwt9/4NsiJiqUurW5ypfaulGCFm/8b5bfad7d895c4fc6aa20766d5c88b0c/openai-extends-cyber-access-to-ukraine-for-civilian-defense-cover.png?w=3840&q=90&fm=webp)
+![Ropes & Gray — Cover](https://images.ctfassets.net/kftzwdyauwt9/5Y1dBlCmidTus4VzGKYQln/eed9a19caecad1a88d67f0719bf86bf4/ropes-gray-ai-diligence-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI extends cyber access to Ukraine for civilian defenseGlobal AffairsSep 23, 2026](</index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/>)
+[Ropes & Gray develops AI for transactional diligenceOct 29, 2026](</index/ropes-gray-ai-diligence/>)
 
 Research
 
@@ -102,10 +102,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -124,7 +124,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -151,8 +152,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -171,6 +172,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

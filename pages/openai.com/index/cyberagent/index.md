@@ -113,16 +113,22 @@ Codex adoption is growing quickly across CyberAgent. Teams are using it for far 
 Takao points to three use cases in particular:
 
   * Reviewing, evaluating, and pressure-testing design proposals from multiple perspectives.
+
   * Generating improvement suggestions during code review and selecting among multiple options.
+
   * Building and maintaining knowledge documents such as AGENTS.md so agents can operate with richer context.
+
 
 
 
 He also highlights three main benefits from using Codex:
 
   1. Better design quality through proposals that can be evaluated from multiple perspectives.
+
   2. Faster alignment before implementation, helping reduce rework later.
+
   3. Clearer rationale behind proposals helped people make decisions faster.
+
 
 
 
@@ -150,20 +156,6 @@ CyberAgent views AI not as a temporary boom, but as a turning point that will be
 
 What stands out about CyberAgent’s approach is not only the scale of adoption, but how that adoption has taken shape. In a culture without blanket mandates, teams choose the tools that work for them, learn how to use them well, and build systems that help adoption spread further. ChatGPT Enterprise and Codex have become more than productivity tools. Together, they are helping CyberAgent move from introducing AI to embedding it in everyday work, and from adoption to redesigning how work gets done.
 
-## Keep reading
-
-![Fyxer customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7LbXXCnX1NLyS1i8mHGF1i/d75fdf2bf63cf463ce2e72915a783757/oai_Fyxer_1x1.png?w=3840&q=90&fm=webp)
-
-[How Fyxer built an AI executive assistant people trustStartupSep 14, 2026](</index/fyxer/>)
-
-![deployco seo image](https://images.ctfassets.net/kftzwdyauwt9/6pnntrVmfPSqsFYG5YlAvy/c69de8f9d518accd55c417898a20322e/og-seo.png?w=3840&q=90&fm=webp)
-
-[Monitoring trade-off impacts when building AI productsSep 14, 2026](</deployco/news/monitoring-trade-off-impacts-when-building-ai-products/>)
-
-![Perplexity customer story art card](https://images.ctfassets.net/kftzwdyauwt9/wGvW7AaxivnlRvLvZU7CE/146fd791b18b52b67dbb0a3692357a72/square.png?w=3840&q=90&fm=webp)
-
-[Perplexity trusts GPT-6 Astra with end-to-end systemsSep 14, 2026](</index/perplexity-improving-accuracy-with-astra/>)
-
 Research
 
   * [Research Index](</research/index/>)
@@ -174,10 +166,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -196,7 +188,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -214,6 +207,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -222,8 +216,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -242,6 +236,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

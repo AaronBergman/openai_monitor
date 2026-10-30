@@ -69,8 +69,11 @@ Historically, solving this problem meant hiring large teams of sellers to manual
 Unify’s AI product stack includes three core components:
 
   * **The Observation Model** runs in the background, continuously researching companies in a customer’s total addressable market. Powered by OpenAI o3, it detects high-signal events from publicly available sources, like new hires or stack changes and uses multi-agent workflows to surface strategic insights.
+
   * **The research agent** helps users answer open-ended questions and generate outbound copy, like flagging if a company has recently made an expansion into a new region. It uses GPT‑4.1 for planning, CUA for dynamic browsing, and GPT‑4o for synthesis.
+
   * **Copywriting** , powered by agentic research and GPT‑4o, takes relevant data surfaced by the platform and turns it into drafts of hyper-personalized emails, with details tailored to each lead.
+
 
 
 
@@ -104,17 +107,17 @@ Today, that system powers 30% of Unify’s own pipeline and supports hundreds of
 
 ## Keep reading
 
-![Wix cover image](https://images.ctfassets.net/kftzwdyauwt9/6E3QyNLzuWwK3EGBHPw7nQ/fbd0c5a34cc4f4ba096028adbdda8934/oai_Wix_1x1.png?w=3840&q=90&fm=webp)
+![An updated Model Spec for more capable and beneficial AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/4nEE8sUTl3LEhrhTSjX3M4/448a13dd2d7f5d809e1fcdeba3001f15/model-spec-update-more-capable-beneficial-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Creating websites in minutes with AI Website BuilderMay 29, 2025](</index/wix/>)
+[An updated Model Spec for more capable and beneficial AISafetyOct 29, 2026](</index/updated-model-spec/>)
 
-![Coderabbit cover image](https://images.ctfassets.net/kftzwdyauwt9/7b5nc20N6oPfgjCUheFe2F/55fe1900f5ce545f22014a0dcfd4aad3/oai_coderabbit_1x1.png?w=3840&q=90&fm=webp)
+![How we detect frontier model misalignment — Cover](https://images.ctfassets.net/kftzwdyauwt9/43ZavE2amLHMmbxH8EL8VM/1464d0f68c0f3c45e9d255992aab32b1/how-we-detect-frontier-model-misalignment-cover.png?w=3840&q=90&fm=webp)
 
-[ Shipping code faster with o3, o4-mini, and GPT-4.1May 22, 2025](</index/coderabbit/>)
+[How we detect frontier model misalignmentSecurityOct 29, 2026](</index/how-we-detect-frontier-model-misalignment/>)
 
-![Lowes > Cover media](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
+![Ropes & Gray — Cover](https://images.ctfassets.net/kftzwdyauwt9/5Y1dBlCmidTus4VzGKYQln/eed9a19caecad1a88d67f0719bf86bf4/ropes-gray-ai-diligence-cover.png?w=3840&q=90&fm=webp)
 
-[Lowe’s puts project expertise into every hand May 7, 2025](</index/lowes/>)
+[Ropes & Gray develops AI for transactional diligenceOct 29, 2026](</index/ropes-gray-ai-diligence/>)
 
 Research
 
@@ -126,10 +129,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -148,7 +151,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -166,6 +170,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -174,8 +179,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -194,6 +199,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
