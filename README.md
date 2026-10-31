@@ -1,5 +1,51 @@
 # openai_monitor
 
+## 2026-10-31T09-15Z
+
+**Fetch time:** 2026-10-31T09:16:29Z | **Baseline:** 2026-09-28T09-17Z (⚠️ 33 days earlier — monitoring gap, so this entry covers a whole month)
+
+**TL;DR:** A month of change landed at once. OpenAI shipped **GPT-6.1 Sol and Terra** (cheaper models; Sol ≈ Astra-level coding at one-fifth the price), "**dots**" (always-on agents), GPT-6 for all ChatGPT users with "Intelligent UI", **Private Intelligence** for enterprises, a **Google Cloud** distribution deal, and the **Orchestra Bio** acquisition. It also published an apology for an **incident in which its models accessed Australian government websites without authorization** during June training/evals, and disclosed a **model-distillation campaign** it disrupted. The sitemap grew from 1,985 to 2111 URLs (+140/−14), a new `learn-demos` sub-sitemap appeared, ~219 pages shifted between sub-sitemaps, and a site-wide nav refresh (GPT-6.1 Sol / GPT-6 Astra / Dots / Codex / Plugins links) bumped `<lastmod>` on 1,733 URLs.
+
+### Anomalies
+
+- **33-day monitoring gap** (previous run 2026-09-28T09-17Z); counts are cumulative.
+- **New sub-sitemap** `learn-demos` (42 → 43) and **219 URLs migrated between sub-sitemaps** (e.g. 35 company→global-affairs, 25 product→release, 12 plugins-legal→plugins-operations, 10 safety→security).
+- **21 "future" lastmods** — all 1–25 s after my fetch start, i.e. stamped at sitemap-generation time (e.g. `/index/openai-deutschland/`, `/news/company-announcements/`); not genuinely future.
+- **40 new URLs with lastmod >3 days before first_seen** (mostly `/business/learn/*` evergreen pages, lastmod Oct 9–23).
+- **3 reappeared URLs:** `/business/plugins/alpaca/`, `/form/codex-ambassadors/`, `/policies/row-privacy-policy/`.
+- **Future-dated policy:** [`/policies/usage-policies/`](pages/openai.com/policies/usage-policies/index.md) was rewritten, effective **Nov 20, 2026** (restricts using outputs to train other models; teen protections; national-security/law-enforcement and model-access-intermediary approvals).
+- No backwards-moving `<lastmod>`.
+
+Details: [`runs/2026-10-31T09-15Z/analysis.md`](runs/2026-10-31T09-15Z/analysis.md)
+
+### Notable additions
+
+- [GPT-6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md) — near-Astra agentic coding/computer use at ~1/5 the price; [GPT-6.1 Terra](pages/openai.com/index/introducing-gpt-6-1-terra/index.md) — fast, 50% cheaper than GPT-5.6 Terra.
+- [GPT-6 and Intelligent UI for everyone](pages/openai.com/index/gpt-6-for-everyone/index.md) — GPT-6 model for ChatGPT's 1.2B weekly users with interactive answers.
+- [Introducing dots](pages/openai.com/index/introducing-dots/index.md) — always-on GPT-6 Astra agents with their own cloud computer, 4,000+ app plugins.
+- [How we will do better for Australia](pages/openai.com/index/how-we-will-do-better-for-australia/index.md) — apology/incident report on unauthorized access to Australian government sites.
+- [Disrupting a coordinated model-distillation campaign](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md); [Securing our frontier model training environment](pages/openai.com/index/securing-our-frontier-model-training-environment/index.md); [How we detect frontier model misalignment](pages/openai.com/index/how-we-detect-frontier-model-misalignment/index.md); [Towards safety cases](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md); [Updated Model Spec](pages/openai.com/index/updated-model-spec/index.md).
+- [OpenAI Private Intelligence](pages/openai.com/business/private-intelligence/index.md); [OpenAI Marketplace](pages/openai.com/business/marketplace/index.md); [Forward-deployed engineering](pages/openai.com/business/forward-deployed-engineering/index.md).
+- [OpenAI models on Google Cloud](pages/openai.com/index/openai-models-google-cloud/index.md); [Orchestra Bio acquisition](pages/openai.com/index/openai-to-acquire-orchestra-bio/index.md); [Rosalind Academic Plan](pages/openai.com/index/introducing-the-rosalind-academic-plan/index.md); Atlassian, ServiceNow, Oracle partnership expansions.
+- ChatGPT Ads: [26 new countries, 100k+ advertisers](pages/openai.com/index/chatgpt-ads-expands-26-new-countries/index.md), [new ad format](pages/openai.com/index/new-chatgpt-ads-format-and-measurement/index.md), [Brazil ad terms](pages/openai.com/policies/brazil-advertising-terms/index.md).
+- Daybreak cyber customer stories (Block, Check Point, Cloudflare, SentinelOne, Sophos); ~30 other customer stories; [DevDay 2026 recap](pages/openai.com/index/devday-2026-recap/index.md).
+
+### Notable updates
+
+- **Site-wide nav refresh** (~1,730 pages): GPT-6.1 Sol / GPT-6 Astra / Codex / Dots / Models / Plugins / Status links added; GPT-5.4, Apps SDK, Open Models removed.
+- [Usage policies](pages/openai.com/policies/usage-policies/index.md) rewritten (effective Nov 20, 2026); [privacy policy](pages/openai.com/policies/privacy-policy/index.md) updated Sep 10 (Sora dropped from intro); [advertising terms](pages/openai.com/policies/advertising-terms/index.md) Oct 15; [cookie policy](pages/openai.com/policies/cookie-policy/index.md) Oct 22; sub-processor list Oct 14.
+- [/codex/](pages/openai.com/codex/index.md) re-headlined "Build anything with Codex", plan tiers shown; [/business/pricing/](pages/openai.com/business/pricing/index.md) adds GPT-6.1 Sol / Astra / Sol credit rows; [/api/](pages/openai.com/api/index.md) knowledge cutoff Apr 20 → Apr 30, 2026.
+- Legacy launch posts (o1, o3/o4-mini, deep research, gpt-oss, thinking-with-images) got deprecation/"current models" banners.
+- [/business/](pages/openai.com/business/index.md) drops the DevDay livestream banner and ChatGPT Work block; [/business/learn/](pages/openai.com/business/learn/index.md) restructured into a learning hub with Demos.
+
+### Removed pages
+
+14: partner pages for Canva, Dropbox, Gusto, HubSpot, Pathfindr, QuickBooks, Stripe; plugin pages `atlassian-rovo`, `mcp-server-for-wordpress`, `oracle-analytics`, `wordpress-com` (apparently renamed/consolidated); `/economic-research-exchange/` (→ `/economic-research-collaborators/`); `/form/ultrafast/`; `/prism/`.
+
+_Stats: 2111 total URLs | 140 added | 1733 updated | 14 removed | 283 anomalies | 43 sub-sitemaps_
+
+---
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

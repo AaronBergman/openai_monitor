@@ -49,11 +49,17 @@ Early [studies⁠(opens in a new window)](<https://www.microsoft.com/en-us/workl
 We’re committed to working with educators, policymakers, and community leaders to close these gaps, and make AI tools like ChatGPT widely available and responsibly integrated into learning. Our report outlines key proposals:
 
   * **Demystify AI** : While three in four higher ed students want AI training, only one in four universities and colleges provide it. Programs to promote responsible use, address academic integrity concerns, and build proficiency in real-world applications like job searches, exam preparation and internships are key. 
+
   * **Drive Access** : Many college students discover AI tools informally, and cost can be a barrier. By driving student awareness to ChatGPT’s free products, as well as subsidizing equitable access to the latest models, institutions can make AI available to students at scale.
+
   * **Develop policies:** With the release of this report, OpenAI is [updating our Economic Blueprint](</global-affairs/openais-economic-blueprint/>), our living document of policy proposals we support, to include specific proposals to support AI workforce development at the federal, state and local levels, such as:
+
     * Federal Action: Expand 529 savings plans to include AI-oriented apprenticeships.
+
     * State legislation: Establish AI literacy frameworks (similar to ISTE Standards) in core curriculum for students and professional development for teachers, while allowing states to tailor programs to local contexts.
+
     * Workforce Development: Incentivize public-private partnerships to assess AI workforce needs, create training pipelines, and collaborate with labor unions, community colleges, and other institutions that provide training. 
+
 
 
 
@@ -84,9 +90,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -105,7 +112,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -123,6 +131,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -131,8 +140,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -151,6 +160,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

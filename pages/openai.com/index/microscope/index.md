@@ -57,8 +57,11 @@ When someone makes a claim like this, it’s useful if others can quickly explor
 Microscope systematically visualizes every neuron in several commonly studied vision models, and makes all of those neurons linkable. We hope this will support the interpretability community in several ways:
 
   1. Although these models and visualizations are already open source (we help maintain the [lucid library⁠(opens in a new window)](<https://github.com/tensorflow/lucid/>), which is used to generate all the visualizations in Microscope) visualizing neurons is tedious. Microscope changes the feedback loop of exploring neurons from minutes to seconds. This quick feedback loop has been essential for us in discovering unexpected features like high-low frequency detectors in the ongoing [circuits project⁠(opens in a new window)](<https://distill.pub/2020/circuits/zoom-in/>).
+
   2. Making models and neurons linkable allows immediate scrutiny and further exploration of research making claims about those neurons. It also removes potential confusion about which model and neuron is being discussed (which of the five versions of InceptionV1 are we talking about again?). This is really helpful for collaboration, especially when researchers are at different institutions.
+
   3. One of the wonderful things about interpretability as an area of ML is how accessible it is. Compared to many other areas, it requires comparatively little access to compute. But systematically visualizing neural networks can still take hundreds of GPU hours. We hope that, by sharing our visualizations, we can help keep interpretability highly accessible.
+
 
 
 
@@ -78,15 +81,15 @@ Nick Cammarata, Gabriel Goh, Chris Olah
 
 [View all](</news/>)
 
-![Point E A System For Generating 3d Point Clouds From Complex Prompts](https://images.ctfassets.net/kftzwdyauwt9/7e4ba260-7655-4049-5a2568c94158/2f2af956a356ee2b507296d01e45e766/image-5.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting depicting a landscape.](https://images.ctfassets.net/kftzwdyauwt9/7e4ba260-7655-4049-5a2568c94158/2f2af956a356ee2b507296d01e45e766/image-5.webp?w=3840&q=90&fm=webp)
 
 [Point-E: A system for generating 3D point clouds from complex promptsPublicationDec 16, 2022](</index/point-e/>)
 
-![Multimodal Neurons](https://images.ctfassets.net/kftzwdyauwt9/e16f419f-09bf-4266-7ca3cdd2ae33/0a11dd23053f257828e7c68a815cd632/multimodal-neurons.png?w=3840&q=90&fm=webp)
+![A digitally-rendered image of a mountain landscape in a pixelated style.](https://images.ctfassets.net/kftzwdyauwt9/e16f419f-09bf-4266-7ca3cdd2ae33/0a11dd23053f257828e7c68a815cd632/multimodal-neurons.png?w=3840&q=90&fm=webp)
 
 [Multimodal neurons in artificial neural networksMilestoneMar 4, 2021](</index/multimodal-neurons/>)
 
-![CLIP](https://images.ctfassets.net/kftzwdyauwt9/5e490f66-703f-4228-221ca64049ed/8ed4358ba4b9f8779e07a2b15d7256e1/image_125.png?w=3840&q=90&fm=webp)
+![A grid of images with stacked duplicates of the images, emulating a 3D effect.](https://images.ctfassets.net/kftzwdyauwt9/5e490f66-703f-4228-221ca64049ed/8ed4358ba4b9f8779e07a2b15d7256e1/image_125.png?w=3840&q=90&fm=webp)
 
 [CLIP: Connecting text and imagesMilestoneJan 5, 2021](</index/clip/>)
 
@@ -100,9 +103,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -121,7 +125,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -139,14 +144,17 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -165,6 +173,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -172,6 +181,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
