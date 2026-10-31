@@ -32,7 +32,7 @@ OpenAI
 
 # Daloopa
 
-Access financial KPIs with source links.
+Financial KPIs with links
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_692f6343042c8191b6617e8352444692>)[Contact sales](</contact-sales/>)
 
@@ -47,7 +47,7 @@ Website
 
 ## How it works
 
-Access verified financial fundamentals and KPIs with direct source links in ChatGPT to support analysis, benchmarking, and modeling across public companies.
+Daloopa supplies high quality fundamental data sourced from filings, investor presentations, earnings transcripts and company presentations, with hyperlinks to source document overlaying each data point. Provides a zero-hallucination foundation for any quantitative financial analysis in ChatGPT.
 
 ## What else can you do?
 
@@ -55,19 +55,19 @@ Access verified financial fundamentals and KPIs with direct source links in Chat
 
 ![](https://files.openai.com/content?id=file_000000005a64722f96b05ee7cfdb3efd&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=d5977ffc3ac4bfb68290039aabaf412a46dff8e7d1a637889effaabbe28c5ed4&v=0)Daloopa Pull the last 5 years of revenue gross margin, operating margin, and FCF for Apple with source links.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Daloopa+Pull+the+last+5+years+of+revenue+gross+margin%2C+operating+margin%2C+and+FCF+for+Apple+with+source+links.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_692f6343042c8191b6617e8352444692?install&prompt=Pull%20the%20last%205%20years%20of%20revenue%20gross%20margin%2C%20operating%20margin%2C%20and%20FCF%20for%20Apple%20with%20source%20links.&surface=work>)
 
   * ### Improve data reliability
 
 ![](https://files.openai.com/content?id=file_000000005a64722f96b05ee7cfdb3efd&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=d5977ffc3ac4bfb68290039aabaf412a46dff8e7d1a637889effaabbe28c5ed4&v=0)Daloopa Summarize the trend in unit economics for this company and point to the primary sources behind each metric.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Daloopa+Summarize+the+trend+in+unit+economics+for+this+company+and+point+to+the+primary+sources+behind+each+metric.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_692f6343042c8191b6617e8352444692?install&prompt=Summarize%20the%20trend%20in%20unit%20economics%20for%20this%20company%20and%20point%20to%20the%20primary%20sources%20behind%20each%20metric.&surface=work>)
 
   * ### Scale advanced financial workflows
 
 ![](https://files.openai.com/content?id=file_000000005a64722f96b05ee7cfdb3efd&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=d5977ffc3ac4bfb68290039aabaf412a46dff8e7d1a637889effaabbe28c5ed4&v=0)Daloopa Create a quick benchmarking snapshot I can paste into an IC deck with the most decision relevant KPIs.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Daloopa+Create+a+quick+benchmarking+snapshot+I+can+paste+into+an+IC+deck+with+the+most+decision+relevant+KPIs.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_692f6343042c8191b6617e8352444692?install&prompt=Create%20a%20quick%20benchmarking%20snapshot%20I%20can%20paste%20into%20an%20IC%20deck%20with%20the%20most%20decision%20relevant%20KPIs.&surface=work>)
 
 
 
@@ -96,11 +96,11 @@ Access verified financial fundamentals and KPIs with direct source links in Chat
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://daloopa.ai/support>)
+### [Plugin supportLearn more(opens in a new window)](<https://daloopa.ai/support>)
 
-### [Privacy policyLearn more](<https://daloopa.ai/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://daloopa.ai/privacy>)
 
 ## Add the Daloopa plugin in a few clicks
 
@@ -110,13 +110,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingSupport company research and deal analysis.](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingBuild banking analysis and client-ready materials.](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000009c38722f80144f00dd87ea34&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=8e9598782d7e36464e64c394a2fecb5ab3bf6b35731be6a16d3b9ec05b080a32&v=0)![](https://files.openai.com/content?id=file_000000003ec881f6aaeecf3f949966e5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=1c18816d30ee51f5b8365b1c3d420e3b9da7e6f4d0f9830032b871fc457f48f6&v=0)MorningstarAccess live market insights.](</business/plugins/morningstar/>)[![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)LSEGAccess LSEG financial data for pricing and market analysis.](</business/plugins/lseg/>)[![](https://files.openai.com/content?id=file_000000000aac722f9874ed898f906fe5&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=85be1e32ecd5938ebde62c35d9d37bc83792db94ae1d5bbc145313f90f374c50&v=0)![](https://files.openai.com/content?id=file_000000009ec481f6b74903ef6fa4c2bd&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=1b4092ec812db85c9135837e27a157eec9d4077b2ede5f941a94ea7ae1504a88&v=0)PitchBookFaster workflows with market intelligence.](</business/plugins/pitchbook/>)
+[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingPublic equity research](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingM&A, valuation, and financing](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000009c38722f80144f00dd87ea34&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=8e9598782d7e36464e64c394a2fecb5ab3bf6b35731be6a16d3b9ec05b080a32&v=0)![](https://files.openai.com/content?id=file_000000003ec881f6aaeecf3f949966e5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=1c18816d30ee51f5b8365b1c3d420e3b9da7e6f4d0f9830032b871fc457f48f6&v=0)MorningstarInvestment and market insights](</business/plugins/morningstar/>)[![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)![](https://files.openai.com/content?id=file_00000000838c71f689139639dc435b8e&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=ded0420cc73fb5c48598cd93c52b4a70df4b0f8445c20c8d1c8c2ecc49f77954&v=0)LSEGData and analytics](</business/plugins/lseg/>)[![](https://files.openai.com/content?id=file_000000000aac722f9874ed898f906fe5&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=1&sig=85be1e32ecd5938ebde62c35d9d37bc83792db94ae1d5bbc145313f90f374c50&v=0)![](https://files.openai.com/content?id=file_000000009ec481f6b74903ef6fa4c2bd&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=1b4092ec812db85c9135837e27a157eec9d4077b2ede5f941a94ea7ae1504a88&v=0)PitchBookPrivate capital market data](</business/plugins/pitchbook/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -128,10 +138,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -150,7 +160,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -177,8 +188,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -197,6 +208,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

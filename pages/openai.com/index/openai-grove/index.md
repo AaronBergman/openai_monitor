@@ -52,17 +52,17 @@ OpenAI
 
 ## Keep reading
 
-![How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules — card image](https://images.ctfassets.net/kftzwdyauwt9/5UARNm4AwJ9OfXCIzHZgLF/c05ef4322030e9552dfe2458d34ceaed/index-codex-chatgpt-antimicrobials--cover-v001.png?w=3840&q=90&fm=webp)
+![Making it easier for websites to express AI training preferences — Cover](https://images.ctfassets.net/kftzwdyauwt9/2k1vMnTZUeR0P30sHZA5P0/f6b841637d5d703414e3044fcb7196a0/websites-toeexpress-ai-training-preferences-cover.png?w=3840&q=90&fm=webp)
 
-[How a researcher uses Codex and ChatGPT to search for new antimicrobial moleculesApplied AISep 10, 2026](</index/using-codex-chatgpt-to-search-for-new-antimicrobials/>)
+[Making it easier for websites to express AI training preferencesCompanyOct 30, 2026](</index/helping-websites-express-ai-training-preferences/>)
 
-![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
+![An update on violence prevention — Cover](https://images.ctfassets.net/kftzwdyauwt9/2JkiYuWDdFYR0Wg7GoacTc/56a54c0060610c840d098457108a4f88/an-update-on-violence-prevention-cover.png?w=3840&q=90&fm=webp)
 
-[Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
+[Community safety report and new protections for teensSafetyOct 30, 2026](</index/community-safety-report-and-new-protections-for-teens/>)
 
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
+![Fair use benefits everyone — Cover](https://images.ctfassets.net/kftzwdyauwt9/5GEvaQfMA4Mcrt2QIwLGJG/a294f4748aae1f08adae06a25bb07354/fair-use-benefits-everyone-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
+[Fair use benefits everyoneCompanyOct 30, 2026](</index/fair-use-benefits-everyone/>)
 
 Research
 
@@ -74,10 +74,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -96,7 +96,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -114,6 +115,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -122,8 +124,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -142,6 +144,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

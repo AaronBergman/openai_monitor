@@ -36,7 +36,7 @@ How the world is putting ChatGPT to work
 
 [Read more](</index/how-the-world-is-putting-chatgpt-to-work/>)
 
-![OpenAI Economic Research Exchange > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MdZoald7651CE2asd3Xda/fbee54b4c6a8d56917c043b9b5956672/Frame.png?w=3840&q=90&fm=webp)
+![Abstract blue, lavender, and pink artwork.](https://images.ctfassets.net/kftzwdyauwt9/3kLGh8zbPmIBQwUAFMVZck/54eb945c239ba77d43c40b03538604b0/openai-economic-research-collaborators-cover.png?w=3840&q=90&fm=webp)
 
 How the world is putting ChatGPT to work
 
@@ -72,7 +72,7 @@ How the world is putting ChatGPT to work
 
 [Read more](</index/how-the-world-is-putting-chatgpt-to-work/>)
 
-![OpenAI Economic Research Exchange > Cover image](https://images.ctfassets.net/kftzwdyauwt9/3MdZoald7651CE2asd3Xda/fbee54b4c6a8d56917c043b9b5956672/Frame.png?w=3840&q=90&fm=webp)
+![Abstract blue, lavender, and pink artwork.](https://images.ctfassets.net/kftzwdyauwt9/3kLGh8zbPmIBQwUAFMVZck/54eb945c239ba77d43c40b03538604b0/openai-economic-research-collaborators-cover.png?w=3840&q=90&fm=webp)
 
 How the world is putting ChatGPT to work
 
@@ -122,6 +122,14 @@ OpenAI’s Enterprise Signals tracks AI adoption across industries and business 
 
 ## Recent news
 
+![Abstract textured gradient background blending bright green and teal into soft blue and purple tones, with smooth, blurred transitions.](https://images.ctfassets.net/kftzwdyauwt9/6QhDGDocz7QOwfPndw4sCT/5681abf3a9b839cccf7c108221d23fcf/how-workers-use-chatgpt-cover.png?w=3840&q=90&fm=webp)
+
+[ChatGPT’s expanding world of work](<https://openai.com/index/chatgpt-expanding-world-of-work/>)
+
+![Abstract gradient background blending lavender, purple, and blue tones with soft, blurred transitions.](https://images.ctfassets.net/kftzwdyauwt9/2grKxXJHSpaLubgpwbsSx5/d1c06eb9de4c77392cc60e74b048e8e2/the-eus-next-chapter-in-ai-is-agentic-cover.png?w=3840&q=90&fm=webp)
+
+[The EU’s next chapter in AI is agentic](<https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic/>)
+
 ![Abstract gradient background blending teal and blue tones with soft, blurred transitions.](https://images.ctfassets.net/kftzwdyauwt9/YVOmB2UlP6HNIxMKNnpu1/1e3800b890b91728f782309564187b46/1lmaflspzj765gaje1hbon-cover.png?w=3840&q=90&fm=webp)
 
 [How workers are unlocking new ways of working](<https://openai.com/index/unlocking-new-ways-of-working/>)
@@ -138,29 +146,21 @@ OpenAI’s Enterprise Signals tracks AI adoption across industries and business 
 
 [How enterprises put AI to work](<https://openai.com/index/how-enterprises-put-ai-to-work/>)
 
-![Blue abstract shapes with green and yellow highlights.](https://images.ctfassets.net/kftzwdyauwt9/7L5UF79Bvsd6kQ7tMCZQe4/04242c5dd96ac7b6cdbdcaf4f94ca7dc/Art_Card__6_.png?w=3840&q=90&fm=webp)
-
-[How the world is putting ChatGPT to work](<https://openai.com/index/how-the-world-is-putting-chatgpt-to-work/>)
-
-![Pale blue waves blend across a bright blue background.](https://images.ctfassets.net/kftzwdyauwt9/3CiHEuR2xgn3DkLHTEtx3n/ff43a35123921826c91480492e35087d/Frame.png?w=3840&q=90&fm=webp)
-
-[The OpenAI Economic Research Exchange](<https://openai.com/economic-research-exchange/>)
-
 ### Reports
 
-### [Work at the Frontier: How workers are unlocking new ways of workingSeptember 2026 | An analysis of how workers use AI to do tasks outside their typical occupation and which new tasks they build into their workflows.Learn more](<https://cdn.openai.com/pdf/work-at-the-frontier-report-202609.pdf>)
+### [Work at the Frontier: How workers are unlocking new ways of workingSeptember 2026 | An analysis of how workers use AI to do tasks outside their typical occupation and which new tasks they build into their workflows.Learn more(opens in a new window)](<https://cdn.openai.com/pdf/work-at-the-frontier-report-202609.pdf>)
 
-### [Training novices to think, or giving them LLMs? Evidence from an RCTAugust 2026 | A study examining how access to ChatGPT and training in causal reasoning affect how students approach and perform a real-world business problem.Learn more](<https://cdn.openai.com/pdf/novices-and-llm-august-2026.pdf>)
+### [Training novices to think, or giving them LLMs? Evidence from an RCTAugust 2026 | A study examining how access to ChatGPT and training in causal reasoning affect how students approach and perform a real-world business problem.Learn more(opens in a new window)](<https://cdn.openai.com/pdf/novices-and-llm-august-2026.pdf>)
 
-### [How organizations use AI: Evidence from ChatGPTAugust 2026 | Research examining how ChatGPT Enterprise has spread within and across organizations over the past two years.Learn more](<https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf>)
+### [How organizations use AI: Evidence from ChatGPTAugust 2026 | Research examining how ChatGPT Enterprise has spread within and across organizations over the past two years.Learn more(opens in a new window)](<https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf>)
 
 ### [How AI is expanding what people do at workJuly 2026 | An analysis of how occupation-specific tasks spread across job boundaries.Learn more](<https://openai.com/index/how-ai-is-expanding-what-people-do-at-work/>)
 
-### [The AI jobs transition framework for the EUJune 2026 | A map of near-term job impacts of AI in the EU labor market.Learn more](<https://cdn.openai.com/pdf/the-ai-jobs-transition-framework-for-the-eu.pdf>)
+### [The AI jobs transition framework for the EUJune 2026 | A map of near-term job impacts of AI in the EU labor market.Learn more(opens in a new window)](<https://cdn.openai.com/pdf/the-ai-jobs-transition-framework-for-the-eu.pdf>)
 
 ### [How ChatGPT adoption has expandedJune 2026 | A new picture of global AI adoption.Learn more](<https://openai.com/index/how-chatgpt-adoption-has-expanded/>)
 
-### [The shift to agentic AI: evidence from CodexJune 2026 | An analysis of Codex usage to understand how agentic AI is shifting work, especially in organizations and at OpenAI.Learn more](<https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf>)
+### [The shift to agentic AI: evidence from CodexJune 2026 | An analysis of Codex usage to understand how agentic AI is shifting work, especially in organizations and at OpenAI.Learn more(opens in a new window)](<https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf>)
 
 ### [How ChatGPT adoption broadened in early 2026May 2026 | Q1 data shows consumer adoption growth among users over 35 and those with typically feminine names.Learn more](<https://openai.com/signals/research/2026q1-update/>)
 
@@ -216,10 +216,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -238,7 +238,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -265,8 +266,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -285,6 +286,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
