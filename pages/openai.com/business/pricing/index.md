@@ -26,6 +26,8 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
+For life sciences research, explore the [Rosalind Academic Plan](</index/introducing-the-rosalind-academic-plan/>).
+
 # Pricing
 
 See pricing for our business and enterprise plans.
@@ -35,6 +37,16 @@ ChatGPTAPI
 ## Start creating with OpenAI’s powerful models.
 
 [Get started(opens in a new window)](<https://platform.openai.com/>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -46,10 +58,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -68,7 +80,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -95,8 +108,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -115,6 +128,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -163,7 +177,7 @@ $20/month if billed annually. $25/month if billed monthly.
 
 $100/ month
 
-5x more usage than standard, with no 5-hour limit
+More usage than standard, with no 5-hour limit
 
 $100/month if billed annually. $125/month if billed monthly.
 
@@ -190,7 +204,9 @@ What’s included:
 
 
 
-For teams of 2–200 employees. Unlimited subject to abuse guardrails. [Learn more⁠⁠(opens in a new window)](<https://help.openai.com/en/articles/8792828-what-is-chatgpt-team>)
+For teams of 2–200 employees. Unlimited subject to abuse guardrails. [Learn more⁠⁠(opens in a new window)](<https://help.openai.com/en/articles/8792828-what-is-chatgpt-team>).
+
+Starting in December, plan usage will have a shared limit across all of ChatGPT and Codex. [Learn more⁠(opens in a new window)](<https://help.openai.com/articles/20001625>).
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/1QmprWl68NSPJFAwHcdDm4/63529f748566c4d710859f4dcb4cf946/pricing-plan-enterprise.png?w=3840&q=90&fm=webp)
 
@@ -264,6 +280,30 @@ Plan: Business, Feature: Access on web, iOS, Android, Yes
 Plan: Enterprise, Feature: Access on web, iOS, Android, Yes
 
 ### Models
+
+###### GPT-6.1 Sol
+
+Flexible**Plan: Business, Feature: GPT-6.1 Sol, Flexible**
+
+Flexible**Plan: Enterprise, Feature: GPT-6.1 Sol, Flexible**
+
+###### GPT-6 Astra
+
+Flexible**Plan: Business, Feature: GPT-6 Astra, Flexible**
+
+Flexible**Plan: Enterprise, Feature: GPT-6 Astra, Flexible**
+
+###### GPT-6 Sol
+
+Flexible**Plan: Business, Feature: GPT-6 Sol, Flexible**
+
+Flexible**Plan: Enterprise, Feature: GPT-6 Sol, Flexible**
+
+###### GPT-6 Luna
+
+Flexible**Plan: Business, Feature: GPT-6 Luna, Flexible**
+
+Flexible**Plan: Enterprise, Feature: GPT-6 Luna, Flexible**
 
 ###### GPT-5.6 Sol
 
@@ -351,6 +391,12 @@ Plan: Business, Feature: Codex, Yes
 
 Plan: Enterprise, Feature: Codex, Yes
 
+###### Dots
+
+Business PremiumPlan: Business, Feature: Dots, Business Premium
+
+Plan: Enterprise, Feature: Dots, Yes
+
 ###### Plugins
 
 Plan: Business, Feature: Plugins, Yes
@@ -398,12 +444,6 @@ Plan: Enterprise, Feature: Memory sources, No
 Plan: Business, Feature: Search, Yes
 
 Plan: Enterprise, Feature: Search, Yes
-
-###### Canvas
-
-Plan: Business, Feature: Canvas, Yes
-
-Plan: Enterprise, Feature: Canvas, Yes
 
 ###### Code edits on macOS
 
@@ -477,11 +517,11 @@ Plan: Business, Feature: Interactive apps, Yes
 
 Plan: Enterprise, Feature: Interactive apps, Yes
 
-###### Excel, PowerPoint, and Google Sheets extensions
+###### Excel, Word, PowerPoint, and Google Sheets extensions
 
-Plan: Business, Feature: Excel, PowerPoint, and Google Sheets extensions, Yes
+Plan: Business, Feature: Excel, Word, PowerPoint, and Google Sheets extensions, Yes
 
-Plan: Enterprise, Feature: Excel, PowerPoint, and Google Sheets extensions, Yes
+Plan: Enterprise, Feature: Excel, Word, PowerPoint, and Google Sheets extensions, Yes
 
 ###### Company knowledge
 
@@ -501,23 +541,23 @@ Plan: Business, Feature: ChatGPT record mode, Yes
 
 Plan: Enterprise, Feature: ChatGPT record mode, Yes
 
-###### Discover & use GPTs
+###### Discover & use Plugins
 
-Plan: Business, Feature: Discover & use GPTs, Yes
+Plan: Business, Feature: Discover & use Plugins, Yes
 
-Plan: Enterprise, Feature: Discover & use GPTs, Yes
+Plan: Enterprise, Feature: Discover & use Plugins, Yes
 
-###### Create & share GPTs
+###### Create & share Plugins
 
-Plan: Business, Feature: Create & share GPTs, Yes
+Plan: Business, Feature: Create & share Plugins, Yes
 
-Plan: Enterprise, Feature: Create & share GPTs, Yes
+Plan: Enterprise, Feature: Create & share Plugins, Yes
 
-###### Share GPTs with your workspace
+###### Share Plugins with your workspace
 
-Plan: Business, Feature: Share GPTs with your workspace, Yes
+Plan: Business, Feature: Share Plugins with your workspace, Yes
 
-Plan: Enterprise, Feature: Share GPTs with your workspace, Yes
+Plan: Enterprise, Feature: Share Plugins with your workspace, Yes
 
 ###### Opportunities to test new features
 
@@ -619,6 +659,12 @@ Plan: Business, Feature: Soc 2 Type 2 compliance, Yes
 
 Plan: Enterprise, Feature: Soc 2 Type 2 compliance, Yes
 
+###### Basic user analytics
+
+Plan: Business, Feature: Basic user analytics, Yes
+
+Plan: Enterprise, Feature: Basic user analytics, Yes
+
 ###### Domain verification
 
 Plan: Business, Feature: Domain verification, Yes
@@ -643,6 +689,12 @@ Plan: Business, Feature: Enterprise Key Management, No
 
 Plan: Enterprise, Feature: Enterprise Key Management, Yes
 
+###### Granular GPT controls & group permissions
+
+Plan: Business, Feature: Granular GPT controls & group permissions, No
+
+Plan: Enterprise, Feature: Granular GPT controls & group permissions, Yes
+
 ###### Role-based access controls
 
 Plan: Business, Feature: Role-based access controls, No
@@ -651,7 +703,7 @@ Plan: Enterprise, Feature: Role-based access controls, Yes
 
 ###### Analytics dashboard
 
-Plan: Business, Feature: Analytics dashboard, No
+Plan: Business, Feature: Analytics dashboard, Yes
 
 Plan: Enterprise, Feature: Analytics dashboard, Yes
 
@@ -672,6 +724,12 @@ Plan: Enterprise, Feature: IP allowlisting, Yes
 Plan: Business, Feature: Data residency in US, EU, UK, JP, CA, KR, SG, IN, AU, UAE, No
 
 Plan: Enterprise, Feature: Data residency in US, EU, UK, JP, CA, KR, SG, IN, AU, UAE, Yes
+
+###### Intune for iOS
+
+Plan: Business, Feature: Intune for iOS, No
+
+Plan: Enterprise, Feature: Intune for iOS, Yes
 
 ###### Branded workspace
 

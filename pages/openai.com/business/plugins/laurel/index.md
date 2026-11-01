@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.laurel.ai/>)
 
-[![](https://files.openai.com/content?id=file_00000000572081fdb633f5eb2f3333a5&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=9faa90356e266819a13ff969381e4678715e1743c81e39d9711a66605adffe8b&v=0)Laurel get my entries from yesterday(opens in a new window)](<https://chatgpt.com/?prompt=%40Laurel+get+my+entries+from+yesterday>)
+[![](https://files.openai.com/content?id=file_00000000572081fdb633f5eb2f3333a5&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=9faa90356e266819a13ff969381e4678715e1743c81e39d9711a66605adffe8b&v=0)Laurel get my entries from yesterday(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa0a6c7b624819196b60e3eaef05562?install&prompt=get%20my%20entries%20from%20yesterday>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Laurel is the AI timekeeping and work intelligence platform built for profession
 
 ![](https://files.openai.com/content?id=file_00000000572081fdb633f5eb2f3333a5&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=9faa90356e266819a13ff969381e4678715e1743c81e39d9711a66605adffe8b&v=0)Laurel Retrieve yesterday's time entries and summarize recorded time by client and matter. Highlight the largest allocations and identify entries with missing context for my review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Laurel+Retrieve+yesterday%27s+time+entries+and+summarize+recorded+time+by+client+and+matter.+Highlight+the+largest+allocations+and+identify+entries+with+missing+context+for+my+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa0a6c7b624819196b60e3eaef05562?install&prompt=Retrieve%20yesterday's%20time%20entries%20and%20summarize%20recorded%20time%20by%20client%20and%20matter.%20Highlight%20the%20largest%20allocations%20and%20identify%20entries%20with%20missing%20context%20for%20my%20review.&surface=work>)
 
   * ### Find gaps in recorded time
 
 ![](https://files.openai.com/content?id=file_00000000572081fdb633f5eb2f3333a5&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=9faa90356e266819a13ff969381e4678715e1743c81e39d9711a66605adffe8b&v=0)Laurel Compare yesterday's captured activities with my time entries. Identify activity that may be missing from the recorded time, explain the evidence, and flag uncertain matches for my review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Laurel+Compare+yesterday%27s+captured+activities+with+my+time+entries.+Identify+activity+that+may+be+missing+from+the+recorded+time%2C+explain+the+evidence%2C+and+flag+uncertain+matches+for+my+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa0a6c7b624819196b60e3eaef05562?install&prompt=Compare%20yesterday's%20captured%20activities%20with%20my%20time%20entries.%20Identify%20activity%20that%20may%20be%20missing%20from%20the%20recorded%20time%2C%20explain%20the%20evidence%2C%20and%20flag%20uncertain%20matches%20for%20my%20review.&surface=work>)
 
   * ### Draft billing narratives
 
 ![](https://files.openai.com/content?id=file_00000000572081fdb633f5eb2f3333a5&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=9faa90356e266819a13ff969381e4678715e1743c81e39d9711a66605adffe8b&v=0)Laurel Use this week's time entries and activities to draft concise billing narratives by client and matter. Ground each narrative in the captured work and flag missing context for my review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Laurel+Use+this+week%27s+time+entries+and+activities+to+draft+concise+billing+narratives+by+client+and+matter.+Ground+each+narrative+in+the+captured+work+and+flag+missing+context+for+my+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa0a6c7b624819196b60e3eaef05562?install&prompt=Use%20this%20week's%20time%20entries%20and%20activities%20to%20draft%20concise%20billing%20narratives%20by%20client%20and%20matter.%20Ground%20each%20narrative%20in%20the%20captured%20work%20and%20flag%20missing%20context%20for%20my%20review.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Laurel is the AI timekeeping and work intelligence platform built for profession
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.laurel.ai>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.laurel.ai>)
 
-### [Privacy policyLearn more](<https://www.laurel.ai/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.laurel.ai/privacy-policy>)
 
 ## Add the Laurel plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000e30081f5b3c23eb7cdfd5cd9&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=6339cd96b39e53942171138b29fc6e315b3900e4fb1201aa022977df66f3050e&v=0)![](https://files.openai.com/content?id=file_0000000022f8820dae807d52d1caf802&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=a7bfb316fbc72354fbecbddfce4c979a0557c68c91771fd34423df492e0d005d&v=0)Spend Management AnalysisAnalyze legal spend and risk](</business/plugins/lecg-spend-management-analysis/>)[![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)Intuit QuickBooksBusiness finances made simple](</business/plugins/quickbooks/>)[![](https://files.openai.com/content?id=file_000000003cf081f4a823a4bcbcae26d0&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b3e1fc09e31bb17f78ebf55401f8d3cac3b9edd6087a211f7964659e5519685f&v=0)![](https://files.openai.com/content?id=file_0000000068c082118faa38a9695cf072&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=c55bd8046d0d523ffa96f722e6a8a90b9bdd2e9222af9131e995c3b7a7154b36&v=0)HighQSearch your matter data](</business/plugins/thomson-reuters-highq/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability.](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_000000002700722fa321dfd1a3710fc6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=1a95085af00317282f9ed2413840f1f88ec348d875db324b791570e026721710&v=0)![](https://files.openai.com/content?id=file_000000002700722fa321dfd1a3710fc6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=1a95085af00317282f9ed2413840f1f88ec348d875db324b791570e026721710&v=0)Outlook CalendarLook up events and availability.](</business/plugins/microsoft-outlook-calendar/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000e30081f5b3c23eb7cdfd5cd9&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=6339cd96b39e53942171138b29fc6e315b3900e4fb1201aa022977df66f3050e&v=0)![](https://files.openai.com/content?id=file_0000000022f8820dae807d52d1caf802&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=a7bfb316fbc72354fbecbddfce4c979a0557c68c91771fd34423df492e0d005d&v=0)Spend Management AnalysisAnalyze legal spend and risk](</business/plugins/lecg-spend-management-analysis/>)[![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)Intuit QuickBooksAccounting Payments & Payroll](</business/plugins/quickbooks/>)[![](https://files.openai.com/content?id=file_000000003cf081f4a823a4bcbcae26d0&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=b3e1fc09e31bb17f78ebf55401f8d3cac3b9edd6087a211f7964659e5519685f&v=0)![](https://files.openai.com/content?id=file_0000000068c082118faa38a9695cf072&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=c55bd8046d0d523ffa96f722e6a8a90b9bdd2e9222af9131e995c3b7a7154b36&v=0)HighQSearch your matter data](</business/plugins/thomson-reuters-highq/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_000000002700722fa321dfd1a3710fc6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=1a95085af00317282f9ed2413840f1f88ec348d875db324b791570e026721710&v=0)![](https://files.openai.com/content?id=file_000000002700722fa321dfd1a3710fc6&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=1a95085af00317282f9ed2413840f1f88ec348d875db324b791570e026721710&v=0)Outlook CalendarLook up events and availability](</business/plugins/microsoft-outlook-calendar/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

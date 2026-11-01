@@ -32,7 +32,7 @@ OpenAI
 
 # Remote Desktop Commander
 
-Build and automate, anywhere
+Use your computer from chat
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a057d268ebc81919918d37eec718425>)[Contact sales](</contact-sales/>)
 
@@ -47,27 +47,27 @@ Website
 
 ## How it works
 
-Reach an authorized computer's filesystem and terminal from ChatGPT through Desktop Commander's Remote MCP. The app relays a secure connection to a machine the user controls so ChatGPT can inspect files, run commands, manage processes, edit local documents, and automate development workflows from chat. Users stay in control of which devices are connected and can disconnect them at any time.
+Desktop Commander gives ChatGPT access to your computer, so it can work on it directly rather than telling you what to do. It reads the files, runs the commands, and sees the results itself, then continues from there. It connects to your own machine: a laptop, a desktop, or a server. Not a cloud environment. Your actual files and programs, in an ordinary ChatGPT conversation. Common uses: \- Files and documents: finding things, comparing versions, renaming and sorting, searching large local archives \- Code and projects: writing, running and fixing code on your own machine \- Servers and devices: checking a VPS, deploying a change, reading logs, home automation \- Troubleshooting: why a program won't start, a disk that's filled up, a service that stopped working To set it up, install Desktop Commander on the machine you want ChatGPT to reach and sign in with your email. You choose which machine it connects to, and you can disconnect at any time. The machine needs to be on and online. You can use it from anywhere you're signed in to ChatGPT, including a phone.
 
 ## What else can you do?
 
   * ### Inspect a project remotely
 
-![](https://files.openai.com/content?id=file_00000000bd20720e8e0d18060c64fec0&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=4720df36f4fb903c9dbc88af70fe0cc5d9733a416b65eb2ff8bef0bf3ff16184&v=0)![](https://files.openai.com/content?id=file_00000000bd20720e8e0d18060c64fec0&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=4720df36f4fb903c9dbc88af70fe0cc5d9733a416b65eb2ff8bef0bf3ff16184&v=0)Remote Desktop Commander Inspect this project on my connected computer. Summarize its structure, how to run it, and missing setup requirements without changing files.
+![](https://files.openai.com/content?id=file_00000000fb9881f99f77ad57947232ae&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=b9da986568361f3300fc047ef19ef27b2e275443189ff9886f609f394642bbde&v=0)Remote Desktop Commander Inspect this project on my connected computer. Summarize its structure, how to run it, and missing setup requirements without changing files.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Remote+Desktop+Commander+Inspect+this+project+on+my+connected+computer.+Summarize+its+structure%2C+how+to+run+it%2C+and+missing+setup+requirements+without+changing+files.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a057d268ebc81919918d37eec718425?install&prompt=Inspect%20this%20project%20on%20my%20connected%20computer.%20Summarize%20its%20structure%2C%20how%20to%20run%20it%2C%20and%20missing%20setup%20requirements%20without%20changing%20files.&surface=work>)
 
   * ### Diagnose a failing command
 
-![](https://files.openai.com/content?id=file_00000000bd20720e8e0d18060c64fec0&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=4720df36f4fb903c9dbc88af70fe0cc5d9733a416b65eb2ff8bef0bf3ff16184&v=0)![](https://files.openai.com/content?id=file_00000000bd20720e8e0d18060c64fec0&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=4720df36f4fb903c9dbc88af70fe0cc5d9733a416b65eb2ff8bef0bf3ff16184&v=0)Remote Desktop Commander Run the specified failing command on my connected computer, inspect the relevant logs, and explain the likely cause with a focused fix proposal.
+![](https://files.openai.com/content?id=file_00000000fb9881f99f77ad57947232ae&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=b9da986568361f3300fc047ef19ef27b2e275443189ff9886f609f394642bbde&v=0)Remote Desktop Commander Run the specified failing command on my connected computer, inspect the relevant logs, and explain the likely cause with a focused fix proposal.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Remote+Desktop+Commander+Run+the+specified+failing+command+on+my+connected+computer%2C+inspect+the+relevant+logs%2C+and+explain+the+likely+cause+with+a+focused+fix+proposal.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a057d268ebc81919918d37eec718425?install&prompt=Run%20the%20specified%20failing%20command%20on%20my%20connected%20computer%2C%20inspect%20the%20relevant%20logs%2C%20and%20explain%20the%20likely%20cause%20with%20a%20focused%20fix%20proposal.&surface=work>)
 
   * ### Organize project files
 
-![](https://files.openai.com/content?id=file_00000000bd20720e8e0d18060c64fec0&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=4720df36f4fb903c9dbc88af70fe0cc5d9733a416b65eb2ff8bef0bf3ff16184&v=0)![](https://files.openai.com/content?id=file_00000000bd20720e8e0d18060c64fec0&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=4720df36f4fb903c9dbc88af70fe0cc5d9733a416b65eb2ff8bef0bf3ff16184&v=0)Remote Desktop Commander Organize these project documents into the supplied folder structure on my connected computer. Preserve their contents and report the files moved.
+![](https://files.openai.com/content?id=file_00000000fb9881f99f77ad57947232ae&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=b9da986568361f3300fc047ef19ef27b2e275443189ff9886f609f394642bbde&v=0)Remote Desktop Commander Organize these project documents into the supplied folder structure on my connected computer. Preserve their contents and report the files moved.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Remote+Desktop+Commander+Organize+these+project+documents+into+the+supplied+folder+structure+on+my+connected+computer.+Preserve+their+contents+and+report+the+files+moved.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a057d268ebc81919918d37eec718425?install&prompt=Organize%20these%20project%20documents%20into%20the%20supplied%20folder%20structure%20on%20my%20connected%20computer.%20Preserve%20their%20contents%20and%20report%20the%20files%20moved.&surface=work>)
 
 
 
@@ -82,11 +82,11 @@ Reach an authorized computer's filesystem and terminal from ChatGPT through Desk
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://ks@desktopcommander.app>)
+### [Plugin supportLearn more(opens in a new window)](<https://ks@desktopcommander.app>)
 
-### [Privacy policyLearn more](<https://legal.desktopcommander.app/#/privacy_desktop_commander_mcp>)
+### [Privacy policyLearn more(opens in a new window)](<https://legal.desktopcommander.app/#/privacy_desktop_commander_mcp>)
 
 ## Add the Remote Desktop Commander plugin in a few clicks
 
@@ -96,13 +96,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects.](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps.](</business/plugins/vercel/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps](</business/plugins/vercel/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -114,10 +124,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -136,7 +146,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -163,8 +174,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -183,6 +194,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

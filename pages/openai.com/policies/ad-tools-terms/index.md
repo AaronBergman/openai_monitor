@@ -30,7 +30,7 @@ Select language
 
 …
 
-Published: August 24, 2026
+Published: October 21, 2026
 
 # Ad Tools Terms
 
@@ -38,32 +38,41 @@ These Ad Tools Terms (“ _Ad Tools Terms_ ”) govern your access to and use of
 
 By enabling, accessing, or using an Ad Tool, or by providing data or materials through it, you agree to the terms applicable to that Ad Tool and represent that you have authority to bind the applicable entity.
 
-## 1\. Conversion Tools.
+## 1\. Conversion Tools
 
 Your access to and use of the Conversion Tools is subject to the Conversion Terms, which are incorporated into these Ad Tools Terms by reference.
 
 ## 2\. Audience Data
 
   * 2.1. _Audience Tools_. OpenAI may make Audience Tools available for you to provide Audience Data to OpenAI. Subject to the Advertising Terms and these Ad Tools Terms, you may access and use the Audience Tools during the term solely as permitted under these Ad Tools Terms. You will not: (a) use the Audience Tools unlawfully, in violation of OpenAI Policies, or in a manner that infringes third-party rights; (b) Reverse Engineer, interfere with, disrupt, extract data from, or circumvent protective measures for the Audience Tools; or (c) buy, sell, transfer, or share any keys, credentials, or other access mechanisms for the Audience Tools except as permitted by OpenAI.
+
   * 2.2. _Audience Data_. Audience Data will be deemed information and materials associated with a Campaign under the Advertising Terms. You will provide Audience Data to OpenAI for the Access Purpose, including for OpenAI to create custom audiences for you. You represent and warrant that: (a) Audience Data is first-party data and is not purchased, licensed, received, or otherwise obtained from data brokers, data marketplaces, or other third-party data suppliers; provided that you may use a service provider, including an identity-resolution provider, to process, format, hash, transmit, match, or resolve Audience Data on your behalf, so long as the provider is not the source of Audience Data and does not append, enrich, or supplement Audience Data with third-party data; (b) you have provided all required notices and obtained and will maintain all rights, consents, permissions, and legal bases required to collect, use, share, and provide Audience Data to OpenAI for the purposes described in these Ad Tools Terms; (c) your use of the Audience Tools and provision of Audience Data will comply with applicable law and will not cause OpenAI to violate applicable law; (d) you will not provide Prohibited Data, harmful code, or data that infringes, violates, or misappropriates any third-party rights; and (e) you will promptly notify OpenAI of any actual or threatened complaint or Claim relating to Audience Data and reasonably cooperate with OpenAI in responding.
+
   * 2.3. _No Guarantee_. OpenAI does not guarantee audience availability, match rates, audience size, reach, delivery, performance, accuracy, or that any person belongs to or does not belong to a particular audience. OpenAI may reject, remove, limit, suppress, or require modification of any Audience Data or audience as permitted under the Advertising Terms or these Ad Tools Terms.
+
   * 2.4. _Audience Restrictions_. You will not use Audience Tools, Audience Data, related Reporting Data, or other data collected in connection with the Audience Tools and Advertising Services to (a) identify or re-identify any OpenAI user, (b) infer sensitive or other information about any person, or (c) create, adjust, or modify audience segments, profiles, or data sets that explicitly or implicitly identify, target, or relate to OpenAI, its users, or its brands, except through campaign functionality expressly made available by OpenAI.
+
   * 2.5. _Processing of Personal Data_. Except for Restricted Processing, you and OpenAI each act as an independent Data Controller with respect to any Personal Data Processed through the Audience Tools. For Restricted Processing only, you are the Data Controller and OpenAI is the Data Processor. The Ad Tools DPA is incorporated by reference and applies to Processing of Personal Data.
+
 
 
 
 ## 3\. AI Creative Tools 
 
   * 3.1. _Generated Creatives_. OpenAI may make available AI-powered Creative Tools that use Ad Materials to generate, modify, transform, optimize, localize, translate, select, assemble, or otherwise adapt advertising creatives for a Campaign, including by dynamically tailoring them to the context of a user’s interaction with OpenAI. Creative Tools may make Generated Creatives available for your review or automatically apply Generated Creatives to your Campaign in accordance with your Campaign settings. You can manage or disable Creative Tools through applicable Ads Manager controls. Any Generated Creative that you approve or use or that is applied to your Campaign will be deemed an Ad under the Advertising Terms. OpenAI may access, retrieve, and use Ad Materials as needed to provide the Creative Tools and Advertising Services.
+
   * 3.2. _Advertiser Materials and Responsibilities_. You are responsible for: (a) all Ad Materials you provide or make available and all Campaign settings in your Account; (b) all Generated Creatives that you approve or use, or that are applied to your Campaign; (c) the accuracy, completeness, currency, and substantiation of all material representations in Ad Materials and Generated Creatives, including, but not limited to, claims related to pricing, availability, Advertiser Products, testimonials, endorsements, affiliations, sponsorships, performance, qualifications, risks, and expected results; and (d) any disclosure about AI-generated or synthetic content required by applicable law or OpenAI Policies. You represent and warrant that you have all rights, licenses, permissions, and consents needed for OpenAI to access, retrieve, and use the Ad Materials as described in these Ad Tools Terms and for Generated Creatives to be used in connection with the Advertising Services. Your indemnification obligations under the Advertising Terms apply to Claims related to any Generated Creative that you approve or use, or that is applied to your Campaign.
+
   * 3.3. _No Guarantees_. OpenAI does not guarantee that Generated Creatives will be accurate, complete, error-free, non-infringing, compliant with law, consistent with your intended meaning, or suitable for a particular purpose or context. OpenAI is not responsible for errors, omissions, outdated information, or inconsistencies in Ad Materials or Generated Creatives, or for Claims or losses arising from Generated Creatives used in connection with your Campaign.
+
   * 3.4. _Restrictions_. You will not: (a) provide any Prohibited Data through the Creative Tools; (b) use the Creative Tools to generate Ads that violate applicable law or OpenAI Policies; (c) create or use an unauthorized digital replica, voice, likeness, endorsement, or representation of another person; (d) impersonate a person or organization or falsely suggest an affiliation, sponsorship, endorsement, or approval; (e) create or distribute fraudulent, deceptive, or misleading synthetic media; (f) bypass protective measures or other restrictions on the Creative Tools; or (g) configure or use the Creative Tools to reveal, reproduce, infer, or imply access to non-public information about an OpenAI user or the user’s interactions with OpenAI. Generated Creatives may not be used outside the Advertising Services unless expressly permitted by OpenAI.
 
 
 
-## 4\. Sponsored Agents
 
-If OpenAI creates, configures, or makes available a Sponsored Agent on your behalf, the provisions under “For Builders of GPTs” in Section 5 of the Service Terms are incorporated into these Ad Tools Terms and apply to the Sponsored Agent. For the purposes of those provisions, you are deemed the builder of the Sponsored Agent and remain responsible for the Sponsored Agent, its content, configurations, Actions, and Output as if you had created it yourself, and for all Ad Materials used in connection with the Sponsored Agent. For the purposes of the indemnification provisions of the Advertising Terms, any Claim related to a Sponsored Agent, including its content, configurations, Actions, Output, or Ad Materials used in connection with the Sponsored Agent, will be deemed a Claim related to an Ad.
+## 4\. Business Agents
+
+If OpenAI creates, configures, or makes available a Business Agent on your behalf, the provisions under “For Builders of GPTs” in Section 5 of the Service Terms are incorporated into these Ad Tools Terms and apply to the Business Agent. For the purposes of those provisions, you are deemed the builder of the Business Agent and remain responsible for the Business Agent, its content, configurations, Actions, and Output as if you had created it yourself, and for all Ad Materials used in connection with the Business Agent. For the purposes of the indemnification provisions of the Advertising Terms, any Claim related to a Business Agent, including its content, configurations, Actions, Output, or Ad Materials used in connection with the Business Agent, will be deemed a Claim related to an Ad.
 
 ## 5\. Definitions
 
@@ -81,6 +90,8 @@ If OpenAI creates, configures, or makes available a Sponsored Agent on your beha
 
 “ _Ad Tools DPA_ ” means OpenAI’s Ad Tools Data Processing Addendum available at [_https://openai.com/policies/ad-tools-dpa_ ⁠](<https://openai.com/policies/conversion-dpa>). 
 
+“ _Business Agent_ ” means advertiser-sponsored conversational experiences that allow users to interact with an AI-generated representative for an Advertiser’s business, products, or services.
+
 “ _Campaign_ ” means a request submitted through Ads Manager, an approved API, or another method designated by OpenAI for OpenAI to deliver one or more Ads based on the budget, schedule, targeting, Destinations, and other information and settings reflected in Ads Manager.
 
 “ _Conversion Terms_ ” means OpenAI’s Conversion Terms available at [_https://openai.com/policies/conversion-terms_](</policies/conversion-terms/>). 
@@ -97,8 +108,6 @@ If OpenAI creates, configures, or makes available a Sponsored Agent on your beha
 
 “ _Service Terms_ ” means OpenAI’s terms available at: [_https://openai.com/policies/service-terms/_](</policies/service-terms/>). 
 
-“ _Sponsored Agent_ ” means advertiser-sponsored conversational experiences that allow users to interact with an AI-generated representative for an Advertiser’s business, products, or services. 
-
 The terms “ _Data Controller_ ”, “ _Personal Data_ ”, “ _Data Processor_ ”, “ _Process_ ”, and “ _Processing_ ” have the meanings given under applicable data privacy and data protection law.
 
 Research
@@ -111,9 +120,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -132,7 +142,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -150,6 +161,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -158,8 +170,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -178,6 +190,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
