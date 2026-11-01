@@ -79,10 +79,15 @@ Chairman Blumenthal, Senator Hawley, and members of the Judiciary Committee, tha
 OpenAI is a San Francisco based company created in 2015 to ensure that artificial general intelligence (AGI) benefits all of humanity. OpenAI’s work is driven by our charter, in which we commit to working toward the broad distribution of the benefits of AGI, to maximizing the long term safety of AI systems, to cooperating with other research and policy institutions, and to serving as a technical leader in AI to accomplish these objectives. OpenAI has an unusual structure that ensures that it remains focused on this long-term mission. We have a few key economic and governance provisions: 
 
   * First, the principal entity in our structure is our Nonprofit, which is a 501(c)(3) public charity. 
+
   * Second, our for-profit operations are subject to profit caps and under a subsidiary that is fully controlled by the Nonprofit. 
+
   * Third, because the board serves the Nonprofit, each director must perform their fiduciary duties in furtherance of its mission—safe AGI that is broadly beneficial. While the for-profit subsidiary is permitted to make and distribute profit, it is subject to this mission. The Nonprofit’s principal beneficiary is humanity, not OpenAI investors. 
+
   * Fourth, the board remains majority independent. Independent directors do not hold equity in OpenAI. 
+
   * Fifth, profit for investors and employees is capped by binding legal commitments. The Nonprofit retains all residual value for the benefit of humanity.
+
 
 
 
@@ -98,12 +103,19 @@ OpenAI is a leading developer of large language models (LLMs) and other AI tools
 OpenAI’s mission is to ensure that AI systems are built, deployed, and used safely and beneficially. We see firsthand both the potential and the actual positive impact that these systems have in improving people’s lives. We hear from users all over the world about how much they love our tools and how AI helps them in many ways, including helping them write complex computer code more quickly, enhancing their productivity and creativity, augmenting their existing strengths, helping them learn new skills, and expanding their businesses.11 Here are just some of the ways that customers are using our products: 
 
   * Educational non-profit Khan Academy is piloting a program that uses GPT‑4 to power a personalized virtual tutor for students and a classroom assistant for teachers.12
+
   * Morgan Stanley is using GPT‑4 to power an internal-facing chatbot that performs a comprehensive search of wealth management content and “effectively unlocks the cumulative knowledge of Morgan Stanley Wealth Management,” helping their financial advisors better serve their clients.13
+
   * Stripe is using GPT‑4 in a variety of ways, including improving its custom support operations, helping to answer support questions about technical documentation, and helping to detect fraud on its community platforms.14
+
   * Harvey, a platform for legal professionals, is using GPT‑4 to make tasks such as research and drafting more efficient so they can focus more time on strategy, and deliver a higher quality service to more clients. 15
+
   * Speak, the fastest-growing English application in South Korea, is using Whisper, our automatic speech recognition AI system, to power an AI speaking companion and provide true open-ended conversational practice. 16
+
   * Weave is using our tools to build a collaboration platform for scientists, specifically focused on breakthroughs in oncology.
+
   * Creative professionals from movie directors to indie musicians are using our image generation tool, DALL·E, to augment their creative processes, from rapid storyboarding to creating cover art that would not have previously been possible.
+
 
 
 
@@ -159,9 +171,15 @@ Generating content is only one part of the disinformation lifecycle; false or mi
 We understand that our models and tools can have significant impacts on the world, so we dedicate significant resources to maximizing protection of OpenAI’s technology, intellectual property, and data.42 We maintain strict internal security controls and are constantly innovating to improve our defenses. We regularly conduct internal and third-party penetration testing, and audit the suitability and effectiveness of our security controls. We are also building novel security controls to help protect core model intellectual property. We aim to make OpenAI’s security program as transparent as possible. Our Trust Portal allows customers and other stakeholders to review our security controls and audit reports.43 Other steps we take to improve cybersecurity include the following: 
 
   * OpenAI deploys its most powerful AI models as services in part to protect its intellectual property. We do not distribute weights for such models outside of OpenAI and our technology partner Microsoft, and we provide third-party access via API so the model weights, source code, and other sensitive information stay within OpenAI. OpenAI continuously improves its defenses to prepare for emerging threats.
+
   * We work with partners and cloud providers to protect our models at the data center level.
+
   * OpenAI’s security program is built to take into account potential insider threats, and we have built controls to prevent and monitor for model and data exfiltration.
-  * We recently announced the launch of a bug bounty program inviting independent researchers to report vulnerabilities in our systems in exchange for cash rewards.44We also have a dedicated channel for reporting model safety issues, such as the model’s response being inaccurate or potentially harmful.44
+
+  * We recently announced the launch of a bug bounty program inviting independent researchers to report vulnerabilities in our systems in exchange for cash rewards.44
+
+We also have a dedicated channel for reporting model safety issues, such as the model’s response being inaccurate or potentially harmful.44
+
 
 
 
@@ -418,9 +436,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -439,7 +458,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -457,6 +477,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -465,8 +486,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -485,6 +506,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

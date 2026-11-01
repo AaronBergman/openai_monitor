@@ -41,16 +41,12 @@ Share
 Unlocking the opportunities of AI
 
   * Unlocking the opportunities of AI
-
   * Update on voluntary commitments
-
 
 
 
   * Unlocking the opportunities of AI
-
   * Update on voluntary commitments
-
 
 
 
@@ -69,9 +65,13 @@ Today, people are using AI tools at home and at work more than ever before, with
 In France we are witnessing how people, businesses, and academic institutions are using AI to solve complex problems, boost productivity, foster creativity, and even advance scientific discoveries:
 
   * Sanofi is using our AI to accelerate drug trials, helping life-saving medicines reach patients faster
+
   * the ESCP Business School is offering personalised learning experiences
+
   * Orange will fine-tune our open-source speech model to better understand regional languages in Africa 
+
   * Ask Mona is promoting greater access to culture with their museum experiences
+
 
 
 
@@ -92,9 +92,13 @@ In keeping with our commitment to the Seoul Framework and its requirement to con
 In addition to the Preparedness Framework we continue to advance our safety initiatives through a range of rigorous internal processes, external collaborations and transparent reporting, including: 
 
   * Publishing detailed reports, called system cards, for new frontier AI systems that we deploy. Since Seoul, this includes system cards for five of our frontier models: [_4o_](</index/gpt-4o-system-card/>) , [_o1_](</index/openai-o1-system-card/>) , [_Sora_](</index/sora-system-card/>) , [_Operator_](</index/operator-system-card/>) , and [_o3‑mini_](</index/o3-mini-system-card/>). We will share our safety insights and safeguards for [deep research](</index/introducing-deep-research/>) in a system card before we expand access.
+
   * Establishing an internal governance structure to uphold procedural commitments and ensure effective risk management. 
+
   * Developing and engaging with an extensive Red Teaming Network which consists of individual experts, research institutions, and civil society organizations in a wide variety of domains who help identify risks across CBRN threats and societal harms.
+
   * Agreements with the US & UK AI Safety Institutes that have since conducted capability evaluations on our o1‑preview and o1 models. 
+
 
 
 
@@ -120,9 +124,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -141,7 +146,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -159,6 +165,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -167,8 +174,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -187,6 +194,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

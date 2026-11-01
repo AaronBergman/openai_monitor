@@ -59,9 +59,13 @@ Principles
 Our aim with the Sora feed is simple: help people learn what’s possible, and inspire them to create. Here are some of core starting principles to bring this vision to life:
 
   * **Optimize for creativity.** We’re designing ranking to favor creativity and active participation, not passive scrolling. We think this is what makes Sora joyful to use.
+
   * **Put users in control.** The feed ships with steerable ranking, so you can tell the algorithm exactly what you’re in the mood for. Parents can also turn off feed personalization and control continuous scroll for their teens through ChatGPT parental controls.
+
   * **Prioritize connection.** We want Sora to help people strengthen and form new connections, especially through fun, magical Cameo flows. Connected content will be favored over global, unconnected content.
+
   * **Balance safety and freedom.** The feed is designed to be widely accessible and safe. Robust guardrails aim to prevent unsafe or harmful generations from the start and we block content that may violate our Usage Policies. At the same time, we also want to leave room for expression, creativity, and community. We know recommendation systems are living, breathing things. As we learn from real use, we’ll adjust the details—in service of these principles.
+
 
 
 
@@ -72,10 +76,15 @@ Our recommendation algorithms are designed to give you personalized recommendati
 To personalize your Sora Feed, we may consider signals like:
 
   * **Your activity on Sora:** This may include activity including your posts, followed accounts, liked and commented posts, and remixed content. It may also include the general location (such as the city) from which your device accesses Sora, based on information like your IP address.
+
   * **Your ChatGPT data:** We may consider your ChatGPT history, but you can always turn this off in Sora’s Data Controls, within Settings.
+
   * **Content engagement signals:** This may include signals such as views, likes, comments, instructions to “see less content like this,” and remixes.
+
   * **Author signals:** This may include follower count, other posts, and past post engagement.
+
   * **Safety signals** : Whether or not the post is considered violative or appropriate.
+
 
 
 
@@ -90,19 +99,33 @@ Keeping the Sora Feed safe and fun for everyone means walking a careful line: pr
 We may remove content that violates our[ Global Usage Policies](</policies/usage-policies/>). Additionally, content deemed inappropriate for users may be removed from Feed and other sharing platforms (such as user galleries and side characters) in accordance with our [Sora Distribution Guidelines](</policies/creating-sora-videos-in-line-with-our-policies/>). This includes:
 
   * Graphic sexual content;
+
   * Graphic violence or content promoting violence;
+
   * Extremist propaganda;
+
   * Hateful content;
+
   * Content that promotes or depicts self harm or disordered eating;
+
   * Unhealthy dieting or exercise behaviors;
+
   * Appearance-based critiques or comparisons;
+
   * Bullying content;
+
   * Dangerous challenges likely to be imitated by minors;
+
   * Content glorifying depression;
+
   * Promotion of age-restricted goods or activities including illegal drugs or harmful substances; and
+
   * Low quality content where the primary purpose is engagement bait;
+
   * Content that recreates the likeness of living individuals without their consent, or deceased public figures in contexts where their likeness is not permitted for use;
+
   * Content that may infringe on the intellectual property rights of others.
+
 
 
 
@@ -130,17 +153,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
+![An update on violence prevention — Cover](https://images.ctfassets.net/kftzwdyauwt9/2JkiYuWDdFYR0Wg7GoacTc/56a54c0060610c840d098457108a4f88/an-update-on-violence-prevention-cover.png?w=3840&q=90&fm=webp)
 
-[Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
+[Community safety report and new protections for teensSafetyOct 30, 2026](</index/community-safety-report-and-new-protections-for-teens/>)
 
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
+![An updated Model Spec for more capable and beneficial AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/4nEE8sUTl3LEhrhTSjX3M4/448a13dd2d7f5d809e1fcdeba3001f15/model-spec-update-more-capable-beneficial-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
+[An updated Model Spec for more capable and beneficial AISafetyOct 29, 2026](</index/updated-model-spec/>)
 
-![GPT-Live-1 API | Green-blue cover | Option 038](https://images.ctfassets.net/kftzwdyauwt9/1uBabEULLfw3Vb2Gldmyyq/c19c1c121ca403ee8b2703cba18ef82d/introducing-gpt-live-1-green-cover.png?w=3840&q=90&fm=webp)
+![How we detect frontier model misalignment — Cover](https://images.ctfassets.net/kftzwdyauwt9/43ZavE2amLHMmbxH8EL8VM/1464d0f68c0f3c45e9d255992aab32b1/how-we-detect-frontier-model-misalignment-cover.png?w=3840&q=90&fm=webp)
 
-[Build more natural voice experiences with GPT‑Live‑1 in the APIProductSep 10, 2026](</index/introducing-gpt-live-1-in-the-api/>)
+[How we detect frontier model misalignmentSecurityOct 29, 2026](</index/how-we-detect-frontier-model-misalignment/>)
 
 Research
 
@@ -152,10 +175,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -174,7 +197,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -192,6 +216,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -200,8 +225,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -220,6 +245,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

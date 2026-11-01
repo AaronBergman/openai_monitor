@@ -57,10 +57,15 @@ Leading up to the event, participants will have access to an online resource [_h
 At each of the five Jam locations, regional business support organizations and community conveners are helping tailor the event to meet the specific needs of local small businesses, including:
 
   * **Detroit, MI:**[_Detroit Means Business_ ⁠(opens in a new window)](<https://www.detroitmeansbusiness.org/>), [_New Economy Initiative_ ⁠(opens in a new window)](<https://neweconomyinitiative.org/>),[ _Michigan Chamber of Commerce_ ⁠(opens in a new window)](<https://www.michamber.com/>)
+
   * **Houston, TX** : [_Texas Association of Business_ ⁠(opens in a new window)](<https://www.txbiz.org/>),[ _Houston Area Urban League - Entrepreneurship Center_ ⁠(opens in a new window)](<https://www.haul.org/entrepreneurship-center/>)
+
   * **Miami, FL:** [_The Idea Center_ ⁠(opens in a new window)](<https://theideacenter.co/>) &[ _AI Center_ ⁠(opens in a new window)](<https://www.mdc.edu/aicenter/>) at Miami Dade College,[ _Florida SBDC at FIU_ ⁠(opens in a new window)](<https://floridasbdc.org/find/fiu/>),[ _Greater Miami Chamber of Commerce_ ⁠(opens in a new window)](<https://www.miamichamber.com/>)
+
   * **New York, NY:** [_Five Chamber Alliance_ ⁠(opens in a new window)](<https://www.manhattancc.org/2025/05/12/five-chamber-alliance-celebrates-mwbe-excellence-at-annual-awards/>)
+
   * **San Francisco, CA:** [_REN Center_ ⁠(opens in a new window)](<https://rencenter.org/>),[ _SF Chamber of Commerce_ ⁠(opens in a new window)](<https://sfchamber.com/>)
+
 
 
 
@@ -86,15 +91,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![Making it easier for websites to express AI training preferences — Cover](https://images.ctfassets.net/kftzwdyauwt9/2k1vMnTZUeR0P30sHZA5P0/f6b841637d5d703414e3044fcb7196a0/websites-toeexpress-ai-training-preferences-cover.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[Making it easier for websites to express AI training preferencesCompanyOct 30, 2026](</index/helping-websites-express-ai-training-preferences/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![Fair use benefits everyone — Cover](https://images.ctfassets.net/kftzwdyauwt9/5GEvaQfMA4Mcrt2QIwLGJG/a294f4748aae1f08adae06a25bb07354/fair-use-benefits-everyone-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[Fair use benefits everyoneCompanyOct 30, 2026](</index/fair-use-benefits-everyone/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![OpenAI and ServiceNow expand partnership across enterprise workflows, software development and security — Cover](https://images.ctfassets.net/kftzwdyauwt9/i2nR5RpyJ2Iz1XrsQX3Gm/edcbc52f12d4aff29b80aa36bb67f0fe/openai-servicenow-partnership-expansion-cover.png?w=3840&q=90&fm=webp)
+
+[OpenAI and ServiceNow expand partnership across enterprise workflowsCompanyOct 28, 2026](</index/openai-servicenow-partnership-expansion/>)
 
 Research
 
@@ -106,9 +113,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -127,7 +135,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -145,6 +154,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -153,8 +163,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -173,6 +183,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

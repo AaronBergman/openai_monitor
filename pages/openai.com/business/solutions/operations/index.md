@@ -43,7 +43,7 @@ Add plugins to extend what ChatGPT Work can do. Plugins connect ChatGPT Work to 
   * [![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)Asana](</business/plugins/asana/>)
   * [![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)![](https://files.openai.com/content?id=file_00000000290c81f6b165c1e4941266a3&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=aac8f7270051b9307ea721f89136ce46aaf1dffcbdaea6eba9ba95fc9212473d&v=0)Teams](</business/plugins/microsoft-teams/>)
   * [![](https://files.openai.com/content?id=file_00000000f954722fa9fc7b5c09eb6970&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=352148741b16c345f6537c69ed2fd83a3dacaeda210d5818bb7a66c44a09223b&v=0)![](https://files.openai.com/content?id=file_00000000f954722fa9fc7b5c09eb6970&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=352148741b16c345f6537c69ed2fd83a3dacaeda210d5818bb7a66c44a09223b&v=0)Outlook Email](</business/plugins/microsoft-outlook-email/>)
-  * [![](https://files.openai.com/content?id=file_000000000b0071f5a15a9c19c082b8e5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=2663b30a3556fd4f4ba683cb9f2229a0c1d6c2c03d5ee308c9d75206a0b9fd63&v=0)![](https://files.openai.com/content?id=file_00000000dd1871f59b6fbbe091d54c40&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=0c80d0ad0efd55b7f0665e2b3a539a4ac11beb6ed99bb0f9b65065138f951a3c&v=0)Atlassian Rovo](</business/plugins/atlassian-rovo/>)
+  * [![](https://files.openai.com/content?id=file_000000000b0071f5a15a9c19c082b8e5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=2663b30a3556fd4f4ba683cb9f2229a0c1d6c2c03d5ee308c9d75206a0b9fd63&v=0)![](https://files.openai.com/content?id=file_00000000dd1871f59b6fbbe091d54c40&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=0c80d0ad0efd55b7f0665e2b3a539a4ac11beb6ed99bb0f9b65065138f951a3c&v=0)Atlassian](</business/plugins/atlassian/>)
   * [![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)Salesforce](</business/plugins/salesforce/>)
   * [![](https://files.openai.com/content?id=file_000000005ee871f88f1bfd73ad777a90&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=df0e9e02b8a5bfd8995607513d9e3bab6e2c60df30c2542878eab19896af6a5b&v=0)![](https://files.openai.com/content?id=file_000000005ee871f88f1bfd73ad777a90&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=df0e9e02b8a5bfd8995607513d9e3bab6e2c60df30c2542878eab19896af6a5b&v=0)Monday.com](</business/plugins/monday-com/>)
   * [![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)![](https://files.openai.com/content?id=file_000000003dec71f58ea31d11943374ac&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=74ea60b3dccd88f76296af895d81de15f4ed38ee02b05e86001f9ee5e0091c6d&v=0)Box](</business/plugins/box/>)
@@ -93,7 +93,7 @@ Operating reviews and reportingStrategic initiative trackingKPI and root-cause a
 
 Create this week’s operating review from our project trackers, KPI dashboards, and team updates. Highlight performance changes, risks, decisions needed, and next steps by owner.
 
-[Try in ChatGPT(opens in a new window)](<https://chatgpt.com/?surface=work&q=Create+this+week%E2%80%99s+operating+review+from+our+project+trackers%2C+KPI+dashboards%2C+and+team+updates.+Highlight+performance+changes%2C+risks%2C+decisions+needed%2C+and+next+steps+by+owner.>)
+[Try in ChatGPT(opens in a new window)](<https://chatgpt.com/?prompt=Create%20this%20week%E2%80%99s%20operating%20review%20from%20our%20project%20trackers%2C%20KPI%20dashboards%2C%20and%20team%20updates.%20Highlight%20performance%20changes%2C%20risks%2C%20decisions%20needed%2C%20and%20next%20steps%20by%20owner.&surface=work>)
 
 ## Why operations teams choose OpenAI
 
@@ -150,6 +150,16 @@ Get your most ambitious work done by spending more time bringing ideas to market
 
 [Contact sales](</contact-sales/>)[Get started(opens in a new window)](<https://chatgpt.com/team-sign-up>)
 
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
+
 Research
 
   * [Research Index](</research/index/>)
@@ -160,10 +170,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -182,7 +192,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -209,8 +220,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -229,6 +240,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

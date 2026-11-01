@@ -108,17 +108,19 @@ Figure 2: _Comparison of deliberative alignment and representative methods of ex
 Deliberative alignment training uses a combination of process- and outcome-based supervision:
 
   * We first train an o-style model for helpfulness, without any safety-relevant data. 
+
   * We then build a dataset of (prompt, completion) pairs where the CoTs in the completions reference the specifications. We do this by inserting the relevant safety specification text for each conversation in the system prompt, generating model completions, and then removing the system prompts from the data.
+
   * We perform incremental supervised fine-tuning (SFT) on this dataset, providing the model with a strong prior for safe reasoning. Through SFT, the model learns both the content of our safety specifications and how to reason over them to generate aligned responses.
+
   * We then use reinforcement learning (RL) to train the model to use its CoT more effectively. To do so, we employ a reward model with access to our safety policies to provide additional reward signal.
+
 
 
 
 In our training procedure, we automatically generate training data from safety specifications and safety-categorized prompts, without requiring human-labeled completions. Deliberative alignment’s synthetic data generation pipeline thus offers a scalable approach to alignment, addressing a major challenge of standard LLM safety training—its heavy dependence on human-labeled data.
 
 SFT Data GenerationRL Training
-
-![SFT data generation and training process: SPEC prompts and G_base create data with prompts, CoT, outputs, and scores. Filtered data is fine-tuned into G_SFT and G_spec models. RL prompts further refine outputs via G_RM.](https://images.ctfassets.net/kftzwdyauwt9/29SBBhTk4WRN3UA4xJbHWH/b8e23d0a2cb900aef7d75e220cf3ca1c/SFT_Data_Generation_Light.svg?w=3840&q=90)
 
 Figure 3: _Illustration of overall methodology._ Key processes are shown along the left side of the figure. During SFT data generation, we construct a dataset of {prompt, CoT, output} tuples where the CoTs refer to relevant policies. We collect these by prompting a reasoning model G_base with safety prompts along with safety specifications (spec) that are tailored to safety categories (cat). After filtering with a policy-aware reward model G_RM, this data is then used for SFT training to teach the model to reason about the spec in its CoT. In the RL training stage, we provide reward signal using that same reward model G_RM with access to the spec. Our resulting model G_spec is aligned with the safety specifications.
 
@@ -175,9 +177,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -196,7 +199,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -214,6 +218,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -222,8 +227,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -242,6 +247,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -269,3 +275,5 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+![SFT data generation and training process: SPEC prompts and G_base create data with prompts, CoT, outputs, and scores. Filtered data is fine-tuned into G_SFT and G_spec models. RL prompts further refine outputs via G_RM.](https://images.ctfassets.net/kftzwdyauwt9/29SBBhTk4WRN3UA4xJbHWH/b8e23d0a2cb900aef7d75e220cf3ca1c/SFT_Data_Generation_Light.svg?w=3840&q=90)

@@ -45,20 +45,14 @@ Share
 Preventing abuse
 
   * Preventing abuse
-
   * Transparency around AI-generated content
-
   * Improving access to authoritative voting information
-
 
 
 
   * Preventing abuse
-
   * Transparency around AI-generated content
-
   * Improving access to authoritative voting information
-
 
 
 
@@ -68,10 +62,13 @@ Preventing abuse
 
 
 
+
 _**Elevating authoritative sources of information**_
 
   *  _Throughout 2024, we’ve worked to elevate reliable sources of election information within ChatGPT. Through our collaboration with the National Association of Secretaries of State (NASS), we directed people asking ChatGPT specific questions about voting in the U.S., like where or how to vote, to_[ __CanIVote.org__ ⁠(opens in a new window)](<http://canivote.org>)_. In the month leading up to the election, roughly 1 million ChatGPT responses directed people to_[ __CanIVote.org__ ⁠(opens in a new window)](<http://canivote.org>)_. Similarly, starting on Election Day in the U.S., people who asked ChatGPT for election results received responses encouraging them to check news sources like the Associated Press and Reuters. Around 2 million ChatGPT responses included this message on Election Day and the day following._
+
   * _In addition to our efforts to direct people to reliable sources of information, we also worked to ensure ChatGPT did not express political preferences or recommend candidates even when asked explicitly._
+
 
 
 
@@ -81,10 +78,13 @@ _**Preventing deepfakes**_
 
 
 
+
 _**Disrupting threat actors**_
 
   *  _A central part of our global elections work in 2024 has been identifying and disrupting attempts to use our tools to generate content used in covert influence operations. In_[ __May__ ⁠](<https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/>) _, we began publicly sharing information on our disruptions, and published additional reports in_[ __August__ ⁠](<https://openai.com/index/disrupting-a-covert-iranian-influence-operation/>) _and_[ __October__ ⁠(opens in a new window)](<https://cdn.openai.com/threat-intelligence-reports/influence-and-cyber-operations-an-update_October-2024.pdf>)_._
+
   * _Our teams continued to monitor our services closely in the lead-up to Election Day and have not seen evidence of U.S. election-related influence operations attracting viral engagement or building sustained audiences through the use of our models._
+
 
 
 
@@ -93,9 +93,12 @@ _**Disrupting threat actors**_
 _Update on October 31, 2024:_
 
   * _As we approach Election Day in the U.S., our teams are actively testing the safeguards we’ve put in place over the past year and monitoring for any issues or attempts to evade them. We will adjust our protective measures as needed, guided by ongoing insights into how people engage with our tools._
+
   * _Starting on November 5th., people who ask ChatGPT about election results will see a message encouraging them to check news sources like the_[ _Associated Press_ ⁠(opens in a new window)](<https://apnews.com/projects/election-results-2024/>)_and_[ _Reuters_ ⁠(opens in a new window)](<https://www.reuters.com/world/us/elections/>)_, or their state or local election board for the most complete and up-to-date information._
+
   * _This effort builds on our collaboration with the National Association of Secretaries of State to direct people looking for information about how and where to vote to_[ _CanIVote.org_ ⁠(opens in a new window)](<http://CanIVote.org>)_, the authoritative website on U.S. voting information. ChatGPT will continue to direct people asking these questions to CanIVote.org through Election Day.  
 _
+
 
 
 
@@ -104,8 +107,11 @@ _
 _Update on May 14, 2024:_
 
   * _As part of our ongoing work to promote transparency around AI content during this important election year, we recently began providing researchers with early access to a new tool that can help identify images created by OpenAI 's DALL·E 3. We also joined the Steering Committee of C2PA—the Coalition for Content Provenance and Authenticity. C2PA is a widely used standard for digital content certification, developed and adopted by a wide range of actors including software companies, camera manufacturers, and online platforms. _
+
   *  _Building on our efforts to direct people to authoritative sources of information about voting in the U.S., we’ve introduced a new experience ahead of the 2024 election for the European Parliament. ChatGPT now directs users to the European Parliament’s official source of voting information,_[_elections.europa.eu_ ⁠(opens in a new window)](<https://elections.europa.eu/>)_, when asked certain questions about the election process such as where to vote. This is similar to our collaboration with the National Association of Secretaries of State (NASS) for the 2024 US Presidential election._
+
   * _In addition to the steps we’re taking at OpenAI, we believe there is an important role for governments. Today we are endorsing the “_[ _Protect Elections from Deceptive AI Act_ ⁠(opens in a new window)](<https://www.govtrack.us/congress/bills/118/s2770/text/is>)_,” a bi-partisan bill proposed by Senators Klobuchar, Hawley, Coons, Collins, Ricketts, and Bennet in the United States Senate. The bill would ban the distribution of deceptive AI-generated audio, images, or video relating to federal candidates in political advertising, while including important exceptions to protect First Amendment rights. We do not want our technology—or any AI technology—to be used to deceive voters and we believe this legislation represents an important step to addressing this challenge in the context of political advertising._
+
 
 
 
@@ -128,9 +134,13 @@ We expect and aim for people to use our tools safely and responsibly, and electi
 We regularly refine our [Usage Policies⁠](</policies/usage-policies/>) for ChatGPT and the API as we learn more about how people use or attempt to abuse our technology. A few to highlight for elections: 
 
   * We’re still working to understand how effective our tools might be for personalized persuasion. Until we know more, we don’t allow people to build applications for political campaigning and lobbying. 
+
   * People want to know and trust that they are interacting with a real person, business, or government. For that reason, we don’t allow builders to create chatbots that pretend to be real people (e.g., candidates) or institutions (e.g., local government). 
+
   * We don’t allow applications that deter people from participation in democratic processes—for example, misrepresenting voting processes and qualifications (e.g., when, where, or who is eligible to vote) or that discourage voting (e.g., claiming a vote is meaningless).
+
   * With our new GPTs, users can report potential violations to us.
+
 
 
 
@@ -166,15 +176,15 @@ OpenAI
 
 [View all](</news/>)
 
-![Disrupting malicious > media](https://images.ctfassets.net/kftzwdyauwt9/5080983d-9c4d-4479-17e421d7380a/0b42f77c2478bc5bc7bde3fddfc68462/45.png?w=3840&q=90&fm=webp)
+![Painterly depiction of a vibrant orange flower on a stem, rendered with a soft focus and warm yellow tones.](https://images.ctfassets.net/kftzwdyauwt9/5080983d-9c4d-4479-17e421d7380a/0b42f77c2478bc5bc7bde3fddfc68462/45.png?w=3840&q=90&fm=webp)
 
 [Disrupting malicious uses of AI by state-affiliated threat actorsSecurityFeb 14, 2024](</index/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors/>)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/ec66425e-99ca-4314-d04b087f8727/de7341b6a5281c2a220b93a737ce19b0/building-an-early-warning-system-for-llm-aided-biological-threat-creation.jpg?w=3840&q=90&fm=webp)
+![Sweeping strokes of orange, yellow, and purple in an abstract design](https://images.ctfassets.net/kftzwdyauwt9/ec66425e-99ca-4314-d04b087f8727/de7341b6a5281c2a220b93a737ce19b0/building-an-early-warning-system-for-llm-aided-biological-threat-creation.jpg?w=3840&q=90&fm=webp)
 
 [Building an early warning system for LLM-aided biological threat creationPublicationJan 31, 2024](</index/building-an-early-warning-system-for-llm-aided-biological-threat-creation/>)
 
-![Democratic Inputs To AI Grant Program Update](https://images.ctfassets.net/kftzwdyauwt9/f50ce1d2-4f61-4ed2-e560c624d631/6f4dd4542898a35d0a91b137f85c9834/Democratic_inputs_to_AI_grant_program_lessons_learned_and_implementation_plans.jpg?w=3840&q=90&fm=webp)
+![Abstract floral pattern with vibrant purple blooms on a green backdrop](https://images.ctfassets.net/kftzwdyauwt9/f50ce1d2-4f61-4ed2-e560c624d631/6f4dd4542898a35d0a91b137f85c9834/Democratic_inputs_to_AI_grant_program_lessons_learned_and_implementation_plans.jpg?w=3840&q=90&fm=webp)
 
 [Democratic inputs to AI grant program: lessons learned and implementation plansSafetyJan 16, 2024](</index/democratic-inputs-to-ai-grant-program-update/>)
 
@@ -188,9 +198,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -209,7 +220,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -227,6 +239,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -235,8 +248,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -255,6 +268,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
