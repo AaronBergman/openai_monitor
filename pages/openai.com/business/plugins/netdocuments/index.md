@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.netdocuments.com/>)
 
-[![](https://files.openai.com/content?id=file_0000000055bc81f7aebf1b809bc460a0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=b62819253a7e5be506c70576d1c3d97cbb1767df476d4287cc18848edf60311d&v=0)NetDocuments Summarize the key terms in [document name], with a link to the source in NetDocuments.(opens in a new window)](<https://chatgpt.com/?prompt=%40NetDocuments+Summarize+the+key+terms+in+%5Bdocument+name%5D%2C+with+a+link+to+the+source+in+NetDocuments.>)
+[![](https://files.openai.com/content?id=file_0000000055bc81f7aebf1b809bc460a0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=b62819253a7e5be506c70576d1c3d97cbb1767df476d4287cc18848edf60311d&v=0)NetDocuments Summarize the key terms in [document name], with a link to the source in NetDocuments.(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a88a619b36c8191ac27a9756491ee61?install&prompt=Summarize%20the%20key%20terms%20in%20%5Bdocument%20name%5D%2C%20with%20a%20link%20to%20the%20source%20in%20NetDocuments.>)
 
 ## How it works
 
@@ -57,30 +57,30 @@ NetDocuments lets users search their permission-scoped legal document repository
 
 ![](https://files.openai.com/content?id=file_0000000055bc81f7aebf1b809bc460a0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=b62819253a7e5be506c70576d1c3d97cbb1767df476d4287cc18848edf60311d&v=0)NetDocuments Prepare a one-page brief of [document name] covering key terms, obligations, and deadlines. Flag ambiguous provisions and questions for review, with links to the source in NetDocuments.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40NetDocuments+Prepare+a+one-page+brief+of+%5Bdocument+name%5D+covering+key+terms%2C+obligations%2C+and+deadlines.+Flag+ambiguous+provisions+and+questions+for+review%2C+with+links+to+the+source+in+NetDocuments.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a88a619b36c8191ac27a9756491ee61?install&prompt=Prepare%20a%20one-page%20brief%20of%20%5Bdocument%20name%5D%20covering%20key%20terms%2C%20obligations%2C%20and%20deadlines.%20Flag%20ambiguous%20provisions%20and%20questions%20for%20review%2C%20with%20links%20to%20the%20source%20in%20NetDocuments.&surface=work>)
 
   * ### Compare counterparty terms
 
 ![](https://files.openai.com/content?id=file_0000000055bc81f7aebf1b809bc460a0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=b62819253a7e5be506c70576d1c3d97cbb1767df476d4287cc18848edf60311d&v=0)NetDocuments Find up to five agreements with [counterparty] and compare payment, renewal, termination, and liability terms. Highlight differences that merit review and link each source.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40NetDocuments+Find+up+to+five+agreements+with+%5Bcounterparty%5D+and+compare+payment%2C+renewal%2C+termination%2C+and+liability+terms.+Highlight+differences+that+merit+review+and+link+each+source.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a88a619b36c8191ac27a9756491ee61?install&prompt=Find%20up%20to%20five%20agreements%20with%20%5Bcounterparty%5D%20and%20compare%20payment%2C%20renewal%2C%20termination%2C%20and%20liability%20terms.%20Highlight%20differences%20that%20merit%20review%20and%20link%20each%20source.&surface=work>)
 
   * ### Draft a negotiation playbook
 
 ![](https://files.openai.com/content?id=file_0000000055bc81f7aebf1b809bc460a0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=b62819253a7e5be506c70576d1c3d97cbb1767df476d4287cc18848edf60311d&v=0)NetDocuments Use up to five [document type] documents from [matter] to draft a negotiation playbook with recurring positions, fallback language, and unresolved gaps. Cite each source and distinguish examples from recommended wording.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40NetDocuments+Use+up+to+five+%5Bdocument+type%5D+documents+from+%5Bmatter%5D+to+draft+a+negotiation+playbook+with+recurring+positions%2C+fallback+language%2C+and+unresolved+gaps.+Cite+each+source+and+distinguish+examples+from+recommended+wording.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_templated_apps_6a88a619b36c8191ac27a9756491ee61?install&prompt=Use%20up%20to%20five%20%5Bdocument%20type%5D%20documents%20from%20%5Bmatter%5D%20to%20draft%20a%20negotiation%20playbook%20with%20recurring%20positions%2C%20fallback%20language%2C%20and%20unresolved%20gaps.%20Cite%20each%20source%20and%20distinguish%20examples%20from%20recommended%20wording.&surface=work>)
 
 
 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
-### [Privacy policyLearn more](<https://www.netdocuments.com/privacy-policy/>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.netdocuments.com/privacy-policy/>)
 
 ## Add the NetDocuments plugin in a few clicks
 
@@ -90,13 +90,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingBuild banking analysis and client-ready materials.](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)LegalQuants TransactionalContract and deal workflows](</business/plugins/legalquants-transactional/>)[![](https://files.openai.com/content?id=file_00000000ab2c81f79ce02f9c44c322c0&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=333f73af42c9a5ef26ac6369d04ef09dbc01a2493291d7356442bcb088eee905&v=0)![](https://files.openai.com/content?id=file_00000000a46c81f79ebe5f831e1439f7&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=67b1dd8d2d5cd61a8838bd32a112ca2cd2e70ead646f287dcce6f68c14d58e73&v=0)Ironclad ContractsPlain language search for faster contract answers](</business/plugins/ironclad-contracts/>)[![](https://files.openai.com/content?id=file_000000006e70720e8240729562593f87&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=881a44cfa311712291121e9cda4ef4b8d7fef216108a65296a5898c02d91507e&v=0)![](https://files.openai.com/content?id=file_00000000042c720882209039c0de8dbb&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=6488ddb504fdc95531899e70229555079be3267f213ba9f836a0a92bc39864a8&v=0)DocusignManage contracts from ChatGPT](</business/plugins/docusign/>)[![](https://files.openai.com/content?id=file_000000003b788243b58bf33b5d039a1b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=cb1f1dea30dfc38b2ca73f1dd6d5732558f298df2f58c557685d6d2d69345d16&v=0)![](https://files.openai.com/content?id=file_000000003b788243b58bf33b5d039a1b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=cb1f1dea30dfc38b2ca73f1dd6d5732558f298df2f58c557685d6d2d69345d16&v=0)iManage WorkGoverned knowledge. AI ready.](</business/plugins/imanage-work/>)[![](https://files.openai.com/content?id=file_000000004ac081f4a2babd21cb0c76fe&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=69535a9a212d9e8fa4efb433f5f3c77c1f81e7609f21797c9ced39e705d95814&v=0)![](https://files.openai.com/content?id=file_00000000fbd882468e689e19856cd127&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=6c0a998d6c2b61ce68106280a996c23c3cffdc424852768e5ad651687fadcb73&v=0)DeepJudgeSearch internal knowledge](</business/plugins/deepjudge/>)
+[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingM&A, valuation, and financing](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)LegalQuants TransactionalContract and deal workflows](</business/plugins/legalquants-transactional/>)[![](https://files.openai.com/content?id=file_00000000ab2c81f79ce02f9c44c322c0&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=333f73af42c9a5ef26ac6369d04ef09dbc01a2493291d7356442bcb088eee905&v=0)![](https://files.openai.com/content?id=file_00000000a46c81f79ebe5f831e1439f7&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=67b1dd8d2d5cd61a8838bd32a112ca2cd2e70ead646f287dcce6f68c14d58e73&v=0)Ironclad ContractsPlain language search for fast](</business/plugins/ironclad-contracts/>)[![](https://files.openai.com/content?id=file_000000006e70720e8240729562593f87&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=881a44cfa311712291121e9cda4ef4b8d7fef216108a65296a5898c02d91507e&v=0)![](https://files.openai.com/content?id=file_00000000042c720882209039c0de8dbb&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=6488ddb504fdc95531899e70229555079be3267f213ba9f836a0a92bc39864a8&v=0)DocusignManage contracts from ChatGPT](</business/plugins/docusign/>)[![](https://files.openai.com/content?id=file_000000003b788243b58bf33b5d039a1b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=cb1f1dea30dfc38b2ca73f1dd6d5732558f298df2f58c557685d6d2d69345d16&v=0)![](https://files.openai.com/content?id=file_000000003b788243b58bf33b5d039a1b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=cb1f1dea30dfc38b2ca73f1dd6d5732558f298df2f58c557685d6d2d69345d16&v=0)iManage WorkGoverned knowledge. AI ready.](</business/plugins/imanage-work/>)[![](https://files.openai.com/content?id=file_000000004ac081f4a2babd21cb0c76fe&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=69535a9a212d9e8fa4efb433f5f3c77c1f81e7609f21797c9ced39e705d95814&v=0)![](https://files.openai.com/content?id=file_00000000fbd882468e689e19856cd127&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=6c0a998d6c2b61ce68106280a996c23c3cffdc424852768e5ad651687fadcb73&v=0)DeepJudgeSearch internal knowledge](</business/plugins/deepjudge/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -108,10 +118,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -130,7 +140,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -157,8 +168,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -177,6 +188,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

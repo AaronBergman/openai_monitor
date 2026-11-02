@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.digitalocean.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000f550722f9a4f9882ef8ee559&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=1&sig=4419f79382d94a63cec2ec97137e35590823e2e2d82a5c5564249b9a6d7b840e&v=0)DigitalOcean Provision a DigitalOcean droplet for Codex(opens in a new window)](<https://chatgpt.com/?prompt=%40DigitalOcean+Provision+a+DigitalOcean+droplet+for+Codex>)
+[![](https://files.openai.com/content?id=file_00000000f550722f9a4f9882ef8ee559&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=1&sig=4419f79382d94a63cec2ec97137e35590823e2e2d82a5c5564249b9a6d7b840e&v=0)DigitalOcean Provision a DigitalOcean droplet for Codex(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3c278c93ac8191b29768648d63a754?install&prompt=Provision%20a%20DigitalOcean%20droplet%20for%20Codex>)
 
 ## How it works
 
@@ -60,19 +60,19 @@ Provision and configure a DigitalOcean droplet as a remote Codex SSH workspace u
 
 ![](https://files.openai.com/content?id=file_00000000f550722f9a4f9882ef8ee559&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=1&sig=4419f79382d94a63cec2ec97137e35590823e2e2d82a5c5564249b9a6d7b840e&v=0)DigitalOcean Provision a DigitalOcean droplet for this Codex workspace using the specified region and size. Configure SSH access and report the connection details.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40DigitalOcean+Provision+a+DigitalOcean+droplet+for+this+Codex+workspace+using+the+specified+region+and+size.+Configure+SSH+access+and+report+the+connection+details.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3c278c93ac8191b29768648d63a754?install&prompt=Provision%20a%20DigitalOcean%20droplet%20for%20this%20Codex%20workspace%20using%20the%20specified%20region%20and%20size.%20Configure%20SSH%20access%20and%20report%20the%20connection%20details.&surface=work>)
 
   * ### Choose workspace configuration
 
 ![](https://files.openai.com/content?id=file_00000000f550722f9a4f9882ef8ee559&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=1&sig=4419f79382d94a63cec2ec97137e35590823e2e2d82a5c5564249b9a6d7b840e&v=0)DigitalOcean Recommend a droplet configuration for this remote coding workload. Explain resource and cost tradeoffs and identify the inputs needed before provisioning.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40DigitalOcean+Recommend+a+droplet+configuration+for+this+remote+coding+workload.+Explain+resource+and+cost+tradeoffs+and+identify+the+inputs+needed+before+provisioning.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3c278c93ac8191b29768648d63a754?install&prompt=Recommend%20a%20droplet%20configuration%20for%20this%20remote%20coding%20workload.%20Explain%20resource%20and%20cost%20tradeoffs%20and%20identify%20the%20inputs%20needed%20before%20provisioning.&surface=work>)
 
   * ### Verify workspace setup
 
 ![](https://files.openai.com/content?id=file_00000000f550722f9a4f9882ef8ee559&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=1&sig=4419f79382d94a63cec2ec97137e35590823e2e2d82a5c5564249b9a6d7b840e&v=0)DigitalOcean Review the configuration of this newly provisioned Codex droplet. Verify the intended SSH workspace setup and report anything still needed to connect.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40DigitalOcean+Review+the+configuration+of+this+newly+provisioned+Codex+droplet.+Verify+the+intended+SSH+workspace+setup+and+report+anything+still+needed+to+connect.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3c278c93ac8191b29768648d63a754?install&prompt=Review%20the%20configuration%20of%20this%20newly%20provisioned%20Codex%20droplet.%20Verify%20the%20intended%20SSH%20workspace%20setup%20and%20report%20anything%20still%20needed%20to%20connect.&surface=work>)
 
 
 
@@ -93,11 +93,11 @@ Provision and configure a DigitalOcean droplet as a remote Codex SSH workspace u
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
-### [Privacy policyLearn more](<https://www.digitalocean.com/legal/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.digitalocean.com/legal/privacy-policy>)
 
 ## Add the DigitalOcean plugin in a few clicks
 
@@ -107,13 +107,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_00000000bd20720e8e0d18060c64fec0&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=4720df36f4fb903c9dbc88af70fe0cc5d9733a416b65eb2ff8bef0bf3ff16184&v=0)![](https://files.openai.com/content?id=file_00000000bd20720e8e0d18060c64fec0&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=4720df36f4fb903c9dbc88af70fe0cc5d9733a416b65eb2ff8bef0bf3ff16184&v=0)Remote Desktop CommanderBuild and automate, anywhere](</business/plugins/remote-desktop-commander/>)[![](https://files.openai.com/content?id=file_00000000275481f5917b18eb9d99384e&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=5680510e129e26c8bf590e0bb5101ec63526803077438d8643660f91ce1bf185&v=0)![](https://files.openai.com/content?id=file_00000000275481f5917b18eb9d99384e&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=5680510e129e26c8bf590e0bb5101ec63526803077438d8643660f91ce1bf185&v=0)OpenAI DevelopersDevelop AI apps, agents, and ChatGPT Apps with OpenAI best practices](</business/plugins/openai-developers/>)[![](https://files.openai.com/content?id=file_00000000238871fd8a6d0e8b39d07333&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=f6f77664b5f021ed2675c55ea22ee8ed05fd5519ca4c4ec7eda953fb9aa0293a&v=0)![](https://files.openai.com/content?id=file_00000000238871fd8a6d0e8b39d07333&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=f6f77664b5f021ed2675c55ea22ee8ed05fd5519ca4c4ec7eda953fb9aa0293a&v=0)DatadogQuery and visualize data](</business/plugins/datadog/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_000000000d8871fda488088716390540&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=69cd78b97daf3473acbbb4779ab68ca8b1de9ec31e89e0f1fe64d86e062c7253&v=0)![](https://files.openai.com/content?id=file_00000000d24c71f8b6f3b2479adc615a&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=dd40d2aac2de0d5450cf5ba49a1f4051cdda1369e14ae44b83ee7c7e271f1f9e&v=0)NeonManage Neon databases](</business/plugins/neon/>)
+[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_00000000bd20720e8e0d18060c64fec0&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=4720df36f4fb903c9dbc88af70fe0cc5d9733a416b65eb2ff8bef0bf3ff16184&v=0)![](https://files.openai.com/content?id=file_00000000bd20720e8e0d18060c64fec0&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=4720df36f4fb903c9dbc88af70fe0cc5d9733a416b65eb2ff8bef0bf3ff16184&v=0)Remote Desktop CommanderUse your computer from chat](</business/plugins/remote-desktop-commander/>)[![](https://files.openai.com/content?id=file_00000000275481f5917b18eb9d99384e&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=5680510e129e26c8bf590e0bb5101ec63526803077438d8643660f91ce1bf185&v=0)![](https://files.openai.com/content?id=file_00000000275481f5917b18eb9d99384e&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=5680510e129e26c8bf590e0bb5101ec63526803077438d8643660f91ce1bf185&v=0)OpenAI DevelopersDevelop AI apps and agents with OpenAI best practices](</business/plugins/openai-developers/>)[![](https://files.openai.com/content?id=file_00000000238871fd8a6d0e8b39d07333&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=f6f77664b5f021ed2675c55ea22ee8ed05fd5519ca4c4ec7eda953fb9aa0293a&v=0)![](https://files.openai.com/content?id=file_00000000238871fd8a6d0e8b39d07333&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=f6f77664b5f021ed2675c55ea22ee8ed05fd5519ca4c4ec7eda953fb9aa0293a&v=0)DatadogQuery and visualize data](</business/plugins/datadog/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_000000000d8871fda488088716390540&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=69cd78b97daf3473acbbb4779ab68ca8b1de9ec31e89e0f1fe64d86e062c7253&v=0)![](https://files.openai.com/content?id=file_00000000d24c71f8b6f3b2479adc615a&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=dd40d2aac2de0d5450cf5ba49a1f4051cdda1369e14ae44b83ee7c7e271f1f9e&v=0)NeonManage your Neon backend](</business/plugins/neon/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -125,10 +135,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -147,7 +157,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -174,8 +185,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -194,6 +205,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

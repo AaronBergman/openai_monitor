@@ -1,5 +1,107 @@
 # openai_monitor
 
+## 2026-11-02T09-19Z
+
+**2026-11-02T09:21:06Z** — 140 new pages, 1733 updated, 14 removed, 36 anomalies across 2111 total URLs (43 sub-sitemaps).
+
+**Gap note:** the previous run was 2026-09-28T09-17Z; this run is ~35 days later, so the changes below accumulate five weeks (no daily detail for Sep 29 – Nov 1).
+
+**TL;DR:** Over the five-week gap OpenAI's sitemap grew from 1,985 to 2,111 URLs (+140 new, −14 removed; the 43rd sub-sitemap file count is unchanged apart from the manifest). Most additions are in OpenAI's *business* push: a new "Marketplace" page, a "Forward Deployed Engineering" page, ~20 `/business/learn/` how-to guides (ChatGPT canvas, custom instructions, agent, Codex lifecycle), new partner pages (Bishop Fox, SpecterOps, TrustedSec, Insight, Affinda, MegazoneCloud) and a batch of new `/business/plugins/` pages (Oracle NetSuite, Atlassian, ServiceNow, Krea, Alpaca, Sandstone). Other new pages: `/devday/2026/`, `/cyber-at-the-frontier/`, `/codex-originals/`, an Evernote ads case study under `/ads/customers/`, and several interest/research-collaboration forms (Sign in with ChatGPT, OpenAI on Google Cloud, private intelligence, computer-use research). Removed: 7 older partner pages (Canva, Dropbox, Gusto, HubSpot, Pathfindr, QuickBooks, Stripe), a few plugin pages (Atlassian Rovo, Oracle Analytics, WordPress ×2), `/economic-research-exchange/`, `/form/ultrafast/`, `/prism/`. Substantive edits spotted: the US privacy policy was re-dated "September 10, 2026" (previously May 18, 2026) with Sora removed from the mission blurb and softened/clarified advertiser-data language; the `/index/learning-to-reason-with-llms/` (o1) post gained an intro and a note that o1-preview/o1-mini are retired from the API. Most of the 1,733 "updated" URLs are lastmod bumps with little content change (and the Markdown converter now emits extra blank lines, inflating some diffs).
+
+### ⚠️ Anomalies
+
+- **future_lastmod**: [`/index/snowflake-partnership/`](https://openai.com/index/snowflake-partnership/) — lastmod 2026-11-02T09:21:13.736Z is after fetch time 2026-11-02T09:21:06Z
+- **future_lastmod**: [`/index/how-countries-can-end-the-capability-overhang/`](https://openai.com/index/how-countries-can-end-the-capability-overhang/) — lastmod 2026-11-02T09:21:11.969Z is after fetch time 2026-11-02T09:21:06Z
+- **future_lastmod**: [`/index/ai-first-hire-small-business/`](https://openai.com/index/ai-first-hire-small-business/) — lastmod 2026-11-02T09:21:08.195Z is after fetch time 2026-11-02T09:21:06Z
+- **future_lastmod**: [`/index/disney-sora-agreement/`](https://openai.com/index/disney-sora-agreement/) — lastmod 2026-11-02T09:21:19.705Z is after fetch time 2026-11-02T09:21:06Z
+- **future_lastmod**: [`/index/unlocking-new-ways-of-working/`](https://openai.com/index/unlocking-new-ways-of-working/) — lastmod 2026-11-02T09:21:15.451Z is after fetch time 2026-11-02T09:21:06Z
+- **future_lastmod**: [`/index/teens-learn-and-plan/`](https://openai.com/index/teens-learn-and-plan/) — lastmod 2026-11-02T09:21:23.163Z is after fetch time 2026-11-02T09:21:06Z
+- **future_lastmod**: [`/index/chatgpt-expanding-world-of-work/`](https://openai.com/index/chatgpt-expanding-world-of-work/) — lastmod 2026-11-02T09:21:12.541Z is after fetch time 2026-11-02T09:21:06Z
+- **future_lastmod**: [`/news/safety-alignment/`](https://openai.com/news/safety-alignment/) — lastmod 2026-11-02T09:21:09.139Z is after fetch time 2026-11-02T09:21:06Z
+- **backdated_new_url**: [`/business/contact-sales-retail/`](https://openai.com/business/contact-sales-retail/) — New URL with lastmod 2026-10-22T09:35:52.893Z (10 days old)
+- **backdated_new_url**: [`/business/learn/automate-complex-workflows-with-openai-o3/`](https://openai.com/business/learn/automate-complex-workflows-with-openai-o3/) — New URL with lastmod 2026-10-23T00:34:42.478Z (10 days old)
+- **backdated_new_url**: [`/business/learn/board-guide-cybersecurity-ai/`](https://openai.com/business/learn/board-guide-cybersecurity-ai/) — New URL with lastmod 2026-10-09T07:16:10.956Z (24 days old)
+- **backdated_new_url**: [`/business/learn/collaborate-and-write-with-gpt-4o/`](https://openai.com/business/learn/collaborate-and-write-with-gpt-4o/) — New URL with lastmod 2026-10-23T04:35:53.989Z (10 days old)
+- **backdated_new_url**: [`/business/learn/connect-internal-knowledge-from-google-drive/`](https://openai.com/business/learn/connect-internal-knowledge-from-google-drive/) — New URL with lastmod 2026-10-22T22:58:48.763Z (10 days old)
+- **backdated_new_url**: [`/business/learn/create-on-brand-visuals-with-image-generation/`](https://openai.com/business/learn/create-on-brand-visuals-with-image-generation/) — New URL with lastmod 2026-10-23T09:21:55.298Z (9 days old)
+- **backdated_new_url**: [`/business/learn/creating-a-contextual-workspace-in-chatgpt/`](https://openai.com/business/learn/creating-a-contextual-workspace-in-chatgpt/) — New URL with lastmod 2026-10-21T16:04:20.339Z (11 days old)
+- **backdated_new_url**: [`/business/learn/delegate-work-to-chatgpt-agent/`](https://openai.com/business/learn/delegate-work-to-chatgpt-agent/) — New URL with lastmod 2026-10-21T15:52:32.152Z (11 days old)
+- **backdated_new_url**: [`/business/learn/gpt-5-our-best-model-for-work/`](https://openai.com/business/learn/gpt-5-our-best-model-for-work/) — New URL with lastmod 2026-10-23T08:06:52.377Z (10 days old)
+- **backdated_new_url**: [`/business/learn/gpt-live-1-webinar/`](https://openai.com/business/learn/gpt-live-1-webinar/) — New URL with lastmod 2026-10-22T02:48:44.212Z (11 days old)
+- **backdated_new_url**: [`/business/learn/market-research-with-chatgpt/`](https://openai.com/business/learn/market-research-with-chatgpt/) — New URL with lastmod 2026-10-21T17:07:06.880Z (11 days old)
+- **backdated_new_url**: [`/business/learn/personalize-chatgpt-with-custom-instructions/`](https://openai.com/business/learn/personalize-chatgpt-with-custom-instructions/) — New URL with lastmod 2026-10-21T16:15:58.111Z (11 days old)
+- ... and 16 more anomalies (see `runs/2026-11-02T09-19Z/analysis.md`)
+
+### New Pages
+
+- **[/ads/customers/evernote/](https://openai.com/ads/customers/evernote/)** ([md](pages/openai.com/ads/customers/evernote/index.md)) — Skip to main content [](</>) * [Research](</research/index/>) * Products * [Business](</business/>)
+- **[/business/contact-sales-retail/](https://openai.com/business/contact-sales-retail/)** ([md](pages/openai.com/business/contact-sales-retail/index.md)) — Skip to main content [](</>)[](</business/>) * Why OpenAI * Products * Solutions
+- **[/business/forward-deployed-engineering/](https://openai.com/business/forward-deployed-engineering/)** ([md](pages/openai.com/business/forward-deployed-engineering/index.md)) — Skip to main content [](</>)[](</business/>) * Why OpenAI * Products * Solutions
+- **[/business/learn/automate-complex-workflows-with-openai-o3/](https://openai.com/business/learn/automate-complex-workflows-with-openai-o3/)** ([md](pages/openai.com/business/learn/automate-complex-workflows-with-openai-o3/index.md)) — Skip to main content [](</>)[](</business/>) * Why OpenAI * Products * Solutions
+- **[/business/learn/board-guide-cybersecurity-ai/](https://openai.com/business/learn/board-guide-cybersecurity-ai/)** ([md](pages/openai.com/business/learn/board-guide-cybersecurity-ai/index.md)) — Skip to main content [](</>)[](</business/>) * Why OpenAI * Products * Solutions
+- **[/business/learn/collaborate-and-write-with-gpt-4o/](https://openai.com/business/learn/collaborate-and-write-with-gpt-4o/)** ([md](pages/openai.com/business/learn/collaborate-and-write-with-gpt-4o/index.md)) — Skip to main content [](</>)[](</business/>) * Why OpenAI * Products * Solutions
+- **[/business/learn/connect-internal-knowledge-from-google-drive/](https://openai.com/business/learn/connect-internal-knowledge-from-google-drive/)** ([md](pages/openai.com/business/learn/connect-internal-knowledge-from-google-drive/index.md)) — Skip to main content [](</>)[](</business/>) * Why OpenAI * Products * Solutions
+- **[/business/learn/create-on-brand-visuals-with-image-generation/](https://openai.com/business/learn/create-on-brand-visuals-with-image-generation/)** ([md](pages/openai.com/business/learn/create-on-brand-visuals-with-image-generation/index.md)) — Skip to main content [](</>)[](</business/>) * Why OpenAI * Products * Solutions
+- **[/business/learn/creating-a-contextual-workspace-in-chatgpt/](https://openai.com/business/learn/creating-a-contextual-workspace-in-chatgpt/)** ([md](pages/openai.com/business/learn/creating-a-contextual-workspace-in-chatgpt/index.md)) — Skip to main content [](</>)[](</business/>) * Why OpenAI * Products * Solutions
+- **[/business/learn/delegate-work-to-chatgpt-agent/](https://openai.com/business/learn/delegate-work-to-chatgpt-agent/)** ([md](pages/openai.com/business/learn/delegate-work-to-chatgpt-agent/index.md)) — Skip to main content [](</>)[](</business/>) * Why OpenAI * Products * Solutions
+- **[/business/learn/gpt-5-our-best-model-for-work/](https://openai.com/business/learn/gpt-5-our-best-model-for-work/)** ([md](pages/openai.com/business/learn/gpt-5-our-best-model-for-work/index.md)) — Skip to main content [](</>)[](</business/>) * Why OpenAI * Products * Solutions
+- **[/business/learn/gpt-live-1-webinar/](https://openai.com/business/learn/gpt-live-1-webinar/)** ([md](pages/openai.com/business/learn/gpt-live-1-webinar/index.md)) — Skip to main content [](</>)[](</business/>) * Why OpenAI * Products * Solutions
+- **[/business/learn/how-openai-uses-chatgpt-atlas-at-work/](https://openai.com/business/learn/how-openai-uses-chatgpt-atlas-at-work/)** ([md](pages/openai.com/business/learn/how-openai-uses-chatgpt-atlas-at-work/index.md)) — Skip to main content [](</>)[](</business/>) * Why OpenAI * Products * Solutions
+- **[/business/learn/market-research-with-chatgpt/](https://openai.com/business/learn/market-research-with-chatgpt/)** ([md](pages/openai.com/business/learn/market-research-with-chatgpt/index.md)) — Skip to main content [](</>)[](</business/>) * Why OpenAI * Products * Solutions
+- **[/business/learn/personalize-chatgpt-with-custom-instructions/](https://openai.com/business/learn/personalize-chatgpt-with-custom-instructions/)** ([md](pages/openai.com/business/learn/personalize-chatgpt-with-custom-instructions/index.md)) — Skip to main content [](</>)[](</business/>) * Why OpenAI * Products * Solutions
+- **[/business/learn/prototyping-with-canvas-in-chatgpt/](https://openai.com/business/learn/prototyping-with-canvas-in-chatgpt/)** ([md](pages/openai.com/business/learn/prototyping-with-canvas-in-chatgpt/index.md)) — Skip to main content [](</>)[](</business/>) * Why OpenAI * Products * Solutions
+- **[/business/learn/shipping-code-to-your-ide-with-chatgpt/](https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt/)** ([md](pages/openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt/index.md)) — Skip to main content [](</>)[](</business/>) * Why OpenAI * Products * Solutions
+- **[/business/learn/strategic-planning-with-chatgpt/](https://openai.com/business/learn/strategic-planning-with-chatgpt/)** ([md](pages/openai.com/business/learn/strategic-planning-with-chatgpt/index.md)) — Skip to main content [](</>)[](</business/>) * Why OpenAI * Products * Solutions
+- **[/business/learn/using-codex-across-the-software-development-lifecycle/](https://openai.com/business/learn/using-codex-across-the-software-development-lifecycle/)** ([md](pages/openai.com/business/learn/using-codex-across-the-software-development-lifecycle/index.md)) — Skip to main content [](</>)[](</business/>) * Why OpenAI * Products * Solutions
+- **[/business/learn/vision-and-voice-in-chatgpt/](https://openai.com/business/learn/vision-and-voice-in-chatgpt/)** ([md](pages/openai.com/business/learn/vision-and-voice-in-chatgpt/index.md)) — Skip to main content [](</>)[](</business/>) * Why OpenAI * Products * Solutions
+- ... and 120 more new pages
+
+### Updated Pages
+
+- **[/](https://openai.com/)** — +30 lines (e.g. '[Learn about ChatGPT Business](</business/>)[Talk with ChatGPT(opens in a new wi'); -29 lines (e.g. '[Learn about ChatGPT Business](</business/>)[Talk with ChatGPT](<https://chatgpt')
+- **[/12-days/](https://openai.com/12-days/)** — +8 lines (e.g. '* [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)'); -4 lines (e.g. '* [GPT-5.4](</index/introducing-gpt-5-4/>)')
+- **[/about/](https://openai.com/about/)** — +15 lines (e.g. '![How we detect frontier model misalignment — Cover](https://images.ctfassets.ne'); -13 lines (e.g. '![Mental Health Bench art card](https://images.ctfassets.net/kftzwdyauwt9/1GVQAE')
+- **[/academy/](https://openai.com/academy/)** — +12 lines (e.g. '### [Help CenterAccount help, billing, troubleshooting, and product guidance.Vis'); -9 lines (e.g. '### [Help CenterAccount help, billing, troubleshooting, and product guidance.Vis')
+- **[/academy/ai-fundamentals/](https://openai.com/academy/ai-fundamentals/)** — +8 lines (e.g. '* [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)'); -5 lines (e.g. '* [GPT-6](</index/gpt-6-astra/>)')
+- **[/academy/applications-of-ai/](https://openai.com/academy/applications-of-ai/)** — +8 lines (e.g. '* [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)'); -4 lines (e.g. '* [GPT-5.4](</index/introducing-gpt-5-4/>)')
+- **[/academy/brainstorming/](https://openai.com/academy/brainstorming/)** — +9 lines (e.g. 'Refer back to [prompt engineering basics](</academy/prompting/>) for how to craf'); -5 lines (e.g. 'Refer back to prompt engineering basics for how to craft high-quality prompts.')
+- **[/academy/building-with-ai/](https://openai.com/academy/building-with-ai/)** — +8 lines (e.g. '* [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)'); -5 lines (e.g. '* [GPT-6](</index/gpt-6-astra/>)')
+- **[/academy/chatgpt-for-education/](https://openai.com/academy/chatgpt-for-education/)** — +8 lines (e.g. '* [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)'); -5 lines (e.g. '* [GPT-6](</index/gpt-6-astra/>)')
+- **[/academy/chatgpt-for-work/](https://openai.com/academy/chatgpt-for-work/)** — +8 lines (e.g. '* [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)'); -5 lines (e.g. '* [GPT-6](</index/gpt-6-astra/>)')
+- **[/academy/chatgpt-sites/](https://openai.com/academy/chatgpt-sites/)** — +15 lines (e.g. '![How data science teams use Codex > card image](https://images.ctfassets.net/kf'); -10 lines (e.g. '![Plugins > card image](https://images.ctfassets.net/kftzwdyauwt9/7r2o2rTyjurYOa')
+- **[/academy/chatgpt-work/](https://openai.com/academy/chatgpt-work/)** — +8 lines (e.g. '* [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)'); -5 lines (e.g. '* [GPT-6](</index/gpt-6-astra/>)')
+- **[/academy/chatgpt-work/how-business-operations-teams-use-codex/](https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex/)** — +8 lines (e.g. '* [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)'); -5 lines (e.g. '* [GPT-6](</index/gpt-6-astra/>)')
+- **[/academy/chatgpt-work/how-data-science-teams-use-codex/](https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex/)** — +8 lines (e.g. '* [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)'); -5 lines (e.g. '* [GPT-6](</index/gpt-6-astra/>)')
+- **[/academy/chatgpt-work/how-sales-teams-use-codex/](https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex/)** — +8 lines (e.g. '* [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)'); -5 lines (e.g. '* [GPT-6](</index/gpt-6-astra/>)')
+- **[/academy/codex/](https://openai.com/academy/codex/)** — +8 lines (e.g. '* [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)'); -5 lines (e.g. '* [GPT-6](</index/gpt-6-astra/>)')
+- **[/academy/customer-success/](https://openai.com/academy/customer-success/)** — +8 lines (e.g. '* [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)'); -4 lines (e.g. '* [GPT-5.4](</index/introducing-gpt-5-4/>)')
+- **[/academy/data-analysis/](https://openai.com/academy/data-analysis/)** — +8 lines (e.g. '* [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)'); -4 lines (e.g. '* [GPT-5.4](</index/introducing-gpt-5-4/>)')
+- **[/academy/finance/](https://openai.com/academy/finance/)** — +8 lines (e.g. '* [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)'); -4 lines (e.g. '* [GPT-5.4](</index/introducing-gpt-5-4/>)')
+- **[/academy/financial-services/](https://openai.com/academy/financial-services/)** — +13 lines (e.g. '### [How AI is changing the future of bankingHear how global financial instituti'); -9 lines (e.g. '### [How AI is changing the future of bankingHear how global financial instituti')
+- ... and 1713 more updates
+
+### Removed Pages
+
+- `/business/partners/canva/`
+- `/business/partners/dropbox/`
+- `/business/partners/gusto/`
+- `/business/partners/hubspot/`
+- `/business/partners/pathfindr/`
+- `/business/partners/quickbooks/`
+- `/business/partners/stripe/`
+- `/business/plugins/atlassian-rovo/`
+- `/business/plugins/mcp-server-for-wordpress/`
+- `/business/plugins/oracle-analytics/`
+- `/business/plugins/wordpress-com/`
+- `/economic-research-exchange/`
+- `/form/ultrafast/`
+- `/prism/`
+
+_Stats: 2111 total URLs | 140 added | 1733 updated | 14 removed | 36 anomalies | 43 sub-sitemaps_
+
+---
+
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

@@ -36,6 +36,8 @@ Loading…
 
 Share
 
+**Update on October 15, 2026:**_Our after-action report features highlights from the OpenAI K-12 AI Skills Jam, including participant use cases and key takeaways on AI adoption for educators and school leaders. A copy of the report is available_[ _here_ ⁠(opens in a new window)](<https://cdn.openai.com/pdf/from-curiosity-to-classroom-outcomes-k-12-ai-skills-jam-report.pdf>)_._
+
 Every day, K–12 teachers, administrators, district leaders, and school communities help students learn, grow, and prepare for the future. They are also being asked to navigate rapid technological change while managing limited time, growing responsibilities, and uneven access to practical support.
 
 That’s why OpenAI Academy, in partnership with the [_Walton Family Foundation_ ⁠(opens in a new window)](<https://www.waltonfamilyfoundation.org/>), will host a flagship AI Skills Jam for K–12 Educators this summer to offer a hands-on, high-trust environment where teachers and administrators can move from curiosity to practical use. Building on the success of the [_Nonprofit AI Jam_ ⁠(opens in a new window)](<https://cdn.openai.com/pdf/oai_nonprofit-jam-report.pdf>) and [_Small Business AI Jam_ ⁠(opens in a new window)](<https://cdn.openai.com/pdf/small-business-jam-report-dec-2025.pdf>), the Jam will bring together more than 1,600 K–12 teachers, administrators, and district leaders for in-person, hands-on workshops across U.S. cities. Through the AI Skills Jam for K–12 Educators, OpenAI Academy aims to help educators explore how AI can support teaching, planning, communication, and other day-to-day work more effectively, while helping advance AI literacy, opportunity, and responsible adoption in education.
@@ -49,13 +51,21 @@ During the Jam, participants will work alongside OpenAI mentors to learn how to 
 Confirmed locations and partners for the AI Skills Jam for K–12 Educators, include: 
 
   * Jonesboro, GA, with Clayton County Public Schools — Wednesday, July 8
+
   * Fairfax, VA, with Fairfax County Public Schools — Thursday, July 9
+
   * Orlando, FL, at the PTA Conference with the Parent Teacher Association — Saturday, July 11
+
   * Chicago, IL, with District 211 — Wednesday, July 15
+
   * San Bernardino, CA, with San Bernardino City Unified School District — Wednesday, July 22
+
   * Phoenix, AZ, with Vertex Education & Legacy Traditional Schools — Friday, July 31
+
   * Salt Lake City, UT, with Davis School District — Friday, August 7
+
   * Las Vegas, NV, with Vertex Education & Legacy Traditional Schools — Friday, September 4
+
 
 
 
@@ -73,17 +83,17 @@ OpenAI
 
 [View all](</news/>)
 
-![DMUA Russia > card image ](https://images.ctfassets.net/kftzwdyauwt9/ciRSLFnJsNyxXYQjdoyqu/ff8ab22ad273ff79a4c9840f0c209fe6/Frame.png?w=3840&q=90&fm=webp)
+![OpenAI and Poland’s NASK announce partnership — cover](https://images.ctfassets.net/kftzwdyauwt9/5iNpIavxCdztEpxDKfc72s/15273fe6022d7f1c77b5a6622c26dd1f/openai-and-poland-s-nask-announce-partnership-cover.png?w=3840&q=90&fm=webp)
 
-[Disrupting a new covert influence campaign from RussiaGlobal AffairsAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
+[OpenAI and NASK partner on AI safety and securityGlobal AffairsOct 23, 2026](</index/openai-nask-ai-safety-security-partnership/>)
 
-![Strengthening Democratic Oversight in National Security — card image](https://images.ctfassets.net/kftzwdyauwt9/1qebg0OnHIh4dqr84zXR3Q/dba2f0e83ba4615a71894fd7fd1656e1/openai-democratic-oversight-page-cover-v002.png?w=3840&q=90&fm=webp)
+![Democratic governance of frontier AI, part II: Empowering cyber defenders — Cover](https://images.ctfassets.net/kftzwdyauwt9/7s66NRbeeddt0jh03kqYVr/e24d600e7890401b9ee82255ec7cb915/empowering-cyber-defenders-cover.png?w=3840&q=90&fm=webp)
 
-[Strengthening Democratic Oversight in National SecurityGlobal AffairsAug 18, 2026](</index/strengthening-democratic-oversight-in-national-security/>)
+[Democratic governance of frontier AI, part II: Empowering cyber defendersGlobal AffairsOct 21, 2026](</index/empowering-cyber-defenders/>)
 
-![OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs — card image](https://images.ctfassets.net/kftzwdyauwt9/6RUPcXx0eTGghDpM851Qy1/ab11d2d0849ad9544249bf7b77ee46fe/openai-joins-ports-pike-project-cover-v001.png?w=3840&q=90&fm=webp)
+![The EU’s next chapter in AI is agentic — Cover](https://images.ctfassets.net/kftzwdyauwt9/1KGRRdbE0ggm4hqHd64ywl/f55ce61c0c7e3097ed6ed3744248c343/the-eus-next-chapter-in-ai-is-agentic-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI joins PORTS-Pike projectGlobal AffairsAug 17, 2026](</index/openai-joins-ports-pike-project/>)
+[Europe’s opportunity to deepen AI useGlobal AffairsOct 14, 2026](</index/the-eus-next-chapter-in-ai-is-agentic/>)
 
 Research
 
@@ -95,9 +105,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -116,7 +127,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -134,6 +146,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -142,8 +155,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -162,6 +175,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

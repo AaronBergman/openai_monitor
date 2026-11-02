@@ -26,221 +26,213 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-New
-
-### Introducing ChatGPT-6 Astra:
-
-**Our most capable model, built for the hardest work businesses need to get done.**
-
-[Learn more](</business/model/>)
-
 # Shape what’s next
 
 Transformative companies can come from anywhere. OpenAI supports founders at every stage of their startup journey to turn ambition into products, customers, and companies.
 
-[Join an event](</leads/startup/>)[Start building(opens in a new window)](<https://platform.openai.com/>)
+[Get the next Drop](</leads/startup/>)[Start building(opens in a new window)](<https://platform.openai.com/>)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1j82Mng6jIJWoWpbp8EJjE/3e9911a3eb85afc88bc30fe987f8299a/Legora.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/6L8gN6qaVDNKAsQS2oG1hD/5cc03517538cab88870d61d834a1c811/Clay.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/ut4kovuUx2HMYcicRawrY/69105cfa7fe57fdedd69d8dcdc291679/Avoca.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/7ikW75RyE67aXcVOweHXRC/3e652f1318d6a867f8523ca010db63cf/HeyGen.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/1gOEBJAdxzyjkLo0aGn8uT/2295cfd98597cfc83d9128bee2a2c216/Warp.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/ZLsIuDYT0QLWJ36N7Vadu/13f75c54bc14112d49f16433a66b4575/Cognition.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/72XixBtJjQGqxhOJIY31qt/f7a1c9a1b3fd45d62e66a94236415caf/Lovart.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/225jV7mulZwMItRaxMtVNv/cf41f6c98aa299244dd47b288cb0e235/Abridge.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/77kWL1khDYftDE7orCIuqc/4dab51db112d3d503a4ef5fdb6509f62/Gamma.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/5fgi2GVi4exJTG4JtnxZbG/2c8f3a44089d3ef63ff5c9a4740e9bce/Supabase.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/1juhJZ7O6zbrDBRhtmLT8q/1271daf107ca389c96328d842d47b55f/Sierra.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/2v9hbHvX0bMpira4DcdBaS/6b33f6b6dbc559c9c640911434d89638/Decagon.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/7tmEeVXWIHcYVmmn885EVK/df2d1348d4250c8a8dadf8234568ec5d/n8n.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/1TNmx6uUIidm3KhE48zgg7/2bf51af85f819012ba22bbdf8c1d793f/Manus.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/23ETts8Xjs6vKNNkBCG8k/6014ba3f9a376b5cd1e5d04764c6e24a/Netomi.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/3ntA8sykbvsy9e4AxrUMjZ/06e01d97f48a9f3e374fe1608b289d70/Harvey.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/7GyunaoZZMKYR8wn1POHC4/dc822e2f332dc40111d719f7aac55866/Fireflies.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/2W8XUR8gJQZsgVsrlq6sBS/786b9e1fd298c01accc373225018835b/Amp.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/nrDdUmK6UbWVBnBKUZ8CV/3804c431cb8424682557c3cdcdff9e36/Emergent.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/3BogdGnHK8xBE2DUOCFFuc/7a63b502035f951249439fb4216497c7/Lovable.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/3WpYwkQFzJBQbF0Lom45bE/0bbc87f3a73e7ef0fa93ccad2bf38726/Cursor.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/2Y4OtUabmOyXs8EFMEo9Zt/c60bb480e9f1553432d99f8aa4028ae9/Depthfirst.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/79MdLFS1h6y5WexLk2Xgva/b17b0b715d6f60516c032686d119c116/Latent.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/7Ez5D9JzQgJVnDjI1ke4sp/91809ff07624a5752c0f06724d36c5d9/Genspark.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/6UBq6Qt6j1cwU2bNLwK0NB/20520f2d8a5e78d936c117bdf01309b5/Parloa.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/1j82Mng6jIJWoWpbp8EJjE/3e9911a3eb85afc88bc30fe987f8299a/Legora.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1j82Mng6jIJWoWpbp8EJjE/3e9911a3eb85afc88bc30fe987f8299a/Legora.svg)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/6L8gN6qaVDNKAsQS2oG1hD/5cc03517538cab88870d61d834a1c811/Clay.svg?w=3840&q=90)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/ut4kovuUx2HMYcicRawrY/69105cfa7fe57fdedd69d8dcdc291679/Avoca.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/ut4kovuUx2HMYcicRawrY/69105cfa7fe57fdedd69d8dcdc291679/Avoca.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7ikW75RyE67aXcVOweHXRC/3e652f1318d6a867f8523ca010db63cf/HeyGen.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7ikW75RyE67aXcVOweHXRC/3e652f1318d6a867f8523ca010db63cf/HeyGen.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1gOEBJAdxzyjkLo0aGn8uT/2295cfd98597cfc83d9128bee2a2c216/Warp.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1gOEBJAdxzyjkLo0aGn8uT/2295cfd98597cfc83d9128bee2a2c216/Warp.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/ZLsIuDYT0QLWJ36N7Vadu/13f75c54bc14112d49f16433a66b4575/Cognition.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/ZLsIuDYT0QLWJ36N7Vadu/13f75c54bc14112d49f16433a66b4575/Cognition.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/72XixBtJjQGqxhOJIY31qt/f7a1c9a1b3fd45d62e66a94236415caf/Lovart.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/72XixBtJjQGqxhOJIY31qt/f7a1c9a1b3fd45d62e66a94236415caf/Lovart.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/225jV7mulZwMItRaxMtVNv/cf41f6c98aa299244dd47b288cb0e235/Abridge.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/225jV7mulZwMItRaxMtVNv/cf41f6c98aa299244dd47b288cb0e235/Abridge.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/77kWL1khDYftDE7orCIuqc/4dab51db112d3d503a4ef5fdb6509f62/Gamma.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/77kWL1khDYftDE7orCIuqc/4dab51db112d3d503a4ef5fdb6509f62/Gamma.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5fgi2GVi4exJTG4JtnxZbG/2c8f3a44089d3ef63ff5c9a4740e9bce/Supabase.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/5fgi2GVi4exJTG4JtnxZbG/2c8f3a44089d3ef63ff5c9a4740e9bce/Supabase.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1juhJZ7O6zbrDBRhtmLT8q/1271daf107ca389c96328d842d47b55f/Sierra.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1juhJZ7O6zbrDBRhtmLT8q/1271daf107ca389c96328d842d47b55f/Sierra.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2v9hbHvX0bMpira4DcdBaS/6b33f6b6dbc559c9c640911434d89638/Decagon.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/2v9hbHvX0bMpira4DcdBaS/6b33f6b6dbc559c9c640911434d89638/Decagon.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7tmEeVXWIHcYVmmn885EVK/df2d1348d4250c8a8dadf8234568ec5d/n8n.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7tmEeVXWIHcYVmmn885EVK/df2d1348d4250c8a8dadf8234568ec5d/n8n.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1TNmx6uUIidm3KhE48zgg7/2bf51af85f819012ba22bbdf8c1d793f/Manus.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1TNmx6uUIidm3KhE48zgg7/2bf51af85f819012ba22bbdf8c1d793f/Manus.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/23ETts8Xjs6vKNNkBCG8k/6014ba3f9a376b5cd1e5d04764c6e24a/Netomi.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/23ETts8Xjs6vKNNkBCG8k/6014ba3f9a376b5cd1e5d04764c6e24a/Netomi.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3ntA8sykbvsy9e4AxrUMjZ/06e01d97f48a9f3e374fe1608b289d70/Harvey.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/3ntA8sykbvsy9e4AxrUMjZ/06e01d97f48a9f3e374fe1608b289d70/Harvey.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7GyunaoZZMKYR8wn1POHC4/dc822e2f332dc40111d719f7aac55866/Fireflies.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7GyunaoZZMKYR8wn1POHC4/dc822e2f332dc40111d719f7aac55866/Fireflies.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2W8XUR8gJQZsgVsrlq6sBS/786b9e1fd298c01accc373225018835b/Amp.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/2W8XUR8gJQZsgVsrlq6sBS/786b9e1fd298c01accc373225018835b/Amp.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/nrDdUmK6UbWVBnBKUZ8CV/3804c431cb8424682557c3cdcdff9e36/Emergent.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/nrDdUmK6UbWVBnBKUZ8CV/3804c431cb8424682557c3cdcdff9e36/Emergent.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3BogdGnHK8xBE2DUOCFFuc/7a63b502035f951249439fb4216497c7/Lovable.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/3BogdGnHK8xBE2DUOCFFuc/7a63b502035f951249439fb4216497c7/Lovable.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3WpYwkQFzJBQbF0Lom45bE/0bbc87f3a73e7ef0fa93ccad2bf38726/Cursor.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/3WpYwkQFzJBQbF0Lom45bE/0bbc87f3a73e7ef0fa93ccad2bf38726/Cursor.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2Y4OtUabmOyXs8EFMEo9Zt/c60bb480e9f1553432d99f8aa4028ae9/Depthfirst.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/2Y4OtUabmOyXs8EFMEo9Zt/c60bb480e9f1553432d99f8aa4028ae9/Depthfirst.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/79MdLFS1h6y5WexLk2Xgva/b17b0b715d6f60516c032686d119c116/Latent.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/79MdLFS1h6y5WexLk2Xgva/b17b0b715d6f60516c032686d119c116/Latent.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7Ez5D9JzQgJVnDjI1ke4sp/91809ff07624a5752c0f06724d36c5d9/Genspark.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7Ez5D9JzQgJVnDjI1ke4sp/91809ff07624a5752c0f06724d36c5d9/Genspark.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6UBq6Qt6j1cwU2bNLwK0NB/20520f2d8a5e78d936c117bdf01309b5/Parloa.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/6UBq6Qt6j1cwU2bNLwK0NB/20520f2d8a5e78d936c117bdf01309b5/Parloa.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1j82Mng6jIJWoWpbp8EJjE/3e9911a3eb85afc88bc30fe987f8299a/Legora.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1j82Mng6jIJWoWpbp8EJjE/3e9911a3eb85afc88bc30fe987f8299a/Legora.svg)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/6L8gN6qaVDNKAsQS2oG1hD/5cc03517538cab88870d61d834a1c811/Clay.svg?w=3840&q=90)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/ut4kovuUx2HMYcicRawrY/69105cfa7fe57fdedd69d8dcdc291679/Avoca.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/ut4kovuUx2HMYcicRawrY/69105cfa7fe57fdedd69d8dcdc291679/Avoca.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7ikW75RyE67aXcVOweHXRC/3e652f1318d6a867f8523ca010db63cf/HeyGen.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7ikW75RyE67aXcVOweHXRC/3e652f1318d6a867f8523ca010db63cf/HeyGen.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1gOEBJAdxzyjkLo0aGn8uT/2295cfd98597cfc83d9128bee2a2c216/Warp.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1gOEBJAdxzyjkLo0aGn8uT/2295cfd98597cfc83d9128bee2a2c216/Warp.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/ZLsIuDYT0QLWJ36N7Vadu/13f75c54bc14112d49f16433a66b4575/Cognition.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/ZLsIuDYT0QLWJ36N7Vadu/13f75c54bc14112d49f16433a66b4575/Cognition.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/72XixBtJjQGqxhOJIY31qt/f7a1c9a1b3fd45d62e66a94236415caf/Lovart.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/72XixBtJjQGqxhOJIY31qt/f7a1c9a1b3fd45d62e66a94236415caf/Lovart.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/225jV7mulZwMItRaxMtVNv/cf41f6c98aa299244dd47b288cb0e235/Abridge.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/225jV7mulZwMItRaxMtVNv/cf41f6c98aa299244dd47b288cb0e235/Abridge.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/77kWL1khDYftDE7orCIuqc/4dab51db112d3d503a4ef5fdb6509f62/Gamma.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/77kWL1khDYftDE7orCIuqc/4dab51db112d3d503a4ef5fdb6509f62/Gamma.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/5fgi2GVi4exJTG4JtnxZbG/2c8f3a44089d3ef63ff5c9a4740e9bce/Supabase.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/5fgi2GVi4exJTG4JtnxZbG/2c8f3a44089d3ef63ff5c9a4740e9bce/Supabase.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1juhJZ7O6zbrDBRhtmLT8q/1271daf107ca389c96328d842d47b55f/Sierra.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1juhJZ7O6zbrDBRhtmLT8q/1271daf107ca389c96328d842d47b55f/Sierra.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2v9hbHvX0bMpira4DcdBaS/6b33f6b6dbc559c9c640911434d89638/Decagon.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/2v9hbHvX0bMpira4DcdBaS/6b33f6b6dbc559c9c640911434d89638/Decagon.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7tmEeVXWIHcYVmmn885EVK/df2d1348d4250c8a8dadf8234568ec5d/n8n.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7tmEeVXWIHcYVmmn885EVK/df2d1348d4250c8a8dadf8234568ec5d/n8n.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/1TNmx6uUIidm3KhE48zgg7/2bf51af85f819012ba22bbdf8c1d793f/Manus.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1TNmx6uUIidm3KhE48zgg7/2bf51af85f819012ba22bbdf8c1d793f/Manus.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/23ETts8Xjs6vKNNkBCG8k/6014ba3f9a376b5cd1e5d04764c6e24a/Netomi.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/23ETts8Xjs6vKNNkBCG8k/6014ba3f9a376b5cd1e5d04764c6e24a/Netomi.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3ntA8sykbvsy9e4AxrUMjZ/06e01d97f48a9f3e374fe1608b289d70/Harvey.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/3ntA8sykbvsy9e4AxrUMjZ/06e01d97f48a9f3e374fe1608b289d70/Harvey.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7GyunaoZZMKYR8wn1POHC4/dc822e2f332dc40111d719f7aac55866/Fireflies.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7GyunaoZZMKYR8wn1POHC4/dc822e2f332dc40111d719f7aac55866/Fireflies.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2W8XUR8gJQZsgVsrlq6sBS/786b9e1fd298c01accc373225018835b/Amp.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/2W8XUR8gJQZsgVsrlq6sBS/786b9e1fd298c01accc373225018835b/Amp.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/nrDdUmK6UbWVBnBKUZ8CV/3804c431cb8424682557c3cdcdff9e36/Emergent.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/nrDdUmK6UbWVBnBKUZ8CV/3804c431cb8424682557c3cdcdff9e36/Emergent.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3BogdGnHK8xBE2DUOCFFuc/7a63b502035f951249439fb4216497c7/Lovable.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/3BogdGnHK8xBE2DUOCFFuc/7a63b502035f951249439fb4216497c7/Lovable.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/3WpYwkQFzJBQbF0Lom45bE/0bbc87f3a73e7ef0fa93ccad2bf38726/Cursor.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/3WpYwkQFzJBQbF0Lom45bE/0bbc87f3a73e7ef0fa93ccad2bf38726/Cursor.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2Y4OtUabmOyXs8EFMEo9Zt/c60bb480e9f1553432d99f8aa4028ae9/Depthfirst.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/2Y4OtUabmOyXs8EFMEo9Zt/c60bb480e9f1553432d99f8aa4028ae9/Depthfirst.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/79MdLFS1h6y5WexLk2Xgva/b17b0b715d6f60516c032686d119c116/Latent.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/79MdLFS1h6y5WexLk2Xgva/b17b0b715d6f60516c032686d119c116/Latent.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7Ez5D9JzQgJVnDjI1ke4sp/91809ff07624a5752c0f06724d36c5d9/Genspark.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7Ez5D9JzQgJVnDjI1ke4sp/91809ff07624a5752c0f06724d36c5d9/Genspark.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/6UBq6Qt6j1cwU2bNLwK0NB/20520f2d8a5e78d936c117bdf01309b5/Parloa.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/6UBq6Qt6j1cwU2bNLwK0NB/20520f2d8a5e78d936c117bdf01309b5/Parloa.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7ikW75RyE67aXcVOweHXRC/3e652f1318d6a867f8523ca010db63cf/HeyGen.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/1j82Mng6jIJWoWpbp8EJjE/3e9911a3eb85afc88bc30fe987f8299a/Legora.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/3WpYwkQFzJBQbF0Lom45bE/0bbc87f3a73e7ef0fa93ccad2bf38726/Cursor.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/3ntA8sykbvsy9e4AxrUMjZ/06e01d97f48a9f3e374fe1608b289d70/Harvey.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/1juhJZ7O6zbrDBRhtmLT8q/1271daf107ca389c96328d842d47b55f/Sierra.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/ZLsIuDYT0QLWJ36N7Vadu/13f75c54bc14112d49f16433a66b4575/Cognition.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/3BogdGnHK8xBE2DUOCFFuc/7a63b502035f951249439fb4216497c7/Lovable.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/23ETts8Xjs6vKNNkBCG8k/6014ba3f9a376b5cd1e5d04764c6e24a/Netomi.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/5fgi2GVi4exJTG4JtnxZbG/2c8f3a44089d3ef63ff5c9a4740e9bce/Supabase.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/1gOEBJAdxzyjkLo0aGn8uT/2295cfd98597cfc83d9128bee2a2c216/Warp.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/6UBq6Qt6j1cwU2bNLwK0NB/20520f2d8a5e78d936c117bdf01309b5/Parloa.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/1TNmx6uUIidm3KhE48zgg7/2bf51af85f819012ba22bbdf8c1d793f/Manus.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/77kWL1khDYftDE7orCIuqc/4dab51db112d3d503a4ef5fdb6509f62/Gamma.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/7ikW75RyE67aXcVOweHXRC/3e652f1318d6a867f8523ca010db63cf/HeyGen.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/7Ez5D9JzQgJVnDjI1ke4sp/91809ff07624a5752c0f06724d36c5d9/Genspark.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/nrDdUmK6UbWVBnBKUZ8CV/3804c431cb8424682557c3cdcdff9e36/Emergent.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/225jV7mulZwMItRaxMtVNv/cf41f6c98aa299244dd47b288cb0e235/Abridge.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/ut4kovuUx2HMYcicRawrY/69105cfa7fe57fdedd69d8dcdc291679/Avoca.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/79MdLFS1h6y5WexLk2Xgva/b17b0b715d6f60516c032686d119c116/Latent.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/2W8XUR8gJQZsgVsrlq6sBS/786b9e1fd298c01accc373225018835b/Amp.svg?w=3840&q=90)
-
-![](https://images.ctfassets.net/kftzwdyauwt9/7tmEeVXWIHcYVmmn885EVK/df2d1348d4250c8a8dadf8234568ec5d/n8n.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1j82Mng6jIJWoWpbp8EJjE/3e9911a3eb85afc88bc30fe987f8299a/Legora.svg)
 
 ![](https://images.ctfassets.net/kftzwdyauwt9/6L8gN6qaVDNKAsQS2oG1hD/5cc03517538cab88870d61d834a1c811/Clay.svg?w=3840&q=90)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2Y4OtUabmOyXs8EFMEo9Zt/c60bb480e9f1553432d99f8aa4028ae9/Depthfirst.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/ut4kovuUx2HMYcicRawrY/69105cfa7fe57fdedd69d8dcdc291679/Avoca.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/7GyunaoZZMKYR8wn1POHC4/dc822e2f332dc40111d719f7aac55866/Fireflies.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/7ikW75RyE67aXcVOweHXRC/3e652f1318d6a867f8523ca010db63cf/HeyGen.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/2v9hbHvX0bMpira4DcdBaS/6b33f6b6dbc559c9c640911434d89638/Decagon.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/1gOEBJAdxzyjkLo0aGn8uT/2295cfd98597cfc83d9128bee2a2c216/Warp.svg)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/72XixBtJjQGqxhOJIY31qt/f7a1c9a1b3fd45d62e66a94236415caf/Lovart.svg?w=3840&q=90)
+![](https://images.ctfassets.net/kftzwdyauwt9/ZLsIuDYT0QLWJ36N7Vadu/13f75c54bc14112d49f16433a66b4575/Cognition.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/72XixBtJjQGqxhOJIY31qt/f7a1c9a1b3fd45d62e66a94236415caf/Lovart.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/225jV7mulZwMItRaxMtVNv/cf41f6c98aa299244dd47b288cb0e235/Abridge.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/77kWL1khDYftDE7orCIuqc/4dab51db112d3d503a4ef5fdb6509f62/Gamma.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/5fgi2GVi4exJTG4JtnxZbG/2c8f3a44089d3ef63ff5c9a4740e9bce/Supabase.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/1juhJZ7O6zbrDBRhtmLT8q/1271daf107ca389c96328d842d47b55f/Sierra.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/2v9hbHvX0bMpira4DcdBaS/6b33f6b6dbc559c9c640911434d89638/Decagon.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/7tmEeVXWIHcYVmmn885EVK/df2d1348d4250c8a8dadf8234568ec5d/n8n.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/1TNmx6uUIidm3KhE48zgg7/2bf51af85f819012ba22bbdf8c1d793f/Manus.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/23ETts8Xjs6vKNNkBCG8k/6014ba3f9a376b5cd1e5d04764c6e24a/Netomi.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3ntA8sykbvsy9e4AxrUMjZ/06e01d97f48a9f3e374fe1608b289d70/Harvey.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/7GyunaoZZMKYR8wn1POHC4/dc822e2f332dc40111d719f7aac55866/Fireflies.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/2W8XUR8gJQZsgVsrlq6sBS/786b9e1fd298c01accc373225018835b/Amp.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/nrDdUmK6UbWVBnBKUZ8CV/3804c431cb8424682557c3cdcdff9e36/Emergent.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3BogdGnHK8xBE2DUOCFFuc/7a63b502035f951249439fb4216497c7/Lovable.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3WpYwkQFzJBQbF0Lom45bE/0bbc87f3a73e7ef0fa93ccad2bf38726/Cursor.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/2Y4OtUabmOyXs8EFMEo9Zt/c60bb480e9f1553432d99f8aa4028ae9/Depthfirst.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/79MdLFS1h6y5WexLk2Xgva/b17b0b715d6f60516c032686d119c116/Latent.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/7Ez5D9JzQgJVnDjI1ke4sp/91809ff07624a5752c0f06724d36c5d9/Genspark.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/6UBq6Qt6j1cwU2bNLwK0NB/20520f2d8a5e78d936c117bdf01309b5/Parloa.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/7ikW75RyE67aXcVOweHXRC/3e652f1318d6a867f8523ca010db63cf/HeyGen.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/1j82Mng6jIJWoWpbp8EJjE/3e9911a3eb85afc88bc30fe987f8299a/Legora.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3WpYwkQFzJBQbF0Lom45bE/0bbc87f3a73e7ef0fa93ccad2bf38726/Cursor.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3ntA8sykbvsy9e4AxrUMjZ/06e01d97f48a9f3e374fe1608b289d70/Harvey.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/1juhJZ7O6zbrDBRhtmLT8q/1271daf107ca389c96328d842d47b55f/Sierra.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/ZLsIuDYT0QLWJ36N7Vadu/13f75c54bc14112d49f16433a66b4575/Cognition.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3BogdGnHK8xBE2DUOCFFuc/7a63b502035f951249439fb4216497c7/Lovable.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/23ETts8Xjs6vKNNkBCG8k/6014ba3f9a376b5cd1e5d04764c6e24a/Netomi.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/5fgi2GVi4exJTG4JtnxZbG/2c8f3a44089d3ef63ff5c9a4740e9bce/Supabase.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/1gOEBJAdxzyjkLo0aGn8uT/2295cfd98597cfc83d9128bee2a2c216/Warp.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/6UBq6Qt6j1cwU2bNLwK0NB/20520f2d8a5e78d936c117bdf01309b5/Parloa.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/1TNmx6uUIidm3KhE48zgg7/2bf51af85f819012ba22bbdf8c1d793f/Manus.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/77kWL1khDYftDE7orCIuqc/4dab51db112d3d503a4ef5fdb6509f62/Gamma.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/7ikW75RyE67aXcVOweHXRC/3e652f1318d6a867f8523ca010db63cf/HeyGen.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/7Ez5D9JzQgJVnDjI1ke4sp/91809ff07624a5752c0f06724d36c5d9/Genspark.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/nrDdUmK6UbWVBnBKUZ8CV/3804c431cb8424682557c3cdcdff9e36/Emergent.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/225jV7mulZwMItRaxMtVNv/cf41f6c98aa299244dd47b288cb0e235/Abridge.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/ut4kovuUx2HMYcicRawrY/69105cfa7fe57fdedd69d8dcdc291679/Avoca.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/79MdLFS1h6y5WexLk2Xgva/b17b0b715d6f60516c032686d119c116/Latent.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/2W8XUR8gJQZsgVsrlq6sBS/786b9e1fd298c01accc373225018835b/Amp.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/7tmEeVXWIHcYVmmn885EVK/df2d1348d4250c8a8dadf8234568ec5d/n8n.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/6L8gN6qaVDNKAsQS2oG1hD/5cc03517538cab88870d61d834a1c811/Clay.svg?w=3840&q=90)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/2Y4OtUabmOyXs8EFMEo9Zt/c60bb480e9f1553432d99f8aa4028ae9/Depthfirst.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/7GyunaoZZMKYR8wn1POHC4/dc822e2f332dc40111d719f7aac55866/Fireflies.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/2v9hbHvX0bMpira4DcdBaS/6b33f6b6dbc559c9c640911434d89638/Decagon.svg)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/72XixBtJjQGqxhOJIY31qt/f7a1c9a1b3fd45d62e66a94236415caf/Lovart.svg)
 
 ## Resources built by founders, for founders
 
@@ -280,25 +272,25 @@ PingoPaceAaruMonacoMinerva
 
 Join upcoming events for hands-on building, technical support, and connecting with other founders.
 
-### [Builder Lounge: Berlin (September 9)Join us for an evening of hands-on building, live demos, and networking, co-hosted with Parloa.Register here](<https://luma.com/8uojs88j>)
+### [Builder Lounge: Berlin (September 9)Join us for an evening of hands-on building, live demos, and networking, co-hosted with Parloa.Register here(opens in a new window)](<https://luma.com/8uojs88j>)
 
-### [Builder Lounge: Stockholm (September 15)Join us for an evening of hands-on building, live demos, and networking, co-hosted with Lovable.Register here](<https://luma.com/9lpe783q>)
+### [Builder Lounge: Stockholm (September 15)Join us for an evening of hands-on building, live demos, and networking, co-hosted with Lovable.Register here(opens in a new window)](<https://luma.com/9lpe783q>)
 
-### [MITHacks × Conviction (September 20)Join OpenAI and Conviction for a pizza party after MIT Hacks. Celebrate the weekend, decompress after building, grab a slice, and connect with fellow hackers, founders, and friends.Register here](<https://luma.com/hackMIT_pizzaparty>)
+### [MITHacks × Conviction (September 20)Join OpenAI and Conviction for a pizza party after MIT Hacks. Celebrate the weekend, decompress after building, grab a slice, and connect with fellow hackers, founders, and friends.Register here(opens in a new window)](<https://luma.com/hackMIT_pizzaparty>)
 
-### [MIT × Index Ventures (September 21)Join MIT students for an evening with Index Ventures and OpenAI in Cambridge.Register here](<https://luma.com/index_openai>)
+### [MIT × Index Ventures (September 21)Join MIT students for an evening with Index Ventures and OpenAI in Cambridge.Register here(opens in a new window)](<https://luma.com/index_openai>)
 
-### [Brown × Chemistry (September 22)Join fellow Brown University students for a morning with Chemistry and OpenAI in Providence.Register here](<https://luma.com/chemistry_openai>)
+### [Brown × Chemistry (September 22)Join fellow Brown University students for a morning with Chemistry and OpenAI in Providence.Register here(opens in a new window)](<https://luma.com/chemistry_openai>)
 
-### [Harvard × NEA (September 22)Join fellow Harvard students for an evening with NEA and OpenAI in Cambridge.Register here](<https://luma.com/harvard_openai>)
+### [Harvard × NEA (September 22)Join fellow Harvard students for an evening with NEA and OpenAI in Cambridge.Register here(opens in a new window)](<https://luma.com/harvard_openai>)
 
-### [Builder Lounge: Paris (September 22)Join us for an evening of hands-on building, live demos, and networking, co-hosted with Photoroom.Register here](<https://luma.com/qfcsoul6>)
+### [Builder Lounge: Paris (September 22)Join us for an evening of hands-on building, live demos, and networking, co-hosted with Photoroom.Register here(opens in a new window)](<https://luma.com/qfcsoul6>)
 
-### [Yale × Founders Fund (September 23)Join fellow Yale students for an evening with Founders Fund and OpenAI in New Haven.Register here](<https://luma.com/foundersfund_openai_yale>)
+### [Yale × Founders Fund (September 23)Join fellow Yale students for an evening with Founders Fund and OpenAI in New Haven.Register here(opens in a new window)](<https://luma.com/foundersfund_openai_yale>)
 
-### [Penn × First Round (September 24)Join fellow Penn students for an evening with First Round, DRF, and OpenAI in Philly.Register here](<https://luma.com/firstround_openai>)
+### [Penn × First Round (September 24)Join fellow Penn students for an evening with First Round, DRF, and OpenAI in Philly.Register here(opens in a new window)](<https://luma.com/firstround_openai>)
 
-### [Columbia × Thrive Capital (September 25)Join fellow Columbia students for an evening with Thrive Capital and OpenAI in New York City.Register here](<https://luma.com/thrive_openai>)
+### [Columbia × Thrive Capital (September 25)Join fellow Columbia students for an evening with Thrive Capital and OpenAI in New York City.Register here(opens in a new window)](<https://luma.com/thrive_openai>)
 
 Load more
 
@@ -306,21 +298,21 @@ Load more
 
 * * *
 
-![Harvey customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/59usTWVI6pc0I3Lb6TL2ol/3d45075f7a623fa6ba4d8d13459065c1/square.png?w=3840&q=90&fm=webp)
+![Greptile — Connections card](https://images.ctfassets.net/kftzwdyauwt9/3MXN8yaWRaIYfhebDhB9oe/234b309da77eba8ac8bce11f880a31df/greptile-connections-card.png?w=3840&q=90&fm=webp)
 
-[Harvey turns legal context into stronger drafts with GPT-6 AstraStartupSep 23, 2026](</index/harvey-from-context-to-confidence-with-astra/>)
+[Greptile takes bug detection beyond code review with GPT-6 AstraStartupOct 26, 2026](</index/greptile-code-review-codex-astra/>)
 
-![Parallel customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/IE8b4WhSed5XqFQUzyyp7/40124aabc92ea8266c99be14d0f380f1/square.png?w=3840&q=90&fm=webp)
+![Anima pressed pathways — Cover](https://images.ctfassets.net/kftzwdyauwt9/4JFQEjjOmF70r9qMDrscxt/8a463d23ee95ce3117cdda718d67052b/anima-pressed-pathways-cover.png?w=3840&q=90&fm=webp)
 
-[Parallel cut research time and cost in half with GPT‑6 AstraStartupSep 22, 2026](</index/parallel-cuts-time-and-cost-with-astra/>)
+[Anima helps clinics cut call waits by 75% with GPT-6 and GPT-LiveStartupOct 23, 2026](</index/anima/>)
 
-![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
+![Terminal X customer story art card](https://images.ctfassets.net/kftzwdyauwt9/29IRF5U5FEXGBdiixWvNg2/96d2b7012e134930671a998d0ae31d05/Terminal-X-A-square-1080.png?w=3840&q=90&fm=webp)
 
-[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
+[Terminal X matches senior investor judgment 88.6% with GPT-6.1StartupOct 20, 2026](</index/terminal-x/>)
 
-![V7 customer story art card - smaller logo](https://images.ctfassets.net/kftzwdyauwt9/3Av2nLs9MOiSrB5wMXLvL2/35fbde20aca9773bd64b1e8ea2897750/square.png?w=3840&q=90&fm=webp)
+![Stack Overflow — cover](https://images.ctfassets.net/kftzwdyauwt9/7G7Qm0twGySzDyv7voEB7I/c871019ba810709cd59e761995a21316/stack-overflow-cover.png?w=3840&q=90&fm=webp)
 
-[How V7 gives AI agents institutional memoryStartupSep 21, 2026](</index/v7/>)
+[Stack Overflow for Agents triples signups with ChatGPT pluginStartupOct 16, 2026](</index/stack-overflow-chatgpt-plugin/>)
 
   * [Explore more stories](<https://openai.com/business/customer-stories/?tags=startup>)
 
@@ -332,7 +324,17 @@ Load more
 
 If you have the ambition to build a company, our team is here to support you.
 
-[Join an event](</leads/startup/>)[Start building(opens in a new window)](<https://platform.openai.com/>)
+[Get the next Drop](</leads/startup/>)[Start building(opens in a new window)](<https://platform.openai.com/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -344,10 +346,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -366,7 +368,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -393,8 +396,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -413,6 +416,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

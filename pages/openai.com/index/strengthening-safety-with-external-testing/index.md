@@ -65,8 +65,11 @@ At OpenAI, we believe that independent, trusted third party assessments play a c
 Since the launch of GPT‑4, OpenAI has collaborated with a range of external partners to test and assess our models. Broadly, our third-party collaborations take three forms:
 
   * **Independent evaluations** of key frontier capability and risk areas such as biosecurity, cybersecurity, AI self-improvement, and scheming
+
   * **Methodology reviews** that assess how we evaluate and interpret risk
+
   * **Subject-matter expert (SME) probing** , where experts evaluate the model directly on real world SME tasks and provide structured input into our assessment of its capabilities and associated safeguards1
+
 
 
 
@@ -109,8 +112,11 @@ Another way we engage external experts is through subject-matter expert (SME) pr
 In the spirit of transparency, we’re sharing more about what third party assessors agree to when they work with us, and the principles that guide our collaborations:
 
   * **Transparency with careful confidentiality bounds** : Third party assessors sign non-disclosure agreements to enable sharing of confidential, non-public information to support their assessments. In the _Appendix_ ⁠ to this post, we include relevant excerpts from contracts with third party assessors that outline rights around publication and expectations for review. We operate with the principle of transparency and strive to enable publication that advances understanding of safety and related evaluations without compromising confidential information or intellectual property. As part of this, we review and approve publications from third-party assessments to ensure both confidentiality and factual accuracy. Over the past few years, several third party assessors have published their work alongside our own publication of assessment summaries in system cards. Some examples of work that has been published after we reviewed it for confidentiality and accuracy include: [[_METR GPT‑5 report_ ⁠(opens in a new window)](<https://evaluations.metr.org/gpt-5-report/>), [_Apollo Research report on OpenAI o1_ ⁠(opens in a new window)](<https://evaluations.metr.org/gpt-5-report/>), [_Irregular GPT‑5 Assessment_ ⁠(opens in a new window)](<https://www.irregular.com/publications/evaluating-gpt-5>)] 
+
   * **Thoughtful information disclosure and secure, sensitive access** : By default, we provide information and access to models that are intended to be public or production-ready. When the evaluations necessitate it, we provide deeper access, such as to helpful-only models or non-public information. OpenAI has provided these forms of access where necessary for critical safety questions for third party assessors. Importantly, these types of sensitive access require strict security measures, and we continue to update those controls as model capabilities and testing needs evolve.
+
   * **Balanced financial incentives:** We believe that it is important to ensure that the third party assessment ecosystem is well-funded and sustainable. Because of that, we offer compensation to all of our third party assessors, and some choose to decline depending on their organizational philosophy around this. Forms of compensation include direct payment for work and/or subsidizing model use costs through API credits or otherwise. No payment is ever contingent on the results of a third party assessment.
+
 
 
 
@@ -161,15 +167,17 @@ Helpful-only models answer any request, even if the request is harmful. These ar
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![An update on violence prevention — Cover](https://images.ctfassets.net/kftzwdyauwt9/2JkiYuWDdFYR0Wg7GoacTc/56a54c0060610c840d098457108a4f88/an-update-on-violence-prevention-cover.png?w=3840&q=90&fm=webp)
 
-![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
+[Community safety report and new protections for teensSafetyOct 30, 2026](</index/community-safety-report-and-new-protections-for-teens/>)
 
-[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
+![An updated Model Spec for more capable and beneficial AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/4nEE8sUTl3LEhrhTSjX3M4/448a13dd2d7f5d809e1fcdeba3001f15/model-spec-update-more-capable-beneficial-ai-cover.png?w=3840&q=90&fm=webp)
 
-![ChatGPT for Teens — square card](https://images.ctfassets.net/kftzwdyauwt9/5IP7e1KeD8zkZq6YUrKdKW/2325215681ea59d32dd09b3ea90f12c5/Art_Card-TEENS-1x13x.png?w=3840&q=90&fm=webp)
+[An updated Model Spec for more capable and beneficial AISafetyOct 29, 2026](</index/updated-model-spec/>)
 
-[Introducing ChatGPT for TeensProductAug 18, 2026](</index/chatgpt-for-teens/>)
+![How we detect frontier model misalignment — Cover](https://images.ctfassets.net/kftzwdyauwt9/43ZavE2amLHMmbxH8EL8VM/1464d0f68c0f3c45e9d255992aab32b1/how-we-detect-frontier-model-misalignment-cover.png?w=3840&q=90&fm=webp)
+
+[How we detect frontier model misalignmentSecurityOct 29, 2026](</index/how-we-detect-frontier-model-misalignment/>)
 
 Research
 
@@ -181,9 +189,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -202,7 +211,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -220,6 +230,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -228,8 +239,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -248,6 +259,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

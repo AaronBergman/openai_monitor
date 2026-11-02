@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.metabase.com>)
 
-[![](https://files.openai.com/content?id=file_000000002bbc71f5bc755e91691ff8b1&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=6b12f8cfafed2fa5e27593ce8152920034846f504425a61c8312400130de3991&v=0)Metabase Use Metabase to find tables related to <topic>.(opens in a new window)](<https://chatgpt.com/?prompt=%40Metabase+Use+Metabase+to+find+tables+related+to+%3Ctopic%3E.>)
+[![](https://files.openai.com/content?id=file_000000002bbc71f5bc755e91691ff8b1&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=6b12f8cfafed2fa5e27593ce8152920034846f504425a61c8312400130de3991&v=0)Metabase Use Metabase to find tables related to <topic>.(opens in a new window)](<https://chatgpt.com/plugins/Plugin_b823126599908191973c3f6b7592b1c5?install&prompt=Use%20Metabase%20to%20find%20tables%20related%20to%20%3Ctopic%3E.>)
 
 ## How it works
 
@@ -60,19 +60,19 @@ Search tables and metrics, run queries, explore field values, spin up instances,
 
 ![](https://files.openai.com/content?id=file_000000002bbc71f5bc755e91691ff8b1&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=6b12f8cfafed2fa5e27593ce8152920034846f504425a61c8312400130de3991&v=0)Metabase Find tables and metrics for a quarterly revenue report by region. Inspect their fields and sample values, recommend the best sources and joins, and flag missing definitions or date coverage.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Metabase+Find+tables+and+metrics+for+a+quarterly+revenue+report+by+region.+Inspect+their+fields+and+sample+values%2C+recommend+the+best+sources+and+joins%2C+and+flag+missing+definitions+or+date+coverage.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_b823126599908191973c3f6b7592b1c5?install&prompt=Find%20tables%20and%20metrics%20for%20a%20quarterly%20revenue%20report%20by%20region.%20Inspect%20their%20fields%20and%20sample%20values%2C%20recommend%20the%20best%20sources%20and%20joins%2C%20and%20flag%20missing%20definitions%20or%20date%20coverage.&surface=work>)
 
   * ### Explain regional revenue changes
 
 ![](https://files.openai.com/content?id=file_000000002bbc71f5bc755e91691ff8b1&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=6b12f8cfafed2fa5e27593ce8152920034846f504425a61c8312400130de3991&v=0)Metabase Query revenue by region for the last two completed quarters using our existing metric definition. Chart the comparison, identify the largest contributors to the change, and summarize data limitations.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Metabase+Query+revenue+by+region+for+the+last+two+completed+quarters+using+our+existing+metric+definition.+Chart+the+comparison%2C+identify+the+largest+contributors+to+the+change%2C+and+summarize+data+limitations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_b823126599908191973c3f6b7592b1c5?install&prompt=Query%20revenue%20by%20region%20for%20the%20last%20two%20completed%20quarters%20using%20our%20existing%20metric%20definition.%20Chart%20the%20comparison%2C%20identify%20the%20largest%20contributors%20to%20the%20change%2C%20and%20summarize%20data%20limitations.&surface=work>)
 
   * ### Audit order data completeness
 
 ![](https://files.openai.com/content?id=file_000000002bbc71f5bc755e91691ff8b1&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=1&sig=6b12f8cfafed2fa5e27593ce8152920034846f504425a61c8312400130de3991&v=0)Metabase Inspect our orders table and check the past 30 days for missing customer IDs, blank order dates, and duplicate order IDs. Summarize issue rates by week and prioritize the checks needing follow-up.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Metabase+Inspect+our+orders+table+and+check+the+past+30+days+for+missing+customer+IDs%2C+blank+order+dates%2C+and+duplicate+order+IDs.+Summarize+issue+rates+by+week+and+prioritize+the+checks+needing+follow-up.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_b823126599908191973c3f6b7592b1c5?install&prompt=Inspect%20our%20orders%20table%20and%20check%20the%20past%2030%20days%20for%20missing%20customer%20IDs%2C%20blank%20order%20dates%2C%20and%20duplicate%20order%20IDs.%20Summarize%20issue%20rates%20by%20week%20and%20prioritize%20the%20checks%20needing%20follow-up.&surface=work>)
 
 
 
@@ -87,11 +87,11 @@ Search tables and metrics, run queries, explore field values, spin up instances,
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
-### [Privacy policyLearn more](<https://www.metabase.com/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.metabase.com/privacy>)
 
 ## Add the Metabase plugin in a few clicks
 
@@ -101,13 +101,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)SnowflakeAsk governed analytics questions of Snowflake data.](</business/plugins/snowflake/>)[![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)BigQueryExplore BigQuery data and generate SQL from natural language.](</business/plugins/bigquery/>)[![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)DBTWork with dbt projects](</business/plugins/dbt/>)[![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)AlationGoverned Knowledge Layer](</business/plugins/alation/>)[![](https://files.openai.com/content?id=file_0000000052b881f4add502e930b75ba2&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=f25dd4b463fb7b10dc7bdfc9d9e3155a9794b3dc8e9d8bb573af55798d90d229&v=0)![](https://files.openai.com/content?id=file_0000000052b881f4add502e930b75ba2&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=f25dd4b463fb7b10dc7bdfc9d9e3155a9794b3dc8e9d8bb573af55798d90d229&v=0)ThoughtSpot SpotterCodeBuild & Ship AI analytics](</business/plugins/thoughtspot/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)SnowflakeAsk governed analytics questions of Snowflake data](</business/plugins/snowflake/>)[![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)BigQueryExplore BigQuery data and generate SQL from natural language](</business/plugins/bigquery/>)[![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)DBTWork with dbt projects](</business/plugins/dbt/>)[![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)AlationGoverned Knowledge Layer](</business/plugins/alation/>)[![](https://files.openai.com/content?id=file_0000000052b881f4add502e930b75ba2&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=f25dd4b463fb7b10dc7bdfc9d9e3155a9794b3dc8e9d8bb573af55798d90d229&v=0)![](https://files.openai.com/content?id=file_0000000052b881f4add502e930b75ba2&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=f25dd4b463fb7b10dc7bdfc9d9e3155a9794b3dc8e9d8bb573af55798d90d229&v=0)ThoughtSpot SpotterCodeBuild & Ship AI analytics](</business/plugins/thoughtspot/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -119,10 +129,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -141,7 +151,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -168,8 +179,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -188,6 +199,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
