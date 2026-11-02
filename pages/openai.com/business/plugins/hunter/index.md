@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://hunter.io>)
 
-[![](https://files.openai.com/content?id=file_00000000f66071f6ae30a1801b466264&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=87630da3f497309f4a89497964bc69346c5ac0bf384388b74e60b58952cd6764&v=0)![](https://files.openai.com/content?id=file_00000000f66071f6ae30a1801b466264&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=87630da3f497309f4a89497964bc69346c5ac0bf384388b74e60b58952cd6764&v=0)Hunter Find contacts at airbnb.com(opens in a new window)](<https://chatgpt.com/?prompt=%40Hunter+Find+contacts+at+airbnb.com>)
+[![](https://files.openai.com/content?id=file_00000000f66071f6ae30a1801b466264&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=87630da3f497309f4a89497964bc69346c5ac0bf384388b74e60b58952cd6764&v=0)![](https://files.openai.com/content?id=file_00000000f66071f6ae30a1801b466264&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=87630da3f497309f4a89497964bc69346c5ac0bf384388b74e60b58952cd6764&v=0)Hunter Find contacts at airbnb.com(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6943c7d34d94819182a0b9acdc1ee952?install&prompt=Find%20contacts%20at%20airbnb.com>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Find and organize companies without leaving ChatGPT. This app connects directly 
 
 ![](https://files.openai.com/content?id=file_00000000f66071f6ae30a1801b466264&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=87630da3f497309f4a89497964bc69346c5ac0bf384388b74e60b58952cd6764&v=0)![](https://files.openai.com/content?id=file_00000000f66071f6ae30a1801b466264&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=87630da3f497309f4a89497964bc69346c5ac0bf384388b74e60b58952cd6764&v=0)Hunter Find ten companies matching this industry, size, and location profile. Return available company details and explain how each matches the criteria.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Hunter+Find+ten+companies+matching+this+industry%2C+size%2C+and+location+profile.+Return+available+company+details+and+explain+how+each+matches+the+criteria.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6943c7d34d94819182a0b9acdc1ee952?install&prompt=Find%20ten%20companies%20matching%20this%20industry%2C%20size%2C%20and%20location%20profile.%20Return%20available%20company%20details%20and%20explain%20how%20each%20matches%20the%20criteria.&surface=work>)
 
   * ### Enrich company records
 
 ![](https://files.openai.com/content?id=file_00000000f66071f6ae30a1801b466264&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=87630da3f497309f4a89497964bc69346c5ac0bf384388b74e60b58952cd6764&v=0)![](https://files.openai.com/content?id=file_00000000f66071f6ae30a1801b466264&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=87630da3f497309f4a89497964bc69346c5ac0bf384388b74e60b58952cd6764&v=0)Hunter Enrich these company domains with available industry, headcount, headquarters, and technology data. Flag uncertain matches and leave unavailable fields blank.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Hunter+Enrich+these+company+domains+with+available+industry%2C+headcount%2C+headquarters%2C+and+technology+data.+Flag+uncertain+matches+and+leave+unavailable+fields+blank.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6943c7d34d94819182a0b9acdc1ee952?install&prompt=Enrich%20these%20company%20domains%20with%20available%20industry%2C%20headcount%2C%20headquarters%2C%20and%20technology%20data.%20Flag%20uncertain%20matches%20and%20leave%20unavailable%20fields%20blank.&surface=work>)
 
   * ### Save qualified companies
 
 ![](https://files.openai.com/content?id=file_00000000f66071f6ae30a1801b466264&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=87630da3f497309f4a89497964bc69346c5ac0bf384388b74e60b58952cd6764&v=0)![](https://files.openai.com/content?id=file_00000000f66071f6ae30a1801b466264&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=87630da3f497309f4a89497964bc69346c5ac0bf384388b74e60b58952cd6764&v=0)Hunter Review these companies against our customer profile, explain the best matches, and save the approved shortlist to Hunter Leads.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Hunter+Review+these+companies+against+our+customer+profile%2C+explain+the+best+matches%2C+and+save+the+approved+shortlist+to+Hunter+Leads.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6943c7d34d94819182a0b9acdc1ee952?install&prompt=Review%20these%20companies%20against%20our%20customer%20profile%2C%20explain%20the%20best%20matches%2C%20and%20save%20the%20approved%20shortlist%20to%20Hunter%20Leads.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Find and organize companies without leaving ChatGPT. This app connects directly 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://hunter.io/contact>)
+### [Plugin supportLearn more(opens in a new window)](<https://hunter.io/contact>)
 
-### [Privacy policyLearn more](<https://hunter.io/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://hunter.io/privacy-policy>)
 
 ## Add the Hunter plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)SalesforceUse the Salesforce plugin to review permitted CRM records, understand accounts and deals, summarize pipeline risk, and prepare follow-up.](</business/plugins/salesforce/>)[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpotAnalyze CRM data and surface insights.](</business/plugins/hubspot/>)[![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)ClayFind and engage prospects.](</business/plugins/clay/>)[![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)GmailFind and reference emails from your inbox.](</business/plugins/gmail/>)
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)SalesforceUse the Salesforce plugin to review permitted CRM records, understand accounts and deals, summarize pipeline risk, and prepare follow-up](</business/plugins/salesforce/>)[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpotAnalyze CRM data and surface insights](</business/plugins/hubspot/>)[![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)ClayGTM Data and Functions](</business/plugins/clay/>)[![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)![](https://files.openai.com/content?id=file_00000000990481fd9c316ee59df47fc5&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=bd8ee8654d100eefe078aa49822119c307f7c6f39021603fafb3d083c1cb5cac&v=0)GmailFind and reference emails from your inbox](</business/plugins/gmail/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

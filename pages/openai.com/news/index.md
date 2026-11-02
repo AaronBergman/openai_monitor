@@ -52,41 +52,41 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
-![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
+![Making it easier for websites to express AI training preferences — Cover](https://images.ctfassets.net/kftzwdyauwt9/2k1vMnTZUeR0P30sHZA5P0/f6b841637d5d703414e3044fcb7196a0/websites-toeexpress-ai-training-preferences-cover.png?w=3840&q=90&fm=webp)
 
-[Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
+[Making it easier for websites to express AI training preferencesCompanyOct 30, 2026](</index/helping-websites-express-ai-training-preferences/>)
 
-![Sam Altman’s remarks at the United Nations Security Council cover image](https://images.ctfassets.net/kftzwdyauwt9/4O6fFZArVSBeCoNjTFwXXZ/cc5e374a6b62b8f328555f002b3bca49/sam-altman-s-remarks-at-the-united-nations-security-council-cover.png?w=3840&q=90&fm=webp)
+![An update on violence prevention — Cover](https://images.ctfassets.net/kftzwdyauwt9/2JkiYuWDdFYR0Wg7GoacTc/56a54c0060610c840d098457108a4f88/an-update-on-violence-prevention-cover.png?w=3840&q=90&fm=webp)
 
-[Sam Altman’s remarks at the United Nations Security CouncilGlobal AffairsSep 23, 2026](</index/sam-altman-un-security-council-remarks/>)
+[Community safety report and new protections for teensSafetyOct 30, 2026](</index/community-safety-report-and-new-protections-for-teens/>)
 
-![ChatGPT Ads expands to Southeast Asia and Taiwan — cover](https://images.ctfassets.net/kftzwdyauwt9/2LRApkCOWR8QHAX6Sj3Rik/367336096ea9ec8e9623c1f4d6035c9f/chatgpt-ads-expands-to-southeast-asia-and-taiwan-cover.png?w=3840&q=90&fm=webp)
+![Fair use benefits everyone — Cover](https://images.ctfassets.net/kftzwdyauwt9/5GEvaQfMA4Mcrt2QIwLGJG/a294f4748aae1f08adae06a25bb07354/fair-use-benefits-everyone-cover.png?w=3840&q=90&fm=webp)
 
-[ChatGPT Ads expands to Southeast Asia and TaiwanProductSep 23, 2026](</index/chatgpt-ads-expands-southeast-asia-taiwan/>)
+[Fair use benefits everyoneCompanyOct 30, 2026](</index/fair-use-benefits-everyone/>)
 
-![Airbnb widens access to GPT-6 Astra and OpenAI frontier models - card image](https://images.ctfassets.net/kftzwdyauwt9/2prIXE6DtUo7UsJqRAl52K/f8c082ed29505ebfbcff9fe828ccc123/airbnb-widens-access-to-gpt-6-astra-and-openai-frontier-models-cover.png?w=3840&q=90&fm=webp)
+![An updated Model Spec for more capable and beneficial AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/4nEE8sUTl3LEhrhTSjX3M4/448a13dd2d7f5d809e1fcdeba3001f15/model-spec-update-more-capable-beneficial-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Airbnb expands access to GPT-6 AstraCompanySep 23, 2026](</index/airbnb-gpt-6-astra/>)
+[An updated Model Spec for more capable and beneficial AISafetyOct 29, 2026](</index/updated-model-spec/>)
 
-![Better prompt caching for GPT-6 — Card image](https://images.ctfassets.net/kftzwdyauwt9/72ZKzMh8JgRDfdg4EYRtwY/ee5e406a08b69f00b0beb4ac00270364/7kneoqlc2qh37z1utkmtfk-cover-v1.png?w=3840&q=90&fm=webp)
+![How we detect frontier model misalignment — Cover](https://images.ctfassets.net/kftzwdyauwt9/43ZavE2amLHMmbxH8EL8VM/1464d0f68c0f3c45e9d255992aab32b1/how-we-detect-frontier-model-misalignment-cover.png?w=3840&q=90&fm=webp)
 
-[Better prompt caching for GPT-6ProductSep 22, 2026](</index/better-prompt-caching-for-gpt-6/>)
+[How we detect frontier model misalignmentSecurityOct 29, 2026](</index/how-we-detect-frontier-model-misalignment/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![OpenAI and ServiceNow expand partnership across enterprise workflows, software development and security — Cover](https://images.ctfassets.net/kftzwdyauwt9/i2nR5RpyJ2Iz1XrsQX3Gm/edcbc52f12d4aff29b80aa36bb67f0fe/openai-servicenow-partnership-expansion-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
+[OpenAI and ServiceNow expand partnership across enterprise workflowsCompanyOct 28, 2026](</index/openai-servicenow-partnership-expansion/>)
 
-![Priorities and principles for effective third party assessments cover](https://images.ctfassets.net/kftzwdyauwt9/12cpbLOJFwXJ00Ma66GDVk/d4b392c0a9e18f078b23247a3f755f57/priorities-and-principles-for-effective-third-party-assessments-cover.png?w=3840&q=90&fm=webp)
+![The Future of the Firm — Cover](https://images.ctfassets.net/kftzwdyauwt9/6rQTHf1q0hsSrYapYJaOJQ/66ed5c49d6bfe279ae089d6fecfc9de4/future-of-the-firm-cover.png?w=3840&q=90&fm=webp)
 
-[Priorities and principles for effective third party assessmentsSafetySep 22, 2026](</index/priorities-principles-third-party-assessments/>)
+[The future of the firmIntelligence AgeOct 28, 2026](</index/the-future-of-the-firm/>)
 
-![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
+![OpenAI expands partnership with Oracle to bring its apps to ChatGPT — Cover](https://images.ctfassets.net/kftzwdyauwt9/1rEHkDRZ1mqyO5gnyVU4CE/4311739367a7b7e322d07b62ff3c1836/openai-oracle-apps-chatgpt-blue-art-card-1080x1080.png?w=3840&q=90&fm=webp)
 
-[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
+[OpenAI expands partnership with Oracle to bring its apps to ChatGPTCompanyOct 27, 2026](</index/oracle-apps-in-chatgpt/>)
 
-![Expanding OpenAI Academy with new learning paths — cover](https://images.ctfassets.net/kftzwdyauwt9/45fB7Wzg6PiQPzz8V49LVr/ef443412e9d5f03f9d5ffcc79aefe18e/expanding-openai-academy-with-new-learning-paths-cover.png?w=3840&q=90&fm=webp)
+![Working with academic communities to build scientific understanding — Cover](https://images.ctfassets.net/kftzwdyauwt9/77i38N8Ov2vmY2uJ4pWRIQ/5f6f3eceaf8751f07fc23f179ad14c32/from-ai-results-to-scientific-understanding-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI Academy with new learning pathsCompanySep 21, 2026](</index/expanding-openai-academy-with-new-learning-paths/>)
+[Working with academic communities to build scientific understandingResearchOct 26, 2026](</index/building-scientific-understanding-with-academic-communities/>)
 
 Load more
 
@@ -100,10 +100,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -122,7 +122,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -149,8 +150,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -169,6 +170,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

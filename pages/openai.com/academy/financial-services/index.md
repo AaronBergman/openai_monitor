@@ -63,10 +63,15 @@ All resources are tailored specifically for the needs of banks, asset managers, 
 A curated set of ready-to-use prompts vetted for day-to-day financial services work, including:
 
   * Data analysis and financial modeling
+
   * Research, search, and synthesis
+
   * Policy, tax, and regulatory interpretation
+
   * Contract, covenant, and document analysis
+
   * Data extraction and support for Excel, BI, and ERP workflows
+
 
 
 
@@ -78,19 +83,19 @@ These prompts are built to accelerate time-to-value while maintaining clarity, c
 
 Watch how financial institutions are applying AI in practice.
 
-### [How AI is changing the future of bankingHear how global financial institutions are using AI today across research, risk, operations, and customer workflows—plus lessons learned from early deployments.Watch now](<https://webinar.openai.com/events/future-banking-ai>)
+### [How AI is changing the future of bankingHear how global financial institutions are using AI today across research, risk, operations, and customer workflows—plus lessons learned from early deployments.Watch now(opens in a new window)](<https://webinar.openai.com/events/future-banking-ai>)
 
 ## Guides and whitepapers
 
 In-depth resources with frameworks and guidance for adopting AI.
 
-### [AI in the enterpriseA practical overview of how organizations deploy AI securely across core workflows, with guidance on governance, security, and change management.Read whitepaper](<https://cdn.openai.com/business-guides-and-resources/ai-in-the-enterprise.pdf>)
+### [AI in the enterpriseA practical overview of how organizations deploy AI securely across core workflows, with guidance on governance, security, and change management.Read whitepaper(opens in a new window)](<https://cdn.openai.com/business-guides-and-resources/ai-in-the-enterprise.pdf>)
 
-### [Identifying and scaling AI use casesA step-by-step framework for prioritizing high-impact AI use cases and moving from pilots to enterprise-wide deployment.Read whitepaper](<https://cdn.openai.com/business-guides-and-resources/identifying-and-scaling-ai-use-cases.pdf>)
+### [Identifying and scaling AI use casesA step-by-step framework for prioritizing high-impact AI use cases and moving from pilots to enterprise-wide deployment.Read whitepaper(opens in a new window)](<https://cdn.openai.com/business-guides-and-resources/identifying-and-scaling-ai-use-cases.pdf>)
 
-### [Staying ahead in the age of AIExecutive-level perspectives on how AI is reshaping competition, productivity, and decision-making across regulated industries.Read whitepaper](<https://cdn.openai.com/pdf/ae250928-4029-4f26-9e23-afac1fcee14c/staying-ahead-in-the-age-of-ai.pdf>)
+### [Staying ahead in the age of AIExecutive-level perspectives on how AI is reshaping competition, productivity, and decision-making across regulated industries.Read whitepaper(opens in a new window)](<https://cdn.openai.com/pdf/ae250928-4029-4f26-9e23-afac1fcee14c/staying-ahead-in-the-age-of-ai.pdf>)
 
-### [From experiments to deploymentsA practical guide walking through the four phases we see in successful AI programs: setting solid foundations, AI fluency, building a catalog of use cases, and iterative building.Read whitepaper](<https://cdn.openai.com/business-guides-and-resources/from-experiments-to-deployments_whitepaper_11-25.pdf>)
+### [From experiments to deploymentsA practical guide walking through the four phases we see in successful AI programs: setting solid foundations, AI fluency, building a catalog of use cases, and iterative building.Read whitepaper(opens in a new window)](<https://cdn.openai.com/business-guides-and-resources/from-experiments-to-deployments_whitepaper_11-25.pdf>)
 
 ## Get started
 
@@ -128,9 +133,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -149,7 +155,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -167,6 +174,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -175,8 +183,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -195,6 +203,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

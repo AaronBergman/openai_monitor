@@ -58,6 +58,39 @@ Surfacing reliable information
 
 
 
+ _Update on October 20, 2026:_
+
+_Ahead of the U.S. midterm elections, we’re continuing our work to help people access reliable voting information and supporting election defenders. Here are some updates on that work:_
+
+_**Helping people access reliable information**_
+
+  *  _Our_[ __Democracy Works__ ⁠(opens in a new window)](<https://www.democracy.works/news/democracy-works-partnering-with-openai>)_integration is now live in the U.S. across languages, bringing information about registration, deadlines, voting locations and other election requirements directly into ChatGPT. Democracy Works compiles this information with state and local election officials and monitors changes throughout the election period. Responses also include links to official election sources so people can check the details for themselves._
+
+  * _Our integration with_[ __The Associated Press__ ⁠(opens in a new window)](<https://www.ap.org/media-center/press-releases/2026/ap-adds-openai-as-elections-customer/>)_brings live vote counts into ChatGPT for elections in the U.S. and Brazil, after polls close. Election officials remain the authority on voting rules and certified results._
+
+  * _We now apply image stylization to requests for images depicting election interference or that may discourage voting. These outputs produce stylized – also known as cartoonified – illustrations, rather than photorealistic images, to help reduce the risk that an imagined scene is mistaken for documentary evidence. This approach preserves room for illustrations and social commentary. Our policies prohibiting election interference and demobilization always apply, even if that misuse involves cartoonified imagery._
+
+
+
+
+_**Supporting election defenders**_
+
+  *  _Through our_[ __Daybreak__ ⁠](<https://openai.com/daybreak/>) _program, we’ve offered voting-system manufacturers registered with the U.S. Election Assistance Commission and state election authorities special access to models for cyber defense at no cost, to help them identify weaknesses and harden election infrastructure. We are also working with elections services vendors._
+
+
+
+
+_**Political ads and campaigning**_
+
+  *  _We continue to prohibit political ads from running on our platform._
+
+  * _We also continue to prohibit using our products to create or distribute scaled campaign messaging, including images and video, that advocate for or against a candidate, political party or ballot measure. Campaigns can use our tools for_[ __responsible, human-directed work__ ⁠(opens in a new window)](<https://help.openai.com/en/articles/20001255-political-campaigning-restrictions>)_, including internal briefings, planning, everyday writing, translation, compliance and administrative tasks._
+
+
+
+
+* * *
+
 2026 is the world’s second major election year since generative AI became widely available, and we’re continuing to build on the foundation we laid in 2024 to help protect elections in countries and territories around the world. 
 
 Our focus is to build and responsibly deploy groundbreaking products in ways that: 
@@ -87,7 +120,7 @@ Since 2024, we have continued to improve the quality of information people get w
 
 This is an important moment for cyber defenders across industries, and we believe AI plays a critical role in hardening digital infrastructure—including systems that support elections. OpenAI is committed to building resilience across the infrastructure stack, including in ways that support election execution. 
 
-We recently announced [_Daybreak_ ⁠](<https://openai.com/daybreak/>), our effort to change the way software is built and defended. Daybreak includes a number of programs intended to make software safer and more resilient, including Codex Security, which automatically identifies, validates, and helps remediate vulnerabilities in developers code. For more advanced defense, our [_Trusted Access for Cyber_ ⁠](<https://openai.com/index/scaling-trusted-access-for-cyber-defense/>)(TAC) program provides verified individuals access to frontier models for cyber defense. We have offered Codex Security as well as TAC access to [_registered voting system manufacturers_ ⁠(opens in a new window)](<https://www.eac.gov/voting-equipment/registered-manufacturers>) in the US, and we are engaging the National Association of Secretaries of State (NASS) and the National Association of State Election Directors (NASED) to ensure state election authorities are briefed on the latest cyber capabilities and our tools for defenders. 
+We recently announced [_Daybreak_ ⁠](<https://openai.com/daybreak/>), our effort to change the way software is built and defended. Daybreak includes a number of programs intended to make software safer and more resilient, including Codex Security, which automatically identifies, validates, and helps remediate vulnerabilities in developers’ code. For more advanced defense, our [_Trusted Access for Cyber_ ⁠](<https://openai.com/index/scaling-trusted-access-for-cyber-defense/>)(TAC) program provides verified individuals access to frontier models for cyber defense. We have offered Codex Security as well as TAC access to [_registered voting system manufacturers_ ⁠(opens in a new window)](<https://www.eac.gov/voting-equipment/registered-manufacturers>) in the US, and we are engaging the National Association of Secretaries of State (NASS) and the National Association of State Election Directors (NASED) to ensure state election authorities are briefed on the latest cyber capabilities and our tools for defenders. 
 
 ## Increasing transparency 
 
@@ -144,17 +177,17 @@ OpenAI
 
 [View all](</news/>)
 
-![OpenAI extends cyber access to Ukraine for civilian defense — cover](https://images.ctfassets.net/kftzwdyauwt9/4NsiJiqUurW5ypfaulGCFm/8b5bfad7d895c4fc6aa20766d5c88b0c/openai-extends-cyber-access-to-ukraine-for-civilian-defense-cover.png?w=3840&q=90&fm=webp)
+![OpenAI and Poland’s NASK announce partnership — cover](https://images.ctfassets.net/kftzwdyauwt9/5iNpIavxCdztEpxDKfc72s/15273fe6022d7f1c77b5a6622c26dd1f/openai-and-poland-s-nask-announce-partnership-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI extends cyber access to Ukraine for civilian defenseGlobal AffairsSep 23, 2026](</index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/>)
+[OpenAI and NASK partner on AI safety and securityGlobal AffairsOct 23, 2026](</index/openai-nask-ai-safety-security-partnership/>)
 
-![Sam Altman’s remarks at the United Nations Security Council cover image](https://images.ctfassets.net/kftzwdyauwt9/4O6fFZArVSBeCoNjTFwXXZ/cc5e374a6b62b8f328555f002b3bca49/sam-altman-s-remarks-at-the-united-nations-security-council-cover.png?w=3840&q=90&fm=webp)
+![Democratic governance of frontier AI, part II: Empowering cyber defenders — Cover](https://images.ctfassets.net/kftzwdyauwt9/7s66NRbeeddt0jh03kqYVr/e24d600e7890401b9ee82255ec7cb915/empowering-cyber-defenders-cover.png?w=3840&q=90&fm=webp)
 
-[Sam Altman’s remarks at the United Nations Security CouncilGlobal AffairsSep 23, 2026](</index/sam-altman-un-security-council-remarks/>)
+[Democratic governance of frontier AI, part II: Empowering cyber defendersGlobal AffairsOct 21, 2026](</index/empowering-cyber-defenders/>)
 
-![Grab and OpenAI bring practical AI skills to Southeast Asia — cover](https://images.ctfassets.net/kftzwdyauwt9/54XrkC2PjMSkrDcHjY0L2j/403cfe92efa0592525d62bded987ce5c/grab-and-openai-bring-practical-ai-skills-to-southeast-asia-cover.png?w=3840&q=90&fm=webp)
+![The EU’s next chapter in AI is agentic — Cover](https://images.ctfassets.net/kftzwdyauwt9/1KGRRdbE0ggm4hqHd64ywl/f55ce61c0c7e3097ed6ed3744248c343/the-eus-next-chapter-in-ai-is-agentic-cover.png?w=3840&q=90&fm=webp)
 
-[Grab and OpenAI bring practical AI skills to Southeast AsiaGlobal AffairsSep 23, 2026](</index/grab-openai-ai-skills-southeast-asia/>)
+[Europe’s opportunity to deepen AI useGlobal AffairsOct 14, 2026](</index/the-eus-next-chapter-in-ai-is-agentic/>)
 
 Research
 
@@ -166,10 +199,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -188,7 +221,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -215,8 +249,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -235,6 +269,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

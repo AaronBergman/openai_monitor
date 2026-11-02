@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://motherduck.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000fcec722f93ce8fc533902718&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=70460db27b5551bfe8cd4fb2188caa7326485521b40f23f8b1c8b8c97fbcdff8&v=0)MotherDuck Show me the top 30 customers by revenue last quarter(opens in a new window)](<https://chatgpt.com/?prompt=%40MotherDuck+Show+me+the+top+30+customers+by+revenue+last+quarter>)
+[![](https://files.openai.com/content?id=file_00000000fcec722f93ce8fc533902718&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=70460db27b5551bfe8cd4fb2188caa7326485521b40f23f8b1c8b8c97fbcdff8&v=0)MotherDuck Show me the top 30 customers by revenue last quarter(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_696a54f1c91c81919002b9153ce0e336?install&prompt=Show%20me%20the%20top%2030%20customers%20by%20revenue%20last%20quarter>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Connect AI assistants to your MotherDuck data warehouse. Explore, visualize, and
 
 ![](https://files.openai.com/content?id=file_00000000fcec722f93ce8fc533902718&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=70460db27b5551bfe8cd4fb2188caa7326485521b40f23f8b1c8b8c97fbcdff8&v=0)MotherDuck Show me the top 30 customers by revenue last quarter
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40MotherDuck+Show+me+the+top+30+customers+by+revenue+last+quarter>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_696a54f1c91c81919002b9153ce0e336?install&prompt=Show%20me%20the%20top%2030%20customers%20by%20revenue%20last%20quarter&surface=work>)
 
   * ### Investigate revenue shifts
 
 ![](https://files.openai.com/content?id=file_00000000fcec722f93ce8fc533902718&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=70460db27b5551bfe8cd4fb2188caa7326485521b40f23f8b1c8b8c97fbcdff8&v=0)MotherDuck Analyze monthly revenue over the last six months by customer segment. Validate the joins and revenue definition, identify the largest shifts, and summarize which segments warrant further investigation.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40MotherDuck+Analyze+monthly+revenue+over+the+last+six+months+by+customer+segment.+Validate+the+joins+and+revenue+definition%2C+identify+the+largest+shifts%2C+and+summarize+which+segments+warrant+further+investigation.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_696a54f1c91c81919002b9153ce0e336?install&prompt=Analyze%20monthly%20revenue%20over%20the%20last%20six%20months%20by%20customer%20segment.%20Validate%20the%20joins%20and%20revenue%20definition%2C%20identify%20the%20largest%20shifts%2C%20and%20summarize%20which%20segments%20warrant%20further%20investigation.&surface=work>)
 
   * ### Build a revenue Dive
 
 ![](https://files.openai.com/content?id=file_00000000fcec722f93ce8fc533902718&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=70460db27b5551bfe8cd4fb2188caa7326485521b40f23f8b1c8b8c97fbcdff8&v=0)MotherDuck Create a Dive showing monthly revenue by region over the last year, with region and date filters. Validate totals against the source data and save it in my workspace for the team's recurring business review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40MotherDuck+Create+a+Dive+showing+monthly+revenue+by+region+over+the+last+year%2C+with+region+and+date+filters.+Validate+totals+against+the+source+data+and+save+it+in+my+workspace+for+the+team%27s+recurring+business+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_696a54f1c91c81919002b9153ce0e336?install&prompt=Create%20a%20Dive%20showing%20monthly%20revenue%20by%20region%20over%20the%20last%20year%2C%20with%20region%20and%20date%20filters.%20Validate%20totals%20against%20the%20source%20data%20and%20save%20it%20in%20my%20workspace%20for%20the%20team's%20recurring%20business%20review.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Connect AI assistants to your MotherDuck data warehouse. Explore, visualize, and
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://motherduck.com/docs/troubleshooting/support/>)
+### [Plugin supportLearn more(opens in a new window)](<https://motherduck.com/docs/troubleshooting/support/>)
 
-### [Privacy policyLearn more](<https://motherduck.com/privacy-policy/>)
+### [Privacy policyLearn more(opens in a new window)](<https://motherduck.com/privacy-policy/>)
 
 ## Add the MotherDuck plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000f92071f79930229160a6ca3b&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=6faeb8bbf3cc92b5d0996a82dd40d42ac8b54a7aa3afa8c7950b2f36720a3de7&v=0)![](https://files.openai.com/content?id=file_000000001bf871f7959c46e1bd9802cd&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=64ebef30bd218a7048400d20b79b338a5efea8ec72de36dfbf0754fe82ec178e&v=0)DeepnoteRun data workflows with agents](</business/plugins/deepnote/>)[![](https://files.openai.com/content?id=file_00000000d39471f5895ac05d8dd82675&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=9a5d10a9cef64950c8e49963cdfcc8723fd063b39649bb3ffbff98b539dea986&v=0)![](https://files.openai.com/content?id=file_00000000385881f7bc6c98a3bc181621&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=40cd48a2f7eb162054efb6149fda37de4388c8a50c5f2eb84f338b62f952e8e3&v=0)HexAsk data questions and start new analyses from Hex.](</business/plugins/hex/>)[![](https://files.openai.com/content?id=file_0000000059fc722f971e299766273267&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=c2f626a4b43d972d019fe35011d284b1e334a431ff00c01b4e8b6e8f312c7726&v=0)![](https://files.openai.com/content?id=file_0000000059fc722f971e299766273267&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=c2f626a4b43d972d019fe35011d284b1e334a431ff00c01b4e8b6e8f312c7726&v=0)MetabaseQuery and explore your Metabase data](</business/plugins/metabase/>)[![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)DBTWork with dbt projects](</business/plugins/dbt/>)[![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)AlationGoverned Knowledge Layer](</business/plugins/alation/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000f92071f79930229160a6ca3b&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=6faeb8bbf3cc92b5d0996a82dd40d42ac8b54a7aa3afa8c7950b2f36720a3de7&v=0)![](https://files.openai.com/content?id=file_000000001bf871f7959c46e1bd9802cd&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=64ebef30bd218a7048400d20b79b338a5efea8ec72de36dfbf0754fe82ec178e&v=0)DeepnoteRun data workflows with agents](</business/plugins/deepnote/>)[![](https://files.openai.com/content?id=file_00000000d39471f5895ac05d8dd82675&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=9a5d10a9cef64950c8e49963cdfcc8723fd063b39649bb3ffbff98b539dea986&v=0)![](https://files.openai.com/content?id=file_00000000385881f7bc6c98a3bc181621&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=40cd48a2f7eb162054efb6149fda37de4388c8a50c5f2eb84f338b62f952e8e3&v=0)HexAsk questions, run analyses](</business/plugins/hex/>)[![](https://files.openai.com/content?id=file_0000000059fc722f971e299766273267&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=c2f626a4b43d972d019fe35011d284b1e334a431ff00c01b4e8b6e8f312c7726&v=0)![](https://files.openai.com/content?id=file_0000000059fc722f971e299766273267&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=c2f626a4b43d972d019fe35011d284b1e334a431ff00c01b4e8b6e8f312c7726&v=0)MetabaseQuery and explore your Metabase data](</business/plugins/metabase/>)[![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)DBTWork with dbt projects](</business/plugins/dbt/>)[![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)AlationGoverned Knowledge Layer](</business/plugins/alation/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

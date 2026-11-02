@@ -26,8 +26,6 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-[Join the livestream on September 29\--d : --h : --m](<https://devday.openai.com/>)
-
 # Frontier intelligenceeverywhere you work
 
 Get started
@@ -36,22 +34,92 @@ Get started
 
 [![Cisco colleagues collaborating on a laptop beside studio windows](https://images.ctfassets.net/kftzwdyauwt9/1t5IYcEUHVv2SBqs85yOBz/dfb403dba368a453900bd928e2a14444/Cisco_Still_Frame_2.png?w=3840&q=90&fm=webp)![](https://images.ctfassets.net/kftzwdyauwt9/3bPrRHURUMOUbb4dQHHvDY/6c57bae691ce6d6bf52c5cae44505f24/cisco.svg?w=3840&q=90)Read story](</customer-stories/cisco/>)[![Morgan Stanley team meeting in a conference room](https://images.ctfassets.net/kftzwdyauwt9/5soIm5Bd0reFqgefqzyWZx/0837b0b651f2c7a56d95beb179ededcd/Morgan_Stanley_Still_Frame.png?w=3840&q=90&fm=webp)![](https://images.ctfassets.net/kftzwdyauwt9/2gHGfMDWnORWPsivIbh95o/a7c8a463a43d007875468a8c96e51d30/morgan-stanley-provided.svg?w=3840&q=90)Read story](</customer-stories/morgan-stanley/>)[![Designer sketching concepts in a studio workspace](https://images.ctfassets.net/kftzwdyauwt9/3mWM3h7M1diUabKhYgTF1I/ea13a3a8d3a334bab9c0178600ba9819/BNY_Still_Frame.jpg?w=3840&q=90&fm=webp)![](https://images.ctfassets.net/kftzwdyauwt9/F5VHdqUF5otxZ0Hewf8uQ/3c7402e993935631b6495cd1d592c28c/bny.svg?w=3840&q=90)Read story](</customer-stories/bny/>)[![Team meeting around a conference table](https://images.ctfassets.net/kftzwdyauwt9/lKG8etPMCAHMncytiKRVJ/64534fdc370babda6daf517d3a382e9a/Moderna_Still_Frame_2.png?w=3840&q=90&fm=webp)![](https://images.ctfassets.net/kftzwdyauwt9/1zcHIB7H1VIac6oWL5Q6Q1/9e46dd902429334f2763773553c2c697/moderna.svg?w=3840&q=90)Read story](</customer-stories/moderna/>)[![Driver looking ahead from inside a car](https://images.ctfassets.net/kftzwdyauwt9/2wBDjBWhNarSUHm8nj2wXU/1d609e2bfcac058e5c529f3899a5e5da/Uber_Still_Frame_2.jpg?w=3840&q=90&fm=webp)![](https://images.ctfassets.net/kftzwdyauwt9/35SaxPL9nDrnKlMvs7F2dp/6343177fddcec69a68a75f320e538b99/uber.svg?w=3840&q=90)Read story](</customer-stories/uber/>)
 
-### Introducing ChatGPT Work
+## What’s new for business
 
-Take on your most ambitious work with enterprise controls and governance.
+![A golden horizon glows beneath a field of floating numbers.](https://images.ctfassets.net/kftzwdyauwt9/b2b-featured-art-cyber-frontier/625d015bc2e5ae7b1be19ac723e2e34b/2026-11-12_Cyber-at-the-Frontier_background_1200x1200.png?w=3840&q=90&fm=webp)
 
-  * Create polished docs, decks, and spreadsheets
+Livestream
 
-  * Automate tasks in the background
+### Cyber at the Frontier
 
-  * Pairs with your preferred tools and plugins
+Join us November 12 at 10:00 AM PDT for Cyber at the Frontier, a live OpenAI keynote exploring what’s next in cyber defense.
 
-  * Included with ChatGPT Business and Enterprise plans
+[Register now](<https://openai.com/cyber-at-the-frontier/?utm_source=openai.com&utm_medium=website&utm_campaign=cyber_at_the_frontier&utm_content=business_page_promo_module>)
+
+  * Product
+
+### [Private Intelligence](</business/private-intelligence/>)
+
+Advanced intelligence with privacy and control for sensitive business work.
+
+  * Product
+
+### [Introducing GPT-6.1 Terra](</index/introducing-gpt-6-1-terra/>)
+
+Fast visual reasoning, precise computer use and natural writing.
+
+  * Webinar
+
+### [The CIO’s New Mandate](<https://webinar.openai.com/cio-ai-business-value/?utm_source=openai.com&utm_medium=website&utm_campaign=cio_ai_business_value&utm_content=business_page_promo_module>)
+
+Join OpenAI’s IT leaders November 17 at 9:30 AM PDT to explore AI’s impact on the CIO role and turn adoption into business value.
+
+  * Product
+
+### [GPT-6 and Intelligent UI for everyone](</index/gpt-6-for-everyone/>)
+
+Faster answers, visual explanations and interactive tools.
+
+  * Product
+
+### [DevDay 2026 Recap](</index/devday-2026-recap/>)
+
+New models, agents and tools for building with AI.
+
+  * Webinar
+
+### [PHP2Shell: What You Need to Know Now and How to Prepare for What's Next](<https://webinar.openai.com/php2shell-what-to-know/?utm_source=openai.com&utm_medium=website&utm_campaign=php2shell_what_to_know&utm_content=business_page_promo_module>)
+
+Watch the recording of OpenAI and CrowdStrike’s October 28 session, where they explored PHP2Shell, ways to stop attacks, and how to prepare for AI-discovered vulnerabilities.
+
+  * Product
+
+### [Introducing GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+
+Near-Astra intelligence for coding and business workflows.
+
+  * Product
+
+### [Introducing dots](</index/introducing-dots/>)
+
+Always-on agents that keep your work moving.
+
+  * Product
+
+### [Introducing GPT-6 Sol and Luna](</index/introducing-gpt-6-sol-and-luna/>)
+
+Faster, more affordable models for everyday work.
+
+  * Product
+
+### [Introducing ChatGPT for Financial Services](</index/introducing-chatgpt-financial-services/>)
+
+Financial data and AI for research, models and client work.
+
+  * Product
+
+### [GPT-6 Astra: A new generation of intelligence](</index/gpt-6-astra/>)
+
+Advanced reasoning and computer use for complex work.
+
+  * Webinar
+
+### [Connected Intelligence for In-House Legal](<https://webinar.openai.com/connected-intelligence-for-in-house-legal/?utm_source=openai.com&utm_medium=website&utm_campaign=connected_intelligence_for_in_house_legal&utm_content=business_page_promo_module>)
+
+Join us October 29 at 10:00 AM PDT to connect legal work to the business with ChatGPT Work, legal plugins and Astra for Law.
 
 
 
-
-[Learn more](</chatgpt-work/>)
 
 ## AI for every team
 
@@ -85,6 +153,16 @@ Get started
 
 [Contact sales](</contact-sales/>)
 
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
+
 Research
 
   * [Research Index](</research/index/>)
@@ -95,10 +173,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -117,7 +195,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -144,8 +223,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -164,6 +243,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

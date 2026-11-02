@@ -85,9 +85,13 @@ Notably, the AI-lab loop was run with fixed prompting and no human intervention.
 The [_Gibson assembly_ ⁠(opens in a new window)](<https://www.nature.com/articles/nmeth.1318>) reaction has been a primary cloning method since its invention in 2009, with widespread adoption across molecular biology. Gibson assembly lets molecular biologists “glue” pieces of DNA together by briefly melting their ends so matching sequences can be sealed into a single molecule. One major appeal of Gibson assembly is its simplicity: everything happens in a single tube at one temperature. Those constraints naturally leave room for improvement. In addition, the following properties make it well-suited to evaluating AI models’ abilities to improve wet lab techniques:
 
   * Well-defined with controlled components, unlike a cell-based system
+
   * Has a clear optimization function: transformable circularized DNA made from a fixed amount of linear DNA inputs
+
   * Relatively fast experimental cycles (1-2 days)
+
   * High-dimensional design space that requires mechanistic reasoning to improve: optimal buffers, reagents, and temperatures are all interdependent
+
 
 
 
@@ -109,12 +113,6 @@ Notably, the model proposed a new enzymatic procedure, which the model called Re
 
 Baseline HiFiRound 1Round 2Round 3Round 4Round 5Baseline transformation protocolHiFi + T7 transformationCombined final protocol
 
-20 uL reaction volume  
-100 ng pUC19 vector, HindIII/KpnI-digested  
-64.3 ng Monster GFP insert, DpnI-digested PCR amplicon  
-10 μL NEBuilder 2x HiFi DNA Assembly Master Mix  
-50C - 30 min; 4C hold
-
 On the transformation side, the most effective modification proved unexpectedly simple: pelleting the cells (spinning them down in a centrifuge so they collect at the bottom of the tube), removing half of the supplied volume, and resuspending the cells before adding DNA, all at 4°C. While high-efficiency chemically competent cells are typically considered fragile, the cells tolerated concentration well and the increased molecular collisions boosted transformation efficiency substantially (>30-fold on final validation). 
 
 ## A novel improvement to homology-based cloning
@@ -128,9 +126,13 @@ Gibson assembly works by giving pieces of DNA matching “sticky” ends so that
 In summary, we hypothesize that the improved performance is mediated via the following mechanism:
 
   * Gp32 coats non-annealed single-stranded DNA (ssDNA) tails, removing secondary structure
+
   * RecA, normally inhibited by structure, invades from the 3’ and displaces the gp32 filament
+
   * RecA mediates a [_ssDNA:ssDNA homology search_ ⁠(opens in a new window)](<https://www.pnas.org/doi/10.1073/pnas.82.2.297>), driving annealing
+
   * A return to 50°C displaces both the recA and the gp32 filaments, allowing polymerase and ligase to complete the reaction.
+
 
 
 
@@ -141,7 +143,9 @@ To test the underlying mechanism, we separate out the two new enzymes in the rea
 The development RAPF-HiFi suggests that GPT‑5 is capable of complex, multi-dimensional reasoning:
 
   * [_RecA is inhibited by DNA structure_ ⁠(opens in a new window)](<https://www.pnas.org/doi/10.1073/pnas.151242898>), and it’s notable that the model introduced two synergistic modifications at once: add RecA, and complemented it with gp32 to remove DNA secondary structure.
+
   * The natural partner to _E. coli_ RecA is _E. coli_ single-stranded binding protein (SSB). SSB performs a similar role to gp32 during genome replication, recombination, and repair. However, _E. coli_ SSB does not spontaneously fall off the DNA fast enough for RecA filament growth, with the [_RecFOR complex promoting RecA nucleation at SSB filament in vivo_ ⁠(opens in a new window)](<https://www.sciencedirect.com/science/article/pii/S1097276503001886>). SSB binds as a stable tetramer with [_extremely slow off-rates_ ⁠(opens in a new window)](<https://pubs.acs.org/doi/10.1021/bi020122z>). By contrast, gp32 filament is [_more dynamic_ ⁠(opens in a new window)](<https://www.sciencedirect.com/science/article/pii/S0022283624001396>), allowing for RecA displacement. 
+
 
 
 
@@ -186,15 +190,17 @@ As we work to accelerate scientific progress safely and responsibly, we also see
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![How we detect frontier model misalignment — Cover](https://images.ctfassets.net/kftzwdyauwt9/43ZavE2amLHMmbxH8EL8VM/1464d0f68c0f3c45e9d255992aab32b1/how-we-detect-frontier-model-misalignment-cover.png?w=3840&q=90&fm=webp)
 
-![Pacing model development in an era of cyber-critical capabilities — Card image](https://images.ctfassets.net/kftzwdyauwt9/3tUOfo4E1xZComoOiRjHJm/51c532f25dd4062f92bff0e41ea00c3c/index-pacing-model-development-cyber-capabilities-dark-cover.png?w=3840&q=90&fm=webp)
+[How we detect frontier model misalignmentSecurityOct 29, 2026](</index/how-we-detect-frontier-model-misalignment/>)
 
-[Pacing model development in an era of cyber-critical capabilitiesCompanyAug 18, 2026](</index/pacing-model-development-cyber-capabilities/>)
+![Working with academic communities to build scientific understanding — Cover](https://images.ctfassets.net/kftzwdyauwt9/77i38N8Ov2vmY2uJ4pWRIQ/5f6f3eceaf8751f07fc23f179ad14c32/from-ai-results-to-scientific-understanding-cover.png?w=3840&q=90&fm=webp)
 
-![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
+[Working with academic communities to build scientific understandingResearchOct 26, 2026](</index/building-scientific-understanding-with-academic-communities/>)
 
-[Ten advances in mathematics and theoretical computer sciencePublicationAug 1, 2026](</index/ten-advances-in-mathematics/>)
+![An in-depth look at how workers use ChatGPT — Cover](https://images.ctfassets.net/kftzwdyauwt9/4UR2EaD3NPPhGHpAh7Jwu5/8d21aff44d75bd501b7794cff4851288/how-workers-use-chatgpt-cover.png?w=3840&q=90&fm=webp)
+
+[ChatGPT’s expanding world of workResearchOct 26, 2026](</index/chatgpt-expanding-world-of-work/>)
 
 Research
 
@@ -206,9 +212,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -227,7 +234,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -245,6 +253,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -253,8 +262,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -273,6 +282,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -300,3 +310,9 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+20 uL reaction volume  
+100 ng pUC19 vector, HindIII/KpnI-digested  
+64.3 ng Monster GFP insert, DpnI-digested PCR amplicon  
+10 μL NEBuilder 2x HiFi DNA Assembly Master Mix  
+50C - 30 min; 4C hold

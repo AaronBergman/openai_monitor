@@ -45,31 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://tinyfish.ai/>)
 
-[![](https://files.openai.com/content?id=file_00000000b6d471f69e1c1cfd52759bf2&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=f1eed62e302c01f180e04e714e03d4c3b1bf1e6e82d578c88d6f9d6192ae42d2&v=0)![](https://files.openai.com/content?id=file_00000000b6d471f69e1c1cfd52759bf2&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=f1eed62e302c01f180e04e714e03d4c3b1bf1e6e82d578c88d6f9d6192ae42d2&v=0)TinyFish What changed in the AI dev stack this week? Give me the top 5 changes that matter, why they matter, and any action needed.(opens in a new window)](<https://chatgpt.com/?prompt=%40TinyFish+What+changed+in+the+AI+dev+stack+this+week%3F+Give+me+the+top+5+changes+that+matter%2C+why+they+matter%2C+and+any+action+needed.>)
+[![](https://files.openai.com/content?id=file_00000000a33c81f8b121a133a18fc403&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=64f3214f3e0ad707be33f928c57d88b499f121ef74e91959849a62a6a76206e8&v=0)TinyFish What changed in the AI dev stack this week? Give me the top 5 changes that matter, why they matter, and any action needed.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_695325bae7348191b58ae9349a963d22?install&prompt=What%20changed%20in%20the%20AI%20dev%20stack%20this%20week%3F%20Give%20me%20the%20top%205%20changes%20that%20matter%2C%20why%20they%20matter%2C%20and%20any%20action%20needed.>)
 
 ## How it works
 
-TinyFish helps ChatGPT answer web questions and complete user-directed browser workflows. It can search the web, read specific pages, and run a live browser session for tasks that require interaction, such as navigating a site, clicking, filling forms, checking page state, or working inside a web app. Use it for specific requested tasks; it is not for broad crawling, bulk URL processing, or unspecified third-party access.
+TinyFish gives ChatGPT a cloud browser agent for browser automation and web scraping. Log in to account portals and dashboards with saved browser profiles that stay signed in, or with credentials from a connected vault, so passwords never go in chat. Fill out and submit forms, check account status, compare prices, and scrape and extract data from social media and listings. Plus web search and fetch for reading any page.
 
 ## What else can you do?
 
   * ### Compare public web pages
 
-![](https://files.openai.com/content?id=file_00000000b6d471f69e1c1cfd52759bf2&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=f1eed62e302c01f180e04e714e03d4c3b1bf1e6e82d578c88d6f9d6192ae42d2&v=0)![](https://files.openai.com/content?id=file_00000000b6d471f69e1c1cfd52759bf2&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=f1eed62e302c01f180e04e714e03d4c3b1bf1e6e82d578c88d6f9d6192ae42d2&v=0)TinyFish Visit these three vendor pages and compare the requirements in my checklist. Cite the page for each finding and mark missing information.
+![](https://files.openai.com/content?id=file_00000000a33c81f8b121a133a18fc403&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=64f3214f3e0ad707be33f928c57d88b499f121ef74e91959849a62a6a76206e8&v=0)TinyFish Visit these three vendor pages and compare the requirements in my checklist. Cite the page for each finding and mark missing information.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40TinyFish+Visit+these+three+vendor+pages+and+compare+the+requirements+in+my+checklist.+Cite+the+page+for+each+finding+and+mark+missing+information.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_695325bae7348191b58ae9349a963d22?install&prompt=Visit%20these%20three%20vendor%20pages%20and%20compare%20the%20requirements%20in%20my%20checklist.%20Cite%20the%20page%20for%20each%20finding%20and%20mark%20missing%20information.&surface=work>)
 
   * ### Check a website journey
 
-![](https://files.openai.com/content?id=file_00000000b6d471f69e1c1cfd52759bf2&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=f1eed62e302c01f180e04e714e03d4c3b1bf1e6e82d578c88d6f9d6192ae42d2&v=0)![](https://files.openai.com/content?id=file_00000000b6d471f69e1c1cfd52759bf2&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=f1eed62e302c01f180e04e714e03d4c3b1bf1e6e82d578c88d6f9d6192ae42d2&v=0)TinyFish Open this website and follow the public pricing-to-contact journey. Report broken links or confusing steps with the page locations and supporting observations.
+![](https://files.openai.com/content?id=file_00000000a33c81f8b121a133a18fc403&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=64f3214f3e0ad707be33f928c57d88b499f121ef74e91959849a62a6a76206e8&v=0)TinyFish Open this website and follow the public pricing-to-contact journey. Report broken links or confusing steps with the page locations and supporting observations.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40TinyFish+Open+this+website+and+follow+the+public+pricing-to-contact+journey.+Report+broken+links+or+confusing+steps+with+the+page+locations+and+supporting+observations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_695325bae7348191b58ae9349a963d22?install&prompt=Open%20this%20website%20and%20follow%20the%20public%20pricing-to-contact%20journey.%20Report%20broken%20links%20or%20confusing%20steps%20with%20the%20page%20locations%20and%20supporting%20observations.&surface=work>)
 
   * ### Complete an approved form
 
-![](https://files.openai.com/content?id=file_00000000b6d471f69e1c1cfd52759bf2&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=f1eed62e302c01f180e04e714e03d4c3b1bf1e6e82d578c88d6f9d6192ae42d2&v=0)![](https://files.openai.com/content?id=file_00000000b6d471f69e1c1cfd52759bf2&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=1&sig=f1eed62e302c01f180e04e714e03d4c3b1bf1e6e82d578c88d6f9d6192ae42d2&v=0)TinyFish Open this form and fill it with the supplied business details. Show any missing required information and stop at the review step before submission.
+![](https://files.openai.com/content?id=file_00000000a33c81f8b121a133a18fc403&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=64f3214f3e0ad707be33f928c57d88b499f121ef74e91959849a62a6a76206e8&v=0)TinyFish Open this form and fill it with the supplied business details. Show any missing required information and stop at the review step before submission.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40TinyFish+Open+this+form+and+fill+it+with+the+supplied+business+details.+Show+any+missing+required+information+and+stop+at+the+review+step+before+submission.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_695325bae7348191b58ae9349a963d22?install&prompt=Open%20this%20form%20and%20fill%20it%20with%20the%20supplied%20business%20details.%20Show%20any%20missing%20required%20information%20and%20stop%20at%20the%20review%20step%20before%20submission.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ TinyFish helps ChatGPT answer web questions and complete user-directed browser w
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://www.tinyfish.ai/customers>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.tinyfish.ai/customers>)
 
-### [Privacy policyLearn more](<https://tinyfish.ai/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://tinyfish.ai/privacy-policy>)
 
 ## Add the TinyFish plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingSupport company research and deal analysis.](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingPublic equity research](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

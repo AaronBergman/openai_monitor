@@ -110,17 +110,17 @@ Peinsipp sees GO Public as the beginning of a broader shift in how capital marke
 
 ## Keep reading
 
-![Proaction customer story art card - Option A](https://images.ctfassets.net/kftzwdyauwt9/46K6EGB5ApjTSkngvI7uU7/ce0c43f11865fd90348773ceb39485ee/proaction-option-a-art-card.png?w=3840&q=90&fm=webp)
+![Making it easier for websites to express AI training preferences — Cover](https://images.ctfassets.net/kftzwdyauwt9/2k1vMnTZUeR0P30sHZA5P0/f6b841637d5d703414e3044fcb7196a0/websites-toeexpress-ai-training-preferences-cover.png?w=3840&q=90&fm=webp)
 
-[Proaction boosts sales 60% and saves 75+ hours with CodexSep 25, 2026](</index/proaction/>)
+[Making it easier for websites to express AI training preferencesCompanyOct 30, 2026](</index/helping-websites-express-ai-training-preferences/>)
 
-![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
+![An update on violence prevention — Cover](https://images.ctfassets.net/kftzwdyauwt9/2JkiYuWDdFYR0Wg7GoacTc/56a54c0060610c840d098457108a4f88/an-update-on-violence-prevention-cover.png?w=3840&q=90&fm=webp)
 
-[Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
+[Community safety report and new protections for teensSafetyOct 30, 2026](</index/community-safety-report-and-new-protections-for-teens/>)
 
-![OpenAI extends cyber access to Ukraine for civilian defense — cover](https://images.ctfassets.net/kftzwdyauwt9/4NsiJiqUurW5ypfaulGCFm/8b5bfad7d895c4fc6aa20766d5c88b0c/openai-extends-cyber-access-to-ukraine-for-civilian-defense-cover.png?w=3840&q=90&fm=webp)
+![Fair use benefits everyone — Cover](https://images.ctfassets.net/kftzwdyauwt9/5GEvaQfMA4Mcrt2QIwLGJG/a294f4748aae1f08adae06a25bb07354/fair-use-benefits-everyone-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI extends cyber access to Ukraine for civilian defenseGlobal AffairsSep 23, 2026](</index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/>)
+[Fair use benefits everyoneCompanyOct 30, 2026](</index/fair-use-benefits-everyone/>)
 
 Research
 
@@ -132,10 +132,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -154,7 +154,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -181,8 +182,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -201,6 +202,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

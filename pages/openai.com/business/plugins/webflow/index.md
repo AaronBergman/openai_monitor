@@ -55,19 +55,19 @@ The Webflow app connects your agents directly to your workspace. They can design
 
 ![](https://files.openai.com/content?id=file_00000000a19071f791bc27a2ffb04654&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=96662d364fefdd8de99fe7f0e0491212e17652de96123f126992c1d4841c8f67&v=0)![](https://files.openai.com/content?id=file_00000000b4d47243b48bca09fd3a380e&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=5ed0218b97f627be30fba98313f2a12f94acbbe9b93bd56d24e30a0ab18bfce0&v=0)Webflow Draft these product pages in Webflow CMS from the supplied brief. Preserve the site's content structure and return the drafts for review before publishing.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Webflow+Draft+these+product+pages+in+Webflow+CMS+from+the+supplied+brief.+Preserve+the+site%27s+content+structure+and+return+the+drafts+for+review+before+publishing.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a0783a98c4c8191841404d786d4a4b9?install&prompt=Draft%20these%20product%20pages%20in%20Webflow%20CMS%20from%20the%20supplied%20brief.%20Preserve%20the%20site's%20content%20structure%20and%20return%20the%20drafts%20for%20review%20before%20publishing.&surface=work>)
 
   * ### Review website performance
 
 ![](https://files.openai.com/content?id=file_00000000a19071f791bc27a2ffb04654&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=96662d364fefdd8de99fe7f0e0491212e17652de96123f126992c1d4841c8f67&v=0)![](https://files.openai.com/content?id=file_00000000b4d47243b48bca09fd3a380e&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=5ed0218b97f627be30fba98313f2a12f94acbbe9b93bd56d24e30a0ab18bfce0&v=0)Webflow Review this site's available activity and performance data. Highlight important changes and recommend three focused improvements to investigate.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Webflow+Review+this+site%27s+available+activity+and+performance+data.+Highlight+important+changes+and+recommend+three+focused+improvements+to+investigate.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a0783a98c4c8191841404d786d4a4b9?install&prompt=Review%20this%20site's%20available%20activity%20and%20performance%20data.%20Highlight%20important%20changes%20and%20recommend%20three%20focused%20improvements%20to%20investigate.&surface=work>)
 
   * ### Localize a site page
 
 ![](https://files.openai.com/content?id=file_00000000a19071f791bc27a2ffb04654&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=96662d364fefdd8de99fe7f0e0491212e17652de96123f126992c1d4841c8f67&v=0)![](https://files.openai.com/content?id=file_00000000b4d47243b48bca09fd3a380e&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=5ed0218b97f627be30fba98313f2a12f94acbbe9b93bd56d24e30a0ab18bfce0&v=0)Webflow Localize this Webflow page for the specified audience and language. Preserve product names and factual claims, and flag wording that needs local review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Webflow+Localize+this+Webflow+page+for+the+specified+audience+and+language.+Preserve+product+names+and+factual+claims%2C+and+flag+wording+that+needs+local+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a0783a98c4c8191841404d786d4a4b9?install&prompt=Localize%20this%20Webflow%20page%20for%20the%20specified%20audience%20and%20language.%20Preserve%20product%20names%20and%20factual%20claims%2C%20and%20flag%20wording%20that%20needs%20local%20review.&surface=work>)
 
 
 
@@ -82,11 +82,11 @@ The Webflow app connects your agents directly to your workspace. They can design
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://support.webflow.com>)
+### [Plugin supportLearn more(opens in a new window)](<https://support.webflow.com>)
 
-### [Privacy policyLearn more](<https://webflow.com/legal/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://webflow.com/legal/privacy>)
 
 ## Add the Webflow plugin in a few clicks
 
@@ -96,13 +96,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
+[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive](</business/plugins/google-drive/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -114,10 +124,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -136,7 +146,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -163,8 +174,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -183,6 +194,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

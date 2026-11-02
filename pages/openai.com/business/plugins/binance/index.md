@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.binance.com>)
 
-[![](https://files.openai.com/content?id=file_0000000077b87209a48e466500006dcb&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae4e67ebf6691788683109d4dc17f5212649ef9a9b15740c1acee4bd21933810&v=0)Binance What is the 24 hour price change and volume for BTCUSDT in USD-M Futures?(opens in a new window)](<https://chatgpt.com/?prompt=%40Binance+What+is+the+24+hour+price+change+and+volume+for+BTCUSDT+in+USD-M+Futures%3F>)
+[![](https://files.openai.com/content?id=file_0000000077b87209a48e466500006dcb&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae4e67ebf6691788683109d4dc17f5212649ef9a9b15740c1acee4bd21933810&v=0)Binance What is the 24 hour price change and volume for BTCUSDT in USD-M Futures?(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6965faefe2b081919a998e14aa25f738?install&prompt=What%20is%20the%2024%20hour%20price%20change%20and%20volume%20for%20BTCUSDT%20in%20USD-M%20Futures%3F>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Binance for ChatGPT lets you access and explore Binance public, read-only market
 
 ![](https://files.openai.com/content?id=file_0000000077b87209a48e466500006dcb&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae4e67ebf6691788683109d4dc17f5212649ef9a9b15740c1acee4bd21933810&v=0)Binance Compare the current prices, 24-hour changes, and trading volumes of these crypto assets. State the data timestamp and flag missing or non-comparable values.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Binance+Compare+the+current+prices%2C+24-hour+changes%2C+and+trading+volumes+of+these+crypto+assets.+State+the+data+timestamp+and+flag+missing+or+non-comparable+values.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6965faefe2b081919a998e14aa25f738?install&prompt=Compare%20the%20current%20prices%2C%2024-hour%20changes%2C%20and%20trading%20volumes%20of%20these%20crypto%20assets.%20State%20the%20data%20timestamp%20and%20flag%20missing%20or%20non-comparable%20values.&surface=work>)
 
   * ### Review price history
 
 ![](https://files.openai.com/content?id=file_0000000077b87209a48e466500006dcb&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae4e67ebf6691788683109d4dc17f5212649ef9a9b15740c1acee4bd21933810&v=0)Binance Review this asset's price history for the last month. Highlight the largest moves, state the period covered, and separate observed changes from possible explanations.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Binance+Review+this+asset%27s+price+history+for+the+last+month.+Highlight+the+largest+moves%2C+state+the+period+covered%2C+and+separate+observed+changes+from+possible+explanations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6965faefe2b081919a998e14aa25f738?install&prompt=Review%20this%20asset's%20price%20history%20for%20the%20last%20month.%20Highlight%20the%20largest%20moves%2C%20state%20the%20period%20covered%2C%20and%20separate%20observed%20changes%20from%20possible%20explanations.&surface=work>)
 
   * ### Prepare a market snapshot
 
 ![](https://files.openai.com/content?id=file_0000000077b87209a48e466500006dcb&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae4e67ebf6691788683109d4dc17f5212649ef9a9b15740c1acee4bd21933810&v=0)Binance Create a snapshot of these five crypto assets using available price and volume data. Identify unusual activity and list the questions it raises for further research.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Binance+Create+a+snapshot+of+these+five+crypto+assets+using+available+price+and+volume+data.+Identify+unusual+activity+and+list+the+questions+it+raises+for+further+research.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6965faefe2b081919a998e14aa25f738?install&prompt=Create%20a%20snapshot%20of%20these%20five%20crypto%20assets%20using%20available%20price%20and%20volume%20data.%20Identify%20unusual%20activity%20and%20list%20the%20questions%20it%20raises%20for%20further%20research.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Binance for ChatGPT lets you access and explore Binance public, read-only market
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://www.binance.com/en/support>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.binance.com/en/support>)
 
-### [Privacy policyLearn more](<https://www.binance.com/en/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.binance.com/en/privacy>)
 
 ## Add the Binance plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingSupport company research and deal analysis.](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingBuild banking analysis and client-ready materials.](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)DaloopaAccess financial KPIs with source links.](</business/plugins/daloopa/>)[![](https://files.openai.com/content?id=file_000000009c38722f80144f00dd87ea34&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=8e9598782d7e36464e64c394a2fecb5ab3bf6b35731be6a16d3b9ec05b080a32&v=0)![](https://files.openai.com/content?id=file_000000003ec881f6aaeecf3f949966e5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=1c18816d30ee51f5b8365b1c3d420e3b9da7e6f4d0f9830032b871fc457f48f6&v=0)MorningstarAccess live market insights.](</business/plugins/morningstar/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
+[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingPublic equity research](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingM&A, valuation, and financing](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)DaloopaFinancial KPIs with links](</business/plugins/daloopa/>)[![](https://files.openai.com/content?id=file_000000009c38722f80144f00dd87ea34&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=8e9598782d7e36464e64c394a2fecb5ab3bf6b35731be6a16d3b9ec05b080a32&v=0)![](https://files.openai.com/content?id=file_000000003ec881f6aaeecf3f949966e5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=1c18816d30ee51f5b8365b1c3d420e3b9da7e6f4d0f9830032b871fc457f48f6&v=0)MorningstarInvestment and market insights](</business/plugins/morningstar/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

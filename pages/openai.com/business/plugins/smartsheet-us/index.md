@@ -55,19 +55,19 @@ Make Smartsheet a native part of your AI workflow. Ask your AI to analyze projec
 
 ![](https://files.openai.com/content?id=file_0000000004d07243bacb6eab1663ccbf&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=1740874d780643956f4aa3ba33ab0800082cd0f5a90424478318e15fcd9519a8&v=0)![](https://files.openai.com/content?id=file_000000005e3472438f386fbe22d73c0e&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=cf7b7a721e5c1ee4fef79ecb55a59167787b3c076b869e83a919df7bb98ebfe8&v=0)Smartsheet US Analyze this project's Smartsheet timeline. Highlight overdue milestones, conflicting dates, and missing owners, and recommend the next items to review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Smartsheet+US+Analyze+this+project%27s+Smartsheet+timeline.+Highlight+overdue+milestones%2C+conflicting+dates%2C+and+missing+owners%2C+and+recommend+the+next+items+to+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a1ed9b99f888191aac2020e4cb301ff?install&prompt=Analyze%20this%20project's%20Smartsheet%20timeline.%20Highlight%20overdue%20milestones%2C%20conflicting%20dates%2C%20and%20missing%20owners%2C%20and%20recommend%20the%20next%20items%20to%20review.&surface=work>)
 
   * ### Summarize project progress
 
 ![](https://files.openai.com/content?id=file_0000000004d07243bacb6eab1663ccbf&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=1740874d780643956f4aa3ba33ab0800082cd0f5a90424478318e15fcd9519a8&v=0)![](https://files.openai.com/content?id=file_000000005e3472438f386fbe22d73c0e&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=cf7b7a721e5c1ee4fef79ecb55a59167787b3c076b869e83a919df7bb98ebfe8&v=0)Smartsheet US Summarize the status of work in this sheet. Compare completed and open items, highlight deadlines, and create a chart that makes the progress clear.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Smartsheet+US+Summarize+the+status+of+work+in+this+sheet.+Compare+completed+and+open+items%2C+highlight+deadlines%2C+and+create+a+chart+that+makes+the+progress+clear.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a1ed9b99f888191aac2020e4cb301ff?install&prompt=Summarize%20the%20status%20of%20work%20in%20this%20sheet.%20Compare%20completed%20and%20open%20items%2C%20highlight%20deadlines%2C%20and%20create%20a%20chart%20that%20makes%20the%20progress%20clear.&surface=work>)
 
   * ### Update project records
 
 ![](https://files.openai.com/content?id=file_0000000004d07243bacb6eab1663ccbf&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=1740874d780643956f4aa3ba33ab0800082cd0f5a90424478318e15fcd9519a8&v=0)![](https://files.openai.com/content?id=file_000000005e3472438f386fbe22d73c0e&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=cf7b7a721e5c1ee4fef79ecb55a59167787b3c076b869e83a919df7bb98ebfe8&v=0)Smartsheet US Apply these approved status and date updates to this Smartsheet. Flag ambiguous row matches and report which values changed.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Smartsheet+US+Apply+these+approved+status+and+date+updates+to+this+Smartsheet.+Flag+ambiguous+row+matches+and+report+which+values+changed.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a1ed9b99f888191aac2020e4cb301ff?install&prompt=Apply%20these%20approved%20status%20and%20date%20updates%20to%20this%20Smartsheet.%20Flag%20ambiguous%20row%20matches%20and%20report%20which%20values%20changed.&surface=work>)
 
 
 
@@ -82,11 +82,11 @@ Make Smartsheet a native part of your AI workflow. Ask your AI to analyze projec
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.smartsheet.com/contact>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.smartsheet.com/contact>)
 
-### [Privacy policyLearn more](<https://www.smartsheet.com/legal/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.smartsheet.com/legal/privacy>)
 
 ## Add the Smartsheet US plugin in a few clicks
 
@@ -96,13 +96,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages.](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability.](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive.](</business/plugins/google-drive/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)![](https://files.openai.com/content?id=file_00000000a9a081f78752dfef864b2597&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=18fa18d4c839a23ca63639259d332c2f50d433faa731d9b7755f08c333b78e47&v=0)Google DriveSearch and reference files from your Drive](</business/plugins/google-drive/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -114,10 +124,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -136,7 +146,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -163,8 +174,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -183,6 +194,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

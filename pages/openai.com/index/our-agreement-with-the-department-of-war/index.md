@@ -43,7 +43,9 @@ This language makes explicit that our tools will not be used to conduct domestic
 The new language reads:
 
   * _Consistent with applicable laws, including the Fourth Amendment to the United States Constitution, National Security Act of 1947, FISA Act of 1978, the AI system shall not be intentionally used for domestic surveillance of U.S. persons and nationals._
+
   * _For the avoidance of doubt, the Department understands this limitation to prohibit deliberate tracking, surveillance, or monitoring of U.S. persons or nationals, including through the procurement or use of commercially acquired personal or identifiable information._
+
 
 
 
@@ -60,8 +62,11 @@ Yesterday we reached an agreement with the Pentagon for deploying advanced AI sy
 We have three main red lines that guide our work with the DoW, which are generally shared by several other frontier labs:
 
   * No use of OpenAI technology for mass domestic surveillance.
+
   * No use of OpenAI technology to direct autonomous weapons systems. 
+
   * No use of OpenAI technology for high-stakes automated decisions (e.g. systems such as “social credit”).
+
 
 
 
@@ -130,7 +135,9 @@ Our contract explicitly references the surveillance and autonomous weapons laws 
 In their post, Anthropic states two of their red lines (we have the same two red lines, plus a third: automated high-stakes decision making), and reasons they do not believe these red lines would be upheld in the contracts they had seen from the DoW at that time. Below is why we believe those same red lines would hold in our contract:
 
   * **Mass domestic surveillance**. It was clear in our interaction that the DoW considers mass domestic surveillance illegal and was not planning to use it for this purpose. We ensured that the fact that it is not covered under lawful use was made explicit in our contract.
+
   * **Fully autonomous weapons**. The cloud deployment surface covered in our contract would not permit powering fully autonomous weapons, as this would require edge deployment. 
+
 
 
 
@@ -148,17 +155,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![Making it easier for websites to express AI training preferences — Cover](https://images.ctfassets.net/kftzwdyauwt9/2k1vMnTZUeR0P30sHZA5P0/f6b841637d5d703414e3044fcb7196a0/websites-toeexpress-ai-training-preferences-cover.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[Making it easier for websites to express AI training preferencesCompanyOct 30, 2026](</index/helping-websites-express-ai-training-preferences/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![Fair use benefits everyone — Cover](https://images.ctfassets.net/kftzwdyauwt9/5GEvaQfMA4Mcrt2QIwLGJG/a294f4748aae1f08adae06a25bb07354/fair-use-benefits-everyone-cover.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[Fair use benefits everyoneCompanyOct 30, 2026](</index/fair-use-benefits-everyone/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![OpenAI and ServiceNow expand partnership across enterprise workflows, software development and security — Cover](https://images.ctfassets.net/kftzwdyauwt9/i2nR5RpyJ2Iz1XrsQX3Gm/edcbc52f12d4aff29b80aa36bb67f0fe/openai-servicenow-partnership-expansion-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[OpenAI and ServiceNow expand partnership across enterprise workflowsCompanyOct 28, 2026](</index/openai-servicenow-partnership-expansion/>)
 
 Research
 
@@ -170,9 +177,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -191,7 +199,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -209,6 +218,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -217,8 +227,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -237,6 +247,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
