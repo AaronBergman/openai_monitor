@@ -53,21 +53,21 @@ Teamtailor Public MCP lets authorized users search recruiting workspace data, in
 
   * ### Review a hiring pipeline
 
-![](https://files.openai.com/content?id=file_00000000086c81f7b0741cc42942dbfa&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=e1be30f6894c53b618003d19dacc99be9f815f7e9fcccc0540ab70773c2774be&v=0)![](https://files.openai.com/content?id=file_00000000086c81f7b0741cc42942dbfa&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=e1be30f6894c53b618003d19dacc99be9f815f7e9fcccc0540ab70773c2774be&v=0)Teamtailor Review the pipeline for this open role. Summarize candidate counts by stage, identify stalled steps where dates are available, and recommend follow-up questions.
+![](https://files.openai.com/content?id=file_00000000eab08230ac57edd30c6100c7&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=2ab7dffb231eea947d1d5b9d2ac00f7cbd177c2c103452880467796e01d0f1a1&v=0)Teamtailor Review the pipeline for this open role. Summarize candidate counts by stage, identify stalled steps where dates are available, and recommend follow-up questions.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Teamtailor+Review+the+pipeline+for+this+open+role.+Summarize+candidate+counts+by+stage%2C+identify+stalled+steps+where+dates+are+available%2C+and+recommend+follow-up+questions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a211a11248081918af1b295078b7a19?install&prompt=Review%20the%20pipeline%20for%20this%20open%20role.%20Summarize%20candidate%20counts%20by%20stage%2C%20identify%20stalled%20steps%20where%20dates%20are%20available%2C%20and%20recommend%20follow-up%20questions.&surface=work>)
 
   * ### Prepare an interview brief
 
-![](https://files.openai.com/content?id=file_00000000086c81f7b0741cc42942dbfa&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=e1be30f6894c53b618003d19dacc99be9f815f7e9fcccc0540ab70773c2774be&v=0)![](https://files.openai.com/content?id=file_00000000086c81f7b0741cc42942dbfa&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=e1be30f6894c53b618003d19dacc99be9f815f7e9fcccc0540ab70773c2774be&v=0)Teamtailor Prepare a brief for this candidate and role using the available records. Summarize relevant experience and propose questions tied to the job requirements.
+![](https://files.openai.com/content?id=file_00000000eab08230ac57edd30c6100c7&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=2ab7dffb231eea947d1d5b9d2ac00f7cbd177c2c103452880467796e01d0f1a1&v=0)Teamtailor Prepare a brief for this candidate and role using the available records. Summarize relevant experience and propose questions tied to the job requirements.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Teamtailor+Prepare+a+brief+for+this+candidate+and+role+using+the+available+records.+Summarize+relevant+experience+and+propose+questions+tied+to+the+job+requirements.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a211a11248081918af1b295078b7a19?install&prompt=Prepare%20a%20brief%20for%20this%20candidate%20and%20role%20using%20the%20available%20records.%20Summarize%20relevant%20experience%20and%20propose%20questions%20tied%20to%20the%20job%20requirements.&surface=work>)
 
   * ### Summarize open roles
 
-![](https://files.openai.com/content?id=file_00000000086c81f7b0741cc42942dbfa&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=e1be30f6894c53b618003d19dacc99be9f815f7e9fcccc0540ab70773c2774be&v=0)![](https://files.openai.com/content?id=file_00000000086c81f7b0741cc42942dbfa&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=e1be30f6894c53b618003d19dacc99be9f815f7e9fcccc0540ab70773c2774be&v=0)Teamtailor List our open roles and summarize the available status and pipeline information. Highlight missing details and identify roles that need a closer review.
+![](https://files.openai.com/content?id=file_00000000eab08230ac57edd30c6100c7&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=2ab7dffb231eea947d1d5b9d2ac00f7cbd177c2c103452880467796e01d0f1a1&v=0)Teamtailor List our open roles and summarize the available status and pipeline information. Highlight missing details and identify roles that need a closer review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Teamtailor+List+our+open+roles+and+summarize+the+available+status+and+pipeline+information.+Highlight+missing+details+and+identify+roles+that+need+a+closer+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a211a11248081918af1b295078b7a19?install&prompt=List%20our%20open%20roles%20and%20summarize%20the%20available%20status%20and%20pipeline%20information.%20Highlight%20missing%20details%20and%20identify%20roles%20that%20need%20a%20closer%20review.&surface=work>)
 
 
 
@@ -82,11 +82,11 @@ Teamtailor Public MCP lets authorized users search recruiting workspace data, in
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://www.teamtailor.com/contact/>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.teamtailor.com/contact/>)
 
-### [Privacy policyLearn more](<https://support.teamtailor.com/en/articles/15955588-teamtailor-mcp-server-privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://support.teamtailor.com/en/articles/15955588-teamtailor-mcp-server-privacy-policy>)
 
 ## Add the Teamtailor plugin in a few clicks
 
@@ -96,13 +96,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability.](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages.](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)AsanaTurn Asana tasks into clear updates and plans.](</business/plugins/asana/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)AsanaTurn Asana tasks into clear updates and plans](</business/plugins/asana/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -114,10 +124,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -136,7 +146,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -163,8 +174,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -183,6 +194,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.linkedin.com>)
 
-[![](https://files.openai.com/content?id=file_000000002cd471f6a569da603a8174c9&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=6a8f2e7ec56d7901d8eb2018952379fd76820ff36bc89c50cb15514025218a9e)![](https://files.openai.com/content?id=file_00000000a10c71f69a8b8b3147408d51&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=6d5eea391c3d96a37d9601f8b538f38ec4859295a9ae5dd9a7b50025ed22cf52)LinkedIn Who's Kira Oliver?(opens in a new window)](<https://chatgpt.com/?prompt=%40LinkedIn+Who%27s+Kira+Oliver%3F>)
+[![](https://files.openai.com/content?id=file_000000002cd471f6a569da603a8174c9&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=6a8f2e7ec56d7901d8eb2018952379fd76820ff36bc89c50cb15514025218a9e)![](https://files.openai.com/content?id=file_00000000a10c71f69a8b8b3147408d51&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=6d5eea391c3d96a37d9601f8b538f38ec4859295a9ae5dd9a7b50025ed22cf52)LinkedIn Who's Kira Oliver?(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69949aa62bf48191be5e57a01202beca?install&prompt=Who's%20Kira%20Oliver%3F>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Look up any professional on LinkedIn without leaving ChatGPT. See their title, c
 
 ![](https://files.openai.com/content?id=file_000000002cd471f6a569da603a8174c9&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=6a8f2e7ec56d7901d8eb2018952379fd76820ff36bc89c50cb15514025218a9e)![](https://files.openai.com/content?id=file_00000000a10c71f69a8b8b3147408d51&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=6d5eea391c3d96a37d9601f8b538f38ec4859295a9ae5dd9a7b50025ed22cf52)LinkedIn Look up these named attendees on LinkedIn. Summarize their current titles, companies, and locations, and provide profile links while flagging ambiguous matches.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LinkedIn+Look+up+these+named+attendees+on+LinkedIn.+Summarize+their+current+titles%2C+companies%2C+and+locations%2C+and+provide+profile+links+while+flagging+ambiguous+matches.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69949aa62bf48191be5e57a01202beca?install&prompt=Look%20up%20these%20named%20attendees%20on%20LinkedIn.%20Summarize%20their%20current%20titles%2C%20companies%2C%20and%20locations%2C%20and%20provide%20profile%20links%20while%20flagging%20ambiguous%20matches.&surface=work>)
 
   * ### Verify a professional profile
 
 ![](https://files.openai.com/content?id=file_000000002cd471f6a569da603a8174c9&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=6a8f2e7ec56d7901d8eb2018952379fd76820ff36bc89c50cb15514025218a9e)![](https://files.openai.com/content?id=file_00000000a10c71f69a8b8b3147408d51&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=6d5eea391c3d96a37d9601f8b538f38ec4859295a9ae5dd9a7b50025ed22cf52)LinkedIn Find this person's LinkedIn profile using the supplied name and company. Return the available role details and explain any uncertainty about the match.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LinkedIn+Find+this+person%27s+LinkedIn+profile+using+the+supplied+name+and+company.+Return+the+available+role+details+and+explain+any+uncertainty+about+the+match.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69949aa62bf48191be5e57a01202beca?install&prompt=Find%20this%20person's%20LinkedIn%20profile%20using%20the%20supplied%20name%20and%20company.%20Return%20the%20available%20role%20details%20and%20explain%20any%20uncertainty%20about%20the%20match.&surface=work>)
 
   * ### Review speaker backgrounds
 
 ![](https://files.openai.com/content?id=file_000000002cd471f6a569da603a8174c9&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=6a8f2e7ec56d7901d8eb2018952379fd76820ff36bc89c50cb15514025218a9e)![](https://files.openai.com/content?id=file_00000000a10c71f69a8b8b3147408d51&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=6d5eea391c3d96a37d9601f8b538f38ec4859295a9ae5dd9a7b50025ed22cf52)LinkedIn Look up these five speakers and summarize their current professional roles. Include profile links and use only the details available from LinkedIn.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LinkedIn+Look+up+these+five+speakers+and+summarize+their+current+professional+roles.+Include+profile+links+and+use+only+the+details+available+from+LinkedIn.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69949aa62bf48191be5e57a01202beca?install&prompt=Look%20up%20these%20five%20speakers%20and%20summarize%20their%20current%20professional%20roles.%20Include%20profile%20links%20and%20use%20only%20the%20details%20available%20from%20LinkedIn.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Look up any professional on LinkedIn without leaving ChatGPT. See their title, c
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://www.linkedin.com/help/linkedin>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.linkedin.com/help/linkedin>)
 
-### [Privacy policyLearn more](<https://www.linkedin.com/legal/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.linkedin.com/legal/privacy-policy>)
 
 ## Add the LinkedIn plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)SalesforceUse the Salesforce plugin to review permitted CRM records, understand accounts and deals, summarize pipeline risk, and prepare follow-up.](</business/plugins/salesforce/>)[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpotAnalyze CRM data and surface insights.](</business/plugins/hubspot/>)[![](https://files.openai.com/content?id=file_00000000ba3c71f5b38da42f4d20b0dc&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=0497db8463de92d8580bf809595bdf1e7f6bff5368006faeaf1e49bd8c56b836&v=0)![](https://files.openai.com/content?id=file_00000000ba3c71f5b38da42f4d20b0dc&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=0497db8463de92d8580bf809595bdf1e7f6bff5368006faeaf1e49bd8c56b836&v=0)Google ContactsReference saved contact details](</business/plugins/google-contacts/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability.](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)ClayFind and engage prospects.](</business/plugins/clay/>)
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)![](https://files.openai.com/content?id=file_0000000005fc722f88207b67c3fbe10a&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=4fccf640c85543b3c2aa0a0de6592ed9e1d71bbeb3169bb63bf4217a6809857f&v=0)SalesforceUse the Salesforce plugin to review permitted CRM records, understand accounts and deals, summarize pipeline risk, and prepare follow-up](</business/plugins/salesforce/>)[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpotAnalyze CRM data and surface insights](</business/plugins/hubspot/>)[![](https://files.openai.com/content?id=file_00000000ba3c71f5b38da42f4d20b0dc&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=0497db8463de92d8580bf809595bdf1e7f6bff5368006faeaf1e49bd8c56b836&v=0)![](https://files.openai.com/content?id=file_00000000ba3c71f5b38da42f4d20b0dc&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=0497db8463de92d8580bf809595bdf1e7f6bff5368006faeaf1e49bd8c56b836&v=0)Google ContactsReference saved contact details](</business/plugins/google-contacts/>)[![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)![](https://files.openai.com/content?id=file_000000004f54720ca95439ac98f37bec&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=e5d7098d5c3c07aa0e3d229476b0a0547fedb672feb751b0d0aa455dd84a6c33&v=0)Google CalendarLook up events and availability](</business/plugins/google-calendar/>)[![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)ClayGTM Data and Functions](</business/plugins/clay/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.g2.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000ade4720cbd31a99700103408&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=9dac53f30fdff3bac46b98eab1ceb71b871c0d603fc3dbe4e4565367fd640b7f&v=0)![](https://files.openai.com/content?id=file_000000000eb481f7861627a90fe32ef2&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=4a8ce5b240fce3dce9b92f4751e8b788a83d03f4c909f7408630b6a18213a395&v=0)G2 MCP Create a Research Board for Slack(opens in a new window)](<https://chatgpt.com/?prompt=%40G2+MCP+Create+a+Research+Board+for+Slack>)
+[![](https://files.openai.com/content?id=file_00000000ade4720cbd31a99700103408&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=9dac53f30fdff3bac46b98eab1ceb71b871c0d603fc3dbe4e4565367fd640b7f&v=0)![](https://files.openai.com/content?id=file_000000000eb481f7861627a90fe32ef2&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=4a8ce5b240fce3dce9b92f4751e8b788a83d03f4c909f7408630b6a18213a395&v=0)G2 MCP Create a Research Board for Slack(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6998622475e081918795d4f4c5e42df4?install&prompt=Create%20a%20Research%20Board%20for%20Slack>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Use G2 data in ChatGPT to research and compare software using verified reviews a
 
 ![](https://files.openai.com/content?id=file_00000000ade4720cbd31a99700103408&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=9dac53f30fdff3bac46b98eab1ceb71b871c0d603fc3dbe4e4565367fd640b7f&v=0)![](https://files.openai.com/content?id=file_000000000eb481f7861627a90fe32ef2&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=4a8ce5b240fce3dce9b92f4751e8b788a83d03f4c909f7408630b6a18213a395&v=0)G2 Create a Research Board comparing Slack and Microsoft Teams. Use product details and available verified reviews to summarize strengths, recurring drawbacks, and questions a 200-person company should resolve before choosing.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40G2+Create+a+Research+Board+comparing+Slack+and+Microsoft+Teams.+Use+product+details+and+available+verified+reviews+to+summarize+strengths%2C+recurring+drawbacks%2C+and+questions+a+200-person+company+should+resolve+before+choosing.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6998622475e081918795d4f4c5e42df4?install&prompt=Create%20a%20Research%20Board%20comparing%20Slack%20and%20Microsoft%20Teams.%20Use%20product%20details%20and%20available%20verified%20reviews%20to%20summarize%20strengths%2C%20recurring%20drawbacks%2C%20and%20questions%20a%20200-person%20company%20should%20resolve%20before%20choosing.&surface=work>)
 
   * ### Prioritize active software buyers
 
 ![](https://files.openai.com/content?id=file_00000000ade4720cbd31a99700103408&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=9dac53f30fdff3bac46b98eab1ceb71b871c0d603fc3dbe4e4565367fd640b7f&v=0)![](https://files.openai.com/content?id=file_000000000eb481f7861627a90fe32ef2&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=4a8ce5b240fce3dce9b92f4751e8b788a83d03f4c909f7408630b6a18213a395&v=0)G2 Review the past 30 days of Buyer Intent for our products. Rank ten accounts by research activity and intent, show the competitors they are evaluating, and recommend a relevant outreach angle for each.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40G2+Review+the+past+30+days+of+Buyer+Intent+for+our+products.+Rank+ten+accounts+by+research+activity+and+intent%2C+show+the+competitors+they+are+evaluating%2C+and+recommend+a+relevant+outreach+angle+for+each.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6998622475e081918795d4f4c5e42df4?install&prompt=Review%20the%20past%2030%20days%20of%20Buyer%20Intent%20for%20our%20products.%20Rank%20ten%20accounts%20by%20research%20activity%20and%20intent%2C%20show%20the%20competitors%20they%20are%20evaluating%2C%20and%20recommend%20a%20relevant%20outreach%20angle%20for%20each.&surface=work>)
 
   * ### Identify competitive product gaps
 
 ![](https://files.openai.com/content?id=file_00000000ade4720cbd31a99700103408&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=1&sig=9dac53f30fdff3bac46b98eab1ceb71b871c0d603fc3dbe4e4565367fd640b7f&v=0)![](https://files.openai.com/content?id=file_000000000eb481f7861627a90fe32ef2&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=4a8ce5b240fce3dce9b92f4751e8b788a83d03f4c909f7408630b6a18213a395&v=0)G2 Compare available reviews for our product and its top two listed competitors. Identify recurring feature complaints and praised capabilities, then propose three product priorities with supporting review evidence.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40G2+Compare+available+reviews+for+our+product+and+its+top+two+listed+competitors.+Identify+recurring+feature+complaints+and+praised+capabilities%2C+then+propose+three+product+priorities+with+supporting+review+evidence.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6998622475e081918795d4f4c5e42df4?install&prompt=Compare%20available%20reviews%20for%20our%20product%20and%20its%20top%20two%20listed%20competitors.%20Identify%20recurring%20feature%20complaints%20and%20praised%20capabilities%2C%20then%20propose%20three%20product%20priorities%20with%20supporting%20review%20evidence.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Use G2 data in ChatGPT to research and compare software using verified reviews a
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://support.g2.com/s/>)
+### [Plugin supportLearn more(opens in a new window)](<https://support.g2.com/s/>)
 
-### [Privacy policyLearn more](<https://legal.g2.com/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://legal.g2.com/privacy-policy>)
 
 ## Add the G2 plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)ClayFind and engage prospects.](</business/plugins/clay/>)[![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)ZoomInfoB2B data and GTM insights](</business/plugins/zoominfo/>)[![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)SimilarwebWeb, app, search & market data](</business/plugins/similarweb/>)
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)![](https://files.openai.com/content?id=file_0000000088dc71f6a290da6b9746773b&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=053f47893fea5795866c05c071a32556575279ccb29b59b78c36b6efb2d97385&v=0)ClayGTM Data and Functions](</business/plugins/clay/>)[![](https://files.openai.com/content?id=file_000000007b5c71f68f4ce7109fe9895c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=a5a793a7e75695a72af470326e881780a30318137c1513faad1613814c2c9dc1&v=0)![](https://files.openai.com/content?id=file_0000000072c871f6aa01f4d6e74a0bac&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=968d61b4c236ca6388c4568374ddba27d71bb52aff64cd2d86100a352481dbe3&v=0)ZoomInfoB2B data and GTM insights](</business/plugins/zoominfo/>)[![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)SimilarwebWeb, app, search & market data](</business/plugins/similarweb/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

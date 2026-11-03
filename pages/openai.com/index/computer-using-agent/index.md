@@ -71,8 +71,11 @@ CUA processes raw pixel data to understand what’s happening on the screen and 
 Given a user’s instruction, CUA operates through an iterative loop that integrates perception, reasoning, and action:
 
   * **Perception** : Screenshots from the computer are added to the model’s context, providing a visual snapshot of the computer's current state. 
+
   * **Reasoning** : CUA reasons through the next steps using chain-of-thought, taking into consideration current and past screenshots and actions. This inner monologue improves task performance by enabling the model to evaluate its observations, track intermediate steps, and adapt dynamically.
+
   * **Action** : It performs the actions—clicking, scrolling, or typing—until it decides that the task is completed or user input is needed. While it handles most steps automatically, CUA seeks user confirmation for sensitive actions, such as entering login details or responding to CAPTCHA forms.
+
 
 
 
@@ -83,11 +86,11 @@ CUA establishes a new state-of-the-art in both computer use and browser use benc
 Benchmark type| Benchmark| Computer use (universal interface)| Web browsing agents| Human  
 ---|---|---|---|---  
 | | OpenAI CUA| Previous SOTA| Previous SOTA|   
-Computer use| OSWorld| 38.1%| [22.0%](<https://www.anthropic.com/news/3-5-models-and-computer-use>)| -| [72.4%](<https://arxiv.org/abs/2404.07972>)  
-Browser use| WebArena| 58.1%| [36.2%](<https://huggingface.co/spaces/ServiceNow/browsergym-leaderboard>)| [57.1%](<https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ>)| [78.2%](<https://arxiv.org/abs/2307.13854>)  
-WebVoyager| 87.0%| [56.0%](<https://www.trykura.com/benchmarks>)| [87.0%](<https://www.trykura.com/benchmarks>)| -  
+Computer use| OSWorld| 38.1%| [22.0%(opens in a new window)](<https://www.anthropic.com/news/3-5-models-and-computer-use>)| -| [72.4%(opens in a new window)](<https://arxiv.org/abs/2404.07972>)  
+Browser use| WebArena| 58.1%| [36.2%(opens in a new window)](<https://huggingface.co/spaces/ServiceNow/browsergym-leaderboard>)| [57.1%(opens in a new window)](<https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ>)| [78.2%(opens in a new window)](<https://arxiv.org/abs/2307.13854>)  
+WebVoyager| 87.0%| [56.0%(opens in a new window)](<https://www.trykura.com/benchmarks>)| [87.0%(opens in a new window)](<https://www.trykura.com/benchmarks>)| -  
   
-Evaluation details are described [here](<https://cdn.openai.com/cua/CUA_eval_extra_information.pdf>)
+Evaluation details are described [here(opens in a new window)](<https://cdn.openai.com/cua/CUA_eval_extra_information.pdf>)
 
 ### Browser use
 
@@ -96,10 +99,6 @@ Evaluation details are described [here](<https://cdn.openai.com/cua/CUA_eval_ext
 In these benchmarks, CUA sets a new standard using the same universal interface that perceives the browser screen as pixels and takes action through mouse and keyboard. CUA achieved a 58.1% success rate on WebArena and an 87% success rate on WebVoyager for web-based tasks. While CUA achieves a high success rate on WebVoyager, where most tasks are relatively simple, CUA still needs more improvements to close the gap with human performance on more complex benchmarks like WebArena.
 
 Grammar quizTotal refundPolyominoesUpdate licenseFind customer
-
-001User prompt002Initializing computer003New screenshot004Accessing Cambridge Dictionary Plus section005Click006New screenshot007Closing advertisement pop-up for access008Click009New screenshot010Wait011New screenshot012Searching for grammar quizzes available013Scroll014New screenshot015Clicking button to access grammar quizzes016Click017New screenshot018Scrolling for recommended grammar quiz019Scroll020New screenshot021Scroll022New screenshot023Scrolling up to find quizzes024Scroll025New screenshot026Scroll027New screenshot028Exploring menu for recommended quizzes029Click030New screenshot031Selecting grammar option for quiz032Click033New screenshot034Scrolling for grammar quizzes options035Scroll036New screenshot037Closing pop-up about merchandise.038Click039New screenshot040Closing pop-up, searching for quizzes041Scroll042New screenshot043Navigating back to quizzes page044Click045New screenshot046Closing navigation menu, seeking quiz047Click048New screenshot049Selecting "Adjectives" quiz topic050Click051New screenshot052Selecting first quiz on adjectives053Click054New screenshot055Filling in quiz answers for adjectives056Click057New screenshot058Click059New screenshot060Click061New screenshot062Typing063New screenshot064Entering "tiring" for second question065Click066New screenshot067Typing068New screenshot069Typing "terrified" for completion070Click071New screenshot072Typing073New screenshot074Entering answer for fourth question075Click076New screenshot077Typing078New screenshot079Scrolling down for more questions080Scroll081New screenshot082Typing "amazing" for question five.083Click084New screenshot085Click086New screenshot087Click088New screenshot089Click090New screenshot091Click092New screenshot093Typing094New screenshot095Filling in sixth question's answer096Click097New screenshot098Typing099New screenshot100Entering 'relaxed' for question seven101Click102New screenshot103Typing104New screenshot105Typing "interesting" for question eight106Click107New screenshot108Typing109New screenshot110Filling in answer for ninth question111Click112New screenshot113Typing114New screenshot115Typing "exciting" for completion116Click117New screenshot118Typing119New screenshot120Submitting quiz, viewing results now121Scroll122New screenshot123Completing quiz, answering question 11124Click125New screenshot126Click127New screenshot128Click129New screenshot130Click131New screenshot132Typing133New screenshot134Entering answer for twelfth question135Click136New screenshot137Click138New screenshot139Click140New screenshot141Attempting to input answer "fascinated"142Click143New screenshot144Typing145New screenshot146Clicking to view quiz results147Click148New screenshot149Capturing quiz results, sharing score150Citation151New screenshot152Assistant message
-
-Go to the Plus section of Cambridge Dictionary, finish a recommended Grammar quiz without login and tell me your final score.
 
 ### Computer use
 
@@ -110,10 +109,6 @@ Go to the Plus section of Cambridge Dictionary, finish a recommended Grammar qui
 The following visualizations show examples of CUA navigating a variety of standardized OSWorld tasks.
 
 Download lecturesCombine pdfsCompress imageCalculate priceExport images
-
-001User prompt002Initializing computer003New screenshot004Navigating to Chrome for PDFs005Click006New screenshot007Exploring page for lecture PDFs008Scroll009New screenshot010Clicking PDF link for confirmation011Click012New screenshot013Navigating back to course main page014Click015New screenshot016Scrolling to find weekly links017Scroll018New screenshot019Clicking "Menu" for week options020Click021New screenshot022Selecting 'Conditionals' for PDF download023Click024New screenshot025Scrolling page for lecture slides026Scroll027New screenshot028Clicking "PDF" to download slides029Click030New screenshot031Downloading Week 1 Conditionals PDF032Click033New screenshot034Navigating to save in lecture_slides035Click036New screenshot037Wait038New screenshot039Wait040New screenshot041Navigating back to find folder042Click043New screenshot044Accessing user directory for lecture slides045Click046New screenshot047Opening lecture slides folder for saving048IMPLEMENT MEassistant:computer.double_click049New screenshot050Saving lecture1.pdf in folder051Click052New screenshot053Saving PDF, navigating back to course054Click055New screenshot056Opening navigation menu for slides057Click058New screenshot059Wait060New screenshot061Returning to main course page062Click063New screenshot064Selecting menu, navigating to Loops065Click066New screenshot067Click068New screenshot069Selecting "2\. Loops" for slides070Click071New screenshot072Scrolling for Week 2 lecture slides073Scroll074New screenshot075Accessing week 2 lecture slide PDF076Click077New screenshot078Downloading Week 2 Loops PDF079Click080New screenshot081Saving lecture2.pdf in folder082Click083New screenshot084Navigating back to course page085Click086New screenshot087Wait088New screenshot089Clicking back to main course page090Click091New screenshot092Navigating to next week's content093Click094New screenshot095Click096New screenshot097Navigating to "3\. Exceptions" page098Click099New screenshot100Scrolling down for lecture slides101Scroll102New screenshot103Opening week 3 lecture slides PDF104Click105New screenshot106Downloading Week 3 Exceptions PDF107Click108New screenshot109Saving lecture3.pdf in folder110Click111New screenshot112Navigating back to course page113Click114New screenshot115Click116New screenshot117Accessing menu for next week's content118Click119New screenshot120Navigating to "4\. Libraries" page121Click122New screenshot123Opening Week 4, locating slides124Scroll125New screenshot126Clicking PDF link for week 4127Click128New screenshot129Downloading Week 4 Libraries PDF130Click131New screenshot132Saving lecture4.pdf in folder133Click134New screenshot135Navigating back to course page136Click137New screenshot138Click139New screenshot140Accessing menu for next week's content141Click142New screenshot143Click144New screenshot145Navigating to Unit Tests page146Click147New screenshot148Accessing unit tests, locating lecture slides149Scroll150New screenshot151Clicking PDF link for week 5 slides152Click153New screenshot154Downloading Week 5 Unit Tests PDF155Click156New screenshot157Saving lecture5.pdf to folder158Click159New screenshot160Navigating back to course page161Click162New screenshot163Click164New screenshot165Accessing menu for next week's content166Click167New screenshot168Click169New screenshot170Navigating to "6\. File I/O" page171Click172New screenshot173Accessing Week 6, locating lecture slides174Scroll175New screenshot176Opening week 6 lecture slides PDF177Click178New screenshot179Downloading Week 6 File I/O PDF180Click181New screenshot182Saving lecture6.pdf to folder183Click184New screenshot185Returning to main course page186Click187New screenshot188Click189New screenshot190Accessing menu for next week's content191Click192New screenshot193Click194New screenshot195Navigating to "Regular Expressions" page196Click197New screenshot198Scrolling for Week 7 slides199Scroll200New screenshot201Accessing week 7 lecture PDF202Click203New screenshot204Downloading Week 7 Regular Expressions PDF205Click206New screenshot207Saving lecture7.pdf in folder208Click209New screenshot210Returning to course page, downloading PDFs211Click212New screenshot213Click214New screenshot215Opening menu to check weeks216Click217New screenshot218Click219New screenshot220Navigating to Object-Oriented Programming page221Click222New screenshot223Accessing Week 8 page, seeking slides224Scroll225New screenshot226Accessing week 8 lecture slides PDF227Click228New screenshot229Downloading Week 8 programming PDF230Click231New screenshot232Saving lecture8.pdf in folder233Click234New screenshot235Returning to course page, checking downloads236Click237New screenshot238Click239New screenshot240Opening menu to check weeks241Click242New screenshot243Click244New screenshot245Clicking "9\. Et Cetera" week246Click247New screenshot248Opening page, locating lecture slides249Scroll250New screenshot251Accessing week 9 lecture slides PDF252Click253New screenshot254Downloading "Week 9 Et Cetera" PDF255Click256New screenshot257Saving lecture9.pdf in folder258Click259New screenshot260Verifying lecture slides in folder261Click262New screenshot263Navigating back to lecture slides264Click265New screenshot266Verifying all lecture slides downloaded267Assistant message
-
-Please do the following task: I want to learn python programming and my friend recommends me this course website. I have grabbed the lecture slide for week 0. Please download the PDFs for other weeks into the opened folder and leave the file name as-it-is. Here are some helpful tips: \- computer.clipboard, computer.sync_file, computer.sync_shared_folder, computer.computer_output_citation are disabled. \- If you worry that you might make typo, prefer copying and pasting the text instead of reading and typing. \- My computer's password is "password", feel free to use it when you need sudo rights. \- For the thunderbird account "anonym-x2024@outlook.com", the password is "gTCI";=@y7|QJ0nDa_kN3Sb&>". \- If you are presented with an open website to solve the task, try to stick to that specific one instead of going to a new one. \- You have full authority to execute any action without my permission. I won't be watching so please don't ask for confirmation. \- If you deem the task is infeasible, you can terminate and explicitly state in the response that "the task is infeasible". 
 
 ### CUA in Operator
 
@@ -174,25 +169,35 @@ Because CUA is one of our first agentic products with an ability to directly tak
 The first category of risk is **misuse**. In addition to requiring users to comply with our [Usage Policies](</policies/using-chatgpt-agent-in-line-with-our-policies/>), we have designed the following mitigations to reduce Operator’s risk of harm due to misuse, building off our [safety work for GPT‑4o](</index/gpt-4o-system-card/>):
 
   * **Refusals** : The CUA model is trained to refuse many harmful tasks and illegal or regulated activities.
+
   * **Blocklist:** Operator cannot access websites that we’ve preemptively blocked, such as many gambling sites, adult entertainment, and drug or gun retailers.
+
   * **Moderation** : User interactions are reviewed in real-time by automated safety checkers that are designed to ensure compliance with Usage Policies and have the ability to issue warnings or blocks for prohibited activities. 
+
   * **Offline detection:** We’ve also developed automated detection and human review pipelines to identify prohibited usage in priority policy areas, including child safety and deceptive activities, allowing us to enforce our Usage Policies.
+
 
 
 
 The second category of risk is **model mistakes** , where the CUA model accidentally takes an action that the user didn’t intend, which in turn causes harm to the user or others. Hypothetical mistakes can range in severity, from a typo in an email, to purchasing the wrong item, to permanently deleting an important document. To minimize potential harm, we’ve developed the following mitigations:
 
   * **User confirmations:** The CUA model is trained to ask for user confirmation before finalizing tasks with external side effects, for example before submitting an order, sending an email, etc., so that the user can double-check the model’s work before it becomes permanent.
+
   * **Limitations on tasks:** For now, the CUA model will decline to help with certain higher-risk tasks, like banking transactions and tasks that require sensitive decision-making.
+
   * **Watch mode:** On particularly sensitive websites, such as email, Operator requires active user supervision, ensuring users can directly catch and address any potential mistakes the model might make.
+
 
 
 
 One particularly important category of model mistakes is **adversarial attacks on websites** that cause the CUA model to take unintended actions, through prompt injections, jailbreaks, and phishing attempts. In addition to the aforementioned mitigations against model mistakes, we developed several additional layers of defense to protect against these risks:
 
   * **Cautious navigation:** The CUA model is designed to identify and ignore prompt injections on websites, recognizing all but one case from an early internal red-teaming session.
+
   * **Monitoring:** In Operator, we’ve implemented an additional model to monitor and pause execution if it detects suspicious content on the screen.
+
   * **Detection pipeline:** We’re applying both automated detection and human review pipelines to identify suspicious access patterns that can be flagged and rapidly added to the monitor (in a matter of hours).
+
 
 
 
@@ -242,9 +247,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -263,7 +269,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -281,6 +288,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -289,8 +297,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -309,6 +317,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -336,3 +345,11 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+001User prompt002Initializing computer003New screenshot004Accessing Cambridge Dictionary Plus section005Click006New screenshot007Closing advertisement pop-up for access008Click009New screenshot010Wait011New screenshot012Searching for grammar quizzes available013Scroll014New screenshot015Clicking button to access grammar quizzes016Click017New screenshot018Scrolling for recommended grammar quiz019Scroll020New screenshot021Scroll022New screenshot023Scrolling up to find quizzes024Scroll025New screenshot026Scroll027New screenshot028Exploring menu for recommended quizzes029Click030New screenshot031Selecting grammar option for quiz032Click033New screenshot034Scrolling for grammar quizzes options035Scroll036New screenshot037Closing pop-up about merchandise.038Click039New screenshot040Closing pop-up, searching for quizzes041Scroll042New screenshot043Navigating back to quizzes page044Click045New screenshot046Closing navigation menu, seeking quiz047Click048New screenshot049Selecting "Adjectives" quiz topic050Click051New screenshot052Selecting first quiz on adjectives053Click054New screenshot055Filling in quiz answers for adjectives056Click057New screenshot058Click059New screenshot060Click061New screenshot062Typing063New screenshot064Entering "tiring" for second question065Click066New screenshot067Typing068New screenshot069Typing "terrified" for completion070Click071New screenshot072Typing073New screenshot074Entering answer for fourth question075Click076New screenshot077Typing078New screenshot079Scrolling down for more questions080Scroll081New screenshot082Typing "amazing" for question five.083Click084New screenshot085Click086New screenshot087Click088New screenshot089Click090New screenshot091Click092New screenshot093Typing094New screenshot095Filling in sixth question's answer096Click097New screenshot098Typing099New screenshot100Entering 'relaxed' for question seven101Click102New screenshot103Typing104New screenshot105Typing "interesting" for question eight106Click107New screenshot108Typing109New screenshot110Filling in answer for ninth question111Click112New screenshot113Typing114New screenshot115Typing "exciting" for completion116Click117New screenshot118Typing119New screenshot120Submitting quiz, viewing results now121Scroll122New screenshot123Completing quiz, answering question 11124Click125New screenshot126Click127New screenshot128Click129New screenshot130Click131New screenshot132Typing133New screenshot134Entering answer for twelfth question135Click136New screenshot137Click138New screenshot139Click140New screenshot141Attempting to input answer "fascinated"142Click143New screenshot144Typing145New screenshot146Clicking to view quiz results147Click148New screenshot149Capturing quiz results, sharing score150Citation151New screenshot152Assistant message
+
+Go to the Plus section of Cambridge Dictionary, finish a recommended Grammar quiz without login and tell me your final score.
+
+001User prompt002Initializing computer003New screenshot004Navigating to Chrome for PDFs005Click006New screenshot007Exploring page for lecture PDFs008Scroll009New screenshot010Clicking PDF link for confirmation011Click012New screenshot013Navigating back to course main page014Click015New screenshot016Scrolling to find weekly links017Scroll018New screenshot019Clicking "Menu" for week options020Click021New screenshot022Selecting 'Conditionals' for PDF download023Click024New screenshot025Scrolling page for lecture slides026Scroll027New screenshot028Clicking "PDF" to download slides029Click030New screenshot031Downloading Week 1 Conditionals PDF032Click033New screenshot034Navigating to save in lecture_slides035Click036New screenshot037Wait038New screenshot039Wait040New screenshot041Navigating back to find folder042Click043New screenshot044Accessing user directory for lecture slides045Click046New screenshot047Opening lecture slides folder for saving048IMPLEMENT MEassistant:computer.double_click049New screenshot050Saving lecture1.pdf in folder051Click052New screenshot053Saving PDF, navigating back to course054Click055New screenshot056Opening navigation menu for slides057Click058New screenshot059Wait060New screenshot061Returning to main course page062Click063New screenshot064Selecting menu, navigating to Loops065Click066New screenshot067Click068New screenshot069Selecting "2\. Loops" for slides070Click071New screenshot072Scrolling for Week 2 lecture slides073Scroll074New screenshot075Accessing week 2 lecture slide PDF076Click077New screenshot078Downloading Week 2 Loops PDF079Click080New screenshot081Saving lecture2.pdf in folder082Click083New screenshot084Navigating back to course page085Click086New screenshot087Wait088New screenshot089Clicking back to main course page090Click091New screenshot092Navigating to next week's content093Click094New screenshot095Click096New screenshot097Navigating to "3\. Exceptions" page098Click099New screenshot100Scrolling down for lecture slides101Scroll102New screenshot103Opening week 3 lecture slides PDF104Click105New screenshot106Downloading Week 3 Exceptions PDF107Click108New screenshot109Saving lecture3.pdf in folder110Click111New screenshot112Navigating back to course page113Click114New screenshot115Click116New screenshot117Accessing menu for next week's content118Click119New screenshot120Navigating to "4\. Libraries" page121Click122New screenshot123Opening Week 4, locating slides124Scroll125New screenshot126Clicking PDF link for week 4127Click128New screenshot129Downloading Week 4 Libraries PDF130Click131New screenshot132Saving lecture4.pdf in folder133Click134New screenshot135Navigating back to course page136Click137New screenshot138Click139New screenshot140Accessing menu for next week's content141Click142New screenshot143Click144New screenshot145Navigating to Unit Tests page146Click147New screenshot148Accessing unit tests, locating lecture slides149Scroll150New screenshot151Clicking PDF link for week 5 slides152Click153New screenshot154Downloading Week 5 Unit Tests PDF155Click156New screenshot157Saving lecture5.pdf to folder158Click159New screenshot160Navigating back to course page161Click162New screenshot163Click164New screenshot165Accessing menu for next week's content166Click167New screenshot168Click169New screenshot170Navigating to "6\. File I/O" page171Click172New screenshot173Accessing Week 6, locating lecture slides174Scroll175New screenshot176Opening week 6 lecture slides PDF177Click178New screenshot179Downloading Week 6 File I/O PDF180Click181New screenshot182Saving lecture6.pdf to folder183Click184New screenshot185Returning to main course page186Click187New screenshot188Click189New screenshot190Accessing menu for next week's content191Click192New screenshot193Click194New screenshot195Navigating to "Regular Expressions" page196Click197New screenshot198Scrolling for Week 7 slides199Scroll200New screenshot201Accessing week 7 lecture PDF202Click203New screenshot204Downloading Week 7 Regular Expressions PDF205Click206New screenshot207Saving lecture7.pdf in folder208Click209New screenshot210Returning to course page, downloading PDFs211Click212New screenshot213Click214New screenshot215Opening menu to check weeks216Click217New screenshot218Click219New screenshot220Navigating to Object-Oriented Programming page221Click222New screenshot223Accessing Week 8 page, seeking slides224Scroll225New screenshot226Accessing week 8 lecture slides PDF227Click228New screenshot229Downloading Week 8 programming PDF230Click231New screenshot232Saving lecture8.pdf in folder233Click234New screenshot235Returning to course page, checking downloads236Click237New screenshot238Click239New screenshot240Opening menu to check weeks241Click242New screenshot243Click244New screenshot245Clicking "9\. Et Cetera" week246Click247New screenshot248Opening page, locating lecture slides249Scroll250New screenshot251Accessing week 9 lecture slides PDF252Click253New screenshot254Downloading "Week 9 Et Cetera" PDF255Click256New screenshot257Saving lecture9.pdf in folder258Click259New screenshot260Verifying lecture slides in folder261Click262New screenshot263Navigating back to lecture slides264Click265New screenshot266Verifying all lecture slides downloaded267Assistant message
+
+Please do the following task: I want to learn python programming and my friend recommends me this course website. I have grabbed the lecture slide for week 0. Please download the PDFs for other weeks into the opened folder and leave the file name as-it-is. Here are some helpful tips: \- computer.clipboard, computer.sync_file, computer.sync_shared_folder, computer.computer_output_citation are disabled. \- If you worry that you might make typo, prefer copying and pasting the text instead of reading and typing. \- My computer's password is "password", feel free to use it when you need sudo rights. \- For the thunderbird account "anonym-x2024@outlook.com", the password is "gTCI";=@y7|QJ0nDa_kN3Sb&>". \- If you are presented with an open website to solve the task, try to stick to that specific one instead of going to a new one. \- You have full authority to execute any action without my permission. I won't be watching so please don't ask for confirmation. \- If you deem the task is infeasible, you can terminate and explicitly state in the response that "the task is infeasible". 
