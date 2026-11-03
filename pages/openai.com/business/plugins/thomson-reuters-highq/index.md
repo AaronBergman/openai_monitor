@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://legal.thomsonreuters.com/en/products/highq>)
 
-[![](https://files.openai.com/content?id=file_000000008778820aaf542943defec32c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=7e04815fb511aa36f179f25085932a92224fa2bd0d24ae24ec349f5e5128fce1&v=0)HighQ Summarize this contract like a senior associate: parties, key terms, obligations, and any clauses that need a closer look.(opens in a new window)](<https://chatgpt.com/?prompt=%40HighQ+Summarize+this+contract+like+a+senior+associate%3A+parties%2C+key+terms%2C+obligations%2C+and+any+clauses+that+need+a+closer+look.>)
+[![](https://files.openai.com/content?id=file_000000008778820aaf542943defec32c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=7e04815fb511aa36f179f25085932a92224fa2bd0d24ae24ec349f5e5128fce1&v=0)HighQ Summarize this contract like a senior associate: parties, key terms, obligations, and any clauses that need a closer look.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa95c3626508191a8a262e31f60aa7e?install&prompt=Summarize%20this%20contract%20like%20a%20senior%20associate%3A%20parties%2C%20key%20terms%2C%20obligations%2C%20and%20any%20clauses%20that%20need%20a%20closer%20look.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Connect ChatGPT to the matters your team already manage in HighQ. Retrieve data 
 
 ![](https://files.openai.com/content?id=file_000000008778820aaf542943defec32c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=7e04815fb511aa36f179f25085932a92224fa2bd0d24ae24ec349f5e5128fce1&v=0)HighQ Read [contract] in [matter folder] and prepare a brief covering parties, key terms, obligations, and deadlines. Cite relevant sections and prioritize clauses that need a closer look by the reviewing lawyer.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HighQ+Read+%5Bcontract%5D+in+%5Bmatter+folder%5D+and+prepare+a+brief+covering+parties%2C+key+terms%2C+obligations%2C+and+deadlines.+Cite+relevant+sections+and+prioritize+clauses+that+need+a+closer+look+by+the+reviewing+lawyer.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa95c3626508191a8a262e31f60aa7e?install&prompt=Read%20%5Bcontract%5D%20in%20%5Bmatter%20folder%5D%20and%20prepare%20a%20brief%20covering%20parties%2C%20key%20terms%2C%20obligations%2C%20and%20deadlines.%20Cite%20relevant%20sections%20and%20prioritize%20clauses%20that%20need%20a%20closer%20look%20by%20the%20reviewing%20lawyer.&surface=work>)
 
   * ### Prioritize open litigation claims
 
 ![](https://files.openai.com/content?id=file_000000008778820aaf542943defec32c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=7e04815fb511aa36f179f25085932a92224fa2bd0d24ae24ec349f5e5128fce1&v=0)HighQ Review open litigation claims in [matter iSheet]. Group them by jurisdiction and recorded risk, identify approaching deadlines and incomplete records, and recommend which claims need the team's attention first.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HighQ+Review+open+litigation+claims+in+%5Bmatter+iSheet%5D.+Group+them+by+jurisdiction+and+recorded+risk%2C+identify+approaching+deadlines+and+incomplete+records%2C+and+recommend+which+claims+need+the+team%27s+attention+first.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa95c3626508191a8a262e31f60aa7e?install&prompt=Review%20open%20litigation%20claims%20in%20%5Bmatter%20iSheet%5D.%20Group%20them%20by%20jurisdiction%20and%20recorded%20risk%2C%20identify%20approaching%20deadlines%20and%20incomplete%20records%2C%20and%20recommend%20which%20claims%20need%20the%20team's%20attention%20first.&surface=work>)
 
   * ### Review membership changes
 
 ![](https://files.openai.com/content?id=file_000000008778820aaf542943defec32c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=7e04815fb511aa36f179f25085932a92224fa2bd0d24ae24ec349f5e5128fce1&v=0)HighQ Review user management audit records across this instance for the past seven days. Summarize users added or removed, flag external users, and prioritize changes for administrator review with references to the audit records.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HighQ+Review+user+management+audit+records+across+this+instance+for+the+past+seven+days.+Summarize+users+added+or+removed%2C+flag+external+users%2C+and+prioritize+changes+for+administrator+review+with+references+to+the+audit+records.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6aa95c3626508191a8a262e31f60aa7e?install&prompt=Review%20user%20management%20audit%20records%20across%20this%20instance%20for%20the%20past%20seven%20days.%20Summarize%20users%20added%20or%20removed%2C%20flag%20external%20users%2C%20and%20prioritize%20changes%20for%20administrator%20review%20with%20references%20to%20the%20audit%20records.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Connect ChatGPT to the matters your team already manage in HighQ. Retrieve data 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://www.thomsonreuters.com/en-gb/help/highq>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.thomsonreuters.com/en-gb/help/highq>)
 
-### [Privacy policyLearn more](<https://www.thomsonreuters.com/en/privacy-statement>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.thomsonreuters.com/en/privacy-statement>)
 
 ## Add the HighQ plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingBuild banking analysis and client-ready materials.](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000003b788243b58bf33b5d039a1b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=cb1f1dea30dfc38b2ca73f1dd6d5732558f298df2f58c557685d6d2d69345d16&v=0)![](https://files.openai.com/content?id=file_000000003b788243b58bf33b5d039a1b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=cb1f1dea30dfc38b2ca73f1dd6d5732558f298df2f58c557685d6d2d69345d16&v=0)iManage WorkGoverned knowledge. AI ready.](</business/plugins/imanage-work/>)[![](https://files.openai.com/content?id=file_00000000cac4820d98ffabd82b64b5e5&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=9019336a1754b36e48a3e49d09d9596a8064a3f03a157f37e799e8bd45400599&v=0)![](https://files.openai.com/content?id=file_00000000cac4820d98ffabd82b64b5e5&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=9019336a1754b36e48a3e49d09d9596a8064a3f03a157f37e799e8bd45400599&v=0)NetDocumentsSearch and retrieve documents](</business/plugins/netdocuments/>)[![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)HarveyLegal intelligence from Harvey](</business/plugins/harvey/>)[![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)LegalQuants TransactionalContract and deal workflows](</business/plugins/legalquants-transactional/>)
+[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingM&A, valuation, and financing](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000003b788243b58bf33b5d039a1b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=cb1f1dea30dfc38b2ca73f1dd6d5732558f298df2f58c557685d6d2d69345d16&v=0)![](https://files.openai.com/content?id=file_000000003b788243b58bf33b5d039a1b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=cb1f1dea30dfc38b2ca73f1dd6d5732558f298df2f58c557685d6d2d69345d16&v=0)iManage WorkGoverned knowledge. AI ready.](</business/plugins/imanage-work/>)[![](https://files.openai.com/content?id=file_00000000cac4820d98ffabd82b64b5e5&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=9019336a1754b36e48a3e49d09d9596a8064a3f03a157f37e799e8bd45400599&v=0)![](https://files.openai.com/content?id=file_00000000cac4820d98ffabd82b64b5e5&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=9019336a1754b36e48a3e49d09d9596a8064a3f03a157f37e799e8bd45400599&v=0)NetDocumentsSearch and retrieve documents](</business/plugins/netdocuments/>)[![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)HarveyLegal intelligence from Harvey](</business/plugins/harvey/>)[![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)LegalQuants TransactionalContract and deal workflows](</business/plugins/legalquants-transactional/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

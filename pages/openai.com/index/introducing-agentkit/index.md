@@ -63,8 +63,11 @@ Design workflows with Agent Builder
 Today we’re launching AgentKit, a complete set of tools for developers and enterprises to build, deploy, and optimize agents. Until now, building agents meant juggling fragmented tools—complex orchestration with no versioning, custom connectors, manual eval pipelines, prompt tuning, and weeks of frontend work before launch. With AgentKit, developers can now design workflows visually and embed agentic UIs faster using new building blocks like:
 
   * **Agent Builder:** a visual canvas for creating and versioning multi-agent workflows
+
   * **Connector Registry:** a central place for admins to manage how data and tools connect across OpenAI products
+
   * **ChatKit:** a toolkit for embedding customizable chat-based agent experiences in your product 
+
 
 
 
@@ -102,24 +105,22 @@ Deploying chat UIs for agents can be surprisingly complex— handling streaming 
 
 CanvaLegalOnHubSpot
 
-> "We saved over two weeks of time building a support agent for our Canva Developers community with ChatKit, and integrated it in less than an hour. This support agent will transform the way developers engage with our docs by turning it into a conversational experience, making it easy to build apps and integrations on Canva."
-
-— Canva
-
 ChatKit already powers a range of use cases, from internal knowledge assistants and onboarding guides to customer support and research agents. [_HubSpot_ ⁠(opens in a new window)](<https://www.hubspot.com/>)’s customer support agent is one example:
 
 RampAlbertsonsHubSpotCanvaActivelyLegalOnEvernoteTaboola
-
-![Dashboard view of the Ramp platform showing an expense management interface. The main panel greets the user, Daniel, and lists requests such as ‘Request for ChatGPT Business’ \(pending review\) and ‘Request for HubSpot’ \(draft\), along with recent expenses for airlines, rideshares, and software. On the right, a software request form is open for ChatGPT Business, detailing 5 seats at $125 per month from October 1, 2025, to October 1, 2026, with a yellow ‘Submit request’ button.](https://images.ctfassets.net/kftzwdyauwt9/7vwlxChvkUc64SIHHhozCr/7a23aa2fee0840430c95c090ac6c1363/Customers_UI_Ramp.png?w=3840&q=90&fm=webp)
 
 ## Measure agent performance with new Evals capabilities
 
 Building reliable, production-ready agents requires rigorous performance evaluations. Last year, we launched [_Evals_ ⁠(opens in a new window)](<https://platform.openai.com/docs/guides/evals>) to help developers test prompts and measure model behavior. We’re now adding four new capabilities that make it even easier to build evals:
 
   * **Datasets** –rapidly build agent evals from scratch and expand them over time with automated graders and human annotations..
+
   * **Trace grading** –run end-to-end assessments of agentic workflows and automate grading to pinpoint shortcomings.
+
   * **Automated prompt optimization** –generate improved prompts based on human annotations and grader outputs.
+
   * **Third-party model support** –evaluate models from other providers within the OpenAI Evals platform.
+
 
 
 
@@ -127,13 +128,7 @@ We’ve already seen major performance gains from customers using Evals.
 
 CarlyleRipplingBoxBain & Company
 
-> "The evaluation platform cut development time on our multi-agent due diligence framework by over 50%, and increased agent accuracy 30%."
-
-— Carlyle
-
 DatasetsPrompt optimizerTrace grading
-
-![Interface showing a dataset table with columns for Rating, Tone, Feedback, and Accuracy. Rows display entries with thumbs-up or thumbs-down icons, tone tags such as Professional, Friendly, Rude, and Bad, and accuracy results labeled Pass or Fail with a score of 3.5. The top toolbar includes options for Upload, Columns, Grade, Generate output, and Save.](https://images.ctfassets.net/kftzwdyauwt9/3eaVkVTr4Q4xbXqVJN7UBh/5c90216e9aa153fd5a6cd8f1d2f13e5f/Eval_static-Datasets__1_.png?w=3840&q=90&fm=webp)
 
 ## Push agent performance with reinforcement fine-tuning
 
@@ -142,7 +137,9 @@ DatasetsPrompt optimizerTrace grading
 Today, we’re introducing two new features in that RFT beta designed to push agent performance even further:__
 
   * **Custom tool calls** –train models to call the right tools at the right time for better reasoning 
+
   * **Custom graders** –set custom evaluation criteria for what matters most in your use case
+
 
 
 
@@ -167,17 +164,17 @@ OpenAI
 
 [View all](</news/>)
 
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
+![Sunlight illuminates Earth against a starry sky.](https://cdn.openai.com/mdx-assets/71f084db-a08b-48c5-b96e-5fbdc21a1a00/terra-art-card-1x1.9a2f828b.png)
 
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
+[Introducing GPT-6.1 TerraProductOct 26, 2026](</index/introducing-gpt-6-1-terra/>)
 
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
+![Build more responsive apps with the Decisions API — Cover](https://images.ctfassets.net/kftzwdyauwt9/6E0HwFxJrpWOEiFct0ZfQE/bb595e7e6ab06dfd2c953cb915c8f89a/build-more-responsive-apps-with-the-decisions-api-cover.png?w=3840&q=90&fm=webp)
 
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
+[Build more responsive apps with the Decisions APIProductOct 22, 2026](</index/decisions-api/>)
 
-![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
+![Patch the Planet: scaling a global response to critical vulnerabilities — Cover](https://images.ctfassets.net/kftzwdyauwt9/6PyrqMoyS15mNPtg8awwZn/30ddc462153abdeacf59376e741713db/patch-the-planet-scaling-a-global-response-to-critical-vulnerabilities-cover.png?w=3840&q=90&fm=webp)
 
-[Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
+[Patch the Planet: global response coordination as agents uncover critical vulnerabilitiesSecurityOct 21, 2026](</index/coordinated-disclosure-of-critical-vulnerabilities/>)
 
 Research
 
@@ -189,9 +186,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -210,7 +208,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -228,6 +227,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -236,8 +236,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -256,6 +256,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -283,3 +284,15 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> "We saved over two weeks of time building a support agent for our Canva Developers community with ChatKit, and integrated it in less than an hour. This support agent will transform the way developers engage with our docs by turning it into a conversational experience, making it easy to build apps and integrations on Canva."
+
+— Canva
+
+![Dashboard view of the Ramp platform showing an expense management interface. The main panel greets the user, Daniel, and lists requests such as ‘Request for ChatGPT Business’ \(pending review\) and ‘Request for HubSpot’ \(draft\), along with recent expenses for airlines, rideshares, and software. On the right, a software request form is open for ChatGPT Business, detailing 5 seats at $125 per month from October 1, 2025, to October 1, 2026, with a yellow ‘Submit request’ button.](https://images.ctfassets.net/kftzwdyauwt9/7vwlxChvkUc64SIHHhozCr/7a23aa2fee0840430c95c090ac6c1363/Customers_UI_Ramp.png?w=3840&q=90&fm=webp)
+
+> "The evaluation platform cut development time on our multi-agent due diligence framework by over 50%, and increased agent accuracy 30%."
+
+— Carlyle
+
+![Interface showing a dataset table with columns for Rating, Tone, Feedback, and Accuracy. Rows display entries with thumbs-up or thumbs-down icons, tone tags such as Professional, Friendly, Rude, and Bad, and accuracy results labeled Pass or Fail with a score of 3.5. The top toolbar includes options for Upload, Columns, Grade, Generate output, and Save.](https://images.ctfassets.net/kftzwdyauwt9/3eaVkVTr4Q4xbXqVJN7UBh/5c90216e9aa153fd5a6cd8f1d2f13e5f/Eval_static-Datasets__1_.png?w=3840&q=90&fm=webp)

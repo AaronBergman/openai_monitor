@@ -30,8 +30,6 @@ July 21, 2025
 
 [Company](</news/company-announcements/>)
 
-# 
-
 ![""](https://images.ctfassets.net/kftzwdyauwt9/7CqekFe9SNFLc9GaHmqJdQ/7da0fef5bd8527cc28fab9411d03f0be/oai_Fidji_Simo_Wallpaper.png?w=3840&q=90&fm=webp)
 
 # AI as the  
@@ -150,17 +148,17 @@ Fidji Simo
 
 [View all](</news/>)
 
-![Paul Christiano joins OpenAI Foundation Board — card](https://images.ctfassets.net/kftzwdyauwt9/4PcDbhz75I70TjyGat7oHl/598dd1e865018860c3591cb95c9bc72e/paul-christiano-joins-openai-foundation-board--cover-v001.png?w=3840&q=90&fm=webp)
+![Introducing the Grid Protectors Program — Cover](https://images.ctfassets.net/kftzwdyauwt9/1JqPBH0jS5SuZJWiba3S4c/00501ffe5396e6d6915948e739cb364b/introducing-the-grid-protectors-program-cover.png?w=3840&q=90&fm=webp)
 
-[Paul Christiano joins OpenAI Foundation BoardCompanySep 9, 2026](</index/paul-christiano-joins-openai-foundation-board/>)
+[Introducing the Grid Protectors ProgramGlobal AffairsNov 2, 2026](</index/grid-protectors-program/>)
 
-![The Work Now Within Reach — clean cover](https://images.ctfassets.net/kftzwdyauwt9/5iHLTPM4ZhKe4dAwOPfpy2/347b9d804542685bb13dbb63e985d91e/c3f562e2b08a0bfc.png?w=3840&q=90&fm=webp)
+![OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization — Cover](https://images.ctfassets.net/kftzwdyauwt9/MWZNeudWSxYE1AOyORvmG/e5efa65f5cba9117c53a77ab1be52d82/dan-driscoll-joins-openai-cover.png?w=3840&q=90&fm=webp)
 
-[The Work Now Within ReachCompanySep 8, 2026](</index/the-work-now-within-reach/>)
+[Dan Driscoll joins OpenAICompanyNov 2, 2026](</index/dan-driscoll-joins-openai/>)
 
-![Supporting journalism from classrooms to newsrooms — listing card](https://images.ctfassets.net/kftzwdyauwt9/2uvvRNdvFkdWWXNtANgtAF/36e0f8b6a0c35abf88eec71519823409/Option_70___1080_1080.png?w=3840&q=90&fm=webp)
+![Making it easier for websites to express AI training preferences — Cover](https://images.ctfassets.net/kftzwdyauwt9/2k1vMnTZUeR0P30sHZA5P0/f6b841637d5d703414e3044fcb7196a0/websites-toeexpress-ai-training-preferences-cover.png?w=3840&q=90&fm=webp)
 
-[Supporting journalism from classrooms to newsroomsCompanySep 8, 2026](</index/supporting-journalism-from-classrooms-to-newsrooms/>)
+[Making it easier for websites to express AI training preferencesCompanyOct 30, 2026](</index/helping-websites-express-ai-training-preferences/>)
 
 Research
 
@@ -172,10 +170,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -194,7 +192,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -212,6 +211,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -220,8 +220,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -240,6 +240,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

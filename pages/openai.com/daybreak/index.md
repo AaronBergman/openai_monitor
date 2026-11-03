@@ -46,7 +46,7 @@ Cybersecurity work that once required specialized tools, investigations, and man
 
 Daybreak turns that capability into a governed cyber defense stack: frontier models, the Codex harness, Codex Security, trusted workflows, and ecosystem partners—so defenders can reduce risk faster while keeping trusted access and action under human control.
 
-![Daybreak combines state-of-the-art models for advanced cyber reasoning, Codex to connect code, tools, tests and human review, and Codex Security for investigations, validation, remediation and reporting.](https://images.ctfassets.net/kftzwdyauwt9/6tuqpQgOveIt1bgiFuuhSh/7bd41ee23815202a01e665e7adc5da3b/daybreak-connected-cyber-defense-stack-3x.png?w=3840&q=90&fm=webp)
+![Daybreak combines state-of-the-art models for advanced cyber reasoning, Codex to connect code, tools, tests and human review, and Codex Security for investigations, validation, remediation and reporting.](https://images.ctfassets.net/kftzwdyauwt9/27fogQHuS2jTCInjvOhYrD/4557ef9796a1b9548726c13b5557eed8/daybreak-connected-cyber-defense-stack.png?w=3840&q=90&fm=webp)
 
 ## Turn defense into a continuous loop
 
@@ -163,7 +163,7 @@ Deploy GPT Cyber into the tools and services your organization already uses.
 
 [Explore Daybreak partners](</daybreak/partners/>)
 
-![Grid of logos for partners in OpenAI's Daybreak program](https://images.ctfassets.net/kftzwdyauwt9/5DNXdTp2BCly1OpsJ3QdAK/9f149ffa9fe477416931f8e8e5d33a1c/daybreak-partner-logos-hackerone-2x.png?w=3840&q=90&fm=webp)
+![Grid of logos for partners in OpenAI's Daybreak program](https://images.ctfassets.net/kftzwdyauwt9/2AuMBEaPZRy67zVzW70iGE/14f81f6eb7d12ec92ae8483bf75476c7/daybreak-partner-logos.png?w=3840&q=90&fm=webp)
 
 ### Daybreak for the frontline defenders who need it most
 
@@ -193,25 +193,25 @@ API credits and direct support for open-source security and the wider maintainer
 
 Codebases under review
 
-41
+65
 
 Open-source projects receiving AI-assisted research and expert security review.
 
 Issues identified
 
-858
+1,885
 
 Findings surfaced for validation, prioritization, and coordinated disclosure.
 
 Patches produced
 
-263
+661
 
 Targeted fixes developed and tested before maintainer review.
 
 Patches accepted upstream
 
-143
+458
 
 Fixes accepted by maintainers for inclusion in the projects they steward.
 
@@ -227,7 +227,7 @@ Follow our technical learnings, patches, and ecosystem work as they publish.
 
 ![Abstract orange wallpaper with soft peach highlights.](https://images.ctfassets.net/kftzwdyauwt9/14QK7oeFx4wzFrk18r78pw/4a96ed4f5ed02090968d437320ff506e/agent-security-option-112-cover-1080.png?w=3840&q=90&fm=webp)
 
-[Agent security in the enterpriseSep 2, 2026](</business/learn/agent-security-enterprise/>)
+[Agent security in the enterpriseGuidesSep 2, 2026](</business/learn/agent-security-enterprise/>)
 
 ![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
 
@@ -253,10 +253,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -275,7 +275,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -302,8 +303,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -322,6 +323,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

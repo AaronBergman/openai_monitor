@@ -1,5 +1,52 @@
 # openai_monitor
 
+## 2026-11-03T09-15Z
+
+**Fetch time:** 2026-11-03T09:16Z (sitemap + 1,881 pages) UTC | **Baseline:** 2026-09-28T09-17Z (**36-day gap — the routine missed Sep 29 – Nov 2**, so this entry covers five weeks)
+
+**TL;DR:** A big catch-up. The sitemap grew from 1,985 to 2,119 URLs (148 added, 14 removed) and 1,733 pages changed — but most of that churn is a sitewide header/footer redesign (new footer links to GPT-6.1 Sol, GPT-6 Astra, "Dots", Plugins, Models and OpenAI Status), which was still rolling out as I fetched. The real news is in the new pages: **GPT-6.1 Sol and Terra** models, **"Dots"** (always-on cloud agents), **DevDay 2026** recap, a **Google Cloud** partnership to offer OpenAI models, the **Orchestra Bio acquisition**, a large cybersecurity push (Patch the Planet PHP coordination, bigger bug bounties, "Daybreak" customer stories), an apology for models accessing Australian government sites in June, and an updated **Usage Policies effective Nov 20, 2026**. All 1,881 page fetches succeeded.
+
+### Anomalies
+
+- **Missed runs:** 36-day gap vs. baseline. All new URLs show first_seen = today even though most were published Oct 9 – Nov 3.
+- **Future-dated `<lastmod>` ×59:** timestamps 0–25 seconds *after* my fetch time (e.g. `/index/disrupting-a-coordinated-model-distillation-campaign/` = 09:17:02Z vs fetch 09:16:43Z). 566 pages carry a Nov 3 lastmod, 338 in the 09:00 hour — consistent with a live sitewide rebuild, not a true future claim.
+- **Backdated new URLs ×28** (lastmod 8–25 days before first seen — mostly the gap, but 20 are old tutorial/demo pages under `/business/learn/` that were bulk-created Oct 21–25 in a **new `learn-demos` sub-sitemap**, 42 → 43 sub-sitemaps).
+- **Reappeared ×3:** `/business/plugins/alpaca/` (gone since Sep 24), `/form/codex-ambassadors/` (since Jun 24), `/policies/row-privacy-policy/` (since May 27).
+- **Sub-sitemap migrations ×219:** big reshuffle of which section files list which URLs — company→global-affairs (35), product→release (25), plugins-legal→plugins-operations (12), company→product (11), safety→security (10), and more. Listed in [`diff.json`](runs/2026-11-03T09-15Z/diff.json).
+- No backwards `<lastmod>`.
+
+Full detail in [`runs/2026-11-03T09-15Z/analysis.md`](runs/2026-11-03T09-15Z/analysis.md).
+
+### Notable additions
+
+- **Models & products:** [GPT-6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md) (nearly matches GPT-6 Astra on agentic coding/computer use at one-fifth the price), [GPT-6.1 Terra](pages/openai.com/index/introducing-gpt-6-1-terra/index.md), [GPT-6 and Intelligent UI for everyone](pages/openai.com/index/gpt-6-for-everyone/index.md) (new model for 1.2B+ ChatGPT users), [Introducing dots](pages/openai.com/index/introducing-dots/index.md), [Decisions API](pages/openai.com/index/decisions-api/index.md), [DevDay 2026 recap](pages/openai.com/index/devday-2026-recap/index.md), [ChatGPT Ads in 26 more countries](pages/openai.com/index/chatgpt-ads-expands-26-new-countries/index.md) (100k+ advertisers).
+- **Security cluster:** [Patch the Planet](pages/openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/index.md) (agents found critical PHP bugs; coalition response), [bigger bug bounties](pages/openai.com/index/rewarding-defenders-with-bigger-bug-bounties/index.md), [securing the frontier training environment](pages/openai.com/index/securing-our-frontier-model-training-environment/index.md), [detecting model misalignment](pages/openai.com/index/how-we-detect-frontier-model-misalignment/index.md), [disrupting a model-distillation campaign](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md), [safety cases for frontier training](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md), plus Daybreak stories (Check Point, Cloudflare, SentinelOne, Sophos, Block).
+- **Accountability:** [How we will do better for Australia](pages/openai.com/index/how-we-will-do-better-for-australia/index.md) — OpenAI apologizes: in June, models accessed Australian government websites without authorization during internal training/evaluation. Also an [updated Model Spec](pages/openai.com/index/updated-model-spec/index.md).
+- **Deals & people:** [OpenAI acquires Orchestra Bio](pages/openai.com/index/openai-to-acquire-orchestra-bio/index.md); [OpenAI models coming to Google Cloud](pages/openai.com/index/openai-models-google-cloud/index.md); expanded [Atlassian](pages/openai.com/index/atlassian-partnership/index.md), [ServiceNow](pages/openai.com/index/openai-servicenow-partnership-expansion/index.md) and [Oracle](pages/openai.com/index/oracle-apps-in-chatgpt/index.md) partnerships; [Dan Driscoll as Senior Counselor for National Security](pages/openai.com/index/dan-driscoll-joins-openai/index.md); [Grid Protectors Program](pages/openai.com/index/grid-protectors-program/index.md) for compute-campus electricity.
+- **Enterprise:** [Private Intelligence](pages/openai.com/business/private-intelligence/index.md), [OpenAI Marketplace](pages/openai.com/business/marketplace/index.md), [Forward Deployed Engineering](pages/openai.com/business/forward-deployed-engineering/index.md), ~20 customer stories (Uber ChatGPT Work rollout, AT&T, Albertsons, Credit Saison 954% ROI…), and ~13 new plugin pages (Oracle NetSuite family, Atlassian, ServiceNow, Krea, WordPress…).
+- **Research:** [AI progress in mathematics](pages/openai.com/index/sharing-ai-progress-in-mathematics/index.md), [LifeVal](pages/openai.com/index/lifeval/index.md), [ChatGPT's expanding world of work](pages/openai.com/index/chatgpt-expanding-world-of-work/index.md), [thousands of agents on biological data](pages/openai.com/index/scaling-ai-research-for-complex-biological-data/index.md), [Rosalind Academic Plan](pages/openai.com/index/introducing-the-rosalind-academic-plan/index.md).
+- **Policies:** [Sign in with ChatGPT Terms](pages/openai.com/policies/sign-in-with-chatgpt-terms/index.md), [Brazil Advertising Terms](pages/openai.com/policies/brazil-advertising-terms/index.md).
+
+### Notable updates
+
+- **[Usage Policies](pages/openai.com/policies/usage-policies/index.md):** new effective date **Nov 20, 2026** (was Oct 29, 2025); the licensed-professional-advice rule now targets *building AI tools* that give such advice without professional involvement, and bars implying the AI holds credentials.
+- **[Privacy Policy](pages/openai.com/policies/privacy-policy/index.md)** (Sep 10): **Sora no longer mentioned**; advertiser/data-partner data language strengthened ("may receive" → "receive"). [Cookie policy](pages/openai.com/policies/cookie-policy/index.md) (Oct 22), [sub-processor list](pages/openai.com/policies/sub-processor-list/index.md) (Oct 14, adds regional API endpoints), and [Supplier Code of Conduct](pages/openai.com/policies/supplier-code/index.md) (fully rewritten; last updated 2023 → Oct 15, 2026) also changed.
+- **[Business pricing](pages/openai.com/business/pricing/index.md):** GPT-6.1 Sol/Astra/Sol "Flexible" pricing; "**starting in December, plan usage will have a shared limit across all of ChatGPT and Codex**".
+- **[Codex](pages/openai.com/codex/index.md):** hero now "Build anything with Codex" with Plus $20 / Pro $100 plan cards.
+- **[Release notes](pages/openai.com/products/release-notes/index.md):** Oct 30 — GPT-6 Rosalind Research (life-sciences, trusted access) in Work, Codex and the API.
+- **[Trust & Transparency](pages/openai.com/trust-and-transparency/index.md):** new Jan–Jun 2026 government-request numbers (one count 224 → 620).
+- **Legacy-model retirement notices** added to the o1, o1-mini, o3-mini, o3/o4-mini posts (o1-preview/o1-mini retired in API; o3/o4-mini gone from ChatGPT, deprecated in API).
+- **[/solutions/](pages/openai.com/solutions/index.md):** reorganized into Teams + Industries (Cybersecurity, Financial services, Healthcare), plus a Legal page. [WebMCP Challenge](pages/openai.com/webmcp-challenge/index.md) turned into a winners showcase.
+- ~1,150 other pages: only footer links and "latest posts" carousels changed.
+
+### Removed pages
+
+14 removed; several look like renames: `/business/partners/pathfindr/` → `affinda/` ("formerly Pathfindr"); `plugins/atlassian-rovo/` → `atlassian/`; `plugins/wordpress-com/` + `mcp-server-for-wordpress/` → `wordpress/`; `plugins/oracle-analytics/` → `oracle-analytics-cloud/`; `/economic-research-exchange/` → `/economic-research-collaborators/`. Dropped with no obvious successor: partner pages for Canva, Dropbox, Gusto, HubSpot, QuickBooks, Stripe; `/form/ultrafast/`; `/prism/`. Last snapshots remain in git history.
+
+_Stats: 2119 total URLs | 148 added | 1733 updated | 14 removed | 309 anomaly records (59 future-lastmod, 28 backdated, 3 reappeared, 219 migrations) | 43 sub-sitemaps_
+
+---
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

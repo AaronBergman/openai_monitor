@@ -26,95 +26,139 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Unlocking real-time, human-like conversations with GPT-4o 
+October 27, 2026
 
-  * Unlocking real-time, human-like conversations with GPT-4o 
-  * Choosing GPT-4o, GPT-4.1 for precision at speed
-  * Automating the full customer conversation lifecycle with OpenAI
+# Retell uses OpenAI models to help power 100M monthly calls
 
+GPT‑6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.
 
+[Start building(opens in a new window)](</startups>)
 
-June 26, 2025
+![Retell logo on blue acoustic fabric.](https://images.ctfassets.net/kftzwdyauwt9/4L0pMzbHVkkVqM5P7aIaPg/1da3012ed5bc285a75d2e2f497ffa5cc/retell-ai-customer-story-card-acoustic-fabric.png?w=3840&q=90&fm=webp)
 
-# Retell AI makes voice agent automation customizable and code-free with GPT‑4o
+Company size: Startup
 
-And reduces call handling costs by up to 80%.
+Region: North America
 
-![Retell AI logo with white text and icon on a blue background with raised circular patterns.](https://images.ctfassets.net/kftzwdyauwt9/pv11mUophxvLiqGP5IRbJ/86bc1c6abdbe1ad91fe1f0d7f14d883c/oai_RetellAI_hero_16x9__1_.png?w=3840&q=90&fm=webp)
+Industry: Technology
+
+Products: API, Codex
+
+100M+
+
+Monthly calls handled
+
+80%+
+
+Customer resolution rates
+
+1 trillion
+
+OpenAI tokens consumed
+
+$1.6M
+
+Annual revenue run rate per employee
 
 Loading…
 
 Share
 
-[ _Retell AI_ ⁠(opens in a new window)](<https://www.retellai.com/?gad_source=1&gad_campaignid=22631383658&gbraid=0AAAAA-CHgsazAH6JHNNQ8ohoOgs3s3mBc&gclid=Cj0KCQjwjdTCBhCLARIsAEu8bpKzcNyAA8yOYow_kv72pXycA5Z5PmHddQZYMwnwa4HWub73Id8XMmYaAoAJEALw_wcB>) is rebuilding the call center from first principles. Instead of retrofitting legacy call scripting systems, they’ve created an AI-native, no-code platform that spins up natural-sounding voice agents that can answer questions, schedule appointments, and resolve administrative issues—no hold music, scripting, or heavy engineering required. 
+Choosing OpenAI models for the demands of a live call
 
-This category of technology, known as voice automation, enables businesses to handle calls instantly, around the clock, while eliminating hold times, reducing operational costs, and improving customer satisfaction.
-
-By closely tracking OpenAI model releases and integrating them quickly, Retell can deliver new capabilities to customers within days. As co-founder and CTO Zexia Zhang explains, “Because the models keep getting better, our platform keeps getting better. We’re not just scaling faster, we’re tackling more complex problems with a simpler stack.”
-
-That approach is paying off: teams using Retell report up to 80% reductions in call handling costs, and Retell is seeing a high NPS of 90 across deployments. 
-
-## Unlocking real-time, human-like conversations with GPT‑4o 
-
-To enable natural conversations, Retell needed an AI provider that could move beyond scripted exchanges, something that could understand context, follow logic, and trigger the right actions in real-time. After evaluating multiple LLMs, OpenAI stood out for its precision and performance. 
-
-“OpenAI’s models strike the best balance of speed, reliability, and intelligence,” says Zhang. “When we tested function calling, GPT models were not only the most accurate, they were the fastest to respond. That level of performance is critical for real-world conversations.”
-
-Retell voice agents use function calling to schedule appointments, qualify leads, and resolve administrative issues. In each case, the model needs to reason across multiple turns of conversation and invoke the right API at the right time. 
-
-“It was the last missing piece of a great phone call,” Zhang adds. “With GPT‑4o, the agent finally acts like a human: it listens, reasons, and responds naturally.”
-
-Hear Retell AI in action: natural-sounding voice, low latency, and near-instant responses.
-
-## Choosing GPT‑4o, GPT‑4.1 for precision at speed
-
-GPT‑4o was a turning point: it enabled Retell to build dynamic conversation flows, like scheduling appointments, handling objections, and confirming details, without extensive prompt engineering or hardcoded logic. Instead of chaining together brittle instructions, manually managing context windows, or writing 3,000-token prompts for every use case, Retell’s customers can now define behavior through a simple UI. They write a high-level goal, select a few conditions or actions, and the model handles the rest. 
-
-“Typically, these workflows require lots of manual logic, fallback prompts, external memory, JSON enforcement,” says Bing Wu, Retell co-founder and CEO. “We used to spend weeks building workarounds. Now customers can go live in days.”
-
-OpenAI’s native function calling interface was another unlock. Competing models often required pieced-together solutions or custom schema enforcement. GPT‑4o provided a more natural, reliable interface and achieved a 70%+ success rate in multi-turn function calling, nearly double what Retell saw from alternatives, without careful prompting, relying solely on the model’s understanding of the function descriptions.
-
-Retell also used GPT‑4o to launch entire new capabilities like:
-
-  * Post-call analysis and outcome evaluation
-  * Configurable agent workflows with minimal prompt engineering
-  * Dynamic conversation flows like rebuttals and multi-slot appointment booking
+  * Choosing OpenAI models for the demands of a live call
+  * Resolving more than 80% of customer requests with agents
+  * Keeping calls responsive as volume grows
+  * Using Codex to research, build, and debug
+  * Putting customer expertise to work
 
 
 
-All of this was built and shipped with a lean team of 11 and made accessible to Retell’s customers without requiring complex setup. With GPT‑4o, Retell moved quickly from idea to production-ready agents that could handle real-world conversations.
-
-That speed hasn’t let up. Retell continues to integrate OpenAI’s newest models, including GPT‑4.1, to extend what their agents can do. Each release brings new opportunities: more responsive behavior, tighter CRM integrations, and smarter workflows, all delivered to customers in a matter of days.
-
-## Automating the full customer conversation lifecycle with OpenAI
-
-Retell’s lean, model-native approach is now powering the full lifecycle of voice automation, from answering the call to measuring its outcome. And they’re seeing real results: 
-
-  * Up to 80% reduction in call handling costs 
-  * 24/7 availability with CSAT scores of 85%+, matching or exceeding human agents
-  * 85-90% success rate in qualified call transfers
-  * $14M in revenue within 16 months of launching 
-  * 25% average month-over-month growth
+  * Choosing OpenAI models for the demands of a live call
+  * Resolving more than 80% of customer requests with agents
+  * Keeping calls responsive as volume grows
+  * Using Codex to research, build, and debug
+  * Putting customer expertise to work
 
 
 
-![Bar chart showing performance gains with RetellAI across categories on a light background.](https://images.ctfassets.net/kftzwdyauwt9/5wcLVYy2WBWP1bobyGsel7/0cf27c12658ffb2b51ffefd685474f5a/OAI_RetellAI_Chart_Light-Desktop__1_.svg?w=3840&q=90)
+[Retell AI⁠(opens in a new window)](<https://www.retellai.com/>) is a voice AI platform for contact center operations, helping businesses build agents that can answer questions, take action, and connect a caller with a person when needed. Its platform now serves more than 4,000 businesses, with monthly call volume growing from 30 million in early 2026 to more than 100 million by September.
 
-With every new model release, like GPT‑4.1, Retell unlocks new functionality like more advanced conversation flows, intelligent warm transfers or escalations to human agents, a more powerful dialer, deeper CRM integrations, real-time analytics, smarter call scoring and quality assurance (QA). All of it is built into an intuitive platform that lets teams launch custom agents quickly and without adding operational overhead.
+As Retell serves more enterprises with complex workflows, it uses OpenAI models to keep call quality and reliability high. Today, OpenAI models generate responses for 80% of calls on Retell, with customers achieving resolution rates above 80%. Retell has also surpassed 1 trillion tokens consumed across OpenAI models, reflecting the scale of that adoption.
 
-“We’re not just building agents anymore,” says Zhang. “We’re building infrastructure for the future of customer conversations.”
+Retell’s engineers use Codex throughout development, from researching unfamiliar code to building features and debugging issues, and GPT‑6 Astra to test front-end interfaces.
 
-## Interested in learning more about ChatGPT for business?
+> “We choose models the way our customers choose vendors: on real calls, not demos. OpenAI keeps earning its spot.”
 
-[Talk with our team](</contact-sales/>)
+—Bing Wu, Co-founder and CEO, Retell AI
+
+## Choosing OpenAI models for the demands of a live call
+
+Enterprise voice agents need to follow company policies and stay within their assigned roles, even as conversations change. Retell built its vCX benchmark to compare dozens of models using difficult, multi-turn conversations drawn from real production scenarios.
+
+It tests how well models follow instructions, stay grounded in the information they are given, call the right tools, and use natural conversational language. In Retell’s October 13, 2026 benchmark, GPT‑6 Astra ranked first for instruction following at 89.7%.
+
+Source: bench.retellai.com · October 13, 2026 · All providers · “None/low” reasoning · Fast variants excluded
+
+Retell also shared evaluations conducted before the launch of the GPT‑6 Astra model that showed GPT‑5.5 ranking highest among models on both non-hallucination rate (88.0%) and tool-call correctness (88.3%) with reasoning enabled, outperforming Gemini‑3.1‑Pro and Claude‑4.6 on both measures. It also led on non-hallucination rate with reasoning off.
+
+Retell says new customers who choose OpenAI models continue using them. Customers also have access to OpenAI Realtime models through the Realtime API and OpenAI text-to-speech as a voice engine. Retell makes new OpenAI models available the day they launch and reruns its benchmark as models improve.
+
+## Resolving more than 80% of customer requests with agents
+
+Contact center teams use Retell to define their agents’ business context, goals, and rules. Developers can further configure workflows and integrations.
+
+During a call, Retell’s harness runs the audio models, tracks the conversation, and manages when the agent speaks, listens, or responds to interruptions. OpenAI models, including GPT‑6.1 Sol, GPT‑6 Astra, and GPT‑5.5, use the customer’s instructions and conversation context to generate responses and request tool calls. Retell executes those calls through integrations with the customer’s systems and can write outcomes back to a customer record.
+
+When human judgment is needed, the voice agent briefs the representative with context, answers their follow-up questions, and confirms they are ready before connecting the customer. After a call, Retell uses GPT‑5.6 Terra to analyze the transcript and extract outcomes and other data.
+
+![Diagram showing how Retell uses OpenAI models during a customer call, connecting live audio, conversation state, context, tools, and customer systems.](https://images.ctfassets.net/kftzwdyauwt9/5jwXY5fNsxAACfHrYAiPGt/5d702045aa6b1ae3cd2e64df003dd62c/retell-ai-call-architecture-diagram.png?w=3840&q=90&fm=webp)
+
+With this approach, Retell reports customer resolution rates above 80%. At electronics company Anker, agents handle Tier‑1 post-sales support in the US and UK, including order tracking, warranty checks, and troubleshooting. Anker reported an 80.4% case resolution rate and a Net Promoter Score (NPS) of 63. Its team also said the agents’ tone, pacing, and warmth met the standard they expected of a human agent.
+
+At Pine Park Health, Retell agents handle appointment reminders and proactive scheduling and record the outcomes in patients’ medical charts. The team recovered medical-assistant time equivalent to 2.1 full-time roles and redirected it to patient care. Its scheduling agent achieved a 55.7% booking rate when it reached a patient.
+
+## Keeping calls responsive as volume grows
+
+Daytime traffic on Retell’s platform can reach more than 50 times its overnight low. To help keep calls responsive even at peak demand, Retell uses dedicated servers with OpenAI, shared across its customers. In Retell’s October 13, 2026 benchmark, GPT‑6 Astra and GPT‑6 Sol each recorded median first-sentence latency of 883 milliseconds, with GPT‑5.6 Luna ranking highest at 497 milliseconds.
+
+OpenAI’s regional API endpoints allow developers to route traffic to specific geographic regions, which helps Retell reduce network travel time and meet customers’ data residency requirements in industries such as healthcare and financial services.
+
+Retell also builds redundancy into each layer of the service. It runs its own telephony stack with a second stack ready to take over, along with backups for voice and model services, to help keep calls running when a service fails.
+
+## Using Codex to research, build, and debug
+
+As Retell’s enterprise growth brings more requests for custom workflows and integrations, its engineers often need to work in unfamiliar parts of the codebase. Before writing code, they give Codex a high-level requirement. Codex surveys the code, checks it against actual data, and explains what needs to change. One engineer said Codex did this research better and much faster than he could.
+
+During implementation, engineers say Codex often catches details they had not considered. For debugging, Codex cross-references logs and database records with the code to investigate what is happening. Retell’s engineers also use Codex in their work with customers building on OpenAI models to speed up tasks such as writing the instructions that guide how a model responds in a customer’s application.
+
+To test changes to its web interface, Retell relies on GPT‑6 Astra’s computer use. When an engineer opens a front-end pull request, GPT‑6 Astra opens the interface, clicks through it, tests flows, tries to break them, and reports the issues it finds. Retell says earlier models could not perform this work reliably.
+
+Retell continues to hire, but its engineering team hasn’t needed to grow at the same pace as the business. Retell reports $1.6 million in annual revenue run rate per employee.
+
+> “By using Codex, the engineering team has a virtual teammate that can pair with them on any kind of difficult task.”
+
+—Bing Wu, Co-founder and CEO, Retell AI
+
+## Putting customer expertise to work
+
+Every business knows how it wants to serve its customers. Retell’s goal is to let the people closest to that work apply their expertise directly, using advanced voice AI and a platform that lets them build, test, and improve their own agents. Next, Retell plans to expand quality assurance and simulation, support more languages, and develop knowledge base auto-learning.
+
+As OpenAI models continue to advance, Retell expects its customers to deliver world-class service to millions of callers, on their own terms.
+
+“No one knows a company’s customers better than the company itself. We give them the power to act on that expertise and improve AI agents directly. The goal is for them to build an in-house team of internally deployed engineers who own and run it all,” says Bing.
+
+## OpenAI <3 startups
+
+[Join the community](</leads/startup/>)[Start building(opens in a new window)](</startups>)
 
 ## Keep reading
 
-![Unify cover image](https://images.ctfassets.net/kftzwdyauwt9/4Zk21VkqRdhQg95kIcrmKc/9a51d3c304e36df765c60d834f6c8552/oai_unify_hero_1x1.png?w=3840&q=90&fm=webp)
+![Unify logo in white against a backdrop of dandelion seed heads](https://images.ctfassets.net/kftzwdyauwt9/4Zk21VkqRdhQg95kIcrmKc/9a51d3c304e36df765c60d834f6c8552/oai_unify_hero_1x1.png?w=3840&q=90&fm=webp)
 
 [Driving scalable growth with OpenAI o3, GPT-4.1, and CUAJun 24, 2025](</index/unify/>)
 
-![Wix cover image](https://images.ctfassets.net/kftzwdyauwt9/6E3QyNLzuWwK3EGBHPw7nQ/fbd0c5a34cc4f4ba096028adbdda8934/oai_Wix_1x1.png?w=3840&q=90&fm=webp)
+![White Wix logo on a background of blue and green paint swathes](https://images.ctfassets.net/kftzwdyauwt9/6E3QyNLzuWwK3EGBHPw7nQ/fbd0c5a34cc4f4ba096028adbdda8934/oai_Wix_1x1.png?w=3840&q=90&fm=webp)
 
 [Creating websites in minutes with AI Website BuilderMay 29, 2025](</index/wix/>)
 
@@ -132,9 +176,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -153,7 +198,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -171,14 +217,17 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -197,6 +246,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -204,6 +254,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

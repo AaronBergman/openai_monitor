@@ -387,17 +387,17 @@ Curious to see the Codex sandbox in action? [_Try it out_ ⁠](<https://openai.c
 
 [View all](</news/>)
 
-![Scaling Storage for 1 Billion ChatGPT Users \(Part I\) card image](https://images.ctfassets.net/kftzwdyauwt9/2X23NOb0P4V1KDzUBkeNpl/888204b45a1c84ddfa24c9ed31111a9c/OAI_HabitatPT1_Art_Card_1x1.png?w=3840&q=90&fm=webp)
+![Scaling Git at OpenAI — art card](https://images.ctfassets.net/kftzwdyauwt9/6G64B5haCxDuphl2iqwZ1N/4f8d319293f5e5e98b319e01b4fbdf59/scaling-git-at-openai-art-card.png?w=3840&q=90&fm=webp)
 
-[Rapidly scaling online storage to serve over 1 billion ChatGPT usersEngineeringSep 11, 2026](</index/scaling-storage-one-billion-users-part-one/>)
+[Scaling Git at OpenAIEngineeringNov 2, 2026](</index/scaling-git-at-openai/>)
 
-![Daybreak for Critical Infrastructure — cover](https://images.ctfassets.net/kftzwdyauwt9/3iCwHSjR2bfJPdDiWomsis/86d511413c2b0338bd211b41545be495/Option_65___1080_1080.png?w=3840&q=90&fm=webp)
+![Preparing our next security sprint to harden OpenAI — Cover](https://images.ctfassets.net/kftzwdyauwt9/7u6rk94yLviNcTzUzcsqCY/fbb0fc303e3289c62dd27d1679cac86d/preparing-our-next-security-sprint-to-harden-openai-cover.png?w=3840&q=90&fm=webp)
 
-[Daybreak for Frontline DefendersSecuritySep 3, 2026](</index/daybreak-for-frontline-defenders/>)
+[Preparing our next security sprint to harden OpenAISecurityNov 2, 2026](</index/preparing-our-next-security-sprint-to-harden-openai/>)
 
-![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
+![Rewarding defenders with bigger bug bounties — Cover](https://images.ctfassets.net/kftzwdyauwt9/6Z34J1fph8Xf0II1ZD7Uyu/da22206f343ac07d547ba09b94ac3a9c/rewarding-defenders-with-bigger-bug-bounties-cover.png?w=3840&q=90&fm=webp)
 
-[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
+[Rewarding defenders with bigger bug bountiesSecurityNov 2, 2026](</index/rewarding-defenders-with-bigger-bug-bounties/>)
 
 Research
 
@@ -409,10 +409,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -431,7 +431,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -458,8 +459,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -478,6 +479,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
