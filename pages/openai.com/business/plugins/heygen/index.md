@@ -45,31 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.heygen.com>)
 
-[![](https://files.openai.com/content?id=file_000000003c1c720c8f809d5658c47657&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d45689d76f7c53e3f56e27c79c7b2be2f226f7bb6da11fd3b1e34496a680ca39&v=0)HeyGen I’m a realtor. Generate a video using my content to promote my new offering.(opens in a new window)](<https://chatgpt.com/?prompt=%40HeyGen+I%E2%80%99m+a+realtor.+Generate+a+video+using+my+content+to+promote+my+new+offering.>)
+[![](https://files.openai.com/content?id=file_00000000ed6081f7af8f87d976bd3b8b&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=61f1dd7c7c341ee00b72c3183176782f9e88b43eb514279b72bf0a3ec04e3237&v=0)HeyGen Create a 5-second landscape AI video of ocean waves at sunset using HeyGen Video 1.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69418aad55e08191aa5e437b649ca2e4?install&prompt=Create%20a%205-second%20landscape%20AI%20video%20of%20ocean%20waves%20at%20sunset%20using%20HeyGen%20Video%201.>)
 
 ## How it works
 
-HeyGen helps users create and manage AI videos, avatars, voices, translations, templates, brand assets, and related media directly through ChatGPT.
+Create talking-avatar videos from your script or general AI clips with HeyGen Video 1 using text, images, or references. On supported hosts, new clips open an inline player while generating and update to playback when ready. Browse and manage HeyGen videos, avatars, voices, translations, templates and brand assets through your connected account. Features depend on permissions and entitlements; generation uses your HeyGen allowance. Avatar and voice creation require the appropriate rights and consent.
 
 ## What else can you do?
 
   * ### Explain a product
 
-![](https://files.openai.com/content?id=file_000000003c1c720c8f809d5658c47657&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d45689d76f7c53e3f56e27c79c7b2be2f226f7bb6da11fd3b1e34496a680ca39&v=0)HeyGen Turn this product brief into a 60-second narrated explainer. Focus on the problem, the supported benefit, and one call to action. Use only the claims in the brief.
+![](https://files.openai.com/content?id=file_00000000ed6081f7af8f87d976bd3b8b&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=61f1dd7c7c341ee00b72c3183176782f9e88b43eb514279b72bf0a3ec04e3237&v=0)HeyGen Turn this product brief into a 60-second narrated explainer. Focus on the problem, the supported benefit, and one call to action. Use only the claims in the brief.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HeyGen+Turn+this+product+brief+into+a+60-second+narrated+explainer.+Focus+on+the+problem%2C+the+supported+benefit%2C+and+one+call+to+action.+Use+only+the+claims+in+the+brief.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69418aad55e08191aa5e437b649ca2e4?install&prompt=Turn%20this%20product%20brief%20into%20a%2060-second%20narrated%20explainer.%20Focus%20on%20the%20problem%2C%20the%20supported%20benefit%2C%20and%20one%20call%20to%20action.%20Use%20only%20the%20claims%20in%20the%20brief.&surface=work>)
 
   * ### Create an onboarding video
 
-![](https://files.openai.com/content?id=file_000000003c1c720c8f809d5658c47657&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d45689d76f7c53e3f56e27c79c7b2be2f226f7bb6da11fd3b1e34496a680ca39&v=0)HeyGen Create a two-minute onboarding video from these instructions. Keep the sequence clear, explain unfamiliar terms, and use the supplied company information.
+![](https://files.openai.com/content?id=file_00000000ed6081f7af8f87d976bd3b8b&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=61f1dd7c7c341ee00b72c3183176782f9e88b43eb514279b72bf0a3ec04e3237&v=0)HeyGen Create a two-minute onboarding video from these instructions. Keep the sequence clear, explain unfamiliar terms, and use the supplied company information.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HeyGen+Create+a+two-minute+onboarding+video+from+these+instructions.+Keep+the+sequence+clear%2C+explain+unfamiliar+terms%2C+and+use+the+supplied+company+information.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69418aad55e08191aa5e437b649ca2e4?install&prompt=Create%20a%20two-minute%20onboarding%20video%20from%20these%20instructions.%20Keep%20the%20sequence%20clear%2C%20explain%20unfamiliar%20terms%2C%20and%20use%20the%20supplied%20company%20information.&surface=work>)
 
   * ### Present a project update
 
-![](https://files.openai.com/content?id=file_000000003c1c720c8f809d5658c47657&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d45689d76f7c53e3f56e27c79c7b2be2f226f7bb6da11fd3b1e34496a680ca39&v=0)HeyGen Create a 90-second narrated video from this project update. Highlight completed work, the next milestone, and the decision needed from the audience.
+![](https://files.openai.com/content?id=file_00000000ed6081f7af8f87d976bd3b8b&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=61f1dd7c7c341ee00b72c3183176782f9e88b43eb514279b72bf0a3ec04e3237&v=0)HeyGen Create a 90-second narrated video from this project update. Highlight completed work, the next milestone, and the decision needed from the audience.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HeyGen+Create+a+90-second+narrated+video+from+this+project+update.+Highlight+completed+work%2C+the+next+milestone%2C+and+the+decision+needed+from+the+audience.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69418aad55e08191aa5e437b649ca2e4?install&prompt=Create%20a%2090-second%20narrated%20video%20from%20this%20project%20update.%20Highlight%20completed%20work%2C%20the%20next%20milestone%2C%20and%20the%20decision%20needed%20from%20the%20audience.&surface=work>)
 
 
 
@@ -82,13 +82,19 @@ HeyGen helps users create and manage AI videos, avatars, voices, translations, t
 
 
 
+### Skill
+
+  * heygen-workflows
+
+
+
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.heygen.com/en/>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.heygen.com/en/>)
 
-### [Privacy policyLearn more](<https://www.heygen.com/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.heygen.com/privacy>)
 
 ## Add the HeyGen plugin in a few clicks
 
@@ -98,13 +104,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_00000000ffac722f987914a6f7db710b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=26b2c9500db3c7de3659e1e158826d1ced4806f01d50f831132375e3b497a249&v=0)![](https://files.openai.com/content?id=file_00000000aa0081f79505b7d543758347&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=73f24d3e0b666fdb3c380b13bb034ddd67e0e42a39ef70031b8401cfe081741c&v=0)CloudinaryManage, modify, and host your images and videos.](</business/plugins/cloudinary/>)[![](https://files.openai.com/content?id=file_00000000bf2071f6ac92ead34c675786&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=7&sig=f0eaabc4f3b77e5ec5b324d6dc962d6af5ea86541b35ed5ded7fcf21c04ef623&v=0)![](https://files.openai.com/content?id=file_00000000bf2071f6ac92ead34c675786&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=7&sig=f0eaabc4f3b77e5ec5b324d6dc962d6af5ea86541b35ed5ded7fcf21c04ef623&v=0)AI Voice GeneratorCreate AI voiceovers](</business/plugins/ai-voice-generator/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages.](</business/plugins/slack/>)
+[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_00000000ffac722f987914a6f7db710b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=26b2c9500db3c7de3659e1e158826d1ced4806f01d50f831132375e3b497a249&v=0)![](https://files.openai.com/content?id=file_00000000aa0081f79505b7d543758347&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=73f24d3e0b666fdb3c380b13bb034ddd67e0e42a39ef70031b8401cfe081741c&v=0)CloudinaryManage, modify, and host your images and videos](</business/plugins/cloudinary/>)[![](https://files.openai.com/content?id=file_00000000bf2071f6ac92ead34c675786&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=7&sig=f0eaabc4f3b77e5ec5b324d6dc962d6af5ea86541b35ed5ded7fcf21c04ef623&v=0)![](https://files.openai.com/content?id=file_00000000bf2071f6ac92ead34c675786&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=7&sig=f0eaabc4f3b77e5ec5b324d6dc962d6af5ea86541b35ed5ded7fcf21c04ef623&v=0)AI Voice GeneratorCreate AI voiceovers](</business/plugins/ai-voice-generator/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages](</business/plugins/slack/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +132,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +154,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +182,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +202,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

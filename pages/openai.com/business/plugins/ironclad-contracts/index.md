@@ -32,7 +32,7 @@ OpenAI
 
 # Ironclad Contracts
 
-Plain language search for faster contract answers
+Plain language search for fast
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69f0f2e2c7708191b18a9940856fa450>)[Contact sales](</contact-sales/>)
 
@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://ironcladapp.com>)
 
-[![](https://files.openai.com/content?id=file_00000000ab2c81f79ce02f9c44c322c0&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=333f73af42c9a5ef26ac6369d04ef09dbc01a2493291d7356442bcb088eee905&v=0)![](https://files.openai.com/content?id=file_00000000a46c81f79ebe5f831e1439f7&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=67b1dd8d2d5cd61a8838bd32a112ca2cd2e70ead646f287dcce6f68c14d58e73&v=0)Ironclad Contracts What type of agreements do we have with Potrero Labs?(opens in a new window)](<https://chatgpt.com/?prompt=%40Ironclad+Contracts+What+type+of+agreements+do+we+have+with+Potrero+Labs%3F>)
+[![](https://files.openai.com/content?id=file_00000000ab2c81f79ce02f9c44c322c0&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=333f73af42c9a5ef26ac6369d04ef09dbc01a2493291d7356442bcb088eee905&v=0)![](https://files.openai.com/content?id=file_00000000a46c81f79ebe5f831e1439f7&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=67b1dd8d2d5cd61a8838bd32a112ca2cd2e70ead646f287dcce6f68c14d58e73&v=0)Ironclad Contracts What type of agreements do we have with Potrero Labs?(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69f0f2e2c7708191b18a9940856fa450?install&prompt=What%20type%20of%20agreements%20do%20we%20have%20with%20Potrero%20Labs%3F>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Ironclad's MCP server lets ChatGPT search your contract repository and workflows
 
 ![](https://files.openai.com/content?id=file_00000000ab2c81f79ce02f9c44c322c0&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=333f73af42c9a5ef26ac6369d04ef09dbc01a2493291d7356442bcb088eee905&v=0)![](https://files.openai.com/content?id=file_00000000a46c81f79ebe5f831e1439f7&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=67b1dd8d2d5cd61a8838bd32a112ca2cd2e70ead646f287dcce6f68c14d58e73&v=0)Ironclad Contracts Find MSAs expiring in the next 90 days. Summarize counterparties, expiration dates, and renewal terms; flag agreements needing attention first and link to the source contracts.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Ironclad+Contracts+Find+MSAs+expiring+in+the+next+90+days.+Summarize+counterparties%2C+expiration+dates%2C+and+renewal+terms%3B+flag+agreements+needing+attention+first+and+link+to+the+source+contracts.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69f0f2e2c7708191b18a9940856fa450?install&prompt=Find%20MSAs%20expiring%20in%20the%20next%2090%20days.%20Summarize%20counterparties%2C%20expiration%20dates%2C%20and%20renewal%20terms%3B%20flag%20agreements%20needing%20attention%20first%20and%20link%20to%20the%20source%20contracts.&surface=work>)
 
   * ### Compare vendor exit terms
 
 ![](https://files.openai.com/content?id=file_00000000ab2c81f79ce02f9c44c322c0&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=333f73af42c9a5ef26ac6369d04ef09dbc01a2493291d7356442bcb088eee905&v=0)![](https://files.openai.com/content?id=file_00000000a46c81f79ebe5f831e1439f7&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=67b1dd8d2d5cd61a8838bd32a112ca2cd2e70ead646f287dcce6f68c14d58e73&v=0)Ironclad Contracts Find vendor agreements with termination for convenience clauses. Compare notice periods and any stated fees, cite the relevant language, and flag missing details for review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Ironclad+Contracts+Find+vendor+agreements+with+termination+for+convenience+clauses.+Compare+notice+periods+and+any+stated+fees%2C+cite+the+relevant+language%2C+and+flag+missing+details+for+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69f0f2e2c7708191b18a9940856fa450?install&prompt=Find%20vendor%20agreements%20with%20termination%20for%20convenience%20clauses.%20Compare%20notice%20periods%20and%20any%20stated%20fees%2C%20cite%20the%20relevant%20language%2C%20and%20flag%20missing%20details%20for%20review.&surface=work>)
 
   * ### Review the DPA backlog
 
 ![](https://files.openai.com/content?id=file_00000000ab2c81f79ce02f9c44c322c0&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=333f73af42c9a5ef26ac6369d04ef09dbc01a2493291d7356442bcb088eee905&v=0)![](https://files.openai.com/content?id=file_00000000a46c81f79ebe5f831e1439f7&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=67b1dd8d2d5cd61a8838bd32a112ca2cd2e70ead646f287dcce6f68c14d58e73&v=0)Ironclad Contracts Find data processing addendums currently in review. Group them by workflow stage, list available owner and date information, and flag records needing follow-up without inferring missing details.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Ironclad+Contracts+Find+data+processing+addendums+currently+in+review.+Group+them+by+workflow+stage%2C+list+available+owner+and+date+information%2C+and+flag+records+needing+follow-up+without+inferring+missing+details.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69f0f2e2c7708191b18a9940856fa450?install&prompt=Find%20data%20processing%20addendums%20currently%20in%20review.%20Group%20them%20by%20workflow%20stage%2C%20list%20available%20owner%20and%20date%20information%2C%20and%20flag%20records%20needing%20follow-up%20without%20inferring%20missing%20details.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Ironclad's MCP server lets ChatGPT search your contract repository and workflows
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://support.ironcladapp.com/>)
+### [Plugin supportLearn more(opens in a new window)](<https://support.ironcladapp.com/>)
 
-### [Privacy policyLearn more](<https://legal.ironcladapp.com/#privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://legal.ironcladapp.com/#privacy-policy>)
 
 ## Add the Ironclad Contracts plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingBuild banking analysis and client-ready materials.](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_000000006e70720e8240729562593f87&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=881a44cfa311712291121e9cda4ef4b8d7fef216108a65296a5898c02d91507e&v=0)![](https://files.openai.com/content?id=file_00000000042c720882209039c0de8dbb&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=6488ddb504fdc95531899e70229555079be3267f213ba9f836a0a92bc39864a8&v=0)DocusignManage contracts from ChatGPT](</business/plugins/docusign/>)[![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)LegalQuants TransactionalContract and deal workflows](</business/plugins/legalquants-transactional/>)[![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)HarveyLegal intelligence from Harvey](</business/plugins/harvey/>)[![](https://files.openai.com/content?id=file_00000000cac4820d98ffabd82b64b5e5&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=9019336a1754b36e48a3e49d09d9596a8064a3f03a157f37e799e8bd45400599&v=0)![](https://files.openai.com/content?id=file_00000000cac4820d98ffabd82b64b5e5&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=9019336a1754b36e48a3e49d09d9596a8064a3f03a157f37e799e8bd45400599&v=0)NetDocumentsSearch and retrieve documents](</business/plugins/netdocuments/>)
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingM&A, valuation, and financing](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_000000006e70720e8240729562593f87&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=881a44cfa311712291121e9cda4ef4b8d7fef216108a65296a5898c02d91507e&v=0)![](https://files.openai.com/content?id=file_00000000042c720882209039c0de8dbb&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=6488ddb504fdc95531899e70229555079be3267f213ba9f836a0a92bc39864a8&v=0)DocusignManage contracts from ChatGPT](</business/plugins/docusign/>)[![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)![](https://files.openai.com/content?id=file_00000000d3b081f7a4bf049f53faf721&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=f46e2e0fba8286312a7946f0ca0388656a01d6836e19b8abb9a8d5c60758ad46&v=0)LegalQuants TransactionalContract and deal workflows](</business/plugins/legalquants-transactional/>)[![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)HarveyLegal intelligence from Harvey](</business/plugins/harvey/>)[![](https://files.openai.com/content?id=file_00000000cac4820d98ffabd82b64b5e5&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=9019336a1754b36e48a3e49d09d9596a8064a3f03a157f37e799e8bd45400599&v=0)![](https://files.openai.com/content?id=file_00000000cac4820d98ffabd82b64b5e5&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=9019336a1754b36e48a3e49d09d9596a8064a3f03a157f37e799e8bd45400599&v=0)NetDocumentsSearch and retrieve documents](</business/plugins/netdocuments/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

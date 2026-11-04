@@ -46,59 +46,59 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
-Publication
+Research
 
-Sep 23, 2026
+Nov 3, 2026
 
-[Introducing MentalHealthBenchMentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.](</index/introducing-mentalhealthbench/>)
-
-Product
-
-Sep 22, 2026
-
-[Introducing GPT-6 Sol and LunaMeet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.](</index/introducing-gpt-6-sol-and-luna/>)
-
-Product
-
-Sep 10, 2026
-
-[Build more natural voice experiences with GPT‑Live‑1 in the APIGPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.](</index/introducing-gpt-live-1-in-the-api/>)
+[Accelerating engineering for the physical worldDiscover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.](</index/accelerating-engineering-for-the-physical-world/>)
 
 Research
 
-Sep 8, 2026
+Nov 2, 2026
 
-[An OpenAI model proposes a solution to the Navier–Stokes problemWe’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.](</index/navier-stokes-solution/>)
-
-Research
-
-Sep 6, 2026
-
-[Research acceleration: The view inside OpenAIInside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.](</index/research-acceleration-view-inside-openai/>)
-
-Research
-
-Sep 3, 2026
-
-[GPT-6 Astra: A new generation of intelligenceIntroducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.](</index/gpt-6-astra/>)
-
-Safety
-
-Sep 3, 2026
-
-[GPT‑6 Astra System CardAstra is our first model to reach the Critical level of cybersecurity capability under our Preparedness Framework.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-6-astra>)
+[LifeValIntroducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.](</index/lifeval/>)
 
 Security
 
-Aug 26, 2026
+Oct 29, 2026
 
-[The Hugging Face incident and the road aheadOpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.](</index/hugging-face-incident-and-the-road-ahead/>)
+[How we detect frontier model misalignmentOpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.](</index/how-we-detect-frontier-model-misalignment/>)
 
-Company
+Product
 
-Aug 18, 2026
+Oct 26, 2026
 
-[Pacing model development in an era of cyber-critical capabilitiesOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.](</index/pacing-model-development-cyber-capabilities/>)
+[Introducing GPT-6.1 TerraDelivering fast and capable computer use at scale](</index/introducing-gpt-6-1-terra/>)
+
+Research
+
+Oct 26, 2026
+
+[Working with academic communities to build scientific understandingOpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.](</index/building-scientific-understanding-with-academic-communities/>)
+
+Publication
+
+Oct 26, 2026
+
+[Addendum to GPT‑6 Astra System Card: GPT‑6.1 TerraWe’re introducing GPT-6.1 Terra, the latest model in the GPT-6 series. GPT-6.1 Terra is a fast, efficient model for high-volume professional work, with strong image analysis and computer use capabilities. This system card addendum provides updates on the baseline safety metrics and evaluation results for GPT-6.1 Terra.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-6-1-terra>)
+
+Security
+
+Oct 23, 2026
+
+[Securing our frontier model training environmentOpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.](</index/securing-our-frontier-model-training-environment/>)
+
+Publication
+
+Oct 21, 2026
+
+[Using thousands of AI agents to uncover new leads in biological dataSee how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.](</index/scaling-ai-research-for-complex-biological-data/>)
+
+Publication
+
+Oct 19, 2026
+
+[Advancing coding in low‑resource programming languagesLearn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.](</index/low-resource-programming-languages/>)
 
 Load more
 
@@ -112,10 +112,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -134,7 +134,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -161,8 +162,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -181,6 +182,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
