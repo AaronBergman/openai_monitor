@@ -132,6 +132,10 @@ OpenAI
 
 [View all](</news/>)
 
+![OpenAI on OpenAI: Codex Ultrafast — Card](https://images.ctfassets.net/kftzwdyauwt9/4bQYxiQCMJ5XuEqGSqRYBQ/206357dfdf6f9a59b4cc75fdc7cf0028/oai-ultrafast-series-card-1600.png?w=3840&q=90&fm=webp)
+
+[How OpenAI uses Codex Ultrafast for faster incident responseOpenAI on OpenAIOct 26, 2026](</index/openai-cut-incident-investigation/>)
+
 ![OpenAI on OpenAI: User Support > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/76CnrtKKvngPIfdfXYcXG8/cb789b59d9f7dd8e3b385b532be76a77/oai_SupportAgent_1x1.png?w=3840&q=90&fm=webp)
 
 [Improving support with every interaction at OpenAIAPISep 29, 2025](</index/openai-support-model/>)
@@ -139,10 +143,6 @@ OpenAI
 ![OpenAI on OpenAI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/5gbagfbtROvYfi0cQlpEM3/89367ef5dca927d48e541f6f430ea212/oai_GC_1x1__1_.png?w=3840&q=90&fm=webp)
 
 [Building OpenAI with OpenAIChatGPTSep 29, 2025](</index/building-openai-with-openai/>)
-
-![OpenAI on OpenAI: Inbound sales > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/65JQ9iKWtF0yk3etmRSCWs/635e720abc85cd05a36811fe7c4bee14/oai_TailorAssist_1x1__1_.png?w=3840&q=90&fm=webp)
-
-[Converting inbound leads into customers at OpenAIAPISep 29, 2025](</index/openai-inbound-sales-assistant/>)
 
 Research
 
@@ -154,10 +154,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -176,7 +176,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -203,8 +204,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -223,6 +224,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -30,9 +30,9 @@ OpenAI
 
 OpenAI partners with campuses and countries to expand faculty and staff capacity, accelerate research, and enhance learning—so students aren’t just ready for the future, but prepared to shape it.
 
-[Contact sales](</contact-sales/>)[OpenAI for K12](<https://chatgpt.com/plans/k12-teachers/>)
+[Contact sales](</contact-sales/>)[OpenAI for K12(opens in a new window)](<https://chatgpt.com/plans/k12-teachers/>)
 
-Compare course offerings against the skills employers are hiring for.
+Compare course offerings against the skills employers are hiring for.Compare course offerings against the skills employers are hiring for.
 
 ![FPO placeholder image for the OpenAI for Education hero. Replace with final education-approved asset.](https://images.ctfassets.net/kftzwdyauwt9/4blIZ91XABVOSO73AnPR7S/2b8a857685a87397dac2e3336befb398/education-chart-2.1.png?w=3840&q=90&fm=webp)
 
@@ -156,6 +156,16 @@ See how OpenAI can help your institution seamlessly scale AI.
 
 [Contact sales](</contact-sales/>)[OpenAI for K12(opens in a new window)](<https://chatgpt.com/plans/k12-teachers/>)
 
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
+
 Research
 
   * [Research Index](</research/index/>)
@@ -166,10 +176,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -188,7 +198,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -215,8 +226,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -235,6 +246,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

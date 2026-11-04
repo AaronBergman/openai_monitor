@@ -104,24 +104,22 @@ We’ve included the game, as well as the prompt and skills used to create it, b
 
 7MM tokens800k tokens60k tokens
 
-The game was created by Codex with the develop-web-game skill using this prompt that we've summarized for clarity:
-
-Implement Voxel Velocity as a 3D voxel kart racer using Three.js, with exactly one mode: Single Race (always 3 laps, 1 human vs 7 CPU, and all 8 tracks available immediately with no progression). Build a minimal pre-race flow with only: Track (8), Character (8), Difficulty (Chill/Standard/Mean), optional Mirror Mode, optional Allow Clones, and Start Race, plus an Options menu and an in-race pause menu (Resume / Restart / Quit). Create an arcade driving model with responsive handling, forgiving glancing wall hits, meaningful drifting as the main skill, and a drift-charge system that produces exact boost tiers (Tier 1 0.7s, Tier 2 1.1s, Tier 3 1.5s) while keeping baseline speed “fast-but-readable” and pack passing constant on wide roads. Implement exactly 8 items with one-item capacity, subtle position-weighted distribution, and mild effects (max loss of control ≤1.2s, max steering disabled ≤0.6s) that create goofy chaos without hard stuns, plus off-road slowdowns that are reduced by 50% during boosts. Define the 8 characters with their given stats and AI tendencies, implement CPU difficulty presets and track-authored racing/variation splines, drift zones, and hazard avoidance so AI uses multi-lane width for clean overtakes, and ship HUD/audio essentials (position, lap/final lap banner, minimap, item slot, timer/splits, readable SFX, and one music loop per track).
-
-Codex was then continuously reprompted from a random list of ten generic prompts to keep working on the problem. An example of one of the prompts is:
-
-Your job is to add new features so the game matches the original more closely. First, play the game and identify what’s missing vs. the original. Then pick a few missing features and implement them. After each feature, thoroughly test it by playing the game and confirm it works. If you notice any bugs while playing, prioritize fixing them too.
-
 At OpenAI, we’ve built hundreds of skills internally to help multiple teams confidently delegate work to Codex that would otherwise be hard to define consistently—from running evals and babysitting training runs to drafting documentation and reporting on growth experiments.
 
 The Codex app includes a library of skills for tools and workflows that have become popular at OpenAI, with a few highlighted below. You can find the full list in the [open source repo⁠(opens in a new window)](<https://github.com/openai/skills>).
 
   * **Implement designs:** Fetch design context, assets, and screenshots from [Figma⁠(opens in a new window)](<https://github.com/openai/skills/blob/main/skills/.curated/figma-implement-design/SKILL.md>) and translate them into production-ready UI code with 1:1 visual parity.
+
   * **Manage projects:** Triage bugs, track releases, manage team workload, and more in [Linear⁠(opens in a new window)](<https://github.com/openai/skills/blob/main/skills/.curated/linear/SKILL.md>) to keep projects moving.
+
   * **Deploy to the cloud** : Have Codex deploy your web app creations to popular cloud hosts like [Cloudflare⁠(opens in a new window)](<https://github.com/openai/skills/blob/main/skills/.curated/cloudflare-deploy/SKILL.md>), [Netlify⁠(opens in a new window)](<https://github.com/openai/skills/blob/main/skills/.curated/netlify-deploy/SKILL.md>), [Render⁠(opens in a new window)](<https://github.com/openai/skills/blob/main/skills/.curated/render-deploy/SKILL.md>), and [Vercel⁠(opens in a new window)](<https://github.com/openai/skills/blob/main/skills/.curated/vercel-deploy/SKILL.md>).
+
   * **Generate images:** Use the [image generation skill⁠(opens in a new window)](<https://github.com/openai/skills/blob/main/skills/.curated/imagegen/SKILL.md>) powered by GPT Image to create and edit images to use in websites, UI mockups, product visuals, and game assets.
+
   * **Build with OpenAI APIs:**[ Reference up-to-date documentation⁠(opens in a new window)](<https://github.com/openai/skills/blob/main/skills/.curated/openai-docs/SKILL.md>) when building with OpenAI APIs. 
+
   * **Create documents:** A set of skills for reading, creating, and editing [PDF⁠(opens in a new window)](<https://github.com/openai/skills/blob/main/skills/.curated/pdf/SKILL.md>), [spreadsheet⁠(opens in a new window)](<https://github.com/openai/skills/blob/main/skills/.curated/spreadsheet/SKILL.md>), and [docx⁠(opens in a new window)](<https://github.com/openai/skills/blob/main/skills/.curated/doc/SKILL.md>) files with professional formatting and layouts.
+
 
 
 
@@ -177,17 +175,17 @@ OpenAI
 
 [View all](</news/>)
 
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
+![Sunlight illuminates Earth against a starry sky.](https://cdn.openai.com/mdx-assets/71f084db-a08b-48c5-b96e-5fbdc21a1a00/terra-art-card-1x1.9a2f828b.png)
 
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
+[Introducing GPT-6.1 TerraProductOct 26, 2026](</index/introducing-gpt-6-1-terra/>)
 
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
+![Build more responsive apps with the Decisions API — Cover](https://images.ctfassets.net/kftzwdyauwt9/6E0HwFxJrpWOEiFct0ZfQE/bb595e7e6ab06dfd2c953cb915c8f89a/build-more-responsive-apps-with-the-decisions-api-cover.png?w=3840&q=90&fm=webp)
 
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
+[Build more responsive apps with the Decisions APIProductOct 22, 2026](</index/decisions-api/>)
 
-![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
+![Patch the Planet: scaling a global response to critical vulnerabilities — Cover](https://images.ctfassets.net/kftzwdyauwt9/6PyrqMoyS15mNPtg8awwZn/30ddc462153abdeacf59376e741713db/patch-the-planet-scaling-a-global-response-to-critical-vulnerabilities-cover.png?w=3840&q=90&fm=webp)
 
-[Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
+[Patch the Planet: global response coordination as agents uncover critical vulnerabilitiesSecurityOct 21, 2026](</index/coordinated-disclosure-of-critical-vulnerabilities/>)
 
 Research
 
@@ -199,9 +197,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -220,7 +219,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -238,6 +238,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -246,8 +247,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -266,6 +267,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -293,3 +295,11 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+The game was created by Codex with the develop-web-game skill using this prompt that we've summarized for clarity:
+
+Implement Voxel Velocity as a 3D voxel kart racer using Three.js, with exactly one mode: Single Race (always 3 laps, 1 human vs 7 CPU, and all 8 tracks available immediately with no progression). Build a minimal pre-race flow with only: Track (8), Character (8), Difficulty (Chill/Standard/Mean), optional Mirror Mode, optional Allow Clones, and Start Race, plus an Options menu and an in-race pause menu (Resume / Restart / Quit). Create an arcade driving model with responsive handling, forgiving glancing wall hits, meaningful drifting as the main skill, and a drift-charge system that produces exact boost tiers (Tier 1 0.7s, Tier 2 1.1s, Tier 3 1.5s) while keeping baseline speed “fast-but-readable” and pack passing constant on wide roads. Implement exactly 8 items with one-item capacity, subtle position-weighted distribution, and mild effects (max loss of control ≤1.2s, max steering disabled ≤0.6s) that create goofy chaos without hard stuns, plus off-road slowdowns that are reduced by 50% during boosts. Define the 8 characters with their given stats and AI tendencies, implement CPU difficulty presets and track-authored racing/variation splines, drift zones, and hazard avoidance so AI uses multi-lane width for clean overtakes, and ship HUD/audio essentials (position, lap/final lap banner, minimap, item slot, timer/splits, readable SFX, and one music loop per track).
+
+Codex was then continuously reprompted from a random list of ten generic prompts to keep working on the problem. An example of one of the prompts is:
+
+Your job is to add new features so the game matches the original more closely. First, play the game and identify what’s missing vs. the original. Then pick a few missing features and implement them. After each feature, thoroughly test it by playing the game and confirm it works. If you notice any bugs while playing, prioritize fixing them too.

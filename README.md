@@ -1,5 +1,49 @@
 # openai_monitor
 
+## 2026-11-04T09-17Z
+
+**Fetch time:** 2026-11-04T09:17Z (sitemap + 1,886 pages) UTC | **Baseline:** 2026-09-28T09-17Z (**37-day gap — the monitor did not run Sep 29–Nov 3**)
+
+**TL;DR:** After a five-week blackout in this log, a lot piled up: 152 new pages, 14 removed, and nearly every page re-stamped. The headlines on openai.com: **GPT-6.1 Sol and GPT-6.1 Terra** launched (cheaper, near-flagship models; Terra featured on the homepage since Oct 26), **GPT-6 was rolled out to all ChatGPT users** with "Intelligent UI", the **Decisions API** went GA, and OpenAI announced **Google Cloud distribution** of its models, an **Oracle apps-in-ChatGPT** deal, and the **acquisition of Orchestra Bio** (life sciences, tied to the Rosalind models). There is a big **security/safety content push** (a disrupted model-distillation campaign, "Patch the Planet" vulnerability coordination, bigger bug bounties, training-environment hardening, Daybreak customer stories), a push on **ChatGPT ads** (26 more countries, 100k+ advertisers), new **Private Intelligence** and **Forward Deployed Engineering** enterprise pages, and new hires (Jill Hazelbaker, Dan Driscoll). Legal pages shifted too: **new Usage Policies take effect Nov 20, 2026**.
+
+### Anomalies
+
+- **Monitoring gap:** 37 days between runs; first_seen dates for this batch are Nov 4, not true publish dates.
+- **Future-dated `<lastmod>` ×52:** all within ~23 s after our fetch — sitemap stamps "now" for pages being regenerated live; likely harmless.
+- **"Backdated" new URLs ×38:** artifact of the gap (lastmods Oct 9–31). Of note, `/devday/2026/` appeared Oct 31 — a post-DevDay (Sep 29) landing page.
+- **Reappeared ×3:** `/business/plugins/alpaca/`, `/form/codex-ambassadors/`, `/policies/row-privacy-policy/`.
+- **Sub-sitemap migrations ×19:** content moved into `learn-guides`, `learn-webinars`, and `global-affairs-news-listed`; one influence-ops post moved `global-affairs` → `safety`.
+- **Future-effective policy:** Usage Policies published with an effective date 16 days ahead.
+
+Full detail in [`runs/2026-11-04T09-17Z/analysis.md`](runs/2026-11-04T09-17Z/analysis.md).
+
+### Notable additions
+
+- [GPT-6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md) — matches GPT-6 Astra on several agentic-coding evals at ~1/5 the price; [GPT-6.1 Terra](pages/openai.com/index/introducing-gpt-6-1-terra/index.md) — fast model, 50% cheaper than GPT-5.6 Terra, strong computer use.
+- [GPT-6 for everyone](pages/openai.com/index/gpt-6-for-everyone/index.md) — GPT-6 for all ~1.2B weekly ChatGPT users with interactive "Intelligent UI"; [Decisions API GA](pages/openai.com/index/decisions-api/index.md); [DevDay 2026 recap](pages/openai.com/index/devday-2026-recap/index.md); [updated Model Spec](pages/openai.com/index/updated-model-spec/index.md) (five core values).
+- [Models on Google Cloud](pages/openai.com/index/openai-models-google-cloud/index.md); [Oracle apps in ChatGPT](pages/openai.com/index/oracle-apps-in-chatgpt/index.md); [Orchestra Bio acquisition](pages/openai.com/index/openai-to-acquire-orchestra-bio/index.md); [Rosalind Academic Plan](pages/openai.com/index/introducing-the-rosalind-academic-plan/index.md); [OpenAI Marketplace](pages/openai.com/business/marketplace/index.md).
+- Security: [model-distillation campaign disrupted](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md), [Patch the Planet](pages/openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/index.md), [bigger bug bounties](pages/openai.com/index/rewarding-defenders-with-bigger-bug-bounties/index.md), [frontier training environment security](pages/openai.com/index/securing-our-frontier-model-training-environment/index.md), [detecting misalignment](pages/openai.com/index/how-we-detect-frontier-model-misalignment/index.md).
+- Business: [Private Intelligence](pages/openai.com/business/private-intelligence/index.md), [Forward Deployed Engineering](pages/openai.com/business/forward-deployed-engineering/index.md), [legal solutions](pages/openai.com/business/solutions/legal/index.md), plus ~20 customer stories, 15 plugin and 6 partner pages.
+- Ads: [how the ad stack was built](pages/openai.com/index/building-chatgpt-ad-stack/index.md), [26 new countries](pages/openai.com/index/chatgpt-ads-expands-26-new-countries/index.md).
+- People: [Jill Hazelbaker, Chief Corporate Affairs Officer](pages/openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer/index.md); [Dan Driscoll, national-security counselor](pages/openai.com/index/dan-driscoll-joins-openai/index.md).
+
+### Notable updates
+
+- **[Usage Policies](pages/openai.com/policies/usage-policies/index.md)** (effective Nov 20, 2026): now bars building AI tools that give licensed-profession advice without a professional's involvement, and bars implying the AI itself is credentialed.
+- **[Privacy policy](pages/openai.com/policies/privacy-policy/index.md)** (Sep 10): Sora dropped from intro; ad-partner data language firmed up. **[Cookie policy](pages/openai.com/policies/cookie-policy/index.md)** (Oct 22) and **[sub-processor list](pages/openai.com/policies/sub-processor-list/index.md)** (Oct 14) revised.
+- **[Transparency report](pages/openai.com/trust-and-transparency/index.md)** gained H1-2026 government-request figures.
+- **[Homepage](pages/openai.com/index.md)** now leads with GPT-6.1 Terra; **[/codex/](pages/openai.com/codex/index.md)** relaunched as "Build anything with Codex" with Plus/Pro tiers; [release notes](pages/openai.com/products/release-notes/index.md) added GPT-6 Rosalind Research (Oct 30).
+- **Legacy launch posts (o1, o1-mini, o3-mini, o3/o4-mini, thinking-with-images)** now carry notes that those models are retired/deprecated.
+- [Dots](pages/openai.com/index/introducing-dots/index.md): now also powered by GPT-6.1 Terra (Nov 3).
+
+### Removed pages
+
+14, several of them renames: Pathfindr→Affinda, Oracle Analytics→Oracle Analytics Cloud, Atlassian Rovo→Atlassian, WordPress.com plugin→WordPress, `/form/ultrafast/`→Ultrafast story, Economic Research Exchange→Economic Research Collaborators. Dropped outright: partner pages for Canva, Dropbox, Gusto, HubSpot, QuickBooks, Stripe; the MCP-server-for-WordPress plugin; `/prism/`.
+
+_Stats: 2123 total URLs | 152 added | 1734 updated | 14 removed | 112 anomaly flags (52 future-lastmod, 38 backdated-by-gap, 19 migrations, 3 reappeared) | 43 sub-sitemaps_
+
+---
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

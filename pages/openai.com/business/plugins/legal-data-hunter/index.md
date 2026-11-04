@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://legaldatahunter.com>)
 
-[![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)Legal Data Hunter What legal data sources do you have for Spain? Show the source names, document types, coverage dates, and document counts.(opens in a new window)](<https://chatgpt.com/?prompt=%40Legal+Data+Hunter+What+legal+data+sources+do+you+have+for+Spain%3F+Show+the+source+names%2C+document+types%2C+coverage+dates%2C+and+document+counts.>)
+[![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)Legal Data Hunter What legal data sources do you have for Spain? Show the source names, document types, coverage dates, and document counts.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a09fca2104c8191b160df27196228dd?install&prompt=What%20legal%20data%20sources%20do%20you%20have%20for%20Spain%3F%20Show%20the%20source%20names%2C%20document%20types%2C%20coverage%20dates%2C%20and%20document%20counts.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Legal Data Hunter connects ChatGPT to the world's fastest-growing open legal cor
 
 ![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)Legal Data Hunter What legal data sources do you have for Spain? Show the source names, document types, coverage dates, and document counts.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Legal+Data+Hunter+What+legal+data+sources+do+you+have+for+Spain%3F+Show+the+source+names%2C+document+types%2C+coverage+dates%2C+and+document+counts.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a09fca2104c8191b160df27196228dd?install&prompt=What%20legal%20data%20sources%20do%20you%20have%20for%20Spain%3F%20Show%20the%20source%20names%2C%20document%20types%2C%20coverage%20dates%2C%20and%20document%20counts.&surface=work>)
 
   * ### Compare legal provisions
 
 ![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)Legal Data Hunter Compare GDPR Article 6 with the equivalent French data-protection provision.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Legal+Data+Hunter+Compare+GDPR+Article+6+with+the+equivalent+French+data-protection+provision.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a09fca2104c8191b160df27196228dd?install&prompt=Compare%20GDPR%20Article%206%20with%20the%20equivalent%20French%20data-protection%20provision.&surface=work>)
 
   * ### Research worker classification
 
 ![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)![](https://files.openai.com/content?id=file_000000001db881f78e8a1c56203626b5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=7cf4a2b9e3754507f40a0ce1ecbfe5ad1a214f7e95e0d26812ac1c35e5b9e569&v=0)Legal Data Hunter Compare how Spain, the United Kingdom, California, and Australia classify workers on digital labor platforms.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Legal+Data+Hunter+Compare+how+Spain%2C+the+United+Kingdom%2C+California%2C+and+Australia+classify+workers+on+digital+labor+platforms.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a09fca2104c8191b160df27196228dd?install&prompt=Compare%20how%20Spain%2C%20the%20United%20Kingdom%2C%20California%2C%20and%20Australia%20classify%20workers%20on%20digital%20labor%20platforms.&surface=work>)
 
 
 
@@ -95,11 +95,11 @@ Legal Data Hunter connects ChatGPT to the world's fastest-growing open legal cor
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://legaldatahunter.com/support>)
+### [Plugin supportLearn more(opens in a new window)](<https://legaldatahunter.com/support>)
 
-### [Privacy policyLearn more](<https://legaldatahunter.com/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://legaldatahunter.com/privacy>)
 
 ## Add the Legal Data Hunter plugin in a few clicks
 
@@ -109,13 +109,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_0000000033ec81f6a5077baa2c492e08&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3fc3f532d061de604b2bee6605c591e9ea8b4b532b4f90c3be4c357147560563&v=0)![](https://files.openai.com/content?id=file_0000000033ec81f6a5077baa2c492e08&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3fc3f532d061de604b2bee6605c591e9ea8b4b532b4f90c3be4c357147560563&v=0)CourtListenerLegal research for everyone](</business/plugins/courtlistener/>)[![](https://files.openai.com/content?id=file_00000000bfe482118babfdd9b0cf7353&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=9da1a179f76e5116bb70d62b7a8de51b3b8add7a4e804d73b286809f88d6f98c&v=0)![](https://files.openai.com/content?id=file_0000000021a08246892b9999b59759a6&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=aa853daac645b2aae1fd54239165f2e024b6ba195281b5bbce6fdce230f8d381&v=0)Midpage Legal ResearchLegal Research Data for AI](</business/plugins/midpage/>)[![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)HarveyLegal intelligence from Harvey](</business/plugins/harvey/>)[![](https://files.openai.com/content?id=file_000000003b788243b58bf33b5d039a1b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=cb1f1dea30dfc38b2ca73f1dd6d5732558f298df2f58c557685d6d2d69345d16&v=0)![](https://files.openai.com/content?id=file_000000003b788243b58bf33b5d039a1b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=cb1f1dea30dfc38b2ca73f1dd6d5732558f298df2f58c557685d6d2d69345d16&v=0)iManage WorkGoverned knowledge. AI ready.](</business/plugins/imanage-work/>)[![](https://files.openai.com/content?id=file_000000004ac081f4a2babd21cb0c76fe&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=69535a9a212d9e8fa4efb433f5f3c77c1f81e7609f21797c9ced39e705d95814&v=0)![](https://files.openai.com/content?id=file_00000000fbd882468e689e19856cd127&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=6c0a998d6c2b61ce68106280a996c23c3cffdc424852768e5ad651687fadcb73&v=0)DeepJudgeSearch internal knowledge](</business/plugins/deepjudge/>)
+[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_0000000033ec81f6a5077baa2c492e08&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3fc3f532d061de604b2bee6605c591e9ea8b4b532b4f90c3be4c357147560563&v=0)![](https://files.openai.com/content?id=file_0000000033ec81f6a5077baa2c492e08&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=3fc3f532d061de604b2bee6605c591e9ea8b4b532b4f90c3be4c357147560563&v=0)CourtListenerLegal research for everyone](</business/plugins/courtlistener/>)[![](https://files.openai.com/content?id=file_00000000bfe482118babfdd9b0cf7353&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=9da1a179f76e5116bb70d62b7a8de51b3b8add7a4e804d73b286809f88d6f98c&v=0)![](https://files.openai.com/content?id=file_0000000021a08246892b9999b59759a6&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=aa853daac645b2aae1fd54239165f2e024b6ba195281b5bbce6fdce230f8d381&v=0)Midpage Legal ResearchCase law, statutes, regulation](</business/plugins/midpage/>)[![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)![](https://files.openai.com/content?id=file_0000000093b481f5b9a473dc7145e81d&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=a85309c6aa2167a2ee74e27d98a333611fb0633889712657ac18d9b5c16255fa&v=0)HarveyLegal intelligence from Harvey](</business/plugins/harvey/>)[![](https://files.openai.com/content?id=file_000000003b788243b58bf33b5d039a1b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=cb1f1dea30dfc38b2ca73f1dd6d5732558f298df2f58c557685d6d2d69345d16&v=0)![](https://files.openai.com/content?id=file_000000003b788243b58bf33b5d039a1b&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=cb1f1dea30dfc38b2ca73f1dd6d5732558f298df2f58c557685d6d2d69345d16&v=0)iManage WorkGoverned knowledge. AI ready.](</business/plugins/imanage-work/>)[![](https://files.openai.com/content?id=file_000000004ac081f4a2babd21cb0c76fe&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=69535a9a212d9e8fa4efb433f5f3c77c1f81e7609f21797c9ced39e705d95814&v=0)![](https://files.openai.com/content?id=file_00000000fbd882468e689e19856cd127&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=6c0a998d6c2b61ce68106280a996c23c3cffdc424852768e5ad651687fadcb73&v=0)DeepJudgeSearch internal knowledge](</business/plugins/deepjudge/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -127,10 +137,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -149,7 +159,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -176,8 +187,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -196,6 +207,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

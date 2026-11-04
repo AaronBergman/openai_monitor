@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://clickhouse.com/>)
 
-[![](https://files.openai.com/content?id=file_000000006b647243b5e3777140befd4f&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=12e36da340acdb5b9829566ea8ca78f95aeaa709c39a174ca0d9eb8eac38a0c9&v=0)ClickHouse Show a ClickHouse Cloud overview for my primary org: service name, region, state, version, and HTTPS endpoint.(opens in a new window)](<https://chatgpt.com/?prompt=%40ClickHouse+Show+a+ClickHouse+Cloud+overview+for+my+primary+org%3A+service+name%2C+region%2C+state%2C+version%2C+and+HTTPS+endpoint.>)
+[![](https://files.openai.com/content?id=file_000000006b647243b5e3777140befd4f&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=12e36da340acdb5b9829566ea8ca78f95aeaa709c39a174ca0d9eb8eac38a0c9&v=0)ClickHouse Show a ClickHouse Cloud overview for my primary org: service name, region, state, version, and HTTPS endpoint.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a57330f603c8191928119af462402b2?install&prompt=Show%20a%20ClickHouse%20Cloud%20overview%20for%20my%20primary%20org%3A%20service%20name%2C%20region%2C%20state%2C%20version%2C%20and%20HTTPS%20endpoint.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ ClickHouse plugin helps users inspect ClickHouse Cloud organizations, services, 
 
 ![](https://files.openai.com/content?id=file_000000006b647243b5e3777140befd4f&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=12e36da340acdb5b9829566ea8ca78f95aeaa709c39a174ca0d9eb8eac38a0c9&v=0)ClickHouse Show my primary ClickHouse service health: state, version, HTTPS endpoint, backup schedule, latest backup.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ClickHouse+Show+my+primary+ClickHouse+service+health%3A+state%2C+version%2C+HTTPS+endpoint%2C+backup+schedule%2C+latest+backup.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a57330f603c8191928119af462402b2?install&prompt=Show%20my%20primary%20ClickHouse%20service%20health%3A%20state%2C%20version%2C%20HTTPS%20endpoint%2C%20backup%20schedule%2C%20latest%20backup.&surface=work>)
 
   * ### Investigate signup trends
 
 ![](https://files.openai.com/content?id=file_000000006b647243b5e3777140befd4f&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=12e36da340acdb5b9829566ea8ca78f95aeaa709c39a174ca0d9eb8eac38a0c9&v=0)ClickHouse Using read-only SQL on our signup data, compare weekly signups over the last eight weeks by acquisition channel. Identify the largest changes and show the query and evidence behind your findings.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ClickHouse+Using+read-only+SQL+on+our+signup+data%2C+compare+weekly+signups+over+the+last+eight+weeks+by+acquisition+channel.+Identify+the+largest+changes+and+show+the+query+and+evidence+behind+your+findings.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a57330f603c8191928119af462402b2?install&prompt=Using%20read-only%20SQL%20on%20our%20signup%20data%2C%20compare%20weekly%20signups%20over%20the%20last%20eight%20weeks%20by%20acquisition%20channel.%20Identify%20the%20largest%20changes%20and%20show%20the%20query%20and%20evidence%20behind%20your%20findings.&surface=work>)
 
   * ### Review cloud spending
 
 ![](https://files.openai.com/content?id=file_000000006b647243b5e3777140befd4f&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=12e36da340acdb5b9829566ea8ca78f95aeaa709c39a174ca0d9eb8eac38a0c9&v=0)ClickHouse Review my organization's costs for the last complete month. Rank services by spend, summarize the largest cost components available, and recommend where to investigate potential savings.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40ClickHouse+Review+my+organization%27s+costs+for+the+last+complete+month.+Rank+services+by+spend%2C+summarize+the+largest+cost+components+available%2C+and+recommend+where+to+investigate+potential+savings.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a57330f603c8191928119af462402b2?install&prompt=Review%20my%20organization's%20costs%20for%20the%20last%20complete%20month.%20Rank%20services%20by%20spend%2C%20summarize%20the%20largest%20cost%20components%20available%2C%20and%20recommend%20where%20to%20investigate%20potential%20savings.&surface=work>)
 
 
 
@@ -93,11 +93,11 @@ ClickHouse plugin helps users inspect ClickHouse Cloud organizations, services, 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://clickhouse.com/support/program>)
+### [Plugin supportLearn more(opens in a new window)](<https://clickhouse.com/support/program>)
 
-### [Privacy policyLearn more](<https://clickhouse.com/legal/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://clickhouse.com/legal/privacy-policy>)
 
 ## Add the ClickHouse plugin in a few clicks
 
@@ -107,13 +107,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)DBTWork with dbt projects](</business/plugins/dbt/>)[![](https://files.openai.com/content?id=file_00000000f92071f79930229160a6ca3b&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=6faeb8bbf3cc92b5d0996a82dd40d42ac8b54a7aa3afa8c7950b2f36720a3de7&v=0)![](https://files.openai.com/content?id=file_000000001bf871f7959c46e1bd9802cd&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=64ebef30bd218a7048400d20b79b338a5efea8ec72de36dfbf0754fe82ec178e&v=0)DeepnoteRun data workflows with agents](</business/plugins/deepnote/>)[![](https://files.openai.com/content?id=file_0000000059fc722f971e299766273267&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=c2f626a4b43d972d019fe35011d284b1e334a431ff00c01b4e8b6e8f312c7726&v=0)![](https://files.openai.com/content?id=file_0000000059fc722f971e299766273267&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=c2f626a4b43d972d019fe35011d284b1e334a431ff00c01b4e8b6e8f312c7726&v=0)MetabaseQuery and explore your Metabase data](</business/plugins/metabase/>)[![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)SnowflakeAsk governed analytics questions of Snowflake data.](</business/plugins/snowflake/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)DBTWork with dbt projects](</business/plugins/dbt/>)[![](https://files.openai.com/content?id=file_00000000f92071f79930229160a6ca3b&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=6faeb8bbf3cc92b5d0996a82dd40d42ac8b54a7aa3afa8c7950b2f36720a3de7&v=0)![](https://files.openai.com/content?id=file_000000001bf871f7959c46e1bd9802cd&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=64ebef30bd218a7048400d20b79b338a5efea8ec72de36dfbf0754fe82ec178e&v=0)DeepnoteRun data workflows with agents](</business/plugins/deepnote/>)[![](https://files.openai.com/content?id=file_0000000059fc722f971e299766273267&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=c2f626a4b43d972d019fe35011d284b1e334a431ff00c01b4e8b6e8f312c7726&v=0)![](https://files.openai.com/content?id=file_0000000059fc722f971e299766273267&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=1&sig=c2f626a4b43d972d019fe35011d284b1e334a431ff00c01b4e8b6e8f312c7726&v=0)MetabaseQuery and explore your Metabase data](</business/plugins/metabase/>)[![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)SnowflakeAsk governed analytics questions of Snowflake data](</business/plugins/snowflake/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -125,10 +135,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -147,7 +157,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -174,8 +185,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -194,6 +205,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
