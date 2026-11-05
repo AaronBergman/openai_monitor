@@ -48,7 +48,6 @@ Plugins connect ChatGPT Work to your data ecosystem so you can analyze data, ans
   * [![](https://files.openai.com/content?id=file_00000000bc4071f68f5cc1e52ef938ff&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=d3d7a09c0580c743b219401469dee9237a513ab82f5bbcd15a3f833ff93d8912&v=0)![](https://files.openai.com/content?id=file_00000000bc4071f68f5cc1e52ef938ff&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=d3d7a09c0580c743b219401469dee9237a513ab82f5bbcd15a3f833ff93d8912&v=0)MotherDuck](</business/plugins/motherduck/>)
   * [![](https://files.openai.com/content?id=file_000000005b3871f6b95972994a48b4df&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=7&sig=6951ee8bd27a31bc3ffd73cd770da5a85c2109314f7f8a6c9ceaef0e3e889a8c&v=0)![](https://files.openai.com/content?id=file_00000000757071fda31fdc61ead4b1de&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=6de478713f87a23958fc06e392cd5e8d77b097e68bbc59a4db72fabbb40b62bd&v=0)Mixpanel](</business/plugins/mixpanel/>)
   * [![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)DBT](</business/plugins/dbt/>)
-  * [![](https://files.openai.com/content?id=file_00000000d958822fb361de8d84dc5f8e&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=eefadb2535371a28e4ac04a8cf25b9d907fdafb7b7d99f0f1a1d71984e15b74a&v=0)![](https://files.openai.com/content?id=file_00000000d958822fb361de8d84dc5f8e&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=eefadb2535371a28e4ac04a8cf25b9d907fdafb7b7d99f0f1a1d71984e15b74a&v=0)Oracle Analytics](</business/plugins/oracle-analytics/>)
   * [![](https://files.openai.com/content?id=file_00000000a4d081f69b863a2b652771ae&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=db1eeefb41bcca456f2fbb97788d54c93f92e16d7add3e4d35bc5431aba60b0a&v=0)![](https://files.openai.com/content?id=file_00000000a4d081f69b863a2b652771ae&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=db1eeefb41bcca456f2fbb97788d54c93f92e16d7add3e4d35bc5431aba60b0a&v=0)Datadog Experiments](</business/plugins/datadog-experiments/>)
   * [![](https://files.openai.com/content?id=file_0000000052b881f4add502e930b75ba2&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=f25dd4b463fb7b10dc7bdfc9d9e3155a9794b3dc8e9d8bb573af55798d90d229&v=0)![](https://files.openai.com/content?id=file_0000000052b881f4add502e930b75ba2&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=f25dd4b463fb7b10dc7bdfc9d9e3155a9794b3dc8e9d8bb573af55798d90d229&v=0)ThoughtSpot SpotterCode](</business/plugins/thoughtspot/>)
   * [![](https://files.openai.com/content?id=file_00000000106881fdbd7809a7be11dd10&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=c475a72c25f76bcdef721bc5a769dae37f3fe98208605ae4746fa9a23828aec9&v=0)![](https://files.openai.com/content?id=file_00000000f2988230b7e2b394196e6ed4&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=093c6759bd793fc074548e41c01a9fe5bb1bf1d42483442c032cbbd943a7edac&v=0)Sigma](</business/plugins/sigma/>)
@@ -272,6 +271,16 @@ Get your most ambitious work done by spending more time analyzing data, uncoveri
 
 [Contact sales](</contact-sales/>)[Explore solutions](</business/solutions/>)
 
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
+
 Research
 
   * [Research Index](</research/index/>)
@@ -282,10 +291,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -304,7 +313,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -331,8 +341,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -351,6 +361,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.typeform.com>)
 
-[![](https://files.openai.com/content?id=file_00000000833081f48e28ab785e22be05&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=21f3686a69d653864c29d427f74d9a196bad4588cdf9e71e84d966aefecd2f4e&v=0)Typeform Create a feedback form for our new product.(opens in a new window)](<https://chatgpt.com/?prompt=%40Typeform+Create+a+feedback+form+for+our+new+product.>)
+[![](https://files.openai.com/content?id=file_00000000833081f48e28ab785e22be05&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=21f3686a69d653864c29d427f74d9a196bad4588cdf9e71e84d966aefecd2f4e&v=0)Typeform Create a feedback form for our new product.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3e889766b481919d6b2861e94a8afa?install&prompt=Create%20a%20feedback%20form%20for%20our%20new%20product.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Build forms, contact lists, and automations without leaving ChatGPT. Use natural
 
 ![](https://files.openai.com/content?id=file_00000000833081f48e28ab785e22be05&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=21f3686a69d653864c29d427f74d9a196bad4588cdf9e71e84d966aefecd2f4e&v=0)Typeform Create a short product feedback form with an overall rating, feature priorities, and one open question. Keep it under five minutes and avoid leading questions.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Typeform+Create+a+short+product+feedback+form+with+an+overall+rating%2C+feature+priorities%2C+and+one+open+question.+Keep+it+under+five+minutes+and+avoid+leading+questions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3e889766b481919d6b2861e94a8afa?install&prompt=Create%20a%20short%20product%20feedback%20form%20with%20an%20overall%20rating%2C%20feature%20priorities%2C%20and%20one%20open%20question.%20Keep%20it%20under%20five%20minutes%20and%20avoid%20leading%20questions.&surface=work>)
 
   * ### Build an event registration
 
 ![](https://files.openai.com/content?id=file_00000000833081f48e28ab785e22be05&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=21f3686a69d653864c29d427f74d9a196bad4588cdf9e71e84d966aefecd2f4e&v=0)Typeform Build a workshop registration form for name, work email, session choice, and accessibility requests. Keep required fields minimal and show me the form.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Typeform+Build+a+workshop+registration+form+for+name%2C+work+email%2C+session+choice%2C+and+accessibility+requests.+Keep+required+fields+minimal+and+show+me+the+form.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3e889766b481919d6b2861e94a8afa?install&prompt=Build%20a%20workshop%20registration%20form%20for%20name%2C%20work%20email%2C%20session%20choice%2C%20and%20accessibility%20requests.%20Keep%20required%20fields%20minimal%20and%20show%20me%20the%20form.&surface=work>)
 
   * ### Standardize project intake
 
 ![](https://files.openai.com/content?id=file_00000000833081f48e28ab785e22be05&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=21f3686a69d653864c29d427f74d9a196bad4588cdf9e71e84d966aefecd2f4e&v=0)Typeform Create a project intake form covering the goal, audience, deadline, constraints, and success measure. Make it concise enough for a busy requester to complete.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Typeform+Create+a+project+intake+form+covering+the+goal%2C+audience%2C+deadline%2C+constraints%2C+and+success+measure.+Make+it+concise+enough+for+a+busy+requester+to+complete.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3e889766b481919d6b2861e94a8afa?install&prompt=Create%20a%20project%20intake%20form%20covering%20the%20goal%2C%20audience%2C%20deadline%2C%20constraints%2C%20and%20success%20measure.%20Make%20it%20concise%20enough%20for%20a%20busy%20requester%20to%20complete.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Build forms, contact lists, and automations without leaving ChatGPT. Use natural
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.typeform.com/hc/requests/new>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.typeform.com/hc/requests/new>)
 
-### [Privacy policyLearn more](<https://www.typeform.com/legal/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.typeform.com/legal/privacy-policy>)
 
 ## Add the Typeform plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000ed5071f7ac257032bcf8cc5d&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=5c39ec3d859bcbd5a64f66e922b81ef025929d041ece54ba8405ee30c2cb46be&v=0)![](https://files.openai.com/content?id=file_000000006914720ca7a34247e1112b83&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=5d06aac0f128e7c36a59adf200cc7a34308389a908a9967caef1163d3c75c06f&v=0)AirtableAdd structured data to ChatGPT.](</business/plugins/airtable/>)[![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)AsanaTurn Asana tasks into clear updates and plans.](</business/plugins/asana/>)[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpotAnalyze CRM data and surface insights.](</business/plugins/hubspot/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000ed5071f7ac257032bcf8cc5d&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=5c39ec3d859bcbd5a64f66e922b81ef025929d041ece54ba8405ee30c2cb46be&v=0)![](https://files.openai.com/content?id=file_000000006914720ca7a34247e1112b83&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=5d06aac0f128e7c36a59adf200cc7a34308389a908a9967caef1163d3c75c06f&v=0)AirtableAdd structured data to ChatGPT](</business/plugins/airtable/>)[![](https://files.openai.com/content?id=file_000000004a50722f96089a32eeed297c&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=07807a7cbefb19d9cd968741565427527585e02f13335ddd46129d77e9dfe317&v=0)![](https://files.openai.com/content?id=file_0000000072dc81f69476895c0081c9c6&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=ae98e7cc8005841970b2d7697ed1cfd38a1f393c65889c0de686c5db7b93da03&v=0)AsanaTurn Asana tasks into clear updates and plans](</business/plugins/asana/>)[![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)![](https://files.openai.com/content?id=file_00000000d6d871f6af516dd237732886&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=57605450edcdfd982a04b1b6acfaaefae75de19e6e4de54c96f260b5442b30a9&v=0)HubSpotAnalyze CRM data and surface insights](</business/plugins/hubspot/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

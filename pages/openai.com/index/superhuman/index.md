@@ -73,10 +73,15 @@ Rahul Vohra, founder and CEO of Superhuman
 Superhuman is making rapid progress on Superhuman AI, which is powered by OpenAI’s API. They’ve already launched a large number of GPT‑driven features like: 
 
   * **Write with AI** , which turns a written prompt into a full email
+
   * **Rewrite in Your Voice** , which rephrases an email in the user’s personal writing voice and tone
+
   * **Write with Your Voice** , which turns a dictated statement into a full email, allowing users to compose emails with just a few lines of speech
+
   * **Auto Summarize,** which always shows an up-to-date one-line summary for each email and thread in users’ inboxes
+
   * **Instant Reply** , which lets users respond to email in one click by choosing from contextual reply options
+
 
 
 
@@ -85,8 +90,11 @@ Superhuman is making rapid progress on Superhuman AI, which is powered by OpenAI
 From the start, partnering with OpenAI was a centerpiece of Superhuman’s AI roadmap, for several reasons:
 
   * **Startup culture and support:** “OpenAI is itself a startup and therefore understands how to work blazingly fast,” Vohra said. “We have constant back-and-forths with various members of the OpenAI team, including engineers, go-to-markets and executives.” 
+
   * **Privacy-first:** Since Superhuman is embedded in confidential email threads, customers are understandably concerned about protecting their data. Because OpenAI offers zero data retention (ZDR) for qualifying use cases, Superhuman has been able to meet its strict privacy and compliance requirements.
+
   * **Optimized performance and cost:** OpenAI’s API offers access to a range of models with different performance and cost characteristics, which has allowed Superhuman to make informed tradeoffs. “OpenAI is the clear leader in the space with models that are anywhere from six months to a full year plus ahead of the next best models. And this is true for both the quality of model output as well as how fast the models work,” Vohra added.
+
 
 
 
@@ -95,9 +103,13 @@ From the start, partnering with OpenAI was a centerpiece of Superhuman’s AI ro
 Superhuman’s rollout of Superhuman AI has met with tremendous success, seeing high user adoption rates and faster workflows:
 
   * **High opt-in rates for AI** : More than _85%_ of Superhuman’s users are opting in to the new GPT‑powered features.
+
   * **Growing engagement** : Usage stats show that users aren’t just opting in, they’re engaging with the features at a rate that continues to grow over time. For example, users use the Write with AI feature an average of _25 times_ per week, and this number has grown _55%_ since launch. 
+
   * **Inbox processing speed, doubled** : “Our AI features help customers get through their inbox about twice as fast as before,” Vohra said.
+
   * **2x email writing speed** : Superhuman’s Instant Reply feature uses OpenAI’s API to draft a reply so that all the user needs to do is hit send. “In beta, users were writing emails twice as fast as before,” Vohra explained. “If you multiply that out by how many emails our users send, this feature alone saves you more than an hour per week.”
+
 
 
 
@@ -119,15 +131,15 @@ Rahul Vohra, founder and CEO of Superhuman
 
 ## Related articles
 
-![Jetbrains > Hero > Media item > Asset](https://images.ctfassets.net/kftzwdyauwt9/46d99f08-c849-4c73-5a6c7b83ea9c/6e0eaaaf815df2a53f997b36ce57ad13/jetbrains.png?w=3840&q=90&fm=webp)
+![White JetBrains logo on a purple background.](https://images.ctfassets.net/kftzwdyauwt9/46d99f08-c849-4c73-5a6c7b83ea9c/6e0eaaaf815df2a53f997b36ce57ad13/jetbrains.png?w=3840&q=90&fm=webp)
 
 [Embedding AI into developer softwareMar 21, 2024](</index/jetbrains/>)
 
-![Unload](https://images.ctfassets.net/kftzwdyauwt9/15d768b2-bd52-4e68-bebaf96d50b3/e3f414371811a69d73091cc36a44ce8f/holiday_extras.png?w=3840&q=90&fm=webp)
+![White Holiday Extras logo on a purple background.](https://images.ctfassets.net/kftzwdyauwt9/15d768b2-bd52-4e68-bebaf96d50b3/e3f414371811a69d73091cc36a44ce8f/holiday_extras.png?w=3840&q=90&fm=webp)
 
 [Building a data-driven, efficient culture with AIMar 18, 2024](</index/holiday-extras/>)
 
-![Salesforce](https://images.ctfassets.net/kftzwdyauwt9/603cb121-042e-415f-d47db25cfa42/0ac2e22ee90f4a809c3eb3fff797d107/salesforce.png?w=3840&q=90&fm=webp)
+![White Salesforce logo on a blue background](https://images.ctfassets.net/kftzwdyauwt9/603cb121-042e-415f-d47db25cfa42/0ac2e22ee90f4a809c3eb3fff797d107/salesforce.png?w=3840&q=90&fm=webp)
 
 [Enterprise-ready trust and safetyMar 18, 2024](</index/salesforce/>)
 
@@ -141,9 +153,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -162,7 +175,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -180,6 +194,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -188,8 +203,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -208,6 +223,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

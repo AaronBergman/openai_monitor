@@ -77,9 +77,13 @@ Glow is a type of reversible generative model, also called  _flow-based generati
 Some of the merits of flow-based generative models include:
 
   * Exact latent-variable inference and log-likelihood evaluation. In VAEs, one is able to infer only approximately the value of the latent variables that correspond to a datapoint. GAN’s have no encoder at all to infer the latents. In reversible generative models, this can be done exactly without approximation. Not only does this lead to accurate inference, it also enables optimization of the exact log-likelihood of the data, instead of a lower bound of it.
+
   * Efficient inference and efficient synthesis. Autoregressive models, such the [PixelCNN⁠(opens in a new window)](<https://arxiv.org/abs/1606.05328>), are also reversible, however synthesis from such models is difficult to parallelize, and typically inefficient on parallel hardware. Flow-based generative models like Glow (and RealNVP) are efficient to parallelize for both inference and synthesis.
+
   * Useful latent space for downstream tasks. The hidden layers of autoregressive models have unknown marginal distributions, making it much more difficult to perform valid manipulation of data. In GANs, datapoints can usually not be directly represented in a latent space, as they have no encoder and might not have full support over the data distribution. This is not the case for reversible generative models and VAEs, which allow for various applications such as interpolations between datapoints and meaningful modifications of existing datapoints.
+
   * Significant potential for memory savings. Computing gradients in reversible neural networks requires an amount of memory that is constant instead of linear in their depth, as explained in the [RevNet paper⁠(opens in a new window)](<https://arxiv.org/abs/1707.04585>).
+
 
 
 
@@ -198,9 +202,13 @@ Our main contribution and also our departure from the earlier RealNVP work is th
 The RealNVP architecture consists of sequences of two types of layers: layers with checkboard masking, and layers with channel-wise masking. We remove the layers with checkerboard masking, simplifying the architecture. The layers with channel-wise masking perform the equivalent of a repetition of the following steps:
 
   1. Permute the inputs by reversing their ordering across the channel dimension.
+
   2. Split the input into two parts, A and B, down the middle of the feature dimension.
+
   3. Feed A into a shallow convolutional neural network. Linearly transform B according to the output of the neural network.
+
   4. Concatenate A and B.
+
 
 
 
@@ -223,7 +231,9 @@ Our architecture combined with various optimizations, such as [gradient checkpoi
 Our work suggests that it’s possible to train flow-based models to generate realistic high-resolution images, and learned latent representations that can be easily used for downstream tasks like manipulation of data. We suggest a few directions for future work:
 
   1. **Be competitive with other model classes on likelihood.** Autoregressive models and VAE’s perform better than flow-based models on log-likelihood, however they have the drawbacks of inefficient sampling and inexact inference respectively. One can combine flow-based models, VAEs and autoregresive models to trade off their strengths; this would be an interesting direction for future work.
+
   2. **Improve architecture to be more compute and parameter efficient.** To generate realistic high-resolution images, the face generation model uses ~200M parameters and ~600 convolution layers, which makes it expensive to train. Models with smaller depth performed worse on learning long-range dependencies. Using [self⁠(opens in a new window)](<https://arxiv.org/abs/1802.05751>) [attention⁠(opens in a new window)](<https://arxiv.org/abs/1805.08318>) architectures, or performing [progressive⁠(opens in a new window)](<https://arxiv.org/abs/1710.10196>) training to scale to high resolutions could make it computationally cheaper to train glow models.
+
 
 
 
@@ -247,15 +257,15 @@ Special thanks to Nicholas Benson for helping us build the demo.
 
 [View all](</news/>)
 
-![An aerial view of a crowd of people facing away, wearing hats and bearing flags](https://images.ctfassets.net/kftzwdyauwt9/d22f177f-5116-4b3b-5ddcdbe54569/b657a1299069351973db72804b5811d1/image_131.png?w=3840&q=90&fm=webp)
+![A crowd of people holding colorful flags and signs looking away from the camera.](https://images.ctfassets.net/kftzwdyauwt9/d22f177f-5116-4b3b-5ddcdbe54569/b657a1299069351973db72804b5811d1/image_131.png?w=3840&q=90&fm=webp)
 
 [DALL·E 2 pre-training mitigationsPublicationJun 28, 2022](</index/dall-e-2-pre-training-mitigations/>)
 
-![Hierarchical Text Conditional Image Generation With Clip Latents](https://images.ctfassets.net/kftzwdyauwt9/7c44eedc-3563-4438-c613706c52b1/fcfc38b26fd4878a3c6b4ca8d1d73b17/hierarchical-text-conditional-image-generation-with-clip-latents.jpg?w=3840&q=90&fm=webp)
+![A painting of a white and brown cat playing chess in a surrealism style.](https://images.ctfassets.net/kftzwdyauwt9/7c44eedc-3563-4438-c613706c52b1/fcfc38b26fd4878a3c6b4ca8d1d73b17/hierarchical-text-conditional-image-generation-with-clip-latents.jpg?w=3840&q=90&fm=webp)
 
 [Hierarchical text-conditional image generation with CLIP latentsPublicationApr 13, 2022](</index/hierarchical-text-conditional-image-generation-with-clip-latents/>)
 
-![DALL·E](https://images.ctfassets.net/kftzwdyauwt9/ed21faee-ce44-4d91-f5cc39941d47/bdd3983530857e93d205304e219e2d95/dall-e.jpg?w=3840&q=90&fm=webp)
+![A cylinder that interplays with text and imagery on different surfaces of the shape.](https://images.ctfassets.net/kftzwdyauwt9/ed21faee-ce44-4d91-f5cc39941d47/bdd3983530857e93d205304e219e2d95/dall-e.jpg?w=3840&q=90&fm=webp)
 
 [DALL·E: Creating images from textMilestoneJan 5, 2021](</index/dall-e/>)
 
@@ -269,9 +279,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -290,7 +301,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -308,6 +320,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -316,8 +329,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -336,6 +349,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

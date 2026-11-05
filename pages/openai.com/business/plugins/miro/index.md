@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://miro.com>)
 
-[![](https://files.openai.com/content?id=file_000000008dc481f7b61b0e99245634da&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=21b69796b1bb01a2a25a7cc6bdc8146ed659522b1b4e8d866db33fb986b68bf4&v=0)![](https://files.openai.com/content?id=file_000000008dc481f7b61b0e99245634da&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=21b69796b1bb01a2a25a7cc6bdc8146ed659522b1b4e8d866db33fb986b68bf4&v=0)Miro help me visualize my codebase in a technical diagram(opens in a new window)](<https://chatgpt.com/?prompt=%40Miro+help+me+visualize+my+codebase+in+a+technical+diagram>)
+[![](https://files.openai.com/content?id=file_000000008dc481f7b61b0e99245634da&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=21b69796b1bb01a2a25a7cc6bdc8146ed659522b1b4e8d866db33fb986b68bf4&v=0)![](https://files.openai.com/content?id=file_000000008dc481f7b61b0e99245634da&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=21b69796b1bb01a2a25a7cc6bdc8146ed659522b1b4e8d866db33fb986b68bf4&v=0)Miro help me visualize my codebase in a technical diagram(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a392799cb58819185f82dc01ac13dad?install&prompt=help%20me%20visualize%20my%20codebase%20in%20a%20technical%20diagram>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Speed up product development from ideation to launch. Align teams, break tool si
 
 ![](https://files.openai.com/content?id=file_000000008dc481f7b61b0e99245634da&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=21b69796b1bb01a2a25a7cc6bdc8146ed659522b1b4e8d866db33fb986b68bf4&v=0)![](https://files.openai.com/content?id=file_000000008dc481f7b61b0e99245634da&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=21b69796b1bb01a2a25a7cc6bdc8146ed659522b1b4e8d866db33fb986b68bf4&v=0)Miro Create a flowchart of the process in this brief. Show decision points and handoffs, highlight unclear steps, and keep the labels understandable to a new teammate.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Miro+Create+a+flowchart+of+the+process+in+this+brief.+Show+decision+points+and+handoffs%2C+highlight+unclear+steps%2C+and+keep+the+labels+understandable+to+a+new+teammate.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a392799cb58819185f82dc01ac13dad?install&prompt=Create%20a%20flowchart%20of%20the%20process%20in%20this%20brief.%20Show%20decision%20points%20and%20handoffs%2C%20highlight%20unclear%20steps%2C%20and%20keep%20the%20labels%20understandable%20to%20a%20new%20teammate.&surface=work>)
 
   * ### Diagram an architecture
 
 ![](https://files.openai.com/content?id=file_000000008dc481f7b61b0e99245634da&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=21b69796b1bb01a2a25a7cc6bdc8146ed659522b1b4e8d866db33fb986b68bf4&v=0)![](https://files.openai.com/content?id=file_000000008dc481f7b61b0e99245634da&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=21b69796b1bb01a2a25a7cc6bdc8146ed659522b1b4e8d866db33fb986b68bf4&v=0)Miro Create an architecture diagram from this system description. Separate components and data flows, and label assumptions that need confirmation.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Miro+Create+an+architecture+diagram+from+this+system+description.+Separate+components+and+data+flows%2C+and+label+assumptions+that+need+confirmation.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a392799cb58819185f82dc01ac13dad?install&prompt=Create%20an%20architecture%20diagram%20from%20this%20system%20description.%20Separate%20components%20and%20data%20flows%2C%20and%20label%20assumptions%20that%20need%20confirmation.&surface=work>)
 
   * ### Visualize an onboarding journey
 
 ![](https://files.openai.com/content?id=file_000000008dc481f7b61b0e99245634da&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=21b69796b1bb01a2a25a7cc6bdc8146ed659522b1b4e8d866db33fb986b68bf4&v=0)![](https://files.openai.com/content?id=file_000000008dc481f7b61b0e99245634da&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=21b69796b1bb01a2a25a7cc6bdc8146ed659522b1b4e8d866db33fb986b68bf4&v=0)Miro Turn this customer onboarding outline into a diagram. Show the main path and exceptions, then identify handoffs that may cause confusion.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Miro+Turn+this+customer+onboarding+outline+into+a+diagram.+Show+the+main+path+and+exceptions%2C+then+identify+handoffs+that+may+cause+confusion.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a392799cb58819185f82dc01ac13dad?install&prompt=Turn%20this%20customer%20onboarding%20outline%20into%20a%20diagram.%20Show%20the%20main%20path%20and%20exceptions%2C%20then%20identify%20handoffs%20that%20may%20cause%20confusion.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Speed up product development from ideation to launch. Align teams, break tool si
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.miro.com/hc/en-us>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.miro.com/hc/en-us>)
 
-### [Privacy policyLearn more](<https://miro.com/legal/privacy-policy/>)
+### [Privacy policyLearn more(opens in a new window)](<https://miro.com/legal/privacy-policy/>)
 
 ## Add the Miro plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets.](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects.](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
