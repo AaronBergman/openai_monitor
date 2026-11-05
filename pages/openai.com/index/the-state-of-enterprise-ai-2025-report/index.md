@@ -47,6 +47,7 @@ Adoption is accelerating and deepening
   * Workers report measurable value from using AI
   * Frontier users and organizations are pulling ahead
   * Looking ahead: AI reshaping the modern enterprise
+  * Citation
 
 
 
@@ -55,6 +56,7 @@ Adoption is accelerating and deepening
   * Workers report measurable value from using AI
   * Frontier users and organizations are pulling ahead
   * Looking ahead: AI reshaping the modern enterprise
+  * Citation
 
 
 
@@ -154,6 +156,51 @@ We encourage executives, operators, and builders to read the report and engage w
 
 If you’d like to explore the full findings or learn how to bring AI into your organization responsibly, [we’d love to connect⁠](<https://openai.com/contact-sales/?utm_medium=content&utm_source=website&utm_campaign=CNT-The_State_of_Enterprise_AI_Report&utm_internal_medium=cta&utm_internal_source=enterprise>).
 
+## Citation
+
+#### Citation
+
+`
+    
+    
+    1
+    
+    @techreport{openaiecon2025enterprise,
+    
+    2
+    
+      author = {{OpenAI Economic Research Team}},
+    
+    3
+    
+      title = {The State of Enterprise {AI}},
+    
+    4
+    
+      date = {2025-12},
+    
+    5
+    
+      year = {2025},
+    
+    6
+    
+      institution = {OpenAI},
+    
+    7
+    
+      type = {Report},
+    
+    8
+    
+      url = {https://cdn.openai.com/pdf/7ef17d82-96bf-4dd1-9df2-228f7f377a29/the-state-of-enterprise-ai_2025-report.pdf},
+    
+    9
+    
+    }
+
+`
+
   * [2025](</news/?tags=2025>)
 
 
@@ -166,17 +213,17 @@ OpenAI
 
 [View all](</news/>)
 
-![OpenAI extends cyber access to Ukraine for civilian defense — cover](https://images.ctfassets.net/kftzwdyauwt9/4NsiJiqUurW5ypfaulGCFm/8b5bfad7d895c4fc6aa20766d5c88b0c/openai-extends-cyber-access-to-ukraine-for-civilian-defense-cover.png?w=3840&q=90&fm=webp)
+![Accelerating engineering for the physical world — card](https://images.ctfassets.net/kftzwdyauwt9/57kuzOPUZjrDUJwHE8nub0/30011dcc7969dfca81d5ac9e06aa31e5/accelerating-engineering-physical-world-card.png?w=3840&q=90&fm=webp)
 
-[OpenAI extends cyber access to Ukraine for civilian defenseGlobal AffairsSep 23, 2026](</index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/>)
+[Accelerating engineering for the physical worldResearchNov 3, 2026](</index/accelerating-engineering-for-the-physical-world/>)
 
-![Sam Altman’s remarks at the United Nations Security Council cover image](https://images.ctfassets.net/kftzwdyauwt9/4O6fFZArVSBeCoNjTFwXXZ/cc5e374a6b62b8f328555f002b3bca49/sam-altman-s-remarks-at-the-united-nations-security-council-cover.png?w=3840&q=90&fm=webp)
+![Introducing the Grid Protectors Program — Cover](https://images.ctfassets.net/kftzwdyauwt9/1JqPBH0jS5SuZJWiba3S4c/00501ffe5396e6d6915948e739cb364b/introducing-the-grid-protectors-program-cover.png?w=3840&q=90&fm=webp)
 
-[Sam Altman’s remarks at the United Nations Security CouncilGlobal AffairsSep 23, 2026](</index/sam-altman-un-security-council-remarks/>)
+[Introducing the Grid Protectors ProgramGlobal AffairsNov 2, 2026](</index/grid-protectors-program/>)
 
-![Grab and OpenAI bring practical AI skills to Southeast Asia — cover](https://images.ctfassets.net/kftzwdyauwt9/54XrkC2PjMSkrDcHjY0L2j/403cfe92efa0592525d62bded987ce5c/grab-and-openai-bring-practical-ai-skills-to-southeast-asia-cover.png?w=3840&q=90&fm=webp)
+![LifeVal — Cover](https://images.ctfassets.net/kftzwdyauwt9/7qpi2dSmegt9iF29oioze0/4446550c373728d28b054322caf946ae/lifeval-cover-crayon.png?w=3840&q=90&fm=webp)
 
-[Grab and OpenAI bring practical AI skills to Southeast AsiaGlobal AffairsSep 23, 2026](</index/grab-openai-ai-skills-southeast-asia/>)
+[LifeValResearchNov 2, 2026](</index/lifeval/>)
 
 Research
 
@@ -188,10 +235,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -210,7 +257,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -237,8 +285,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -257,6 +305,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

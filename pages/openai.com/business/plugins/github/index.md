@@ -32,7 +32,7 @@ OpenAI
 
 # GitHub
 
-Access repositories, issues, and pull requests.
+Access repositories, issues, and pull requests
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_1a69035c238881919c4190932b2df699>)[Contact sales](</contact-sales/>)
 
@@ -64,19 +64,19 @@ Explore repo files, docs, and commit history to understand code, summarize PRs, 
 
 ![](https://files.openai.com/content?id=file_000000008d0481fb9ac8c2286d8c0360&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=815010da6abb924f37ed6dffd584c2870b2c91573d2ecea8666c8ff538a9b5e7&v=0)GitHub Using this repository’s code and documentation, explain how authentication works end to end, including the key components, request flow, and where credentials or tokens are handled.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40GitHub+Using+this+repository%E2%80%99s+code+and+documentation%2C+explain+how+authentication+works+end+to+end%2C+including+the+key+components%2C+request+flow%2C+and+where+credentials+or+tokens+are+handled.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_1a69035c238881919c4190932b2df699?install&prompt=Using%20this%20repository%E2%80%99s%20code%20and%20documentation%2C%20explain%20how%20authentication%20works%20end%20to%20end%2C%20including%20the%20key%20components%2C%20request%20flow%2C%20and%20where%20credentials%20or%20tokens%20are%20handled.&surface=work>)
 
   * ### Speed up reviews and reduce merge friction
 
 ![](https://files.openai.com/content?id=file_000000008d0481fb9ac8c2286d8c0360&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=815010da6abb924f37ed6dffd584c2870b2c91573d2ecea8666c8ff538a9b5e7&v=0)GitHub Summarize this pull request like a senior reviewer: what changed, what could break, and what tests are missing or weak.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40GitHub+Summarize+this+pull+request+like+a+senior+reviewer%3A+what+changed%2C+what+could+break%2C+and+what+tests+are+missing+or+weak.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_1a69035c238881919c4190932b2df699?install&prompt=Summarize%20this%20pull%20request%20like%20a%20senior%20reviewer%3A%20what%20changed%2C%20what%20could%20break%2C%20and%20what%20tests%20are%20missing%20or%20weak.&surface=work>)
 
   * ### Turn repo activity into stakeholder-ready updates
 
 ![](https://files.openai.com/content?id=file_000000008d0481fb9ac8c2286d8c0360&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=815010da6abb924f37ed6dffd584c2870b2c91573d2ecea8666c8ff538a9b5e7&v=0)GitHub Turn the last 7 days of commits and merged PRs into a stakeholder-ready engineering update with shipped work, risks, and next steps.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40GitHub+Turn+the+last+7+days+of+commits+and+merged+PRs+into+a+stakeholder-ready+engineering+update+with+shipped+work%2C+risks%2C+and+next+steps.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_connector_1p_1a69035c238881919c4190932b2df699?install&prompt=Turn%20the%20last%207%20days%20of%20commits%20and%20merged%20PRs%20into%20a%20stakeholder-ready%20engineering%20update%20with%20shipped%20work%2C%20risks%2C%20and%20next%20steps.&surface=work>)
 
 
 
@@ -91,11 +91,11 @@ Explore repo files, docs, and commit history to understand code, summarize PRs, 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11145903-connecting-github-to-chatgpt-deep-research-to-chatgpt-deep-research>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11145903-connecting-github-to-chatgpt-deep-research-to-chatgpt-deep-research>)
 
-### [Plugin supportLearn more](<https://docs.github.com/>)
+### [Plugin supportLearn more(opens in a new window)](<https://docs.github.com/>)
 
-### [Privacy policyLearn more](<https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement>)
+### [Privacy policyLearn more(opens in a new window)](<https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement>)
 
 ## Add the GitHub plugin in a few clicks
 
@@ -105,13 +105,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects.](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps.](</business/plugins/vercel/>)[![](https://files.openai.com/content?id=file_00000000204c81f6a7ce2454929734b2&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=22be634719e2dd0882100f485f9f393136907bfa13e6073e6caeff230455d50a&v=0)![](https://files.openai.com/content?id=file_00000000269081f7be2d535408c83d0c&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=e6e3ef926127f51341d02e0b047d2943efa2f141545bd3f83e40ded827f36352&v=0)JamScreen record with context.](</business/plugins/jam-dev/>)[![](https://files.openai.com/content?id=file_000000000b0071f5a15a9c19c082b8e5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=2663b30a3556fd4f4ba683cb9f2229a0c1d6c2c03d5ee308c9d75206a0b9fd63&v=0)![](https://files.openai.com/content?id=file_00000000dd1871f59b6fbbe091d54c40&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=0c80d0ad0efd55b7f0665e2b3a539a4ac11beb6ed99bb0f9b65065138f951a3c&v=0)Atlassian RovoManage Jira and Confluence fast.](</business/plugins/atlassian-rovo/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects](</business/plugins/linear/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps](</business/plugins/vercel/>)[![](https://files.openai.com/content?id=file_00000000204c81f6a7ce2454929734b2&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=22be634719e2dd0882100f485f9f393136907bfa13e6073e6caeff230455d50a&v=0)![](https://files.openai.com/content?id=file_00000000269081f7be2d535408c83d0c&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=e6e3ef926127f51341d02e0b047d2943efa2f141545bd3f83e40ded827f36352&v=0)JamInvestigate bug reports](</business/plugins/jam-dev/>)[![](https://files.openai.com/content?id=file_000000000b0071f5a15a9c19c082b8e5&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=2663b30a3556fd4f4ba683cb9f2229a0c1d6c2c03d5ee308c9d75206a0b9fd63&v=0)![](https://files.openai.com/content?id=file_00000000dd1871f59b6fbbe091d54c40&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=0c80d0ad0efd55b7f0665e2b3a539a4ac11beb6ed99bb0f9b65065138f951a3c&v=0)AtlassianManage Jira and Confluence fast](</business/plugins/atlassian/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -123,10 +133,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -145,7 +155,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -172,8 +183,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -192,6 +203,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

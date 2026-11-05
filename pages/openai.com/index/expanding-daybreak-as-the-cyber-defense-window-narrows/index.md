@@ -165,17 +165,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Sam Altman’s remarks at the United Nations Security Council cover image](https://images.ctfassets.net/kftzwdyauwt9/4O6fFZArVSBeCoNjTFwXXZ/cc5e374a6b62b8f328555f002b3bca49/sam-altman-s-remarks-at-the-united-nations-security-council-cover.png?w=3840&q=90&fm=webp)
+![Daybreak Red is now available in AWS GovCloud \(US-East\) — Cover](https://images.ctfassets.net/kftzwdyauwt9/3NOPzjiEJ3CYIUuWfexkd5/c16ef9c6350003e5f2f161245be1f78c/daybreak-red-aws-govcloud-cover.png?w=3840&q=90&fm=webp)
 
-[Sam Altman’s remarks at the United Nations Security CouncilGlobal AffairsSep 23, 2026](</index/sam-altman-un-security-council-remarks/>)
+[Daybreak Red is now available in AWS GovCloud (US-East)ProductNov 4, 2026](</index/daybreak-red-aws-govcloud/>)
 
-![Priorities and principles for effective third party assessments cover](https://images.ctfassets.net/kftzwdyauwt9/12cpbLOJFwXJ00Ma66GDVk/d4b392c0a9e18f078b23247a3f755f57/priorities-and-principles-for-effective-third-party-assessments-cover.png?w=3840&q=90&fm=webp)
+![A thousand fewer paths to root — Cover](https://images.ctfassets.net/kftzwdyauwt9/6xmxSENf49pAUFzVokN3KG/3206934563d5b072f5a75139d6b26497/a-thousand-fewer-paths-to-root-cover.png?w=3840&q=90&fm=webp)
 
-[Priorities and principles for effective third party assessmentsSafetySep 22, 2026](</index/priorities-principles-third-party-assessments/>)
+[A thousand fewer paths to rootSecurityNov 4, 2026](</index/a-thousand-fewer-paths-to-root/>)
 
-![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
+![Preparing our next security sprint to harden OpenAI — Cover](https://images.ctfassets.net/kftzwdyauwt9/7u6rk94yLviNcTzUzcsqCY/fbb0fc303e3289c62dd27d1679cac86d/preparing-our-next-security-sprint-to-harden-openai-cover.png?w=3840&q=90&fm=webp)
 
-[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
+[Preparing our next security sprint to harden OpenAISecurityNov 2, 2026](</index/preparing-our-next-security-sprint-to-harden-openai/>)
 
 Research
 
@@ -187,10 +187,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -209,7 +209,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -236,8 +237,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -256,6 +257,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

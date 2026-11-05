@@ -26,17 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-What is the OpenAI Red Teaming Network?
-
-  * What is the OpenAI Red Teaming Network?
-  * Why join the OpenAI Red Teaming Network?
-  * Seeking diverse expertise
-  * Compensation and confidentiality
-  * How to apply
-  * FAQ
-
-
-
 September 19, 2023
 
 [Safety](</news/safety-alignment/>)
@@ -53,7 +42,31 @@ Loading…
 
 Share
 
-**Update: applications for the Red Teaming Network for this phase closed on December 1, 2023.** We aim to notify applicants of their status by the end of the year. We appreciate your interest and may re-open for future rounds in the near future!
+What is the OpenAI Red Teaming Network?
+
+  * What is the OpenAI Red Teaming Network?
+  * Why join the OpenAI Red Teaming Network?
+  * Seeking diverse expertise
+  * Compensation and confidentiality
+  * How to apply
+  * FAQ
+
+
+
+  * What is the OpenAI Red Teaming Network?
+  * Why join the OpenAI Red Teaming Network?
+  * Seeking diverse expertise
+  * Compensation and confidentiality
+  * How to apply
+  * FAQ
+
+
+
+## Editor’s note
+
+December 1, 2023
+
+Applications for this phase of the OpenAI Red Teaming Network closed on December 1, 2023.
 
 We’re announcing an open call for the OpenAI Red Teaming Network and invite domain experts interested in improving the safety of OpenAI’s models to join our efforts. We are looking for experts from various fields to collaborate with us in rigorously evaluating and red teaming our AI models.
 
@@ -100,7 +113,7 @@ All members of the OpenAI Red Teaming Network will be compensated for their cont
 
 ## How to apply
 
-**Applications are now closed.** Join us in this mission to build safe AGI that benefits humanity. Apply to be a part of the OpenAI Red Teaming Network today.
+**Applications are now closed.**
 
 ## FAQ
 
@@ -125,12 +138,19 @@ All members of the OpenAI Red Teaming Network will be compensated for their cont
 **A:** Some criteria we are looking for are:
 
   * Demonstrated expertise or experience in a particular domain relevant to red teaming
+
   * Passionate about improving AI safety
+
   * No conflicts of interest
+
   * Diverse backgrounds and traditionally underrepresented groups
+
   * Diverse geographic representation 
+
   * Fluency in more than one language
+
   * Technical ability (not required)
+
 
 
 
@@ -145,16 +165,22 @@ Evaluations can range from simple Q&A tests to more-complex simulations. As conc
 _Persuasion_
 
   * [ MakeMeSay⁠(opens in a new window)](<https://github.com/openai/evals/tree/main/evals/elsuite/make_me_say/readme.md>): How well can an AI system trick another AI system into saying a secret word?
+
   * [MakeMePay⁠(opens in a new window)](<https://github.com/openai/evals/tree/main/evals/elsuite/make_me_pay/readme.md>): How well can an AI system convince another AI system to donate money?
+
   * [Ballot Proposal⁠(opens in a new window)](<https://github.com/openai/evals/tree/main/evals/elsuite/ballots/readme.md>): How well can an AI system influence another AI system’s support of a political proposition?
+
 
 
 
 _Steganography (hidden messaging)_
 
   * [ Steganography⁠(opens in a new window)](<https://github.com/openai/evals/tree/main/evals/elsuite/steganography/readme.md>): How well can an AI system ​​pass secret messages without being caught by another AI system?
+
   * [Text Compression⁠(opens in a new window)](<https://github.com/openai/evals/tree/main/evals/elsuite/text_compression/readme.md>): How well can an AI system compress and decompress messages, to enable hiding secret messages?
+
   * [Schelling Point⁠(opens in a new window)](<https://github.com/openai/evals/blob/main/evals/elsuite/schelling_point/README.md>): How well can an AI system coordinate with another AI system, without direct communication?
+
 
 
 
@@ -192,15 +218,15 @@ OpenAI
 
 [View all](</news/>)
 
-![Disrupting malicious > media](https://images.ctfassets.net/kftzwdyauwt9/5080983d-9c4d-4479-17e421d7380a/0b42f77c2478bc5bc7bde3fddfc68462/45.png?w=3840&q=90&fm=webp)
+![Painterly depiction of a vibrant orange flower on a stem, rendered with a soft focus and warm yellow tones.](https://images.ctfassets.net/kftzwdyauwt9/5080983d-9c4d-4479-17e421d7380a/0b42f77c2478bc5bc7bde3fddfc68462/45.png?w=3840&q=90&fm=webp)
 
 [Disrupting malicious uses of AI by state-affiliated threat actorsSecurityFeb 14, 2024](</index/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors/>)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/ec66425e-99ca-4314-d04b087f8727/de7341b6a5281c2a220b93a737ce19b0/building-an-early-warning-system-for-llm-aided-biological-threat-creation.jpg?w=3840&q=90&fm=webp)
+![Sweeping strokes of orange, yellow, and purple in an abstract design](https://images.ctfassets.net/kftzwdyauwt9/ec66425e-99ca-4314-d04b087f8727/de7341b6a5281c2a220b93a737ce19b0/building-an-early-warning-system-for-llm-aided-biological-threat-creation.jpg?w=3840&q=90&fm=webp)
 
 [Building an early warning system for LLM-aided biological threat creationPublicationJan 31, 2024](</index/building-an-early-warning-system-for-llm-aided-biological-threat-creation/>)
 
-![Democratic Inputs To AI Grant Program Update](https://images.ctfassets.net/kftzwdyauwt9/f50ce1d2-4f61-4ed2-e560c624d631/6f4dd4542898a35d0a91b137f85c9834/Democratic_inputs_to_AI_grant_program_lessons_learned_and_implementation_plans.jpg?w=3840&q=90&fm=webp)
+![Abstract floral pattern with vibrant purple blooms on a green backdrop](https://images.ctfassets.net/kftzwdyauwt9/f50ce1d2-4f61-4ed2-e560c624d631/6f4dd4542898a35d0a91b137f85c9834/Democratic_inputs_to_AI_grant_program_lessons_learned_and_implementation_plans.jpg?w=3840&q=90&fm=webp)
 
 [Democratic inputs to AI grant program: lessons learned and implementation plansSafetyJan 16, 2024](</index/democratic-inputs-to-ai-grant-program-update/>)
 
@@ -214,9 +240,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -235,7 +262,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -253,14 +281,17 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -279,6 +310,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -286,6 +318,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

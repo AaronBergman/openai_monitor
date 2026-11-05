@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.legalzoom.com>)
 
-[![](https://files.openai.com/content?id=file_00000000098471f6bd9aaab8ccef8131&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=3365264582da9a861b0753c4dd3e42a815bb428276f27a8fedd9b52773b99d9e)![](https://files.openai.com/content?id=file_0000000093a471f6943b2dcff2380b7a&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=06f6401c5c42b937eca69ed07e4fe86cbec30810f4b5c4e52a70f67ec7b832d3)LegalZoom What is the difference between an LLC and a DBA?(opens in a new window)](<https://chatgpt.com/?prompt=%40LegalZoom+What+is+the+difference+between+an+LLC+and+a+DBA%3F>)
+[![](https://files.openai.com/content?id=file_00000000098471f6bd9aaab8ccef8131&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=3365264582da9a861b0753c4dd3e42a815bb428276f27a8fedd9b52773b99d9e)![](https://files.openai.com/content?id=file_0000000093a471f6943b2dcff2380b7a&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=06f6401c5c42b937eca69ed07e4fe86cbec30810f4b5c4e52a70f67ec7b832d3)LegalZoom What is the difference between an LLC and a DBA?(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6994f3546cec819184a464f0089ca8d6?install&prompt=What%20is%20the%20difference%20between%20an%20LLC%20and%20a%20DBA%3F>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ LegalZoom provides reliable legal information to help you start and run your bus
 
 ![](https://files.openai.com/content?id=file_00000000098471f6bd9aaab8ccef8131&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=3365264582da9a861b0753c4dd3e42a815bb428276f27a8fedd9b52773b99d9e)![](https://files.openai.com/content?id=file_0000000093a471f6943b2dcff2380b7a&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=06f6401c5c42b937eca69ed07e4fe86cbec30810f4b5c4e52a70f67ec7b832d3)LegalZoom Explain the differences between an LLC and a corporation for a new consulting business. Compare formation and ongoing requirements, link to relevant resources, and list questions to take to an attorney.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LegalZoom+Explain+the+differences+between+an+LLC+and+a+corporation+for+a+new+consulting+business.+Compare+formation+and+ongoing+requirements%2C+link+to+relevant+resources%2C+and+list+questions+to+take+to+an+attorney.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6994f3546cec819184a464f0089ca8d6?install&prompt=Explain%20the%20differences%20between%20an%20LLC%20and%20a%20corporation%20for%20a%20new%20consulting%20business.%20Compare%20formation%20and%20ongoing%20requirements%2C%20link%20to%20relevant%20resources%2C%20and%20list%20questions%20to%20take%20to%20an%20attorney.&surface=work>)
 
   * ### Prepare a contract checklist
 
 ![](https://files.openai.com/content?id=file_00000000098471f6bd9aaab8ccef8131&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=3365264582da9a861b0753c4dd3e42a815bb428276f27a8fedd9b52773b99d9e)![](https://files.openai.com/content?id=file_0000000093a471f6943b2dcff2380b7a&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=06f6401c5c42b937eca69ed07e4fe86cbec30810f4b5c4e52a70f67ec7b832d3)LegalZoom Help me prepare a sales contract checklist for my business. Explain common provisions, ask about missing business details, and identify questions to discuss with an attorney.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LegalZoom+Help+me+prepare+a+sales+contract+checklist+for+my+business.+Explain+common+provisions%2C+ask+about+missing+business+details%2C+and+identify+questions+to+discuss+with+an+attorney.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6994f3546cec819184a464f0089ca8d6?install&prompt=Help%20me%20prepare%20a%20sales%20contract%20checklist%20for%20my%20business.%20Explain%20common%20provisions%2C%20ask%20about%20missing%20business%20details%2C%20and%20identify%20questions%20to%20discuss%20with%20an%20attorney.&surface=work>)
 
   * ### Plan ongoing business compliance
 
 ![](https://files.openai.com/content?id=file_00000000098471f6bd9aaab8ccef8131&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=3365264582da9a861b0753c4dd3e42a815bb428276f27a8fedd9b52773b99d9e)![](https://files.openai.com/content?id=file_0000000093a471f6943b2dcff2380b7a&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=06f6401c5c42b937eca69ed07e4fe86cbec30810f4b5c4e52a70f67ec7b832d3)LegalZoom Ask for my business entity type and state, then explain common annual filing and registered agent requirements. Give me a checklist with relevant resources and questions that need professional advice.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40LegalZoom+Ask+for+my+business+entity+type+and+state%2C+then+explain+common+annual+filing+and+registered+agent+requirements.+Give+me+a+checklist+with+relevant+resources+and+questions+that+need+professional+advice.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6994f3546cec819184a464f0089ca8d6?install&prompt=Ask%20for%20my%20business%20entity%20type%20and%20state%2C%20then%20explain%20common%20annual%20filing%20and%20registered%20agent%20requirements.%20Give%20me%20a%20checklist%20with%20relevant%20resources%20and%20questions%20that%20need%20professional%20advice.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ LegalZoom provides reliable legal information to help you start and run your bus
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://www.legalzoom.com/contact-us>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.legalzoom.com/contact-us>)
 
-### [Privacy policyLearn more](<https://www.legalzoom.com/legal/general-terms/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.legalzoom.com/legal/general-terms/privacy-policy>)
 
 ## Add the LegalZoom plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000006e70720e8240729562593f87&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=881a44cfa311712291121e9cda4ef4b8d7fef216108a65296a5898c02d91507e&v=0)![](https://files.openai.com/content?id=file_00000000042c720882209039c0de8dbb&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=6488ddb504fdc95531899e70229555079be3267f213ba9f836a0a92bc39864a8&v=0)DocusignManage contracts from ChatGPT](</business/plugins/docusign/>)[![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)Intuit QuickBooksBusiness finances made simple](</business/plugins/quickbooks/>)[![](https://files.openai.com/content?id=file_00000000ac7471f5938c2faf47e7f4c3&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=666dae78fb6f0df3e372c8b40b3fd36004957883e9a35c69e189eb35e870cdd3&v=0)![](https://files.openai.com/content?id=file_00000000841481f79700470475f74217&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=3f58942b3f456302c0db30e62111cb2ffb6db3b48fa69730dbd16756d69af63f&v=0)GustoAsk payroll, benefits, and HR questions using your Gusto data.](</business/plugins/gusto/>)[![](https://files.openai.com/content?id=file_0000000010e081f5a7fc8ebb3abdd491&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=dd7fc54448690cdf029e800499b7f20bbfb454afcbfd8753d7497ba27b0c24a2&v=0)![](https://files.openai.com/content?id=file_0000000010e081f5a7fc8ebb3abdd491&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=dd7fc54448690cdf029e800499b7f20bbfb454afcbfd8753d7497ba27b0c24a2&v=0)Compliance Horizon ScannerResearch regulatory changes](</business/plugins/lecg-compliance-horizon-scanner/>)[![](https://files.openai.com/content?id=file_0000000043d481f49e11d0ddb981c815&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=9c046ae646dbd8a544c454ac4d9fc7bc7d44336c5c1be29a4c080b94045c5a41&v=0)![](https://files.openai.com/content?id=file_0000000043d481f49e11d0ddb981c815&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=9c046ae646dbd8a544c454ac4d9fc7bc7d44336c5c1be29a4c080b94045c5a41&v=0)HoneyBookBook clients, get paid](</business/plugins/honeybook/>)
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_000000006e70720e8240729562593f87&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=881a44cfa311712291121e9cda4ef4b8d7fef216108a65296a5898c02d91507e&v=0)![](https://files.openai.com/content?id=file_00000000042c720882209039c0de8dbb&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=6488ddb504fdc95531899e70229555079be3267f213ba9f836a0a92bc39864a8&v=0)DocusignManage contracts from ChatGPT](</business/plugins/docusign/>)[![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)![](https://files.openai.com/content?id=file_00000000649881f78407f95b8ef708d5&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=0bd3c0fdb82a0a8da2c99a9e4b526f0f84728962fd7637ee5423661fb7ef4db7&v=0)Intuit QuickBooksAccounting Payments & Payroll](</business/plugins/quickbooks/>)[![](https://files.openai.com/content?id=file_00000000ac7471f5938c2faf47e7f4c3&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=1&sig=666dae78fb6f0df3e372c8b40b3fd36004957883e9a35c69e189eb35e870cdd3&v=0)![](https://files.openai.com/content?id=file_00000000841481f79700470475f74217&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=3f58942b3f456302c0db30e62111cb2ffb6db3b48fa69730dbd16756d69af63f&v=0)GustoAsk payroll, benefits, and HR questions using your Gusto data](</business/plugins/gusto/>)[![](https://files.openai.com/content?id=file_0000000010e081f5a7fc8ebb3abdd491&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=dd7fc54448690cdf029e800499b7f20bbfb454afcbfd8753d7497ba27b0c24a2&v=0)![](https://files.openai.com/content?id=file_0000000010e081f5a7fc8ebb3abdd491&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=dd7fc54448690cdf029e800499b7f20bbfb454afcbfd8753d7497ba27b0c24a2&v=0)Compliance Horizon ScannerResearch regulatory changes](</business/plugins/lecg-compliance-horizon-scanner/>)[![](https://files.openai.com/content?id=file_0000000043d481f49e11d0ddb981c815&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=9c046ae646dbd8a544c454ac4d9fc7bc7d44336c5c1be29a4c080b94045c5a41&v=0)![](https://files.openai.com/content?id=file_0000000043d481f49e11d0ddb981c815&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=9c046ae646dbd8a544c454ac4d9fc7bc7d44336c5c1be29a4c080b94045c5a41&v=0)HoneyBookBook clients, get paid](</business/plugins/honeybook/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
