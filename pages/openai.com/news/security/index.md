@@ -52,39 +52,41 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
-![Daybreak for Critical Infrastructure — cover](https://images.ctfassets.net/kftzwdyauwt9/3iCwHSjR2bfJPdDiWomsis/86d511413c2b0338bd211b41545be495/Option_65___1080_1080.png?w=3840&q=90&fm=webp)
+![GPT-6 Cyber — Cover](https://images.ctfassets.net/kftzwdyauwt9/1AiFc9sQFyo6YguQtfjHHN/3ac0a37435e1dfd2b532eaefe26b18bb/gpt-6-cyber-cover.png?w=3840&q=90&fm=webp)
 
-[Daybreak for Frontline DefendersSecuritySep 3, 2026](</index/daybreak-for-frontline-defenders/>)
+[GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agentsProductNov 5, 2026](</index/introducing-gpt-6-cyber/>)
 
-![Path to Astra — Clean square cover — Neutral Option 062 v1](https://images.ctfassets.net/kftzwdyauwt9/4BabvjDCQdlYN2ISzOkgF9/78d35947274e9b3ac2483377782b007e/astra-cover-v001.png?w=3840&q=90&fm=webp)
+![Daybreak Red is now available in AWS GovCloud \(US-East\) — Cover](https://images.ctfassets.net/kftzwdyauwt9/3NOPzjiEJ3CYIUuWfexkd5/c16ef9c6350003e5f2f161245be1f78c/daybreak-red-aws-govcloud-cover.png?w=3840&q=90&fm=webp)
 
-[Path to Astra: critical capabilities and frontier safeguardsSafetySep 1, 2026](</index/path-to-astra/>)
+[Daybreak Red is now available in AWS GovCloud (US-East)ProductNov 4, 2026](</index/daybreak-red-aws-govcloud/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![A thousand fewer paths to root — Cover](https://images.ctfassets.net/kftzwdyauwt9/6xmxSENf49pAUFzVokN3KG/3206934563d5b072f5a75139d6b26497/a-thousand-fewer-paths-to-root-cover.png?w=3840&q=90&fm=webp)
 
-![The Defender’s Window > Cover](https://images.ctfassets.net/kftzwdyauwt9/2We7bguC4FuOofZ8Lu6LUZ/02049fcee47c460695acab59bdb8f648/the-defenders-window-clean-cover.png?w=3840&q=90&fm=webp)
+[A thousand fewer paths to rootSecurityNov 4, 2026](</index/a-thousand-fewer-paths-to-root/>)
 
-[The Defender’s WindowSecurityAug 17, 2026](</index/the-defenders-window/>)
+![Preparing our next security sprint to harden OpenAI — Cover](https://images.ctfassets.net/kftzwdyauwt9/7u6rk94yLviNcTzUzcsqCY/fbb0fc303e3289c62dd27d1679cac86d/preparing-our-next-security-sprint-to-harden-openai-cover.png?w=3840&q=90&fm=webp)
 
-![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
+[Preparing our next security sprint to harden OpenAISecurityNov 2, 2026](</index/preparing-our-next-security-sprint-to-harden-openai/>)
 
-[Expanding Daybreak as the Cyber Defense Window NarrowsSecurityAug 10, 2026](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
+![Rewarding defenders with bigger bug bounties — Cover](https://images.ctfassets.net/kftzwdyauwt9/6Z34J1fph8Xf0II1ZD7Uyu/da22206f343ac07d547ba09b94ac3a9c/rewarding-defenders-with-bigger-bug-bounties-cover.png?w=3840&q=90&fm=webp)
 
-![Daybreak partners 1x1](https://images.ctfassets.net/kftzwdyauwt9/3AQ3qKm4Rmbjm2C1cLKvkJ/d049df2fdc96d1c5dfc695f00c257ce2/Art_Card.png?w=3840&q=90&fm=webp)
+[Rewarding defenders with bigger bug bountiesSecurityNov 2, 2026](</index/rewarding-defenders-with-bigger-bug-bounties/>)
 
-[Putting frontier cyber models in more trusted handsSecurityAug 10, 2026](</index/putting-frontier-cyber-models-in-more-trusted-hands/>)
+![How we detect frontier model misalignment — Cover](https://images.ctfassets.net/kftzwdyauwt9/43ZavE2amLHMmbxH8EL8VM/1464d0f68c0f3c45e9d255992aab32b1/how-we-detect-frontier-model-misalignment-cover.png?w=3840&q=90&fm=webp)
 
-![Critical cyber capabilities card art](https://images.ctfassets.net/kftzwdyauwt9/1P18WVIhz3l2xY4d9JB8H0/b8f0c3c0797e99f4e1fa2e73dc1896ad/Frame.png?w=3840&q=90&fm=webp)
+[How we detect frontier model misalignmentSecurityOct 29, 2026](</index/how-we-detect-frontier-model-misalignment/>)
 
-[Responding to the next frontier of critical cyber capabilitiesSecurityAug 7, 2026](</index/responding-next-frontier-critical-cyber-capabilities/>)
+![GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases — Cover](https://images.ctfassets.net/kftzwdyauwt9/1It2GB1ZfejdSTYbMPMr09/440bbe7151c3c08c0d7d9353f4789539/gpt-6-1-sol-helps-coderabbit-strengthen-security-across-complex-codebases-cover.png?w=3840&q=90&fm=webp)
 
-![update-external-cyber-testing-incidents 1x1](https://images.ctfassets.net/kftzwdyauwt9/7oFUbOnJRSWvGV68vRvcQq/36673fabe9bf1643000994531bc76d2e/update-external-cyber-testing-incidents_1x1.png?w=3840&q=90&fm=webp)
+[GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebasesSecurityOct 26, 2026](</index/gpt-6-1-sol-coderabbit-code-security/>)
 
-[Third-party cyber evaluations involving OpenAI modelsSecurityAug 4, 2026](</index/third-party-cyber-evaluations-involving-openai-models/>)
+![Securing our frontier model training environment — Cover](https://images.ctfassets.net/kftzwdyauwt9/1YAlC4a6FgYc9r73SDH0Ef/bcd6bdf945006094fbc327ac46dee04d/new-approach-to-research-model-containment-cover.png?w=3840&q=90&fm=webp)
 
-![Hugging Face Security Incident 1x1](https://images.ctfassets.net/kftzwdyauwt9/1H0bdkoSFFcqNTx4DSNpal/56f4b7575c012f0698b1be0dafb379f0/Hugging_Face_Security_Incident_1x1.png?w=3840&q=90&fm=webp)
+[Securing our frontier model training environmentSecurityOct 23, 2026](</index/securing-our-frontier-model-training-environment/>)
 
-[OpenAI and Hugging Face address security incidentSecurityJul 21, 2026](</index/hugging-face-model-evaluation-security-incident/>)
+![Patch the Planet: scaling a global response to critical vulnerabilities — Cover](https://images.ctfassets.net/kftzwdyauwt9/6PyrqMoyS15mNPtg8awwZn/30ddc462153abdeacf59376e741713db/patch-the-planet-scaling-a-global-response-to-critical-vulnerabilities-cover.png?w=3840&q=90&fm=webp)
+
+[Patch the Planet: global response coordination as agents uncover critical vulnerabilitiesSecurityOct 21, 2026](</index/coordinated-disclosure-of-critical-vulnerabilities/>)
 
 Load more
 
@@ -98,10 +100,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -120,7 +122,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -147,8 +150,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -167,6 +170,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

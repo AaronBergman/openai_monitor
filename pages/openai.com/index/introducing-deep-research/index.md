@@ -100,6 +100,255 @@ Compared to deep research, GPT‑4o is ideal for real-time, multimodal conversat
 
 BusinessNeedle in a HaystackMedical ResearchUX DesignShoppingGeneral Knowledge
 
+## How it works
+
+Deep research was trained using end-to-end reinforcement learning on hard browsing and reasoning tasks across a range of domains. Through that training, it learned to plan and execute a multi-step trajectory to find the data it needs, backtracking and reacting to real-time information where necessary. The model is also able to browse over user uploaded files, plot and iterate on graphs using the python tool, embed both generated graphs and images from websites in its responses, and cite specific sentences or passages from its sources. As a result of this training, it reaches new highs on a number of public evaluations focused on real-world problems.
+
+### Humanity's Last Exam
+
+On [_Humanity’s Last Exam_ ⁠(opens in a new window)](<https://lastexam.ai/>), a recently released evaluation that tests AI across a broad range of subjects on expert-level questions, the model powering deep research scores a new high at 26.6% accuracy. This test consists of over 3,000 multiple choice and short answer questions across more than 100 subjects from linguistics to rocket science, classics to ecology. Compared to OpenAI o1, the largest gains appeared in chemistry, humanities and social sciences, and mathematics. The model powering deep research showcased a human-like approach by effectively seeking out specialized information when necessary.
+
+Model| Accuracy (%)  
+---|---  
+GPT-4o| 3.3  
+Grok-2| 3.8  
+Claude 3.5 Sonnet| 4.3  
+Gemini Thinking| 6.2  
+OpenAI o1| 9.1  
+DeepSeek-R1*| 9.4  
+OpenAI o3-mini (medium)*| 10.5  
+OpenAI o3-mini (high)*| 13.0  
+OpenAI deep research**| 26.6  
+  
+* Model is not multi-modal, evaluated on text-only subset.
+
+**with browsing + python tools
+
+### GAIA
+
+On [GAIA⁠(opens in a new window)](<https://openreview.net/forum?id=fibxvahvs3>)1, a public benchmark that evaluates AI on real-world questions, the model powering deep research reaches a new state of the art (SOTA), topping the external [leaderboard⁠(opens in a new window)](<https://huggingface.co/spaces/gaia-benchmark/leaderboard>). Encompassing questions across three levels of difficulty, successful completion of these tasks requires abilities including reasoning, multi-modal fluency, web browsing, and tool-use proficiency.
+
+GAIA  
+---  
+| Level 1| Level 2| Level 3| Avg.  
+[Previous SOTA(opens in a new window)](<https://huggingface.co/spaces/gaia-benchmark/leaderboard>)| 67.92| 67.44| 42.31| 63.64  
+Deep Research (pass@1)| 74.29| 69.06| 47.6| 67.36  
+Deep Research (cons@64)| 78.66| 73.21| 58.03| 72.57  
+  
+### GAIA task examples
+
+Level 1Level 2Level 3
+
+### Expert-Level Tasks 
+
+In an internal evaluation of expert-level tasks across a range of areas, deep research was rated by domain experts to have automated multiple hours of difficult, manual investigation. 
+
+##### Pass Rate vs Max Tool Calls
+
+Pass RateMax Tool Calls
+
+The more the model browses and thinks about what its browsing, the better it does, which is why giving it time to think is important.
+
+##### Expert-level task examples
+
+ChemistryLinguisticsHealthcare
+
+##### 
+
+Pass Rate on Expert-Level Tasks by Estimated Economic Value
+
+Pass RateEstimated Economic Value
+
+##### 
+
+Pass Rate on Expert-Level Tasks by Estimated Hours
+
+Pass RateEstimated Hours
+
+Estimated economic value of task is more correlated with pass rate than # of hours it would take a human – the things that models find difficult are different to what humans find time-consuming.
+
+## Limitations
+
+Deep research unlocks significant new capabilities, but it’s still early and has limitations. It can sometimes hallucinate facts in responses or make incorrect inferences, though at a notably lower rate than existing ChatGPT models, according to internal evaluations. It may struggle with distinguishing authoritative information from rumors, and currently shows weakness in confidence calibration, often failing to convey uncertainty accurately. At launch, there may be minor formatting errors in reports and citations, and tasks may take longer to kick off. We expect all these issues to quickly improve with more usage and time.
+
+## Access
+
+Deep research in ChatGPT is currently very compute intensive. The longer it takes to research a query, the more inference compute is required. We are starting with a version optimized for **Pro users** today, with up to 100 queries per month. **Plus and Team users** will get access next, followed by Enterprise. We are still working on bringing access to users in the United Kingdom, Switzerland, and the European Economic Area. 
+
+All paid users will soon get significantly higher rate limits when we release a faster, more cost-effective version of deep research powered by a smaller model that still provides high quality results. 
+
+In the coming weeks and months, we’ll be working on the technical infrastructure, closely monitoring the current release, and conducting even more rigorous testing. This aligns with our principle of iterative deployment. If all safety checks continue to meet our release standards, we anticipate releasing deep research to Plus users in about a month.
+
+## What’s next
+
+Deep research is available today on ChatGPT web, and will be rolled out to mobile and desktop apps within the month. Currently, deep research can access the open web and any uploaded files. In the future, you’ll be able to connect to more specialized data sources—expanding its access to subscription-based or internal resources—to make its output even more robust and personalized.
+
+Looking further ahead, we envision agentic experiences coming together in ChatGPT for asynchronous, real-world research and execution. The combination of deep research, which can perform asynchronous online investigation, and Operator, which can take real-world action, will enable ChatGPT to carry out increasingly sophisticated tasks for you.
+
+* * *
+
+**_February 3, 2025 addendum_** _: We conducted rigorous safety testing, preparedness evaluations, and governance reviews on the early version of o3 that powers deep research, identifying it as_[ _Medium_ ⁠(opens in a new window)](<https://cdn.openai.com/openai-preparedness-framework-beta.pdf>)_risk. We also ran additional safety testing to better understand incremental risks associated with deep research 's ability to browse the web, and we have added new mitigations. We will continue to thoroughly test and closely monitor the current limited release. We will share our safety insights and safeguards for deep research in a system card when we widen access to Plus users._
+
+## Footnotes
+
+  1. 1
+
+We found that the ground-truth answers for this dataset were widely leaked online and have blocked several websites or URLs accordingly to ensure a fair evaluation of the model. 
+
+
+
+
+## Authors
+
+OpenAI
+
+## Research Leads 
+
+Isa Fulford, Zhiqing Sun
+
+## Foundational Contributors
+
+Alex Tachard Passos, Alexandra Barr, Allison Tam, Charlotte Cole, Hyung Won Chung, Jason Wei, Jon Blackman, Scott Mayer McKinney, Valerie Qi
+
+## Core Contributors
+
+**Research**
+
+Elaine Ya Le, Eric Mitchell, Eric Wallace, Hyung Won Chung, Ignasi Clavera, Leo Liu, Lorenz Kuhn, Louis Feuvrier, Max Schwarzer, Saachi Jain, Scottie Yan, Shunyu Yao, Vitchyr Pong
+
+**Deployment**
+
+Carpus Chang, Harry Zhao, Joseph Trasatti, Joshua Dickens, Matt Kaufer, Mike Trpcic, Minnia Feng, Neel Ajjarapu, Peter Vidani, Sean Fitzgerald
+
+## Contributors
+
+**Research**
+
+Ahmed El-Kishky, AJ Ostrow, Alexander Wei, Andrei Gheorghe, Andrew Kondrich, Andrey Mishchenko, Anuj Nair, Behrooz Ghorbani, Brydon Eastman, Chak Li, Foivos Tsimpourlas, Francis Song, Giambattista Parascandolo,Gildas Chabot, Hessam Bagherinezhad, Haitang Hu, Hongyu Ren, Henry Aspegren, Hunter Lightman, Ilya Kostrikov, Ilge Akkaya, James Lennon, Jean Harb, Jonathan Ward, Kai Chen, Katy Shi, Kevin Liu, Kevin Yu, Manuka Stratta, Marvin Zhang, Mengyuan Yan, Mostafa Rohaninejad, Noam Brown, Phoebe Thacker, Raz Goan, Reah Miyara, Spencer Papay, Taylor Gordon, Wenda Zhou, Wenlei Xie, Yash Patil, Yann Dubois, Youlong Cheng, Yushi Wang, Wyatt Thompson
+
+\+ all the contributors to o3.
+
+**Safety Systems**
+
+Adam Kalai, Alex Beutel, Andrea Vallone, Andy Applebaum, David Robinson, Elizabeth Proehl, Evan Mays, Grace Zhao, Irina Kofman, Jason Phang, Joaquin Quinonero Candela, Joel Parish, Kevin Liu, Kristen Ying, Lama Ahmad, Leon Maksin, Leyton Ho, Meghan Shah, Michele Wang, Miles Wang, Phillip Guo, Olivia Watkins, Owen Campbell-Moore, Patrick Chao, Sam Toizer, Samuel Miserendino, Sandhini Agarwal, Tejal Patwardhan, Tina Sriskandarajah, Troy Peterson, Yaodong Yu, Yunyun Wang
+
+**Deployment**
+
+Adam Koppel, Adam Wells, Adele Li, Andy Applebaum, Andrey Malevich, Andrew Duberstein, Andrew Howell, Anton Tananaev, Ashley Tyra, Brandon Walkin, Bryan Ashley, Cary Bassin, Cary Hudson, Cory Decareaux, Cristina Scheau, Derek Chen, Dibya Bhattacharjee, Drea Lopez, Eric Antonow, Eric Burke, Filippo Raso, Fotis Chantzis, Freddie Sulit, Harris Cohen, Heather Whitney, Jay Dixit, Jeffrey Han, Jen Robinson, Jessica Shieh, Joel Parish, Kan Wu, Kevin Gladstone, Kshitij Wadhwa, Leo Vandriel, Leyton Ho, Liang Chen, Madeline Christian, Mamie Rheingold, Matt Jones, Michelle Fradin, Mike McClay, Mingxuan Wang, Nacho Soto, Niko Felix, Patrick Delaney, Paul McMillan, Philip Pronin, Rodrigo Riaza Perez, Samuel Miserendino, Scott Ethersmith, Steven Baldwin, Thomas Dimson, Tomo Hiratsuka, Yaming Lin, Yara Khakbaz, Yining Chen
+
+## Leadership
+
+Akshay Nathan, Greg Brockman, Hannah Wong, Jakub Pachocki, Jerry Tworek, Johannes Heidecke, Josh Tobin, Liam Fedus, Mark Chen, Mia Glaese, Nick Turley, Sam Altman, Wojciech Zaremba
+
+Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+Products
+
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
+  * [Release Notes](</products/release-notes/>)
+
+
+
+API Platform
+
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
+
+
+
+Business
+
+  * [Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Careers](</careers/>)
+  * [News](</news/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
+
+
+
+More
+
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States
+
 ## GPT-4o
 
 Help me find iOS and android adoption rates, % who want to learn another language, and change in mobile penetration, over the past 10 years, for top 10 developed and top 10 developing countries by GDP. Lay this info out in a table and separate stats into columns, and include recommendations on markets to target for a new iOS translation app from ChatGPT, focusing on markets ChatGPT is currently active in.
@@ -109,38 +358,61 @@ Compiling comprehensive data on iOS and Android adoption rates, the percentage o
 **Top 10 Developed Countries by GDP:**
 
   1. United States
+
   2. Japan
+
   3. Germany
+
   4. United Kingdom
+
   5. France
+
   6. Italy
+
   7. Canada
+
   8. South Korea
+
   9. Australia
+
   10. Spain
+
 
 
 
 **Top 10 Developing Countries by GDP:**
 
   1. China
+
   2. India
+
   3. Brazil
+
   4. Russia
+
   5. Indonesia
+
   6. Mexico
+
   7. Turkey
+
   8. Saudi Arabia
+
   9. Argentina
+
   10. South Africa
+
 
 
 
 **Insights:**
 
   * **iOS and Android Adoption Rates:** Globally, Android holds a dominant market share of approximately 70.93%, while iOS accounts for about 28.32% as of 2024. In the United States, iOS leads with a 58.81% market share. Other developed countries like Japan, Canada, Australia, and the United Kingdom also show a higher preference for iOS devices. In contrast, developing countries such as India and Brazil have a higher prevalence of Android devices.
+
   * **Interest in Language Learning:** While specific percentages of populations interested in learning another language are not readily available, the global popularity of language learning apps like Duolingo, which had approximately 14.3 million downloads in July 2024, indicates a significant interest. This interest is likely higher in countries with diverse linguistic landscapes or where English is not the primary language.
+
   * **Mobile Penetration Over the Past Decade:** Mobile phone ownership has seen substantial growth globally. In the United States, smartphone ownership increased from 35% in 2011 to 91% in 2024. Developing countries have also experienced significant growth in mobile penetration, contributing to increased access to digital services.
+
 
 
 
@@ -149,16 +421,22 @@ Compiling comprehensive data on iOS and Android adoption rates, the percentage o
 Considering the available data and focusing on markets where ChatGPT is currently active, the following developed countries are promising targets for a new iOS translation app:
 
   * **United States:** High iOS market share and significant interest in language learning.
+
   * **United Kingdom:** Substantial iOS user base and a multicultural population with diverse language needs.
+
   * **Canada:** Notable iOS adoption and a bilingual population (English and French), increasing the demand for translation services.
+
 
 
 
 Among developing countries, the following are noteworthy:
 
   * **China:** Despite Android's dominance, the large population and growing interest in English and other languages present a significant opportunity.
+
   * **India:** High Android usage, but a growing middle class with increasing iOS adoption and a strong interest in language learning, especially English.
+
   * **Brazil:** Predominantly Android users, but with a sizable market for language learning apps, particularly for English and Spanish.
+
 
 
 
@@ -209,45 +487,6 @@ Among emerging economies, **Mexico and Brazil** stand out as secondary targets: 
 In summary, **focus on iOS-heavy, pro-learning markets** : Japan and Western countries (US, UK, Canada, Australia, plus high-income Europe like **Germany** and **France** to a lesser degree) should be the first-tier targets. They combine robust iOS usage with favorable language-learning attitudes. A second tier includes large-population developing markets (Mexico, Brazil, perhaps **Saudi Arabia** for its historically high iPhone uptake) where interest in English is strong – these can be approached once the app gains traction in the primary markets. Such a strategy ensures the app launches where it has the greatest alignment of platform (iOS) presence and user demand for translation/language tools, maximizing the likelihood of adoption and growth.
 
 Deep research responds to the prompt in a highly detailed manner, providing side-by-side country-specific data for both top 10 developed and top 10 developing countries for easy reference and comparison. It uses that information to offer detailed market-entry recommendations that are informed and usable. 
-
-## How it works
-
-Deep research was trained using end-to-end reinforcement learning on hard browsing and reasoning tasks across a range of domains. Through that training, it learned to plan and execute a multi-step trajectory to find the data it needs, backtracking and reacting to real-time information where necessary. The model is also able to browse over user uploaded files, plot and iterate on graphs using the python tool, embed both generated graphs and images from websites in its responses, and cite specific sentences or passages from its sources. As a result of this training, it reaches new highs on a number of public evaluations focused on real-world problems.
-
-### Humanity's Last Exam
-
-On [_Humanity’s Last Exam_ ⁠(opens in a new window)](<https://lastexam.ai/>), a recently released evaluation that tests AI across a broad range of subjects on expert-level questions, the model powering deep research scores a new high at 26.6% accuracy. This test consists of over 3,000 multiple choice and short answer questions across more than 100 subjects from linguistics to rocket science, classics to ecology. Compared to OpenAI o1, the largest gains appeared in chemistry, humanities and social sciences, and mathematics. The model powering deep research showcased a human-like approach by effectively seeking out specialized information when necessary.
-
-Model| Accuracy (%)  
----|---  
-GPT-4o| 3.3  
-Grok-2| 3.8  
-Claude 3.5 Sonnet| 4.3  
-Gemini Thinking| 6.2  
-OpenAI o1| 9.1  
-DeepSeek-R1*| 9.4  
-OpenAI o3-mini (medium)*| 10.5  
-OpenAI o3-mini (high)*| 13.0  
-OpenAI deep research**| 26.6  
-  
-* Model is not multi-modal, evaluated on text-only subset.
-
-**with browsing + python tools
-
-### GAIA
-
-On [GAIA⁠(opens in a new window)](<https://openreview.net/forum?id=fibxvahvs3>)1, a public benchmark that evaluates AI on real-world questions, the model powering deep research reaches a new state of the art (SOTA), topping the external [leaderboard⁠(opens in a new window)](<https://huggingface.co/spaces/gaia-benchmark/leaderboard>). Encompassing questions across three levels of difficulty, successful completion of these tasks requires abilities including reasoning, multi-modal fluency, web browsing, and tool-use proficiency.
-
-GAIA  
----  
-| Level 1| Level 2| Level 3| Avg.  
-[Previous SOTA(opens in a new window)](<https://huggingface.co/spaces/gaia-benchmark/leaderboard>)| 67.92| 67.44| 42.31| 63.64  
-Deep Research (pass@1)| 74.29| 69.06| 47.6| 67.36  
-Deep Research (cons@64)| 78.66| 73.21| 58.03| 72.57  
-  
-### GAIA task examples
-
-Level 1Level 2Level 3
 
 In Nature journal's Scientific Reports conference proceedings from 2012, in the article that did not mention plasmons or plasmonics, what nano-compound is studied? Don’t use the prefix nano in your answer if there is one.
 
@@ -379,20 +618,6 @@ I’m analyzing interactions in a graphene superlattice, likely from a Sci Rep a
 I’m gathering info on E-MRS 2012 Spring Meeting's Sci Rep proceedings, focusing on invited papers, without plasmonic phenomena. Types under review are graphene, catalysis, energy materials, nanomedicine, and sensors.
 
 [search action]
-
-### Expert-Level Tasks 
-
-In an internal evaluation of expert-level tasks across a range of areas, deep research was rated by domain experts to have automated multiple hours of difficult, manual investigation. 
-
-##### Pass Rate vs Max Tool Calls
-
-Pass RateMax Tool Calls
-
-The more the model browses and thinks about what its browsing, the better it does, which is why giving it time to think is important.
-
-##### Expert-level task examples
-
-ChemistryLinguisticsHealthcare
 
 Time saved on task: 4 hours
 
@@ -580,195 +805,3 @@ I’m tackling multi-solution parameter fits, polymer plasticization, and tempor
 **Piecing together**
 
 I’m structuring sections on sorption differences, the dual-mode model for pure gases, its extension to mixed gases, and the associated challenges. This progression seems logical and effective.
-
-##### 
-
-Pass Rate on Expert-Level Tasks by Estimated Economic Value
-
-Pass RateEstimated Economic Value
-
-##### 
-
-Pass Rate on Expert-Level Tasks by Estimated Hours
-
-Pass RateEstimated Hours
-
-Estimated economic value of task is more correlated with pass rate than # of hours it would take a human – the things that models find difficult are different to what humans find time-consuming.
-
-## Limitations
-
-Deep research unlocks significant new capabilities, but it’s still early and has limitations. It can sometimes hallucinate facts in responses or make incorrect inferences, though at a notably lower rate than existing ChatGPT models, according to internal evaluations. It may struggle with distinguishing authoritative information from rumors, and currently shows weakness in confidence calibration, often failing to convey uncertainty accurately. At launch, there may be minor formatting errors in reports and citations, and tasks may take longer to kick off. We expect all these issues to quickly improve with more usage and time.
-
-## Access
-
-Deep research in ChatGPT is currently very compute intensive. The longer it takes to research a query, the more inference compute is required. We are starting with a version optimized for **Pro users** today, with up to 100 queries per month. **Plus and Team users** will get access next, followed by Enterprise. We are still working on bringing access to users in the United Kingdom, Switzerland, and the European Economic Area. 
-
-All paid users will soon get significantly higher rate limits when we release a faster, more cost-effective version of deep research powered by a smaller model that still provides high quality results. 
-
-In the coming weeks and months, we’ll be working on the technical infrastructure, closely monitoring the current release, and conducting even more rigorous testing. This aligns with our principle of iterative deployment. If all safety checks continue to meet our release standards, we anticipate releasing deep research to Plus users in about a month.
-
-## What’s next
-
-Deep research is available today on ChatGPT web, and will be rolled out to mobile and desktop apps within the month. Currently, deep research can access the open web and any uploaded files. In the future, you’ll be able to connect to more specialized data sources—expanding its access to subscription-based or internal resources—to make its output even more robust and personalized.
-
-Looking further ahead, we envision agentic experiences coming together in ChatGPT for asynchronous, real-world research and execution. The combination of deep research, which can perform asynchronous online investigation, and Operator, which can take real-world action, will enable ChatGPT to carry out increasingly sophisticated tasks for you.
-
-* * *
-
-**_February 3, 2025 addendum_** _: We conducted rigorous safety testing, preparedness evaluations, and governance reviews on the early version of o3 that powers deep research, identifying it as_[ _Medium_ ⁠(opens in a new window)](<https://cdn.openai.com/openai-preparedness-framework-beta.pdf>)_risk. We also ran additional safety testing to better understand incremental risks associated with deep research 's ability to browse the web, and we have added new mitigations. We will continue to thoroughly test and closely monitor the current limited release. We will share our safety insights and safeguards for deep research in a system card when we widen access to Plus users._
-
-## Footnotes
-
-  1. 1
-
-We found that the ground-truth answers for this dataset were widely leaked online and have blocked several websites or URLs accordingly to ensure a fair evaluation of the model. 
-
-
-
-
-## Authors
-
-OpenAI
-
-## Research Leads 
-
-Isa Fulford, Zhiqing Sun
-
-## Foundational Contributors
-
-Alex Tachard Passos, Alexandra Barr, Allison Tam, Charlotte Cole, Hyung Won Chung, Jason Wei, Jon Blackman, Scott Mayer McKinney, Valerie Qi
-
-## Core Contributors
-
-**Research**
-
-Elaine Ya Le, Eric Mitchell, Eric Wallace, Hyung Won Chung, Ignasi Clavera, Leo Liu, Lorenz Kuhn, Louis Feuvrier, Max Schwarzer, Saachi Jain, Scottie Yan, Shunyu Yao, Vitchyr Pong
-
-**Deployment**
-
-Carpus Chang, Harry Zhao, Joseph Trasatti, Joshua Dickens, Matt Kaufer, Mike Trpcic, Minnia Feng, Neel Ajjarapu, Peter Vidani, Sean Fitzgerald
-
-## Contributors
-
-**Research**
-
-Ahmed El-Kishky, AJ Ostrow, Alexander Wei, Andrei Gheorghe, Andrew Kondrich, Andrey Mishchenko, Anuj Nair, Behrooz Ghorbani, Brydon Eastman, Chak Li, Foivos Tsimpourlas, Francis Song, Giambattista Parascandolo,Gildas Chabot, Hessam Bagherinezhad, Haitang Hu, Hongyu Ren, Henry Aspegren, Hunter Lightman, Ilya Kostrikov, Ilge Akkaya, James Lennon, Jean Harb, Jonathan Ward, Kai Chen, Katy Shi, Kevin Liu, Kevin Yu, Manuka Stratta, Marvin Zhang, Mengyuan Yan, Mostafa Rohaninejad, Noam Brown, Phoebe Thacker, Raz Goan, Reah Miyara, Spencer Papay, Taylor Gordon, Wenda Zhou, Wenlei Xie, Yash Patil, Yann Dubois, Youlong Cheng, Yushi Wang, Wyatt Thompson
-
-\+ all the contributors to o3.
-
-**Safety Systems**
-
-Adam Kalai, Alex Beutel, Andrea Vallone, Andy Applebaum, David Robinson, Elizabeth Proehl, Evan Mays, Grace Zhao, Irina Kofman, Jason Phang, Joaquin Quinonero Candela, Joel Parish, Kevin Liu, Kristen Ying, Lama Ahmad, Leon Maksin, Leyton Ho, Meghan Shah, Michele Wang, Miles Wang, Phillip Guo, Olivia Watkins, Owen Campbell-Moore, Patrick Chao, Sam Toizer, Samuel Miserendino, Sandhini Agarwal, Tejal Patwardhan, Tina Sriskandarajah, Troy Peterson, Yaodong Yu, Yunyun Wang
-
-**Deployment**
-
-Adam Koppel, Adam Wells, Adele Li, Andy Applebaum, Andrey Malevich, Andrew Duberstein, Andrew Howell, Anton Tananaev, Ashley Tyra, Brandon Walkin, Bryan Ashley, Cary Bassin, Cary Hudson, Cory Decareaux, Cristina Scheau, Derek Chen, Dibya Bhattacharjee, Drea Lopez, Eric Antonow, Eric Burke, Filippo Raso, Fotis Chantzis, Freddie Sulit, Harris Cohen, Heather Whitney, Jay Dixit, Jeffrey Han, Jen Robinson, Jessica Shieh, Joel Parish, Kan Wu, Kevin Gladstone, Kshitij Wadhwa, Leo Vandriel, Leyton Ho, Liang Chen, Madeline Christian, Mamie Rheingold, Matt Jones, Michelle Fradin, Mike McClay, Mingxuan Wang, Nacho Soto, Niko Felix, Patrick Delaney, Paul McMillan, Philip Pronin, Rodrigo Riaza Perez, Samuel Miserendino, Scott Ethersmith, Steven Baldwin, Thomas Dimson, Tomo Hiratsuka, Yaming Lin, Yara Khakbaz, Yining Chen
-
-## Leadership
-
-Akshay Nathan, Greg Brockman, Hannah Wong, Jakub Pachocki, Jerry Tworek, Johannes Heidecke, Josh Tobin, Liam Fedus, Mark Chen, Mia Glaese, Nick Turley, Sam Altman, Wojciech Zaremba
-
-Research
-
-  * [Research Index](</research/index/>)
-  * [Research Overview](</research/>)
-  * [Economic Research](</signals/>)
-
-
-
-Latest Advancements
-
-  * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-
-
-
-Safety
-
-  * [Safety Approach](</safety/>)
-  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
-  * [Security & Privacy](</security-and-privacy/>)
-  * [Trust & Transparency](</trust-and-transparency/>)
-
-
-
-Products
-
-  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
-  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
-  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
-  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
-  * [Release Notes](</products/release-notes/>)
-
-
-
-API Platform
-
-  * [Overview](</api/>)
-  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
-  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
-
-
-
-Business
-
-  * [Overview](</business/>)
-  * [Solutions](</solutions/>)
-  * [Resources](</business/learn/>)
-  * [Customer Stories](</business/customer-stories/>)
-  * [Partner Network](</business/partners/>)
-  * [Contact Sales](</contact-sales/>)
-
-
-
-Developers
-
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
-  * [Docs(opens in a new window)](<https://developers.openai.com/>)
-  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
-
-
-
-Company
-
-  * [About Us](</about/>)
-  * [Our Charter](</charter/>)
-  * [Careers](</careers/>)
-  * [News](</news/>)
-
-
-
-Support
-
-  * [Help Center(opens in a new window)](<https://help.openai.com/>)
-
-
-
-More
-
-  * [Stories](</stories/>)
-  * [Academy](</academy/>)
-  * [Supply Co.](</supply/>)
-  * [Livestreams](</live/>)
-  * [Podcast](</podcast/>)
-  * [RSS](<https://openai.com/news/rss.xml>)
-
-
-
-Terms & Policies
-
-  * [Terms of Use](</policies/terms-of-use/>)
-  * [Privacy Policy](</policies/privacy-policy/>)
-  * [Other Policies ](</policies/>)
-
-
-
-[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
-
-OpenAI © 2015–2026Your privacy choices
-
-EnglishUnited States

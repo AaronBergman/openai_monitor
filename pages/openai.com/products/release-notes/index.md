@@ -41,115 +41,91 @@ Filter
 
 Sort
 
+Nov 4, 2026
+
 ChatGPT
 
-Sep 24, 2026
+GA
+
+Share
+
+## Dots for Enterprise, Edu, and Healthcare
+
+Personal dots can continue working on tasks between conversations. Dots are generally available to eligible ChatGPT Enterprise, Edu, and Healthcare workspaces, with an admin preview until November 18, 2026. During the preview, workspace owners and admins can enable access or opt out before dots become available by default on November 18. Dots are not available for workspaces with UAE data or inference residency.
+
+Owners and admins can control which members can use dots, view personal dots and their connections, pause or resume them, and review usage and admin activity. Workspace owners can also delete personal dots.
+
+New dots support data residency and Enterprise Key Management, with inference residency in the EU and US. In workspaces with data residency, dots created before general availability will move to the required region within 30 days of launch. Dots are also HIPAA-eligible in covered workspaces; other features and third-party services retain their own coverage restrictions.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#dots-for-enterprise-edu-and-healthcare>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001554-managing-dots-in-chatgpt-workspaces>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/9903489-data-residency-and-inference-residency-for-chatgpt>)
+
+Oct 30, 2026
+
+Codex
 
 Preview
 
-## External access controls
+Share
 
-Global admins in ChatGPT Business and Enterprise organizations can now manage whether ChatGPT Sites can use members’ connected apps and whether applications can access ChatGPT Ads. These controls are on the redesigned External access page in the OpenAI Admin Console. Identity-only sign-in remains separate from data access.
+## GPT-6 Rosalind Research in Work, Codex, and the API
 
-Both new permissions are off by default during the admin preview. Members must still authorize access using their own permissions. Sites access also depends on workspace and individual app settings.
+Released GPT‑6 Rosalind, bringing specialized biological reasoning with scientific tool use to complex life sciences research. Access is available to organizations approved for Rosalind Research through the trusted-access program for internal research by authorized users.
 
-[View source(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#external-access-controls>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#external-access-controls>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/12289294-managing-your-tenant-in-admin-console>)
+GPT‑6 Rosalind Research is rolling out to a limited set of approved Business and Enterprise customers for life sciences research in Work and Codex. Access requires Research approval for your organization and user. It is not available in the Chat tab.
 
-ChatGPT
+The model starts in a two-week Admin Preview for Enterprise workspaces and is off by default. Admins can enable approved Research users and configure access for after the preview. Existing Research approval does not bypass this preview.
 
-Sep 23, 2026
+In Work or Codex, select GPT‑6 Rosalind Research in the model picker. Customers can continue to use GPT‑5.5 Rosalind Research for existing workflows.
 
-GA
+[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#gpt-6-rosalind-research>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/changelog#october-2026>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#gpt-6-rosalind-research>)
 
-## Use plugins in Voice and get work done by speaking
-
-Live now supports plugins on web, iOS, and Android. You can use the plugins and connected apps available to your account during a Voice conversation and follow written responses in the chat.
-
-Voice is also available in Work on web and mobile. Ask it to create documents, presentations, and spreadsheets, use connected apps, or work in a browser. When you end a Voice call in Work, an unfinished task can continue in text.
-
-Free and Go users can use Voice in Chat with the plugins their plan supports. Existing app connections, permissions, and usage limits apply.
-
-For Business, Enterprise, and Edu workspaces, workspace controls continue to apply. Voice in Work requires both Voice and Work access, and plugins retain their existing app access, data permissions, and action restrictions. Enabling Voice does not enable Work or a blocked plugin. When an action needs your approval, review it on screen.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking>)
-
-Codex
-
-Sep 23, 2026
-
-GA
-
-## ChatGPT for iOS updates: redesigned home, iPad split view, and nested repositories
-
-### New features
-
-  * Redesigned home screen.
-
-  * New iPad split view keeps your task list beside the open task in landscape.
-
-  * Added support for browsing changes inside nested Git repositories.
-
-
-
-
-### Improvements and bug fixes
-
-  * Side chats now carry over attachments, selected text, and review comments.
-
-  * Fixed replies appearing blank or incomplete when the next queued prompt starts.
-
-  * New tasks preserve your selected computer and better recognize project checkouts and worktrees.
-
-  * More reliable file links, with clearer loading feedback when opening files and new tasks.
-
-  * Clearer error messages explain why task history could not load and what to try next.
-
-  * Smoother animations when adding photos from the camera or Photo Library.
-
-  * Fixed pairing failures caused by an incorrect device clock and SSH connection issues on Mac and Linux.
-
-
-
-
-[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-09-23-mobile>)
-
-Codex
-
-Sep 22, 2026
-
-GA
-
-## GPT-6 Sol and GPT-6 Luna
-
-We’re introducing GPT‑6 Sol and GPT‑6 Luna in ChatGPT Work and Codex. These models are separate from the models available in Chat.
-
-Codex desktop keeps the model you selected manually.
-
-Available models and reasoning effort options depend on your plan and workspace settings.
-
-GPT‑6 Sol and GPT‑6 Luna are rolling out to Codex and ChatGPT Work at lower token prices than their GPT‑5.6 predecessors. Use Sol for complex coding and agentic workflows, and Luna for focused, high-volume tasks.
-
-Both models are rolling out to Plus, Pro, Business, Enterprise, and Edu users. Free and Go users can access Luna in the desktop app. Availability depends on rollout and workspace settings; Enterprise administrators must enable the new models. In ChatGPT, the models are available in Work and Codex, but not Chat.
-
-[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-6-sol>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-09-22-gpt-6-sol-luna>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-6-sol-and-luna-in-work-and-codex>)
+Oct 30, 2026
 
 ChatGPT
 
-Sep 22, 2026
+GA
+
+Share
+
+## Account switching on iOS and Android
+
+Account switching is rolling out to the ChatGPT iOS and Android apps. You can stay signed in to up to 2 ChatGPT accounts at a time and switch between them without signing out. Each account keeps its own chats, memory, settings, and subscriptions.
+
+To get started, go to Settings > Switch account.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#account-switching-on-ios-and-android>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001068-using-multiple-chatgpt-accounts-on-web-and-mobile>)
+
+Oct 29, 2026
+
+Codex
 
 GA
 
-## Create flashcards in ChatGPT
+Share
 
-You can now create interactive flashcards in ChatGPT. Ask for flashcards on a topic you want to learn, or upload your notes and ask ChatGPT to turn them into flashcards.
+## More Work and Codex usage on Pro and Business Premium Plans
 
-Tap a card to flip it, then select ✔️ if you know the answer or ❌ to practice it again later. Shuffle your cards to practice in a different order.
+We’re increasing the Work and Codex usage included in Pro and Business Premium plans. Pro 100 and Pro 500 plans now include twice their previous Work and Codex allowance.
 
-Flashcards are automatically saved in your library. To practice again, open them there or ask ChatGPT to review them back.
+We’ve also canceled the Pro 200 reduction announced in our September 29 email. If you already had the higher Work and Codex allowance, you keep it. Starting October 29, Pro 200 subscribers on the lower allowance get twice their previous Work and Codex allowance, bringing them up to the same limit.
 
-Available on mobile and web for all ChatGPT plans.
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#more-work-and-codex-usage-on-pro-and-business-premium-plans>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#more-work-and-codex-usage-on-pro-and-business-premium-plans>)
 
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-flashcards-in-chatgpt>)
+Oct 28, 2026
+
+API
+
+GA
+
+Share
+
+## API credits for eligible ChatGPT Pro and Business subscriptions
+
+Eligible ChatGPT Pro and Business subscribers can activate promotional API credits to build apps and agents with the OpenAI API. Eligible ChatGPT Business workspaces can activate the credits to help their teams build apps and agents.
+
+Eligible subscribers can now claim up to $500 per month in free API credits as a subscription benefit. Activate the benefit from ChatGPT or API Platform by linking an API organization you own. The credits apply to the linked API organization and are separate from ChatGPT usage credits.
+
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/chatgpt-api-credits>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#api-credits-for-eligible-chatgpt-pro-and-business-plans>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#api-credits-for-eligible-business-workspaces>)
 
 Load more
 
@@ -163,10 +139,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -185,7 +161,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -212,8 +189,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -232,6 +209,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://base44.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000778c7208b8154302acbfcf1d&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=3cedc41db7d9fd6e87ef2b1de13d324971b6db4bbb3b2d331a2ccdd69af8989d&v=0)Base44 Build a personal finance dashboard with income tracking & projection(opens in a new window)](<https://chatgpt.com/?prompt=%40Base44+Build+a+personal+finance+dashboard+with+income+tracking+%26+projection>)
+[![](https://files.openai.com/content?id=file_00000000778c7208b8154302acbfcf1d&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=3cedc41db7d9fd6e87ef2b1de13d324971b6db4bbb3b2d331a2ccdd69af8989d&v=0)Base44 Build a personal finance dashboard with income tracking & projection(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6952514760dc8191ab148f77c5794d46?install&prompt=Build%20a%20personal%20finance%20dashboard%20with%20income%20tracking%20%26%20projection>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Build fully functional apps and websites with AI in minutes. No code, just your 
 
 ![](https://files.openai.com/content?id=file_00000000778c7208b8154302acbfcf1d&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=3cedc41db7d9fd6e87ef2b1de13d324971b6db4bbb3b2d331a2ccdd69af8989d&v=0)Base44 Build a feedback app with a submission form and a list of responses. Include category and status fields, use sample data for the preview, and explain how to run it.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Base44+Build+a+feedback+app+with+a+submission+form+and+a+list+of+responses.+Include+category+and+status+fields%2C+use+sample+data+for+the+preview%2C+and+explain+how+to+run+it.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6952514760dc8191ab148f77c5794d46?install&prompt=Build%20a%20feedback%20app%20with%20a%20submission%20form%20and%20a%20list%20of%20responses.%20Include%20category%20and%20status%20fields%2C%20use%20sample%20data%20for%20the%20preview%2C%20and%20explain%20how%20to%20run%20it.&surface=work>)
 
   * ### Create a business website
 
 ![](https://files.openai.com/content?id=file_00000000778c7208b8154302acbfcf1d&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=3cedc41db7d9fd6e87ef2b1de13d324971b6db4bbb3b2d331a2ccdd69af8989d&v=0)Base44 Create a three-page website from this brief: home, services, and contact. Use the supplied copy and brand assets, make it work on mobile, and show a preview.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Base44+Create+a+three-page+website+from+this+brief%3A+home%2C+services%2C+and+contact.+Use+the+supplied+copy+and+brand+assets%2C+make+it+work+on+mobile%2C+and+show+a+preview.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6952514760dc8191ab148f77c5794d46?install&prompt=Create%20a%20three-page%20website%20from%20this%20brief%3A%20home%2C%20services%2C%20and%20contact.%20Use%20the%20supplied%20copy%20and%20brand%20assets%2C%20make%20it%20work%20on%20mobile%2C%20and%20show%20a%20preview.&surface=work>)
 
   * ### Prototype an internal tool
 
 ![](https://files.openai.com/content?id=file_00000000778c7208b8154302acbfcf1d&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=3cedc41db7d9fd6e87ef2b1de13d324971b6db4bbb3b2d331a2ccdd69af8989d&v=0)Base44 Build a prototype for tracking equipment requests with item, requester, status, and due date. Use sample records and show how a request moves from submitted to completed.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Base44+Build+a+prototype+for+tracking+equipment+requests+with+item%2C+requester%2C+status%2C+and+due+date.+Use+sample+records+and+show+how+a+request+moves+from+submitted+to+completed.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6952514760dc8191ab148f77c5794d46?install&prompt=Build%20a%20prototype%20for%20tracking%20equipment%20requests%20with%20item%2C%20requester%2C%20status%2C%20and%20due%20date.%20Use%20sample%20records%20and%20show%20how%20a%20request%20moves%20from%20submitted%20to%20completed.&surface=work>)
 
 
 
@@ -94,11 +94,11 @@ Build fully functional apps and websites with AI in minutes. No code, just your 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://docs.base44.com/Community-and-support/Contacting-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://docs.base44.com/Community-and-support/Contacting-support>)
 
-### [Privacy policyLearn more](<https://base44.com/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://base44.com/privacy-policy>)
 
 ## Add the Base44 plugin in a few clicks
 
@@ -108,13 +108,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets.](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps.](</business/plugins/vercel/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)![](https://files.openai.com/content?id=file_000000007ed081f786d39446d9746d5c&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=36bf3b5954d5b1ed1c41ae3b5b6fd725d3265dadb80cc88405e74313a65a8e1e&v=0)VercelSearch docs and deploy apps](</business/plugins/vercel/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -126,10 +136,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -148,7 +158,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -175,8 +186,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -195,6 +206,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

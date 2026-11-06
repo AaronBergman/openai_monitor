@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.twilio.com>)
 
-[![](https://files.openai.com/content?id=file_00000000d040722f9ca810dd55466f56&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=8a5935ea2b3057d74a93730410cb156874380892012d3f16c860a3b605fc6b83&v=0)![](https://files.openai.com/content?id=file_00000000d040722f9ca810dd55466f56&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=8a5935ea2b3057d74a93730410cb156874380892012d3f16c860a3b605fc6b83&v=0)Twilio Developer Kit Help me send an SMS notification with delivery tracking(opens in a new window)](<https://chatgpt.com/?prompt=%40Twilio+Developer+Kit+Help+me+send+an+SMS+notification+with+delivery+tracking>)
+[![](https://files.openai.com/content?id=file_00000000d040722f9ca810dd55466f56&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=8a5935ea2b3057d74a93730410cb156874380892012d3f16c860a3b605fc6b83&v=0)![](https://files.openai.com/content?id=file_00000000d040722f9ca810dd55466f56&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=8a5935ea2b3057d74a93730410cb156874380892012d3f16c860a3b605fc6b83&v=0)Twilio Developer Kit Help me send an SMS notification with delivery tracking(opens in a new window)](<https://chatgpt.com/plugins/Plugin_c266c85897248191be15eb07c415f89e?install&prompt=Help%20me%20send%20an%20SMS%20notification%20with%20delivery%20tracking>)
 
 ## How it works
 
@@ -60,19 +60,19 @@ Procedural knowledge that guides AI coding agents to the right Twilio APIs for a
 
 ![](https://files.openai.com/content?id=file_00000000d040722f9ca810dd55466f56&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=8a5935ea2b3057d74a93730410cb156874380892012d3f16c860a3b605fc6b83&v=0)![](https://files.openai.com/content?id=file_00000000d040722f9ca810dd55466f56&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=8a5935ea2b3057d74a93730410cb156874380892012d3f16c860a3b605fc6b83&v=0)Twilio Developer Kit Help me send an SMS notification with delivery tracking
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Twilio+Developer+Kit+Help+me+send+an+SMS+notification+with+delivery+tracking>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_c266c85897248191be15eb07c415f89e?install&prompt=Help%20me%20send%20an%20SMS%20notification%20with%20delivery%20tracking&surface=work>)
 
   * ### Choose a verification API
 
 ![](https://files.openai.com/content?id=file_00000000d040722f9ca810dd55466f56&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=8a5935ea2b3057d74a93730410cb156874380892012d3f16c860a3b605fc6b83&v=0)![](https://files.openai.com/content?id=file_00000000d040722f9ca810dd55466f56&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=8a5935ea2b3057d74a93730410cb156874380892012d3f16c860a3b605fc6b83&v=0)Twilio Developer Kit What Twilio API should I use to build a user verification flow?
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Twilio+Developer+Kit+What+Twilio+API+should+I+use+to+build+a+user+verification+flow%3F>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_c266c85897248191be15eb07c415f89e?install&prompt=What%20Twilio%20API%20should%20I%20use%20to%20build%20a%20user%20verification%20flow%3F&surface=work>)
 
   * ### Prepare messaging registration
 
 ![](https://files.openai.com/content?id=file_00000000d040722f9ca810dd55466f56&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=8a5935ea2b3057d74a93730410cb156874380892012d3f16c860a3b605fc6b83&v=0)![](https://files.openai.com/content?id=file_00000000d040722f9ca810dd55466f56&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=8a5935ea2b3057d74a93730410cb156874380892012d3f16c860a3b605fc6b83&v=0)Twilio Developer Kit How do I register for A2P 10DLC before sending US SMS?
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Twilio+Developer+Kit+How+do+I+register+for+A2P+10DLC+before+sending+US+SMS%3F>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_c266c85897248191be15eb07c415f89e?install&prompt=How%20do%20I%20register%20for%20A2P%2010DLC%20before%20sending%20US%20SMS%3F&surface=work>)
 
 
 
@@ -95,9 +95,9 @@ Procedural knowledge that guides AI coding agents to the right Twilio APIs for a
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
 ### [Privacy policyLearn more](<https://openai.com/policies/privacy-policy/>)
 
@@ -109,13 +109,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000275481f5917b18eb9d99384e&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=5680510e129e26c8bf590e0bb5101ec63526803077438d8643660f91ce1bf185&v=0)![](https://files.openai.com/content?id=file_00000000275481f5917b18eb9d99384e&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=5680510e129e26c8bf590e0bb5101ec63526803077438d8643660f91ce1bf185&v=0)OpenAI DevelopersDevelop AI apps, agents, and ChatGPT Apps with OpenAI best practices](</business/plugins/openai-developers/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_00000000f53881f79e4178aeede88b83&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=9a73049df47a15e36aeac12438952ff1ab7c0875c4af6a983eb389e41e1699e4&v=0)![](https://files.openai.com/content?id=file_000000006c8881f78e90e1fe6ad2d5fa&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=2a05b6d8018c6479661411228d3e38d4e7094be6f2086a28458b57f36c907ce9&v=0)ResendEmail for developers](</business/plugins/resend/>)[![](https://files.openai.com/content?id=file_00000000364081f78a45a1ff6b4bc534&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=236b8bd4649363012ad5c3c06c13c11bfc7f2059d58e887da64b7b7ef9f22945&v=0)![](https://files.openai.com/content?id=file_00000000364081f78a45a1ff6b4bc534&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=236b8bd4649363012ad5c3c06c13c11bfc7f2059d58e887da64b7b7ef9f22945&v=0)SentSend SMS, RCS, and WhatsApp](</business/plugins/sent/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
+[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000275481f5917b18eb9d99384e&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=5680510e129e26c8bf590e0bb5101ec63526803077438d8643660f91ce1bf185&v=0)![](https://files.openai.com/content?id=file_00000000275481f5917b18eb9d99384e&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=5680510e129e26c8bf590e0bb5101ec63526803077438d8643660f91ce1bf185&v=0)OpenAI DevelopersDevelop AI apps and agents with OpenAI best practices](</business/plugins/openai-developers/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_00000000f53881f79e4178aeede88b83&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=9a73049df47a15e36aeac12438952ff1ab7c0875c4af6a983eb389e41e1699e4&v=0)![](https://files.openai.com/content?id=file_000000006c8881f78e90e1fe6ad2d5fa&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=2a05b6d8018c6479661411228d3e38d4e7094be6f2086a28458b57f36c907ce9&v=0)ResendEmail for developers](</business/plugins/resend/>)[![](https://files.openai.com/content?id=file_00000000364081f78a45a1ff6b4bc534&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=236b8bd4649363012ad5c3c06c13c11bfc7f2059d58e887da64b7b7ef9f22945&v=0)![](https://files.openai.com/content?id=file_00000000364081f78a45a1ff6b4bc534&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=236b8bd4649363012ad5c3c06c13c11bfc7f2059d58e887da64b7b7ef9f22945&v=0)SentSend SMS, RCS, and WhatsApp](</business/plugins/sent/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -127,10 +137,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -149,7 +159,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -176,8 +187,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -196,6 +207,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

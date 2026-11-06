@@ -1,0 +1,297 @@
+Skip to main content
+
+[](</>)
+
+  * [Research](</research/index/>)
+  * Products
+  * [Business](</business/>)
+  * [Developers](</api/>)
+  * [Company](</about/>)
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+  * Research
+  * Products
+  * Business
+  * Developers
+  * Company
+  * [Foundation(opens in a new window)](<https://openaifoundation.org>)
+
+
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+
+OpenAI
+
+![](/_next/static/immutable/media/blue-brick.09p9qhhy100mf.webp?w=3840&q=90&fm=webp)
+
+![](/_next/static/immutable/media/storage-box.3476weajf3ald.webp?w=3840&q=90&fm=webp)
+
+![](/_next/static/immutable/media/school-bus.3by8e4a49l01n.webp?w=3840&q=90&fm=webp)
+
+![](/_next/static/immutable/media/pink-case.2xo-x1vhvff_h.webp?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/2kDzAYlRLs4Aa5eCBj0c0s/34b28e39a3685c59d40df3f96a439cc8/assorted-shopping-cart.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/6K0cM0DVuJOf6yY7BA2q4P/fe658bead3bff7217d50ff0689ec971b/assorted-calendar.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/33prB2g2HLW6Azbom6co0a/a5fd275ffbdef887211846448f2fac6b/assorted-ecg.png?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/31Q75V3wFI3n0xK4Nxsog0/f0b03a26cf990bb2254e879dc8678d8b/photo-06.webp?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/1UfbC89B8yZRrvvmLEpMV/bf244804cb209b62d1be578e6e8b582f/photo-09.webp?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/7sFzZxKpcOhJP4T1ppAf6b/57fbb1cd4a8a73066261aa1e450117ec/photo-05.webp?w=3840&q=90&fm=webp)
+
+![](/_next/static/immutable/media/glucose-meter.3-90ldcd6b37a.webp?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/618uJhR5QI4ZmuQycqQZx5/4efe8f2977a023df632849ec8c1d5f0b/photo-07.webp?w=3840&q=90&fm=webp)
+
+![](/_next/static/immutable/media/tomato.2658gdx30jvhr.webp?w=3840&q=90&fm=webp)
+
+![](https://images.ctfassets.net/kftzwdyauwt9/3QHEbVZRPTyhQyaKgdES5l/00f4c9670307832bbc5d00740c86fc5f/image__32_.png?w=3840&q=90&fm=webp)
+
+November 2, 2026
+
+[Research](</news/research/>)[Publication](</research/index/publication/>)
+
+# LifeVal
+
+Measuring AI progress on the tasks that matter in everyday life.
+
+[Read the paper(opens in a new window)](<https://arxiv.org/abs/2611.06687>)
+
+Loading…
+
+Share
+
+OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. For the more than one billion people who currently use ChatGPT every week, we want to build AI that can help with the practical challenges of everyday life, like finding childcare, accessing government services, creating a budget, preparing for school, modifying recipes, ordering groceries, designing workout plans, and more.
+
+When someone is looking for help making their life easier, they need more than advice or a chat response. To be a truly helpful personal assistant, ChatGPT should be able to take actions that actually get things done.
+
+To measure model performance over time on everyday tasks, we built an evaluation of tasks covering areas where users wanted the most help from AI and personal agents. We used this evaluation to track and drive improvement in model performance on everyday tasks over the past year. 
+
+## Background
+
+To identify the tasks people value most, we started with two large studies that track how people spend time in both the U.S. and internationally: the [_American Time Use Survey_ ⁠(opens in a new window)](<https://www.bls.gov/tus/>) and the [_Multinational Time Use Study_ ⁠(opens in a new window)](<https://www.timeuse.org/mtus>). Together, these datasets provide a detailed catalog of everyday life tasks that people do across different demographics, times of day, and seasons. To understand where people would most value AI assistance, we expanded on these existing surveys with a new demographically representative survey of 3,995 respondents. For each task, we asked a variety of questions to identify the areas where everyday people most wanted help from a personal assistant. The resulting tasks span the most important areas that people want help with, including caregiving, health, education, household administration, personal finances, shopping, and accessing government services. 
+
+## Individual task examples
+
+Below are some examples of how our current models perform on practical workflows from everyday life.
+
+### Enroll in the right kindergarten after moving
+
+93.1%
+
+![](https://images.ctfassets.net/kftzwdyauwt9/0PsOKDe2IX2yO0sZVTxNn/d1de90b42ea9c430a6910aaf9e4f731b/bus.png?w=3840&q=90&fm=webp)
+
+Compare kindergartens near our new home and shortlist the best fits.
+
+I’ve narrowed it to three kindergartens and organized the enrollment details. Two preferences still need your call. Want to review the shortlist?
+
+### Manage volunteers ahead of a flood
+
+98.0%
+
+![](https://images.ctfassets.net/kftzwdyauwt9/1hDPV5I4BneWeWnKWVsAvs/6bdf8f993cbedc6b20dc2a03c8824dce/water-drop-dingbat.png?w=3840&q=90&fm=webp)
+
+Help me organize our community’s flood preparation volunteer force for four neighbors needing floodproofing assistance.
+
+I’ve prepared a simple action plan to help volunteers assess the sites mentioned and help them prepare for upcoming severe weather.
+
+### Find a new home for my family
+
+100%
+
+![](https://images.ctfassets.net/kftzwdyauwt9/4p9ZKTfC9iNi5m1xXkMCQl/ffdff61608bbc569e5bfa647c1a38c84/welcome-mat-white-cropped.png?w=3840&q=90&fm=webp)
+
+Find a home in Luzerne County that fits my budget, has a separate living unit, and keeps my commute short after school drop-off. Add the deed to my cart so I can review it.
+
+I found one home that meets your requirements. I’ve calculated the transfer tax and added the deed to your country records cart to review.
+
+### Watch a game with grandma from far away
+
+96.3%
+
+![](https://images.ctfassets.net/kftzwdyauwt9/1EixydflAQZXI6yTNaL6Zg/6cc1f7086d118c3853f3a8c83da589fb/football.png?w=3840&q=90&fm=webp)
+
+Set up an easy way for grandma and me to watch the game together remotely.
+
+The easiest watch setup is ready, with a backup if the stream fails. Want me to walk you through it with grandma?
+
+### Meal prep for a parent adjusting to a new diabetes diagnosis
+
+90.4%
+
+![](https://images.ctfassets.net/kftzwdyauwt9/7cn1KRGTQUsctQue7wawds/5be11f2e14bffbcb227e0ee375f5529e/cart.png?w=3840&q=90&fm=webp)
+
+Help my parent adjust to a new diabetes diagnosis with a practical care and meal plan.
+
+The first-week plan is ready, including meals, reminders, and questions for the care team. Want to review it together before you share it with your parent?
+
+Our latest models score very highly on many LifeVal tasks. See more
+
+Over the past year, we’ve trained our models to become much faster, more capable, and more aligned on browser use, computer use, and connectors tasks. Enabling these capabilities in ChatGPT also expands the types of tasks the model can help with, helping move ChatGPT beyond a chat tool and towards a truly agentic personal assistant.
+
+## Why this matters
+
+To ensure AGI benefits all of humanity, we need to measure and improve model progress on what matters in the lives of everyday people. That means going beyond academic assessments of model knowledge and actually measuring how well AI models can help people navigate decisions, manage everyday responsibilities, and get meaningful things done. We are hopeful that LifeVal represents a step towards that goal.
+
+  * ![A caregiver helping an older adult use a walker](https://images.ctfassets.net/kftzwdyauwt9/9irZEa7VuG3EddaIPYWD5/f267058764f8a5eda29a410fe80114d0/photo-02.webp?w=3840&q=90&fm=webp)
+
+  * ![A person feeding a cat](https://images.ctfassets.net/kftzwdyauwt9/2lhC1WTyvGX4qBssxZraQj/b7792d227886b7f1adaec281eb2bee01/photo-03.webp?w=3840&q=90&fm=webp)
+
+  * ![A person carrying boxes beside a moving truck](https://images.ctfassets.net/kftzwdyauwt9/5i50ehjTmYbz5jB0E6lJHZ/16a4356b416bc033df4cfcfdc705b1a6/photo-04.webp?w=3840&q=90&fm=webp)
+
+  * ![People working through paperwork together](https://images.ctfassets.net/kftzwdyauwt9/7sFzZxKpcOhJP4T1ppAf6b/57fbb1cd4a8a73066261aa1e450117ec/photo-05.webp?w=3840&q=90&fm=webp)
+
+  * ![A person carrying a bag of groceries](https://images.ctfassets.net/kftzwdyauwt9/31Q75V3wFI3n0xK4Nxsog0/f0b03a26cf990bb2254e879dc8678d8b/photo-06.webp?w=3840&q=90&fm=webp)
+
+  * ![A hand tracing a route on a map](https://images.ctfassets.net/kftzwdyauwt9/618uJhR5QI4ZmuQycqQZx5/4efe8f2977a023df632849ec8c1d5f0b/photo-07.webp?w=3840&q=90&fm=webp)
+
+  * ![An adult reading with a young child](https://images.ctfassets.net/kftzwdyauwt9/M4upvozkrlrSSfvHaYlzF/3a3f9a3f8ecd7ba77d9ad7e79d2c4641/photo-08.webp?w=3840&q=90&fm=webp)
+
+  * ![A person organizing notes on a wall](https://images.ctfassets.net/kftzwdyauwt9/1UfbC89B8yZRrvvmLEpMV/bf244804cb209b62d1be578e6e8b582f/photo-09.webp?w=3840&q=90&fm=webp)
+
+  * ![A person examining a medical scan](https://images.ctfassets.net/kftzwdyauwt9/rzxlK2Ggnph5Op4ysnUc4/94c42358418debcc92b7900de0b865da/photo-10.webp?w=3840&q=90&fm=webp)
+
+  * ![A person holding a laptop at their side](https://images.ctfassets.net/kftzwdyauwt9/5XfHlU5MluLbVrnc7AoCZK/dc74b9270813c16ae476edc65ff3ade2/photo-11.webp?w=3840&q=90&fm=webp)
+
+
+
+
+  * [2026](</news/?tags=2026>)
+
+
+
+## Author
+
+OpenAI
+
+## Keep reading
+
+[View all](</news/>)
+
+![A thousand fewer paths to root — Cover](https://images.ctfassets.net/kftzwdyauwt9/6xmxSENf49pAUFzVokN3KG/3206934563d5b072f5a75139d6b26497/a-thousand-fewer-paths-to-root-cover.png?w=3840&q=90&fm=webp)
+
+[A thousand fewer paths to rootSecurityNov 4, 2026](</index/a-thousand-fewer-paths-to-root/>)
+
+![Accelerating engineering for the physical world — card](https://images.ctfassets.net/kftzwdyauwt9/57kuzOPUZjrDUJwHE8nub0/30011dcc7969dfca81d5ac9e06aa31e5/accelerating-engineering-physical-world-card.png?w=3840&q=90&fm=webp)
+
+[Accelerating engineering for the physical worldResearchNov 3, 2026](</index/accelerating-engineering-for-the-physical-world/>)
+
+![How we detect frontier model misalignment — Cover](https://images.ctfassets.net/kftzwdyauwt9/43ZavE2amLHMmbxH8EL8VM/1464d0f68c0f3c45e9d255992aab32b1/how-we-detect-frontier-model-misalignment-cover.png?w=3840&q=90&fm=webp)
+
+[How we detect frontier model misalignmentSecurityOct 29, 2026](</index/how-we-detect-frontier-model-misalignment/>)
+
+Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+Products
+
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
+  * [Release Notes](</products/release-notes/>)
+
+
+
+API Platform
+
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
+
+
+
+Business
+
+  * [Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Careers](</careers/>)
+  * [News](</news/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
+
+
+
+More
+
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States

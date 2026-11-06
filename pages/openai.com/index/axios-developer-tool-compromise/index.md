@@ -80,9 +80,13 @@ Our analysis of the incident concluded that the signing certificate present in t
 Effective May 8, 2026, older versions of our macOS desktop apps will no longer receive updates or support, and may not be functional. These versions represent the earliest releases signed with our updated certificate:
 
   * ChatGPT Desktop: 1.2026.051
+
   * Codex App: 26.406.40811
+
   * Codex CLI: 0.119.0
+
   * Atlas: 1.2026.84.2
+
 
 
 
@@ -121,9 +125,13 @@ OpenAI identified exposure in a GitHub Actions workflow involved in the macOS ap
 Only download OpenAI apps from in-app updates or the official webpages below:
 
   * [_ChatGPT_ ⁠(opens in a new window)](<https://chatgpt.com/download/>)
+
   * [_Codex_ ⁠(opens in a new window)](<https://chatgpt.com/codex/>)
+
   * [_Codex-cli_ ⁠(opens in a new window)](<https://developers.openai.com/codex/cli>)
+
   * [_Atlas_ ⁠(opens in a new window)](<https://chatgpt.com/atlas>)
+
 
 
 
@@ -134,9 +142,13 @@ Do not install apps from links in emails, messages, ads, or third-party download
 Effective May 8, 2026, older versions of our macOS desktop apps will no longer receive updates or support, and may not be functional. These versions represent the earliest releases signed with our updated certificate:
 
   * ChatGPT Desktop: 1.2026.051
+
   * Codex App: 26.406.40811
+
   * Codex CLI: 0.119.0
+
   * Atlas: 1.2026.84.2
+
 
 
 
@@ -160,15 +172,17 @@ OpenAI
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![GPT-6 Cyber — Cover](https://images.ctfassets.net/kftzwdyauwt9/1AiFc9sQFyo6YguQtfjHHN/3ac0a37435e1dfd2b532eaefe26b18bb/gpt-6-cyber-cover.png?w=3840&q=90&fm=webp)
 
-![The Defender’s Window > Cover](https://images.ctfassets.net/kftzwdyauwt9/2We7bguC4FuOofZ8Lu6LUZ/02049fcee47c460695acab59bdb8f648/the-defenders-window-clean-cover.png?w=3840&q=90&fm=webp)
+[GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agentsProductNov 5, 2026](</index/introducing-gpt-6-cyber/>)
 
-[The Defender’s WindowSecurityAug 17, 2026](</index/the-defenders-window/>)
+![Daybreak Red is now available in AWS GovCloud \(US-East\) — Cover](https://images.ctfassets.net/kftzwdyauwt9/3NOPzjiEJ3CYIUuWfexkd5/c16ef9c6350003e5f2f161245be1f78c/daybreak-red-aws-govcloud-cover.png?w=3840&q=90&fm=webp)
 
-![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
+[Daybreak Red is now available in AWS GovCloud (US-East)ProductNov 4, 2026](</index/daybreak-red-aws-govcloud/>)
 
-[Expanding Daybreak as the Cyber Defense Window NarrowsSecurityAug 10, 2026](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
+![A thousand fewer paths to root — Cover](https://images.ctfassets.net/kftzwdyauwt9/6xmxSENf49pAUFzVokN3KG/3206934563d5b072f5a75139d6b26497/a-thousand-fewer-paths-to-root-cover.png?w=3840&q=90&fm=webp)
+
+[A thousand fewer paths to rootSecurityNov 4, 2026](</index/a-thousand-fewer-paths-to-root/>)
 
 Research
 
@@ -180,9 +194,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -201,7 +216,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -219,6 +235,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -227,8 +244,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -247,6 +264,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -69,8 +69,11 @@ Historically, solving this problem meant hiring large teams of sellers to manual
 Unify’s AI product stack includes three core components:
 
   * **The Observation Model** runs in the background, continuously researching companies in a customer’s total addressable market. Powered by OpenAI o3, it detects high-signal events from publicly available sources, like new hires or stack changes and uses multi-agent workflows to surface strategic insights.
+
   * **The research agent** helps users answer open-ended questions and generate outbound copy, like flagging if a company has recently made an expansion into a new region. It uses GPT‑4.1 for planning, CUA for dynamic browsing, and GPT‑4o for synthesis.
+
   * **Copywriting** , powered by agentic research and GPT‑4o, takes relevant data surfaced by the platform and turns it into drafts of hyper-personalized emails, with details tailored to each lead.
+
 
 
 
@@ -104,17 +107,17 @@ Today, that system powers 30% of Unify’s own pipeline and supports hundreds of
 
 ## Keep reading
 
-![Wix cover image](https://images.ctfassets.net/kftzwdyauwt9/6E3QyNLzuWwK3EGBHPw7nQ/fbd0c5a34cc4f4ba096028adbdda8934/oai_Wix_1x1.png?w=3840&q=90&fm=webp)
+![Australian universities are creating AI-native graduates — Cover](https://images.ctfassets.net/kftzwdyauwt9/64omN1JbSha5tAU2Kd5Ish/0877ae035483f77e501a0bc7fef261ca/australian-universities-ai-native-graduates-cover.png?w=3840&q=90&fm=webp)
 
-[Creating websites in minutes with AI Website BuilderMay 29, 2025](</index/wix/>)
+[Australian universities are creating AI-native graduatesCompanyNov 5, 2026](</index/australian-universities-ai-native-graduates/>)
 
-![Coderabbit cover image](https://images.ctfassets.net/kftzwdyauwt9/7b5nc20N6oPfgjCUheFe2F/55fe1900f5ce545f22014a0dcfd4aad3/oai_coderabbit_1x1.png?w=3840&q=90&fm=webp)
+![Cult.fit — Hero and cover](https://images.ctfassets.net/kftzwdyauwt9/6qijtPjALtx93NzSitNuk5/6dda1b2310399c1bf47ad53a94479203/cultfit-hero-cover.png?w=3840&q=90&fm=webp)
 
-[ Shipping code faster with o3, o4-mini, and GPT-4.1May 22, 2025](</index/coderabbit/>)
+[Cult.fit builds operational muscle with CodexNov 5, 2026](</index/cultfit-builds-with-codex/>)
 
-![Lowes > Cover media](https://images.ctfassets.net/kftzwdyauwt9/4X3HwsNsncluAzNEqlXFg3/558227ebd1d4edc388dc325ecbcd75f0/oai_Lowe_s_hero_4.5.png?w=3840&q=90&fm=webp)
+![GPT-6 Cyber — Cover](https://images.ctfassets.net/kftzwdyauwt9/1AiFc9sQFyo6YguQtfjHHN/3ac0a37435e1dfd2b532eaefe26b18bb/gpt-6-cyber-cover.png?w=3840&q=90&fm=webp)
 
-[Lowe’s puts project expertise into every hand May 7, 2025](</index/lowes/>)
+[GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agentsProductNov 5, 2026](</index/introducing-gpt-6-cyber/>)
 
 Research
 
@@ -126,10 +129,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -148,7 +151,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -166,6 +170,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -174,8 +179,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -194,6 +199,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://www.pendo.io/>)
 
-[![](https://files.openai.com/content?id=file_00000000c32871f6b743b22a88c5cdd5&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=53f01c66b2a43c0cb1bcf6c1e3f71f2e44d08cfbb773492f02206b04a107ea67&v=0)![](https://files.openai.com/content?id=file_00000000c32871f6b743b22a88c5cdd5&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=53f01c66b2a43c0cb1bcf6c1e3f71f2e44d08cfbb773492f02206b04a107ea67&v=0)Pendo Whats retention for the Opportunity Pipeline Dashboard?(opens in a new window)](<https://chatgpt.com/?prompt=%40Pendo+Whats+retention+for+the+Opportunity+Pipeline+Dashboard%3F>)
+[![](https://files.openai.com/content?id=file_00000000c32871f6b743b22a88c5cdd5&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=53f01c66b2a43c0cb1bcf6c1e3f71f2e44d08cfbb773492f02206b04a107ea67&v=0)![](https://files.openai.com/content?id=file_00000000c32871f6b743b22a88c5cdd5&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=53f01c66b2a43c0cb1bcf6c1e3f71f2e44d08cfbb773492f02206b04a107ea67&v=0)Pendo Whats retention for the Opportunity Pipeline Dashboard?(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69976e01c1ac8191aeb96b4bfbd34905?install&prompt=Whats%20retention%20for%20the%20Opportunity%20Pipeline%20Dashboard%3F>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Pendo helps users inspect product usage, customer feedback, guides, surveys, ses
 
 ![](https://files.openai.com/content?id=file_00000000c32871f6b743b22a88c5cdd5&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=53f01c66b2a43c0cb1bcf6c1e3f71f2e44d08cfbb773492f02206b04a107ea67&v=0)![](https://files.openai.com/content?id=file_00000000c32871f6b743b22a88c5cdd5&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=53f01c66b2a43c0cb1bcf6c1e3f71f2e44d08cfbb773492f02206b04a107ea67&v=0)Pendo Analyze this product funnel over the last month. Identify the largest drop-offs, compare available segments, and recommend the next questions to investigate.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Pendo+Analyze+this+product+funnel+over+the+last+month.+Identify+the+largest+drop-offs%2C+compare+available+segments%2C+and+recommend+the+next+questions+to+investigate.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69976e01c1ac8191aeb96b4bfbd34905?install&prompt=Analyze%20this%20product%20funnel%20over%20the%20last%20month.%20Identify%20the%20largest%20drop-offs%2C%20compare%20available%20segments%2C%20and%20recommend%20the%20next%20questions%20to%20investigate.&surface=work>)
 
   * ### Review feature adoption
 
 ![](https://files.openai.com/content?id=file_00000000c32871f6b743b22a88c5cdd5&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=53f01c66b2a43c0cb1bcf6c1e3f71f2e44d08cfbb773492f02206b04a107ea67&v=0)![](https://files.openai.com/content?id=file_00000000c32871f6b743b22a88c5cdd5&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=53f01c66b2a43c0cb1bcf6c1e3f71f2e44d08cfbb773492f02206b04a107ea67&v=0)Pendo Review usage of this feature over the last month. Compare relevant segments, highlight changes, and explain any data limitations.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Pendo+Review+usage+of+this+feature+over+the+last+month.+Compare+relevant+segments%2C+highlight+changes%2C+and+explain+any+data+limitations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69976e01c1ac8191aeb96b4bfbd34905?install&prompt=Review%20usage%20of%20this%20feature%20over%20the%20last%20month.%20Compare%20relevant%20segments%2C%20highlight%20changes%2C%20and%20explain%20any%20data%20limitations.&surface=work>)
 
   * ### Compare user retention
 
 ![](https://files.openai.com/content?id=file_00000000c32871f6b743b22a88c5cdd5&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=53f01c66b2a43c0cb1bcf6c1e3f71f2e44d08cfbb773492f02206b04a107ea67&v=0)![](https://files.openai.com/content?id=file_00000000c32871f6b743b22a88c5cdd5&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=53f01c66b2a43c0cb1bcf6c1e3f71f2e44d08cfbb773492f02206b04a107ea67&v=0)Pendo Compare retention for these user cohorts over a consistent period. Explain the metric definition and sample sizes, then highlight the most important differences.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Pendo+Compare+retention+for+these+user+cohorts+over+a+consistent+period.+Explain+the+metric+definition+and+sample+sizes%2C+then+highlight+the+most+important+differences.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69976e01c1ac8191aeb96b4bfbd34905?install&prompt=Compare%20retention%20for%20these%20user%20cohorts%20over%20a%20consistent%20period.%20Explain%20the%20metric%20definition%20and%20sample%20sizes%2C%20then%20highlight%20the%20most%20important%20differences.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Pendo helps users inspect product usage, customer feedback, guides, surveys, ses
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://www.pendo.io/>)
+### [Plugin supportLearn more(opens in a new window)](<https://www.pendo.io/>)
 
-### [Privacy policyLearn more](<https://www.pendo.io/legal/privacy-policy/>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.pendo.io/legal/privacy-policy/>)
 
 ## Add the Pendo plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)SnowflakeAsk governed analytics questions of Snowflake data.](</business/plugins/snowflake/>)[![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)BigQueryExplore BigQuery data and generate SQL from natural language.](</business/plugins/bigquery/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)[![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)Microsoft Power BIExplore and author analytics in your browser](</business/plugins/microsoft-power-bi/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)![](https://files.openai.com/content?id=file_000000000f3081f7a148386e0036032a&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=23f27004207bf0063b44d64340b33c09de7704a5bb99b736cf24494db2663453&v=0)SnowflakeAsk governed analytics questions of Snowflake data](</business/plugins/snowflake/>)[![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)BigQueryExplore BigQuery data and generate SQL from natural language](</business/plugins/bigquery/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)[![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)![](https://files.openai.com/content?id=file_00000000f46881f78935875de96252d9&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=946d77979364c8757a0860fc685028b0cfbda4174232453d38b4aef0c34bd301&v=0)Microsoft Power BIExplore and author analytics in your browser](</business/plugins/microsoft-power-bi/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

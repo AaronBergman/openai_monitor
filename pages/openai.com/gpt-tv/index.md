@@ -2,7 +2,7 @@
 
 Learn
 
-[BLOG](<https://openai.com/index/gpt-6-astra/>)[Launch](<https://chatgpt.com/>)
+[BLOG(opens in a new window)](<https://openai.com/index/gpt-6-astra/>)[Launch(opens in a new window)](<https://chatgpt.com/>)
 
 Powered by GPT-6 Astra
 
