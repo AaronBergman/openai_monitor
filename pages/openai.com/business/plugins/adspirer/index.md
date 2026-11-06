@@ -36,6 +36,9 @@ Create, launch & analyze ads
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69461dc91ee48191ae4a14eb9bde1c21>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Report campaign performance for Google, Meta, LinkedIn, TikTok, Amazon and ChatGPT Ads, Interactive performance dashboards for Google Ads and Meta Ads, Create Google Search, Performance Max, YouTube and Demand Gen campaigns, paused, Create Meta, LinkedIn and TikTok image, video and carousel campaigns, paused, Manage Amazon Ads, ChatGPT Ads and Microsoft Advertising campaigns, Find wasted spend, non-converting search terms and creative fatigue, Research keywords, audiences and targeting, Write and refresh ad copy and creative, Change budgets, bids, status and targeting only when you ask, Audit conversion tracking across every connected platform, Diagnose why ads aren't producing sales, Research competitors' live ads next to your own account, Read Google Analytics 4, Search Console, Tag Manager and Klaviyo, Schedule performance reports and threshold alerts, See connected accounts and switch the active account, Work across multiple brands and client accounts
+
 Category
     [Operations](</business/plugins/?tab=plugins-operations>)
 
@@ -45,31 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.adspirer.com/>)
 
-[![](https://files.openai.com/content?id=file_00000000564c722f9f55454cd6179fd0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=2b46282e863a1e1ec9fb34b0693d299771d45c4aa6da66b17e0a41ff102487d6&v=0)![](https://files.openai.com/content?id=file_00000000564c722f9f55454cd6179fd0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=2b46282e863a1e1ec9fb34b0693d299771d45c4aa6da66b17e0a41ff102487d6&v=0)Adspirer show me my latest Linkedin Ads Spend and Ad performance(opens in a new window)](<https://chatgpt.com/?prompt=%40Adspirer+show+me+my+latest+Linkedin+Ads+Spend+and+Ad+performance>)
+[![](https://files.openai.com/content?id=file_00000000979c82309cbb259bdf9bcfb0&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=fdd7731858c526bc019260ee47d78a833a69ba835632696232086eb6864f0ea8&v=0)Adspirer Show my Google Ads performance for the last 30 days by campaign(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69461dc91ee48191ae4a14eb9bde1c21?install&prompt=Show%20my%20Google%20Ads%20performance%20for%20the%20last%2030%20days%20by%20campaign>)
 
 ## How it works
 
-Adspirer connects your Google Ads, Meta Ads, LinkedIn Ads, and TikTok Ads accounts to ChatGPT so you can manage advertising in plain language. Review connected accounts and campaign performance, research keywords and targeting, audit conversion tracking, draft new campaigns and creatives, and set up scheduled reports and threshold alerts. New campaigns are always created paused for your review, and budget, bid, or status changes are made only when you explicitly ask — nothing goes live without your confirmation.
+Adspirer is an AI advertising agent for Google Ads, Meta Ads (Facebook and Instagram), LinkedIn Ads, TikTok Ads, Amazon Ads, ChatGPT Ads and Microsoft Advertising (Bing Ads). It plans, launches, reports on and optimizes paid campaigns through conversation in ChatGPT. Connect your ad accounts once, then ask in plain language. Adspirer can: \- Report campaign performance with interactive dashboards for Google Ads and Meta Ads, and pull LinkedIn, TikTok, Amazon and ChatGPT Ads reports \- Find wasted spend, search terms and keywords that don't convert, and creative fatigue \- Research keywords, audiences and targeting \- Draft and create Search, Performance Max, YouTube and Demand Gen campaigns on Google; image, video and carousel campaigns on Meta, LinkedIn and TikTok; and campaigns on Amazon, ChatGPT Ads and Microsoft Advertising \- Write and refresh ad copy and creative \- Audit conversion tracking across every connected platform and return a prioritized fix list \- Diagnose why ads aren't producing sales by checking the funnel in order and stopping at the first broken step \- Show what competitors are advertising right now, next to your own account \- Read Google Analytics 4, Search Console, Tag Manager and Klaviyo to compare ad results with site and email outcomes \- Set up scheduled performance reports and threshold alerts \- Work across multiple brands and client accounts, for in-house teams and agencies You stay in control. New campaigns are always created paused, and budget, bid, status and targeting changes are made only when you ask. Read-only tools are marked as read-only, and write tools return the IDs of what they changed so you can check them. Requirements: an Adspirer account and a login with access to at least one supported ad account. Reporting needs read access; creating or editing campaigns needs edit access. Microsoft Advertising supports campaign management but not performance reporting yet.
 
 ## What else can you do?
 
   * ### Review advertising performance
 
-![](https://files.openai.com/content?id=file_00000000564c722f9f55454cd6179fd0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=2b46282e863a1e1ec9fb34b0693d299771d45c4aa6da66b17e0a41ff102487d6&v=0)![](https://files.openai.com/content?id=file_00000000564c722f9f55454cd6179fd0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=2b46282e863a1e1ec9fb34b0693d299771d45c4aa6da66b17e0a41ff102487d6&v=0)Adspirer Compare spend, clicks, and conversions across my campaigns over the last 30 days. Flag missing attribution context and rank the areas that deserve investigation.
+![](https://files.openai.com/content?id=file_00000000979c82309cbb259bdf9bcfb0&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=fdd7731858c526bc019260ee47d78a833a69ba835632696232086eb6864f0ea8&v=0)Adspirer Compare spend, clicks, and conversions across my campaigns over the last 30 days. Flag missing attribution context and rank the areas that deserve investigation.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Adspirer+Compare+spend%2C+clicks%2C+and+conversions+across+my+campaigns+over+the+last+30+days.+Flag+missing+attribution+context+and+rank+the+areas+that+deserve+investigation.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69461dc91ee48191ae4a14eb9bde1c21?install&prompt=Compare%20spend%2C%20clicks%2C%20and%20conversions%20across%20my%20campaigns%20over%20the%20last%2030%20days.%20Flag%20missing%20attribution%20context%20and%20rank%20the%20areas%20that%20deserve%20investigation.&surface=work>)
 
   * ### Investigate inefficient spend
 
-![](https://files.openai.com/content?id=file_00000000564c722f9f55454cd6179fd0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=2b46282e863a1e1ec9fb34b0693d299771d45c4aa6da66b17e0a41ff102487d6&v=0)![](https://files.openai.com/content?id=file_00000000564c722f9f55454cd6179fd0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=2b46282e863a1e1ec9fb34b0693d299771d45c4aa6da66b17e0a41ff102487d6&v=0)Adspirer Find campaigns with high spend and weak conversion performance over the last month. Explain the evidence and recommend a short list of follow-up checks.
+![](https://files.openai.com/content?id=file_00000000979c82309cbb259bdf9bcfb0&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=fdd7731858c526bc019260ee47d78a833a69ba835632696232086eb6864f0ea8&v=0)Adspirer Find campaigns with high spend and weak conversion performance over the last month. Explain the evidence and recommend a short list of follow-up checks.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Adspirer+Find+campaigns+with+high+spend+and+weak+conversion+performance+over+the+last+month.+Explain+the+evidence+and+recommend+a+short+list+of+follow-up+checks.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69461dc91ee48191ae4a14eb9bde1c21?install&prompt=Find%20campaigns%20with%20high%20spend%20and%20weak%20conversion%20performance%20over%20the%20last%20month.%20Explain%20the%20evidence%20and%20recommend%20a%20short%20list%20of%20follow-up%20checks.&surface=work>)
 
   * ### Prepare a campaign report
 
-![](https://files.openai.com/content?id=file_00000000564c722f9f55454cd6179fd0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=2b46282e863a1e1ec9fb34b0693d299771d45c4aa6da66b17e0a41ff102487d6&v=0)![](https://files.openai.com/content?id=file_00000000564c722f9f55454cd6179fd0&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=1&sig=2b46282e863a1e1ec9fb34b0693d299771d45c4aa6da66b17e0a41ff102487d6&v=0)Adspirer Summarize this campaign's results for the last month versus the previous month. Highlight material changes, likely questions for the team, and data limitations.
+![](https://files.openai.com/content?id=file_00000000979c82309cbb259bdf9bcfb0&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=fdd7731858c526bc019260ee47d78a833a69ba835632696232086eb6864f0ea8&v=0)Adspirer Summarize this campaign's results for the last month versus the previous month. Highlight material changes, likely questions for the team, and data limitations.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Adspirer+Summarize+this+campaign%27s+results+for+the+last+month+versus+the+previous+month.+Highlight+material+changes%2C+likely+questions+for+the+team%2C+and+data+limitations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69461dc91ee48191ae4a14eb9bde1c21?install&prompt=Summarize%20this%20campaign's%20results%20for%20the%20last%20month%20versus%20the%20previous%20month.%20Highlight%20material%20changes%2C%20likely%20questions%20for%20the%20team%2C%20and%20data%20limitations.&surface=work>)
 
 
 
@@ -82,13 +85,27 @@ Adspirer connects your Google Ads, Meta Ads, LinkedIn Ads, and TikTok Ads accoun
 
 
 
+### Skills
+
+  * adspirer-agent
+  * adspirer-amazon-ads
+  * adspirer-chatgpt-ads
+  * adspirer-creative
+  * adspirer-docs
+  * adspirer-google-ads
+  * adspirer-launch
+  * adspirer-linkedin-ads
+  * 7 more
+
+
+
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://support@adspirer.com>)
+### [Plugin supportLearn more(opens in a new window)](<https://support@adspirer.com>)
 
-### [Privacy policyLearn more](<https://www.adspirer.com/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.adspirer.com/privacy>)
 
 ## Add the Adspirer plugin in a few clicks
 
@@ -98,13 +115,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)SimilarwebWeb, app, search & market data](</business/plugins/similarweb/>)[![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)SemrushAsk about site metrics and traffic data.](</business/plugins/semrush/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)SimilarwebWeb, app, search & market data](</business/plugins/similarweb/>)[![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)SemrushResearch keywords & traffic](</business/plugins/semrush/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +143,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +165,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +193,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +213,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

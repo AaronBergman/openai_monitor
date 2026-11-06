@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://openai.com/>)
 
-[![](https://files.openai.com/content?id=file_0000000044d481f7bc4c753218e80ae9&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=149ee0a9df958214189ff98bd2bfa49933fc73aa851645109941e854432496dd&v=0)Life Sciences Literature Find recent papers and preprints about TREM2 in microglia.(opens in a new window)](<https://chatgpt.com/?prompt=%40Life+Sciences+Literature+Find+recent+papers+and+preprints+about+TREM2+in+microglia.>)
+[![](https://files.openai.com/content?id=file_0000000044d481f7bc4c753218e80ae9&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=149ee0a9df958214189ff98bd2bfa49933fc73aa851645109941e854432496dd&v=0)Life Sciences Literature Find recent papers and preprints about TREM2 in microglia.(opens in a new window)](<https://chatgpt.com/plugins/Plugin_3d180245a1a881918476af7b5061e1e4?install&prompt=Find%20recent%20papers%20and%20preprints%20about%20TREM2%20in%20microglia.>)
 
 ## How it works
 
@@ -60,19 +60,19 @@ Helps you discover and summarize biomedical literature using PubMed publication 
 
 ![](https://files.openai.com/content?id=file_0000000044d481f7bc4c753218e80ae9&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=149ee0a9df958214189ff98bd2bfa49933fc73aa851645109941e854432496dd&v=0)Life Sciences Literature Find recent papers and preprints about this biomedical question. Summarize the relevant findings, label publication status, and provide identifiers and source links.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Life+Sciences+Literature+Find+recent+papers+and+preprints+about+this+biomedical+question.+Summarize+the+relevant+findings%2C+label+publication+status%2C+and+provide+identifiers+and+source+links.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_3d180245a1a881918476af7b5061e1e4?install&prompt=Find%20recent%20papers%20and%20preprints%20about%20this%20biomedical%20question.%20Summarize%20the%20relevant%20findings%2C%20label%20publication%20status%2C%20and%20provide%20identifiers%20and%20source%20links.&surface=work>)
 
   * ### Check full-text availability
 
 ![](https://files.openai.com/content?id=file_0000000044d481f7bc4c753218e80ae9&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=149ee0a9df958214189ff98bd2bfa49933fc73aa851645109941e854432496dd&v=0)Life Sciences Literature Check these publication identifiers for PMC Open Access availability. Return the matching records and links, and flag unmatched or unavailable articles.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Life+Sciences+Literature+Check+these+publication+identifiers+for+PMC+Open+Access+availability.+Return+the+matching+records+and+links%2C+and+flag+unmatched+or+unavailable+articles.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_3d180245a1a881918476af7b5061e1e4?install&prompt=Check%20these%20publication%20identifiers%20for%20PMC%20Open%20Access%20availability.%20Return%20the%20matching%20records%20and%20links%2C%20and%20flag%20unmatched%20or%20unavailable%20articles.&surface=work>)
 
   * ### Compare publication records
 
 ![](https://files.openai.com/content?id=file_0000000044d481f7bc4c753218e80ae9&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=149ee0a9df958214189ff98bd2bfa49933fc73aa851645109941e854432496dd&v=0)Life Sciences Literature Compare the preprint and published records for these DOIs. Identify linked versions and summarize documented differences without assuming their findings are identical.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Life+Sciences+Literature+Compare+the+preprint+and+published+records+for+these+DOIs.+Identify+linked+versions+and+summarize+documented+differences+without+assuming+their+findings+are+identical.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_3d180245a1a881918476af7b5061e1e4?install&prompt=Compare%20the%20preprint%20and%20published%20records%20for%20these%20DOIs.%20Identify%20linked%20versions%20and%20summarize%20documented%20differences%20without%20assuming%20their%20findings%20are%20identical.&surface=work>)
 
 
 
@@ -89,9 +89,9 @@ Helps you discover and summarize biomedical literature using PubMed publication 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
 ### [Privacy policyLearn more](<https://openai.com/policies/row-privacy-policy/>)
 
@@ -103,13 +103,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000009080720c98a45b9cd6ee083f&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=8934eb25d96bba2bfd29b97de3ed875d8caa4e7e17c1b48e28843cc9423b10a9&v=0)![](https://files.openai.com/content?id=file_00000000c9bc81f7b98a27c81cc57bd7&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f14586e5e1c0907518a48f23fe94ffc19b99c728d987e8dab9ba8dd5111e4f94&v=0)BioRenderFind and create figures](</business/plugins/biorender/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)[![](https://files.openai.com/content?id=file_00000000b5d471f5b4fe2bdb43f0ba33&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=20e8fa203ddff0cc1c1dae090b410d5517560a1710adb9847e702801250490bd&v=0)![](https://files.openai.com/content?id=file_00000000b5d471f5b4fe2bdb43f0ba33&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=20e8fa203ddff0cc1c1dae090b410d5517560a1710adb9847e702801250490bd&v=0)ZoteroFind papers and add citations from Zotero](</business/plugins/zotero/>)[![](https://files.openai.com/content?id=file_00000000c0cc71f7abb7f7391ab3a82e&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=7&sig=b6e77796fb1bb97255e82c76279c4818bc08fc16b04153e3105fd6328952321e&v=0)![](https://files.openai.com/content?id=file_00000000f3f071f78b9667c3a41d9958&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=7&sig=07dce48b78a17f0fc86ea357f5e95241ffb5e140802c4b1afe2eea1f9077bea9&v=0)ConsensusExplore scientific research](</business/plugins/consensus/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000009080720c98a45b9cd6ee083f&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=8934eb25d96bba2bfd29b97de3ed875d8caa4e7e17c1b48e28843cc9423b10a9&v=0)![](https://files.openai.com/content?id=file_00000000c9bc81f7b98a27c81cc57bd7&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f14586e5e1c0907518a48f23fe94ffc19b99c728d987e8dab9ba8dd5111e4f94&v=0)BioRenderFind and create figures](</business/plugins/biorender/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)[![](https://files.openai.com/content?id=file_00000000b5d471f5b4fe2bdb43f0ba33&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=20e8fa203ddff0cc1c1dae090b410d5517560a1710adb9847e702801250490bd&v=0)![](https://files.openai.com/content?id=file_00000000b5d471f5b4fe2bdb43f0ba33&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=1&sig=20e8fa203ddff0cc1c1dae090b410d5517560a1710adb9847e702801250490bd&v=0)ZoteroFind papers and add citations from Zotero](</business/plugins/zotero/>)[![](https://files.openai.com/content?id=file_00000000c0cc71f7abb7f7391ab3a82e&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=7&sig=b6e77796fb1bb97255e82c76279c4818bc08fc16b04153e3105fd6328952321e&v=0)![](https://files.openai.com/content?id=file_00000000f3f071f78b9667c3a41d9958&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=7&sig=07dce48b78a17f0fc86ea357f5e95241ffb5e140802c4b1afe2eea1f9077bea9&v=0)ConsensusSearch peer-reviewed research](</business/plugins/consensus/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -121,10 +131,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -143,7 +153,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -170,8 +181,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -190,6 +201,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

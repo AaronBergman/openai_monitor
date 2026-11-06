@@ -54,8 +54,11 @@ Our position is based on three key principles:
 
   1. **The UK has a robust AI ecosystem, but global competitiveness requires treating data access as a fundamental building block for AI-driven economic growth and investment.** The UK can become a global leader in AI by adopting policies that build on its current strengths. British researchers have been instrumental in advancing the AI field, and today the UK is one of the leading countries in the world for AI adoption. However, seizing this potential will require a policy framework that recognizes the crucial role of data in developing advanced AI systems, creating new AI-driven applications to solve hard problems, and driving economic growth and investment.  
 
+
   2. **A broad TDM exception is necessary to drive AI innovation and investment in the UK, and can be made to balance the needs of AI development with the mitigation of concrete harms to copyright owners.** Innovation and investments in AI infrastructure are only possible in jurisdictions where laws clearly support technological research and development. The UK must create a clear, predictable regulatory environment that sets it apart from other jurisdictions in order to boost its competitiveness. Such laws are not zero-sum: the Government can implement a broad TDM exception (Option Two) in a way that encourages innovation, addresses specific rightsholder concerns, and recognizes that AI will create new opportunities for creators’ and rightsholders’ creative output.
+
   3. **The EU regime shows the challenges of implementing opt-out systems.** In the EU, the lack of clear and scalable technical standards has created uncertainty about what opt-out methods are workable and valid, causing uncertainty for both AI companies and rightsholders. In contrast, the US approach has sustained American leadership in earlier technological waves and now AI. The UK has a rare opportunity to cement itself as the AI capital of Europe by making choices that avoid policy uncertainty, foster innovation, and drive economic growth.
+
 
 
 
@@ -84,9 +87,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -105,7 +109,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -123,14 +128,17 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -149,6 +157,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -156,6 +165,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
