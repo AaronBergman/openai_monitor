@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://support-ticket-validator.sidcraigau.workers.dev>)
 
-[![](https://files.openai.com/content?id=file_0000000031f471f781224a9f98e43a0b&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=599b9900f0fdd056fa474237943cb766a2ae51068b5d564f0353ffa26403c8b2&v=0)Support Ticket Validator Check whether this support ticket contains all required information.(opens in a new window)](<https://chatgpt.com/?prompt=%40Support+Ticket+Validator+Check+whether+this+support+ticket+contains+all+required+information.>)
+[![](https://files.openai.com/content?id=file_0000000031f471f781224a9f98e43a0b&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=599b9900f0fdd056fa474237943cb766a2ae51068b5d564f0353ffa26403c8b2&v=0)Support Ticket Validator Check whether this support ticket contains all required information.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a52268982b081919d26887c12f67a2c?install&prompt=Check%20whether%20this%20support%20ticket%20contains%20all%20required%20information.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Support Ticket Validator checks whether support ticket data contains the require
 
 ![](https://files.openai.com/content?id=file_0000000031f471f781224a9f98e43a0b&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=599b9900f0fdd056fa474237943cb766a2ae51068b5d564f0353ffa26403c8b2&v=0)Support Ticket Validator Validate this support ticket against its required fields. Return the present fields, missing fields, and validation errors in a clear checklist.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Support+Ticket+Validator+Validate+this+support+ticket+against+its+required+fields.+Return+the+present+fields%2C+missing+fields%2C+and+validation+errors+in+a+clear+checklist.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a52268982b081919d26887c12f67a2c?install&prompt=Validate%20this%20support%20ticket%20against%20its%20required%20fields.%20Return%20the%20present%20fields%2C%20missing%20fields%2C%20and%20validation%20errors%20in%20a%20clear%20checklist.&surface=work>)
 
   * ### Prepare an intake follow-up
 
 ![](https://files.openai.com/content?id=file_0000000031f471f781224a9f98e43a0b&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=599b9900f0fdd056fa474237943cb766a2ae51068b5d564f0353ffa26403c8b2&v=0)Support Ticket Validator Check this ticket for missing required fields, then draft a short set of questions to collect only the missing information before handoff.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Support+Ticket+Validator+Check+this+ticket+for+missing+required+fields%2C+then+draft+a+short+set+of+questions+to+collect+only+the+missing+information+before+handoff.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a52268982b081919d26887c12f67a2c?install&prompt=Check%20this%20ticket%20for%20missing%20required%20fields%2C%20then%20draft%20a%20short%20set%20of%20questions%20to%20collect%20only%20the%20missing%20information%20before%20handoff.&surface=work>)
 
   * ### Review a corrected ticket
 
 ![](https://files.openai.com/content?id=file_0000000031f471f781224a9f98e43a0b&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=599b9900f0fdd056fa474237943cb766a2ae51068b5d564f0353ffa26403c8b2&v=0)Support Ticket Validator Validate this revised ticket and compare the result with the earlier missing-field list. Identify what is resolved and what still needs attention.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Support+Ticket+Validator+Validate+this+revised+ticket+and+compare+the+result+with+the+earlier+missing-field+list.+Identify+what+is+resolved+and+what+still+needs+attention.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a52268982b081919d26887c12f67a2c?install&prompt=Validate%20this%20revised%20ticket%20and%20compare%20the%20result%20with%20the%20earlier%20missing-field%20list.%20Identify%20what%20is%20resolved%20and%20what%20still%20needs%20attention.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Support Ticket Validator checks whether support ticket data contains the require
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://support-ticket-validator.sidcraigau.workers.dev/support>)
+### [Plugin supportLearn more(opens in a new window)](<https://support-ticket-validator.sidcraigau.workers.dev/support>)
 
-### [Privacy policyLearn more](<https://support-ticket-validator.sidcraigau.workers.dev/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://support-ticket-validator.sidcraigau.workers.dev/privacy>)
 
 ## Add the Support Ticket Validator plugin in a few clicks
 
@@ -98,13 +98,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000003b6c71f6afe393e3cdd1c85c&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=72b97d671654f6d8187d552293a3ce20d1cd6e6e8991bfbf04c47d335c3449fc)![](https://files.openai.com/content?id=file_000000003b6c71f6afe393e3cdd1c85c&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=72b97d671654f6d8187d552293a3ce20d1cd6e6e8991bfbf04c47d335c3449fc)PylonManage Pylon support issues](</business/plugins/pylon/>)[![](https://files.openai.com/content?id=file_000000002c8881f7849e9678184a7570&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=fd68339b4c6e79d44e24fd4cb952442a141bdc3d7fecbd518a5aa865f6bc0e02&v=0)![](https://files.openai.com/content?id=file_000000002c8881f7849e9678184a7570&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=fd68339b4c6e79d44e24fd4cb952442a141bdc3d7fecbd518a5aa865f6bc0e02&v=0)Zendesk (Beta)Investigate support activity and manage Zendesk work](</business/plugins/zendesk/>)[![](https://files.openai.com/content?id=file_0000000075b881f7a9ad432ebdce6c71&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=4adcf89f6718c6d44ffd414ffbb0bcf74b53ab3dbed7efb057a61d7578810e57&v=0)![](https://files.openai.com/content?id=file_0000000075b881f7a9ad432ebdce6c71&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=4adcf89f6718c6d44ffd414ffbb0bcf74b53ab3dbed7efb057a61d7578810e57&v=0)UnthreadManage your support tickets](</business/plugins/unthread/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages.](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects.](</business/plugins/linear/>)
+[![](https://files.openai.com/content?id=file_000000003b6c71f6afe393e3cdd1c85c&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=72b97d671654f6d8187d552293a3ce20d1cd6e6e8991bfbf04c47d335c3449fc)![](https://files.openai.com/content?id=file_000000003b6c71f6afe393e3cdd1c85c&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=72b97d671654f6d8187d552293a3ce20d1cd6e6e8991bfbf04c47d335c3449fc)PylonManage Pylon support issues](</business/plugins/pylon/>)[![](https://files.openai.com/content?id=file_000000002c8881f7849e9678184a7570&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=fd68339b4c6e79d44e24fd4cb952442a141bdc3d7fecbd518a5aa865f6bc0e02&v=0)![](https://files.openai.com/content?id=file_000000002c8881f7849e9678184a7570&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=fd68339b4c6e79d44e24fd4cb952442a141bdc3d7fecbd518a5aa865f6bc0e02&v=0)Zendesk (Beta)Investigate support activity and manage Zendesk work](</business/plugins/zendesk/>)[![](https://files.openai.com/content?id=file_0000000075b881f7a9ad432ebdce6c71&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=4adcf89f6718c6d44ffd414ffbb0bcf74b53ab3dbed7efb057a61d7578810e57&v=0)![](https://files.openai.com/content?id=file_0000000075b881f7a9ad432ebdce6c71&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=4adcf89f6718c6d44ffd414ffbb0bcf74b53ab3dbed7efb057a61d7578810e57&v=0)UnthreadManage your support tickets](</business/plugins/unthread/>)[![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)![](https://files.openai.com/content?id=file_000000004c0c81f78746051c8894e9f0&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=94634a13f89821846ddbbbaa5e99aadc55c2198ec4b4dbd453217f71362d0950&v=0)DocumentsCreate and edit documents](</business/plugins/documents/>)[![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)SlackLook up chats and messages](</business/plugins/slack/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects](</business/plugins/linear/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

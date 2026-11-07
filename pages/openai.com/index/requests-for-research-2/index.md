@@ -26,13 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Warmups
-
-  * Warmups
-  * Requests for Research
-
-
-
 January 31, 2018
 
 [Release](</research/index/release/>)
@@ -47,6 +40,18 @@ Loading…
 
 Share
 
+Warmups
+
+  * Warmups
+  * Requests for Research
+
+
+
+  * Warmups
+  * Requests for Research
+
+
+
 Like our original [Requests for Research⁠(opens in a new window)](<https://github.com/openai/requests-for-research>) (which [resulted⁠(opens in a new window)](<http://lstm.seas.harvard.edu/latex/>) [in⁠(opens in a new window)](<http://kvfrans.com/static/trpo.pdf>) [several⁠(opens in a new window)](<https://github.com/dojoteef/glas>) [papers⁠(opens in a new window)](<https://arxiv.org/abs/1605.01335>)), we expect these problems to be a fun and meaningful way for new people to enter the field, as well as for practitioners to hone their skills (it’s also a great way to get a [job⁠(opens in a new window)](<https://www.wired.com/story/meet-the-high-schooler-shaking-up-artificial-intelligence/>) at OpenAI). Many will require inventing new ideas. Please [email⁠](<mailto:requests-for-research@openai.com>) us with questions or solutions you’d like us to publicize!
 
 (Also, if you don’t have deep learning background but want to learn to solve problems like these, please apply for our [Fellowship⁠(opens in a new window)](<https://jobs.lever.co/openai/54ddfefe-6483-4bba-a828-11a156eae7eb>) program!)
@@ -58,7 +63,9 @@ If you’re not sure where to begin, here are some solved starter problems.
 ⭐ Train an LSTM to solve the `XOR` problem: that is, given a sequence of bits, determine its parity. The [LSTM⁠(opens in a new window)](<http://colah.github.io/posts/2015-08-Understanding-LSTMs/>) should consume the sequence, one bit at a time, and then output the correct answer at the sequence’s end. Test the two approaches below:
 
   * Generate a dataset of random 100,000 binary strings of length 50. Train the LSTM; what performance do you get?
+
   * Generate a dataset of random 100,000 binary strings, where the length of each string is independently and randomly chosen between 1 and 50. Train the LSTM. Does it succeed? What explains the difference?
+
 
 
 
@@ -69,8 +76,11 @@ If you’re not sure where to begin, here are some solved starter problems.
 ⭐⭐ **Slitherin’.** Implement and solve a multiplayer clone of the classic [Snake⁠(opens in a new window)](<https://www.youtube.com/watch?v=wDbTP0B94AM>) game (see [slither.io⁠(opens in a new window)](<https://slither.io/>) for inspiration) as a [Gym⁠(opens in a new window)](<https://github.com/openai/gym>) environment.
 
   * Environment: have a reasonably large field with multiple snakes; snakes grow when eating randomly-appearing fruit; a snake dies when colliding with another snake, itself, or the wall; and the game ends when all snakes die. Start with two snakes, and scale from there.
+
   * Agent: solve the environment using self-play with an RL algorithm of [your⁠](</index/competitive-self-play/>) [choice⁠(opens in a new window)](<https://deepmind.com/blog/alphago-zero-learning-scratch/>). You’ll need to experiment with various approaches to overcome self-play instability (which resembles the instability people see with GANs). For example, try training your current policy against a distribution of past policies. Which approach works best?
+
   * Inspect the learned behavior: does the agent learn to competently pursue food and avoid other snakes? Does the agent learn to attack, trap, or gang up against the competing snakes? Tweet us videos of the learned policies!
+
 
 
 
@@ -79,9 +89,13 @@ If you’re not sure where to begin, here are some solved starter problems.
 ⭐⭐⭐ **Transfer Learning Between Different Games via Generative Models.** Proceed as follows:
 
   * Train 11 good policies for 11 [Atari⁠(opens in a new window)](<https://github.com/openai/gym#atari>) games. Generate 10,000 trajectories of 1,000 steps each from the policy for each game.
+
   * Fit a generative model (such as the [Transformer⁠(opens in a new window)](<https://arxiv.org/abs/1706.03762>)) to the trajectories produced by 10 of the games.
+
   * Then fine-tune that model on the 11th game.
+
   * Your goal is to quantify the benefit from pre-training on the 10 games. How large does the model need to be for the pre-training to be useful? How does the size of the effect change when the amount of data from the 11th game is reduced by 10x? By 100x?
+
 
 
 
@@ -108,15 +122,15 @@ Ilya Sutskever, Tim Salimans, Durk Kingma
 
 [View all](</news/>)
 
-![Frontier Risk And Preparedness](https://images.ctfassets.net/kftzwdyauwt9/1f19f98e-798a-4d80-4549e8118ac0/c97816f694a725a9f292f53f1dc5f44f/frontier-risk-and-preparedness.png?w=3840&q=90&fm=webp)
+![Optical illusion of green and yellow arrows on purple-striped background.](https://images.ctfassets.net/kftzwdyauwt9/1f19f98e-798a-4d80-4549e8118ac0/c97816f694a725a9f292f53f1dc5f44f/frontier-risk-and-preparedness.png?w=3840&q=90&fm=webp)
 
 [Frontier risk and preparednessSafetyOct 26, 2023](</index/frontier-risk-and-preparedness/>)
 
-![Red Teaming Network](https://images.ctfassets.net/kftzwdyauwt9/71c1edf1-06f2-415c-b0a2fbe1cfe0/0ff4554769ae7609f53c44a160e351fe/red-teaming-network.png?w=3840&q=90&fm=webp)
+![Warm-toned concentric squares in shades of orange and brown.](https://images.ctfassets.net/kftzwdyauwt9/71c1edf1-06f2-415c-b0a2fbe1cfe0/0ff4554769ae7609f53c44a160e351fe/red-teaming-network.png?w=3840&q=90&fm=webp)
 
 [OpenAI Red Teaming NetworkSafetySep 19, 2023](</index/red-teaming-network/>)
 
-![Confidence-Building Measures for Artificial Intelligence Workshop proceedings](https://images.ctfassets.net/kftzwdyauwt9/Z9HqTzpgkOEFSdz1i0Mkl/4a794853a9d3412851d52a0e18d407f3/Confidence-Building_Measures_for_Artificial_Intelligence__Workshop_proceedings.png?w=3840&q=90&fm=webp)
+![A digital painting with a pastel landscape of rolling hills under a soft pink sky, suggesting a peaceful dawn](https://images.ctfassets.net/kftzwdyauwt9/Z9HqTzpgkOEFSdz1i0Mkl/4a794853a9d3412851d52a0e18d407f3/Confidence-Building_Measures_for_Artificial_Intelligence__Workshop_proceedings.png?w=3840&q=90&fm=webp)
 
 [Confidence-Building Measures for Artificial Intelligence: Workshop proceedingsConclusionAug 1, 2023](</index/confidence-building-measures-for-artificial-intelligence/>)
 
@@ -130,9 +144,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -151,7 +166,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -169,14 +185,17 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -195,6 +214,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -202,6 +222,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
