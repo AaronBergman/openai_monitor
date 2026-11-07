@@ -67,8 +67,11 @@ It won’t replace your context, expertise, or judgment—but it can make the th
 Most brainstorming gets stuck in one of two places: not enough ideas, or too many ideas with no structure. ChatGPT helps by doing three things well:
 
   * **Expands your option set:** It can propose angles, experiments, messages, and alternatives quickly so you’re not starting from scratch.
+
   * **Adds structure:** It can group ideas into themes, suggest simple frameworks, and turn loosely defined goals into clearer choices.
+
   * **Helps you pressure-test:** If you ask it to poke holes in a plan, it can surface assumptions and tradeoffs early so you can refine your thinking before you invest.
+
 
 
 
@@ -79,8 +82,11 @@ Most brainstorming gets stuck in one of two places: not enough ideas, or too man
 Instead of asking for general ideas, define what you are trying to decide:
 
   * “We need to choose a campaign concept for the next 6 weeks.”
+
   * “We need to decide what to prioritize for onboarding improvements.”
+
   * “We need to pick a rollout plan that fits our capacity.”
+
 
 
 
@@ -103,12 +109,19 @@ Finally, move into planning. Once you’ve chosen a direction, ask for a draft e
 These are small moves that make the brainstorm noticeably better:
 
   * **Ask for reasoning:** “Explain why you’re recommending this option.”
+
   * **Force a choice:** “If we can only do one, which should we pick and why?”
+
   * **Request a “friendly critique”:** “What’s one thing that could make this stronger?”
+
   * **Separate quick wins vs. foundational work:** “Label each as quick win / foundational.”
+
   * **Use criteria:** “Score each idea 1–5 on impact, effort, confidence.”
+
   * **Change the format to change the thinking:** “Show this as 2x2, a decision tree, a timeline, or a stakeholder map.”
+
   * **Use voice/dictation when thoughts are messy:** “Here are my rough thoughts—help me organize them into clear themes and next steps.”
+
 
 
 
@@ -120,7 +133,7 @@ Brainstorm ideas for a team offsite session focused on planning and alignment.| 
 Generate possible campaign themes for an upcoming product launch.| The campaign should appeal to busy business users and connect clearly to real work problems.| Several options with different directions or tones so the team can compare approaches.  
 Suggest ways to improve an internal process that currently feels slow or repetitive.| Review the attached current process, involves several handoffs.| A prioritized set of ideas, highlighting the strongest options to test first.  
   
-Refer back to prompt engineering basics for how to craft high-quality prompts.
+Refer back to [prompt engineering basics](</academy/prompting/>) for how to craft high-quality prompts.
 
 Think of ChatGPT as a fast draft partner. It’s useful for generating options and structuring your thinking, but works best when you bring context and apply a quick reality check before acting.
 
@@ -180,9 +193,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -201,7 +215,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -219,6 +234,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -227,8 +243,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -247,6 +263,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

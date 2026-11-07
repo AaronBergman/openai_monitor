@@ -26,222 +26,93 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-### OpenAI is offering $1 billion in Daybreak credits for defenders
-
-[Learn more](</collective-cyberdefense/application/>)
-
 <0]<}.]{#<=+}:-@/+{.]>*1.@{<1-}->0#/010-\<[:1*./0-/-=*1*+<#>1-\1=1.+*==%*\-[]{/]:/*##]]@<\.@=]#}{}>\><-><{\1=@.@]#%>*%[]@>>[.+0.
 
 # Daybreak
 
-The defense the AI era demands.
-
-[Explore Daybreak solutions](</business/solutions/cybersecurity/>)
+OpenAI’s cybersecurity program brings together AI capabilities, security solutions, partners, and support to help defenders protect the systems we all rely on.
 
 Apply for Daybreak
 
-## Building the future of cyber defense
+## Apply for Daybreak Access
 
-Cybersecurity work that once required specialized tools, investigations, and many handoffs can now be broken into thousands of reasoning steps and worked through by capable models.
+Apply to use OpenAI's advanced cybersecurity capabilities as an individual or an organization. To responsibly offer these capabilities, we verify applicants and review how they plan to use OpenAI's models before approving access.
 
-Daybreak turns that capability into a governed cyber defense stack: frontier models, the Codex harness, Codex Security, trusted workflows, and ecosystem partners—so defenders can reduce risk faster while keeping trusted access and action under human control.
+![Blue light along a planet’s horizon beneath a starry sky.](https://images.ctfassets.net/kftzwdyauwt9/7bL3coviHatQtqWTNPTQYZ/9e160d8676ea7ae9b39c3ff2716f23b0/daybreak-blue.png?w=3840&q=90&fm=webp)
 
-![Daybreak combines state-of-the-art models for advanced cyber reasoning, Codex to connect code, tools, tests and human review, and Codex Security for investigations, validation, remediation and reporting.](https://images.ctfassets.net/kftzwdyauwt9/6tuqpQgOveIt1bgiFuuhSh/7bd41ee23815202a01e665e7adc5da3b/daybreak-connected-cyber-defense-stack-3x.png?w=3840&q=90&fm=webp)
+## Daybreak Blue
 
-## Turn defense into a continuous loop
+For defensive work including vulnerability discovery, validation, remediation, threat modeling, and security investigation.
 
-Daybreak delivers an agentic defense loop: inventory, discover, validate, assign, remediate, and prove. Together, [Codex Security](</business/solutions/cybersecurity/>), GPT Cyber models, [Patch the Planet⁠(opens in a new window)](<https://trailofbits.com/patch-the-planet/>), and the [Daybreak Defense Network](</daybreak/partners-new/>) bring governed defensive capability into the tools and workflows teams already use.
+![Red light along a planet’s horizon beneath a starry sky.](https://images.ctfassets.net/kftzwdyauwt9/aU6EV8bE1HnCHD1ix63Lf/86d3860fb9a6f86b4f6095a901d40d29/daybreak_2.png?w=3840&q=90&fm=webp)
 
-01
+## Daybreak Red
 
-#### Inventory
+For advanced, authorized red teaming, penetration testing, exploit validation, and controlled security research.
 
-Map, link, update
+Apply for Daybreak
 
-02
+[Read the access guide(opens in a new window)](<https://help.openai.com/articles/20001258-trusted-access-for-cyber>)
 
-#### Discovery
+Cybersecurity solutions
 
-Scan, analyze, import
+### AI products for cyber defense
 
-03
+Codex Security brings OpenAI’s models into your security workflow, from scans to reviewed fixes. Explore the Codex plugin, Cloud for connected repositories, and the CLI and SDK for terminal workflows and custom integrations.
 
-#### Dynamic validation
+[Explore cybersecurity products](</business/solutions/cybersecurity/>)
 
-Reproduce, test, confirm
+![Codex Security interface showing prioritized security findings.](https://images.ctfassets.net/kftzwdyauwt9/1V1LKoepKyrNrMfi0yb2f8/ece682bc29a48564779872e4cc6c87ce/Daybreak_-_1.png?w=3840&q=90&fm=webp)
 
-04
-
-#### Ownership assignment
-
-Identify, route, follow up
-
-05
-
-#### Verified remediation
-
-Patch, deploy, verify
-
-  1. 01
-
-#### Inventory
-
-Map, link, update
-
-  2. 02
-
-#### Discovery
-
-Scan, analyze, import
-
-  3. 03
-
-#### Dynamic validation
-
-Reproduce, test, confirm
-
-  4. 04
-
-#### Ownership assignment
-
-Identify, route, follow up
-
-  5. 05
-
-#### Verified remediation
-
-Patch, deploy, verify
-
-
-
-
-Back to inventory
-
-**SECURITY.md** Shared context
-
-SECURITY.md represents shared system context, not another step in the loop. Inventory, discovery, dynamic validation, ownership assignment, and verified remediation each read the existing context and contribute what they learn. Each pass reuses the system map, ownership, investigation evidence, and checks already established, so later passes can focus on changes and unresolved risks instead of starting over. People review consequential changes and independently verify deployed fixes. The pulse illustrates a context contribution, not measured progress or savings.
-
-  * [Explore the Defense Factory](<https://openai.com/the-defense-factory/>)
-
-
-
-## Governed by design
-
-Frontier models can increasingly perform longer, more complex sequences of cyber work. Daybreak is built to put that capability in defenders’ hands responsibly—with human judgment, monitoring, safeguards, and community collaboration. Through [Daybreak Access](</form/enterprise-trusted-access-for-cyber/>), verified defenders can access more capable and permissive defensive tools paired with stronger verification, scope controls, and oversight.
-
-  * [Explore Daybreak solutions](</index/daybreak-securing-the-world/>)
-
-
-
-## Built for the work in front of you
-
-#### Secure SDLC / AppSec
-
-Find, validate, and fix vulnerabilities before software ships.
-
-#### Defensive operations
-
-Investigate threats, improve detections, and support response.
-
-#### Authorized security testing
-
-Test systems with permission so weaknesses can be found and fixed first.
-
-## Built with leading defenders
-
-Daybreak partners with leading security companies, systems integrators, and specialist firms to bring frontier AI into the tools and workflows defenders already trust.
-
-### Become a Daybreak partner
-
-Work with OpenAI to build GPT Cyber models into your security offerings.
-
-[Become a Daybreak partner](</daybreak/partners/>)
+Daybreak Defense Network
 
 ### Work with a Daybreak partner
 
-Deploy GPT Cyber into the tools and services your organization already uses.
+Find partners bringing OpenAI’s cyber capabilities into security products, integrations, and managed services. Building a security offering? Learn more about the Daybreak Defense Network and apply to partner with us.
 
-[Explore Daybreak partners](</daybreak/partners/>)
+[Find a partner](</business/partners/locator/?tags=partner-joint-cyber>)[Become a partner](</form/daybreak-cyber-partner-program/>)
 
-![Grid of logos for partners in OpenAI's Daybreak program](https://images.ctfassets.net/kftzwdyauwt9/5DNXdTp2BCly1OpsJ3QdAK/9f149ffa9fe477416931f8e8e5d33a1c/daybreak-partner-logos-hackerone-2x.png?w=3840&q=90&fm=webp)
+![Logos of partners in the Daybreak Defense Network.](https://images.ctfassets.net/kftzwdyauwt9/40WADz66HUAfj4yB9yFyZc/8018a14e9566b42171e2cae030f7e9a6/Daybreak_-_2.png?w=3840&q=90&fm=webp)
 
-### Daybreak for the frontline defenders who need it most
+Daybreak for Frontline Defenders
 
-OpenAI is committing **$1 billion in subsidized Daybreak access over six months** to help protect the essential services and digital infrastructure we all depend on.
+### Protect critical infrastructure
 
-State and local governments, critical-infrastructure operators, community banks, nonprofits, and open-source maintainers can register their interest in support to find, prioritize, and fix security vulnerabilities.
+Following our [call for collective action](</collective-cyberdefense/>), OpenAI has committed $1 billion in subsidized Daybreak access, training, technical support, and partnerships. If you work for or with a utility, state or local government, community bank, nonprofit, or open-source project, register your interest.
 
-  * [Learn more](</collective-cyberdefense/application/>)
+[Register interest in support](</collective-cyberdefense/application/>)[Learn more](</index/daybreak-for-frontline-defenders/>)
 
+![A call for collective action on cyber defense, with supporting organization logos.](https://images.ctfassets.net/kftzwdyauwt9/1e0khh3BKVmgrcbvG7PaWT/1c89ffdd02826b2467606113fd9ed27d/Daybreak_-_5.png?w=3840&q=90&fm=webp)
 
+Patch the Planet
 
-## Fixing the software the world runs on
+### Fix open-source vulnerabilities
 
-Open source underpins much of the internet and an estimated [_70–90% of modern software_ ⁠(opens in a new window)](<https://www.linuxfoundation.org/blog/blog/a-summary-of-census-ii-open-source-software-application-libraries-the-world-depends-on>). But many critical projects are maintained by small teams with limited time and funding.
+Maintain an open-source project? Patch the Planet brings OpenAI, Trail of Bits, Calif, and HackerOne together to help you validate findings, test patches and coordinate disclosure.
 
-OpenAI wants the people maintaining this shared infrastructure to benefit directly from frontier AI—not be overwhelmed by more unvalidated reports.
+[Apply to Patch the Planet(opens in a new window)](<https://patchtheplanet.org/>)[Learn more(opens in a new window)](<https://patchtheplanet.org/>)
 
-Patch the Planet, built with Trail of Bits, pairs frontier models with expert review to validate findings, develop and test patches, coordinate disclosure, and keep maintainers in control of what lands.
+![Patch the Planet homepage with a globe rendered in colored text.](https://images.ctfassets.net/kftzwdyauwt9/6jDNYjAozVAMwF7iHoPm3C/cbb3a8a83f475c6ff49c8951a128b85a/Daybreak_-_4.png?w=3840&q=90&fm=webp)
 
-## What defenders have achieved
+## Further reading
 
-Committed to greater cyber resilience
+![Blue light along a planet’s horizon beneath a starry sky.](https://images.ctfassets.net/kftzwdyauwt9/7bL3coviHatQtqWTNPTQYZ/9e160d8676ea7ae9b39c3ff2716f23b0/daybreak-blue.png?w=3840&q=90&fm=webp)
 
-$17M
+## [Daybreak access guide](<https://help.openai.com/articles/20001258-trusted-access-for-cyber>)
 
-API credits and direct support for open-source security and the wider maintainer ecosystem.
+![A call for collective action on cyber defense.](https://images.ctfassets.net/kftzwdyauwt9/6imVXMcUcHNW3dFi3sWjCo/997611e54208bc274e1e1d6f0db21e31/collective-cyber-defense--seo-v001.png?w=3840&q=90&fm=webp)
 
-Codebases under review
+## [A call for collective action on cyber defense](</collective-cyberdefense/>)
 
-41
+![A call for collective action on cyber defense, with supporting organization logos.](https://images.ctfassets.net/kftzwdyauwt9/1e0khh3BKVmgrcbvG7PaWT/1c89ffdd02826b2467606113fd9ed27d/Daybreak_-_5.png?w=3840&q=90&fm=webp)
 
-Open-source projects receiving AI-assisted research and expert security review.
+## [Daybreak for Frontline Defenders](</index/daybreak-for-frontline-defenders/>)
 
-Issues identified
+## Strengthen your cyber defenses with Daybreak
 
-858
+Apply as an individual or organization to use OpenAI’s advanced cybersecurity capabilities.
 
-Findings surfaced for validation, prioritization, and coordinated disclosure.
-
-Patches produced
-
-263
-
-Targeted fixes developed and tested before maintainer review.
-
-Patches accepted upstream
-
-143
-
-Fixes accepted by maintainers for inclusion in the projects they steward.
-
-_OpenAI’s commitment includes API credits and direct support for work with Trail of Bits, Calif, Linux Arkrites, and the wider maintainer ecosystem._
-
-  * [Apply to Patch the Planet(opens in a new window)](<https://trailofbits.com/patch-the-planet/>)
-
-
-
-### Latest from Daybreak
-
-Follow our technical learnings, patches, and ecosystem work as they publish.
-
-![Abstract orange wallpaper with soft peach highlights.](https://images.ctfassets.net/kftzwdyauwt9/14QK7oeFx4wzFrk18r78pw/4a96ed4f5ed02090968d437320ff506e/agent-security-option-112-cover-1080.png?w=3840&q=90&fm=webp)
-
-[Agent security in the enterpriseSep 2, 2026](</business/learn/agent-security-enterprise/>)
-
-![GPT-Daybreak > Cover](https://images.ctfassets.net/kftzwdyauwt9/2iqsbTTLvgMNteNampw3gW/a38ed04432ee5548c4aec6c7b7a506f2/1x1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[Accelerating defenders with GPT‑DaybreakSecurityAug 10, 2026](</index/expanding-daybreak-as-the-cyber-defense-window-narrows/>)
-
-![Cybersecurity in the Intelligence Age > Cover](https://images.ctfassets.net/kftzwdyauwt9/35g40K8HHuADEDF7IwCMCT/2237007c711eb46c1d3f3b2c7307fc01/Frame__11_.png?w=3840&q=90&fm=webp)
-
-[Cybersecurity in the intelligence ageGlobal AffairsApr 29, 2026](</index/cybersecurity-in-the-intelligence-age/>)
-
-## Put Daybreak to work
-
-Explore how to apply Daybreak capabilities within governed defensive workflows.
-
-[Explore Daybreak solutions](</index/daybreak-securing-the-world/>)[Contact sales](</daybreak/contact-cyber-sales/>)
+Apply for Daybreak
 
 Research
 
@@ -253,10 +124,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -275,7 +146,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -302,8 +174,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -322,6 +194,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

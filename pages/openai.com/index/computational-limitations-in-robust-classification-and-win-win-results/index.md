@@ -62,15 +62,15 @@ Akshay Degwekar, Preetum Nakkiran, Vinod Vaikuntanathan
 
 [View all](</news/>)
 
-![A colorful collage of square-dimension 2D maze game interfaces](https://images.ctfassets.net/kftzwdyauwt9/0b00f831-a5c2-4bd1-1da6d37b3148/841a88ed09a094b614f89b6384017101/image_132.png?w=3840&q=90&fm=webp)
+![A grid of various scenes from the game CoinRun.](https://images.ctfassets.net/kftzwdyauwt9/0b00f831-a5c2-4bd1-1da6d37b3148/841a88ed09a094b614f89b6384017101/image_132.png?w=3840&q=90&fm=webp)
 
 [Procgen BenchmarkReleaseDec 3, 2019](</index/procgen-benchmark/>)
 
-![A distorted photograph of a moka coffee pot](https://images.ctfassets.net/kftzwdyauwt9/aab9bc08-47b0-4b15-b47bf25bbddb/8c0afdbeca0209c1b3d68aa4178ab54a/image_133.png?w=3840&q=90&fm=webp)
+![A digitally-rendered abstraction of a french press.](https://images.ctfassets.net/kftzwdyauwt9/aab9bc08-47b0-4b15-b47bf25bbddb/8c0afdbeca0209c1b3d68aa4178ab54a/image_133.png?w=3840&q=90&fm=webp)
 
 [Testing robustness against unforeseen adversariesPublicationAug 22, 2019](</index/testing-robustness/>)
 
-![Transfer Of Adversarial Robustness Between Perturbation Types](https://images.ctfassets.net/kftzwdyauwt9/795faa3c-c410-4e84-58dc7206b12f/deb459946faacc1a565920813c9f6ab1/image_146.png?w=3840&q=90&fm=webp)
+![An abstract expressionist painting in a soft pastel palette.](https://images.ctfassets.net/kftzwdyauwt9/795faa3c-c410-4e84-58dc7206b12f/deb459946faacc1a565920813c9f6ab1/image_146.png?w=3840&q=90&fm=webp)
 
 [Transfer of adversarial robustness between perturbation typesPublicationMay 3, 2019](</index/transfer-of-adversarial-robustness-between-perturbation-types/>)
 
@@ -84,9 +84,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -105,7 +106,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -123,6 +125,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -131,8 +134,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -151,6 +154,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

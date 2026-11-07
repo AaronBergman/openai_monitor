@@ -32,7 +32,7 @@ OpenAI
 
 # Snowflake
 
-Ask governed analytics questions of Snowflake data.
+Ask governed analytics questions of Snowflake data
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/Plugin_2af00ca970e88191b55798e3995f2aa3>)[Contact sales](</contact-sales/>)
 
@@ -64,30 +64,30 @@ Connect Snowflake data to ChatGPT to ask business questions, inspect schemas, ge
 
 ![](https://files.openai.com/content?id=file_00000000e8f081f796be3b17c9c53424&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=27fc578a66c03b649cd8f6650181d46da30cb1043fbaf7fe4a3f9eed5661e5b7&v=0)Snowflake Using the revenue tables I can access, answer this question and show the SQL you used: [question].
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Snowflake+Using+the+revenue+tables+I+can+access%2C+answer+this+question+and+show+the+SQL+you+used%3A+%5Bquestion%5D.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_2af00ca970e88191b55798e3995f2aa3?install&prompt=Using%20the%20revenue%20tables%20I%20can%20access%2C%20answer%20this%20question%20and%20show%20the%20SQL%20you%20used%3A%20%5Bquestion%5D.&surface=work>)
 
   * ### Generate SQL and explain results
 
 ![](https://files.openai.com/content?id=file_00000000e8f081f796be3b17c9c53424&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=27fc578a66c03b649cd8f6650181d46da30cb1043fbaf7fe4a3f9eed5661e5b7&v=0)Snowflake Review this SQL for correctness, explain what it calculates, and suggest a cleaner version if the logic can be simplified.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Snowflake+Review+this+SQL+for+correctness%2C+explain+what+it+calculates%2C+and+suggest+a+cleaner+version+if+the+logic+can+be+simplified.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_2af00ca970e88191b55798e3995f2aa3?install&prompt=Review%20this%20SQL%20for%20correctness%2C%20explain%20what%20it%20calculates%2C%20and%20suggest%20a%20cleaner%20version%20if%20the%20logic%20can%20be%20simplified.&surface=work>)
 
   * ### Create reusable analysis assets
 
 ![](https://files.openai.com/content?id=file_00000000e8f081f796be3b17c9c53424&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=8&sig=27fc578a66c03b649cd8f6650181d46da30cb1043fbaf7fe4a3f9eed5661e5b7&v=0)Snowflake Summarize the latest query results for leadership with key drivers, caveats, and 3 follow-up analyses to run next.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Snowflake+Summarize+the+latest+query+results+for+leadership+with+key+drivers%2C+caveats%2C+and+3+follow-up+analyses+to+run+next.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/Plugin_2af00ca970e88191b55798e3995f2aa3?install&prompt=Summarize%20the%20latest%20query%20results%20for%20leadership%20with%20key%20drivers%2C%20caveats%2C%20and%203%20follow-up%20analyses%20to%20run%20next.&surface=work>)
 
 
 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://docs.snowflake.com/>)
+### [Plugin supportLearn more(opens in a new window)](<https://docs.snowflake.com/>)
 
-### [Privacy policyLearn more](<https://www.snowflake.com/en/legal/privacy/privacy-statement/>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.snowflake.com/en/legal/privacy/privacy-statement/>)
 
 ## Add the Snowflake plugin in a few clicks
 
@@ -97,13 +97,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)DBTWork with dbt projects](</business/plugins/dbt/>)[![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)AlationGoverned Knowledge Layer](</business/plugins/alation/>)[![](https://files.openai.com/content?id=file_00000000305c81f592476d99e3faab61&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=64c45bfe23621d0cb193310b6fc5cded6a470a131c891a40a6dca4c7198340d4&v=0)![](https://files.openai.com/content?id=file_00000000dda481f58d27cff6712efd6e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=0f9a40070454550d86b04a4023fefbd1dbcceb54dc9defdb316dfc7467777022&v=0)TableauSee and understand data](</business/plugins/tableau/>)[![](https://files.openai.com/content?id=file_00000000106881fdbd7809a7be11dd10&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=c475a72c25f76bcdef721bc5a769dae37f3fe98208605ae4746fa9a23828aec9&v=0)![](https://files.openai.com/content?id=file_00000000f2988230b7e2b394196e6ed4&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=093c6759bd793fc074548e41c01a9fe5bb1bf1d42483442c032cbbd943a7edac&v=0)SigmaBuild and explore your data](</business/plugins/sigma/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)![](https://files.openai.com/content?id=file_00000000a7a881f79bd3e0bdaf6f44d8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=3681847b083c03ec3f94453b15bea76630d8877224f486882867c1affcde9821&v=0)DBTWork with dbt projects](</business/plugins/dbt/>)[![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)![](https://files.openai.com/content?id=file_000000002c9871f88886c70ee05182be&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=d9f82aa7ff5946d7b3572fb9749746956a02925ce49b4f256a1d6bb1575ef7cb&v=0)AlationGoverned Knowledge Layer](</business/plugins/alation/>)[![](https://files.openai.com/content?id=file_00000000305c81f592476d99e3faab61&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=64c45bfe23621d0cb193310b6fc5cded6a470a131c891a40a6dca4c7198340d4&v=0)![](https://files.openai.com/content?id=file_00000000dda481f58d27cff6712efd6e&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=8&sig=0f9a40070454550d86b04a4023fefbd1dbcceb54dc9defdb316dfc7467777022&v=0)TableauSee and understand data](</business/plugins/tableau/>)[![](https://files.openai.com/content?id=file_00000000106881fdbd7809a7be11dd10&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=c475a72c25f76bcdef721bc5a769dae37f3fe98208605ae4746fa9a23828aec9&v=0)![](https://files.openai.com/content?id=file_00000000f2988230b7e2b394196e6ed4&cdn=1&cp=pi&ma=30240000&ts=0&p=pi&cid=8&sig=093c6759bd793fc074548e41c01a9fe5bb1bf1d42483442c032cbbd943a7edac&v=0)SigmaBuild and explore your data](</business/plugins/sigma/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -115,10 +125,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -137,7 +147,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -164,8 +175,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -184,6 +195,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

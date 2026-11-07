@@ -70,8 +70,11 @@ ASU adopted ChatGPT the same way it adopted other technology: by being intention
 The [_AI Innovation Challenge_ ⁠(opens in a new window)](<http://ai.asu.edu>) was a product of this mindset. In February 2024, ASU invited faculty and staff to submit proposals for using ChatGPT to maximize their teaching, research, and operations. Submissions required a clear plan for integrating ChatGPT into one of three priority areas: 
 
   1. **Supporting teaching and learning** : Proposals that enhance the educational experience for students and faculty within a class setting.
+
   2. **Advancing research for public good** : Proposals that support student—and faculty-led research that demonstrate a clear path to making meaningful community and planet contributions.
+
   3. **Enhancing the future of work** : Proposals that contribute to a more positive, productive, and supportive work environment.
+
 
 
 
@@ -88,13 +91,16 @@ The projects range from AI-driven behavioral health training to bias detection a
 In under a semester, ChatGPT is guiding students through personalized learning experiences and giving time back to faculty:
 
   * The ‘[ _AI as a writing companion_ ⁠(opens in a new window)](<https://tech.asu.edu/features/writing-smarter-not-harder-exploration-ai-inside-humanities>)’ project leverages ChatGPT to support scholarly writing, providing students with real-time feedback to strengthen their arguments and expedite submission. 
+
   * ‘Sam,’ a [_chatbot powered by ChatGPT_ ⁠(opens in a new window)](<https://tech.asu.edu/features/meet-sam-ai-bot-health-sciences>), helps students in the College of Health Solutions practice patient-provider interactions through role-based conversations. “The bot, while not perfect, allows for students to authentically practice their motivational skills,” shared Clinical Professor Colleen Cordes, who teaches the course. Cordes also noted that the transcript of the interaction provided from ChatGPT Enterprise was “immensely easier” for her to use to provide qualitative feedback as part of her grading.
+
 
 
 
 ASU is also seeing excitement for how OpenAI’s technologies influence research and operations: 
 
   * Ph.D. student Amber Hedquist is exploring how ChatGPT can support effective and ethical participant recruitment as part of her work in managing '[_Research Plus Me_ ⁠(opens in a new window)](<https://researchplusme.asu.edu/>)' at ASU. “When researchers need members of the community to participate in their research study, it can be hard to reach out to the population and convey what opportunity you’re offering in a way that is understandable and ethical,” says Hedquist. “This GPT helps to ensure that the reading level is comprehensible and properly highlights the opportunity without a lot of scientific jargon.”
+
 
 
 
@@ -127,9 +133,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -148,7 +155,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -166,6 +174,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -174,8 +183,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -194,6 +203,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

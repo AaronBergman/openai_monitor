@@ -48,7 +48,7 @@ Developer
 Website
     [(opens in a new window)](<https://learn.microsoft.com/azure/cosmos-db/>)
 
-[![](https://files.openai.com/content?id=file_000000009c788208843d931c357738b3&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=1c01008ac3f9008b487be539201f5a544ee0f5550fa9222de5bcb7429db92df2&v=0)Azure Cosmos DB Review my Cosmos DB data model for best practices.(opens in a new window)](<https://chatgpt.com/?prompt=%40Azure+Cosmos+DB+Review+my+Cosmos+DB+data+model+for+best+practices.>)
+[![](https://files.openai.com/content?id=file_000000009c788208843d931c357738b3&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=1c01008ac3f9008b487be539201f5a544ee0f5550fa9222de5bcb7429db92df2&v=0)Azure Cosmos DB Review my Cosmos DB data model for best practices.(opens in a new window)](<https://chatgpt.com/plugins/plugins_6a7bec8e2dc881919fc93f62e4329ee2?install&prompt=Review%20my%20Cosmos%20DB%20data%20model%20for%20best%20practices.>)
 
 ## How it works
 
@@ -60,19 +60,19 @@ The official Azure Cosmos DB plugin bundles a curated set of agent skills coveri
 
 ![](https://files.openai.com/content?id=file_000000009c788208843d931c357738b3&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=1c01008ac3f9008b487be539201f5a544ee0f5550fa9222de5bcb7429db92df2&v=0)Microsoft Azure CosmosDB Review the attached orders schema and access patterns. Compare customer ID, order ID, and a hierarchical partition key; recommend one for our growth forecast and explain the tradeoffs.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Microsoft+Azure+CosmosDB+Review+the+attached+orders+schema+and+access+patterns.+Compare+customer+ID%2C+order+ID%2C+and+a+hierarchical+partition+key%3B+recommend+one+for+our+growth+forecast+and+explain+the+tradeoffs.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugins_6a7bec8e2dc881919fc93f62e4329ee2?install&prompt=Review%20the%20attached%20orders%20schema%20and%20access%20patterns.%20Compare%20customer%20ID%2C%20order%20ID%2C%20and%20a%20hierarchical%20partition%20key%3B%20recommend%20one%20for%20our%20growth%20forecast%20and%20explain%20the%20tradeoffs.&surface=work>)
 
   * ### Reduce database query costs
 
 ![](https://files.openai.com/content?id=file_000000009c788208843d931c357738b3&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=1c01008ac3f9008b487be539201f5a544ee0f5550fa9222de5bcb7429db92df2&v=0)Microsoft Azure CosmosDB Review this query, index policy, and query metrics for high request-unit costs. Propose an equivalent query and targeted index changes, then outline how to compare cost and latency.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Microsoft+Azure+CosmosDB+Review+this+query%2C+index+policy%2C+and+query+metrics+for+high+request-unit+costs.+Propose+an+equivalent+query+and+targeted+index+changes%2C+then+outline+how+to+compare+cost+and+latency.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugins_6a7bec8e2dc881919fc93f62e4329ee2?install&prompt=Review%20this%20query%2C%20index%20policy%2C%20and%20query%20metrics%20for%20high%20request-unit%20costs.%20Propose%20an%20equivalent%20query%20and%20targeted%20index%20changes%2C%20then%20outline%20how%20to%20compare%20cost%20and%20latency.&surface=work>)
 
   * ### Design product similarity search
 
 ![](https://files.openai.com/content?id=file_000000009c788208843d931c357738b3&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=1c01008ac3f9008b487be539201f5a544ee0f5550fa9222de5bcb7429db92df2&v=0)Microsoft Azure CosmosDB Design vector search for the attached product catalog and workload. Compare flat and DiskANN indexes, recommend one, and draft the embedding policy and similarity query with category and availability filters.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Microsoft+Azure+CosmosDB+Design+vector+search+for+the+attached+product+catalog+and+workload.+Compare+flat+and+DiskANN+indexes%2C+recommend+one%2C+and+draft+the+embedding+policy+and+similarity+query+with+category+and+availability+filters.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugins_6a7bec8e2dc881919fc93f62e4329ee2?install&prompt=Design%20vector%20search%20for%20the%20attached%20product%20catalog%20and%20workload.%20Compare%20flat%20and%20DiskANN%20indexes%2C%20recommend%20one%2C%20and%20draft%20the%20embedding%20policy%20and%20similarity%20query%20with%20category%20and%20availability%20filters.&surface=work>)
 
 
 
@@ -87,11 +87,11 @@ The official Azure Cosmos DB plugin bundles a curated set of agent skills coveri
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
 
-### [Privacy policyLearn more](<https://privacy.microsoft.com/privacystatement>)
+### [Privacy policyLearn more(opens in a new window)](<https://privacy.microsoft.com/privacystatement>)
 
 ## Add the Microsoft Azure CosmosDB plugin in a few clicks
 
@@ -101,13 +101,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_000000006128824382b4c3ad66a596e3&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=50bd4935c54840b2d48e9475f13d1d5f0b871988437c32444a362dc2bd9ea30a&v=0)![](https://files.openai.com/content?id=file_000000004b048243ba04d6743eb002c5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=dc1a9d37ffc984e3cc3abfd0db6c6e0d81e9e47abfd5a77b422b0d4fc1cfdacd&v=0)MongoDBConnect to MongoDB Atlas](</business/plugins/mongodb/>)[![](https://files.openai.com/content?id=file_0000000089e88210b97f2055f754743c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=3bd7e451889949a66e1b5b7a65e9a9d79bb852f6236c5520d688c16fcf5e7c71&v=0)![](https://files.openai.com/content?id=file_0000000089e88210b97f2055f754743c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=3bd7e451889949a66e1b5b7a65e9a9d79bb852f6236c5520d688c16fcf5e7c71&v=0)Redis IncBuild Redis applications](</business/plugins/redis/>)[![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)Google FirebaseBuild and manage Firebase apps](</business/plugins/firebase/>)[![](https://files.openai.com/content?id=file_000000009b8471f4bd4c0a644b3f1b4d&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=0f067aa3abfe91502756fdd381b2577684eabf146a251d731310e6f471f6370a&v=0)![](https://files.openai.com/content?id=file_000000009b8471f4bd4c0a644b3f1b4d&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=0f067aa3abfe91502756fdd381b2577684eabf146a251d731310e6f471f6370a&v=0)ClickHouseExplore ClickHouse Cloud](</business/plugins/clickhouse/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_000000006128824382b4c3ad66a596e3&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=50bd4935c54840b2d48e9475f13d1d5f0b871988437c32444a362dc2bd9ea30a&v=0)![](https://files.openai.com/content?id=file_000000004b048243ba04d6743eb002c5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=dc1a9d37ffc984e3cc3abfd0db6c6e0d81e9e47abfd5a77b422b0d4fc1cfdacd&v=0)MongoDBConnect to MongoDB Atlas](</business/plugins/mongodb/>)[![](https://files.openai.com/content?id=file_0000000089e88210b97f2055f754743c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=3bd7e451889949a66e1b5b7a65e9a9d79bb852f6236c5520d688c16fcf5e7c71&v=0)![](https://files.openai.com/content?id=file_0000000089e88210b97f2055f754743c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=3bd7e451889949a66e1b5b7a65e9a9d79bb852f6236c5520d688c16fcf5e7c71&v=0)Redis IncBuild Redis applications](</business/plugins/redis/>)[![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)Google FirebaseBuild and deploy apps faster](</business/plugins/firebase/>)[![](https://files.openai.com/content?id=file_000000009b8471f4bd4c0a644b3f1b4d&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=0f067aa3abfe91502756fdd381b2577684eabf146a251d731310e6f471f6370a&v=0)![](https://files.openai.com/content?id=file_000000009b8471f4bd4c0a644b3f1b4d&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=0f067aa3abfe91502756fdd381b2577684eabf146a251d731310e6f471f6370a&v=0)ClickHouseExplore ClickHouse Cloud](</business/plugins/clickhouse/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -119,10 +129,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -141,7 +151,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -168,8 +179,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -188,6 +199,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

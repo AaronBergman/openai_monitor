@@ -1,5 +1,44 @@
 # openai_monitor
 
+## 2026-11-07T09-16Z
+
+**Fetch time:** 2026-11-07T09:16Z (sitemap + 1,904 pages) UTC | **Baseline:** 2026-09-28T09-17Z (**40-day gap — no runs between**)
+
+**TL;DR:** The monitor missed about six weeks, so this entry covers a lot. The site grew from 1,985 to 2,141 URLs (172 added, 16 removed). The headline: OpenAI rolled out a **site-wide header/footer redesign** (hitting ~1,729 pages) that now features **GPT-6.1 Sol** and GPT-6 Astra, adds Plugins/Models/Status/Dots links and drops the "Open Models" and "Apps SDK" links. New content shows a heavy push on **cybersecurity** (GPT-6 Cyber, Daybreak customer stories, bug bounties, Grid Protectors), a **DevDay 2026 recap**, **ChatGPT Ads** growth (26 more countries), two **acquisitions** (Pierre Computer Company; Orchestra Bio), OpenAI models coming to **Google Cloud**, and ~40 enterprise customer stories.
+
+### ⚠️ Anomalies (40)
+
+- **40-day monitoring gap** (2026-09-28 → 2026-11-07): "added" dates are upper bounds.
+- **New sub-sitemap** `/sitemap.xml/learn-demos/` (42 → 43), holding ~17 `/business/learn/` demo/webinar pages, many about older products (GPT-4o, o3, GPT-5) — a back-catalogue republish.
+- **30 new URLs with lastmod 8–29 days old** (e.g. `/business/learn/board-guide-cybersecurity-ai/`, 29 d; `/business/partners/{bishop-fox,specterops,trustedsec}/`, 22 d). Largely explained by the gap.
+- **3 reappeared URLs:** [`/business/plugins/alpaca/`](pages/openai.com/business/plugins/alpaca/index.md), [`/form/codex-ambassadors/`](pages/openai.com/form/codex-ambassadors/index.md), [`/policies/row-privacy-policy/`](pages/openai.com/policies/row-privacy-policy/index.md).
+- **Missing `<lastmod>`:** `/index/advancing-independent-research-ai-alignment/` lost its lastmod; new launch pages `/index/introducing-gpt-6-1-sol/` and `/index/introducing-gpt-6-1-terra/` plus three `/ads/customers/*` pages were published without one.
+- No future-dated or backwards-moving lastmods.
+
+Full detail in [`runs/2026-11-07T09-16Z/analysis.md`](runs/2026-11-07T09-16Z/analysis.md).
+
+### Notable additions
+
+- **Models/product:** [GPT-6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md), [GPT-6.1 Terra](pages/openai.com/index/introducing-gpt-6-1-terra/index.md), [GPT-6 Cyber](pages/openai.com/index/introducing-gpt-6-cyber/index.md), [GPT-6 and Intelligent UI for everyone](pages/openai.com/index/gpt-6-for-everyone/index.md), [Images 2.6](pages/openai.com/index/introducing-images-2-6/index.md), [Decisions API](pages/openai.com/index/decisions-api/index.md), [dots](pages/openai.com/index/introducing-dots/index.md), [updated Model Spec](pages/openai.com/index/updated-model-spec/index.md).
+- **[DevDay 2026 Recap](pages/openai.com/index/devday-2026-recap/index.md):** "20+ major announcements" — agents with ongoing responsibilities, ChatGPT as a shared surface for humans and agents, 1.2B weekly users.
+- **Cybersecurity:** [Cyber at the Frontier](pages/openai.com/cyber-at-the-frontier/index.md), [/cybersecurity/](pages/openai.com/cybersecurity/index.md), [Patch the Planet](pages/openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/index.md), [bigger bug bounties](pages/openai.com/index/rewarding-defenders-with-bigger-bug-bounties/index.md), [Grid Protectors Program](pages/openai.com/index/grid-protectors-program/index.md), Daybreak stories (Check Point, Sophos, Cisco, Cloudflare, SentinelOne, Block), [Daybreak Red on AWS GovCloud](pages/openai.com/index/daybreak-red-aws-govcloud/index.md).
+- **Deals & people:** [acquire Pierre Computer Company](pages/openai.com/index/openai-to-acquire-pierre/index.md) (Codex code tooling), [acquire Orchestra Bio](pages/openai.com/index/openai-to-acquire-orchestra-bio/index.md) (drug development), [OpenAI models on Google Cloud](pages/openai.com/index/openai-models-google-cloud/index.md), Atlassian / ServiceNow / Oracle partnership expansions, Poland's NASK safety partnership; Dan Driscoll (national security) and Jill Hazelbaker (Chief Corporate Affairs Officer) appointments.
+- **Ads:** [ChatGPT Ads in 26 new countries](pages/openai.com/index/chatgpt-ads-expands-26-new-countries/index.md) (100k+ advertisers), [new ad format & measurement](pages/openai.com/index/new-chatgpt-ads-format-and-measurement/index.md), [how the ad stack was built](pages/openai.com/index/building-chatgpt-ad-stack/index.md).
+- **Safety/research:** [how we detect frontier model misalignment](pages/openai.com/index/how-we-detect-frontier-model-misalignment/index.md), [safety cases for frontier AI training](pages/openai.com/index/towards-safety-cases-for-frontier-ai-training/index.md), [model-distillation campaign disrupted](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md), [Rosalind academic plan](pages/openai.com/index/introducing-the-rosalind-academic-plan/index.md).
+- Also: ~40 customer stories (AT&T, Uber, Albertsons, Itaú, law firms…), ~16 new Plugins pages (Atlassian, Oracle NetSuite, ServiceNow, WordPress…), [/business/marketplace/](pages/openai.com/business/marketplace/index.md), [/business/private-intelligence/](pages/openai.com/business/private-intelligence/index.md), [/compute-campus/](pages/openai.com/compute-campus/index.md), [/codex-originals/](pages/openai.com/codex-originals/index.md).
+
+### Notable updates
+
+- **Site-wide nav/footer redesign (~1,729 pages):** model links now GPT-6.1 Sol + GPT-6 Astra (GPT-5.4 gone); "Open Models", old Codex and "Apps SDK" links removed; "Plugins", "Models", "OpenAI Status", "Dots" and chatgpt.com/codex links added; business pages gained a "Get OpenAI for Business updates" signup form. This is the cause of most of the 1,732 `<lastmod>` bumps; no other per-page substantive edits stood out.
+
+### Removed pages
+
+- Seven `/business/partners/*` (Canva, Dropbox, Gusto, HubSpot, Pathfindr, QuickBooks, Stripe); five plugin pages that look renamed (atlassian-rovo, litera-lito, mcp-server-for-wordpress, oracle-analytics, wordpress-com); `/daybreak/partners-new/`; `/economic-research-exchange/` (apparently → `/economic-research-collaborators/`); `/form/ultrafast/`; `/prism/`.
+
+_Stats: 2141 total URLs | 172 added | 1732 updated (~1,729 nav-template only) | 16 removed | 40 anomalies | 43 sub-sitemaps_
+
+---
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)
