@@ -87,9 +87,13 @@ The model excelled in handling complex scenarios such as elevated roads and occl
 Implementing vision fine-tuning significantly boosted GrabMaps' efficiency and accuracy:
 
   * Lane count accuracy increased by 20%
+
   * Speed limit sign localization improved by 13%
+
   * Reduced manual mapping efforts, cutting operational costs and improving trust in data quality
+
   * Enhanced ability to address challenging scenarios like elevated signs and occlusions, leading to fewer errors in map outputs
+
 
 
 
@@ -111,15 +115,15 @@ Grab is also building an advanced support chatbot to handle complex inquiries. B
 
 ## Keep reading
 
-![\[2.0\] Card > Media > Rox](https://images.ctfassets.net/kftzwdyauwt9/5LfsJRQ4mOiE4uCccU53Yc/182d111570f399dd1ae1679f7c77ca6a/oai_rox_1_1.jpg?w=3840&q=90&fm=webp)
+![Rox logo in white, placed over a close-up of curved, textured yellow surfaces, creating a layered abstract background.](https://images.ctfassets.net/kftzwdyauwt9/5LfsJRQ4mOiE4uCccU53Yc/182d111570f399dd1ae1679f7c77ca6a/oai_rox_1_1.jpg?w=3840&q=90&fm=webp)
 
 [Rox goes “all in” on OpenAINov 19, 2024](</index/rox/>)
 
-![\[2.0\] Card > Media > Estee Lauder](https://images.ctfassets.net/kftzwdyauwt9/5r8WffR8g3bbiYmlugUs9c/d9232bfac9f79ed6ad2fa79327822878/oai_esteelauder_1_1.jpg?w=3840&q=90&fm=webp)
+![Estée Lauder Companies logo in white, set against a textured close-up of crushed pink powder, resembling makeup pigments.](https://images.ctfassets.net/kftzwdyauwt9/5r8WffR8g3bbiYmlugUs9c/d9232bfac9f79ed6ad2fa79327822878/oai_esteelauder_1_1.jpg?w=3840&q=90&fm=webp)
 
 [Data-driven beauty and creativity with ChatGPTNov 13, 2024](</index/estee-lauder/>)
 
-![\[2.0\] Card > Media > Promega](https://images.ctfassets.net/kftzwdyauwt9/6nmHlhPH7ZDcQjAldewFpJ/4a2873907763d0d626525aa47d417885/oai_promega_1_1.jpg?w=3840&q=90&fm=webp)
+![Promega logo in white, placed over a background of swirling yellow and orange organic textures, resembling scientific imagery.](https://images.ctfassets.net/kftzwdyauwt9/6nmHlhPH7ZDcQjAldewFpJ/4a2873907763d0d626525aa47d417885/oai_promega_1_1.jpg?w=3840&q=90&fm=webp)
 
 [Promega’s top-down adoption of ChatGPT accelerates manufacturing, sales, and marketingOct 31, 2024](</index/promega/>)
 
@@ -133,9 +137,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -154,7 +159,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -172,6 +178,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -180,8 +187,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -200,6 +207,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

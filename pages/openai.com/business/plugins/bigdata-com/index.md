@@ -36,6 +36,9 @@ Finance research, news & data
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69491eceef3c8191beb70788b7840429>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Search cited financial news, filings, transcripts, and research, Research stocks, public companies, securities, ETFs, markets, and economies, Analyze market data, fundamentals, sentiment, and portfolio holdings, Review company, country, market, ETF, portfolio, and sentiment tearsheets, Track financial events, watchlists, competitors, and research monitors, Search and manage private research documents alongside public sources
+
 Category
     [Finance](</business/plugins/?tab=plugins-finance>)
 
@@ -45,31 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.bigdata.com>)
 
-[![](https://files.openai.com/content?id=file_00000000b70481f4ade917aae8ec983d&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=e04bfb05810b952f238b77429ff07f9b06bb74acf2bc316f95bc114aa68520a6&v=0)Bigdata.com Could you give me the latest financial news for NVIDIA?(opens in a new window)](<https://chatgpt.com/?prompt=%40Bigdata.com+Could+you+give+me+the+latest+financial+news+for+NVIDIA%3F>)
+[![](https://files.openai.com/content?id=file_0000000069448246a02b201a6226a2ae&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=30c1c8ac4c49e24f8714fccef7aa9ea11f0be9554a7f9f514c93f7c88a0d0aea&v=0)Bigdata.com Research NVIDIA's latest earnings using filings, transcripts, news, and company financials.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69491eceef3c8191beb70788b7840429?install&prompt=Research%20NVIDIA's%20latest%20earnings%20using%20filings%2C%20transcripts%2C%20news%2C%20and%20company%20financials.>)
 
 ## How it works
 
-Bigdata.com brings cited financial research to ChatGPT: research stocks and companies, follow the latest news on your portfolio, and query market data, fundamentals, SEC filings, earnings call transcripts, broker and analyst research, sentiment signals, and premium news — with every answer grounded in real, citable sources instead of guesses. Search billions of documents spanning 25+ years: 10M+ new public news documents monthly, 200+ premium news sources (Financial Times, Benzinga, MT Newswires and more), filings across 50+ countries, 30+ years of fundamentals, expert interviews, and podcasts. RavenPack's financial knowledge graph resolves company and entity names automatically, so one plain-language question surfaces the right filings, transcripts, and news — no manual ticker-matching, no fabricated numbers, no invented quotes. Beyond public content, upload and search your own private documents — notes, internal research, and files — side by side with public filings and market data, so proprietary and public sources answer from the same query. Built for anyone making a financial decision: from individual investors researching a stock or tracking news on their holdings, to analysts at hedge funds, asset managers, and investment banks. Run an initiation report, compare two 10-Ks, prep a pre-earnings or pre-FOMC briefing, track a competitor, catch a sentiment shift before consensus, or build a sourced brief before a call — all from one grounded search. Connect in seconds — you're searching cited financial data from your first prompt.
+Bigdata.com is the AI grounding layer for finance, bringing cited financial research directly into ChatGPT. Research stocks and companies, follow the latest news on your portfolio, and query market data, fundamentals, SEC filings, earnings call transcripts, broker and analyst research, sentiment signals, and premium news using real, citable sources. Search billions of documents spanning 25+ years. Depending on account entitlements and source availability, coverage may include 10M+ new public news documents monthly; 200+ premium news sources such as Financial Times, Benzinga, MT Newswires, CNBC, and more; filings across 50+ countries; 30+ years of fundamentals; expert interviews; and podcasts. RavenPack's financial knowledge graph helps resolve company and entity names automatically, so a plain-language question can surface relevant filings, transcripts, news, and data. This reduces manual ticker matching and helps you verify numbers and quotes against their cited sources. Built for anyone making a financial decision, from individual investors researching a stock or tracking a portfolio to analysts at hedge funds, asset managers, and investment banks. Run an initiation report, compare two 10-Ks, prepare a pre-earnings or pre-FOMC briefing, track a competitor, monitor a sentiment shift as it develops, or build a sourced brief before a call, all within one grounded research workflow. Go beyond public data by bringing your own research into the picture. With appropriate permissions, upload and search private notes, internal analysis, artifacts, and files alongside public filings and market data. This combines proprietary insight with external evidence in a single query. Connect through ChatGPT without writing code. Once connected, start searching cited financial data with a plain-language prompt. Source coverage varies by account and entitlement. Bigdata.com provides research, not investment advice; review cited sources before making investment decisions.
 
 ## What else can you do?
 
   * ### Compare company fundamentals
 
-![](https://files.openai.com/content?id=file_00000000b70481f4ade917aae8ec983d&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=e04bfb05810b952f238b77429ff07f9b06bb74acf2bc316f95bc114aa68520a6&v=0)Bigdata.com Compare revenue growth, operating margins, and cash flow for these three companies over their latest three fiscal years. Cite sources and flag reporting differences.
+![](https://files.openai.com/content?id=file_0000000069448246a02b201a6226a2ae&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=30c1c8ac4c49e24f8714fccef7aa9ea11f0be9554a7f9f514c93f7c88a0d0aea&v=0)Bigdata.com Compare revenue growth, operating margins, and cash flow for these three companies over their latest three fiscal years. Cite sources and flag reporting differences.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Bigdata.com+Compare+revenue+growth%2C+operating+margins%2C+and+cash+flow+for+these+three+companies+over+their+latest+three+fiscal+years.+Cite+sources+and+flag+reporting+differences.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69491eceef3c8191beb70788b7840429?install&prompt=Compare%20revenue%20growth%2C%20operating%20margins%2C%20and%20cash%20flow%20for%20these%20three%20companies%20over%20their%20latest%20three%20fiscal%20years.%20Cite%20sources%20and%20flag%20reporting%20differences.&surface=work>)
 
   * ### Prepare an earnings brief
 
-![](https://files.openai.com/content?id=file_00000000b70481f4ade917aae8ec983d&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=e04bfb05810b952f238b77429ff07f9b06bb74acf2bc316f95bc114aa68520a6&v=0)Bigdata.com Prepare a brief on this company's latest earnings release and call. Highlight results, guidance changes, and unanswered questions with source references.
+![](https://files.openai.com/content?id=file_0000000069448246a02b201a6226a2ae&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=30c1c8ac4c49e24f8714fccef7aa9ea11f0be9554a7f9f514c93f7c88a0d0aea&v=0)Bigdata.com Prepare a brief on this company's latest earnings release and call. Highlight results, guidance changes, and unanswered questions with source references.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Bigdata.com+Prepare+a+brief+on+this+company%27s+latest+earnings+release+and+call.+Highlight+results%2C+guidance+changes%2C+and+unanswered+questions+with+source+references.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69491eceef3c8191beb70788b7840429?install&prompt=Prepare%20a%20brief%20on%20this%20company's%20latest%20earnings%20release%20and%20call.%20Highlight%20results%2C%20guidance%20changes%2C%20and%20unanswered%20questions%20with%20source%20references.&surface=work>)
 
   * ### Investigate business risks
 
-![](https://files.openai.com/content?id=file_00000000b70481f4ade917aae8ec983d&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=e04bfb05810b952f238b77429ff07f9b06bb74acf2bc316f95bc114aa68520a6&v=0)Bigdata.com Research the risks to this company's growth using available filings, financial data, and transcripts. Separate management statements from analysis and cite the evidence.
+![](https://files.openai.com/content?id=file_0000000069448246a02b201a6226a2ae&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=30c1c8ac4c49e24f8714fccef7aa9ea11f0be9554a7f9f514c93f7c88a0d0aea&v=0)Bigdata.com Research the risks to this company's growth using available filings, financial data, and transcripts. Separate management statements from analysis and cite the evidence.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Bigdata.com+Research+the+risks+to+this+company%27s+growth+using+available+filings%2C+financial+data%2C+and+transcripts.+Separate+management+statements+from+analysis+and+cite+the+evidence.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69491eceef3c8191beb70788b7840429?install&prompt=Research%20the%20risks%20to%20this%20company's%20growth%20using%20available%20filings%2C%20financial%20data%2C%20and%20transcripts.%20Separate%20management%20statements%20from%20analysis%20and%20cite%20the%20evidence.&surface=work>)
 
 
 
@@ -84,25 +87,25 @@ Bigdata.com brings cited financial research to ChatGPT: research stocks and comp
 
 ### Skills
 
-  * ![](https://files.openai.com/content?id=file_00000000b778820e91298e0992cbd6df&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=78d47b098549848bdaf122683dc2516e87c1a75c47da515cdabc5f66b42bf2a2&v=0)Bigdata Earnings Preview
-  * ![](https://files.openai.com/content?id=file_0000000040e4822fa6b18baa687d105e&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=8&sig=c7593ecd3536fbdbb0538ca9094916059d21f4246160fd10ffd0cb91511a4529&v=0)Bigdata Catalyst Monitor
-  * ![](https://files.openai.com/content?id=file_0000000028f481f492451d5b242e3c23&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=6ff4515d0f800d775baa74f3b4f81ba793cf6fd8058dfc5833a1df8113cb1196&v=0)Bigdata Company Brief
-  * ![](https://files.openai.com/content?id=file_0000000018dc81f4884244a8b00f97a2&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=da8b9a14be83e4c3ba1aecb1e200be022a43cf458a5ad9c6593888b74567f3cd&v=0)Bigdata Country Analysis
-  * ![](https://files.openai.com/content?id=file_000000004df481f48a1cc0c9d7164088&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=b2fa809caf32b20093d8cbe37926ee868446c18e5a0a7352db8cd3993e721bb6&v=0)Bigdata Country-Sector Analysis
-  * ![](https://files.openai.com/content?id=file_00000000a82881f4bdc029ff91ce5908&cdn=1&cp=pi&ma=31536000&ts=0&p=pi&cid=8&sig=070f9e6c8cfae3f405fc7d1c780b46e842711851bd2b2aa9c477f7204839ce2f&v=0)Bigdata Cross-Sector Comparison
-  * ![](https://files.openai.com/content?id=file_000000008b7c824693a0901da0a6cd8a&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=dd283b59ad10ec7016baf5dc1093f3e684fb2fe48693e3079bc1fac7d0da9db7&v=0)Bigdata Earnings Digest
-  * ![](https://files.openai.com/content?id=file_0000000053d4824383ff087c34547de5&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=8&sig=af7d95f055bf510b2684718ce4d4f66ac0f8e3cd0ff110e125fcbc311f15fda2&v=0)Bigdata Earnings Quality Screen
-  * 19 more
+  * ![](https://files.openai.com/content?id=file_00000000078081f48eb06ae558d9bc94&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=d5bff82919d07784ba72e13c0d59043979ed0b87ab8abfb5a9d109801441bfb1&v=0)Bigdata.com Research
+  * ![](https://files.openai.com/content?id=file_000000000d648243b8f53f01dbfa22fc&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=743b7694dfb56d0eaa5849733f9351829188cd531385e8a591b6aab875705aca&v=0)Bigdata Catalyst Monitor
+  * ![](https://files.openai.com/content?id=file_00000000178c8211a287685e48d07c8f&cdn=1&cp=pi&ma=31881600&ts=0&p=pi&cid=8&sig=9dce83213051ebe43676107982e4f3a44c1dc989daa3ee64939494092dafcde1&v=0)Bigdata Company Brief
+  * ![](https://files.openai.com/content?id=file_00000000874881f8bf1f43578fd71757&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=4cf8494df509823271009c9ae1626d45c3b797d8b7cd5873e1b023a63ff0e99e&v=0)Bigdata Country Analysis
+  * ![](https://files.openai.com/content?id=file_000000001b1482119d36f07c13139b42&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=8&sig=52359f2f3ca7a8577fe9bff9bcd2c7b8912b916b33bf7855f3d0863ab8132432&v=0)Bigdata Country-Sector Analysis
+  * ![](https://files.openai.com/content?id=file_00000000136c82469188788084b9f2d7&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=b97bfe5982401f7ab5c65803b919277108704a49e7a477d1afcad22d0fe6a0d7&v=0)Bigdata Cross-Sector Comparison
+  * ![](https://files.openai.com/content?id=file_000000004410821189768228ac00e2ff&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=ed4547f95567caa46261dc2ad074451e934a3b0260720a19afaa18d6a0741b51&v=0)Bigdata Earnings Digest
+  * ![](https://files.openai.com/content?id=file_00000000d7888246b1936c769a30caae&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=de27927500efaac1b69daa76f88a070fb756c7f578230203b398dde41c9214c2&v=0)Bigdata Earnings Preview
+  * 20 more
 
 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://docs.bigdata.com/support>)
+### [Plugin supportLearn more(opens in a new window)](<https://docs.bigdata.com/support>)
 
-### [Privacy policyLearn more](<https://bigdata.com/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://bigdata.com/privacy-policy>)
 
 ## Add the Bigdata.com plugin in a few clicks
 
@@ -112,13 +115,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingSupport company research and deal analysis.](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingBuild banking analysis and client-ready materials.](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)DaloopaAccess financial KPIs with source links.](</business/plugins/daloopa/>)[![](https://files.openai.com/content?id=file_000000009c38722f80144f00dd87ea34&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=8e9598782d7e36464e64c394a2fecb5ab3bf6b35731be6a16d3b9ec05b080a32&v=0)![](https://files.openai.com/content?id=file_000000003ec881f6aaeecf3f949966e5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=1c18816d30ee51f5b8365b1c3d420e3b9da7e6f4d0f9830032b871fc457f48f6&v=0)MorningstarAccess live market insights.](</business/plugins/morningstar/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
+[![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)![](https://files.openai.com/content?id=file_00000000179c722f9e8a66d8ff27e98b&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=1&sig=95f7e407c6513f685f25b524ef42ee91ef631083e36c6ea4e3e24667b4692c84&v=0)Public Equity InvestingPublic equity research](</business/plugins/public-equity-investing/>)[![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)![](https://files.openai.com/content?id=file_00000000e4a8720c9b8cba8aaa6e4f70&cdn=1&cp=pi&ma=30672000&ts=0&p=pi&cid=1&sig=d35f6f0a310b11e0360584d048c93f8d76adf2e2f59543a08c73b34c7e02721f&v=0)Investment BankingM&A, valuation, and financing](</business/plugins/investment-banking/>)[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)![](https://files.openai.com/content?id=file_00000000af747230bc1606d46c839ee8&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=1&sig=c8a8bc6383ae28c34005525b223aab157382f62b2c5ff707b76f4a38b1b33e32&v=0)DaloopaFinancial KPIs with links](</business/plugins/daloopa/>)[![](https://files.openai.com/content?id=file_000000009c38722f80144f00dd87ea34&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=1&sig=8e9598782d7e36464e64c394a2fecb5ab3bf6b35731be6a16d3b9ec05b080a32&v=0)![](https://files.openai.com/content?id=file_000000003ec881f6aaeecf3f949966e5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=1c18816d30ee51f5b8365b1c3d420e3b9da7e6f4d0f9830032b871fc457f48f6&v=0)MorningstarInvestment and market insights](</business/plugins/morningstar/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -130,10 +143,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -152,7 +165,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -179,8 +193,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -199,6 +213,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

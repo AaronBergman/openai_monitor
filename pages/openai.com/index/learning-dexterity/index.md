@@ -85,9 +85,13 @@ Although the first humanoid hands were developed decades ago, using them to mani
 Reorienting an object in the hand requires the following problems to be solved:
 
   * **Working in the real world.** Reinforcement learning has shown many successes in simulations and video games, but has had comparatively limited results in the real world. We test Dactyl on a physical robot.
+
   * **High-dimensional control.** The Shadow Dexterous Hand has 24 degrees of freedom compared to 7 for a typical robot arm.
+
   * **Noisy and partial observations.** Dactyl works in the physical world and therefore must handle noisy and delayed sensor readings. When a fingertip sensor is occluded by other fingers or by the object, Dactyl has to work with partial information. Many aspects of the physical system like friction and slippage are not directly observable and must be inferred.
+
   * **Manipulating more than one object.** Dactyl is designed to be flexible enough to reorient multiple kinds of objects. This means that our approach cannot use strategies that are only applicable to a specific object geometry.
+
 
 
 
@@ -106,8 +110,11 @@ It’s been shown (by [OpenAI⁠](</index/generalizing-from-simulation/>) and [o
 We built a [simulated version⁠](</index/ingredients-for-robotics-research/>) of our robotics setup using the [MuJoCo⁠(opens in a new window)](<https://www.mujoco.org/>) physics engine. This simulation is only a coarse approximation of the real robot:
 
   * Measuring physical attributes like friction, damping, and rolling resistance is cumbersome and difficult. They also change over time as the robot experiences wear and tear.
+
   * MuJoCo is a [rigid body⁠(opens in a new window)](<https://en.wikipedia.org/wiki/Rigid_body>) simulator, which means that it cannot simulate the deformable rubber found at the fingertips of the hand or the stretching of tendons.
+
   * Our robot can only manipulate the object by repeatedly making contact with it. However, contact forces are notoriously difficult to reproduce accurately in simulation.
+
 
 
 
@@ -176,8 +183,11 @@ Learning progress with and without randomizations over years of simulated experi
 ## What surprised us
 
   * **Tactile sensing is not necessary to manipulate real-world objects**. Our robot receives only the locations of the five fingertips along with the position and orientation of the cube. Although the robot hand has touch sensors on its fingertips, we didn’t need to use them. Generally, we found better performance from using a limited set of sensors that could be modeled effectively in the simulator instead of a rich sensor set with values that were hard to model.
+
   * **Randomizations developed for one object generalize to others with similar properties**. After developing our system for the problem of manipulating a block, we printed an octagonal prism, trained a new policy using its shape, and attempted to manipulate it. Somewhat to our surprise, it achieved high performance using only the randomizations we had designed for the block. By contrast, a policy that manipulated a sphere could only achieve a few successes in a row, perhaps because we had not randomized any simulation parameters that model rolling behavior.
+
   * **With physical robots, good systems engineering is as important as good algorithms**. At one point, we noticed that one engineer consistently achieved much better performance than others when running the exact same policy. We later discovered that he had a faster laptop, which hid a timing bug that reduced performance. After the bug was fixed, performance improved for the rest of the team.
+
 
 
 
@@ -186,7 +196,9 @@ Learning progress with and without randomizations over years of simulated experi
 We also found to our surprise that a number of commonly employed techniques did not improve our results.
 
   * **Decreasing reaction time did not improve performance**. Conventional wisdom states that reducing the time between actions should improve performance because the changes between states are smaller and therefore easier to predict. Our current time between actions is 80ms, which is smaller than human reaction time of 150-250ms, but significantly larger than neural network computation time of roughly 25ms. Surprisingly, decreasing time between actions to 40ms required additional training time but did not noticeably improve performance in the real world. It’s possible that this rule of thumb is less applicable to neural network models than to the linear models that are in common use today.
+
   * **Using real data to train our vision policies didn’t make a difference**. In early experiments, we used a combination of simulated and real data to improve our models. The real data was gathered from trials of our policy against an object with embedded tracking markers. However, real data has significant disadvantages compared to simulated data. Position information from tracking markers has latency and measurement error. Worse, real data is easily invalidated by common configuration changes, making it a hassle to collect enough to be useful. As our methods developed, our simulator-only error improved until it matched our error from using a mixture of simulated and real data. Our final vision models were trained without real data.
+
 
 
 
@@ -219,15 +231,15 @@ Ben Barry & Eric Haines
 
 [View all](</news/>)
 
-![CLIP](https://images.ctfassets.net/kftzwdyauwt9/5e490f66-703f-4228-221ca64049ed/8ed4358ba4b9f8779e07a2b15d7256e1/image_125.png?w=3840&q=90&fm=webp)
+![A grid of images with stacked duplicates of the images, emulating a 3D effect.](https://images.ctfassets.net/kftzwdyauwt9/5e490f66-703f-4228-221ca64049ed/8ed4358ba4b9f8779e07a2b15d7256e1/image_125.png?w=3840&q=90&fm=webp)
 
 [CLIP: Connecting text and imagesMilestoneJan 5, 2021](</index/clip/>)
 
-![Outstretched robot arm solving a Rubik's cube in its palm in front of a cloudy purple background](https://images.ctfassets.net/kftzwdyauwt9/9267c72e-6cc1-42f6-d23abb5fa261/3bb199192cd8749d8adc83a71751833c/solving-rubiks-cube.jpg?w=3840&q=90&fm=webp)
+![A Rubik's Cube in a robots hands against a sky background.](https://images.ctfassets.net/kftzwdyauwt9/9267c72e-6cc1-42f6-d23abb5fa261/3bb199192cd8749d8adc83a71751833c/solving-rubiks-cube.jpg?w=3840&q=90&fm=webp)
 
 [Solving Rubik’s Cube with a robot handMilestoneOct 15, 2019](</index/solving-rubiks-cube/>)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/ca9bbff7-d22d-4d9c-5e73e4e6168e/7817018b3e1dd3961c132da96874c996/image-47.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting depicting pink flowers.](https://images.ctfassets.net/kftzwdyauwt9/ca9bbff7-d22d-4d9c-5e73e4e6168e/7817018b3e1dd3961c132da96874c996/image-47.webp?w=3840&q=90&fm=webp)
 
 [Retro Contest: ResultsConclusionJun 22, 2018](</index/retro-contest-results/>)
 
@@ -241,9 +253,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -262,7 +275,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -280,6 +294,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -288,8 +303,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -308,6 +323,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

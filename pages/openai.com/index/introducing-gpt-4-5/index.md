@@ -83,7 +83,9 @@ We’re sharing GPT‑4.5 as a research preview to better understand its strengt
 We advance AI capabilities by scaling two complementary paradigms: unsupervised learning and reasoning. These represent two axes of intelligence.
 
   1. Unsupervised learning increases world model accuracy and intuition. Models like GPT‑3.5, GPT‑4, and GPT‑4.5 advance this paradigm. 
+
   2. [_Scaling reasoning_ ⁠](</index/learning-to-reason-with-llms/>), on the other hand, teaches models to think and produce a chain of thought before they respond, allowing them to tackle complex STEM or logic problems. Models like OpenAI o1 and OpenAI o3‑mini advance this paradigm. 
+
 
 
 
@@ -100,9 +102,13 @@ We don’t know exactly what the first language was, and scientists believe we�
 Here’s what we do know:
 
   * **No single "first language":** Languages likely developed gradually in different groups of humans around the same time, tens or even hundreds of thousands of years ago.
+
   * **Origin in Africa:** Most scientists agree that spoken language probably first emerged among humans in Africa, perhaps over 100,000 years ago.
+
   * **Proto-languages:** Rather than a single language, humans likely started with simple communication that evolved into more complex languages. The earliest forms of language probably included gestures, sounds, and signals to express basic ideas and emotions.
+
   * **Lost to history:** Because speech leaves no direct fossil record, and writing emerged relatively recently (around 5,000 years ago), we have no way to know exactly how the earliest languages sounded.
+
 
 
 
@@ -139,34 +145,6 @@ Combining deep understanding of the world with improved collaboration results in
 #### Use cases
 
 Help through a tough timeIdentify a paintingSpace exploration
-
-## GPT-4.5
-
-I’m going through a tough time after failing a test
-
-Aw, I’m really sorry to hear that. Failing a test can feel pretty tough and discouraging, but remember, it’s just one moment—not a reflection of who you are or your capabilities. Want to talk about what happened, or do you just need a distraction? I’m here either way.
-
-## GPT-4o
-
-I’m going through a tough time after failing a test
-
-I’m really sorry to hear that you’re going through a tough time. Here are a few things you might consider:
-
-1\. **Reflect and Understand** : Try to analyze what might have gone wrong. Was it a lack of preparation, time management during the test, or perhaps misunderstanding the material? Understanding the root cause can help you address it in the future.
-
-2\. **Seek Support** : Talk to someone you trust—friends, family, or a school counselor. They can offer a different perspective and sometimes just talking about your feelings can be alleviating.
-
-3\. **Speak with Your Teacher or Professor** : They can provide insights into where you might have gone wrong and offer advice on how to improve. They might also offer opportunities for make-up work or extra credit.
-
-4\. **Develop a Study Plan** : Based on your reflections, create a plan to improve your study habits. This might include setting regular study times, breaking down material into manageable portions, or finding new study methods that work better for you.
-
-5\. **Stay Positive and Forgive Yourself** : Mistakes and setbacks are a part of life. It’s important to be kind to yourself and recognize that failure is a stepping stone to success.
-
-6\. **Focus on the Bigger Picture** : Remember that one test is just one part of your educational journey. There will be many more opportunities to do well.
-
-If you need further support or resources, consider reaching out to educational support services at your institution, or mental health resources if you’re feeling particularly overwhelmed. You’re not alone in this, and things can get better with time and effort.
-
-GPT‑4.5 shows greater “EQ” and knows when to invite further conversation versus when to provide the user with extensive information.
 
 ## Stronger reasoning on the horizon
 
@@ -263,9 +241,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -284,7 +263,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -302,6 +282,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -310,8 +291,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -330,6 +311,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -357,3 +339,31 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+## GPT-4.5
+
+I’m going through a tough time after failing a test
+
+Aw, I’m really sorry to hear that. Failing a test can feel pretty tough and discouraging, but remember, it’s just one moment—not a reflection of who you are or your capabilities. Want to talk about what happened, or do you just need a distraction? I’m here either way.
+
+## GPT-4o
+
+I’m going through a tough time after failing a test
+
+I’m really sorry to hear that you’re going through a tough time. Here are a few things you might consider:
+
+1\. **Reflect and Understand** : Try to analyze what might have gone wrong. Was it a lack of preparation, time management during the test, or perhaps misunderstanding the material? Understanding the root cause can help you address it in the future.
+
+2\. **Seek Support** : Talk to someone you trust—friends, family, or a school counselor. They can offer a different perspective and sometimes just talking about your feelings can be alleviating.
+
+3\. **Speak with Your Teacher or Professor** : They can provide insights into where you might have gone wrong and offer advice on how to improve. They might also offer opportunities for make-up work or extra credit.
+
+4\. **Develop a Study Plan** : Based on your reflections, create a plan to improve your study habits. This might include setting regular study times, breaking down material into manageable portions, or finding new study methods that work better for you.
+
+5\. **Stay Positive and Forgive Yourself** : Mistakes and setbacks are a part of life. It’s important to be kind to yourself and recognize that failure is a stepping stone to success.
+
+6\. **Focus on the Bigger Picture** : Remember that one test is just one part of your educational journey. There will be many more opportunities to do well.
+
+If you need further support or resources, consider reaching out to educational support services at your institution, or mental health resources if you’re feeling particularly overwhelmed. You’re not alone in this, and things can get better with time and effort.
+
+GPT‑4.5 shows greater “EQ” and knows when to invite further conversation versus when to provide the user with extensive information.

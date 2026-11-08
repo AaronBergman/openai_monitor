@@ -26,105 +26,144 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-New
-
-### Introducing ChatGPT for Financial Services
-
-GPT‑6 Astra, included financial data, and new tools for financial services teams.
-
-[Learn more](</index/introducing-chatgpt-financial-services/>)
-
 OpenAI for financial services
 
-# Reimagine financial services with AI you can trust
+# Frontier intelligence. Built for financial services.
 
-Drive smarter decisions and improve efficiency across research, analysis, operations, and client service.
+Put OpenAI’s most capable models to work with your institution’s data and expertise. Go deeper in your research, bring sharper insights to every client conversation, and develop new financial products and services.
 
-[Contact sales](<https://openai.com/contact-sales/?utm_medium=content&utm_source=solutions&utm_campaign=WEB-industries_financial_services>)
+[Contact sales](</business/contact-sales-financial-services/>)[Get started](</business/>)
 
-![A woman with long blonde hair and glasses and a man with light brown hair are seated across from each other in a modern workspace with a green moss-covered wall in the background. The laptop between them displays a document or webpage.](https://images.ctfassets.net/kftzwdyauwt9/4yxnqdKmyr8iLfsDB5Rq9v/3d088473e569e609637a68abef46753b/openai_Solutions_FIncialServices_HeroImage.png?w=3840&q=90&fm=webp)
+At work inside leading financial institutions
 
-### Trusted by leading financial institutions
+GPT-6 Astra
 
-### AI you can deploy with confidence
+## Your most ambitious financial work. Our most intelligent model.
 
-Built for the standards of finance—with the security, reliability, and control enterprises require.
+Our latest ChatGPT model delivers state-of-the-art information retrieval, financial reasoning, and presentation generation. Find relevant evidence, deepen your analysis, and create editable financial models, research notes, and presentations.
 
-  * [View enterprise privacy](</business-data/>)
+  * [Learn more](</index/introducing-chatgpt-financial-services/>)
+  * [Get started](</business/>)
 
 
 
-#### Secure and compliant by design
+![Glowing stars form the numeral six against a dark starfield.](https://images.ctfassets.net/kftzwdyauwt9/5dSM1cRxDsldgwhkllSGKo/3bba9f5d18ed7267ff4d84e0a5572e8c/starfield-six-inline.png?w=3840&q=90&fm=webp)
 
-Keep data private and in your control with encryption and configurable policies.
+ChatGPT for financial services
 
-#### Proven to scale
+## Ask more of your financial research
 
-Move from pilot to production with proven architectural patterns and employee enablement.
+Bring built-in financial data, public filings, and your firm’s research into a tailored ChatGPT Work experience. Deepen your analysis and create editable models and pitchbooks in your firm’s preferred format.
 
-#### Frontier models for financial complexity
+[Contact sales](</business/contact-sales-financial-services/>)[Learn more](</index/introducing-chatgpt-financial-services/>)
 
-Extract better insights with models that excel in data-rich, complex environments.
+## AI that works for your whole institution
 
-### Accelerate innovation across your organization
+Combine frontier models with your firm’s expertise and trusted information to support client work, modernize software, and build specialized applications.
 
-Transform how your teams learn, build, and work with AI.
+![ChatGPT analyzes a financial balance sheet in Microsoft Excel.](https://images.ctfassets.net/kftzwdyauwt9/7uB94eoT9Rxjn5N8fZGKiq/fa7f0df40cdd6ad4ff48e2addeb13b7c/chatgpt-excel-balance-sheet-card.webp?w=3840&q=90&fm=webp)
 
-![Chat interface requesting an investment dossier on QXO using deep research sources like LSEG and S&P. Below, a generated report titled “QXO Investment Dossier and Leadership Deep Dive” shows an executive summary.](https://images.ctfassets.net/kftzwdyauwt9/1Z86lXcX1g2JPMKUZ0oYxX/b070c21502f5724a42b8cd46b6d461d7/ChatGPT_deep_research_w_finance_connectors.png?w=3840&q=90&fm=webp)
+### Build AI into your applications
 
-### ChatGPT Enterprise
+Use OpenAI APIs to build tailored applications grounded in your institution’s data and expertise and connect them to your existing systems and workflows.
 
-Analyze financial data, synthesize research, and respond to clients with greater speed and accuracy. 
+[Explore the API Platform](</api/>)
 
-[Contact sales](</contact-sales/>)[Try now(opens in a new window)](<https://chatgpt.com/team-sign-up>)
+![OpenAI Codex terminal interface on a blue background.](https://images.ctfassets.net/kftzwdyauwt9/4pPBxjig5xtBWRmGo2ZAPm/51cbf6db9b6a3aa38cac61b2496b1618/codex-terminal-card.png?w=3840&q=90&fm=webp)
 
-![Excel valuation model displaying projected balance sheet data while a ChatGPT panel analyzes company filings, builds valuation scenarios, and links revenue, EPS, and price target impacts using consensus estimates and RVI holdings data.](https://images.ctfassets.net/kftzwdyauwt9/305beigTUneWRok6uoDoUj/ce00fa600b7909213d7127eaaf529197/BasisPoints_2.png?w=3840&q=90&fm=webp)
+### Build and modernize software
 
-### ChatGPT for Excel
+Use Codex to build internal tools, improve existing code, and modernize legacy systems, including COBOL. Write and run tests to validate your work.
 
-Build, update, and analyze complex models directly in Excel while keeping outputs auditable in existing formulas and workbook structures.
+[Explore Codex](</codex/>)
 
-[Contact sales](</contact-sales/>)
+![ChatGPT uses a finance connector to analyze a quarterly financial spreadsheet.](https://images.ctfassets.net/kftzwdyauwt9/1BwU8IdcwHuabF5CYdsygu/e5fda318f7fdef9743531570d7db3a30/finance-connectors-card.png?w=3840&q=90&fm=webp)
 
-![Terminal-style interface showing OpenAI Codex \(v0.46.0\) running the gpt-5.3-codex model in a project directory, with a prompt to start by describing a task or initializing the project with an AGENTS.md file.](https://images.ctfassets.net/kftzwdyauwt9/56CBROIvHBdHlG7qec5WvZ/672936e9bc300ad9a8505cb255793b6b/Build_intelligent_systems.png?w=3840&q=90&fm=webp)
+### Bring AI to every team
 
-### Build intelligent systems
+Use ChatGPT Work to find internal information, draft communications, and prepare briefings across operations, marketing, HR, and customer support.
 
-Use the API Platform and Codex to automate development and modernize trading, risk, and compliance systems. 
+[Explore ChatGPT Work](</business/why-openai/enterprises/>)
 
-[Explore API Platform](</api/>)[Try Codex](</codex/>)
+Enterprise deployment
 
-### Connect your financial data
+## Protect your firm’s data. Control how AI is used.
 
-Bring market, company, and internal data into one workflow for faster research and analysis.
+Bring AI into your institution with protections for business data and controls over access, data retention, and compliance.
 
-[Explore connectors](<https://openai.com/business/apps/?tags=apps-financial-services>)[Connect with MCP](<https://platform.openai.com/docs/mcp>)
+[Discuss your deployment](</business/contact-sales-financial-services/>)
 
-![Grid of connector icons representing financial and data providers, including S&P, LSEG, FactSet, Moody’s, PitchBook, MSCI, and others, displayed on rounded tiles against a blue gradient background.](https://images.ctfassets.net/kftzwdyauwt9/6u1maYmMkC8yDfu2VpDvNP/e82f1289490a7f97fd8a8a19936e8105/connectors_1x1.png?w=3840&q=90&fm=webp)
+#### Protect business data
 
-### High-impact use cases for financial services
+Your business data is not used to train models by default. Data is encrypted at rest and in transit, and admins configure retention.
 
-### Learn from industry leaders driving change
+#### Control access across teams
 
-HgBBVAWalleye CapitalBalyasny Asset Management (BAM)Fidelity InternationalMUFGCommBankDatasite
+Manage users with single sign-on and role-based controls. Set permissions for apps and actions, and use separate workspaces to enforce information barriers.
 
-![oai Balyasny 1x1](https://images.ctfassets.net/kftzwdyauwt9/27WMGhOq82XBzmCqqaHy6q/a6d1207128885eae6b1ed73c43809dd5/oai_Balyasny_1x1.png?w=3840&q=90&fm=webp)
+#### Support compliance and oversight
 
-[How Balyasny Asset Management built an AI research engine](</index/balyasny-asset-management/>)
+Use the OpenAI Compliance Platform to export supported workspace logs for your firm’s existing audit and investigation workflows.
 
-![oai BNY 1x1](https://images.ctfassets.net/kftzwdyauwt9/6pha2P5AVJHHqjh1dsjkmt/b2016686be8f596010974414726c7277/oai_BNY_1x1.png?w=3840&q=90&fm=webp)
+#### Manage usage and spend
 
-[BNY builds “AI for everyone, everywhere” with OpenAI](</index/bny/>)
+Set monthly limits for users and groups, and configure workspace budgets and spend alerts.
 
-![Morgan Stanley logo in white, displayed over a sleek blue-toned reflective surface with smooth, intersecting edges.](https://images.ctfassets.net/kftzwdyauwt9/5mCz669MifU0i9wCvVpIq1/7c67daad163769492a70a186fd606feb/oai_morganstanley_1_1.png?w=3840&q=90&fm=webp)
+## Innovate with OpenAI
 
-[Morgan Stanley is shaping the future of financial services](</index/morgan-stanley/>)
+![Balyasny Asset Management customer story image](https://images.ctfassets.net/kftzwdyauwt9/27WMGhOq82XBzmCqqaHy6q/a6d1207128885eae6b1ed73c43809dd5/oai_Balyasny_1x1.png?w=3840&q=90&fm=webp)
 
-## Power your institution with advanced intelligence
+## [Building an AI research engineBalyasny Asset ManagementRead the story](</index/balyasny-asset-management/>)
 
-See how OpenAI can help your organization scale AI securely and responsibly.
+![BBVA customer story image](https://images.ctfassets.net/kftzwdyauwt9/68CWIJNeDPYLc9UFRsaiLY/724c0a211983b43bd989af3d9d814300/oai_BBVA_1_1.png?w=3840&q=90&fm=webp)
 
-[Contact sales](<https://openai.com/contact-sales/?utm_medium=content&utm_source=solutions&utm_campaign=WEB-industries_financial_services>)
+## [Bringing AI into work across the bankBBVARead the story](</index/bbva/>)
+
+![LSEG logo over a blue network illustration.](https://images.ctfassets.net/kftzwdyauwt9/6wykEE6NmMzJHGPdxuhPV7/b85d4a7e59cd01a710f4b8b9213f88f8/oai_LSEG_1x1.png?w=3840&q=90&fm=webp)
+
+## [Reduced product release cycle from ~6 months to ~2 weeksLSEGRead the story](</index/lseg/>)
+
+![Morgan Stanley customer story image](https://images.ctfassets.net/kftzwdyauwt9/5mCz669MifU0i9wCvVpIq1/7c67daad163769492a70a186fd606feb/oai_morganstanley_1_1.png?w=3840&q=90&fm=webp)
+
+## [Putting firm knowledge in the hands of financial advisorsMorgan StanleyRead the story](</index/morgan-stanley/>)
+
+> “It has expanded our team’s capacity, freeing our investment professionals to focus more time on judgment, debate, and conviction.”
+
+—Amr Ellabban, PhD, Head of AI, Hg
+
+## Find the work that matters to your team
+
+![OpenAI for Finance art card.](https://images.ctfassets.net/kftzwdyauwt9/2UABLkelbsY8aLeITzA67o/774191c8c9665456b21fb342bb3a49d6/openai-for-finance-art-card-1x1.png?w=3840&q=90&fm=webp)
+
+## [FinanceResearch, analysis, and financial modeling.Explore](</business/solutions/finance/>)
+
+![Blue operations illustration with document and dashboard panels and an Operations label.](https://images.ctfassets.net/kftzwdyauwt9/3Rcj8AL1Fc5gTPJgB0MpvA/09c2b634566bbe164a201985bdabdcc2/Operations_art_card_1x1.png?w=3840&q=90&fm=webp)
+
+## [OperationsDocument review and operational workflows.Explore](</business/solutions/operations/>)
+
+![Cybersecurity cover image](https://images.ctfassets.net/kftzwdyauwt9/5Wne8L2ZgsgJJ7cAAKogds/fd908d2bb3d349be1bdac2fba779e7bc/business-solutions-cybersecurity-1x1.png?w=3840&q=90&fm=webp)
+
+## [SecurityAI for your cybersecurity team.Explore](</business/solutions/cybersecurity/>)
+
+![Pink engineering illustration with code checklist rows and an Engineering label.](https://images.ctfassets.net/kftzwdyauwt9/6J9lr7qH7vG5meoBrQ6wAp/620069b9364384ac3682e4c241e19477/openai-for-software-engineering-art-card-1x1.png?w=3840&q=90&fm=webp)
+
+## [EngineeringCode, legacy systems, and new applications.Explore](</business/solutions/engineering/>)
+
+## Build the future of financial services with OpenAI
+
+Bring frontier intelligence to your institution’s most ambitious work.
+
+[Contact sales](</business/contact-sales-financial-services/>)[Get started](</business/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -136,10 +175,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -158,7 +197,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -176,6 +216,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -184,8 +225,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -204,6 +245,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -232,36 +274,40 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-![Microsoft Excel window showing a financial valuation model spreadsheet with balance sheet data and projections across several years, while a ChatGPT sidebar assistant analyzes a prompt about Robinhood Ventures Fund holdings and models potential impacts on revenue, EPS, and price targets.](https://images.ctfassets.net/kftzwdyauwt9/12mFS1N7aehIROx90THz9S/6a29f0bb7e820c378e693a488ccb2fba/BasisPoint.png?w=3840&q=90&fm=webp)
+![Financial Services interface for premium financial data.](https://images.ctfassets.net/kftzwdyauwt9/6fDYcZSjsEYFDMLMO5j2ln/c4a57b9c8e6850ce7e46c8ed56744173/premium-data.png?w=3840&q=90&fm=webp)
 
-![Interface showing a spreadsheet file named “Financial_Data.xlsx” with a prompt to run a Monte Carlo simulation modeling potential portfolio values from an initial $1 million investment. In the background, a histogram chart displays the distribution of terminal portfolio values over 12 months with markers for the initial value, mean, and 5th percentile.](https://images.ctfassets.net/kftzwdyauwt9/7JEOPnZK6Zl9sz6WfR9nPw/4b2ecd4772adfbc574dae02badc6b381/ChatGPT_For_Financial_Services.png?w=3840&q=90&fm=webp)
+![Financial Services interface for source-backed financial analysis.](https://images.ctfassets.net/kftzwdyauwt9/5VMh76XuJMhLtQFGIgZEC0/2e795299d0c8595f5ae6363a187caad2/financial-analysis.png?w=3840&q=90&fm=webp)
 
-![Diagram showing three input document types—income statement, identification, and bank statements—flowing into a “Processing” block, which outputs a structured loan application table with fields like name, DOB, and income.](https://images.ctfassets.net/kftzwdyauwt9/4b7Mp1WkalkBpvcfAuyUQ9/63d5a9eb4155e52b8a245da474c23226/Automate_Document_Workflows.png?w=3840&q=90&fm=webp)
+![Financial Services interface for building and visualizing financial models.](https://images.ctfassets.net/kftzwdyauwt9/2T6t93SCWqaOyvZcSmfo1J/9cc60f01b3e9785e2aeaf4cb0e20d5b6/financial-models.png?w=3840&q=90&fm=webp)
 
-![Terminal-style interface showing OpenAI Codex \(v0.46.0\) running with the model “gpt-5.3-codex” in a project directory, prompting the user to describe a task or initialize a project with an AGENTS.md file.](https://images.ctfassets.net/kftzwdyauwt9/2YRaK3fEkc2btBUgT4Vx9B/c1359d803aab71bc52a5d9d90723db85/Modernize_legacy_systems.png?w=3840&q=90&fm=webp)
+![Financial Services interface for client materials in firm style.](https://images.ctfassets.net/kftzwdyauwt9/3YUCczPghR3X626gQWI4Cr/f18cb112353902088dad8b620762a42f/client-materials.png?w=3840&q=90&fm=webp)
 
-### Build, update, and stress-test models faster
+![ChatGPT in Microsoft Excel analyzes a financial balance sheet and cash flow conversion.](https://images.ctfassets.net/kftzwdyauwt9/1z4JLblEqIilXbqQ8yrniO/3f43914ef2938494896a8a938631cf10/chatgpt-excel-tools-media.png?w=3840&q=90&fm=webp)
 
-Create valuations, run scenarios, and trace drivers inside workbooks so analysts spend less time on manual Excel work.
+![Grid of connector icons representing financial and data providers such as S&P, LSEG, FactSet, Moody’s, MSCI, PayPal, and others, displayed on rounded tiles against a blue gradient background.](https://images.ctfassets.net/kftzwdyauwt9/5GkB6T9u99RUjAFdlaOjei/decf3600eab536c454ef81192334136b/connectors_16x9.png?w=3840&q=90&fm=webp)
 
-### Simplify research and analysis
+### Premium financial data, built in
 
-Pull from filings, transcripts, decks, spreadsheets, and connected data to produce structured, cited outputs. 
+Access earnings transcripts, financial statements, and private company data without separate contracts to negotiate or connectors to configure.
 
-### Automate document processing
+[Learn more](</index/introducing-chatgpt-financial-services/>)
 
-Extract and process KYC, loan, and compliance files to streamline reviews.
+### Financial analysis you can trace to the source
 
-  
+Compare a company’s latest earnings with prior periods, peers, and your firm’s research. Develop research notes with supporting citations, and inspect the evidence behind metrics like adjusted EBITDA.
 
+### Build, check, and visualize financial models
 
-### Modernize legacy systems
+Build or update a model with the latest company figures. Align periods and units, check calculations, and use interactive visualizations to explore how changes in revenue growth or margins could affect valuation.
 
-Migrate COBOL and other legacy code to deliver innovation projects faster and save developer time.
+### Client materials built in your firm style
 
-  
+Turn research and valuations into company profiles and pitchbooks using your firm’s templates. Refine the narrative, review sources and assumptions, and continue editing in Excel, Word, or PowerPoint.
 
+### Refine your work in the tools you use
 
-> “ChatGPT has materially accelerated our research and due diligence workflows—from financial analysis and market research to legal review and writing internal memos—while improving consistency across teams. It has expanded our team’s capacity, freeing our investment professionals to focus more time on judgment, debate, and conviction. We’re excited to be early adopters of new capabilities and to help shape how AI transforms financial services in the years ahead.”
+Check formulas, sharpen research notes, and polish presentations with ChatGPT extensions for Excel, Word, and PowerPoint.
 
-—Amr Ellabban, PhD, Head of AI, Hg
+### Sign in or connect your existing subscriptions
+
+Sign in with ChatGPT to access your existing data with authentication through ChatGPT, or connect existing entitlements through MCPs.
