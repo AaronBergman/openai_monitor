@@ -37,8 +37,11 @@ Scale Tier lets you purchase a set number of API input and output tokens per min
 By choosing Scale Tier, you can unlock:
 
   * **Predictable latency:** Scale Tier is designed to generate tokens faster and at a more consistent speed than the pay-as-you-go (PAYG) service, even during peak demand.
+
   * **Uncapped scale:** Any quota purchases with Scale Tier is automatically added to your rate limits, so you can confidently scale further. 
+
   * **Higher reliability:** Scale Tier traffic offers a 99.9% uptime SLA and prioritized compute.
+
 
 
 
@@ -116,8 +119,11 @@ More information about how Scale Tier interacts with Prompt Caching can be found
 With GPT‑5.4 and GPT‑5.5 you buy a Combined Input and Output tokens/min. This gives you greater flexibility and removes the need to predict your input and output token ratio. As you use scale tier, we count tokens against your Combined Tokens as follows:
 
   * Input tokens count as 1
+
   * Cached input tokens follow the per-model caching as below in the FAQ section
+
   * Output tokens count based on the PayG price ratio of Output to Input tokens for the model. For example, with GPT‑5.4 one output token counts as 6.
+
 
 
 
@@ -141,10 +147,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -163,7 +169,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -181,6 +188,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -189,8 +197,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -209,6 +217,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

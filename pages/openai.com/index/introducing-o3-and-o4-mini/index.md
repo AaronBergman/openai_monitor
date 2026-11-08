@@ -32,7 +32,19 @@ April 16, 2025
 
 # Introducing OpenAI o3 and o4-mini
 
+Our smartest and most capable models to date with full tool access
+
 [Try on ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+
+## This post introduced OpenAI o3 and o4-mini.
+
+The availability information reflects the April 2025 launch. o3 and o4-mini are no longer available in ChatGPT and are deprecated in the API. See the [API deprecation schedule⁠(opens in a new window)](<https://developers.openai.com/api/docs/deprecations>).
+
+For the current experience:
+
+[View current API models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 Loading…
 
@@ -116,6 +128,197 @@ _All examples were completed with OpenAI o3._
 
 Research mathBusinessScienceSportsVisual reasoning
 
+### Advancing cost-efficient reasoning
+
+##### Cost vs performance: o3‑mini and o4-mini
+
+![OpenAI o3-mini and o4-mini AIME evals](https://images.ctfassets.net/kftzwdyauwt9/1HaJwt63QmevA8n6A8rOys/0d76297d0023935057e9404124a62669/o3-o4_mini_AIME2025.png?w=3840&q=90&fm=webp)
+
+![OpenAI o3-mini and o4-mini GPQA evals](https://images.ctfassets.net/kftzwdyauwt9/4Gw2tlDup1LN9WcMiiuyUr/2210496f5a2b2edf06898f9b0d87806b/o3-o4_mini_GPQA-Pass.png?w=3840&q=90&fm=webp)
+
+##### Cost vs performance: o1 and o3
+
+![OpenAI o3 and o4 AIME evals](https://images.ctfassets.net/kftzwdyauwt9/1NDcqcms5r7NFdbdlhVdCX/008e39fe5112baa135c727f15c569508/o3-o4_AIME2025.png?w=3840&q=90&fm=webp)
+
+![OpenAI o3 and o4 GPQA evals](https://images.ctfassets.net/kftzwdyauwt9/2HpQv67tCNmBJ8MtGfnTNS/f0d69d710fbb5ed2e9d36e828b07ccf5/o3-o4_GPQA-Pass.png?w=3840&q=90&fm=webp)
+
+OpenAI o3 and o4-mini are the most intelligent models we have ever released, and they’re also often more efficient than their predecessors, OpenAI o1 and o3‑mini. For example, on the 2025 AIME math competition, the cost-performance frontier for o3 strictly improves over o1, and similarly, o4-mini's frontier strictly improves over o3‑mini. More generally, we expect that for most real-world usage, o3 and o4-mini will also be both smarter and cheaper than o1 and o3‑mini, respectively.
+
+## Safety
+
+Each improvement in model capabilities warrants commensurate improvements to safety. For OpenAI o3 and o4-mini, we completely rebuilt our safety training data, adding new refusal prompts in areas such as biological threats (biorisk), malware generation, and jailbreaks. This refreshed data has led o3 and o4-mini to achieve strong performance on our internal refusal benchmarks (e.g., [_instruction hierarchy_ ⁠](</index/the-instruction-hierarchy/>), jailbreaks). In addition to strong performance for model refusals, we have also developed system-level mitigations to flag dangerous prompts in frontier risk areas. Similar to our earlier work in [_image generation_ ⁠](</index/introducing-4o-image-generation/>), we trained a reasoning LLM monitor which works from human-written and interpretable safety specifications. When applied to biorisk, this monitor successfully flagged ~99% of conversations in our human red‑teaming campaign. 
+
+We stress tested both models with our most rigorous safety program to date. In accordance with our updated [_Preparedness Framework_ ⁠](<https://openai.com/index/updating-our-preparedness-framework/>), we evaluated o3 and o4-mini across the three tracked capability areas covered by the Framework: biological and chemical, cybersecurity, and AI self-improvement. Based on the results of these evaluations, we have determined that both o3 and o4‑mini remain below the Framework's "High" threshold in all three categories. We have published the detailed results from these evaluations in the accompanying [system card⁠.⁠](</index/o3-o4-mini-system-card/>)
+
+## Codex CLI: frontier reasoning in the terminal
+
+We’re also sharing a new experiment: Codex CLI, a lightweight coding agent you can run from your terminal. It works directly on your computer and is designed to maximize the reasoning capabilities of models like o3 and o4-mini, with upcoming support for additional API models like [GPT‑4.1⁠](<https://openai.com/index/gpt-4-1/>).
+
+You can get the benefits of multimodal reasoning from the command line by passing screenshots or low fidelity sketches to the model, combined with access to your code locally. We think of it as a minimal interface to connect our models to users and their computers. Codex CLI is fully open-source at [_github.com/openai/codex_ ⁠(opens in a new window)](<https://github.com/openai/codex>) today.
+
+Alongside, we are launching a $1 million initiative to support projects using Codex CLI and OpenAI models. We will evaluate and accept applications for grants in increments of $25,000 USD in the form of API credits. Proposals can be submitted [here](</form/codex-open-source-fund/>).
+
+## Access
+
+ChatGPT Plus, Pro, and Team users will see o3, o4-mini, and o4-mini-high in the model selector starting today, replacing o1, o3‑mini, and o3‑mini‑high. ChatGPT Enterprise and Edu users will gain access in one week. Free users can try o4-mini by selecting 'Think' in the composer before submitting their query. Rate limits across all plans remain unchanged from the prior set of models.
+
+We expect to release OpenAI o3‑pro in a few weeks with full tool support. For now, Pro users can still access o1‑pro. 
+
+Both o3 and o4-mini are also available to developers today via the Chat Completions API and Responses API (some developers will need to [verify their organizations⁠(opens in a new window)](<https://help.openai.com/en/articles/10910291-api-organization-verification>) to access these models). The Responses API supports reasoning summaries, the ability to preserve reasoning tokens around function calls for better performance, and will soon support built-in tools like web search, file search, and code interpreter within the model’s reasoning. To get started, [explore our docs⁠⁠(opens in a new window)](<https://platform.openai.com/docs/guides/reasoning?api-mode=responses>) and stay tuned for more updates.
+
+## What’s next
+
+Today's updates reflect the direction our models are heading in: we’re converging the specialized reasoning capabilities of the o-series with more of the natural conversational abilities and tool use of the GPT‑series. By unifying these strengths, our future models will support seamless, natural conversations alongside proactive tool use and advanced problem-solving.
+
+* * *
+
+_**Update on July 28, 2025:**__SWE-Lancer dataset and results updated as of July 17, 2025, available at:_[_https://github.com/openai/preparedness_ ⁠(opens in a new window)](<https://github.com/openai/preparedness>)_and in our system cards. This update resolves several issues that were impacting the dollars earned results and removes the requirement for internet connectivity during execution, eliminating a primary source of variability in model performance._
+
+_**Update on April 16, 2025:**__results for o3 on Charxiv-r and Mathvista were updated to reflect a system prompt change that wasn’t present in the original evaluation._
+
+## Livestream replay
+
+  * [ChatGPT](</research/index/?tags=chatgpt>)
+  * [GPT](</research/index/?tags=gpt>)
+  * [Framework](</research/index/?tags=framework>)
+  * [2025](</research/index/?tags=2025>)
+
+
+
+## Author
+
+OpenAI
+
+## Footnotes
+
+ _* tau-bench eval numbers are averaged across 5 runs to reduce variance, and run without any custom tools or prompting. We found tau-bench retail rollouts are more prone to user model errors.__Numbers for shaded bar are run with_ _GPT-4.1 as user model because it’s significantly better than GPT-4o at instruction following._
+
+_* SWE-bench uses 256k max context length, which improves the solve rate for o4-mini by about 3% and impacts o3’s solve rate by <1%. We also exclude 23 samples that are not runnable on our internal infrastructure._
+
+_** When enabling browsing, the model can sometimes find exact answers online, for example, by reading blog posts with sample problems from a dataset. We mitigate concerns of the model cheating while browsing with two strategies:_
+
+  * _Blocked domains that we have observed the model cheating from in the past._
+
+  * _Used a reasoning model as a monitor to examine all tokens in each attempt, in order to identify suspicious behavior. Suspicious behavior is defined as "a page, file, or snippet whose main purpose is to provide the exact answer to this specific question—e.g., an official grading key, leaked “solutions” gist, or discussion quoting the finished answer verbatim." Benign behavior is defined as "Any authoritative resource a diligent human might consult (documentation, manuals, scholarly papers, reputable articles) even if it incidentally contains the correct answer." Any attempts where the monitor deemed the rollout suspicious are counted as incorrect. Most samples failed by this check were problems whose exact solution was available on multiple internet sources _**_unrelated_** _to HLE._
+
+
+
+
+_Finally, our evaluations with browsing may not be perfectly reproducible in the OpenAI API due to a difference in search engine backends between ChatGPT and the OpenAI API. These results are intended to be representative of the ChatGPT user experience, but depending on demand, the search configuration may change over time._
+
+## Contributors
+
+Aaditya Singh, Aaron Schlesinger, Adam Fry, Adam Lerer, Adam Perelman, Adam Walker, Ahmed El-Kishky, Aidan Clark, Aidan McLaughlin, Aiden Low, Akila Welihinda, Akshay Nathan, Aleksander Madry, Aleksandra Spyra, Alex Karpenko, Alex Neitz, Alex Tachard Passos, Alex Wei, Alexander Prokofiev, Alexander Zielenski, Alexandra Barr, Alexey Ivanov, Alexi Christakis, Alfred Xue, Allison Tam, Ally Bennett, Ally Bennett , Amelia Liu, Amy McDonald Sandjideh, Ananya Kumar, Andre Saraiva, Andrea Vallone, Andrew Chen, Andrew Duberstein, Andrew Gibiansky, Andrew Kondrich, Andrew Tulloch, Andrey Mishchenko, Andy Applebaum, Andy Wang, Angela Baek, Annie Wei, Anting Shen, Antoine Pelisse, Anuj Saharan, Arun Vijayvergiya, Ashley Tyra, Ashvin Nair, Avi Nayak, Avital Oliver, Behrooz Ghorbani, Belinda Truong, Ben Sokolowsky, Beth Hoover, Bo Xu, Boaz Barak, Bohan Zhang, Borys Minaiev, Botao Hao, Bowen Baker, Bowen Cheng, Brandon McKinzie, Brandon Wang, Brian Hsu, Brian Yang, Brian Yu, Brian Zhang, Camillo Lugaresi, Carolina Paz, Carpus Chang, Cary Bassin , Cary Hudson, Casey Chu, Chak Li, Charles Zhao, Charlie Jatt, Charlotte Cole, Chelsea Voss, Chen Shen, Chengxu Zhuang, Chris Colby, Chris Hallacy , Chris Koch, Christina Kaplan, Christina Kim, Colin Reid, Colin Wei, Cristina Scheau, D. Sculley, Damien Deville, Dan Roberts, Dana Palmie, Dane Stuckey, Daniel Levine, David Hu, David Martin, David Robinson, David Sasaki, Davis Wu, Derek Chen, Dibya Bhattacharjee, Dimitris Tsipras, Dinghua Li, DJ Strouse, dmed Medina, Drew Hintz, Eddie Zhang, Edmund Wong, Elaine Ya Le, Eli Yani , Elizabeth Proehl, Emily Sokolova, Enoch Cheung, Eri Schwartz, Eric Mitchell, Eric Ning, Eric Sigler, Eric Wallace, Eugenio Panero, Evan Mays, Evgenii Nikishin, Fan Wang, Fangyuan Li, Filippo Raso, Foivos Tsimpourlas, Fouad Matin, Francis Song, Francis Zhang, Gary Yang, Gene Oden, Giambattista Parascandolo, Gildas Chabot, Grace Kim, Grace Zhao, Greg Brockman, Gregory Valiant, Guillaume Leclerc, Hadi Salman, Haitang Hu, Hannah Sheahan, Hao Sheng, Haoyu Wang, Henrique Ponde de Oliveira Pinto, Henry Aspegren, Heqing Yan, Hessam Bagherinezhad, Hongyu Ren, Hunter Lightman, Hyeonwoo Noh, Ian Kivlichan, Ian Sohl, Ignasi Clavera, Ikai Lan, Ilge Akkaya, Ilya Kostrikov, Irina Kofman, Isa Fulford, Jake Brill, Jakub Pachocki, James Betker, James Lee, James Qin, Jamie Kiros, Jason Ai, Jay Wang, Jean Harb, Jeff Mickey, Jeffrey Han, Jeffrey Wang, Jeremy Chen, Jerry Tworek, Jessica Liang, Jessica Shieh, Ji Lin, Jiahui Yu, Jianfeng Wang, Jie Tang, Jihan Yin, Jing Li, Joanne Jang, Joel Morris, Johannes Ferstad, Johannes Heidecke, John Fishbein, Jon Okun, Jonathan Gordon, Joost Huizinga, Jos Kraaijeveld, Joseph Mo, Josh Lawson , Josh Tobin, Junhua Mao, Kai Chen, Kai Hayashi, Karan Singhal, Karina Nguyen, Katy Shi, Kelly Stirman, Kenji Hata, Kenny Nguyen, Keren Gu-Lemberg, Kevin Gladstone, Kevin King, Kevin Liu, Kevin Lu, Kevin Park, Kevin Stone, Kevin Weil, Kevin Whinnery, Kevin Yu, Kote Mushegiani, Kristen Ying, Kristian Georgiev, Kshitij Gupta, Kyle Kosic, Lama Ahmad, Larry Lv, Lauren Itow, Lauren Yang, Lee Byron, Leo Chen, Leo Liu, Leon Maksin, Leyton Ho, Li Jing, Liang Xiong, Lin Yang, Linden Li, Lorenz Kuhn, Louis Feuvrier, Lu Zhang, Łukasz Kaiser, Mahmoud Eariby, Maja Trębacz, Manas Joglekar, Manoli Liodakis, Manuka Stratta, Mark Chen, Mark Hudnall, Mark Sun, Mark Wang, Martin Li, Marvin Zhang, Mateusz Litwin, Matt Jones, Matt Lim, Max Johnson, Max Schwarzer, Mayank Gupta, Meghan Shah, Mengqing Wang, Mengyuan Yan, Mia Glaese, Michael Bolin, Michael Lampe, Michael Malek, Michael Sharman, Michael Zhang, Michele Wang, Michelle Pokrass, Miguel Oom Temudo de Castro, Mihai Florian, Mike McClay, Mike Trpcic, Miki Habryn, Miles Wang, Ming Chen, Mingxuan Wang, Minnia Feng, Mitchell Gordon, Mo Bavarian, Mostafa Rohaninejad, Nacho Soto, Nakul Khanna, Nat McAleese, Natalie Staudacher, Natan LaFontaine, Neel Ajjarapu, Nick Felt, Nick Turley, Nikil Pancha, Nikita Mikhaylin, Niko Felix, Nikunj Handa, Ning Liu, Nishant Rai, Noah Jorgensen, Noam Brown, Oleg Boiko, Oleg Murk, Olivia Watkins, Olivier Godement, Oona Gleeson, Paul Ashbourne, Pavel Belov, Peter Flockhart, Peter Hoeschele, Peter Zhokhov, Philip Pronin, Phillip Guo, Phoebe Thacker, Prafulla Dhariwal, Prashanth R, Rachel Dias, Rahul Arora, Rajkumar Samuel, Rasmus Rygaard, Ravi Teja Mullapudi, Raymond Li, Raz Gaon, Reah Miyara, Reiichiro Nakano, Reimar Leike, Rennie Song, Rhythm Garg, RJ Marsan, Robert Xiong, Robin Brown, Roman Tsiupa, Rui Shu, Ruslan Nigmatullin, Saachi Jain, Saagar Patel, Sam Altman, Sam Toizer, Sam Toyer, Samir Ahmed, Samuel Miserendino, Samuel Wolrich , Sandhini Agarwal, Santiago Hernández, Sarah Dong, Savannah Heon, Scott Ethersmith, Scott Mayer McKinney, Sean Fitzgerald, Sever Banesiu, Shamez Hemani, Shengjia Zhao, Shengli Hu, Shibani Santurkar, Shreyas Krishnaswamy, Shuchao Bi, Shunyu Yao, Shuyuan Zhang, Simón Posada Fishman, Spencer Papay, Spug Golden, Srinivas Narayanan, Stanley Hsieh, Stephen Logsdon, Sundeep Tirumalareddy, Tal Stramer, Tao Wang, Tao Xin, Taylor Gordon, Tejal Patwardhan, Thibault Sottiaux, Tina Sriskandarajah, Tony Casparro, Tony Zhao, Trapit Bansal, Trevor Creech, Uzair Navid Iftikhar, Valerie Qi, Vineet Kosaraju, Vishal Kuo, Vitchyr Pong, Vivek Verma, Vlad Petrov, Wenda Zhou, Wenlei Xie, Wenting Zhan, Will DePue, Will Ellsworth, William Sheu, Wyatt Thompson, Yaming Lin, Yann Dubois, Yaodong Yu, Yara Khakbaz, Yash Patil, Yifan Wu, Yilong Qin, Yining Chen, Yirui Zhang, Yo Shavit , Young Cha, Yunyun Wang, Yushi Wang, Zack Sultan, Zehao Dou, Zewei Chu, Zheng Shao, Zhigang Wang, Zhishuai Zhang, Zihao Zhang
+
+Research
+
+  * [Research Index](</research/index/>)
+  * [Research Overview](</research/>)
+  * [Economic Research](</signals/>)
+
+
+
+Latest Advancements
+
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
+  * [GPT-5.5](</index/introducing-gpt-5-5/>)
+
+
+
+Safety
+
+  * [Safety Approach](</safety/>)
+  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
+  * [Security & Privacy](</security-and-privacy/>)
+  * [Trust & Transparency](</trust-and-transparency/>)
+
+
+
+Products
+
+  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
+  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
+  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
+  * [Release Notes](</products/release-notes/>)
+
+
+
+API Platform
+
+  * [Overview](</api/>)
+  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
+
+
+
+Business
+
+  * [Overview](</business/>)
+  * [Solutions](</solutions/>)
+  * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
+  * [Contact Sales](</contact-sales/>)
+
+
+
+Developers
+
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
+  * [Docs(opens in a new window)](<https://developers.openai.com/>)
+  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
+  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
+
+
+
+Company
+
+  * [About Us](</about/>)
+  * [Our Charter](</charter/>)
+  * [Careers](</careers/>)
+  * [News](</news/>)
+
+
+
+Support
+
+  * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
+
+
+
+More
+
+  * [Stories](</stories/>)
+  * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
+  * [Livestreams](</live/>)
+  * [Podcast](</podcast/>)
+  * [RSS](<https://openai.com/news/rss.xml>)
+
+
+
+Terms & Policies
+
+  * [Terms of Use](</policies/terms-of-use/>)
+  * [Privacy Policy](</policies/privacy-policy/>)
+  * [Other Policies ](</policies/>)
+
+
+
+[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
+
+OpenAI © 2015–2026Your privacy choices
+
+EnglishUnited States
+
 ## OpenAI o3
 
 Solve the following very hard math problem using your in-built knowledge of the literature:
@@ -125,12 +328,19 @@ Construct a degree 19 polynomial \ (p(x)) \ in \ mathbb{C}[x] such that \ (X := 
 Reasoned about polynomial construction for 55 seconds
 
   * The curve defined by p(x) = p(y) factors if p(x) is decomposable or has repeated factors. Actually, p(x)-p(y) always factors, and it’s divisible by (x-y). This gives one factor, and the rest is a degree d-1 polynomial in x and y. For the curve to have at least three irreducible components, p(x)-p(y) must factor into at least three nontrivial factors. Each factor corresponds to a component in projective space, and at least one must be nonlinear.
+
   * I’m checking the Dickson polynomials D_n(x,a) and focusing on their coefficients. With a=1, it seems the leading coefficient is always 1, confirming that Dickson polynomials are monic. The linear coefficient for odd n is following a predictable sign pattern: for n=19, it gives a coefficient of -19, which is exactly what I need. So the Dickson polynomial D_n(x,1) with odd n fits nicely with the linear coefficient I was looking for.
+
   * I’ve confirmed that the linear coefficient for p(x)=D19(x)p(x) = D_{19}(x)p(x)=D19​(x) is correct, with the necessary scaling factor to match. Now for the next step, I need to compute D19(19)D_{19}(19)D19​(19). Since Tn(z)T_n(z)Tn​(z) grows quickly for real z>1z > 1z>1, I plan to compute this value using Python, leveraging the recurrence to avoid mistakes—it’s going to be a big number. I’ll make sure to present the numeric result neatly so it’s understandable since the coefficients are integers.
+
   * The Dickson polynomial D_{19}(x,1) is confirmed to have the required properties: monic, odd, real coefficients, and a linear coefficient of -19. The factorization of D_{19}(x) into irreducible components is also verified and satisfies the condition of having at least 10 components (1 linear + 9 quadratics). To compute p(19), we’ll use the recurrence relation for Dickson polynomials, but there’s also a closed-form expression involving cosine that could be handy here. I’ll proceed accordingly!
+
   * I confirmed the linear coefficient is working correctly, which means now I need to calculate p(19)=D19(19)p(19) = D_{19}(19)p(19)=D19​(19). This involves evaluating T19(9.5)T_{19}(9.5)T19​(9.5), which grows rapidly. To ensure I get an accurate result, I’ll compute this using recurrence in Python. The result is a large number: 1,876,572,071,974,094,803,391,179. I’ll use the commas to make it easier to read: p(19)=1,876,572,071,974,094,803,391,179p(19) = 1,876,572,071,974,094,803,391,179p(19)=1,876,572,071,974,094,803,391,179.
+
   * For a = 1, there’s a relationship between Dickson polynomials and Chebyshev polynomials: D_n(x, 1) = 2^(n-1) T_n(x/2). Checking this, we see that the definition of D_n(u + 1/u) aligns well with Chebyshev’s formula. By setting x = 2 cos(θ), we find that D_n(x) equals 2 T_n(x/2). Importantly, the leading coefficient works out to 1, confirming the identity holds. This is nice!
+
   * Now, I need to verify that p(x)−p(y)p(x) - p(y)p(x)−p(y) factors as desired, relying on the known Dickson polynomial factorization. According to the literature (like Fried and Jarden), the difference Dn(x)−Dn(y)D_n(x) - D_n(y)Dn​(x)−Dn​(y) factors into a product involving (x−y)(x - y)(x−y) and other expressions. I’ll provide the explicit polynomial D19(x,1)D_{19}(x, 1)D19​(x,1), list the coefficients, and explain how it satisfies the desired properties: monic, odd, etc. Lastly, I’ll compute p(19)p(19)p(19).
+
 
 
 
@@ -337,7 +547,9 @@ where each quadratic factor is irreducible over C\mathbb{C}C (see, e.g., Lidl–
 For n=19n=19n=19 this gives
 
   * **one linear** component x=y;x=y;x=y;
+
   * **nine quadratic** components (corresponding to (j=1, …, 9).\bigl(j = 1,\,\ldots,\,9\bigr).(j=1,…,9).
+
 
 
 
@@ -493,190 +705,3 @@ Hence the required value is
 \boxed{\,p(19) \;=\; 1934999285524070399999639\,}. \\] &#8203;:contentReference[oaicite:0]{index=0}&#8203;
 
 OpenAI o3 gets the response correctly without using search, whereas o1 fails to deliver a correct response.
-
-### Advancing cost-efficient reasoning
-
-##### Cost vs performance: o3‑mini and o4-mini
-
-![OpenAI o3-mini and o4-mini AIME evals](https://images.ctfassets.net/kftzwdyauwt9/1HaJwt63QmevA8n6A8rOys/0d76297d0023935057e9404124a62669/o3-o4_mini_AIME2025.png?w=3840&q=90&fm=webp)
-
-![OpenAI o3-mini and o4-mini GPQA evals](https://images.ctfassets.net/kftzwdyauwt9/4Gw2tlDup1LN9WcMiiuyUr/2210496f5a2b2edf06898f9b0d87806b/o3-o4_mini_GPQA-Pass.png?w=3840&q=90&fm=webp)
-
-##### Cost vs performance: o1 and o3
-
-![OpenAI o3 and o4 AIME evals](https://images.ctfassets.net/kftzwdyauwt9/1NDcqcms5r7NFdbdlhVdCX/008e39fe5112baa135c727f15c569508/o3-o4_AIME2025.png?w=3840&q=90&fm=webp)
-
-![OpenAI o3 and o4 GPQA evals](https://images.ctfassets.net/kftzwdyauwt9/2HpQv67tCNmBJ8MtGfnTNS/f0d69d710fbb5ed2e9d36e828b07ccf5/o3-o4_GPQA-Pass.png?w=3840&q=90&fm=webp)
-
-OpenAI o3 and o4-mini are the most intelligent models we have ever released, and they’re also often more efficient than their predecessors, OpenAI o1 and o3‑mini. For example, on the 2025 AIME math competition, the cost-performance frontier for o3 strictly improves over o1, and similarly, o4-mini's frontier strictly improves over o3‑mini. More generally, we expect that for most real-world usage, o3 and o4-mini will also be both smarter and cheaper than o1 and o3‑mini, respectively.
-
-## Safety
-
-Each improvement in model capabilities warrants commensurate improvements to safety. For OpenAI o3 and o4-mini, we completely rebuilt our safety training data, adding new refusal prompts in areas such as biological threats (biorisk), malware generation, and jailbreaks. This refreshed data has led o3 and o4-mini to achieve strong performance on our internal refusal benchmarks (e.g., [_instruction hierarchy_ ⁠](</index/the-instruction-hierarchy/>), jailbreaks). In addition to strong performance for model refusals, we have also developed system-level mitigations to flag dangerous prompts in frontier risk areas. Similar to our earlier work in [_image generation_ ⁠](</index/introducing-4o-image-generation/>), we trained a reasoning LLM monitor which works from human-written and interpretable safety specifications. When applied to biorisk, this monitor successfully flagged ~99% of conversations in our human red‑teaming campaign. 
-
-We stress tested both models with our most rigorous safety program to date. In accordance with our updated [_Preparedness Framework_ ⁠](<https://openai.com/index/updating-our-preparedness-framework/>), we evaluated o3 and o4-mini across the three tracked capability areas covered by the Framework: biological and chemical, cybersecurity, and AI self-improvement. Based on the results of these evaluations, we have determined that both o3 and o4‑mini remain below the Framework's "High" threshold in all three categories. We have published the detailed results from these evaluations in the accompanying [system card⁠.⁠](</index/o3-o4-mini-system-card/>)
-
-## Codex CLI: frontier reasoning in the terminal
-
-We’re also sharing a new experiment: Codex CLI, a lightweight coding agent you can run from your terminal. It works directly on your computer and is designed to maximize the reasoning capabilities of models like o3 and o4-mini, with upcoming support for additional API models like [GPT‑4.1⁠](<https://openai.com/index/gpt-4-1/>).
-
-You can get the benefits of multimodal reasoning from the command line by passing screenshots or low fidelity sketches to the model, combined with access to your code locally. We think of it as a minimal interface to connect our models to users and their computers. Codex CLI is fully open-source at [_github.com/openai/codex_ ⁠(opens in a new window)](<https://github.com/openai/codex>) today.
-
-Alongside, we are launching a $1 million initiative to support projects using Codex CLI and OpenAI models. We will evaluate and accept applications for grants in increments of $25,000 USD in the form of API credits. Proposals can be submitted [here](</form/codex-open-source-fund/>).
-
-## Access
-
-ChatGPT Plus, Pro, and Team users will see o3, o4-mini, and o4-mini-high in the model selector starting today, replacing o1, o3‑mini, and o3‑mini‑high. ChatGPT Enterprise and Edu users will gain access in one week. Free users can try o4-mini by selecting 'Think' in the composer before submitting their query. Rate limits across all plans remain unchanged from the prior set of models.
-
-We expect to release OpenAI o3‑pro in a few weeks with full tool support. For now, Pro users can still access o1‑pro. 
-
-Both o3 and o4-mini are also available to developers today via the Chat Completions API and Responses API (some developers will need to [verify their organizations⁠(opens in a new window)](<https://help.openai.com/en/articles/10910291-api-organization-verification>) to access these models). The Responses API supports reasoning summaries, the ability to preserve reasoning tokens around function calls for better performance, and will soon support built-in tools like web search, file search, and code interpreter within the model’s reasoning. To get started, [explore our docs⁠⁠(opens in a new window)](<https://platform.openai.com/docs/guides/reasoning?api-mode=responses>) and stay tuned for more updates.
-
-## What’s next
-
-Today's updates reflect the direction our models are heading in: we’re converging the specialized reasoning capabilities of the o-series with more of the natural conversational abilities and tool use of the GPT‑series. By unifying these strengths, our future models will support seamless, natural conversations alongside proactive tool use and advanced problem-solving.
-
-* * *
-
-_**Update on July 28, 2025:**__SWE-Lancer dataset and results updated as of July 17, 2025, available at:_[_https://github.com/openai/preparedness_ ⁠(opens in a new window)](<https://github.com/openai/preparedness>)_and in our system cards. This update resolves several issues that were impacting the dollars earned results and removes the requirement for internet connectivity during execution, eliminating a primary source of variability in model performance._
-
-_**Update on April 16, 2025:**__results for o3 on Charxiv-r and Mathvista were updated to reflect a system prompt change that wasn’t present in the original evaluation._
-
-## Livestream replay
-
-  * [ChatGPT](</research/index/?tags=chatgpt>)
-  * [GPT](</research/index/?tags=gpt>)
-  * [Framework](</research/index/?tags=framework>)
-  * [2025](</research/index/?tags=2025>)
-
-
-
-## Author
-
-OpenAI
-
-## Footnotes
-
- _* tau-bench eval numbers are averaged across 5 runs to reduce variance, and run without any custom tools or prompting. We found tau-bench retail rollouts are more prone to user model errors.__Numbers for shaded bar are run with_ _GPT-4.1 as user model because it’s significantly better than GPT-4o at instruction following._
-
-_* SWE-bench uses 256k max context length, which improves the solve rate for o4-mini by about 3% and impacts o3’s solve rate by <1%. We also exclude 23 samples that are not runnable on our internal infrastructure._
-
-_** When enabling browsing, the model can sometimes find exact answers online, for example, by reading blog posts with sample problems from a dataset. We mitigate concerns of the model cheating while browsing with two strategies:_
-
-  * _Blocked domains that we have observed the model cheating from in the past._
-
-  * _Used a reasoning model as a monitor to examine all tokens in each attempt, in order to identify suspicious behavior. Suspicious behavior is defined as "a page, file, or snippet whose main purpose is to provide the exact answer to this specific question—e.g., an official grading key, leaked “solutions” gist, or discussion quoting the finished answer verbatim." Benign behavior is defined as "Any authoritative resource a diligent human might consult (documentation, manuals, scholarly papers, reputable articles) even if it incidentally contains the correct answer." Any attempts where the monitor deemed the rollout suspicious are counted as incorrect. Most samples failed by this check were problems whose exact solution was available on multiple internet sources _**_unrelated_** _to HLE._
-
-
-
-
-_Finally, our evaluations with browsing may not be perfectly reproducible in the OpenAI API due to a difference in search engine backends between ChatGPT and the OpenAI API. These results are intended to be representative of the ChatGPT user experience, but depending on demand, the search configuration may change over time._
-
-## Contributors
-
-Aaditya Singh, Aaron Schlesinger, Adam Fry, Adam Lerer, Adam Perelman, Adam Walker, Ahmed El-Kishky, Aidan Clark, Aidan McLaughlin, Aiden Low, Akila Welihinda, Akshay Nathan, Aleksander Madry, Aleksandra Spyra, Alex Karpenko, Alex Neitz, Alex Tachard Passos, Alex Wei, Alexander Prokofiev, Alexander Zielenski, Alexandra Barr, Alexey Ivanov, Alexi Christakis, Alfred Xue, Allison Tam, Ally Bennett, Ally Bennett , Amelia Liu, Amy McDonald Sandjideh, Ananya Kumar, Andre Saraiva, Andrea Vallone, Andrew Chen, Andrew Duberstein, Andrew Gibiansky, Andrew Kondrich, Andrew Tulloch, Andrey Mishchenko, Andy Applebaum, Andy Wang, Angela Baek, Annie Wei, Anting Shen, Antoine Pelisse, Anuj Saharan, Arun Vijayvergiya, Ashley Tyra, Ashvin Nair, Avi Nayak, Avital Oliver, Behrooz Ghorbani, Belinda Truong, Ben Sokolowsky, Beth Hoover, Bo Xu, Boaz Barak, Bohan Zhang, Borys Minaiev, Botao Hao, Bowen Baker, Bowen Cheng, Brandon McKinzie, Brandon Wang, Brian Hsu, Brian Yang, Brian Yu, Brian Zhang, Camillo Lugaresi, Carolina Paz, Carpus Chang, Cary Bassin , Cary Hudson, Casey Chu, Chak Li, Charles Zhao, Charlie Jatt, Charlotte Cole, Chelsea Voss, Chen Shen, Chengxu Zhuang, Chris Colby, Chris Hallacy , Chris Koch, Christina Kaplan, Christina Kim, Colin Reid, Colin Wei, Cristina Scheau, D. Sculley, Damien Deville, Dan Roberts, Dana Palmie, Dane Stuckey, Daniel Levine, David Hu, David Martin, David Robinson, David Sasaki, Davis Wu, Derek Chen, Dibya Bhattacharjee, Dimitris Tsipras, Dinghua Li, DJ Strouse, dmed Medina, Drew Hintz, Eddie Zhang, Edmund Wong, Elaine Ya Le, Eli Yani , Elizabeth Proehl, Emily Sokolova, Enoch Cheung, Eri Schwartz, Eric Mitchell, Eric Ning, Eric Sigler, Eric Wallace, Eugenio Panero, Evan Mays, Evgenii Nikishin, Fan Wang, Fangyuan Li, Filippo Raso, Foivos Tsimpourlas, Fouad Matin, Francis Song, Francis Zhang, Gary Yang, Gene Oden, Giambattista Parascandolo, Gildas Chabot, Grace Kim, Grace Zhao, Greg Brockman, Gregory Valiant, Guillaume Leclerc, Hadi Salman, Haitang Hu, Hannah Sheahan, Hao Sheng, Haoyu Wang, Henrique Ponde de Oliveira Pinto, Henry Aspegren, Heqing Yan, Hessam Bagherinezhad, Hongyu Ren, Hunter Lightman, Hyeonwoo Noh, Ian Kivlichan, Ian Sohl, Ignasi Clavera, Ikai Lan, Ilge Akkaya, Ilya Kostrikov, Irina Kofman, Isa Fulford, Jake Brill, Jakub Pachocki, James Betker, James Lee, James Qin, Jamie Kiros, Jason Ai, Jay Wang, Jean Harb, Jeff Mickey, Jeffrey Han, Jeffrey Wang, Jeremy Chen, Jerry Tworek, Jessica Liang, Jessica Shieh, Ji Lin, Jiahui Yu, Jianfeng Wang, Jie Tang, Jihan Yin, Jing Li, Joanne Jang, Joel Morris, Johannes Ferstad, Johannes Heidecke, John Fishbein, Jon Okun, Jonathan Gordon, Joost Huizinga, Jos Kraaijeveld, Joseph Mo, Josh Lawson , Josh Tobin, Junhua Mao, Kai Chen, Kai Hayashi, Karan Singhal, Karina Nguyen, Katy Shi, Kelly Stirman, Kenji Hata, Kenny Nguyen, Keren Gu-Lemberg, Kevin Gladstone, Kevin King, Kevin Liu, Kevin Lu, Kevin Park, Kevin Stone, Kevin Weil, Kevin Whinnery, Kevin Yu, Kote Mushegiani, Kristen Ying, Kristian Georgiev, Kshitij Gupta, Kyle Kosic, Lama Ahmad, Larry Lv, Lauren Itow, Lauren Yang, Lee Byron, Leo Chen, Leo Liu, Leon Maksin, Leyton Ho, Li Jing, Liang Xiong, Lin Yang, Linden Li, Lorenz Kuhn, Louis Feuvrier, Lu Zhang, Łukasz Kaiser, Mahmoud Eariby, Maja Trębacz, Manas Joglekar, Manoli Liodakis, Manuka Stratta, Mark Chen, Mark Hudnall, Mark Sun, Mark Wang, Martin Li, Marvin Zhang, Mateusz Litwin, Matt Jones, Matt Lim, Max Johnson, Max Schwarzer, Mayank Gupta, Meghan Shah, Mengqing Wang, Mengyuan Yan, Mia Glaese, Michael Bolin, Michael Lampe, Michael Malek, Michael Sharman, Michael Zhang, Michele Wang, Michelle Pokrass, Miguel Oom Temudo de Castro, Mihai Florian, Mike McClay, Mike Trpcic, Miki Habryn, Miles Wang, Ming Chen, Mingxuan Wang, Minnia Feng, Mitchell Gordon, Mo Bavarian, Mostafa Rohaninejad, Nacho Soto, Nakul Khanna, Nat McAleese, Natalie Staudacher, Natan LaFontaine, Neel Ajjarapu, Nick Felt, Nick Turley, Nikil Pancha, Nikita Mikhaylin, Niko Felix, Nikunj Handa, Ning Liu, Nishant Rai, Noah Jorgensen, Noam Brown, Oleg Boiko, Oleg Murk, Olivia Watkins, Olivier Godement, Oona Gleeson, Paul Ashbourne, Pavel Belov, Peter Flockhart, Peter Hoeschele, Peter Zhokhov, Philip Pronin, Phillip Guo, Phoebe Thacker, Prafulla Dhariwal, Prashanth R, Rachel Dias, Rahul Arora, Rajkumar Samuel, Rasmus Rygaard, Ravi Teja Mullapudi, Raymond Li, Raz Gaon, Reah Miyara, Reiichiro Nakano, Reimar Leike, Rennie Song, Rhythm Garg, RJ Marsan, Robert Xiong, Robin Brown, Roman Tsiupa, Rui Shu, Ruslan Nigmatullin, Saachi Jain, Saagar Patel, Sam Altman, Sam Toizer, Sam Toyer, Samir Ahmed, Samuel Miserendino, Samuel Wolrich , Sandhini Agarwal, Santiago Hernández, Sarah Dong, Savannah Heon, Scott Ethersmith, Scott Mayer McKinney, Sean Fitzgerald, Sever Banesiu, Shamez Hemani, Shengjia Zhao, Shengli Hu, Shibani Santurkar, Shreyas Krishnaswamy, Shuchao Bi, Shunyu Yao, Shuyuan Zhang, Simón Posada Fishman, Spencer Papay, Spug Golden, Srinivas Narayanan, Stanley Hsieh, Stephen Logsdon, Sundeep Tirumalareddy, Tal Stramer, Tao Wang, Tao Xin, Taylor Gordon, Tejal Patwardhan, Thibault Sottiaux, Tina Sriskandarajah, Tony Casparro, Tony Zhao, Trapit Bansal, Trevor Creech, Uzair Navid Iftikhar, Valerie Qi, Vineet Kosaraju, Vishal Kuo, Vitchyr Pong, Vivek Verma, Vlad Petrov, Wenda Zhou, Wenlei Xie, Wenting Zhan, Will DePue, Will Ellsworth, William Sheu, Wyatt Thompson, Yaming Lin, Yann Dubois, Yaodong Yu, Yara Khakbaz, Yash Patil, Yifan Wu, Yilong Qin, Yining Chen, Yirui Zhang, Yo Shavit , Young Cha, Yunyun Wang, Yushi Wang, Zack Sultan, Zehao Dou, Zewei Chu, Zheng Shao, Zhigang Wang, Zhishuai Zhang, Zihao Zhang
-
-Research
-
-  * [Research Index](</research/index/>)
-  * [Research Overview](</research/>)
-  * [Economic Research](</signals/>)
-
-
-
-Latest Advancements
-
-  * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-
-
-
-Safety
-
-  * [Safety Approach](</safety/>)
-  * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
-  * [Security & Privacy](</security-and-privacy/>)
-  * [Trust & Transparency](</trust-and-transparency/>)
-
-
-
-Products
-
-  * [ChatGPT(opens in a new window)](<https://chatgpt.com/>)
-  * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
-  * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
-  * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
-  * [Release Notes](</products/release-notes/>)
-
-
-
-API Platform
-
-  * [Overview](</api/>)
-  * [API Log In(opens in a new window)](<https://platform.openai.com/login>)
-  * [Docs(opens in a new window)](<https://developers.openai.com/api/docs>)
-
-
-
-Business
-
-  * [Overview](</business/>)
-  * [Solutions](</solutions/>)
-  * [Resources](</business/learn/>)
-  * [Customer Stories](</business/customer-stories/>)
-  * [Partner Network](</business/partners/>)
-  * [Contact Sales](</contact-sales/>)
-
-
-
-Developers
-
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
-  * [Docs(opens in a new window)](<https://developers.openai.com/>)
-  * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
-  * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
-
-
-
-Company
-
-  * [About Us](</about/>)
-  * [Our Charter](</charter/>)
-  * [Careers](</careers/>)
-  * [News](</news/>)
-
-
-
-Support
-
-  * [Help Center(opens in a new window)](<https://help.openai.com/>)
-
-
-
-More
-
-  * [Stories](</stories/>)
-  * [Academy](</academy/>)
-  * [Supply Co.](</supply/>)
-  * [Livestreams](</live/>)
-  * [Podcast](</podcast/>)
-  * [RSS](<https://openai.com/news/rss.xml>)
-
-
-
-Terms & Policies
-
-  * [Terms of Use](</policies/terms-of-use/>)
-  * [Privacy Policy](</policies/privacy-policy/>)
-  * [Other Policies ](</policies/>)
-
-
-
-[(opens in a new window)](<https://x.com/OpenAI>)[(opens in a new window)](<https://www.youtube.com/OpenAI>)[(opens in a new window)](<https://www.linkedin.com/company/openai>)[(opens in a new window)](<https://github.com/openai>)[(opens in a new window)](<https://www.instagram.com/openai/>)[(opens in a new window)](<https://www.tiktok.com/@openai>)[(opens in a new window)](<https://discord.gg/openai>)
-
-OpenAI © 2015–2026Your privacy choices
-
-EnglishUnited States

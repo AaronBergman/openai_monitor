@@ -75,8 +75,11 @@ Algorithmic efficiency can be defined as reducing the compute needed to train a 
 For our analysis, we primarily leveraged open-source re-implementations19, 20, 21 to measure progress on AlexNet level performance over a long horizon. We saw a similar rate of training efficiency improvement for ResNet-50 level performance on ImageNet (17-month doubling time).7, 16 We saw faster rates of improvement over shorter timescales in Translation, Go, and Dota 2:
 
   1. Within translation, the Transformer22 surpassed seq2seq23 performance on English to French translation on WMT’14 with 61x less training compute 3 years later.
+
   2. We estimate AlphaZero24 took 8x less compute to get to AlphaGoZero25 level performance 1 year later.
+
   3. OpenAI Five Rerun required 5x less training compute to surpass OpenAI Five26 (which beat the world champions, [OG⁠(opens in a new window)](<https://liquipedia.net/dota2/OG>)) 3 months later.
+
 
 
 
@@ -91,9 +94,13 @@ In addition to efficiency, many other measures shed light on overall algorithmic
 ## Primary limitations
 
   1. We have only a small number of algorithmic efficiency data points on a few tasks. It’s unclear the degree to which the efficiency trends we’ve observed generalize to other AI tasks. Systematic measurement could make it clear whether an algorithmic equivalent to Moore’s LawC in the domain of AI exists, and if it exists, clarify its nature. We consider this a highly interesting open question. We suspect we’re more likely to observe similar rates of efficiency progress on similar tasks. By similar tasks, we mean tasks within these sub-domains of AI, on which the field agrees we’ve seen substantial progress, and that have comparable levels of investment (compute and/or researcher time).
+
   2. Even though we believe AlexNet represented a lot of progress, this analysis doesn’t attempt to quantify that progress. More generally, the first time a capability is created, algorithmic breakthroughs may have reduced the resources required from totally infeasibleD to merely high. We think new capabilities generally represent a larger share of overall conceptual progress than observed efficiency increases of the type shown here.
+
   3. This analysis focuses on the final training run cost for an optimized model rather than total development costs. Some algorithmic improvements make it easier to train a model by making the space of hyperparameters that will train stably and get good final performance much larger. On the other hand, architecture searches increase the gap between the final training run cost and total training costs.
+
   4. We don’t speculateE on the degree to which we expect efficiency trends will extrapolate in time, we merely present our results and discuss the implications if the trends persist.
+
 
 
 
@@ -312,15 +319,15 @@ Also thanks to Mingxing Tan for providing the relevant points from [EfficientNet
 
 [View all](</news/>)
 
-![Techniques For Training Large Neural Networks](https://images.ctfassets.net/kftzwdyauwt9/62793de4-0f01-42fc-539325d9af36/bc1ac82499fc1dc43f59accdd31d0195/image-9.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting with energetic, vibrant colors.](https://images.ctfassets.net/kftzwdyauwt9/62793de4-0f01-42fc-539325d9af36/bc1ac82499fc1dc43f59accdd31d0195/image-9.webp?w=3840&q=90&fm=webp)
 
 [Techniques for training large neural networksPublicationJun 9, 2022](</index/techniques-for-training-large-neural-networks/>)
 
-![Introducing Triton Open Source Gpu Programming For Neural Networks](https://images.ctfassets.net/kftzwdyauwt9/cdce1ebd-19a2-4848-a08ec8c44e18/55b924fc6628318148b7c5c4902551e7/image-18.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting in a soft, pastel, earth tone palette.](https://images.ctfassets.net/kftzwdyauwt9/cdce1ebd-19a2-4848-a08ec8c44e18/55b924fc6628318148b7c5c4902551e7/image-18.webp?w=3840&q=90&fm=webp)
 
 [Introducing Triton: Open-source GPU programming for neural networksReleaseJul 28, 2021](</index/triton/>)
 
-![Scaling Kubernetes To 7 500 Nodes](https://images.ctfassets.net/kftzwdyauwt9/84745f0a-d786-4066-99f031ec2cb2/be1d8d7357f9f5bc35970e058f42c8d0/image-25.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting in a soft, pastel palette.](https://images.ctfassets.net/kftzwdyauwt9/84745f0a-d786-4066-99f031ec2cb2/be1d8d7357f9f5bc35970e058f42c8d0/image-25.webp?w=3840&q=90&fm=webp)
 
 [Scaling Kubernetes to 7,500 nodesConclusionJan 25, 2021](</index/scaling-kubernetes-to-7500-nodes/>)
 
@@ -334,9 +341,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -355,7 +363,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -373,6 +382,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -381,8 +391,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -401,6 +411,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

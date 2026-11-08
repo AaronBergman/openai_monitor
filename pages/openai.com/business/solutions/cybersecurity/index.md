@@ -26,144 +26,141 @@ Try OpenAI[Contact sales](</contact-sales/>)
 
 OpenAI
 
-### Watch the recording:
+Event
 
-See how frontier AI is reshaping cybersecurity
+### Cyber at the Frontier
 
-[Watch recording](</business/learn/intelligence-at-work-cyber/>)
+A live keynote on the next era of cyber defense. November 12, 10:00 AM PT.
+
+[Register now](</cyber-at-the-frontier/>)
 
 # Frontier intelligence for cybersecurity
 
-Help security teams find and validate vulnerabilities, investigate threats, and move faster from findings to fixes.
+Find vulnerabilities, test defenses, and develop fixes faster with frontier models and agents.
 
-[Contact Cyber sales](</daybreak/contact-cyber-sales/>)[Start scanning with Codex Security(opens in a new window)](<https://chatgpt.com/plugins/codex-security?open_in_app>)
+[Contact sales](</daybreak/contact-cyber-sales/>)[Explore Codex Security(opens in a new window)](<https://chatgpt.com/plugins/codex-security?open_in_app>)
 
-## Models for defense and red teaming
+Trusted by leading organizations
 
-Use Daybreak models with Codex Security or your own security harness.
+## Cyber defense needs a new playbook
+
+AI is accelerating how attackers find and exploit vulnerabilities. Defenders can get ahead now, but their window is narrowing.
+
+Now is the time to make defense continuous.
+
+  * [Explore the Defense Factory](</the-defense-factory/>)
+
+
+
+## Put AI to work across your security program
+
+ModelsProductsBuilding blocks
+
+## Access cyber models through Daybreak
+
+Daybreak provides approved access for cybersecurity work. Use Blue for defensive workflows and Red for advanced, authorized testing.
 
 ![Abstract orange model card artwork for GPT-Daybreak.](https://images.ctfassets.net/kftzwdyauwt9/7bL3coviHatQtqWTNPTQYZ/9e160d8676ea7ae9b39c3ff2716f23b0/daybreak-blue.png?w=3840&q=90&fm=webp)
 
-## [Daybreak BlueDesigned for defensive work including vulnerability discovery, validation, remediation, threat modeling, and security investigation.Apply for Daybreak access](</form/enterprise-trusted-access-for-cyber/>)
+## Daybreak Blue
+
+Access supported general-purpose models for defensive security work, including code review, vulnerability investigation, and remediation, with fewer unnecessary refusals.
 
 ![Abstract orange model card artwork for GPT-Daybreak-Red.](https://images.ctfassets.net/kftzwdyauwt9/aU6EV8bE1HnCHD1ix63Lf/86d3860fb9a6f86b4f6095a901d40d29/daybreak_2.png?w=3840&q=90&fm=webp)
 
-## [Daybreak RedDesigned for advanced, authorized red teaming, penetration testing, exploit validation, and controlled security research.Apply for Daybreak access](</form/enterprise-trusted-access-for-cyber/>)
+## Daybreak Red
 
-### Designed for security work at scale
+Access specialized cyber models for authorized research, including exploit development, penetration testing, and red teaming, with additional verification and access controls.
 
-  * 30M+
+Apply for Daybreak
 
-commits scanned
+[Read the access guide(opens in a new window)](<https://help.openai.com/articles/20001258-trusted-access-for-cyber>)
 
-  * 30K+
+## From vulnerability discovery to verified fixes
 
-codebases scanned
+Build agentic loops to investigate findings, prioritize risk, and prepare fixes your team can review.
 
-  * 500K+
+## Secure code in the tools you already use with Codex Security
 
-findings fixed
+![Codex Security Cloud displays discovered vulnerabilities with severity ratings.](https://images.ctfassets.net/kftzwdyauwt9/1FJSB7eTcvSRLv97lhJLQE/7daa56cec2851f42ed31d24c9c0057f4/cybersecurity-cloud-product-card.png?w=3840&q=90&fm=webp)
 
+### Cloud
 
+Go from findings to fixes at the push of a button. Scans and patching workflows all run remotely.
 
+[Explore Codex Security Cloud(opens in a new window)](<https://learn.chatgpt.com/docs/security/setup>)
 
-## Expand the capacity of every security team
+![A Codex Security prompt requests a repository scan.](https://images.ctfassets.net/kftzwdyauwt9/fdpY8THSHleMbchpbv48L/062b8e3d86d45b261220331cd1bdd728/cybersecurity-plugin-product-card.png?w=3840&q=90&fm=webp)
 
-## Codex Security, wherever your teams work
+### Plugin
 
-Use Codex Security across the tools your teams already use. Scan code in the cloud, review pull requests automatically, or run local security checks from your terminal with the open-source Codex Security CLI.
+Scan and create patches directly in Codex, with scans running and findings stored locally.
 
-![Single-circle icon representing the Codex Security plugin.](https://images.ctfassets.net/kftzwdyauwt9/7fLge8v6kvS0Y3lLnsnNoE/4ef0a700cf30469c71d67f0db6f3342b/one-circle-fill.svg?w=3840&q=90)
+[Add the Codex Security plugin(opens in a new window)](<https://learn.chatgpt.com/docs/security/plugin>)
 
-#### Codex Security plugin
+![A code diff validates callback destinations before sending a request.](https://images.ctfassets.net/kftzwdyauwt9/43AQwWo0VthoubhHuKisgA/46f512f5863b2711ab2e8fed33ba7b21/cybersecurity-pr-review-product-card.png?w=3840&q=90&fm=webp)
 
-Best for trying the workflow, reviewing a branch or investing one codebase.
+### PR review
 
-[Add Codex Security plugin(opens in a new window)](<https://chatgpt.com/plugins/share/676aca3811d54fa7bcdef5255236b3c4?openaicom-did=55d2178a-5a18-4bca-8b91-6e339c4bdcd8&openaicom_referred=true>)
+Reduce the risk of re-introducing vulnerabilities by checking pull requests.
 
-![Two-circle icon representing Codex Security Cloud.](https://images.ctfassets.net/kftzwdyauwt9/3EMSeVKr6V5FuPd2AO8JHJ/cc715820fe2455db4ac9320b5248efd4/two-circle-fill.svg?w=3840&q=90)
+[Explore pull request review(opens in a new window)](<https://learn.chatgpt.com/docs/security/security-review>)
 
-#### Codex Security Cloud
-
-Best for managed, ongoing security scans across connected GitHub repositories.
-
-[Connect GitHub(opens in a new window)](<https://developers.openai.com/codex/security/setup>)
-
-![Three-circle icon representing the Codex Security CLI.](https://images.ctfassets.net/kftzwdyauwt9/7B4aNVbzzIuFZZ1yqpN4PY/6436f66f1d65f199cd2d8e1c7a204908/three-circle-fill.svg?w=3840&q=90)
+## Building blocks for continuous defense
 
 #### Codex Security CLI
 
-Best for running security scans from your terminal and integrating them into local development or CI/CD workflows. Copy the following code, go to Codex and bash in your CLI: curl -fsSL https://openai.com/codex/security/scan.sh | bash  
-  
+Scan code or changes from your terminal. Bring findings, coverage reports, and supporting evidence into your development workflow.
 
+[Explore the CLI(opens in a new window)](<https://learn.chatgpt.com/docs/security/cli>)
 
-[Go to Codex](<codex://threads/new>)
+#### Security scans in CI
 
-## Built for the full security workflow
+Run the Codex Security CLI in your CI pipeline alongside your existing checks.
 
-#### Find vulnerabilities in code
+[Set up CI scans(opens in a new window)](<https://learn.chatgpt.com/docs/security/cli/ci>)
 
-Codex Security + Daybreak Blue: Scan repositories and code changes for likely vulnerabilities, using codebase context to surface high-signal findings before they reach production.
+#### Codex Security SDK
 
-[Read the documentation(opens in a new window)](<https://learn.chatgpt.com/use-cases/scan-code-changes-for-security>)
+Integrate security scans into TypeScript applications, with structured findings, coverage data, and scan artifacts.
 
-#### Validate what matters
+[Explore the SDK(opens in a new window)](<https://learn.chatgpt.com/docs/security/sdk>)
 
-Codex Security + Daybreak Blue: Reproduce candidate findings, establish reachability and impact, and capture evidence so teams can focus on vulnerabilities that present real risk.
+#### OpenAI API
 
-[Read the documentation(opens in a new window)](<https://learn.chatgpt.com/use-cases/deep-security-scan>)
+Build custom security workflows using OpenAI models, along with your own tools and context.
 
-#### Move from finding to fix
-
-Codex Security + Daybreak Blue: Generate focused patches, run relevant tests, and produce reviewable changes with evidence for engineering approval.
-
-[Read the documentation(opens in a new window)](<https://learn.chatgpt.com/use-cases/remediate-vulnerability-backlog>)
-
-#### Anticipate how systems may be attacked
-
-Daybreak Blue: Map assets, entry points, trust boundaries, sensitive data paths, and abuse cases to help teams prioritize security work before incidents occur.
-
-[Read the documentation(opens in a new window)](<https://learn.chatgpt.com/docs/security/threat-model>)
-
-#### Test systems like an adversary
-
-Daybreak Red: Conduct scoped penetration tests and realistic red-team exercises to validate defenses and demonstrate how vulnerabilities could be chained, under clear authorization and rules of engagement.
-
-[Read the documentation(opens in a new window)](<https://developers.openai.com/api/docs/guides/red-teaming>)
-
-#### Investigate complex security targets
-
-Daybreak Red: Analyze malware, binaries, firmware, and controlled proofs of concept to investigate bounded security hypotheses when source code is incomplete or unavailable.
-
-[Read the documentation(opens in a new window)](<https://developers.openai.com/api/docs/guides/red-teaming>)
-
-## Trusted by leading security organizations
-
-CloudflareSalesforceCiscoCrowdStrikePalo Alto NetworksOracleZscalerAkamaiFortinet
+[Explore the API(opens in a new window)](<https://developers.openai.com/api/docs/quickstart>)
 
 ## Choose how to get started
 
-Start with Codex Security, request advanced access, or work with us to bring Daybreak capabilities to your customers.
+![Abstract orange card artwork with an edit icon.](https://images.ctfassets.net/kftzwdyauwt9/4NelUJXSjbQU5fW48cepDp/4d5f1df5cce9710d055b24e56b426ef5/Partner_graphic-1.png?w=3840&q=90&fm=webp)
+
+## [Request Daybreak AccessApply for model access for your team’s authorized cybersecurity work.Request access](</daybreak/>)
 
 ![Abstract orange card artwork with a shield check icon.](https://images.ctfassets.net/kftzwdyauwt9/3mTRALHjbBZvKq3msyuK35/8557e4bd336887fc3c581c1cebc605ce/Partner_graphic.png?w=3840&q=90&fm=webp)
 
-## [Start scanningConnect a repository you own and use Codex Security to begin finding and validating vulnerabilities.Start with Codex Security(opens in a new window)](<https://chatgpt.com/plugins/share/676aca3811d54fa7bcdef5255236b3c4 >)
-
-![Abstract orange card artwork with an edit icon.](https://images.ctfassets.net/kftzwdyauwt9/4NelUJXSjbQU5fW48cepDp/4d5f1df5cce9710d055b24e56b426ef5/Partner_graphic-1.png?w=3840&q=90&fm=webp)
-
-## [Request advanced accessApply for Daybreak Access for advanced, authorized cyber workflows with additional safeguards and controls.Apply for Daybreak Access](</form/enterprise-trusted-access-for-cyber/>)
+## [Try Codex SecurityRun your first scan with the Security plugin in Codex.Try now(opens in a new window)](<https://learn.chatgpt.com/docs/security>)
 
 ![Abstract orange card artwork with connected nodes icon.](https://images.ctfassets.net/kftzwdyauwt9/3avGeD86kcTHcxQdSoA05c/3992723c7eca280dff1ea8b6d9b7fd1f/Partner_graphic-2.png?w=3840&q=90&fm=webp)
 
-## [Partner with DaybreakBring frontier cyber capabilities into the products and services defenders already.Explore partnerships](</daybreak/partners-new/>)
+## [Build your own Defense FactoryAdapt OpenAI’s reference architecture for continuous defense, starting with one security workflow.Get started](</the-defense-factory/>)
 
-## Frequently asked questions
+## Give your security team more capacity
 
-## Expand your cyber team's capacity with OpenAI
+Find vulnerabilities, investigate risk, and develop fixes with OpenAI models and security agents.
 
-Help security teams find and validate vulnerabilities, investigate threats, and move faster from findings to fixes.
+[Contact sales](</daybreak/contact-cyber-sales/>)[Explore Codex Security(opens in a new window)](<https://learn.chatgpt.com/docs/security>)
 
-[Contact Cyber sales](</daybreak/contact-cyber-sales/>)[Start scanning with Codex Security(opens in a new window)](<https://chatgpt.com/plugins/codex-security?open_in_app>)
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -175,10 +172,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -197,7 +194,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -215,6 +213,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -223,8 +222,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -243,6 +242,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -271,34 +271,38 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### Understand the attack surface
+![Codex Security lists discovered vulnerabilities with severity and ownership information.](https://images.ctfassets.net/kftzwdyauwt9/406j3f1yvqqoE1XsttAhig/a69d0c219def1e2360ec20f254707e2f/cybersecurity-discovery.png?w=3840&q=90&fm=webp)
 
-Build an editable threat model from a repository, then focus analysis on realistic attack paths and high-impact code.
+![Terminal output validates a missing tenant authorization finding and shows supporting evidence.](https://images.ctfassets.net/kftzwdyauwt9/22EU4xylwtWP8mah2Js0zc/e6a113c60e463df783a08457ed6a1446/cybersecurity-validation.png?w=3840&q=90&fm=webp)
 
-### Validate what matters
+![TypeScript security triage classifies scan severity and reports a high-severity cross-tenant finding.](https://images.ctfassets.net/kftzwdyauwt9/1Syljsn1IEB7Z1g1bABSPO/8c9a5f4f31dea863f9e78636773ed4b6/cybersecurity-prioritization.png?w=3840&q=90&fm=webp)
 
-Reproduce likely vulnerabilities in an isolated environment so teams can prioritize demonstrated risk over noisy alerts.
+![Terminal output suggests the responsible GitHub team using CODEOWNERS.](https://images.ctfassets.net/kftzwdyauwt9/5rj8k9C3Y8K6wb9FqNPxsz/4a34a6198e70309f7fa3dfc483863802/cybersecurity-assignment.png?w=3840&q=90&fm=webp)
 
-### Move from finding to fix
+![A code diff restricts callback destinations to the configured origin.](https://images.ctfassets.net/kftzwdyauwt9/5HK0dVgXDBy8qqcf9iOR5G/42aff35ade796477df3229737c461889/cybersecurity-remediation.png?w=3840&q=90&fm=webp)
 
-Develop targeted patches, test relevant changes, and return reviewable evidence to the engineering and security tools teams already use.
+![Terminal output verifies that a tenant-scoped lookup fixes cross-tenant access.](https://images.ctfassets.net/kftzwdyauwt9/5N7eC2OhyeOefaWZUUfWyr/4b65f04b7b464c48e671a7546fa2cb3c/cybersecurity-verification.png?w=3840&q=90&fm=webp)
 
-> “We’re excited about the potential of OpenAI’s cyber capabilities to bring stronger reasoning and more agentic execution into security workflows. It’s a big step forward for teams to be able to leverage frontier models not only to accelerate velocity, but also to improve their security posture.”
+### Discovery
 
-— Dane Knecht, CTO, Cloudflare
+Find potential vulnerabilities using codebase context and likely attack paths.
 
-### What can I scan?
+### Validation
 
-Start with a repository, branch, commit, or folder of code you own. Codex Security builds context around your codebase and focuses on plausible, high-impact vulnerabilities.
+Test whether a finding is reachable and exploitable.
 
-### What happens after a finding?
+### Prioritization
 
-Review the affected code, severity, validation evidence, and remediation guidance. Codex can help develop and test a targeted patch so your team can move from an alert to a fix.
+Prioritize validated findings by severity and potential impact.
 
-### When do I need Daybreak Access?
+### Assignment
 
-Codex Security supports common defensive workflows. [Daybreak Access](</form/enterprise-trusted-access-for-cyber/>) is intended for qualified teams performing advanced, authorized security work that requires more permissive capabilities and additional controls.
+Identify the team responsible for the affected code.
 
-### How do Daybreak models and Codex Security work together?
+### Remediation
 
-GPT‑Daybreak provides the underlying cyber capability. Codex Security adds the context, tools, validation, workflow, and review experience required to apply it to real security work.
+Develop proposed patches and run relevant tests for review.
+
+### Verification
+
+Check whether a proposed fix closes the demonstrated attack path.

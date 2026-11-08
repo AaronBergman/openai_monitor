@@ -30,7 +30,7 @@ Select language
 
 …
 
-Last updated: September 10, 2026
+Last updated: October 22, 2026
 
 # Cookie policy
 
@@ -54,15 +54,17 @@ These cookies are required to operate our Services. For example, they allow us t
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-allow-ne| 6 months| Cookie consent| chatgpt.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-sc| 1 year| Security| chatgpt.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| _account_residency_region| 90 days| Service functionality| chatgpt.com  
-[OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-did| 1 year| Service functionality| chatgpt.com  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-did| 2 years| Service functionality| chatgpt.com  
 openai.com  
 deploymentsafety.openai.com  
 ads.openai.com  
+help.openai.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| country| 1 year| Service functionality| openai.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| analytics_consent| 1 year| Cookie consent| openai.com  
 ads.openai.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| marketing_consent| 1 year| Cookie consent| openai.com  
 ads.openai.com  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| marketing_consent_source| 180 days| Cookie consent| ads.openai.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-asli| 6 hours| Service functionality| chatgpt.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-av-seen| 1 day| Onboarding| chatgpt.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-cbi| Session| Service functionality| chatgpt.com  
@@ -88,9 +90,6 @@ ads.openai.com
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| temp-oai-compliance| 1 month| Service functionality| chatgpt.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| ui-show-payment-modal| Session| Service functionality| chatgpt.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-model-sticky-for-new-chats| 1 month| Service functionality| chatgpt.com  
-[OpenAI](<https://openai.com/policies/privacy-policy/>)| country| 1 year| Service functionality| openai.com  
-[OpenAI](<https://openai.com/policies/privacy-policy/>)| analytics_consent| 6 months| Cookie consent| openai.com  
-[OpenAI](<https://openai.com/policies/privacy-policy/>)| marketing_consent| 6 months| Cookie consent| openai.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| locale| Session| Service functionality| openai.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| oai_consent_analytics| 6 months| Cookie consent| chatgpt.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| oai_consent_marketing| 6 months| Cookie consent| chatgpt.com  
@@ -120,45 +119,64 @@ ads.openai.com
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| tapestry-theme| 1 year| Service functionality| ads.openai.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-form-submissions| 180 days| Service functionality| openai.com  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| __oailb| 1 hour| Service functionality| chatgpt.com  
-[Auth0](<https://www.okta.com/legal/privacy-policy/>)| did| 1 year| User authentication| platform.openai.com  
-[Auth0](<https://www.okta.com/legal/privacy-policy/>)| did_compat| 1 year| User authentication| platform.openai.com  
-[Auth0](<https://www.okta.com/legal/privacy-policy/>)| auth0| 14 days| User authentication| platform.openai.com  
-[Auth0](<https://www.okta.com/legal/privacy-policy/>)| auth0_compat| 14 days| User authentication| platform.openai.com  
-[Auth0](<https://www.okta.com/legal/privacy-policy/>)| _legacy_auth0.*.is.authenticated| 1 day| User authentication| platform.openai.com  
-[Auth0](<https://www.okta.com/legal/privacy-policy/>)| auth0.*.is.authenticated| 1 day| User authentication| platform.openai.com  
-[Auth0](<https://www.okta.com/legal/privacy-policy/>)| _legacy_auth0.app_*.is.authenticated| 1 day| User authentication| platform.openai.com  
-[Auth0](<https://www.okta.com/legal/privacy-policy/>)| auth0.app_*.is.authenticated| 1 day| User authentication| platform.openai.com  
-[Cloudflare⁠⁠](<https://www.cloudflare.com/privacypolicy/>)| CF_Authorization| 1 month| Security| chatgpt.com  
-[Cloudflare⁠⁠](<https://www.cloudflare.com/privacypolicy/>)| __cf_bm| 30 min| Security| auth.openai.com  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-anon-id| 2 years| Service functionality| ads.openai.com  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| oai-logged-out-consent-chosen| 180 days| Cookie consent| chatgpt.com  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| oai_pl_permission_state| Session| Service functionality| chatgpt.com  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| __Host-oai-sib| 365 days| Service functionality| .chatgpt.site  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| chatgpt_sites_siwc_login_<state>| 10 minutes| User authentication| .chatgpt.site  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| chatgpt_sites_siwc_session| 400 days| User authentication| .chatgpt.site  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| __Host-chatgpt_sites_session| 400 days| User authentication| .chatgpt.site  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| sites_preview_token| Session| Security| .chatgpt.site  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| appgen_admin_review_token| Session| Security| .chatgpt.site  
+[Auth0(opens in a new window)](<https://www.okta.com/legal/privacy-policy/>)| did| 1 year| User authentication| platform.openai.com  
+[Auth0(opens in a new window)](<https://www.okta.com/legal/privacy-policy/>)| did_compat| 1 year| User authentication| platform.openai.com  
+[Auth0(opens in a new window)](<https://www.okta.com/legal/privacy-policy/>)| auth0| 14 days| User authentication| platform.openai.com  
+[Auth0(opens in a new window)](<https://www.okta.com/legal/privacy-policy/>)| auth0_compat| 14 days| User authentication| platform.openai.com  
+[Auth0(opens in a new window)](<https://www.okta.com/legal/privacy-policy/>)| _legacy_auth0.*.is.authenticated| 1 day| User authentication| platform.openai.com  
+[Auth0(opens in a new window)](<https://www.okta.com/legal/privacy-policy/>)| auth0.*.is.authenticated| 1 day| User authentication| platform.openai.com  
+[Auth0(opens in a new window)](<https://www.okta.com/legal/privacy-policy/>)| _legacy_auth0.app_*.is.authenticated| 1 day| User authentication| platform.openai.com  
+[Auth0(opens in a new window)](<https://www.okta.com/legal/privacy-policy/>)| auth0.app_*.is.authenticated| 1 day| User authentication| platform.openai.com  
+[Cloudflare⁠⁠(opens in a new window)](<https://www.cloudflare.com/privacypolicy/>)| CF_Authorization| 1 month| Security| chatgpt.com  
+[Cloudflare⁠⁠(opens in a new window)](<https://www.cloudflare.com/privacypolicy/>)| __cf_bm| 30 min| Security| auth.openai.com  
 chatgpt.com  
 openai.com  
 platform.openai.com  
 devday.openai.com  
-[Cloudflare⁠⁠](<https://www.cloudflare.com/privacypolicy/>)| cf_clearance| 1 year| Security| openai.com  
+ads.openai.com  
+developers.openai.com  
+help.openai.com  
+[Cloudflare⁠⁠(opens in a new window)](<https://www.cloudflare.com/privacypolicy/>)| cf_clearance| 1 year| Security| openai.com  
 chatgpt.com  
 platform.openai.com  
 auth.openai.com  
-[Cloudflare⁠⁠](<https://www.cloudflare.com/privacypolicy/>)| _cfuvid| Session| Security| openai.com  
+ads.openai.com  
+help.openai.com  
+[Cloudflare⁠⁠(opens in a new window)](<https://www.cloudflare.com/privacypolicy/>)| _cfuvid| Session| Security| openai.com  
 chatgpt.com  
 auth.openai.com  
 platform.openai.com  
-[Cloudflare⁠⁠](<https://www.cloudflare.com/privacypolicy/>)| __cflb| 30 minutes| Security| chatgpt.com  
+ads.openai.com  
+developers.openai.com  
+help.openai.com  
+[Cloudflare⁠⁠(opens in a new window)](<https://www.cloudflare.com/privacypolicy/>)| __cflb| 60 minutes| Security| chatgpt.com  
 auth.openai.com  
-[Stripe⁠⁠⁠](<https://stripe.com/privacy?>)| __stripe_mid| 1 year| Payment| platform.openai.com  
-[Stripe⁠⁠⁠](<https://stripe.com/privacy?>)| __stripe_sid| 30 min| Payment| platform.openai.com  
-[Intercom⁠⁠⁠](<https://www.intercom.com/legal/privacy>)| intercom-device-id-dgkjq2bp| 270 days| Customer support| chatgpt.com  
+help.openai.com  
+[Stripe⁠⁠⁠(opens in a new window)](<https://stripe.com/privacy?>)| __stripe_mid| 1 year| Payment| platform.openai.com  
+[Stripe⁠⁠⁠(opens in a new window)](<https://stripe.com/privacy?>)| __stripe_sid| 30 min| Payment| platform.openai.com  
+[Intercom⁠⁠⁠(opens in a new window)](<https://www.intercom.com/legal/privacy>)| intercom-device-id-dgkjq2bp| 270 days| Customer support| chatgpt.com  
 openai.com  
 platform.openai.com  
-[Intercom⁠⁠](<https://www.intercom.com/legal/privacy>)| intercom-device-id-izw1u7l7| 1 year| Customer support| chatgpt.com  
-[Intercom⁠⁠](<https://www.intercom.com/legal/privacy>)| intercom-id-dgkjq2bp| 9 months| Customer support| openai.com  
-[Datadog⁠⁠⁠](<https://www.datadoghq.com/legal/privacy/>)| _dd_s| 4 hours| Error reporting| chatgpt.com  
+[Intercom⁠⁠(opens in a new window)](<https://www.intercom.com/legal/privacy>)| intercom-device-id-izw1u7l7| 1 year| Customer support| chatgpt.com  
+[Intercom⁠⁠(opens in a new window)](<https://www.intercom.com/legal/privacy>)| intercom-id-dgkjq2bp| 9 months| Customer support| openai.com  
+[Datadog⁠⁠⁠(opens in a new window)](<https://www.datadoghq.com/legal/privacy/>)| _dd_s| 4 hours| Error reporting| chatgpt.com  
 openai.com  
 platform.openai.com  
-[Swoogo⁠⁠](<https://swoogo.events/legal/cookies/>)| cookieconsent_status| 1 year| Consent cookies| events.openai.com  
-[Swoogo⁠⁠](<https://swoogo.events/legal/cookies/>)| PHPSESSID| Session| Service functionality| events.openai.com  
-[Swoogo⁠⁠](<https://swoogo.events/legal/cookies/>)| _csrf| Session| Security| events.openai.com  
-[Swoogo⁠⁠](<https://swoogo.events/legal/cookies/https://swoogo.events/legal/cookies/>)| AWSALB| 7 days| Security| events.openai.com  
-[Google](<https://policies.google.com/technologies/partner-sites/>)| g_state| 6 months| Service functionality| chatgpt.com  
+ads.openai.com  
+[Swoogo⁠⁠(opens in a new window)](<https://swoogo.events/legal/cookies/>)| cookieconsent_status| 1 year| Cookie consent| events.openai.com  
+[Swoogo⁠⁠(opens in a new window)](<https://swoogo.events/legal/cookies/>)| PHPSESSID| Session| Service functionality| events.openai.com  
+[Swoogo⁠⁠(opens in a new window)](<https://swoogo.events/legal/cookies/>)| _csrf| Session| Security| events.openai.com  
+[Swoogo⁠⁠(opens in a new window)](<https://swoogo.events/legal/cookies/https://swoogo.events/legal/cookies/>)| AWSALB| 7 days| Security| events.openai.com  
+[Google(opens in a new window)](<https://policies.google.com/technologies/partner-sites/>)| g_state| 6 months| Service functionality| chatgpt.com  
   
 *Please note that the specific cookies and similar technologies we use may vary depending on your region, the Services you use, and your privacy choices.
 
@@ -170,6 +188,7 @@ These cookies help us understand how our Services perform and are used, such as 
 ---|---|---|---|---  
 [OpenAI](<https://openai.com/policies/privacy-policy/>)| __obi| 1 year| Analytics| chatgpt.com  
 openai.com  
+[OpenAI](<https://openai.com/policies/privacy-policy/>)| __Host-appgarden-visitor| 90 days| Analytics| .chatgpt.site  
   
 ## Marketing Performance cookies
 
@@ -177,114 +196,115 @@ These cookies help us support and understand the efficacy of our marketing effor
 
 **Source**| **Cookie name**| **Duration**| **Purpose**| **Domain**  
 ---|---|---|---|---  
-[LinkedIn⁠⁠](<https://www.linkedin.com/legal/l/cookie-table>)| li_fat_id| 30 days| Marketing measurement| openai.com  
+[LinkedIn⁠⁠(opens in a new window)](<https://www.linkedin.com/legal/l/cookie-table>)| li_fat_id| 30 days| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[LinkedIn⁠⁠](<https://www.linkedin.com/legal/l/cookie-table>)| lidc| 24 hours| Marketing measurement| openai.com  
+[LinkedIn⁠⁠(opens in a new window)](<https://www.linkedin.com/legal/l/cookie-table>)| lidc| 24 hours| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[LinkedIn⁠⁠](<https://www.linkedin.com/legal/l/cookie-table>)| li_gc| 6 months| Marketing measurement| openai.com  
-[LinkedIn⁠⁠](<https://www.linkedin.com/legal/l/cookie-table>)| bcookie| 2 years| Marketing measurement| openai.com  
-[LinkedIn⁠⁠](<https://www.linkedin.com/legal/l/cookie-table>)| UserMatchHistory| 30 days| Marketing measurement| openai.com  
+[LinkedIn⁠⁠(opens in a new window)](<https://www.linkedin.com/legal/l/cookie-table>)| li_gc| 6 months| Marketing measurement| openai.com  
+[LinkedIn⁠⁠(opens in a new window)](<https://www.linkedin.com/legal/l/cookie-table>)| bcookie| 2 years| Marketing measurement| openai.com  
+[LinkedIn⁠⁠(opens in a new window)](<https://www.linkedin.com/legal/l/cookie-table>)| UserMatchHistory| 30 days| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[Linkedin⁠⁠](<https://www.linkedin.com/legal/l/cookie-table>)| AnalyticsSyncHistory| 30 days| Marketing measurement| openai.com  
+[Linkedin⁠⁠(opens in a new window)](<https://www.linkedin.com/legal/l/cookie-table>)| AnalyticsSyncHistory| 30 days| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[LinkedIn⁠⁠](<https://www.linkedin.com/legal/l/cookie-table>)| li_sugr| 90 days| Marketing measurement| openai.com  
+[LinkedIn⁠⁠(opens in a new window)](<https://www.linkedin.com/legal/l/cookie-table>)| li_sugr| 90 days| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[Google](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| _gcl_au| 90 days| Marketing measurement| openai.com  
+[Google(opens in a new window)](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| _gcl_au| 90 days| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[Google](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| _gcl_aw| 90 days| Marketing measurement| openai.com  
+[Google(opens in a new window)](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| _gcl_aw| 90 days| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[Google](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| IDE| 24 months| Marketing measurement| openai.com  
+[Google(opens in a new window)](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| IDE| 24 months| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[Google](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| ANID| 13 months| Marketing measurement| openai.com  
+[Google(opens in a new window)](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| ANID| 13 months| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[Google](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| NID| 6 months| Marketing measurement| openai.com  
+[Google(opens in a new window)](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| NID| 6 months| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[Google](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| gclid| 24 hours| Marketing measurement| openai.com  
+[Google(opens in a new window)](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| gclid| 24 hours| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[Google](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| GBRAID| 24 hours| Marketing measurement| chatgpt.com  
+[Google(opens in a new window)](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| GBRAID| 24 hours| Marketing measurement| chatgpt.com  
 ads.openai.com  
-[Google](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| WBRAID| 24 hours| Marketing measurement| chatgpt.com  
+[Google(opens in a new window)](<https://policies.google.com/technologies/partner-sites>)⁠⁠⁠| WBRAID| 24 hours| Marketing measurement| chatgpt.com  
 ads.openai.com  
-[Google](<https://policies.google.com/technologies/partner-sites>)⁠⁠| _glc_de| 90 days| Marketing measurement| openai.com  
-[Google](<https://policies.google.com/technologies/partner-sites>)⁠⁠| _glc_dc| 90 days| Marketing measurement| openai.com  
-[Reddit⁠⁠](<https://www.reddit.com/policies/cookies?rdt=52789>)| rdt_cid| 24 hours| Marketing measurement| chatgpt.com  
+[Google(opens in a new window)](<https://policies.google.com/technologies/partner-sites>)⁠⁠| _glc_de| 90 days| Marketing measurement| openai.com  
+[Google(opens in a new window)](<https://policies.google.com/technologies/partner-sites>)⁠⁠| _glc_dc| 90 days| Marketing measurement| openai.com  
+[Reddit⁠⁠(opens in a new window)](<https://www.reddit.com/policies/cookies?rdt=52789>)| rdt_cid| 24 hours| Marketing measurement| chatgpt.com  
 ads.openai.com  
-[Reddit⁠⁠](<https://www.reddit.com/policies/cookies?rdt=52789>)| _rdt_uuid| 90 days| Marketing measurement| openai.com  
-chatgpt.com  
-ads.openai.com  
-[Reddit⁠⁠](<https://www.reddit.com/policies/cookies?rdt=52789>)| rdt_insight| 90 days| Marketing measurement| chatgpt.com  
-[Reddit⁠⁠](<https://www.reddit.com/policies/cookies?rdt=52789>)| rdt_id| 90 days| Marketing measurement| openai.com  
-chatgpt.com  
-[Reddit⁠⁠](<https://www.reddit.com/policies/cookies?rdt=52789>)| lidc| 24 hours| Marketing measurement| openai.com  
+[Reddit⁠⁠(opens in a new window)](<https://www.reddit.com/policies/cookies?rdt=52789>)| _rdt_uuid| 90 days| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[Reddit⁠⁠](<https://www.reddit.com/policies/cookies?rdt=52789>)| _reddit_ads_sync| 30 days| Marketing measurement| openai.com  
+[Reddit⁠⁠(opens in a new window)](<https://www.reddit.com/policies/cookies?rdt=52789>)| rdt_insight| 90 days| Marketing measurement| chatgpt.com  
+[Reddit⁠⁠(opens in a new window)](<https://www.reddit.com/policies/cookies?rdt=52789>)| rdt_id| 90 days| Marketing measurement| openai.com  
+chatgpt.com  
+[Reddit⁠⁠(opens in a new window)](<https://www.reddit.com/policies/cookies?rdt=52789>)| lidc| 24 hours| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[Reddit⁠⁠](<https://www.reddit.com/policies/cookies?rdt=52789>)| _reddit_s_event| 90 days| Marketing measurement| openai.com  
+[Reddit⁠⁠(opens in a new window)](<https://www.reddit.com/policies/cookies?rdt=52789>)| _reddit_ads_sync| 30 days| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[Reddit⁠⁠](<https://www.reddit.com/policies/cookies?rdt=52789>)| _rdt_cid| 90 days| Marketing measurement| openai.com  
-[TikTok⁠⁠](<https://www.tiktok.com/legal/page/global/tiktok-website-cookies-policy/en>)| _ttp| 13 months| Marketing measurement| chatgpt.com  
-[TikTok⁠⁠](<https://www.tiktok.com/legal/page/global/tiktok-website-cookies-policy/en>)| ttcsid_<pixelID>| 30 minutes| Marketing measurement| chatgpt.com  
-[TikTok⁠⁠](<https://www.tiktok.com/legal/page/global/tiktok-website-cookies-policy/en>)| ttclid| 13 months| Marketing measurement| chatgpt.com  
-[Meta⁠](<https://www.facebook.com/privacy/policies/cookies/>)| API| 24 months| Marketing measurement| openai.com  
-chatgpt.com  
-[Meta⁠](<https://www.facebook.com/privacy/policies/cookies/>)| fbclid| 24 hours| Marketing measurement| openai.com  
+[Reddit⁠⁠(opens in a new window)](<https://www.reddit.com/policies/cookies?rdt=52789>)| _reddit_s_event| 90 days| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[Meta](<https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0>)| _fbp| 90 days| Marketing measurement| openai.com  
+[Reddit⁠⁠(opens in a new window)](<https://www.reddit.com/policies/cookies?rdt=52789>)| _rdt_cid| 90 days| Marketing measurement| openai.com  
+[TikTok⁠⁠(opens in a new window)](<https://www.tiktok.com/legal/page/global/tiktok-website-cookies-policy/en>)| _ttp| 13 months| Marketing measurement| chatgpt.com  
+[TikTok⁠⁠(opens in a new window)](<https://www.tiktok.com/legal/page/global/tiktok-website-cookies-policy/en>)| ttcsid_<pixelID>| 30 minutes| Marketing measurement| chatgpt.com  
+[TikTok⁠⁠(opens in a new window)](<https://www.tiktok.com/legal/page/global/tiktok-website-cookies-policy/en>)| ttclid| 13 months| Marketing measurement| chatgpt.com  
+[Meta⁠(opens in a new window)](<https://www.facebook.com/privacy/policies/cookies/>)| API| 24 months| Marketing measurement| openai.com  
+chatgpt.com  
+[Meta⁠(opens in a new window)](<https://www.facebook.com/privacy/policies/cookies/>)| fbclid| 24 hours| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[Meta](<https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0>)| _fbc| 90 days| Marketing measurement| openai.com  
+[Meta(opens in a new window)](<https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0>)| _fbp| 90 days| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[Meta](<https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0>)| fr| 90 days| Marketing measurement| openai.com  
+[Meta(opens in a new window)](<https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0>)| _fbc| 90 days| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[Meta](<https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0>)| datr| 400 days| Marketing measurement| openai.com  
+[Meta(opens in a new window)](<https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0>)| fr| 90 days| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[Meta](<https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0>)| wd| 7 days| Marketing measurement| openai.com  
+[Meta(opens in a new window)](<https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0>)| datr| 400 days| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[Meta](<https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0>)| sb| 400 days| Marketing measurement| openai.com  
+[Meta(opens in a new window)](<https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0>)| wd| 7 days| Marketing measurement| openai.com  
 chatgpt.com  
 ads.openai.com  
-[Bing](<https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies>)| MR| 7 days| Marketing measurement| openai.com  
+[Meta(opens in a new window)](<https://www.facebook.com/privacy/policies/cookies/?entry_point=cookie_policy_redirect&entry=0>)| sb| 400 days| Marketing measurement| openai.com  
 chatgpt.com  
-[Bing](<https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies>)| MSPTC| 180 days| Marketing measurement| openai.com  
+ads.openai.com  
+[Bing(opens in a new window)](<https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies>)| MR| 7 days| Marketing measurement| openai.com  
 chatgpt.com  
-[Bing](<https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies>)| MUID| 13 months| Marketing measurement| openai.com  
+[Bing(opens in a new window)](<https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies>)| MSPTC| 180 days| Marketing measurement| openai.com  
 chatgpt.com  
-[Bing](<https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies>)| _uetmsclkid| 24 hours| Marketing measurement| openai.com  
+[Bing(opens in a new window)](<https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies>)| MUID| 13 months| Marketing measurement| openai.com  
 chatgpt.com  
-[Bing](<https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies>)| _uetvid| 13 months| Marketing measurement| openai.com  
+[Bing(opens in a new window)](<https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies>)| _uetmsclkid| 24 hours| Marketing measurement| openai.com  
 chatgpt.com  
-[Bing](<https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies>)| _uetsid| 24 hours| Marketing measurement| openai.com  
+[Bing(opens in a new window)](<https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies>)| _uetvid| 13 months| Marketing measurement| openai.com  
 chatgpt.com  
-[Bing](<https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies>)| msclkid| 24 hours| Marketing measurement| openai.com  
+[Bing(opens in a new window)](<https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies>)| _uetsid| 24 hours| Marketing measurement| openai.com  
 chatgpt.com  
-[Snapchat](<https://www.snap.com/cookie-policy>)| ScCid| 24 hours| Marketing measurement| chatgpt.com  
-[Snapchat](<https://www.snap.com/cookie-policy>)| _scid| 13 months| Marketing measurement| chatgpt.com  
-[Snapchat](<https://www.snap.com/cookie-policy>)| _scid_r| 13 months| Marketing measurement| chatgpt.com  
-[Snapchat](<https://www.snap.com/cookie-policy>)| _sctr| 13 months| Marketing measurement| chatgpt.com  
-[Snapchat](<https://www.snap.com/cookie-policy>)| sc_at| 390 days| Marketing measurement| chatgpt.com  
-[Snapchat](<https://www.snap.com/cookie-policy>)| u_sclid| 13 months| Marketing measurement| chatgpt.com  
-[Snapchat](<https://www.snap.com/cookie-policy>)| u_sclid_r| 13 months| Marketing measurement| chatgpt.com  
-[Snapchat](<https://www.snap.com/cookie-policy>)| u_scsid| Session| Marketing measurement| chatgpt.com  
-[Snapchat](<https://www.snap.com/cookie-policy>)| u_scsid_r| Session| Marketing measurement| chatgpt.com  
+[Bing(opens in a new window)](<https://learn.microsoft.com/en-us/answers/questions/2289901/purposes-of-bing-cookies>)| msclkid| 24 hours| Marketing measurement| openai.com  
+chatgpt.com  
+[Snapchat(opens in a new window)](<https://www.snap.com/cookie-policy>)| ScCid| 24 hours| Marketing measurement| chatgpt.com  
+[Snapchat(opens in a new window)](<https://www.snap.com/cookie-policy>)| _scid| 13 months| Marketing measurement| chatgpt.com  
+[Snapchat(opens in a new window)](<https://www.snap.com/cookie-policy>)| _scid_r| 13 months| Marketing measurement| chatgpt.com  
+[Snapchat(opens in a new window)](<https://www.snap.com/cookie-policy>)| _sctr| 13 months| Marketing measurement| chatgpt.com  
+[Snapchat(opens in a new window)](<https://www.snap.com/cookie-policy>)| sc_at| 390 days| Marketing measurement| chatgpt.com  
+[Snapchat(opens in a new window)](<https://www.snap.com/cookie-policy>)| u_sclid| 13 months| Marketing measurement| chatgpt.com  
+[Snapchat(opens in a new window)](<https://www.snap.com/cookie-policy>)| u_sclid_r| 13 months| Marketing measurement| chatgpt.com  
+[Snapchat(opens in a new window)](<https://www.snap.com/cookie-policy>)| u_scsid| Session| Marketing measurement| chatgpt.com  
+[Snapchat(opens in a new window)](<https://www.snap.com/cookie-policy>)| u_scsid_r| Session| Marketing measurement| chatgpt.com  
+[Impact(opens in a new window)](<https://help.impact.com/brand/what-would-you-like-to-learn-about/platform-features/tracking/tracking-explained/impactcom-cookies-explained>)| im_ref| 7 days| Marketing measurement| chatgpt.com  
   
 ## Managing cookies
 
@@ -323,10 +343,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -345,7 +365,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -363,6 +384,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -371,8 +393,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -391,6 +413,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

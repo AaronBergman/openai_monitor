@@ -65,8 +65,11 @@ It doesn’t replace your judgment or responsibility to follow HR or legal polic
 ## Why managers use ChatGPT
 
   * **Prepare for conversations without overthinking them.** You know what needs to be addressed, but planning how to approach the conversation takes time—how to be direct, which examples to use, and what success looks like. ChatGPT can turn your notes into a simple plan with talking points, questions to ask, and a clear next step so you can walk in prepared instead of improvising.
+
   * **Make your writing clearer, more consistent, and easier to act on.** A lot of manager writing is repetitive and sensitive such as feedback, expectations, role clarity, performance notes, hiring feedback, and team updates. ChatGPT can draft a first version in a neutral tone with specifics and structure, so you spend your time reviewing for accuracy and fairness. 
+
   * **Keep “manager basics” repeatable across the year.** Manager tasks repeat throughout the year, including 1:1s, goal setting, onboarding, and performance cycles. ChatGPT helps standardize templates and checklists so nothing falls through the cracks and your team has a consistent experience.
+
 
 
 
@@ -244,9 +247,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -265,7 +269,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -283,6 +288,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -291,8 +297,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -311,6 +317,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

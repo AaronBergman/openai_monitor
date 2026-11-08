@@ -1,5 +1,46 @@
 # openai_monitor
 
+## 2026-11-08T09-15Z
+
+**Fetch time:** 2026-11-08T09:16Z UTC | **Baseline:** 2026-09-28T09-17Z (**41-day gap** — runs were missed Sep 29–Nov 7, so this entry covers six weeks)
+
+**TL;DR:** A lot happened while the monitor was dark. The sitemap grew from 1,985 to 2,141 URLs (+172, −16) and 1,732 pages were re-stamped, mainly because the site-wide header/footer changed (GPT‑6.1 Sol and GPT‑6 Astra now headline the nav; new Plugins, Models, Status and Dots links). Content-wise: new models (GPT‑6.1 Sol, GPT‑6.1 Terra, GPT‑6 Cyber, Images 2.6), a big cybersecurity push (Cyber at the Frontier keynote Nov 12, Daybreak reframing, Patch the Planet, many security partners), an OpenAI Marketplace and "Private Intelligence" for enterprises, OpenAI models coming to Google Cloud, ChatGPT Ads expanding to 26 countries, two acquisitions (Orchestra Bio, Pierre), and new executive appointments. A rewritten Usage Policies takes effect Nov 20, 2026.
+
+### Anomalies
+
+- **220 URLs migrated between sub-sitemaps** — a broad re-categorisation (company→global-affairs 35, product→release 25, safety→security 10, plus many plugin-category moves) and a new `learn-demos` sub-sitemap (43 total).
+- **Bulk `<lastmod>` bump:** 1,227 pages now claim a November lastmod, almost all from the global nav/footer change rather than editing; only ~637 pages changed beyond nav.
+- **3 URLs reappeared:** `/business/plugins/alpaca/`, `/form/codex-ambassadors/`, `/policies/row-privacy-policy/`.
+- **5 new URLs have no `<lastmod>`:** three `/ads/customers/*` stories and the GPT‑6.1 Sol / Terra pages.
+- Several new articles carry on-page dates inside the gap (Sep 29–Oct 29); explained by the missed runs. No future-dated or backwards lastmod values. The Usage Policies page is dated *effective Nov 20, 2026* (future).
+
+Full detail in [`runs/2026-11-08T09-15Z/analysis.md`](runs/2026-11-08T09-15Z/analysis.md).
+
+### Notable additions
+
+- [GPT‑6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md): near-Astra intelligence at one-fifth the price; [GPT‑6.1 Terra](pages/openai.com/index/introducing-gpt-6-1-terra/index.md): fast visual reasoning and computer use; [GPT‑6 Cyber](pages/openai.com/index/introducing-gpt-6-cyber/index.md) for authorized vulnerability research; [Images 2.6](pages/openai.com/index/introducing-images-2-6/index.md); [Decisions API](pages/openai.com/index/decisions-api/index.md).
+- Cyber: [Cyber at the Frontier](pages/openai.com/cyber-at-the-frontier/index.md), [Cybersecurity research](pages/openai.com/cybersecurity/index.md), [Patch the Planet](pages/openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/index.md), [Grid Protectors Program](pages/openai.com/index/grid-protectors-program/index.md), [bigger bug bounties](pages/openai.com/index/rewarding-defenders-with-bigger-bug-bounties/index.md), plus Cisco, Cloudflare, Sophos, SentinelOne, Check Point, Block stories.
+- Enterprise: [OpenAI Marketplace](pages/openai.com/business/marketplace/index.md), [Private Intelligence](pages/openai.com/business/private-intelligence/index.md), [OpenAI models on Google Cloud](pages/openai.com/index/openai-models-google-cloud/index.md), [Atlassian](pages/openai.com/index/atlassian-partnership/index.md), [ServiceNow](pages/openai.com/index/openai-servicenow-partnership-expansion/index.md) and [Oracle](pages/openai.com/index/oracle-apps-in-chatgpt/index.md) partnerships.
+- Ads: [ChatGPT Ads in 26 new countries](pages/openai.com/index/chatgpt-ads-expands-26-new-countries/index.md), [new ad format](pages/openai.com/index/new-chatgpt-ads-format-and-measurement/index.md), [ad stack design](pages/openai.com/index/building-chatgpt-ad-stack/index.md).
+- Corporate: acquisitions of [Orchestra Bio](pages/openai.com/index/openai-to-acquire-orchestra-bio/index.md) and [Pierre](pages/openai.com/index/openai-to-acquire-pierre/index.md); [Jill Hazelbaker](pages/openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer/index.md) as Chief Corporate Affairs Officer; [Dan Driscoll](pages/openai.com/index/dan-driscoll-joins-openai/index.md) as Senior Counselor for National Security Modernization.
+- Safety/policy: [updated Model Spec](pages/openai.com/index/updated-model-spec/index.md), [model-distillation campaign disrupted](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md), [teen protections](pages/openai.com/index/community-safety-report-and-new-protections-for-teens/index.md).
+- ~25 customer stories, 14 `learn-demos`, ~20 new plugin pages, Codex Originals/Ambassadors forms, Sign in with ChatGPT terms, DevDay 2026 page and [recap](pages/openai.com/index/devday-2026-recap/index.md).
+
+### Notable updates
+
+- **Nav/footer on all 1,732 changed pages:** GPT‑5.4 out, GPT‑6.1 Sol/GPT‑6 Astra in; Open Models and Apps SDK links dropped.
+- [Usage Policies](pages/openai.com/policies/usage-policies/index.md): new version effective Nov 20, 2026, e.g. no building AI tools that give licensed-profession advice without a licensed professional.
+- [Privacy policy](pages/openai.com/policies/privacy-policy/index.md) (Sep 10 update: Sora dropped; ad-partner data language broadened) and [cookie policy](pages/openai.com/policies/cookie-policy/index.md) (Oct 22: new ads cookie, `oai-did` now 2 years).
+- [Trust & transparency](pages/openai.com/trust-and-transparency/index.md): Jan–Jun 2026 counts jumped (224→620, 75→146, 10→28).
+- [Business pricing](pages/openai.com/business/pricing/index.md): from December, ChatGPT and Codex share one plan usage limit.
+- [Codex](pages/openai.com/codex/index.md) relaunched with Plus ($20) and Pro ($100) tiers; [Daybreak](pages/openai.com/daybreak/index.md) reframed from the $1B credits pitch to a full cyber-defense program; [Business](pages/openai.com/business/index.md) homepage now promotes Cyber at the Frontier (Nov 12).
+
+### Removed pages
+
+16 removals, mostly renames: `/business/partners/{canva,dropbox,gusto,hubspot,pathfindr,quickbooks,stripe}/` (Pathfindr→Affinda), plugin slugs `atlassian-rovo`, `litera-lito`, `oracle-analytics`, `wordpress-com`, `mcp-server-for-wordpress` (replaced by new slugs), `/daybreak/partners-new/`, `/economic-research-exchange/` (→ `/economic-research-collaborators/`), `/form/ultrafast/`, and `/prism/` (LaTeX workspace; no replacement seen). Last snapshots are in git history.
+
+_Stats: 2141 total URLs | 172 added | 1732 updated | 16 removed | 228 anomalies (220 migrations, 5 missing lastmod, 3 reappeared) | 43 sub-sitemaps_
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)
