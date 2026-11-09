@@ -1,5 +1,36 @@
 # openai_monitor
 
+## 2026-11-09T09-16Z
+
+**Fetch time:** 2026-11-09T09:17Z (sitemap only — page content NOT fetched) UTC | **Baseline:** 2026-09-28T09-17Z (**42-day gap; the routine missed ~6 weeks**)
+
+**TL;DR:** After a six-week silence, the sitemap grew from 1,985 to 2,141 URLs (+172 added, 16 removed) and 1,732 URLs changed `<lastmod>` — mostly a site-wide republish bump (Nov 1–9), not necessarily real edits. The additions point to what OpenAI has been doing: a **GPT-6.1 launch** (`introducing-gpt-6-1-sol`, `-terra`, `gpt-6-for-everyone`), a big **cybersecurity push** (`/cybersecurity/`, `/cyber-at-the-frontier/`, GPT-6 Cyber, bug bounties, Daybreak on AWS GovCloud, a security sprint), **DevDay 2026 recap**, **ChatGPT ads expansion** to 26 countries plus an ads stack write-up, new **acquisitions** (Orchestra Bio, Pierre), many new **enterprise plugins** (Atlassian, Oracle NetSuite, ServiceNow, Krea, Alpaca…) and a **business marketplace**, **Private Intelligence** and Forward-Deployed Engineering pages, and a restructured Learn hub. **Caveat:** the sandbox blocked the Chrome-impersonating page fetcher, so no page content was read or refreshed this run; the above comes from URL slugs only. Needs follow-up.
+
+### ⚠️ Anomalies
+- **Missed runs / 42-day gap** — first_seen for new URLs is only an upper bound.
+- **Page fetch blocked** — all 172 added + 1,732 updated pages unfetched; markdown under `pages/` is stale for them.
+- **Five new URLs have no `<lastmod>`:** `/index/introducing-gpt-6-1-sol/`, `/index/introducing-gpt-6-1-terra/`, `/ads/customers/{evernote,flipsnack,vistaprint}/`. `/index/advancing-independent-research-ai-alignment/` *lost* its `<lastmod>`.
+- **3 reappeared URLs:** `/business/plugins/alpaca/`, `/form/codex-ambassadors/`, `/policies/row-privacy-policy/`.
+- **25 sub-sitemap migrations**, driven by a new `learn-demos` sub-sitemap (43 total, was 42) and `learn-webinars`/`learn-guides` now claiming many `/business/*` and `/index/*` pages; Tableau, Sync Labs, GSC Wizard plugins re-categorised.
+- No future-dated or backwards `<lastmod>`.
+
+### Notable additions (slug-level only; content unread)
+- GPT-6.1: [`/index/introducing-gpt-6-1-sol/`](pages/openai.com/index/introducing-gpt-6-1-sol/index.md), [`-terra`](pages/openai.com/index/introducing-gpt-6-1-terra/index.md), `gpt-6-for-everyone`, `introducing-images-2-6`, `decisions-api`, `business/images-api`.
+- Security: `/cybersecurity/`, `/cyber-at-the-frontier/`, `introducing-gpt-6-cyber`, `rewarding-defenders-with-bigger-bug-bounties`, `securing-our-frontier-model-training-environment`, `disrupting-a-coordinated-model-distillation-campaign`, `grid-protectors-program`.
+- Company: `devday-2026-recap`, `openai-to-acquire-orchestra-bio`, `openai-to-acquire-pierre`, `dan-driscoll-joins-openai`, `jill-hazelbaker-chief-corporate-affairs-officer`, `openai-models-google-cloud`, `/compute-campus/`, `oracle-apps-in-chatgpt`, `atlassian-partnership`.
+- Ads: `chatgpt-ads-expands-26-new-countries`, `building-chatgpt-ad-stack`, `new-chatgpt-ads-format-and-measurement`.
+- ~20 new plugin pages, ~20 `/business/learn/` demo pages, ~40 customer-story pages. Full lists in [`runs/2026-11-09T09-16Z/analysis.md`](runs/2026-11-09T09-16Z/analysis.md).
+
+### Notable updates
+Unknown — 1,732 `<lastmod>` bumps (heaviest days: Nov 5: 262, Nov 8: 249, Nov 1: 227, Nov 9: 199) could not be diffed.
+
+### Removed pages
+16: seven `/business/partners/*` (Canva, Dropbox, Gusto, HubSpot, PathfindR, QuickBooks, Stripe), five `/business/plugins/*` (several look replaced by new differently-slugged pages), `/prism/`, `/economic-research-exchange/`, `/form/ultrafast/`, `/daybreak/partners-new/`.
+
+_Stats: 2141 total URLs | 172 added | 1732 updated (content unverified) | 16 removed | 34 anomalies | 43 sub-sitemaps_
+
+---
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)
