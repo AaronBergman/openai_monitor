@@ -69,17 +69,17 @@ OpenAI
 
 [View all](</news/>)
 
-![The full stack behind abundant intelligence > Cover image](https://images.ctfassets.net/kftzwdyauwt9/4nRoI5iOfeV7qh4O3eAIEB/400545de8860b3c757548f2e3cd275fb/index-full-stack-behind-abundant-intelligence--cover-v001.png?w=3840&q=90&fm=webp)
+![Closing the AI guidance gap in education — Cover](https://images.ctfassets.net/kftzwdyauwt9/3xRIBv3ZzYUCkX0v0ssRAD/b97d79a3107502fca0ba388910a9aa5c/closing-the-ai-guidance-gap-in-education-cover.png?w=3840&q=90&fm=webp)
 
-[The full stack behind abundant intelligenceCompanyAug 25, 2026](</index/the-full-stack-behind-abundant-intelligence/>)
+[Closing the AI guidance gap in educationCompanyNov 10, 2026](</index/closing-ai-guidance-gap-education/>)
 
-![Jalapeño inference — Art Card](https://images.ctfassets.net/kftzwdyauwt9/26K8mLbrpbaDvoFY0NrE04/8e4ad0b3f28042c22d6d5130bd4f4019/jalapeno-art-card.png?w=3840&q=90&fm=webp)
+![Australian universities are creating AI-native graduates — Cover](https://images.ctfassets.net/kftzwdyauwt9/64omN1JbSha5tAU2Kd5Ish/0877ae035483f77e501a0bc7fef261ca/australian-universities-ai-native-graduates-cover.png?w=3840&q=90&fm=webp)
 
-[Jalapeño’s first results show industry-leading speed and efficiency in AI inferenceEngineeringAug 25, 2026](</index/jalapeno-first-results/>)
+[Australian universities are creating AI-native graduatesCompanyNov 5, 2026](</index/australian-universities-ai-native-graduates/>)
 
-![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
+![OpenAI to acquire Pierre Computer Company, Inc. — Cover](https://images.ctfassets.net/kftzwdyauwt9/3nPsXcvxPd0yN3YwkNf6k2/52b49d1ce5f362c8427036ee8b66da9a/openai-to-acquire-pierre-computer-company-inc-cover.png?w=3840&q=90&fm=webp)
 
-[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
+[OpenAI to acquire Pierre Computer Company, Inc.CompanyNov 4, 2026](</index/openai-to-acquire-pierre/>)
 
 Research
 
@@ -91,9 +91,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -112,7 +113,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -130,6 +132,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -138,8 +141,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -158,6 +161,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

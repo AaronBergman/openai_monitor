@@ -61,10 +61,15 @@ We sat down with Adrien Nussenbaum, Co-founder & Co-CEO, and Anne-Claire Baschet
 ### Results at a glance
 
   * 70% faster creation of internal technical documentation using ChatGPT Enterprise
+
   * 37% efficiency improvement in customer support, while maintaining 96% customer satisfaction
+
   * 91% faster catalog onboarding with Mirakl’s AI-native Catalog Transformer
+
   * ~50% fewer categorisation errors, improving data quality and conversion
+
   * AI agents now operate 24/7 and in multiple languages, meeting global support expectations
+
 
 
 
@@ -108,9 +113,13 @@ Mirakl believes the next phase of commerce will involve agents acting on behalf 
 To enable this, Mirakl is developing Mirakl Nexus—infrastructure designed for agent-native commerce:
 
   * Supports multi-merchant baskets
+
   * Handles complex transaction flows
+
   * Integrates with retailer systems
+
   * Provides a scalable foundation for agent-driven shopping and service experiences
+
 
 
 
@@ -125,17 +134,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![ChatGPT Enterprise now available in AWS Marketplace — Cover](https://images.ctfassets.net/kftzwdyauwt9/2ReOJcrRGjSgkG3HOVYAf8/7793b38e6bf5c2f68cc3899874d5a832/chatgpt-enterprise-now-available-in-aws-marketplace-cover.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[ChatGPT Enterprise now available in AWS MarketplaceProductNov 9, 2026](</index/chatgpt-enterprise-aws-marketplace/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![Introducing Control Room — Cover](https://images.ctfassets.net/kftzwdyauwt9/XFHiXwklxhUiqEYuo22MD/0767c09bbe4c850f05339215f444f097/introducing-control-room-cover.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[Control Room: A new way to track and stop AI workloadsSafetyNov 9, 2026](</index/control-room/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![CodeRabbit — Indigo texture art card](https://images.ctfassets.net/kftzwdyauwt9/1YFM9mFKP6ZzABichElFUi/9a6569f02f982f80d80941019f522a99/coderabbit-art-card-1080x1080.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[CodeRabbit scales agentic software development and ships 20x moreStartupNov 9, 2026](</index/coderabbit-codex-daybreak/>)
 
 Research
 
@@ -147,9 +156,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -168,7 +178,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -186,6 +197,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -194,8 +206,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -214,6 +226,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

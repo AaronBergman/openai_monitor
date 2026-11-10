@@ -49,21 +49,37 @@ OpenAI’s mission is to ensure that as AI advances and becomes able to solve ha
 This is why we aired our first-ever television ad during the Super Bowl, because of how many people would be watching and sharing the moment with family and friends—the intersection of a national cultural moment, the big game, and the global start of what Sam has called [_the Intelligence Age_ ⁠(opens in a new window)](<https://ia.samaltman.com/>), as children everywhere become able to do things we can’t. Our goal was to pique people’s curiosity and help us all realize how AI can open up new possibilities for us, create more fulfillment in our lives, and make us more productive, just as all the tools that came before AI did for those who came before us. The ad depicts:
 
   * Fire
+
   * The wheel
+
   * Horses
+
   * Agriculture 
+
   * Travel by sea 
+
   * Music
+
   * Steam locomotive 
+
   * Light bulb
+
   * X-ray
+
   * Airplane 
+
   * DNA
+
   * Broadcast TV
+
   * Space exploration 
+
   * Internet 
+
   * Computing
+
   * ChatGPT 
+
 
 
 
@@ -74,11 +90,17 @@ _Hear from our creative team_[ __about the making of the ad__ ⁠(opens in a new
 Making sure AGI benefits everyone also means making sure _everyone shares in what the tool makes possible._ The technological innovations, scientific discoveries and medical breakthroughs that will come as use of AGI scales can improve the lives of people everywhere. Already, our tools are being used to:
 
   * accelerate scientific research [_by US National Laboratories_](</index/strengthening-americas-ai-leadership-with-the-us-national-laboratories/>) ;
+
   * [_speed up development_](</index/moderna/>) of life-saving medical treatments;
+
   * [_help teachers_ ⁠(opens in a new window)](<https://sharemylesson.com/webinars/aftopenai-professional-learning-series>) create [_personalized lesson plans_ ⁠(opens in a new window)](<https://www.youtube.com/watch?v=Ia3CPhVkUtg>), spend more time with students, and safely adopt AI in the classroom;
+
   * protect US military personnel [_against unmanned drone attacks_ ⁠(opens in a new window)](<https://www.anduril.com/article/anduril-partners-with-openai-to-advance-u-s-artificial-intelligence-leadership-and-protect-u-s/>);
+
   * make state and local governments [_more efficient_ ⁠(opens in a new window)](<https://www.pa.gov/agencies/oa/newsroom/agreement-innovateus-to-train-responsible-generative-artificial-.html>);
+
   * and of course, unlock [_new forms of creativity_ ⁠](<https://openai.com/sora/>) for artists and increase accessibility of artistic production.
+
 
 
 
@@ -121,9 +143,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -142,7 +165,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -160,6 +184,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -168,8 +193,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -188,6 +213,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

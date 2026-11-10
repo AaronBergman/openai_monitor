@@ -95,6 +95,22 @@ Our responsibility is to make sure the communities helping build it share meanin
 
 OpenAI
 
+## Keep reading
+
+[View all](</news/>)
+
+![Australian universities are creating AI-native graduates — Cover](https://images.ctfassets.net/kftzwdyauwt9/64omN1JbSha5tAU2Kd5Ish/0877ae035483f77e501a0bc7fef261ca/australian-universities-ai-native-graduates-cover.png?w=3840&q=90&fm=webp)
+
+[Australian universities are creating AI-native graduatesCompanyNov 5, 2026](</index/australian-universities-ai-native-graduates/>)
+
+![Setting a new standard for responsible AI infrastructure — Cover](https://images.ctfassets.net/kftzwdyauwt9/4XzIjfPOYMGcyoQ6SUBgdI/2216dda14fa312b0dc6bef3c018f9c0f/building-ai-infrastructure-that-works-for-america-cover.png?w=3840&q=90&fm=webp)
+
+[Setting a new standard for responsible AI infrastructureGlobal AffairsNov 5, 2026](</index/setting-new-standard-responsible-ai-infrastructure/>)
+
+![OpenAI to acquire Pierre Computer Company, Inc. — Cover](https://images.ctfassets.net/kftzwdyauwt9/3nPsXcvxPd0yN3YwkNf6k2/52b49d1ce5f362c8427036ee8b66da9a/openai-to-acquire-pierre-computer-company-inc-cover.png?w=3840&q=90&fm=webp)
+
+[OpenAI to acquire Pierre Computer Company, Inc.CompanyNov 4, 2026](</index/openai-to-acquire-pierre/>)
+
 Research
 
   * [Research Index](</research/index/>)
@@ -105,10 +121,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -127,7 +143,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -154,8 +171,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -174,6 +191,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

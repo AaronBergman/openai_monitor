@@ -28,8 +28,10 @@ OpenAI
 
 # Reporting the facts about the New York Times’ lawsuit
 
-We filed our motions for summary judgment 
+Experts and leaders across a range of fields voice their support for fair use
 
+  * Experts and leaders across a range of fields voice their support for fair use
+  * The court grants our motion to strike
   * We filed our motions for summary judgment 
   * The cases continue narrowing
   * The Times invades the privacy of tens of millions of people
@@ -45,6 +47,8 @@ We filed our motions for summary judgment
 
 
 
+  * Experts and leaders across a range of fields voice their support for fair use
+  * The court grants our motion to strike
   * We filed our motions for summary judgment 
   * The cases continue narrowing
   * The Times invades the privacy of tens of millions of people
@@ -94,9 +98,30 @@ You can read more about our work with news organizations [_here_](</index/how-ne
 
 ### 2026
 
+## Experts and leaders across a range of fields voice their support for fair use
+
+Authors, journalists, creators, academics, accessibility advocates, legal experts, librarians, economists and business leaders filed briefs in support for the longstanding principle of fair use and its application to AI training.
+
+  * Blog post - October 30, 2026: [_Fair use benefits everyone_](</index/fair-use-benefits-everyone/>)
+
+
+
+
+## The court grants our motion to strike
+
+We filed a motion pointing out that plaintiffs’ counsel failed to disclose that they had funded one of the key studies they cited. The court granted our motion and plaintiffs withdrew the study.
+
+  * Court filing - September 23, 2026: [_Motion to strike_ ⁠(opens in a new window)](<https://storage.courtlistener.com/recap/gov.uscourts.nysd.640396/gov.uscourts.nysd.640396.2046.0.pdf>)
+
+  * Court filing - October 6, 2026: [_Order_ ⁠(opens in a new window)](<https://www.courtlistener.com/docket/69879510/2090/in-re-openai-inc-copyright-infringement-litigation/>)
+
+
+
+
 ## We filed our motions for summary judgment 
 
   * Court filing - September 4, 2026: [_Memorandum_ ⁠(opens in a new window)](<https://storage.courtlistener.com/recap/gov.uscourts.nysd.606655/gov.uscourts.nysd.606655.1221.0.pdf>) (regarding Authors Guild), [_Memorandum_ ⁠(opens in a new window)](<https://storage.courtlistener.com/recap/gov.uscourts.nysd.612697/gov.uscourts.nysd.612697.1496.0.pdf>) (regarding The New York Times)
+
 
 
 
@@ -105,6 +130,7 @@ You can read more about our work with news organizations [_here_](</index/how-ne
 The Court once again dismissed claims in this case, as well as the Ziff Davis case, as both continue proving not to hold up under scrutiny.
 
   * Court filing - August 6, 2026: [_Order_ ⁠(opens in a new window)](<https://storage.courtlistener.com/recap/gov.uscourts.nysd.640396/gov.uscourts.nysd.640396.1662.0.pdf>) (New York Times), [_order_ ⁠(opens in a new window)](<https://storage.courtlistener.com/recap/gov.uscourts.nysd.643043/gov.uscourts.nysd.643043.571.0.pdf>) (Ziff Davis)
+
 
 
 
@@ -131,11 +157,17 @@ The Times’ refusal to withdraw their request to violate the privacy of tens of
 Our users’ privacy is a priority and we’ll continue fighting to protect it.
 
   * Court filing - December 10, 2025: [Our updated appeal letter to the District Court judge⁠(opens in a new window)](<https://cdn.openai.com/pdf/2025-12-10-memorandum-of-law-dckt-935-0.pdf>)
+
   * Court filing - November 24, 2025: [Our appeal to the District Court judge⁠(opens in a new window)](<https://cdn.openai.com/pdf/2025-11-24-memorandum-of-law-dckt-841-0.pdf>)
+
   * Court filing - November 14, 2025: [Our letter to the Court⁠(opens in a new window)](<https://cdn.openai.com/pdf/2025-11-14-752-letter.pdf>)
+
   * Blog post - November 12, 2025: [Fighting the New York Times’ invasion of user privacy](</index/fighting-nyt-user-privacy-invasion/>)
+
   * Court filing - November 12, 2025: [Our request for reconsideration⁠(opens in a new window)](<https://cdn.openai.com/pdf/gov.uscourts.nysd.640396.742.0_1.pdf>)
+
   * Social post - November 12, 2025: [Jason Kwon’s tweet on user privacy⁠(opens in a new window)](<https://x.com/jasonkwon/status/1988649030818148828?s=20>)
+
 
 
 
@@ -144,7 +176,9 @@ The Times had initially demanded 1.4 billion private ChatGPT conversations be tu
 Previously, the Times asked the Court to force us to retain all user conversations indefinitely—which even included [chats that users chose to delete⁠⁠(opens in a new window)](<https://help.openai.com/en/articles/8983778-chat-and-file-retention-policies-in-chatgpt>). We fought that and restored our users’ control over their private chats. Again, these are users who have nothing to do with the lawsuit. 
 
   * Social post - June 26, 2025: [Sam Altman’s tweet on AI privacy⁠(opens in a new window)](<https://x.com/sama/status/1938277441400934447?s=20>)
+
   * Blog post - June 5, 2025: [How we’re responding to The New York Times’ data demands in order to protect user privacy](</index/response-to-nyt-data-demands/>)
+
 
 
 
@@ -153,7 +187,9 @@ Previously, the Times asked the Court to force us to retain all user conversatio
 Two federal judges in two separate cases have already independently confirmed what copyright law has long supported, finding in those cases that training AI models is highly transformative and protected by fair use.
 
   * Court filing - June 23, 2025: [Bartz v Anthropic order⁠(opens in a new window)](<https://cdn.openai.com/pdf/gov.uscourts.cand.434709.231.0_4.pdf>)
+
   * Court filing - June 25, 2025: [Kadrey v Meta Platforms order⁠(opens in a new window)](<https://cdn.openai.com/pdf/gov.uscourts.cand.415175.598.0_2.pdf>)
+
 
 
 
@@ -173,11 +209,13 @@ The Court continued to scrutinize the Times’ claims and dismissed a number of 
 
 
 
+
 ## The Court also rejected claims brought by Ziff Davis
 
 Similarly, the Court narrowed the case and dismissed a number of claims brought by Ziff Davis, including those related to trademark and DMCA allegations.
 
   * Court filing - December 15, 2025: [Opinion and order⁠(opens in a new window)](<https://cdn.openai.com/pdf/2025-12-15-opinion-and-order-dckt-968-0.pdf>)
+
 
 
 
@@ -191,9 +229,11 @@ The Times falsely claimed we “destroyed” data during the discovery process. 
 
 
 
+
 It also turned out that the Times, which falsely accused us of destroying data, had themselves [secretly deleted evidence⁠(opens in a new window)](<https://storage.courtlistener.com/recap/gov.uscourts.nysd.640396/gov.uscourts.nysd.640396.376.0.pdf>) of their extensive use of OpenAI’s models internally. This was a fact that was undisputed in court.
 
   * Court filing - July 29, 2025: [Our letter to the Court⁠(opens in a new window)](<https://storage.courtlistener.com/recap/gov.uscourts.nysd.640396/gov.uscourts.nysd.640396.376.0.pdf>)
+
 
 
 
@@ -205,12 +245,15 @@ In a related copyright lawsuit, the judge dismissed Raw Story and AlterNet’s D
 
 
 
+
 ## The Times introduces references to their legal claims in stories about OpenAI 
 
 The Times turned its news coverage into a platform for its legal arguments, embedding lawsuit claims inside stories about OpenAI. While disclosures are common, giving them this level of prominence—often by inserting in the middle of stories—is not.
 
   * November 2025: (The New York Times has [sued⁠(opens in a new window)](<https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html>) OpenAI and Microsoft, claiming copyright infringement of news content related to A.I. systems. The companies have denied those claims.)
+
   * August 2024: (The Times [sued⁠(opens in a new window)](<https://www.nytimes.com/2023/12/27/business/media/new-york-times-open-ai-microsoft-lawsuit.html>) OpenAI and Microsoft in December for copyright infringement of news content related to A.I. systems.)
+
 
 
 
@@ -239,9 +282,13 @@ As the United States Supreme Court has [explained⁠(opens in a new window)](<ht
 There are [four non-exhaustive factors⁠(opens in a new window)](<https://www.copyright.gov/fair-use/>) that courts consider when determining whether something is fair use:
 
   1. Purpose and character of the use, including whether the use is of a commercial nature or is for nonprofit educational purpose.
+
   2. Nature of the copyrighted work.
+
   3. Amount and substantiality of the portion used in relation to the copyrighted work as a whole.
+
   4. Effect of the use upon the potential market for or value of the copyrighted work.
+
 
 
 
@@ -250,10 +297,15 @@ We believe generative AI training and use qualify as fair use at a minimum becau
 For example, our models are used in a wide range of transformative ways:
 
   * [Scientists and mathematicians](</science/>) are using them to help advance their respective fields, as well as in efforts to [accelerate drug development](</index/moderna/>).
+
   * The Government of Iceland, meanwhile, [partnered](</index/government-of-iceland/>) with OpenAI on a project aimed at using our models to help preserve the Icelandic language. 
+
   * Some of the world’s best-known enterprises are also finding new ways to deploy our technology across a range of sectors. Our December 2025 [state of enterprise AI report](</index/the-state-of-enterprise-ai-2025-report/>) highlights just some of the ways our models are delivering positive outcomes for organizations on a number of different fronts. 
+
   * [Small business owners](</index/small-business-ai-jam/>) are also turning to AI to grow their businesses, as well as founders and entrepreneurs. GPT‑5.2 achieving a new state-of-the-art result on [GDPval in late 2025](</index/introducing-gpt-5-2/>)—an evaluation that measures clearly defined knowledge-work tasks across 44 professions—is illustrative of the ways this technology can be valuable to entrepreneurs with access to limited resources. 
+
   * Importantly, AI also continues to be a valuable [resource for educators](</index/chatgpt-for-teachers/>). 
+
 
 
 
@@ -269,10 +321,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -291,7 +343,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -309,6 +362,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -317,8 +371,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -337,6 +391,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
