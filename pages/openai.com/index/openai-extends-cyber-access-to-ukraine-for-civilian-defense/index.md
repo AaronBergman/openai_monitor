@@ -68,17 +68,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Sam Altman’s remarks at the United Nations Security Council cover image](https://images.ctfassets.net/kftzwdyauwt9/4O6fFZArVSBeCoNjTFwXXZ/cc5e374a6b62b8f328555f002b3bca49/sam-altman-s-remarks-at-the-united-nations-security-council-cover.png?w=3840&q=90&fm=webp)
+![Setting a new standard for responsible AI infrastructure — Cover](https://images.ctfassets.net/kftzwdyauwt9/4XzIjfPOYMGcyoQ6SUBgdI/2216dda14fa312b0dc6bef3c018f9c0f/building-ai-infrastructure-that-works-for-america-cover.png?w=3840&q=90&fm=webp)
 
-[Sam Altman’s remarks at the United Nations Security CouncilGlobal AffairsSep 23, 2026](</index/sam-altman-un-security-council-remarks/>)
+[Setting a new standard for responsible AI infrastructureGlobal AffairsNov 5, 2026](</index/setting-new-standard-responsible-ai-infrastructure/>)
 
-![Grab and OpenAI bring practical AI skills to Southeast Asia — cover](https://images.ctfassets.net/kftzwdyauwt9/54XrkC2PjMSkrDcHjY0L2j/403cfe92efa0592525d62bded987ce5c/grab-and-openai-bring-practical-ai-skills-to-southeast-asia-cover.png?w=3840&q=90&fm=webp)
+![Introducing the Grid Protectors Program — Cover](https://images.ctfassets.net/kftzwdyauwt9/1JqPBH0jS5SuZJWiba3S4c/00501ffe5396e6d6915948e739cb364b/introducing-the-grid-protectors-program-cover.png?w=3840&q=90&fm=webp)
 
-[Grab and OpenAI bring practical AI skills to Southeast AsiaGlobal AffairsSep 23, 2026](</index/grab-openai-ai-skills-southeast-asia/>)
+[Introducing the Grid Protectors ProgramGlobal AffairsNov 2, 2026](</index/grid-protectors-program/>)
 
-![Building shared standards for the next phase of AI - art card](https://images.ctfassets.net/kftzwdyauwt9/aQqo6ytHD8RKLFOAPu3vC/c7189f6ec0853600e0e7110885d03541/building-shared-standards-next-phase-ai-cover.png?w=3840&q=90&fm=webp)
+![OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization — Cover](https://images.ctfassets.net/kftzwdyauwt9/MWZNeudWSxYE1AOyORvmG/e5efa65f5cba9117c53a77ab1be52d82/dan-driscoll-joins-openai-cover.png?w=3840&q=90&fm=webp)
 
-[Building standards for the next phase of AIGlobal AffairsSep 21, 2026](</index/building-standards-next-phase-ai/>)
+[Dan Driscoll joins OpenAICompanyNov 2, 2026](</index/dan-driscoll-joins-openai/>)
 
 Research
 
@@ -90,10 +90,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -112,7 +112,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -139,8 +140,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -159,6 +160,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

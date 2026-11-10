@@ -34,7 +34,7 @@ July 22, 2025
 
 New data center capacity will power jobs, growth, and AI that benefits more people.
 
-![""](https://images.ctfassets.net/kftzwdyauwt9/4xr6uwep8z7k2zV7SBBP4A/89f640504c1b915691b6fa9edeb7fa25/IMG_1628.jpg?w=3840&q=90&fm=webp)[](<https://cdn.openai.com/stargate-advances-with-partnership-with-oracle/stargate-advances-with-partnership-with-oracle-1.jpg>)
+![""](https://images.ctfassets.net/kftzwdyauwt9/4xr6uwep8z7k2zV7SBBP4A/89f640504c1b915691b6fa9edeb7fa25/IMG_1628.jpg?w=3840&q=90&fm=webp)[(opens in a new window)](<https://cdn.openai.com/stargate-advances-with-partnership-with-oracle/stargate-advances-with-partnership-with-oracle-1.jpg>)
 
 Loading…
 
@@ -46,7 +46,7 @@ Together with our Stargate I site in Abilene, Texas, this additional partnership
 
 It will also drive a significant share of the hundreds of thousands of jobs we expect will be created from Stargate over the coming years. We estimate that building, developing and operating the additional 4.5 GW of data center capacity we’re announcing today will create over 100,000 jobs across construction and operations roles in the U.S. This estimate includes direct full-time jobs needed to operate Stargate data centers, short-term construction roles like the many highly specialized electricians at work at our Stargate I site in Abilene, TX, and indirect jobs like manufacturing and local service roles.
 
-![Rows of black server racks with yellow and red network cables in a data center, with overhead cable trays and security cameras visible.](https://images.ctfassets.net/kftzwdyauwt9/7tqf0nmUJOje0efmlacsmK/6264f7bed387439556cb3f4cc3484f9b/IMG_1492.jpg?w=3840&q=90&fm=webp)[](<https://cdn.openai.com/stargate-advances-with-partnership-with-oracle/stargate-advances-with-partnership-with-oracle-2.jpg>)
+![Rows of black server racks with yellow and red network cables in a data center, with overhead cable trays and security cameras visible.](https://images.ctfassets.net/kftzwdyauwt9/7tqf0nmUJOje0efmlacsmK/6264f7bed387439556cb3f4cc3484f9b/IMG_1492.jpg?w=3840&q=90&fm=webp)[(opens in a new window)](<https://cdn.openai.com/stargate-advances-with-partnership-with-oracle/stargate-advances-with-partnership-with-oracle-2.jpg>)
 
 Meanwhile, construction of Stargate I in Abilene is progressing and parts of the facility are now up and running. Oracle began delivering the first Nvidia GB200 racks last month and we recently began running early training and inference workloads, using this capacity to push the limits of OpenAI’s next-generation frontier research. The Stargate I site has already created thousands of jobs, with more expected as operations expand, including specialized roles for electricians, equipment operators, and technicians hailing from more than 20 states.
 
@@ -69,17 +69,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
+![Australian universities are creating AI-native graduates — Cover](https://images.ctfassets.net/kftzwdyauwt9/64omN1JbSha5tAU2Kd5Ish/0877ae035483f77e501a0bc7fef261ca/australian-universities-ai-native-graduates-cover.png?w=3840&q=90&fm=webp)
 
-[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
+[Australian universities are creating AI-native graduatesCompanyNov 5, 2026](</index/australian-universities-ai-native-graduates/>)
 
-![Expanding OpenAI Academy with new learning paths — cover](https://images.ctfassets.net/kftzwdyauwt9/45fB7Wzg6PiQPzz8V49LVr/ef443412e9d5f03f9d5ffcc79aefe18e/expanding-openai-academy-with-new-learning-paths-cover.png?w=3840&q=90&fm=webp)
+![OpenAI to acquire Pierre Computer Company, Inc. — Cover](https://images.ctfassets.net/kftzwdyauwt9/3nPsXcvxPd0yN3YwkNf6k2/52b49d1ce5f362c8427036ee8b66da9a/openai-to-acquire-pierre-computer-company-inc-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI Academy with new learning pathsCompanySep 21, 2026](</index/expanding-openai-academy-with-new-learning-paths/>)
+[OpenAI to acquire Pierre Computer Company, Inc.CompanyNov 4, 2026](</index/openai-to-acquire-pierre/>)
 
-![Introducing the Australian Youth Safety Blueprint — cover](https://images.ctfassets.net/kftzwdyauwt9/3hSPxVZReGirTIsDaGBwaN/6a402fc967b16c7a33e509a2bea2bc44/introducing-the-australian-youth-safety-blueprint-cover.png?w=3840&q=90&fm=webp)
+![Jill Hazelbaker — Cover](https://images.ctfassets.net/kftzwdyauwt9/5edL52bJtAPdJ6AWBpTYtW/2ded411c556198532efdbb2961d1e1f5/jill-hazelbaker-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing the Australian Youth Safety BlueprintCompanySep 18, 2026](</index/australian-youth-safety-blueprint/>)
+[Jill Hazelbaker joins OpenAI as Chief Corporate Affairs OfficerCompanyNov 3, 2026](</index/jill-hazelbaker-chief-corporate-affairs-officer/>)
 
 Research
 
@@ -91,10 +91,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -113,7 +113,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -140,8 +141,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -160,6 +161,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

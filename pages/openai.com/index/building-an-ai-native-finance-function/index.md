@@ -189,17 +189,17 @@ Sarah Friar
 
 [View all](</news/>)
 
-![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
+![Closing the AI guidance gap in education — Cover](https://images.ctfassets.net/kftzwdyauwt9/3xRIBv3ZzYUCkX0v0ssRAD/b97d79a3107502fca0ba388910a9aa5c/closing-the-ai-guidance-gap-in-education-cover.png?w=3840&q=90&fm=webp)
 
-[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
+[Closing the AI guidance gap in educationCompanyNov 10, 2026](</index/closing-ai-guidance-gap-education/>)
 
-![Expanding OpenAI Academy with new learning paths — cover](https://images.ctfassets.net/kftzwdyauwt9/45fB7Wzg6PiQPzz8V49LVr/ef443412e9d5f03f9d5ffcc79aefe18e/expanding-openai-academy-with-new-learning-paths-cover.png?w=3840&q=90&fm=webp)
+![Australian universities are creating AI-native graduates — Cover](https://images.ctfassets.net/kftzwdyauwt9/64omN1JbSha5tAU2Kd5Ish/0877ae035483f77e501a0bc7fef261ca/australian-universities-ai-native-graduates-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI Academy with new learning pathsCompanySep 21, 2026](</index/expanding-openai-academy-with-new-learning-paths/>)
+[Australian universities are creating AI-native graduatesCompanyNov 5, 2026](</index/australian-universities-ai-native-graduates/>)
 
-![Introducing the Australian Youth Safety Blueprint — cover](https://images.ctfassets.net/kftzwdyauwt9/3hSPxVZReGirTIsDaGBwaN/6a402fc967b16c7a33e509a2bea2bc44/introducing-the-australian-youth-safety-blueprint-cover.png?w=3840&q=90&fm=webp)
+![OpenAI to acquire Pierre Computer Company, Inc. — Cover](https://images.ctfassets.net/kftzwdyauwt9/3nPsXcvxPd0yN3YwkNf6k2/52b49d1ce5f362c8427036ee8b66da9a/openai-to-acquire-pierre-computer-company-inc-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing the Australian Youth Safety BlueprintCompanySep 18, 2026](</index/australian-youth-safety-blueprint/>)
+[OpenAI to acquire Pierre Computer Company, Inc.CompanyNov 4, 2026](</index/openai-to-acquire-pierre/>)
 
 Research
 
@@ -211,10 +211,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -233,7 +233,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -260,8 +261,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -280,6 +281,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

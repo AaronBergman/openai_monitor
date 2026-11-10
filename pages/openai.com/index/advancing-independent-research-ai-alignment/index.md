@@ -42,11 +42,11 @@ As AI systems become more capable and more autonomous, alignment research needs 
 
 Today, we’re announcing a $7.5 million grant to [The Alignment Project⁠(opens in a new window)](<https://alignmentproject.aisi.gov.uk>), a global fund for independent alignment research created by the UK AI Security Institute (UK AISI). Renaissance Philanthropy is supporting the grant’s administration. This contribution helps make The Alignment Project one of the largest dedicated funding efforts for independent alignment research to date and strengthens the broader, independent ecosystem.
 
-Frontier labs like OpenAI are in a unique position to pursue alignment research that depends on access to frontier models and significant compute—work that is often difficult for independent researchers to explore. We devote much of our internal alignment effort to developing scalable methods so that alignment progress keeps pace with capability progress. [We believe iterative deployment](</safety/how-we-think-about-safety-alignment/>)—gradually increasing capabilities while strengthening safeguards—helps surface problems early and gives us concrete evidence about what works in practice, and that responsible development requires significant alignment and safety work that is tightly integrated with model building and deployment.
+Frontier labs like OpenAI are in a unique position to pursue alignment research that depends on access to frontier models and significant compute—work that is often difficult for independent researchers to explore. We devote much of our internal alignment effort to developing scalable methods so that alignment progress keeps pace with capability progress. [We believe iterative deployment⁠](</safety/how-we-think-about-safety-alignment/>)—gradually increasing capabilities while strengthening safeguards—helps surface problems early and gives us concrete evidence about what works in practice, and that responsible development requires significant alignment and safety work that is tightly integrated with model building and deployment.
 
 In parallel, the field benefits from sustained investment in independent, exploratory research—which can expand the space of ideas and uncover new directions. Independent research remains essential; in many kinds of useful inquiry, labs do not retain a comparative advantage. A healthy alignment ecosystem depends on independent teams testing diverse assumptions, developing alternative frameworks, and exploring conceptual, theoretical, and blue-sky ideas that may not align neatly with any one organization’s roadmap.
 
-And because progress toward AGI may ultimately depend on fundamental breakthroughs that change the shape of the alignment problem and which approaches are most useful, it’s important to support research that would matter even if today’s dominant methods turn out not to scale in the way we expect. In those worlds, it becomes especially important to have a strong external ecosystem doing foundational, conceptual, and uncorrelated work. The problem of AI alignment and safety is of unprecedented importance, and we need all hands on deck as we do not yet know which approaches will prove most durable as capabilities continue to advance. 
+And because progress toward AGI may ultimately depend on fundamental breakthroughs that change the shape of the alignment problem and which approaches are most useful, it’s important to support research that would matter even if today’s dominant methods turn out not to scale in the way we expect. In those worlds, it becomes especially important to have a strong external ecosystem doing foundational, conceptual, and uncorrelated work. The problem of AI alignment and safety is of unprecedented importance, and we need all hands on deck as we do not yet know which approaches will prove most durable as capabilities continue to advance.
 
 Our grant—approximately £5.6 million at current exchange rates—will [co-fund The Alignment Project⁠(opens in a new window)](<https://www.gov.uk/government/news/openai-and-microsoft-join-uks-international-coalition-to-safeguard-ai-development>) alongside other public, philanthropic, and industry backers. The total fund exceeds £27 million and is designed to support a broad portfolio of alignment research projects worldwide, spanning topics as diverse as computational complexity theory, economic theory and game theory, cognitive science, and information theory and cryptography. Individual projects are typically funded at £50,000 to £1 million, and may also receive optional access to compute resources and expert support.
 
@@ -56,21 +56,26 @@ UK AISI is well positioned to direct alignment funding at this scale and range. 
 
 Because the future of AI won’t unfold exactly as anyone predicts—and may advance very quickly—we believe democratization, “AI resilience,” and iterative deployment are essential. While we continue advancing our frontier alignment and safety research at OpenAI, progress will benefit from a robust, diverse, independent ecosystem pursuing complementary approaches as capabilities advance. This grant is one step toward that goal. We look forward to continuing to collaborate with the broader research community as the field advances.
 
+  * [Alignment](</news/?tags=alignment>)
+  * [2026](</news/?tags=2026>)
+
+
+
 ## Keep reading
 
 [View all](</news/>)
 
-![OpenAI extends cyber access to Ukraine for civilian defense — cover](https://images.ctfassets.net/kftzwdyauwt9/4NsiJiqUurW5ypfaulGCFm/8b5bfad7d895c4fc6aa20766d5c88b0c/openai-extends-cyber-access-to-ukraine-for-civilian-defense-cover.png?w=3840&q=90&fm=webp)
+![BioBasicsBench — Cover](https://images.ctfassets.net/kftzwdyauwt9/jNZJCNxCnXJEalE02MRYi/9c7ad4cdb35bae08e5e49eb6a2f65622/biobasicsbench-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI extends cyber access to Ukraine for civilian defenseGlobal AffairsSep 23, 2026](</index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/>)
+[Measuring how AI agents handle everyday wet-lab sciencePublicationNov 6, 2026](</index/measuring-how-ai-agents-handle-wet-lab-science/>)
 
-![Sam Altman’s remarks at the United Nations Security Council cover image](https://images.ctfassets.net/kftzwdyauwt9/4O6fFZArVSBeCoNjTFwXXZ/cc5e374a6b62b8f328555f002b3bca49/sam-altman-s-remarks-at-the-united-nations-security-council-cover.png?w=3840&q=90&fm=webp)
+![Setting a new standard for responsible AI infrastructure — Cover](https://images.ctfassets.net/kftzwdyauwt9/4XzIjfPOYMGcyoQ6SUBgdI/2216dda14fa312b0dc6bef3c018f9c0f/building-ai-infrastructure-that-works-for-america-cover.png?w=3840&q=90&fm=webp)
 
-[Sam Altman’s remarks at the United Nations Security CouncilGlobal AffairsSep 23, 2026](</index/sam-altman-un-security-council-remarks/>)
+[Setting a new standard for responsible AI infrastructureGlobal AffairsNov 5, 2026](</index/setting-new-standard-responsible-ai-infrastructure/>)
 
-![Mental Health Bench art card](https://images.ctfassets.net/kftzwdyauwt9/1GVQAEpVME68kCI7Ol2ApW/abde191546741612492ae27f9baf7f3e/Mental_Health_Bench__art_card.png?w=3840&q=90&fm=webp)
+![A thousand fewer paths to root — Cover](https://images.ctfassets.net/kftzwdyauwt9/6xmxSENf49pAUFzVokN3KG/3206934563d5b072f5a75139d6b26497/a-thousand-fewer-paths-to-root-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing MentalHealthBenchPublicationSep 23, 2026](</index/introducing-mentalhealthbench/>)
+[A thousand fewer paths to rootSecurityNov 4, 2026](</index/a-thousand-fewer-paths-to-root/>)
 
 Research
 
@@ -82,10 +87,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -104,7 +109,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -131,8 +137,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -151,6 +157,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

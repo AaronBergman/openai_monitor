@@ -71,17 +71,17 @@ OpenAI
 
 [View all](</news/>)
 
-![California youth AI safety — cover](https://images.ctfassets.net/kftzwdyauwt9/3CsHxgcoiHHUUaYOB1FNiq/38e90de831dad795965ed98ffdd3a95a/Frame.png?w=3840&q=90&fm=webp)
+![Closing the AI guidance gap in education — Cover](https://images.ctfassets.net/kftzwdyauwt9/3xRIBv3ZzYUCkX0v0ssRAD/b97d79a3107502fca0ba388910a9aa5c/closing-the-ai-guidance-gap-in-education-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI supports California’s bill to advance youth AI safetyCompanyAug 31, 2026](</index/supporting-california-bill-advance-ai-youth-safety/>)
+[Closing the AI guidance gap in educationCompanyNov 10, 2026](</index/closing-ai-guidance-gap-education/>)
 
-![Our decision on Cursor following its acquisition by SpaceX — cover](https://images.ctfassets.net/kftzwdyauwt9/3gFEgHvtA7Rsa5yUen97p5/b78a11ad81397a4003b879160e5a19b3/index-our-decision-on-cursor-following-its-acquisition-by-spacex-cover.png?w=3840&q=90&fm=webp)
+![Australian universities are creating AI-native graduates — Cover](https://images.ctfassets.net/kftzwdyauwt9/64omN1JbSha5tAU2Kd5Ish/0877ae035483f77e501a0bc7fef261ca/australian-universities-ai-native-graduates-cover.png?w=3840&q=90&fm=webp)
 
-[Our decision on Cursor following its acquisition by SpaceXCompanyAug 28, 2026](</index/our-decision-on-cursor-following-its-acquisition-by-spacex/>)
+[Australian universities are creating AI-native graduatesCompanyNov 5, 2026](</index/australian-universities-ai-native-graduates/>)
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![Setting a new standard for responsible AI infrastructure — Cover](https://images.ctfassets.net/kftzwdyauwt9/4XzIjfPOYMGcyoQ6SUBgdI/2216dda14fa312b0dc6bef3c018f9c0f/building-ai-infrastructure-that-works-for-america-cover.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[Setting a new standard for responsible AI infrastructureGlobal AffairsNov 5, 2026](</index/setting-new-standard-responsible-ai-infrastructure/>)
 
 Research
 
@@ -93,9 +93,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -114,7 +115,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -132,6 +134,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -140,8 +143,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -160,6 +163,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

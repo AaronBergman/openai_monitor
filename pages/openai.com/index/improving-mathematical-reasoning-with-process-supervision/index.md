@@ -116,15 +116,15 @@ Bowen Baker, Teddy Lee, John Schulman, Greg Brockman, Kendra Rimbach, Hannah Won
 
 [View all](</news/>)
 
-![Cloud astronaut](https://images.ctfassets.net/kftzwdyauwt9/f698e023-3373-4385-a039a7370270/29fdcfdd52fe5cf2b38deff2af34648f/VALERIECloudAstronaut.png?w=3840&q=90&fm=webp)
+![An imaginative scene with an astronaut sitting relaxed on a cloud above Earth, surrounded by a starry space background.](https://images.ctfassets.net/kftzwdyauwt9/f698e023-3373-4385-a039a7370270/29fdcfdd52fe5cf2b38deff2af34648f/VALERIECloudAstronaut.png?w=3840&q=90&fm=webp)
 
 [DALL·E 3 is now available in ChatGPT Plus and EnterpriseProductOct 19, 2023](</index/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise/>)
 
-![language models can explain neurons in language model](https://images.ctfassets.net/kftzwdyauwt9/3LNxX9CObAlTYvYJcituK5/fcc293879e4d33ed72b751750a3f8f79/language_models_can_explain_neurons_in_language_model.png?w=3840&q=90&fm=webp)
+![bstract digital painting with fiery orange and red tones above a field of blue, resembling a vibrant autumn forest.](https://images.ctfassets.net/kftzwdyauwt9/3LNxX9CObAlTYvYJcituK5/fcc293879e4d33ed72b751750a3f8f79/language_models_can_explain_neurons_in_language_model.png?w=3840&q=90&fm=webp)
 
 [Language models can explain neurons in language modelsPublicationMay 9, 2023](</index/language-models-can-explain-neurons-in-language-models/>)
 
-![Solving Some Formal Math Olympiad Problems](https://images.ctfassets.net/kftzwdyauwt9/107bb1e1-daad-40bf-85975dfa741c/57d987d185a7a46828ea203bb0132867/image-12_copy.png?w=3840&q=90&fm=webp)
+![An abstract expressionist painting with yellow, blue, and green.](https://images.ctfassets.net/kftzwdyauwt9/107bb1e1-daad-40bf-85975dfa741c/57d987d185a7a46828ea203bb0132867/image-12_copy.png?w=3840&q=90&fm=webp)
 
 [Solving (some) formal math olympiad problemsMilestoneFeb 2, 2022](</index/formal-math/>)
 
@@ -138,9 +138,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -159,7 +160,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -177,6 +179,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -185,8 +188,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -205,6 +208,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
