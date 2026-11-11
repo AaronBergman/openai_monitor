@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Detecting and classifying attacks faster with GPT-4.1 and OpenAI o3
-
-  * Detecting and classifying attacks faster with GPT-4.1 and OpenAI o3
-  * Classifying risk with best-fit models
-  * Taking precise, quick action with function calling 
-  * Leading Outtake’s model evaluations for accuracy and reasoning
-  * Outsmarting the next generation of attacks with OpenAI 
-
-
-
 July 24, 2025
 
 # Outtake’s agents resolve cybersecurity attacks in hours with OpenAI
@@ -47,6 +37,24 @@ Outtake’s cybersecurity agents automate detection and remediation with speed a
 Loading…
 
 Share
+
+Detecting and classifying attacks faster with GPT-4.1 and OpenAI o3
+
+  * Detecting and classifying attacks faster with GPT-4.1 and OpenAI o3
+  * Classifying risk with best-fit models
+  * Taking precise, quick action with function calling 
+  * Leading Outtake’s model evaluations for accuracy and reasoning
+  * Outsmarting the next generation of attacks with OpenAI 
+
+
+
+  * Detecting and classifying attacks faster with GPT-4.1 and OpenAI o3
+  * Classifying risk with best-fit models
+  * Taking precise, quick action with function calling 
+  * Leading Outtake’s model evaluations for accuracy and reasoning
+  * Outsmarting the next generation of attacks with OpenAI 
+
+
 
 As digital threats become more sophisticated and targeted, enterprise security teams are under pressure to respond to more alerts at a higher frequency.
 
@@ -102,15 +110,15 @@ As digital threats grow more sophisticated and scale in volume, Outtake is exten
 
 ## Keep reading
 
-![Invideo > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/3ENpuoD5KB8oejWnO6md1b/52f63a73ffd0928cc87b5e072205221c/oai_invideo_1x1.png?w=3840&q=90&fm=webp)
+![Invideo logo in white centered on a dark square background with colorful blue, pink, and red light streaks.](https://images.ctfassets.net/kftzwdyauwt9/3ENpuoD5KB8oejWnO6md1b/52f63a73ffd0928cc87b5e072205221c/oai_invideo_1x1.png?w=3840&q=90&fm=webp)
 
 [Invideo AI uses OpenAI models to create videos 10x fasterJul 17, 2025](</index/invideo-ai/>)
 
-![Genspark cover image](https://images.ctfassets.net/kftzwdyauwt9/34tn7du9Vq4ZJdFkFXMCam/fdcf963dec13094b0db74e7166ca116c/oai_Genspark_hero_1x1.png?w=3840&q=90&fm=webp)
+![Genspark logo in white against a backdrop of glittering, dark sand and rocks](https://images.ctfassets.net/kftzwdyauwt9/34tn7du9Vq4ZJdFkFXMCam/fdcf963dec13094b0db74e7166ca116c/oai_Genspark_hero_1x1.png?w=3840&q=90&fm=webp)
 
 [No-code personal agents, powered by GPT-4.1 and Realtime APIJul 1, 2025](</index/genspark/>)
 
-![Retell AI > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/3FFvZQe1XAebMCD2dir1T4/637ac9168f5cb5aa61b49cbaf6951fb1/oai_RetellAI_1x1__1_.png?w=3840&q=90&fm=webp)
+![ Retell AI logo with white text and icon on a blue background with raised circular patterns.](https://images.ctfassets.net/kftzwdyauwt9/3FFvZQe1XAebMCD2dir1T4/637ac9168f5cb5aa61b49cbaf6951fb1/oai_RetellAI_1x1__1_.png?w=3840&q=90&fm=webp)
 
 [Customizable, no-code voice agent automation with GPT-4oJun 26, 2025](</index/retell-ai/>)
 
@@ -124,9 +132,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -145,7 +154,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -163,14 +173,17 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -189,6 +202,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -196,6 +210,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

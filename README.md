@@ -1,5 +1,45 @@
 # openai_monitor
 
+## 2026-11-11T09-16Z
+
+**Fetch time:** 2026-11-11T09:17Z UTC (sitemap) / 09:17–09:20Z (1,933 pages, 0 failures) | **Baseline:** 2026-09-28T09-17Z (last run merged to `main`). The daily runs from 2026-09-29 to 2026-11-10 happened, but their PRs are still unmerged, so each run, including this one, re-diffs against the 2026-09-28 snapshot. To isolate today's news, this entry also compares against yesterday's unmerged snapshot (2026-11-10T09-16Z).
+
+**TL;DR:** The big news today is **"Businesses in ChatGPT"**, a beta launch (dated Nov 10) that lets companies **claim and verify their business listing inside ChatGPT**. Verified businesses get a blue check, can keep their details and product prices current, and can see how often ChatGPT mentions them. Eligible US e-commerce and online-service businesses can also launch a **Business Agent**, a branded chatbot customers can talk to inside ChatGPT, which businesses can **pay to promote through ChatGPT Ads**. Three new policy pages went up with it, and OpenAI's Service Terms and Ad Tools Terms were both rewritten the same day to cover it. It's the clearest step yet in OpenAI's ads and commerce push: ChatGPT is becoming a place where businesses list themselves and advertise, much like a search engine or Yelp. Also new today: an OpenAI–Upwork study of **AI's effect on freelance work**, a Veterans Day post (20,000+ veterans took up free ChatGPT Plus), a caregiver-workshop program, three customer stories, and **six healthcare plugins at once** (clinical answers, insurance verification, healthcare pricing). OpenAI also moved 13 pages to new URLs under `/business/` as part of an ongoing site reorganisation. Against the six-week-old merged baseline, the totals are 214 added, 1,719 updated and 29 removed. Most of that six-week change was already covered in the unmerged runs (GPT-6.1 Sol/Terra, "dots", DevDay recap, Google Cloud, acquisitions) and is summarised in the 2026-11-10 entry on that branch.
+
+### ⚠️ Anomalies
+
+- **13 URL relocations today:** these pages were removed and re-added at new addresses, not deleted. The five `/solutions/...` pages (financial services, retail, content creation, data analysis, knowledge retrieval) moved to `/business/solutions/...`. Six webinars and guides moved to `/business/learn/...`. The Ada and Blue J customer stories moved from `/index/` to `/business/customer-stories/`.
+- **A `<lastmod>` date went backwards:** [`/index/retell-ai/`](pages/openai.com/index/retell-ai/index.md) now claims it was last modified 2026-10-30, after yesterday's snapshot showed 2026-11-09. The page content is identical, so this looks like a CMS revert of the timestamp.
+- **Sub-sitemap moves:** today, `parallel-search` moved from the engineering-IT plugins sitemap to the productivity one. Cumulatively there are 9 such moves (mostly `/business/learn/*` pages leaving the catch-all `page` sitemap), which the 2026-11-10 run missed.
+- **Testimonial quotes gone from 10 article pages at once** (GPT-6 Astra, Google Cloud, Uber, ChatGPT for Financial Services, ServiceNow, and others). Because all 10 changed together, this is most likely a template change rather than edits to the articles. We'll re-check next run.
+- Cumulative vs the merged baseline: 55 "backdated" new URLs (almost all explained by the six-week merge gap), 3 URLs that disappeared and came back (`/business/plugins/alpaca/`, now "Alpaca Live"; `/form/codex-ambassadors/`; `/policies/row-privacy-policy/`), and a new `learn-demos` sub-sitemap. No future-dated `<lastmod>` values.
+
+Full detail in [`runs/2026-11-11T09-16Z/analysis.md`](runs/2026-11-11T09-16Z/analysis.md).
+
+### Notable additions
+
+- **[Introducing Businesses in ChatGPT](pages/openai.com/index/introducing-businesses-chatgpt/index.md)** and the landing page **[Your business, in ChatGPT](pages/openai.com/business/businesses-in-chatgpt/index.md)**: businesses claim their listing in a new "Business Hub" and get a blue check, product feeds, mention and click insights, and an optional Business Agent that can be sponsored through ChatGPT Ads. OpenAI says claiming "does not guarantee higher placement" and that user chats aren't shared with businesses. Policies: [Businesses in ChatGPT](pages/openai.com/policies/businesses-in-chatgpt/index.md), [Business Agents](pages/openai.com/policies/business-agents-policy/index.md), [Terms](pages/openai.com/policies/businesses-in-chatgpt-terms/index.md).
+- **[Work at the Frontier: AI's effect on freelance work](pages/openai.com/index/ai-effect-on-freelance-work/index.md)**: OpenAI and Upwork research finding shifting demand among freelance categories, and AI-related postings with more varied skills and bigger budgets.
+- **[ChatGPT Plus for veterans and servicemembers](pages/openai.com/index/chatgpt-plus-for-veterans/index.md)** (Veterans Day): 20,000+ veterans have claimed a free year of Plus. **[Helping caregivers use AI](pages/openai.com/index/helping-caregivers-use-ai-in-everyday-life/index.md)**: free workshops in 5 US cities with the Alzheimer's Association, the American Diabetes Association and the Caregiver Action Network.
+- Customer stories: [Cogent Security](pages/openai.com/index/cogent-security/index.md) (AI agents that fix security vulnerabilities, 75% faster remediation), [Singapore Airlines](pages/openai.com/index/singapore-airlines-travel-work/index.md) (customer satisfaction doubled with the Kris chatbot), [Gilbert + Tobin CEO interview](pages/openai.com/index/gilbert-tobin-sam-nickless/index.md).
+- **Healthcare plugin batch:** [Aiva](pages/openai.com/business/plugins/aiva/index.md), [Luma Health](pages/openai.com/business/plugins/luma-health/index.md), [Stedi](pages/openai.com/business/plugins/stedi/index.md), [Subsalt](pages/openai.com/business/plugins/subsalt/index.md), [Turquoise](pages/openai.com/business/plugins/turquoise-health/index.md), [UpToDate Expert AI](pages/openai.com/business/plugins/uptodate-expert-ai/index.md).
+
+### Notable updates
+
+- **[Service Terms](pages/openai.com/policies/service-terms/index.md)** (now "Updated: November 10, 2026"): the GPT rules now also cover "Business Agents", and a new §16 "Businesses in ChatGPT" was added. **[Ad Tools Terms](pages/openai.com/policies/ad-tools-terms/index.md)** (re-published Nov 10): the old "Business Agents" clause was replaced by a pointer to the new Businesses in ChatGPT Terms. The **[policies index](pages/openai.com/policies/index.md)** lists the three new policies and no longer lists the Sora image/video policy page.
+- [`/business/`](pages/openai.com/business/index.md) and the [small-business page](pages/openai.com/business/why-openai/small-business/index.md) now promote Businesses in ChatGPT. [`/business/pricing/`](pages/openai.com/business/pricing/index.md) dropped its Rosalind Academic Plan mention.
+- Plugin renames: Supermetrics is now "Supermetrics Marketing Agent" (adds social posting and comment replies), and Alpaca is now "Alpaca Live".
+- Of 294 `<lastmod>` bumps since yesterday, 155 had no visible change and most of the rest were "Keep reading" carousels rotating in today's posts.
+
+### Removed pages
+
+Today: 13 URLs, all relocated (see Anomalies). Cumulative vs the merged baseline: 29, which adds the 16 reported on 2026-11-10 (seven `/business/partners/*` pages, five plugin renames, `/prism/`, `/form/ultrafast/`, `/daybreak/partners-new/`, `/economic-research-exchange/`). Last snapshots are in git history.
+
+_Stats: 2170 total URLs | 214 added | 1719 updated | 29 removed | 82 anomalies | 43 sub-sitemaps (vs merged baseline 2026-09-28). Since the 2026-11-10 snapshot: +30 / 294 lastmod bumps (139 with rendered changes) / −13._
+
+---
+
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

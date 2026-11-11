@@ -26,16 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Why unsupervised learning?
-
-  * Why unsupervised learning?
-  * Drawbacks
-  * Future
-  * Appendix: Dataset examples
-  * Compute
-
-
-
 June 11, 2018
 
 [Milestone](</research/index/milestone/>)
@@ -51,6 +41,24 @@ Illustration: Ben Barry
 Loading…
 
 Share
+
+Why unsupervised learning?
+
+  * Why unsupervised learning?
+  * Drawbacks
+  * Future
+  * Appendix: Dataset examples
+  * Compute
+
+
+
+  * Why unsupervised learning?
+  * Drawbacks
+  * Future
+  * Appendix: Dataset examples
+  * Compute
+
+
 
 We’ve obtained state-of-the-art results on a suite of diverse language tasks with a scalable, task-agnostic system, which we’re also releasing. Our approach is a combination of two existing ideas: [transformers⁠(opens in a new window)](<https://arxiv.org/abs/1706.03762>) and [unsupervised pre-training⁠(opens in a new window)](<https://arxiv.org/abs/1511.01432>). These results provide a convincing example that pairing supervised learning methods with unsupervised pre-training works very well; this is an idea that many have explored in the past, and we hope our result motivates further research into applying this idea on larger and more diverse datasets.
 
@@ -99,16 +107,22 @@ Our work is also a validation of the robustness and usefulness of the transforme
 This project has a few outstanding issues which are worth noting:
 
   * **Compute Requirements** : Many previous approaches to NLP tasks train relatively small models on a single GPU from scratch. Our approach requires an expensive pre-training step—1 month on 8 GPUs. Luckily, this only has to be done once and we’re releasing our model so others can avoid it. It is also a large model (in comparison to prior work) and consequently uses more compute and memory—we used a 37-layer (12 block) Transformer architecture, and we train on sequences of up to 512 tokens. Most experiments were conducted on 4 and 8 GPU systems. The model does fine-tune to new tasks very quickly which helps mitigate the additional resource requirements.
+
   * **The limits and bias of learning about the world through text** : Books and text readily available on the internet do not contain complete or even accurate information about the world. [Recent work⁠(opens in a new window)](<https://arxiv.org/abs/1705.11168>) has shown that certain kinds of information are difficult to learn via just text and [other work⁠(opens in a new window)](<https://arxiv.org/abs/1803.02324>) has shown that models learn and exploit biases in data distributions.
+
   * **Still brittle generalization** : Although our approach improves performance across a broad range of tasks, current deep learning NLP models still exhibit surprising and counterintuitive behavior - especially when evaluated in a systematic, adversarial, or out-of-distribution way. Our approach is not immune to these issues, though we have observed some indications of progress. Our approach shows improved lexical robustness over previous purely neural approaches to textual entailment. On the dataset introduced in [Glockner et al. (2018)⁠(opens in a new window)](<https://arxiv.org/abs/1805.02266>) our model achieves 83.75%, performing similarly to [KIM⁠(opens in a new window)](<https://arxiv.org/abs/1711.04289>), which incorporates external knowledge via WordNet.
+
 
 
 
 ## Future
 
   * **Scaling the approach** : We’ve observed that improvements in the performance of the language model are well correlated with improvements on downstream tasks. We’re currently using commodity hardware (a single 8 GPU machine) and a training dataset of only a few thousand books (~5GB of text). This suggests there is significant room for improvement using the well-validated approach of more compute and data.
+
   * **Improved fine-tuning** : Our approach is currently very simple. It is likely that substantial improvements can be made using more intricate adaptation and transfer techniques such as those explored in [ULMFiT⁠(opens in a new window)](<https://arxiv.org/abs/1801.06146>).
+
   * **Better understanding of why generative pre-training helps** : Although we’ve discussed some ideas we are partial to here, more targeted experiments and research will help distinguish between competing explanations. For instance, how much of the benefits we observe are due to improved ability to process broader context versus improved world knowledge?
+
 
 
 
@@ -150,15 +164,15 @@ Alec Radford
 
 [View all](</news/>)
 
-![Disrupting malicious > media](https://images.ctfassets.net/kftzwdyauwt9/5080983d-9c4d-4479-17e421d7380a/0b42f77c2478bc5bc7bde3fddfc68462/45.png?w=3840&q=90&fm=webp)
+![Painterly depiction of a vibrant orange flower on a stem, rendered with a soft focus and warm yellow tones.](https://images.ctfassets.net/kftzwdyauwt9/5080983d-9c4d-4479-17e421d7380a/0b42f77c2478bc5bc7bde3fddfc68462/45.png?w=3840&q=90&fm=webp)
 
 [Disrupting malicious uses of AI by state-affiliated threat actorsSecurityFeb 14, 2024](</index/disrupting-malicious-uses-of-ai-by-state-affiliated-threat-actors/>)
 
-![](https://images.ctfassets.net/kftzwdyauwt9/ec66425e-99ca-4314-d04b087f8727/de7341b6a5281c2a220b93a737ce19b0/building-an-early-warning-system-for-llm-aided-biological-threat-creation.jpg?w=3840&q=90&fm=webp)
+![Sweeping strokes of orange, yellow, and purple in an abstract design](https://images.ctfassets.net/kftzwdyauwt9/ec66425e-99ca-4314-d04b087f8727/de7341b6a5281c2a220b93a737ce19b0/building-an-early-warning-system-for-llm-aided-biological-threat-creation.jpg?w=3840&q=90&fm=webp)
 
 [Building an early warning system for LLM-aided biological threat creationPublicationJan 31, 2024](</index/building-an-early-warning-system-for-llm-aided-biological-threat-creation/>)
 
-![Democratic Inputs To AI Grant Program Update](https://images.ctfassets.net/kftzwdyauwt9/f50ce1d2-4f61-4ed2-e560c624d631/6f4dd4542898a35d0a91b137f85c9834/Democratic_inputs_to_AI_grant_program_lessons_learned_and_implementation_plans.jpg?w=3840&q=90&fm=webp)
+![Abstract floral pattern with vibrant purple blooms on a green backdrop](https://images.ctfassets.net/kftzwdyauwt9/f50ce1d2-4f61-4ed2-e560c624d631/6f4dd4542898a35d0a91b137f85c9834/Democratic_inputs_to_AI_grant_program_lessons_learned_and_implementation_plans.jpg?w=3840&q=90&fm=webp)
 
 [Democratic inputs to AI grant program: lessons learned and implementation plansSafetyJan 16, 2024](</index/democratic-inputs-to-ai-grant-program-update/>)
 
@@ -172,9 +186,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -193,7 +208,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -211,14 +227,17 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -237,6 +256,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -244,6 +264,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

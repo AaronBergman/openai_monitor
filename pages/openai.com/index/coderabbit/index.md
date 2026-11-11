@@ -26,15 +26,6 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-Shifting AI from code generation to code review
-
-  * Shifting AI from code generation to code review
-  * Unblocking reviews with OpenAI models
-  * 50% more accurate suggestions and faster PR merges
-  * Delivering 4x speed, 50% fewer bugs, and 60x ROI
-
-
-
 May 22, 2025
 
 # CodeRabbit improves code review accuracy with OpenAI o3, o4-mini, and GPT‑4.1
@@ -44,6 +35,22 @@ With OpenAI, CodeRabbit helps developers ship 4x faster and cut production bugs 
 ![CodeRabbit logo in white on a background of golden fur](https://images.ctfassets.net/kftzwdyauwt9/58bbhh5HNlixQtiURY2dmv/49f7b3e0a12f36db3ba706ca4d021693/oai_Coderabbit_hero_16x9.png?w=3840&q=90&fm=webp)
 
 Share
+
+Shifting AI from code generation to code review
+
+  * Shifting AI from code generation to code review
+  * Unblocking reviews with OpenAI models
+  * 50% more accurate suggestions and faster PR merges
+  * Delivering 4x speed, 50% fewer bugs, and 60x ROI
+
+
+
+  * Shifting AI from code generation to code review
+  * Unblocking reviews with OpenAI models
+  * 50% more accurate suggestions and faster PR merges
+  * Delivering 4x speed, 50% fewer bugs, and 60x ROI
+
+
 
 [ _CodeRabbit_ ⁠(opens in a new window)](<https://www.coderabbit.ai/>) was launched in 2023 by a team of former engineering leaders who had felt the pain of slow, manual code reviews firsthand. While AI made it easier to write code, there weren’t tools to solve the biggest bottleneck: getting code shipped.
 
@@ -72,8 +79,11 @@ When a developer submits a pull request, CodeRabbit clones the repository into a
 CodeRabbit’s system uses a combination of OpenAI models for different tasks:
 
   * **o4-mini and o3** : use reasoning-heavy capabilities to power tasks like multi-line bugs and code refactors or architecture issues across files
+
   * **GPT4.1** : leverage the 1M token context window for review summarization, docstring generation, and routine QA checks
+
   * **Customized LLM prompts** : include each customer’s code review requirements, security posture, and best practices to validate
+
 
 
 
@@ -88,8 +98,11 @@ CodeRabbit also recently launched integration into Visual Studio (VS) Code, allo
 Since adopting OpenAI’s o3 model, CodeRabbit has achieved measurable improvements:
 
   * **50% increase in accurate suggestions** : CodeRabbit’s reviews are significantly more precise, helping developers focus on meaningful issues without getting bogged down by unnecessary feedback​.
+
   * **Improved pull request merge rates** : More accurate code reviews have accelerated PR merges, streamlining development workflows for enterprise clients​.
+
   * **Higher customer satisfaction** : The reduction in false positives and improved code insights have led to greater customer satisfaction, especially among enterprises dealing with complex codebases​.
+
 
 
 
@@ -100,8 +113,11 @@ CodeRabbit continues to benchmark OpenAI’s models against competitors like Son
 Developers using CodeRabbit already shipping code more quickly, with fewer errors, and freeing up time to focus on harder engineering problems:
 
   * **25-50% faster pull request cycles** : “If it used to take an hour to get a PR out,” Bansal says, “you’re doing it in 30-45 minutes with CodeRabbit.”
+
   * **50% fewer bugs in production** : Customers report significant reductions in escaped defects after implementing CodeRabbit’s AI-powered reviews.
+
   * **20-60x ROI** : By reducing manual labor, improving reliability, and speeding up release cycles, CodeRabbit delivers measurable business impact.
+
 
 
 
@@ -113,17 +129,17 @@ CodeRabbit is continuing to scale adoption and expand its in-IDE support, making
 
 ## Keep reading
 
-![Confidential submission of draft S-1 to the SEC > cover image](https://images.ctfassets.net/kftzwdyauwt9/36doI12YCwUtp1hzD4d8bj/84e67c565f39e7d5ca3ee011efa69756/confidential-submission-of-draft-s-1-to-the-sec-1x1.png?w=3840&q=90&fm=webp)
+![Executive Function Episode 21 — Cover](https://images.ctfassets.net/kftzwdyauwt9/HIYdv6bQSaXtHQehqsoMn/0d0fddcbf9618f4d676236799dce3934/EF_Ep21_1.1.png?w=3840&q=90&fm=webp)
 
-[Confidential submission of draft S-1 to the SECCompanyJun 8, 2026](</index/openai-submits-confidential-s-1/>)
+[Gilbert + Tobin rethinks the business of law with AINov 12, 2026](</index/gilbert-tobin-sam-nickless/>)
 
-![Built for broad benefit > cover](https://images.ctfassets.net/kftzwdyauwt9/bEe28mW3dEOj9pKJsPp2u/13f7bed9e86b0667ba924479d62f98e4/Art_Card_1080x1080_1.png?w=3840&q=90&fm=webp)
+![ChatGPT for Veterans > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2xsjEAOhgideekNE2Xxxqk/fe4d5c8aecf7d6498d1e8026a5a56599/oai_GA_Stories_1.1.png?w=3840&q=90&fm=webp)
 
-[Built to benefit everyone: our planCompanyJun 8, 2026](</index/built-to-benefit-everyone-our-plan/>)
+[ChatGPT Plus for veterans and servicemembersCompanyNov 11, 2026](</index/chatgpt-plus-for-veterans/>)
 
-![Economic research forum > art card ](https://images.ctfassets.net/kftzwdyauwt9/2DpNjvjdVuCrLKNOrFrWJ7/1aefe1cbe252bcd9ba42035469fc8a0f/art_card.png?w=3840&q=90&fm=webp)
+![Helping caregivers use AI in everyday life — Cover](https://images.ctfassets.net/kftzwdyauwt9/2wwJf21F4rMJ6FffmYbEa5/0e9a21de969e280e77ae8ae66eaa03f6/helping-caregivers-use-ai-in-everyday-life-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing the OpenAI Economic Research ExchangeCompanyJun 8, 2026](</index/economic-research-exchange/>)
+[Helping caregivers use AI in everyday lifeCompanyNov 10, 2026](</index/helping-caregivers-use-ai-in-everyday-life/>)
 
 Research
 
@@ -135,9 +151,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -156,7 +173,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -174,14 +192,17 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -200,6 +221,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -207,6 +229,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)
