@@ -45,7 +45,7 @@ Developer
 Website
     [(opens in a new window)](<https://legora.com>)
 
-[![](https://files.openai.com/content?id=file_00000000cd8081fc9f95e0e65cfcab24&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=ed890962a5953259741629667abc29cb1e8e20e64a980d0fed9ca8fc1134f24b&v=0)Legora Ask Legora to summarize the key legal issues in a document and provide a link back to the Legora thread for citation review.(opens in a new window)](<https://chatgpt.com/?prompt=%40Legora+Ask+Legora+to+summarize+the+key+legal+issues+in+a+document+and+provide+a+link+back+to+the+Legora+thread+for+citation+review.>)
+[![](https://files.openai.com/content?id=file_00000000cd8081fc9f95e0e65cfcab24&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=ed890962a5953259741629667abc29cb1e8e20e64a980d0fed9ca8fc1134f24b&v=0)Legora Ask Legora to summarize the key legal issues in a document and provide a link back to the Legora thread for citation review.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a8f4e884cd081a49d91eeabec7efa87?install&prompt=Ask%20Legora%20to%20summarize%20the%20key%20legal%20issues%20in%20a%20document%20and%20provide%20a%20link%20back%20to%20the%20Legora%20thread%20for%20citation%20review.>)
 
 ## How it works
 
@@ -57,19 +57,19 @@ Bring Legora’s legal intelligence into ChatGPT. The Legora MCP server supports
 
 ![](https://files.openai.com/content?id=file_00000000cd8081fc9f95e0e65cfcab24&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=ed890962a5953259741629667abc29cb1e8e20e64a980d0fed9ca8fc1134f24b&v=0)Legora Review the NDA clause text below under [jurisdiction] law. Rank the three most material risks, explain their business impact, and suggest questions for counsel. Include a Legora link for citation review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Legora+Review+the+NDA+clause+text+below+under+%5Bjurisdiction%5D+law.+Rank+the+three+most+material+risks%2C+explain+their+business+impact%2C+and+suggest+questions+for+counsel.+Include+a+Legora+link+for+citation+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a8f4e884cd081a49d91eeabec7efa87?install&prompt=Review%20the%20NDA%20clause%20text%20below%20under%20%5Bjurisdiction%5D%20law.%20Rank%20the%20three%20most%20material%20risks%2C%20explain%20their%20business%20impact%2C%20and%20suggest%20questions%20for%20counsel.%20Include%20a%20Legora%20link%20for%20citation%20review.&surface=work>)
 
   * ### Assess a legislative change
 
 ![](https://files.openai.com/content?id=file_00000000cd8081fc9f95e0e65cfcab24&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=ed890962a5953259741629667abc29cb1e8e20e64a980d0fed9ca8fc1134f24b&v=0)Legora Research how [law or amendment] affects the clause text below in [jurisdiction] as of [date]. Summarize material changes, effective dates, and revision priorities, with a Legora link for citation review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Legora+Research+how+%5Blaw+or+amendment%5D+affects+the+clause+text+below+in+%5Bjurisdiction%5D+as+of+%5Bdate%5D.+Summarize+material+changes%2C+effective+dates%2C+and+revision+priorities%2C+with+a+Legora+link+for+citation+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a8f4e884cd081a49d91eeabec7efa87?install&prompt=Research%20how%20%5Blaw%20or%20amendment%5D%20affects%20the%20clause%20text%20below%20in%20%5Bjurisdiction%5D%20as%20of%20%5Bdate%5D.%20Summarize%20material%20changes%2C%20effective%20dates%2C%20and%20revision%20priorities%2C%20with%20a%20Legora%20link%20for%20citation%20review.&surface=work>)
 
   * ### Compare market entry requirements
 
 ![](https://files.openai.com/content?id=file_00000000cd8081fc9f95e0e65cfcab24&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=8&sig=ed890962a5953259741629667abc29cb1e8e20e64a980d0fed9ca8fc1134f24b&v=0)Legora Compare [business activity] requirements in [jurisdiction A] and [jurisdiction B] as of [date]. Produce a decision brief on key obligations, material differences, and unresolved questions, with Legora links for citation review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Legora+Compare+%5Bbusiness+activity%5D+requirements+in+%5Bjurisdiction+A%5D+and+%5Bjurisdiction+B%5D+as+of+%5Bdate%5D.+Produce+a+decision+brief+on+key+obligations%2C+material+differences%2C+and+unresolved+questions%2C+with+Legora+links+for+citation+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a8f4e884cd081a49d91eeabec7efa87?install&prompt=Compare%20%5Bbusiness%20activity%5D%20requirements%20in%20%5Bjurisdiction%20A%5D%20and%20%5Bjurisdiction%20B%5D%20as%20of%20%5Bdate%5D.%20Produce%20a%20decision%20brief%20on%20key%20obligations%2C%20material%20differences%2C%20and%20unresolved%20questions%2C%20with%20Legora%20links%20for%20citation%20review.&surface=work>)
 
 
 
@@ -84,11 +84,11 @@ Bring Legora’s legal intelligence into ChatGPT. The Legora MCP server supports
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://support.legora.com>)
+### [Plugin supportLearn more(opens in a new window)](<https://support.legora.com>)
 
-### [Privacy policyLearn more](<https://legora.com/legal/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://legora.com/legal/privacy-policy>)
 
 ## Add the Legora plugin in a few clicks
 
@@ -106,6 +106,16 @@ Bring your organization’s data and tools into OpenAI products and accelerate w
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
 
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
+
 Research
 
   * [Research Index](</research/index/>)
@@ -116,10 +126,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -217,16 +229,16 @@ EnglishUnited States
 
 Browse for plugins that support your team’s tools and tasks.
 
-![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/2jqkTQJ2Vae2cDvApwjWbv/114f8094264b251a25199e96d36f0461/plugins_1.png?w=3840&q=90&fm=webp)
 
 ### 2Install and connect2Install and connect
 
 Install the plugin, then follow the prompts to review permissions and connect any required apps.
 
-![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/5iBYEOE8sKrm8lebUKnhWT/9dab229e6349d43666420ea5ca0ef084/plugins_2.png?w=3840&q=90&fm=webp)
 
 ### 3Put it to work3Put it to work
 
 Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
 
-![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/7edxmffWzWeYqCBBoGeGy4/94ca943f1a14a78cb14f5e25d875901d/plugins_3.png?w=3840&q=90&fm=webp)

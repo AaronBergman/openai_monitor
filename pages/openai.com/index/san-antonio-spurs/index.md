@@ -93,11 +93,17 @@ Kurian and his team introduced ChatGPT Enterprise in phases, beginning with 150 
 With a strong foundation in place, teams across the San Antonio Spurs began creating GPTs that solve specific business problems in community outreach, operations, partnerships, and fan engagement. Dozens are already in use:
 
   * **Fan Voice GPT** : Business intelligence analyst Daniel Arzouman built a custom GPT that scans thousands of post-game comments and delivers sentiment summaries in minutes. “What took hours now takes minutes,” Arzouman says. “We quickly see where experiences shine, what to improve, and why it matters emotionally.”
+
   * **Transformative Leadership GPT** : Learning and development manager Sarah Cardenas built a GPT that tailors leadership workshop content to local cultures. “Programming that once required weeks now takes hours,” she notes. “Our workshops resonate more deeply and extend our cultural impact.”
+
   * **Counterfeit Merchandise GPT** : Andre Moyce, a retail strategist with the Spurs, uses ChatGPT to flag suspicious resale listings by matching images and details against official Spurs inventory data. “Before I had to build all financial planning documents manually and validate them in a vacuum,” he says. “ChatGPT speeds up the entire process. Some future projects wouldn’t have been possible without it.”
+
   * **Spurs Culture GPT** : Trained on a 50-part docuseries, it helps staff weave team values, voice, and milestones into everyday work.
+
   * **Partnership Insights GPT** : This GPT converts complex sponsorship data into clear, actionable insights, empowering partners to maximize visibility, media value, and brand impact with precision.
+
   * **Cultivating Conversations through Feedback GPT** : A custom GPT that equips staff with conversation frameworks and toolkits grounded in Spurs University psychological safety content, effective feedback, and DISC profiles.
+
 
 
 
@@ -110,9 +116,13 @@ Fan Voice GPTSS&E Transformative Leadership GPT
 By prioritizing comfort and fluency rather than usage quotas, the San Antonio Spurs saw rapid returns in months:
 
   * AI fluency jumped from 14% to more than 85%
+
   * Employees save over 1,800 hours each month
+
   * GPT solutions now engage fans in Spanish and French
+
   * 94% of users report greater confidence with LLM tools
+
 
 
 
@@ -139,7 +149,9 @@ Inside the organization they are moving from exploration to enablement: supporti
 The San Antonio Spurs’ [_adoption model_ ⁠(opens in a new window)](<https://sse.spurs.com/ai-playbook>) comes down to two transferable principles:
 
   * Partner with a team that understands both the technology and your culture
+
   * Choose a tool that feels intuitive on day one
+
 
 
 
@@ -155,17 +167,17 @@ Buford has guided the club through decades of change, from pioneering internatio
 
 ## Keep reading
 
-![The builder’s guide to GPT-5.6 — Card image — Neutral Option 075](https://images.ctfassets.net/kftzwdyauwt9/4jmIFt2vH2c51Fj99rAiqH/bf22866b22d59f6230785fe304fee20c/the-builders-guide-to-gpt-5-6-option-075-card.png?w=3840&q=90&fm=webp)
+![Executive Function Episode 21 — Cover](https://images.ctfassets.net/kftzwdyauwt9/HIYdv6bQSaXtHQehqsoMn/0d0fddcbf9618f4d676236799dce3934/EF_Ep21_1.1.png?w=3840&q=90&fm=webp)
 
-[The builder’s guide to GPT‑5.6Applied AIAug 13, 2026](</index/builders-guide-to-gpt-5-6/>)
+[Gilbert + Tobin rethinks the business of law with AINov 12, 2026](</index/gilbert-tobin-sam-nickless/>)
 
-![Previewing Ultrafast mode — clean cover](https://images.ctfassets.net/kftzwdyauwt9/74UiHrTiZoKnbvpopDTG1s/d33291d426eac29a4a5c0563e717376d/previewing-ultrafast-mode--cover-1080x1080-v001.png?w=3840&q=90&fm=webp)
+![ChatGPT for Veterans > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2xsjEAOhgideekNE2Xxxqk/fe4d5c8aecf7d6498d1e8026a5a56599/oai_GA_Stories_1.1.png?w=3840&q=90&fm=webp)
 
-[Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speedProductAug 13, 2026](</index/previewing-ultrafast/>)
+[ChatGPT Plus for veterans and servicemembersCompanyNov 11, 2026](</index/chatgpt-plus-for-veterans/>)
 
-![Dali Rajic > Article card](https://images.ctfassets.net/kftzwdyauwt9/5XuPL3BI8tkye6ojCL91Kc/74884b051d5c1a553cae8d3b952c79fe/dali-rajic-article-card-square-crop-v3.png?w=3840&q=90&fm=webp)
+![Helping caregivers use AI in everyday life — Cover](https://images.ctfassets.net/kftzwdyauwt9/2wwJf21F4rMJ6FffmYbEa5/0e9a21de969e280e77ae8ae66eaa03f6/helping-caregivers-use-ai-in-everyday-life-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI appoints Dali Rajic as Chief Revenue OfficerCompanyAug 13, 2026](</index/dali-rajic-chief-revenue-officer/>)
+[Helping caregivers use AI in everyday lifeCompanyNov 10, 2026](</index/helping-caregivers-use-ai-in-everyday-life/>)
 
 Research
 
@@ -177,9 +189,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -198,7 +211,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -216,6 +230,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -224,8 +239,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -244,6 +259,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
