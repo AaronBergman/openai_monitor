@@ -51,7 +51,7 @@ Add plugins to extend what ChatGPT Work can do. Plugins connect customer and cam
   * [![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)![](https://files.openai.com/content?id=file_00000000994081fd9df560367dfe54f4&cdn=1&cp=pi&ma=32745600&ts=0&p=pi&cid=8&sig=55e9028947fbc7ea3284b715ca95e34f797efbc5c4e0e47a9b2b0509d787308d&v=0)Slack](</business/plugins/slack/>)
   * [![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)![](https://files.openai.com/content?id=file_00000000ed1481f78f9a3258f4550543&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=5597c988d52ec699251bc1c8978153b96ff8b82c6227c6388fcbeca824ace455&v=0)BigQuery](</business/plugins/bigquery/>)
   * [![](https://files.openai.com/content?id=file_00000000ed5071f7ac257032bcf8cc5d&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=5c39ec3d859bcbd5a64f66e922b81ef025929d041ece54ba8405ee30c2cb46be&v=0)![](https://files.openai.com/content?id=file_000000006914720ca7a34247e1112b83&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=5d06aac0f128e7c36a59adf200cc7a34308389a908a9967caef1163d3c75c06f&v=0)Airtable](</business/plugins/airtable/>)
-  * [![](https://files.openai.com/content?id=file_000000005ee871f88f1bfd73ad777a90&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=df0e9e02b8a5bfd8995607513d9e3bab6e2c60df30c2542878eab19896af6a5b&v=0)![](https://files.openai.com/content?id=file_000000005ee871f88f1bfd73ad777a90&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=df0e9e02b8a5bfd8995607513d9e3bab6e2c60df30c2542878eab19896af6a5b&v=0)Monday.com](</business/plugins/monday-com/>)
+  * [![](https://files.openai.com/content?id=file_000000005ee871f88f1bfd73ad777a90&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=df0e9e02b8a5bfd8995607513d9e3bab6e2c60df30c2542878eab19896af6a5b&v=0)![](https://files.openai.com/content?id=file_000000005ee871f88f1bfd73ad777a90&cdn=1&cp=pi&ma=32140800&ts=0&p=pi&cid=1&sig=df0e9e02b8a5bfd8995607513d9e3bab6e2c60df30c2542878eab19896af6a5b&v=0)monday.com](</business/plugins/monday-com/>)
   * [![](https://files.openai.com/content?id=file_000000001c74722fbf559d66b947677a&cdn=1&cp=pi&ma=30758400&ts=0&p=pi&cid=1&sig=c3949f45a99526b86e23253607118e8e4a255ccfa0d5b10d2a7e57c92d57e295&v=0)![](https://files.openai.com/content?id=file_0000000058f881f79ad4d119015bfa7c&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=7ad389ade1c1fb108f1aa27b3c107e33432079c726d59206f69159c7d103502d&v=0)Klaviyo](</business/plugins/klaviyo/>)
   * [![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)Semrush](</business/plugins/semrush/>)
 
@@ -95,7 +95,7 @@ Bring approved product information, customer research, and campaign goals togeth
 
 Using our product roadmap, customer research, and launch brief, propose three distinct campaign directions. Explain the audience insight, brand fit, tradeoffs, and recommended direction. 
 
-[Try in ChatGPT(opens in a new window)](<https://chatgpt.com/?surface=work&q=Using+our+product+roadmap%2C+customer+research%2C+and+launch+brief%2C+propose+three+distinct+campaign+directions.+Explain+the+audience+insight%2C+brand+fit%2C+tradeoffs%2C+and+recommended+direction.>)
+[Try in ChatGPT(opens in a new window)](<https://chatgpt.com/?prompt=Using%20our%20product%20roadmap%2C%20customer%20research%2C%20and%20launch%20brief%2C%20propose%20three%20distinct%20campaign%20directions.%20Explain%20the%20audience%20insight%2C%20brand%20fit%2C%20tradeoffs%2C%20and%20recommended%20direction.&surface=work>)
 
 ## Reach customers as decisions take shape in ChatGPT
 
@@ -176,6 +176,16 @@ Give your team room to understand customers, pursue strong ideas, and bring dist
 
 Get started
 
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
+
 Research
 
   * [Research Index](</research/index/>)
@@ -186,10 +196,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -208,7 +218,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -235,8 +246,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -255,6 +266,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -1,5 +1,38 @@
 # openai_monitor
 
+## 2026-11-12T09-16Z
+
+**Fetch time:** 2026-11-12T09:16Z UTC (sitemap) / ~09:17–09:22Z (1,934 pages, 0 failures) | **Baseline:** 2026-09-28T09-17Z (last run merged to `main`). The daily runs from 2026-09-29 to 2026-11-11 happened, but their PRs are unmerged, so the formal diff is cumulative over about six weeks. This entry focuses on what changed since yesterday's unmerged snapshot (2026-11-11T09-16Z).
+
+**TL;DR:** A quiet day after yesterday's "Businesses in ChatGPT" launch. Since yesterday there is one new page, no removals and no anomalies. The new page is an interview with **JioStar's chief architect** about building a voice-driven movie-and-cricket discovery assistant on the OpenAI API: 500M+ users, 15+ languages, built in about eight weeks, and 60%+ of users talk instead of type. Three updates had real content. The **DevDay 2026 hub** posted eight more session descriptions, including a Codex run "that spent over 1,000 hours keeping builds and tests passing", an "Agents API" for running the Codex harness yourself, and an open-source Codex Security CLI/SDK. The **release notes** now list **Business Hub in ChatGPT as GA** (generally available) as of Nov 10, though the launch post called it a beta, and they name **Persona** as the identity-verification provider. The **Veterans Day post** dropped "As Veterans Day approaches" now that the day has passed. The other 24 `<lastmod>` bumps changed nothing visible.
+
+### Anomalies
+
+- **Since yesterday: none.** No future-dated or backwards `<lastmod>`, no removals, no reappearances, no sub-sitemap moves. The count stayed at 43 sub-sitemaps.
+- Cumulative vs the 2026-09-28 merged baseline: 83 flagged, all already reported by the unmerged runs. These are 56 "backdated" new URLs (artifacts of the merge gap, not OpenAI backdating), 23 sub-sitemap re-categorisations (mostly `/business/learn/*` pages and five plugins), 3 URLs that disappeared and came back (`/business/plugins/alpaca/`, `/form/codex-ambassadors/`, `/policies/row-privacy-policy/`), and the `learn-demos` sub-sitemap.
+
+Full detail in [`runs/2026-11-12T09-16Z/analysis.md`](runs/2026-11-12T09-16Z/analysis.md).
+
+### Notable additions
+
+- **[JioStar's chief architect on AI discovery at 500M-user scale](pages/openai.com/index/jiostar-vijay-seshadri/index.md)** (dated Nov 11): an "Executive Function" interview from OpenAI's Singapore Executive Summit. JioStar (JioHotstar) built a voice-plus-visual assistant for finding shows, live-match moments and cricket stats. Its peak is 72.5M concurrent viewers. Lessons from the interview: "evals, evals, and evals", using one model to check another (LLM-as-judge), setting guardrails first, and monitoring model quality in production. OpenAI forward-deployed engineers helped, and Codex was used to generate eval cases.
+
+### Notable updates
+
+- **[`/devday/2026/`](pages/openai.com/devday/2026/index.md):** eight new session cards. Topics: plugins for ChatGPT **and Codex**; long-running coding agents (a 1,000+ hour Codex run); "Harness-as-a-Service" via the Agents API; ChatGPT Sites/WebMCP web apps; agent architectures after loops; Codex Security with an open-source CLI and SDK; and building with GPT‑Live voice plus image generation.
+- **[Release notes](pages/openai.com/products/release-notes/index.md):** new Nov 10 entry, "Business Hub in ChatGPT", tagged **GA**. Businesses claim their listing, pass **Persona** ID verification, then publish info, connect a product feed and see mentions and clicks. Eligible US e-commerce and online-service businesses can create a business agent.
+- [Veterans post](pages/openai.com/index/chatgpt-plus-for-veterans/index.md): removed "As Veterans Day approaches". [Australian universities post](pages/openai.com/index/australian-universities-ai-native-graduates/index.md): footnote formatting only.
+- 24 more `<lastmod>` bumps had no visible change. Among them, yesterday's six new healthcare plugins and the `/business/plugins/` directory were all re-stamped together at ~06:08Z.
+
+### Removed pages
+
+None since yesterday. The cumulative 29 removals vs the merged baseline were all covered in the 2026-11-10 and 2026-11-11 entries, including 13 relocations to `/business/...`. Their last snapshots are in git history.
+
+_Stats: 2171 total URLs | 215 added | 1719 updated | 29 removed | 83 anomalies | 43 sub-sitemaps (vs merged baseline 2026-09-28). Since the 2026-11-11 snapshot: +1 / 28 lastmod bumps (4 with rendered changes) / −0 / 0 anomalies._
+
+---
+
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

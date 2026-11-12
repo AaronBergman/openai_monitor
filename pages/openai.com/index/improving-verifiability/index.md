@@ -47,9 +47,13 @@ We’ve contributed to a multi-stakeholder report by [58 co-authors⁠](</index/
 While a growing number of organizations have articulated ethics principles to guide their AI development process, it can be difficult for those outside of an organization to verify whether the organization’s AI systems reflect those principles in practice. This ambiguity makes it harder for stakeholders such as users, policymakers, and civil society to scrutinize AI developers’ claims about properties of AI systems and could fuel competitive corner-cutting, increasing social risks and harms. The report describes existing and potential mechanisms that can help stakeholders grapple with questions like:
 
   * Can I (as a user) verify the claims made about the level of privacy protection guaranteed by a new AI system I’d like to use for machine translation of sensitive documents?
+
   * Can I (as a regulator) trace the steps that led to an accident caused by an autonomous vehicle? Against what standards should an autonomous vehicle company’s safety claims be compared?
+
   * Can I (as an academic) conduct impartial research on the risks associated with large-scale AI systems when I lack the computing resources of industry?
+
   * Can I (as an AI developer) verify that my competitors in a given area of AI development will follow best practices rather than cut corners to gain an advantage?
+
 
 
 
@@ -58,25 +62,35 @@ The 10 mechanisms highlighted in the report are listed below, along with recomme
 **Institutional Mechanisms and Recommendations**
 
   1. **Third party auditing**. A coalition of stakeholders should create a task force to research options for conducting and funding third party auditing of AI systems.
+
   2. **Red teaming exercises**. Organizations developing AI should run red teaming exercises to explore risks associated with systems they develop, and should share best practices and tools.
+
   3. **Bias and safety bounties**. AI developers should pilot bias and safety bounties for AI systems to strengthen incentives and processes for broad-based scrutiny of AI systems.
+
   4. **Sharing of AI incidents**. AI developers should share more information about AI incidents, including through collaborative channels.
+
 
 
 
 **Software Mechanisms and Recommendations**
 
   1. **Audit trails**. Standard setting bodies should work with academia and industry to develop audit trail requirements for safety-critical applications of AI systems.
+
   2. **Interpretability**. Organizations developing AI and funding bodies should support research into the interpretability of AI systems, with a focus on supporting risk assessment and auditing.
+
   3. **Privacy-preserving machine learning**. AI developers should develop, share, and use suites of tools for privacy-preserving machine learning that include measures of performance against common standards.
+
 
 
 
 **Hardware Mechanisms and Recommendations**
 
   1. **Secure hardware for machine learning**. Industry and academia should work together to develop hardware security features for AI accelerators or otherwise establish best practices for the use of secure hardware (including secure enclaves on commodity hardware) in machine learning contexts.
+
   2. **High-precision compute measurement**. One or more AI labs should estimate the computing power involved in a single project in great detail and report on lessons learned regarding the potential for wider adoption of such methods.
+
   3. **Compute support for academia**. Government funding bodies should substantially increase funding for computing power resources for researchers in academia, in order to improve the ability of those researchers to verify claims made by industry.
+
 
 
 
@@ -98,15 +112,15 @@ Gillian Hadfield (OpenAI, University of Toronto, Schwartz Reisman Institute for 
 
 [View all](</news/>)
 
-![Democratic Inputs To AI Grant Program Update](https://images.ctfassets.net/kftzwdyauwt9/f50ce1d2-4f61-4ed2-e560c624d631/6f4dd4542898a35d0a91b137f85c9834/Democratic_inputs_to_AI_grant_program_lessons_learned_and_implementation_plans.jpg?w=3840&q=90&fm=webp)
+![Abstract floral pattern with vibrant purple blooms on a green backdrop](https://images.ctfassets.net/kftzwdyauwt9/f50ce1d2-4f61-4ed2-e560c624d631/6f4dd4542898a35d0a91b137f85c9834/Democratic_inputs_to_AI_grant_program_lessons_learned_and_implementation_plans.jpg?w=3840&q=90&fm=webp)
 
 [Democratic inputs to AI grant program: lessons learned and implementation plansSafetyJan 16, 2024](</index/democratic-inputs-to-ai-grant-program-update/>)
 
-![Practices For Governing Agentic AI Systems](https://images.ctfassets.net/kftzwdyauwt9/dfdeca52-d054-4ce9-18d684209ff9/f3a2e6e71ebefb70fca386ff7bbb9d92/practices-for-governing-agentic-ai-systems.jpg?w=3840&q=90&fm=webp)
+![An abstract expressionist painting with a flurry of blue, white, orange, and red brushstrokes, evoking the bustling energy of an urban skyline.](https://images.ctfassets.net/kftzwdyauwt9/dfdeca52-d054-4ce9-18d684209ff9/f3a2e6e71ebefb70fca386ff7bbb9d92/practices-for-governing-agentic-ai-systems.jpg?w=3840&q=90&fm=webp)
 
 [Practices for Governing Agentic AI SystemsPublicationDec 14, 2023](</index/practices-for-governing-agentic-ai-systems/>)
 
-![Confidence-Building Measures for Artificial Intelligence Workshop proceedings](https://images.ctfassets.net/kftzwdyauwt9/Z9HqTzpgkOEFSdz1i0Mkl/4a794853a9d3412851d52a0e18d407f3/Confidence-Building_Measures_for_Artificial_Intelligence__Workshop_proceedings.png?w=3840&q=90&fm=webp)
+![A digital painting with a pastel landscape of rolling hills under a soft pink sky, suggesting a peaceful dawn](https://images.ctfassets.net/kftzwdyauwt9/Z9HqTzpgkOEFSdz1i0Mkl/4a794853a9d3412851d52a0e18d407f3/Confidence-Building_Measures_for_Artificial_Intelligence__Workshop_proceedings.png?w=3840&q=90&fm=webp)
 
 [Confidence-Building Measures for Artificial Intelligence: Workshop proceedingsConclusionAug 1, 2023](</index/confidence-building-measures-for-artificial-intelligence/>)
 
@@ -120,9 +134,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -141,7 +156,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -159,6 +175,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -167,8 +184,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -187,6 +204,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
