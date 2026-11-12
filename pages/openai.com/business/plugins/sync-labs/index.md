@@ -32,12 +32,15 @@ OpenAI
 
 # sync. labs
 
-Dub and lip-sync videos
+Lipsync, dub & talking photos
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a398355fbc08191a232e7eeeacb73d5>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Make photos and AI characters talk from a script or audio, Lipsync any video, including AI-generated clips, to new audio or a script, Translate and dub videos or YouTube and TikTok links with matching lips, Fix or remove spoken words in the speaker's own voice, Clone your own voice for scripts, Open sync. Studio to choose media and review results, Browse projects and past generations
+
 Category
-    [Productivity](</business/plugins/?tab=plugins-productivity>)
+    [Design & Creative](</business/plugins/?tab=plugins-design-creative>)
 
 Developer
     sync. labs
@@ -47,27 +50,27 @@ Website
 
 ## How it works
 
-Use sync. labs to dub videos, replace dialogue, generate lip-synced performances, and animate images.
+Use sync. labs to lipsync videos, make photos and characters talk, translate and dub videos, and fix spoken words without reshooting. With sync. labs you can: • Make a photo talk. Turn a portrait, a product mascot or a character you just created in ChatGPT into a talking video from a script or an audio recording. • Lipsync a video to new audio. Match a speaker's lips to a voiceover, a new take, a song or a typed script, including AI-generated clips. • Translate and dub a video. Dub an uploaded video or a YouTube, TikTok, Instagram or Facebook link into another language with lips that match the new audio. • Fix spoken words. Change or remove a few words in a single-speaker video while keeping the original voice. • Clone your own voice, or a voice you have permission to use, and use it with scripts. • Open sync. Studio in ChatGPT to choose media, review previews and download results, or browse your existing projects. Built for creators, marketers, educators and localization teams who make talking-head videos, dubbed versions, or quick dialogue fixes. Requires a sync. labs account. sync. labs does not create subtitle-only output, standalone audio voiceovers, or general timeline edits such as trimming or adding music. Fixing spoken words changes individual words; it does not replace a whole script.
 
 ## What else can you do?
 
   * ### Localize a product video
 
-![](https://files.openai.com/content?id=file_00000000cee081f7a2f41f86df6922eb&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=8b4a6d71eaa17a747e545f406c314a14938d38dad42ab5eb653e23163bedae3f&v=0)![](https://files.openai.com/content?id=file_00000000cee081f7a2f41f86df6922eb&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=8b4a6d71eaa17a747e545f406c314a14938d38dad42ab5eb653e23163bedae3f&v=0)sync. labs Dub this product video using the supplied translated dialogue. Match the lip movements where supported and return the result for review.
+![](https://files.openai.com/content?id=file_00000000a8d4820a9a91298bcb530e85&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=d1b99122509b8e987cd265ef5e7246406648d1aa01265eddcad96ef601314ecc&v=0)sync. labs Dub this product video using the supplied translated dialogue. Match the lip movements where supported and return the result for review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40sync.+labs+Dub+this+product+video+using+the+supplied+translated+dialogue.+Match+the+lip+movements+where+supported+and+return+the+result+for+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a398355fbc08191a232e7eeeacb73d5?install&prompt=Dub%20this%20product%20video%20using%20the%20supplied%20translated%20dialogue.%20Match%20the%20lip%20movements%20where%20supported%20and%20return%20the%20result%20for%20review.&surface=work>)
 
   * ### Replace a spoken line
 
-![](https://files.openai.com/content?id=file_00000000cee081f7a2f41f86df6922eb&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=8b4a6d71eaa17a747e545f406c314a14938d38dad42ab5eb653e23163bedae3f&v=0)![](https://files.openai.com/content?id=file_00000000cee081f7a2f41f86df6922eb&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=8b4a6d71eaa17a747e545f406c314a14938d38dad42ab5eb653e23163bedae3f&v=0)sync. labs Replace this line of dialogue with the approved script and audio. Preserve the surrounding footage and show the lip-synced result for review.
+![](https://files.openai.com/content?id=file_00000000a8d4820a9a91298bcb530e85&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=d1b99122509b8e987cd265ef5e7246406648d1aa01265eddcad96ef601314ecc&v=0)sync. labs Replace this line of dialogue with the approved script and audio. Preserve the surrounding footage and show the lip-synced result for review.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40sync.+labs+Replace+this+line+of+dialogue+with+the+approved+script+and+audio.+Preserve+the+surrounding+footage+and+show+the+lip-synced+result+for+review.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a398355fbc08191a232e7eeeacb73d5?install&prompt=Replace%20this%20line%20of%20dialogue%20with%20the%20approved%20script%20and%20audio.%20Preserve%20the%20surrounding%20footage%20and%20show%20the%20lip-synced%20result%20for%20review.&surface=work>)
 
   * ### Animate a presenter image
 
-![](https://files.openai.com/content?id=file_00000000cee081f7a2f41f86df6922eb&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=8b4a6d71eaa17a747e545f406c314a14938d38dad42ab5eb653e23163bedae3f&v=0)![](https://files.openai.com/content?id=file_00000000cee081f7a2f41f86df6922eb&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=8b4a6d71eaa17a747e545f406c314a14938d38dad42ab5eb653e23163bedae3f&v=0)sync. labs Animate this authorized presenter image using the supplied narration. Keep the delivery appropriate for a short product introduction and return a preview.
+![](https://files.openai.com/content?id=file_00000000a8d4820a9a91298bcb530e85&cdn=1&cp=pi&ma=32313600&ts=0&p=pi&cid=8&sig=d1b99122509b8e987cd265ef5e7246406648d1aa01265eddcad96ef601314ecc&v=0)sync. labs Animate this authorized presenter image using the supplied narration. Keep the delivery appropriate for a short product introduction and return a preview.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40sync.+labs+Animate+this+authorized+presenter+image+using+the+supplied+narration.+Keep+the+delivery+appropriate+for+a+short+product+introduction+and+return+a+preview.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a398355fbc08191a232e7eeeacb73d5?install&prompt=Animate%20this%20authorized%20presenter%20image%20using%20the%20supplied%20narration.%20Keep%20the%20delivery%20appropriate%20for%20a%20short%20product%20introduction%20and%20return%20a%20preview.&surface=work>)
 
 
 
@@ -76,17 +79,31 @@ Use sync. labs to dub videos, replace dialogue, generate lip-synced performances
 
 ### App
 
-  * ![](https://files.openai.com/content?id=file_00000000cee081f7a2f41f86df6922eb&cdn=1&cp=pi&ma=31363200&ts=0&p=pi&cid=8&sig=8b4a6d71eaa17a747e545f406c314a14938d38dad42ab5eb653e23163bedae3f&v=0)sync. labs
+  * ![](https://files.openai.com/content?id=file_00000000e37481f7892da2bea2072187&cdn=1&cp=pi&ma=31449600&ts=0&p=pi&cid=8&sig=00294791829a747cc907bba73abb6d58855f045380c388b3a80e4cc2118861df&v=0)sync. labs
+
+
+
+### Skills
+
+  * Make an AI video talk
+  * Batch lipsync
+  * Fix spoken words
+  * Lipsync a video
+  * Localize a campaign
+  * Set up sync. labs
+  * Build with the sync. API
+  * Make a photo talk
+  * 2 more
 
 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://help.openai.com/en/articles/6614161-how-can-i-contact-support>)
+### [Plugin supportLearn more(opens in a new window)](<https://support.sync.so>)
 
-### [Privacy policyLearn more](<https://sync.so/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://sync.so/privacy>)
 
 ## Add the sync. labs plugin in a few clicks
 
@@ -96,13 +113,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets.](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_00000000ffac722f987914a6f7db710b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=26b2c9500db3c7de3659e1e158826d1ced4806f01d50f831132375e3b497a249&v=0)![](https://files.openai.com/content?id=file_00000000aa0081f79505b7d543758347&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=73f24d3e0b666fdb3c380b13bb034ddd67e0e42a39ef70031b8401cfe081741c&v=0)CloudinaryManage, modify, and host your images and videos.](</business/plugins/cloudinary/>)[![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)PresentationsCreate and edit presentations](</business/plugins/presentations/>)
+[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_00000000ffac722f987914a6f7db710b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=26b2c9500db3c7de3659e1e158826d1ced4806f01d50f831132375e3b497a249&v=0)![](https://files.openai.com/content?id=file_00000000aa0081f79505b7d543758347&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=73f24d3e0b666fdb3c380b13bb034ddd67e0e42a39ef70031b8401cfe081741c&v=0)CloudinaryManage, modify, and host your images and videos](</business/plugins/cloudinary/>)[![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)PresentationsCreate and edit presentations](</business/plugins/presentations/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -114,10 +141,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -136,7 +163,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -163,8 +191,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -183,6 +211,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -215,16 +244,16 @@ EnglishUnited States
 
 Browse for plugins that support your team’s tools and tasks.
 
-![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/2jqkTQJ2Vae2cDvApwjWbv/114f8094264b251a25199e96d36f0461/plugins_1.png?w=3840&q=90&fm=webp)
 
 ### 2Install and connect2Install and connect
 
 Install the plugin, then follow the prompts to review permissions and connect any required apps.
 
-![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/5iBYEOE8sKrm8lebUKnhWT/9dab229e6349d43666420ea5ca0ef084/plugins_2.png?w=3840&q=90&fm=webp)
 
 ### 3Put it to work3Put it to work
 
 Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
 
-![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/7edxmffWzWeYqCBBoGeGy4/94ca943f1a14a78cb14f5e25d875901d/plugins_3.png?w=3840&q=90&fm=webp)

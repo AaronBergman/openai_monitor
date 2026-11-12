@@ -36,6 +36,9 @@ Create videos & voiceovers
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a2528e2c49c8191a8015ba5475f177e>)[Contact sales](</contact-sales/>)
 
+Capabilities
+    Generate videos from text or images, Animate photos, Edit and extend video clips, Motion graphics and animated explainers, Generate and edit images, Product photoshoots, Reusable characters and avatars, Storyboards and multi-shot films, UGC-style video ads, Voiceovers and text to speech, Design custom voices, Voice cloning with consent, Lip sync, Music generation, Sound effects, Transcription, Captions and subtitles, Cut, trim and reframe video, Social clips from long videos, Brand themes
+
 Category
     [Design & Creative](</business/plugins/?tab=plugins-design-creative>)
 
@@ -45,31 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://creativeclaw.co/chatgpt/>)
 
-[![](https://files.openai.com/content?id=file_000000009b087208b2b8ffa954cdd255&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=3a198ffa1eb7fd3b4b57715dc778789deac5cb566cf8ce015445042b9941a810&v=0)Creative Claw Turn my product photo into an Instagram image ad that matches my brand.(opens in a new window)](<https://chatgpt.com/?prompt=%40Creative+Claw+Turn+my+product+photo+into+an+Instagram+image+ad+that+matches+my+brand.>)
+[![](https://files.openai.com/content?id=file_00000000e24481f49fa930a65ac29673&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=395aefdbe811c72b0899f9537f5a7c6358d235ae21fc3d82a50dff2e2358c384&v=0)Creative Claw Turn this product photo into a 10-second vertical video ad with a voiceover and captions.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a2528e2c49c8191a8015ba5475f177e?install&prompt=Turn%20this%20product%20photo%20into%20a%2010-second%20vertical%20video%20ad%20with%20a%20voiceover%20and%20captions.>)
 
 ## How it works
 
-Create AI videos, ads, images, voiceovers, and cloned voices directly in ChatGPT. Turn scripts and product photos into product ads, animate still images, or build multi-scene films. Creative Claw uses pay-as-you-go credits. No Creative Claw subscription is required. Make product demos, explainer videos, creator-style UGC ads, Instagram Reels, TikTok videos, and YouTube Shorts. Turn longer videos into shorter clips, cut and reorder selected moments, reframe footage for vertical formats, and add captions. Plan storyboards, reuse character references across scenes, and assemble clips into a finished video. Turn text into speech for narration, dialogue, and multilingual voiceovers. Clone your own voice, or another speaker’s voice with their explicit permission, using ElevenLabs. Save and reuse that voice across videos and projects. Generate music and sound effects for your productions. Generate and edit images, create product photos and campaign visuals, or combine reference images to guide composition, style, and character appearance. Choose video models including Gemini Omni, Seedance 2.5, Seedance Mini, MiniMax H3 Max, H3 Max Fast, and FLUX 3; image models including Nano Banana 2, Nano Banana Pro, and Seedream 5 Pro; and speech options including ElevenLabs, xAI, and MiniMax. Model availability and supported settings vary. Save and reuse your media assets across projects. Request credit estimates before generating. Generation and editing consume credits, with costs depending on the model and settings. Results, including character consistency and voice similarity, can vary.
+Create videos, product ads, images and voiceovers in ChatGPT. Animate a photo, turn a script into a multi-scene film, or make a creator-style product ad with narration and captions. Built for marketers, creators and small teams who need on-brand media without leaving the conversation. Plan shots and storyboards, prepare consistent reference images, generate clips and assemble a first cut. Turn interviews and longer videos into social clips, cut and reorder selected moments, reframe for vertical formats, and add captions. Transcribe audio, video files and public video links. Ask for motion graphics, kinetic typography or an animated explainer, and a video agent designs and renders it with voiceover, music and sound. Create a reusable avatar from your photos or a fictional character brief. Review its character sheet, save it as a Character, and reuse its visual references in images and videos. Give a Character a voice: design a new synthetic voice from a description, clone your own voice (or a speaker's voice with their explicit permission) from a clean recording, or choose a stock voice for multilingual narration. Sync speech to on-screen lips, and add music and sound effects to the same project. Generate and edit supporting images, product photos and campaign visuals. Use reference images to guide product appearance, character identity, composition and style. Several image, video and voice models are available; availability and settings vary. Video Review mode shows the proposed prompt, references and settings before you press Generate. It reviews the request, not a rendered video preview. Auto mode submits the requested generation immediately. Results, character consistency and voice similarity vary. You can send feedback from the conversation. For help, contact support@creativeclaw.co.
 
 ## What else can you do?
 
   * ### Create product imagery
 
-![](https://files.openai.com/content?id=file_000000009b087208b2b8ffa954cdd255&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=3a198ffa1eb7fd3b4b57715dc778789deac5cb566cf8ce015445042b9941a810&v=0)Creative Claw Create a product hero image from this reference photo and brand brief. Preserve the product's identifying details, keep space for a headline, and show the result.
+![](https://files.openai.com/content?id=file_00000000e24481f49fa930a65ac29673&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=395aefdbe811c72b0899f9537f5a7c6358d235ae21fc3d82a50dff2e2358c384&v=0)Creative Claw Create a product hero image from this reference photo and brand brief. Preserve the product's identifying details, keep space for a headline, and show the result.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Creative+Claw+Create+a+product+hero+image+from+this+reference+photo+and+brand+brief.+Preserve+the+product%27s+identifying+details%2C+keep+space+for+a+headline%2C+and+show+the+result.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a2528e2c49c8191a8015ba5475f177e?install&prompt=Create%20a%20product%20hero%20image%20from%20this%20reference%20photo%20and%20brand%20brief.%20Preserve%20the%20product's%20identifying%20details%2C%20keep%20space%20for%20a%20headline%2C%20and%20show%20the%20result.&surface=work>)
 
   * ### Make a launch video
 
-![](https://files.openai.com/content?id=file_000000009b087208b2b8ffa954cdd255&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=3a198ffa1eb7fd3b4b57715dc778789deac5cb566cf8ce015445042b9941a810&v=0)Creative Claw Create a 15-second launch video using these product references. Focus on one supported benefit, follow the brand palette, and end with the supplied call to action.
+![](https://files.openai.com/content?id=file_00000000e24481f49fa930a65ac29673&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=395aefdbe811c72b0899f9537f5a7c6358d235ae21fc3d82a50dff2e2358c384&v=0)Creative Claw Create a 15-second launch video using these product references. Focus on one supported benefit, follow the brand palette, and end with the supplied call to action.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Creative+Claw+Create+a+15-second+launch+video+using+these+product+references.+Focus+on+one+supported+benefit%2C+follow+the+brand+palette%2C+and+end+with+the+supplied+call+to+action.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a2528e2c49c8191a8015ba5475f177e?install&prompt=Create%20a%2015-second%20launch%20video%20using%20these%20product%20references.%20Focus%20on%20one%20supported%20benefit%2C%20follow%20the%20brand%20palette%2C%20and%20end%20with%20the%20supplied%20call%20to%20action.&surface=work>)
 
   * ### Explore campaign concepts
 
-![](https://files.openai.com/content?id=file_000000009b087208b2b8ffa954cdd255&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=3a198ffa1eb7fd3b4b57715dc778789deac5cb566cf8ce015445042b9941a810&v=0)Creative Claw Generate three distinct campaign images from this brief. Keep the audience and message consistent, vary the visual treatment, and explain the tradeoffs between directions.
+![](https://files.openai.com/content?id=file_00000000e24481f49fa930a65ac29673&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=395aefdbe811c72b0899f9537f5a7c6358d235ae21fc3d82a50dff2e2358c384&v=0)Creative Claw Generate three distinct campaign images from this brief. Keep the audience and message consistent, vary the visual treatment, and explain the tradeoffs between directions.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Creative+Claw+Generate+three+distinct+campaign+images+from+this+brief.+Keep+the+audience+and+message+consistent%2C+vary+the+visual+treatment%2C+and+explain+the+tradeoffs+between+directions.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a2528e2c49c8191a8015ba5475f177e?install&prompt=Generate%20three%20distinct%20campaign%20images%20from%20this%20brief.%20Keep%20the%20audience%20and%20message%20consistent%2C%20vary%20the%20visual%20treatment%2C%20and%20explain%20the%20tradeoffs%20between%20directions.&surface=work>)
 
 
 
@@ -85,24 +88,24 @@ Create AI videos, ads, images, voiceovers, and cloned voices directly in ChatGPT
 ### Skills
 
   * Creative Claw — AI Media Studio
-  * Creative Claw — Add Intro and Outro
   * Creative Claw — Build Film
   * Creative Claw — Voice Cloning
   * Creative Claw Create Your Avatar
   * Creative Claw — Create Character
   * Creative Claw — Long Video to Reels
   * Creative Claw — Create UGC Ad
-  * 13 more
+  * Creative Claw — Edit Existing Media
+  * 10 more
 
 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://creativeclaw.co/faq/>)
+### [Plugin supportLearn more(opens in a new window)](<https://creativeclaw.co/faq/>)
 
-### [Privacy policyLearn more](<https://creativeclaw.co/privacy/>)
+### [Privacy policyLearn more(opens in a new window)](<https://creativeclaw.co/privacy/>)
 
 ## Add the Creative Claw plugin in a few clicks
 
@@ -112,13 +115,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets.](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_00000000ffac722f987914a6f7db710b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=26b2c9500db3c7de3659e1e158826d1ced4806f01d50f831132375e3b497a249&v=0)![](https://files.openai.com/content?id=file_00000000aa0081f79505b7d543758347&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=73f24d3e0b666fdb3c380b13bb034ddd67e0e42a39ef70031b8401cfe081741c&v=0)CloudinaryManage, modify, and host your images and videos.](</business/plugins/cloudinary/>)[![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)PresentationsCreate and edit presentations](</business/plugins/presentations/>)
+[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_00000000ffac722f987914a6f7db710b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=26b2c9500db3c7de3659e1e158826d1ced4806f01d50f831132375e3b497a249&v=0)![](https://files.openai.com/content?id=file_00000000aa0081f79505b7d543758347&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=73f24d3e0b666fdb3c380b13bb034ddd67e0e42a39ef70031b8401cfe081741c&v=0)CloudinaryManage, modify, and host your images and videos](</business/plugins/cloudinary/>)[![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)PresentationsCreate and edit presentations](</business/plugins/presentations/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -130,10 +143,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -152,7 +165,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -179,8 +193,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -199,6 +213,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -231,16 +246,16 @@ EnglishUnited States
 
 Browse for plugins that support your team’s tools and tasks.
 
-![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/2jqkTQJ2Vae2cDvApwjWbv/114f8094264b251a25199e96d36f0461/plugins_1.png?w=3840&q=90&fm=webp)
 
 ### 2Install and connect2Install and connect
 
 Install the plugin, then follow the prompts to review permissions and connect any required apps.
 
-![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/5iBYEOE8sKrm8lebUKnhWT/9dab229e6349d43666420ea5ca0ef084/plugins_2.png?w=3840&q=90&fm=webp)
 
 ### 3Put it to work3Put it to work
 
 Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
 
-![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/7edxmffWzWeYqCBBoGeGy4/94ca943f1a14a78cb14f5e25d875901d/plugins_3.png?w=3840&q=90&fm=webp)

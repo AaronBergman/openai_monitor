@@ -220,15 +220,15 @@ Thanks to Kevin Wong and Cathy Trang for creating the final evaluation levels.
 
 [View all](</news/>)
 
-![Frontier Risk And Preparedness](https://images.ctfassets.net/kftzwdyauwt9/1f19f98e-798a-4d80-4549e8118ac0/c97816f694a725a9f292f53f1dc5f44f/frontier-risk-and-preparedness.png?w=3840&q=90&fm=webp)
+![Optical illusion of green and yellow arrows on purple-striped background.](https://images.ctfassets.net/kftzwdyauwt9/1f19f98e-798a-4d80-4549e8118ac0/c97816f694a725a9f292f53f1dc5f44f/frontier-risk-and-preparedness.png?w=3840&q=90&fm=webp)
 
 [Frontier risk and preparednessSafetyOct 26, 2023](</index/frontier-risk-and-preparedness/>)
 
-![Red Teaming Network](https://images.ctfassets.net/kftzwdyauwt9/71c1edf1-06f2-415c-b0a2fbe1cfe0/0ff4554769ae7609f53c44a160e351fe/red-teaming-network.png?w=3840&q=90&fm=webp)
+![Warm-toned concentric squares in shades of orange and brown.](https://images.ctfassets.net/kftzwdyauwt9/71c1edf1-06f2-415c-b0a2fbe1cfe0/0ff4554769ae7609f53c44a160e351fe/red-teaming-network.png?w=3840&q=90&fm=webp)
 
 [OpenAI Red Teaming NetworkSafetySep 19, 2023](</index/red-teaming-network/>)
 
-![Confidence-Building Measures for Artificial Intelligence Workshop proceedings](https://images.ctfassets.net/kftzwdyauwt9/Z9HqTzpgkOEFSdz1i0Mkl/4a794853a9d3412851d52a0e18d407f3/Confidence-Building_Measures_for_Artificial_Intelligence__Workshop_proceedings.png?w=3840&q=90&fm=webp)
+![A digital painting with a pastel landscape of rolling hills under a soft pink sky, suggesting a peaceful dawn](https://images.ctfassets.net/kftzwdyauwt9/Z9HqTzpgkOEFSdz1i0Mkl/4a794853a9d3412851d52a0e18d407f3/Confidence-Building_Measures_for_Artificial_Intelligence__Workshop_proceedings.png?w=3840&q=90&fm=webp)
 
 [Confidence-Building Measures for Artificial Intelligence: Workshop proceedingsConclusionAug 1, 2023](</index/confidence-building-measures-for-artificial-intelligence/>)
 
@@ -242,9 +242,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -263,7 +264,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -281,6 +283,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -289,8 +292,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -309,6 +312,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -45,12 +45,14 @@ Who’s using it
   * Who’s using it 
   * What they’re using it for
   * How use is evolving
+  * Citation
 
 
 
   * Who’s using it 
   * What they’re using it for
   * How use is evolving
+  * Citation
 
 
 
@@ -86,6 +88,59 @@ Together, these findings from the largest study of ChatGPT consumer usage to dat
 
 **Notes on preserving user privacy:** In this study, researchers did not read user messages. We used automated tools that categorized usage patterns without need for human review of message content.
 
+## Citation
+
+#### Citation
+
+`
+    
+    
+    1
+    
+    @techreport{openaiecon2025chatgptusage,
+    
+    2
+    
+      author = {Aaron Chatterji and Tom Cunningham and David Deming and Zo{\"e} Hitzig and Christopher Ong and Carl Shan and Kevin Wadman},
+    
+    3
+    
+      title = {How People Use {ChatGPT}},
+    
+    4
+    
+      date = {2025-09-15},
+    
+    5
+    
+      year = {2025},
+    
+    6
+    
+      institution = {National Bureau of Economic Research},
+    
+    7
+    
+      type = {Working paper},
+    
+    8
+    
+      number = {34255},
+    
+    9
+    
+      doi = {10.3386/w34255},
+    
+    10
+    
+      url = {https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf},
+    
+    11
+    
+    }
+
+`
+
   * [ChatGPT](</news/?tags=chatgpt>)
   * [2025](</news/?tags=2025>)
   * [GPT](</news/?tags=gpt>)
@@ -101,17 +156,17 @@ OpenAI
 
 [View all](</news/>)
 
-![OpenAI extends cyber access to Ukraine for civilian defense — cover](https://images.ctfassets.net/kftzwdyauwt9/4NsiJiqUurW5ypfaulGCFm/8b5bfad7d895c4fc6aa20766d5c88b0c/openai-extends-cyber-access-to-ukraine-for-civilian-defense-cover.png?w=3840&q=90&fm=webp)
+![BioBasicsBench — Cover](https://images.ctfassets.net/kftzwdyauwt9/jNZJCNxCnXJEalE02MRYi/9c7ad4cdb35bae08e5e49eb6a2f65622/biobasicsbench-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI extends cyber access to Ukraine for civilian defenseGlobal AffairsSep 23, 2026](</index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/>)
+[Measuring how AI agents handle everyday wet-lab sciencePublicationNov 6, 2026](</index/measuring-how-ai-agents-handle-wet-lab-science/>)
 
-![Sam Altman’s remarks at the United Nations Security Council cover image](https://images.ctfassets.net/kftzwdyauwt9/4O6fFZArVSBeCoNjTFwXXZ/cc5e374a6b62b8f328555f002b3bca49/sam-altman-s-remarks-at-the-united-nations-security-council-cover.png?w=3840&q=90&fm=webp)
+![Setting a new standard for responsible AI infrastructure — Cover](https://images.ctfassets.net/kftzwdyauwt9/4XzIjfPOYMGcyoQ6SUBgdI/2216dda14fa312b0dc6bef3c018f9c0f/building-ai-infrastructure-that-works-for-america-cover.png?w=3840&q=90&fm=webp)
 
-[Sam Altman’s remarks at the United Nations Security CouncilGlobal AffairsSep 23, 2026](</index/sam-altman-un-security-council-remarks/>)
+[Setting a new standard for responsible AI infrastructureGlobal AffairsNov 5, 2026](</index/setting-new-standard-responsible-ai-infrastructure/>)
 
-![Mental Health Bench art card](https://images.ctfassets.net/kftzwdyauwt9/1GVQAEpVME68kCI7Ol2ApW/abde191546741612492ae27f9baf7f3e/Mental_Health_Bench__art_card.png?w=3840&q=90&fm=webp)
+![A thousand fewer paths to root — Cover](https://images.ctfassets.net/kftzwdyauwt9/6xmxSENf49pAUFzVokN3KG/3206934563d5b072f5a75139d6b26497/a-thousand-fewer-paths-to-root-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing MentalHealthBenchPublicationSep 23, 2026](</index/introducing-mentalhealthbench/>)
+[A thousand fewer paths to rootSecurityNov 4, 2026](</index/a-thousand-fewer-paths-to-root/>)
 
 Research
 
@@ -123,10 +178,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -145,7 +200,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -172,8 +228,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -192,6 +248,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -45,31 +45,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.descript.com>)
 
-[![](https://files.openai.com/content?id=file_00000000d16471f7a4247eb5eb159099&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=29388fcf4c0df573244847be42c47339399b86e75dcd45c7ec34996f5676f77a&v=0)![](https://files.openai.com/content?id=file_00000000d16471f7a4247eb5eb159099&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=29388fcf4c0df573244847be42c47339399b86e75dcd45c7ec34996f5676f77a&v=0)Descript edit this recording for clarity, and clean up my audio(opens in a new window)](<https://chatgpt.com/?prompt=%40Descript+edit+this+recording+for+clarity%2C+and+clean+up+my+audio>)
+[![](https://files.openai.com/content?id=file_00000000648881f58503d2b864d7cdcb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=d879e162ab377beb38f152cf0fd51dbaec0945cc1ad8dc98c4afaa049bd99f93&v=0)Descript Create a video project from these clips and remove the filler words(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69f0dc45f6048191876c14c1016fe778?install&prompt=Create%20a%20video%20project%20from%20these%20clips%20and%20remove%20the%20filler%20words>)
 
 ## How it works
 
-Descript is a video editor you can direct through conversation. Describe what you want — clean up a podcast episode, pull highlight clips from a webinar, translate a video into Spanish, or create one from scratch with a prompt. Descript handles the production: transcription, filler word removal, Studio Sound, captions, B-roll, clips, and more.
+Descript lets you edit video and audio by editing text. Import media from URLs or file uploads, create projects, and use Underlord — Descript's AI co-editor — to trim, rearrange, remove filler words, add captions, and more. Publish a shareable link, or export a transcript or a Premiere Pro / DaVinci Resolve timeline, all from your assistant.
 
 ## What else can you do?
 
   * ### Clean up a recording
 
-![](https://files.openai.com/content?id=file_00000000d16471f7a4247eb5eb159099&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=29388fcf4c0df573244847be42c47339399b86e75dcd45c7ec34996f5676f77a&v=0)![](https://files.openai.com/content?id=file_00000000d16471f7a4247eb5eb159099&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=29388fcf4c0df573244847be42c47339399b86e75dcd45c7ec34996f5676f77a&v=0)Descript edit this recording for clarity, and clean up my audio
+![](https://files.openai.com/content?id=file_00000000648881f58503d2b864d7cdcb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=d879e162ab377beb38f152cf0fd51dbaec0945cc1ad8dc98c4afaa049bd99f93&v=0)Descript edit this recording for clarity, and clean up my audio
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Descript+edit+this+recording+for+clarity%2C+and+clean+up+my+audio>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69f0dc45f6048191876c14c1016fe778?install&prompt=edit%20this%20recording%20for%20clarity%2C%20and%20clean%20up%20my%20audio&surface=work>)
 
   * ### Select highlight clips
 
-![](https://files.openai.com/content?id=file_00000000d16471f7a4247eb5eb159099&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=29388fcf4c0df573244847be42c47339399b86e75dcd45c7ec34996f5676f77a&v=0)![](https://files.openai.com/content?id=file_00000000d16471f7a4247eb5eb159099&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=29388fcf4c0df573244847be42c47339399b86e75dcd45c7ec34996f5676f77a&v=0)Descript pull the 5 best clips from this week's episode
+![](https://files.openai.com/content?id=file_00000000648881f58503d2b864d7cdcb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=d879e162ab377beb38f152cf0fd51dbaec0945cc1ad8dc98c4afaa049bd99f93&v=0)Descript pull the 5 best clips from this week's episode
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Descript+pull+the+5+best+clips+from+this+week%27s+episode>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69f0dc45f6048191876c14c1016fe778?install&prompt=pull%20the%205%20best%20clips%20from%20this%20week's%20episode&surface=work>)
 
   * ### Localize a video
 
-![](https://files.openai.com/content?id=file_00000000d16471f7a4247eb5eb159099&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=29388fcf4c0df573244847be42c47339399b86e75dcd45c7ec34996f5676f77a&v=0)![](https://files.openai.com/content?id=file_00000000d16471f7a4247eb5eb159099&cdn=1&cp=pi&ma=31795200&ts=0&p=pi&cid=8&sig=29388fcf4c0df573244847be42c47339399b86e75dcd45c7ec34996f5676f77a&v=0)Descript translate and dub this video into Spanish, French, and Japanese
+![](https://files.openai.com/content?id=file_00000000648881f58503d2b864d7cdcb&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=d879e162ab377beb38f152cf0fd51dbaec0945cc1ad8dc98c4afaa049bd99f93&v=0)Descript translate and dub this video into Spanish, French, and Japanese
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Descript+translate+and+dub+this+video+into+Spanish%2C+French%2C+and+Japanese>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69f0dc45f6048191876c14c1016fe778?install&prompt=translate%20and%20dub%20this%20video%20into%20Spanish%2C%20French%2C%20and%20Japanese&surface=work>)
 
 
 
@@ -82,13 +82,23 @@ Descript is a video editor you can direct through conversation. Describe what yo
 
 
 
+### Skills
+
+  * create-video
+  * edit-project
+  * export-timeline
+  * export-transcript
+  * publish-project
+
+
+
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://support@descript.com>)
+### [Plugin supportLearn more(opens in a new window)](<https://support@descript.com>)
 
-### [Privacy policyLearn more](<https://www.descript.com/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.descript.com/privacy>)
 
 ## Add the Descript plugin in a few clicks
 
@@ -98,13 +108,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets.](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_00000000ffac722f987914a6f7db710b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=26b2c9500db3c7de3659e1e158826d1ced4806f01d50f831132375e3b497a249&v=0)![](https://files.openai.com/content?id=file_00000000aa0081f79505b7d543758347&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=73f24d3e0b666fdb3c380b13bb034ddd67e0e42a39ef70031b8401cfe081741c&v=0)CloudinaryManage, modify, and host your images and videos.](</business/plugins/cloudinary/>)[![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)PresentationsCreate and edit presentations](</business/plugins/presentations/>)
+[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_00000000ffac722f987914a6f7db710b&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=26b2c9500db3c7de3659e1e158826d1ced4806f01d50f831132375e3b497a249&v=0)![](https://files.openai.com/content?id=file_00000000aa0081f79505b7d543758347&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=73f24d3e0b666fdb3c380b13bb034ddd67e0e42a39ef70031b8401cfe081741c&v=0)CloudinaryManage, modify, and host your images and videos](</business/plugins/cloudinary/>)[![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)![](https://files.openai.com/content?id=file_00000000462881f79a84c9a7f9f84b3f&cdn=1&cp=pi&ma=31104000&ts=0&p=pi&cid=8&sig=6562b499dd0ee2e1e71439b63acc199cf54a161c8e6aea5805aa791485d1c10c&v=0)PresentationsCreate and edit presentations](</business/plugins/presentations/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +136,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +158,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +186,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +206,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -217,16 +239,16 @@ EnglishUnited States
 
 Browse for plugins that support your team’s tools and tasks.
 
-![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/2jqkTQJ2Vae2cDvApwjWbv/114f8094264b251a25199e96d36f0461/plugins_1.png?w=3840&q=90&fm=webp)
 
 ### 2Install and connect2Install and connect
 
 Install the plugin, then follow the prompts to review permissions and connect any required apps.
 
-![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/5iBYEOE8sKrm8lebUKnhWT/9dab229e6349d43666420ea5ca0ef084/plugins_2.png?w=3840&q=90&fm=webp)
 
 ### 3Put it to work3Put it to work
 
 Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
 
-![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/7edxmffWzWeYqCBBoGeGy4/94ca943f1a14a78cb14f5e25d875901d/plugins_3.png?w=3840&q=90&fm=webp)

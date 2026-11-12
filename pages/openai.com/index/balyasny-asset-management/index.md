@@ -139,8 +139,11 @@ This “federated deployment” model means each investment team can develop and
 Today, ~**95% of Balyasny investment teams actively use their AI platform,** with measurable impact across velocity, output quality, and analyst experience:
 
   * **Deep research tasks** that once required days are now completed in hours, with agents synthesizing tens of thousands of documents, including filings, research, and earnings.
+
   * A **Central Bank Speech Analyst** cut macroeconomic scenario analysis time from 2 days to ~30 minutes.
+
   * A **Merger Arbitrage Superforecaster** agent now monitors and updates deal probabilities continuously, replacing bespoke spreadsheets and manual alerts.
+
 
 
 
@@ -149,8 +152,11 @@ Just as importantly, analysts at Balyasny report higher confidence in outputs. W
 Balyasny continues to expand its AI roadmap with a focus on:
 
   * **Reinforcement Fine-Tuning (RFT)** to sharpen model behavior on complex, high-value tasks
+
   * **Deeper agent orchestration** across financial domains
+
   * **Multimodal inputs** including financial charts, statements, and filings
+
 
 
 
@@ -168,17 +174,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![Executive Function Episode 21 — Cover](https://images.ctfassets.net/kftzwdyauwt9/HIYdv6bQSaXtHQehqsoMn/0d0fddcbf9618f4d676236799dce3934/EF_Ep21_1.1.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[Gilbert + Tobin rethinks the business of law with AINov 12, 2026](</index/gilbert-tobin-sam-nickless/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![ChatGPT for Veterans > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2xsjEAOhgideekNE2Xxxqk/fe4d5c8aecf7d6498d1e8026a5a56599/oai_GA_Stories_1.1.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[ChatGPT Plus for veterans and servicemembersCompanyNov 11, 2026](</index/chatgpt-plus-for-veterans/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![Executive Function Episode 20 — Cover](https://images.ctfassets.net/kftzwdyauwt9/2WBy5C7eDFv3hlJrjP78x2/528002b0e9b1dde9d268828810ee1c87/EF_Ep20_1.1.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[JioStar’s chief architect on AI discovery at 500M-user scaleNov 11, 2026](</index/jiostar-vijay-seshadri/>)
 
 Research
 
@@ -190,9 +196,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -211,7 +218,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -229,6 +237,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -237,8 +246,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -257,6 +266,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

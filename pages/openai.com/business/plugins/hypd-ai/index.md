@@ -30,11 +30,14 @@ OpenAI
 
 ![](https://files.openai.com/content?id=file_00000000eba481f79b200c69221d87f8&cdn=1&cp=pi&ma=32400000&ts=0&p=pi&cid=8&sig=0346868a220f8b48c9b3e06a69d9b0280cb2cda6a173658c999441f2b55fecc0&v=0)![](https://files.openai.com/content?id=file_00000000aa7881f6ba1e5af0bac3b196&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=8&sig=983ae914d9bef325b78654e76987cc2ace8b820c5e7fa9e21a7ab9b91cb14499&v=0)
 
-# HYPD AI - Paid Ads & Analytics
+# Ads by HYPD AI: Google & Meta
 
-Use Google Ads, Facebook, Meta
+Use Google Ads, Meta Ads & PPC
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3170ea7fc88191be6c0b9ff250a4b4>)[Contact sales](</contact-sales/>)
+
+Capabilities
+    Audit Google Ads campaigns, keywords, search terms and bidding, Find wasted spend and negative keyword ideas in Google Ads search terms, Query Google Ads with read-only GAQL, Analyze Meta Ads campaigns, ad sets, ads and creatives, Read Microsoft Advertising and LinkedIn Ads performance, Compare ad platform results with Google Analytics 4 conversions, Diagnose Merchant Center feeds and Search Console traffic, Research keywords, SERPs and competitors' live ads, Audit landing pages with Lighthouse and screenshots
 
 Category
     [Operations](</business/plugins/?tab=plugins-operations>)
@@ -45,31 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://www.hypd.ai/>)
 
-[![](https://files.openai.com/content?id=file_00000000bd2c82469d8c11580eca37a1&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=7ae952b49dd4c032c8a349603d47c19c47e6625484cc00753101785ad70e22bd&v=0)HYPD AI - Paid Ads & Analytics Audit my Google Ads account and show me the top 5 fixes(opens in a new window)](<https://chatgpt.com/?prompt=%40HYPD+AI+-+Paid+Ads+%26+Analytics+Audit+my+Google+Ads+account+and+show+me+the+top+5+fixes>)
+[![](https://files.openai.com/content?id=file_00000000561082109a7822b253b978f5&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=dbfe3b8fc4b8c494dcd244b87ea77ed5dd43ef4643b781438b2d37124b18ee7f&v=0)Ads by HYPD AI: Google & Meta Use $hypd-get-started to help me get started with HYPD.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3170ea7fc88191be6c0b9ff250a4b4?install&prompt=Use%20%24hypd-get-started%20to%20help%20me%20get%20started%20with%20HYPD.>)
 
 ## How it works
 
-HYPD brings your advertising and analytics accounts into ChatGPT so you can analyze paid marketing performance in plain language. Connect Google Ads, Meta (Facebook and Instagram), Google Analytics, and Merchant Center, then just ask. You get campaign performance, spend and ROAS breakdowns, wasted-spend checks, creative and audience insights, funnel and conversion-path analysis, and Shopping feed diagnostics, all from your real account data. You also get keyword research with search volume, competitor ad and SERP research, and landing-page checks, plus ready-to-run prompt templates, expert marketing skills, and your saved business context, so every answer reflects your accounts, brand, and goals. Built for marketers, agencies, and advertisers who want fast answers and client-ready reporting without leaving the chat. HYPD is read-only. It reports on your accounts and never changes your campaigns.
+HYPD connects advertising, analytics, ecommerce, and search data to ChatGPT for paid media marketers, agencies, freelancers, ecommerce brands, and small business owners. Connect Google Ads, Meta Ads, Microsoft Advertising/Bing Ads, LinkedIn Ads, Google Analytics 4, Merchant Center, and Google Search Console. Built-in research tools cover Google and Meta ad libraries, Keyword Planner, Google search results and Shopping data, competitor discovery, and landing-page audits. Use HYPD to: \- Audit Google Ads campaigns, ad groups, ads, keywords, search terms, bidding, budgets, and conversion tracking. \- Find high-intent queries, keyword opportunities, negative-keyword ideas, and non-converting spend. \- Explain changes in CPC, CTR, conversions, CPA, and ROAS across periods, campaign types, devices, locations, and audiences. \- Research keywords and forecast impressions, clicks, CPC, demand, and advertising costs. \- Analyze Meta campaigns, ad sets, ads, and creatives; compare audiences and placements; identify winning or fatigued creative; and investigate delivery, pixel, catalog, or feed issues. \- Diagnose GA4, consent, attribution, tracking, and funnel problems, including differences between ad platforms and GA4. \- Troubleshoot Merchant Center disapprovals, product feeds, Shopping visibility, price competitiveness, and underperforming products. \- Investigate traffic declines, audit landing pages, plan campaign tests, and prepare reports. Ecommerce teams can investigate customer journeys and revenue attribution. Agencies and freelancers can analyze multiple client accounts, explain performance, and prepare client-ready reports. Business owners can assess budgets, results, and next steps. HYPD is read-only: it analyzes data and recommends actions but does not change campaigns, budgets, ads, or account settings.
 
 ## What else can you do?
 
   * ### Review advertising performance
 
-![](https://files.openai.com/content?id=file_00000000bd2c82469d8c11580eca37a1&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=7ae952b49dd4c032c8a349603d47c19c47e6625484cc00753101785ad70e22bd&v=0)HYPD AI - Paid Ads & Analytics Compare spend, clicks, and conversions across my campaigns over the last 30 days. Flag missing attribution context and rank the areas that deserve investigation.
+![](https://files.openai.com/content?id=file_00000000561082109a7822b253b978f5&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=dbfe3b8fc4b8c494dcd244b87ea77ed5dd43ef4643b781438b2d37124b18ee7f&v=0)HYPD AI - Paid Ads & Analytics Compare spend, clicks, and conversions across my campaigns over the last 30 days. Flag missing attribution context and rank the areas that deserve investigation.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HYPD+AI+-+Paid+Ads+%26+Analytics+Compare+spend%2C+clicks%2C+and+conversions+across+my+campaigns+over+the+last+30+days.+Flag+missing+attribution+context+and+rank+the+areas+that+deserve+investigation.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3170ea7fc88191be6c0b9ff250a4b4?install&prompt=Compare%20spend%2C%20clicks%2C%20and%20conversions%20across%20my%20campaigns%20over%20the%20last%2030%20days.%20Flag%20missing%20attribution%20context%20and%20rank%20the%20areas%20that%20deserve%20investigation.&surface=work>)
 
   * ### Investigate inefficient spend
 
-![](https://files.openai.com/content?id=file_00000000bd2c82469d8c11580eca37a1&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=7ae952b49dd4c032c8a349603d47c19c47e6625484cc00753101785ad70e22bd&v=0)HYPD AI - Paid Ads & Analytics Find campaigns with high spend and weak conversion performance over the last month. Explain the evidence and recommend a short list of follow-up checks.
+![](https://files.openai.com/content?id=file_00000000561082109a7822b253b978f5&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=dbfe3b8fc4b8c494dcd244b87ea77ed5dd43ef4643b781438b2d37124b18ee7f&v=0)HYPD AI - Paid Ads & Analytics Find campaigns with high spend and weak conversion performance over the last month. Explain the evidence and recommend a short list of follow-up checks.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HYPD+AI+-+Paid+Ads+%26+Analytics+Find+campaigns+with+high+spend+and+weak+conversion+performance+over+the+last+month.+Explain+the+evidence+and+recommend+a+short+list+of+follow-up+checks.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3170ea7fc88191be6c0b9ff250a4b4?install&prompt=Find%20campaigns%20with%20high%20spend%20and%20weak%20conversion%20performance%20over%20the%20last%20month.%20Explain%20the%20evidence%20and%20recommend%20a%20short%20list%20of%20follow-up%20checks.&surface=work>)
 
   * ### Prepare a campaign report
 
-![](https://files.openai.com/content?id=file_00000000bd2c82469d8c11580eca37a1&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=7ae952b49dd4c032c8a349603d47c19c47e6625484cc00753101785ad70e22bd&v=0)HYPD AI - Paid Ads & Analytics Summarize this campaign's results for the last month versus the previous month. Highlight material changes, likely questions for the team, and data limitations.
+![](https://files.openai.com/content?id=file_00000000561082109a7822b253b978f5&cdn=1&cp=pi&ma=30412800&ts=0&p=pi&cid=8&sig=dbfe3b8fc4b8c494dcd244b87ea77ed5dd43ef4643b781438b2d37124b18ee7f&v=0)HYPD AI - Paid Ads & Analytics Summarize this campaign's results for the last month versus the previous month. Highlight material changes, likely questions for the team, and data limitations.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40HYPD+AI+-+Paid+Ads+%26+Analytics+Summarize+this+campaign%27s+results+for+the+last+month+versus+the+previous+month.+Highlight+material+changes%2C+likely+questions+for+the+team%2C+and+data+limitations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a3170ea7fc88191be6c0b9ff250a4b4?install&prompt=Summarize%20this%20campaign's%20results%20for%20the%20last%20month%20versus%20the%20previous%20month.%20Highlight%20material%20changes%2C%20likely%20questions%20for%20the%20team%2C%20and%20data%20limitations.&surface=work>)
 
 
 
@@ -82,15 +85,21 @@ HYPD brings your advertising and analytics accounts into ChatGPT so you can anal
 
 
 
+### Skill
+
+  * Get started with HYPD AI
+
+
+
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://hypd.ai/contact>)
+### [Plugin supportLearn more(opens in a new window)](<https://hypd.ai/contact>)
 
-### [Privacy policyLearn more](<https://www.hypd.ai/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.hypd.ai/privacy>)
 
-## Add the HYPD AI - Paid Ads & Analytics plugin in a few clicks
+## Add the Ads by HYPD AI: Google & Meta plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -98,13 +107,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)SimilarwebWeb, app, search & market data](</business/plugins/similarweb/>)[![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)SemrushAsk about site metrics and traffic data.](</business/plugins/semrush/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)SimilarwebWeb, app, search & market data](</business/plugins/similarweb/>)[![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)SemrushResearch keywords & traffic](</business/plugins/semrush/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,10 +135,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -138,7 +157,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +185,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +205,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -213,20 +234,20 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find the HYPD AI - Paid Ads & Analytics plugin1Find the HYPD AI - Paid Ads & Analytics plugin
+### 1Find the Ads by HYPD AI: Google & Meta plugin1Find the Ads by HYPD AI: Google & Meta plugin
 
 Browse for plugins that support your team’s tools and tasks.
 
-![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/2jqkTQJ2Vae2cDvApwjWbv/114f8094264b251a25199e96d36f0461/plugins_1.png?w=3840&q=90&fm=webp)
 
 ### 2Install and connect2Install and connect
 
 Install the plugin, then follow the prompts to review permissions and connect any required apps.
 
-![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/5iBYEOE8sKrm8lebUKnhWT/9dab229e6349d43666420ea5ca0ef084/plugins_2.png?w=3840&q=90&fm=webp)
 
 ### 3Put it to work3Put it to work
 
 Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
 
-![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/7edxmffWzWeYqCBBoGeGy4/94ca943f1a14a78cb14f5e25d875901d/plugins_3.png?w=3840&q=90&fm=webp)

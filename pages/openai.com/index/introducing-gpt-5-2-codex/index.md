@@ -137,17 +137,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Better prompt caching for GPT-6 — Card image](https://images.ctfassets.net/kftzwdyauwt9/72ZKzMh8JgRDfdg4EYRtwY/ee5e406a08b69f00b0beb4ac00270364/7kneoqlc2qh37z1utkmtfk-cover-v1.png?w=3840&q=90&fm=webp)
+![ChatGPT for Veterans > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2xsjEAOhgideekNE2Xxxqk/fe4d5c8aecf7d6498d1e8026a5a56599/oai_GA_Stories_1.1.png?w=3840&q=90&fm=webp)
 
-[Better prompt caching for GPT-6ProductSep 22, 2026](</index/better-prompt-caching-for-gpt-6/>)
+[ChatGPT Plus for veterans and servicemembersCompanyNov 11, 2026](</index/chatgpt-plus-for-veterans/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![Helping caregivers use AI in everyday life — Cover](https://images.ctfassets.net/kftzwdyauwt9/2wwJf21F4rMJ6FffmYbEa5/0e9a21de969e280e77ae8ae66eaa03f6/helping-caregivers-use-ai-in-everyday-life-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
+[Helping caregivers use AI in everyday lifeCompanyNov 10, 2026](</index/helping-caregivers-use-ai-in-everyday-life/>)
 
-![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
+![Introducing Businesses in ChatGPT, with a blue verification badge surrounded by a handbag, shopping cart, shopping bag, parcel, and storefront on a blue background.](https://images.ctfassets.net/kftzwdyauwt9/6HUezUUToOnuW0xWUXK9n/935b788b2167e7bc30600e610ac92408/business-agents-blog-cover.png?w=3840&q=90&fm=webp)
 
-[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
+[Introducing Businesses in ChatGPTProductNov 10, 2026](</index/introducing-businesses-chatgpt/>)
 
 Research
 
@@ -159,10 +159,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -181,7 +181,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -208,8 +209,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -228,6 +229,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

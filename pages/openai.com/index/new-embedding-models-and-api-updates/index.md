@@ -122,13 +122,13 @@ This enables very flexible usage. For example, when using a vector data store th
 
 ## Other new models and lower pricing
 
-### Updated GPT-3.5 Turbo model and lower pricing
+### Updated GPT‑3.5 Turbo model and lower pricing
 
 Next week we are introducing a new GPT‑3.5 Turbo model, `gpt-3.5-turbo-0125`, and for the third time in the past year, we will be decreasing prices on GPT‑3.5 Turbo to help our customers scale. Input prices for the new model are reduced by 50% to $0.0005 /1K tokens and output prices are reduced by 25% to $0.0015 /1K tokens. This model will also have various improvements including higher accuracy at responding in requested formats and a fix for [a bug⁠(opens in a new window)](<https://community.openai.com/t/gpt-4-1106-preview-is-not-generating-utf-8/482839>) which caused a text encoding issue for non-English language function calls.
 
 Customers using the unpinned `gpt-3.5-turbo` model alias will be automatically upgraded from `gpt-3.5-turbo-0613` to `gpt-3.5-turbo-0125` two weeks after this model launches.
 
-### Updated GPT-4 Turbo preview
+### Updated GPT‑4 Turbo preview
 
 Over 70% of requests from GPT‑4 API customers have transitioned to GPT‑4 Turbo since its release, as developers take advantage of its updated knowledge cutoff, larger 128k context windows, and lower prices. 
 
@@ -204,10 +204,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -226,7 +226,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -253,8 +254,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -273,6 +274,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
