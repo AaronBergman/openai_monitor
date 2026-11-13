@@ -2,7 +2,7 @@
 
 - **Sitemap fetch time (observation):** 2026-11-13T09:17:19Z (root index + 43 sub-sitemaps, all fetched OK)
 - **Page fetches:** 1,972 pages (253 added + 1,719 updated) fetched 2026-11-13 ~09:20–09:55Z via `tools/html_to_md.py` (curl-cffi). **0 fetch failures.**
-- **Baseline:** `2026-09-28T09-17Z` — **46 days earlier.** The routine did not run between 2026-09-28 and 2026-11-13, so everything below is a single, compressed diff spanning ~6.5 weeks. Intermediate states (pages that appeared *and* disappeared inside the gap, or intermediate `<lastmod>` values) are not observable.
+- **Baseline:** `2026-09-28T09-17Z` — **46 days earlier.** The routine *did* run daily in between (PRs #148–#192), but none of those PRs were merged, so `sitemaps/openai.com/latest.xml` and `state/known_urls.json` on `main` still reflect 2026-09-28. Everything below is therefore one cumulative diff spanning ~6.5 weeks, as were the diffs in each unmerged daily PR. Intermediate states (pages that appeared *and* disappeared inside the gap, or intermediate `<lastmod>` values) are not observable.
 - **Totals:** 2,208 URLs now (was 1,985) · 253 added · 1,719 `<lastmod>`-updated · 30 removed · 43 sub-sitemaps (was 42; new `learn-demos`)
 
 ## How to read the "updated" count
@@ -16,7 +16,7 @@ After normalizing out template lines, link-label changes, image-URL churn and "l
 
 ## 1. Anomalies (highest signal)
 
-**Monitoring gap (meta-anomaly).** No run between 2026-09-28T09-17Z and this run — a 46-day blind spot. Any "first_seen" recorded today (2026-11-13T09-16Z) is only an upper bound on when a URL actually went live.
+**Stale baseline (meta-anomaly).** 45 consecutive daily-run PRs (#148–#192, 2026-09-29 … 2026-11-12) are open and unmerged, so `main` never advanced past 2026-09-28T09-17Z. (Older unmerged PRs from May–July also exist.) Any "first_seen" recorded today (2026-11-13T09-16Z) is only an upper bound on when a URL actually went live.
 
 **Reappeared URLs (3)** — previously tracked in `state/known_urls.json`, absent at baseline, back now:
 - `/business/plugins/alpaca/` — last seen 2026-09-24, absent at the 09-25…09-28 runs, back (lastmod 2026-11-10), now in `plugins-finance`.
@@ -35,7 +35,7 @@ After normalizing out template lines, link-label changes, image-URL churn and "l
 
 **Visible publication date reset on rewritten customer stories (3).** Same URL, new story, new date: `/index/wayfair/` (March 11, 2026 → September 25, 2026; "2.5M product tags corrected" → "11M+ product specs validated"), `/index/lowes/` (retitled "Lowe's answers millions of home improvement questions with OpenAI", dated September 25, 2026), `/index/retell-ai/` (June 26, 2025 → October 27, 2026; GPT‑4o story replaced by a GPT‑6 Astra story). Anyone citing these URLs by date will find different content than before.
 
-**Low-signal (not counted):** 46 new URLs have `<lastmod>` more than 7 days before today's first_seen. None predates the 2026-09-28 baseline, so all are explained by the monitoring gap. No future-dated `<lastmod>` values. No backwards-moving `<lastmod>` values.
+**Low-signal (not counted):** 46 new URLs have `<lastmod>` more than 7 days before today's first_seen. None predates the 2026-09-28 baseline, so all are explained by the stale baseline. No future-dated `<lastmod>` values. No backwards-moving `<lastmod>` values.
 
 ## 2. Significant updates (substantive content changes)
 

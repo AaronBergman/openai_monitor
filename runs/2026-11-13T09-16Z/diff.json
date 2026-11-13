@@ -9045,232 +9045,232 @@
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/contact-sales-retail/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-22T09:35:52.893Z, 21 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-22T09:35:52.893Z, 21 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/learn/automate-complex-workflows-with-openai-o3/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-23T00:34:42.478Z, 21 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-23T00:34:42.478Z, 21 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/learn/board-guide-cybersecurity-ai/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-09T07:16:10.956Z, 35 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-09T07:16:10.956Z, 35 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/learn/collaborate-and-write-with-gpt-4o/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-23T04:35:53.989Z, 21 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-23T04:35:53.989Z, 21 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/learn/connect-internal-knowledge-from-google-drive/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-22T22:58:48.763Z, 21 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-22T22:58:48.763Z, 21 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/learn/create-on-brand-visuals-with-image-generation/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-23T09:21:55.298Z, 20 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-23T09:21:55.298Z, 20 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/learn/creating-a-contextual-workspace-in-chatgpt/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-21T16:04:20.339Z, 22 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-21T16:04:20.339Z, 22 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/learn/delegate-work-to-chatgpt-agent/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-21T15:52:32.152Z, 22 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-21T15:52:32.152Z, 22 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/learn/gpt-5-our-best-model-for-work/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-23T08:06:52.377Z, 21 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-23T08:06:52.377Z, 21 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/learn/gpt-live-1-webinar/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-22T02:48:44.212Z, 22 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-22T02:48:44.212Z, 22 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/learn/how-openai-uses-chatgpt-atlas-at-work/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-25T16:53:23.411Z, 18 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-25T16:53:23.411Z, 18 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/learn/market-research-with-chatgpt/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-21T17:07:06.880Z, 22 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-21T17:07:06.880Z, 22 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/learn/personalize-chatgpt-with-custom-instructions/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-21T16:15:58.111Z, 22 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-21T16:15:58.111Z, 22 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/learn/php2shell-webinar/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-04T23:00:35.005Z, 8 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-04T23:00:35.005Z, 8 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/learn/prototyping-with-canvas-in-chatgpt/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-21T15:05:27.118Z, 22 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-21T15:05:27.118Z, 22 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/learn/shipping-code-to-your-ide-with-chatgpt/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-21T16:15:26.286Z, 22 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-21T16:15:26.286Z, 22 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/learn/strategic-planning-with-chatgpt/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-22T22:51:04.962Z, 21 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-22T22:51:04.962Z, 21 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/learn/using-codex-across-the-software-development-lifecycle/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-25T19:49:54.121Z, 18 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-25T19:49:54.121Z, 18 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/learn/vision-and-voice-in-chatgpt/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-23T00:37:50.720Z, 21 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-23T00:37:50.720Z, 21 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/learn/writing-with-canvas-in-chatgpt/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-21T13:41:25.709Z, 22 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-21T13:41:25.709Z, 22 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/partners/affinda/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-29T05:53:37.906Z, 15 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-29T05:53:37.906Z, 15 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/partners/bishop-fox/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-15T21:09:24.263Z, 28 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-15T21:09:24.263Z, 28 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/partners/insight-enterprises/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-20T12:59:45.833Z, 23 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-20T12:59:45.833Z, 23 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/partners/megazonecloud/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-29T06:08:41.362Z, 15 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-29T06:08:41.362Z, 15 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/partners/specterops/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-15T21:09:56.433Z, 28 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-15T21:09:56.433Z, 28 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/partners/trustedsec/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-15T21:09:24.410Z, 28 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-15T21:09:24.410Z, 28 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/plugins/atlassian-teammate-graph/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-01T02:47:45.082Z, 12 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-01T02:47:45.082Z, 12 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/plugins/atlassian/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-31T20:25:40.630Z, 12 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-31T20:25:40.630Z, 12 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/plugins/krea/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-01T00:21:14.837Z, 12 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-01T00:21:14.837Z, 12 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/plugins/oracle-analytics-cloud/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-01T04:40:00.946Z, 12 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-01T04:40:00.946Z, 12 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/plugins/oracle-netsuite-ai-companion/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-01T00:53:54.747Z, 12 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-01T00:53:54.747Z, 12 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/plugins/oracle-netsuite-finance-analyst/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-01T03:15:13.444Z, 12 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-01T03:15:13.444Z, 12 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/plugins/oracle-netsuite-suitecloud/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-01T02:28:22.985Z, 12 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-01T02:28:22.985Z, 12 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/plugins/sandstone/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-31T23:26:30.974Z, 12 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-31T23:26:30.974Z, 12 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/plugins/servicenow/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-03T13:42:39.622Z, 9 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-03T13:42:39.622Z, 9 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/private-intelligence/privacy-by-product/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-04T21:45:17.962Z, 8 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-04T21:45:17.962Z, 8 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/business/solutions/legal/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-03T00:35:04.801Z, 10 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-03T00:35:04.801Z, 10 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/codex-originals/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-24T03:16:35.181Z, 20 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-24T03:16:35.181Z, 20 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/economic-research-collaborators/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-30T12:34:39.411Z, 13 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-30T12:34:39.411Z, 13 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/form/computer-use-research-collaboration/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-19T11:11:45.835Z, 24 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-19T11:11:45.835Z, 24 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/form/private-intelligence-interest/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-30T07:26:05.177Z, 14 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-30T07:26:05.177Z, 14 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/form/sign-in-with-chatgpt-interest/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-30T18:51:00.428Z, 13 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-30T18:51:00.428Z, 13 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/index/pollo-ai/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-03T21:40:31.085Z, 9 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-03T21:40:31.085Z, 9 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-22T09:45:56.774Z, 21 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-22T09:45:56.774Z, 21 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-03T18:06:47.269Z, 9 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-11-03T18:06:47.269Z, 9 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     },
     {
       "kind": "lastmod_predates_first_seen_gap",
       "url": "https://openai.com/policies/brazil-advertising-terms/",
-      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-26T07:27:13.757Z, 18 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the 46-day monitoring gap"
+      "details": "new URL (first_seen 2026-11-13T09-16Z) claims <lastmod> 2026-10-26T07:27:13.757Z, 18 days before first observation; low signal \u2014 all such <lastmod> values fall after the 2026-09-28 baseline, so explained by the stale 2026-09-28 baseline (daily PRs #148-#192 unmerged)"
     }
   ],
   "fetch_failures": [],
