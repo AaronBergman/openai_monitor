@@ -44,33 +44,31 @@ For current agentic work and team workflows, explore:
 
 [ChatGPT Work](</chatgpt-work/>)
 
-Loading…
-
 Share
 
 A natural evolution of Operator and deep research
 
   * A natural evolution of Operator and deep research
-  * An agent that works for you, with you 
-  * Broadening real-world utility 
+  * An agent that works for you, with you
+  * Broadening real-world utility
   * How to use
-  * Novel capabilities, novel risks 
-  * Our strongest safety stack yet for biological risk 
+  * Novel capabilities, novel risks
+  * Our strongest safety stack yet for biological risk
   * Availability
-  * Limitations and looking ahead 
+  * Limitations and looking ahead
   * Appendix
   * Livestream replay
 
 
 
   * A natural evolution of Operator and deep research
-  * An agent that works for you, with you 
-  * Broadening real-world utility 
+  * An agent that works for you, with you
+  * Broadening real-world utility
   * How to use
-  * Novel capabilities, novel risks 
-  * Our strongest safety stack yet for biological risk 
+  * Novel capabilities, novel risks
+  * Our strongest safety stack yet for biological risk
   * Availability
-  * Limitations and looking ahead 
+  * Limitations and looking ahead
   * Appendix
   * Livestream replay
 
@@ -137,13 +135,13 @@ ChatGPT agent can access your connectors, allowing it to integrate with your wor
 
 Additionally, you can schedule completed tasks to recur automatically, such as generating a weekly metrics report every Monday morning.
 
-### [Financial analysisUpdates a financial model with projections, formulas, and a summary of assumptions.View the full task](<https://chatgpt.com/share/e/68701e54-ddcc-8013-992d-5725205303d5>)
+### [Financial analysisUpdates a financial model with projections, formulas, and a summary of assumptions.View the full task(opens in a new window)](<https://chatgpt.com/share/e/68701e54-ddcc-8013-992d-5725205303d5>)
 
-### [Planning a dinner partyPlans, shops for, and organizes a six-course dinner based on Romance of the Three Kingdoms.View the full task](<https://chatgpt.com/share/e/68713763-633c-800c-9627-69099bf6fd68>)
+### [Planning a dinner partyPlans, shops for, and organizes a six-course dinner based on Romance of the Three Kingdoms.View the full task(opens in a new window)](<https://chatgpt.com/share/e/68713763-633c-800c-9627-69099bf6fd68>)
 
-### [Public transit benchmarkingBenchmarks seven global transit systems vs. Chicago, compiling data and a summary report.View the full task](<https://chatgpt.com/share/e/686c1ed9-bcc8-800c-823d-d3cfaf466b3a>)
+### [Public transit benchmarkingBenchmarks seven global transit systems vs. Chicago, compiling data and a summary report.View the full task(opens in a new window)](<https://chatgpt.com/share/e/686c1ed9-bcc8-800c-823d-d3cfaf466b3a>)
 
-### [Client meeting prepPrepares a report and slide deck on client calls and strategy changes using calendar data.View the full task](<https://chatgpt.com/share/e/68712a09-62f8-800c-bff6-e4e611a68780>)
+### [Client meeting prepPrepares a report and slide deck on client calls and strategy changes using calendar data.View the full task(opens in a new window)](<https://chatgpt.com/share/e/68712a09-62f8-800c-bff6-e4e611a68780>)
 
 ## Novel capabilities, novel risks 
 
@@ -237,17 +235,17 @@ _**OpenAI has exclusive access to 237 out of 290 private questions on the Tier 1
 
 [View all](</news/>)
 
-![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
+![Introducing Businesses in ChatGPT, with a blue verification badge surrounded by a handbag, shopping cart, shopping bag, parcel, and storefront on a blue background.](https://images.ctfassets.net/kftzwdyauwt9/6HUezUUToOnuW0xWUXK9n/935b788b2167e7bc30600e610ac92408/business-agents-blog-cover.png?w=3840&q=90&fm=webp)
 
-[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
+[Introducing Businesses in ChatGPTProductNov 10, 2026](</index/introducing-businesses-chatgpt/>)
 
-![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
+![ChatGPT Enterprise now available in AWS Marketplace — Cover](https://images.ctfassets.net/kftzwdyauwt9/2ReOJcrRGjSgkG3HOVYAf8/7793b38e6bf5c2f68cc3899874d5a832/chatgpt-enterprise-now-available-in-aws-marketplace-cover.png?w=3840&q=90&fm=webp)
 
-[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
+[ChatGPT Enterprise now available in AWS MarketplaceProductNov 9, 2026](</index/chatgpt-enterprise-aws-marketplace/>)
 
-![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
+![GPT-6 Cyber — Cover](https://images.ctfassets.net/kftzwdyauwt9/1AiFc9sQFyo6YguQtfjHHN/3ac0a37435e1dfd2b532eaefe26b18bb/gpt-6-cyber-cover.png?w=3840&q=90&fm=webp)
 
-[Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
+[GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agentsProductNov 5, 2026](</index/introducing-gpt-6-cyber/>)
 
 Research
 
@@ -259,10 +257,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -281,7 +279,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -299,6 +298,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -307,8 +307,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -327,6 +327,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

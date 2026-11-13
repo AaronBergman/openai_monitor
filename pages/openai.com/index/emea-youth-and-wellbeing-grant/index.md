@@ -36,33 +36,31 @@ Supporting organizations improving youth safety and wellbeing in the age of AI.
 
 [Apply now(opens in a new window)](<https://openai.smapply.org/prog/emea_youth_wellbeing_grant/>)
 
-Loading…
-
 Share
 
 About this Grant Program
 
   * About this Grant Program
   * Why we’re funding this work
-  * Funding scope 
+  * Funding scope
   * Budget & award sizes
   * Who can apply
   * Selection criteria
   * How to apply
   * Review process & timeline
-  * FAQ 
+  * FAQ
 
 
 
   * About this Grant Program
   * Why we’re funding this work
-  * Funding scope 
+  * Funding scope
   * Budget & award sizes
   * Who can apply
   * Selection criteria
   * How to apply
   * Review process & timeline
-  * FAQ 
+  * FAQ
 
 
 
@@ -87,16 +85,22 @@ We will support projects that focus on youth safety, wellbeing and AI. For examp
 For NGOs:
 
   * Youth protection and harm-prevention programs
+
   * AI literacy initiatives focused on young people, parents or educators
+
   * Practical tools that help organizations respond safely to AI-related risks
+
 
 
 
 For research organizations:
 
   * Research on new ways AI can enrich youth development and education
+
   * Research on child safety and adolescent wellbeing
+
   * Evaluations of youth-safety safeguards in real-world settings
+
 
 
 
@@ -113,8 +117,11 @@ We encourage proposals that produce clear, usable outputs, such as reports, tool
 Applicants must meet all of the following:
 
   * Applicants must be 18+ and represent an operational NGO, research institution or coalition.
+
   * They must work primarily on youth safety, adolescent wellbeing or AI impacts on minors, or propose work that will generate useful evidence or practical tools in these areas.
+
   * Applicants must have the capacity and to deliver the work ethically and on time, be willing to share their methodology and findings, and engage with the Council of Approvals where required.
+
 
 
 
@@ -123,11 +130,17 @@ Applicants must meet all of the following:
 Applications will be evaluated against the following weighted criteria:
 
   1. **EMEA presence (mandatory):** your organisation must be legally registered in an EMEA country (Europe, Middle East, or Africa). We may request proof of registration.
+
   2. **Alignment with program objectives (high):** How clearly the project advances AI youth safety, evaluates safeguards, or produces actionable evidence for policy stakeholders or product teams.
+
   3. **Impact & scalability (high):** Likely contribution to measurable improvements in youth wellbeing or safety across the priority markets; potential to influence policy, practice or product design.
+
   4. **Methodological rigor & ethical design (high):** Research methods, protection of minors, consent processes, and plans for safe data handling.
+
   5. **Feasibility & capacity (high):** Team’s operational/research capacity, realistic timeline and budget, ethical safeguards and data governance.
+
   6. **Sustainability & amplification (medium):** Potential for the project to continue beyond the grant period or to build local capacity (e.g., helplines, trusted testers).
+
 
 
 
@@ -142,11 +155,17 @@ Applications will be evaluated against the following weighted criteria:
 To apply, applicants should complete the online form and upload:
 
   * Project title
+
   * Detailed proposal (max 500 words): objectives, methods, timeline, key deliverables, value to policymakers/products/NGOs
+
   * Detailed budget and budget justification
+
   * Team CVs and institutional affiliation(s)
+
   * Ethics statement and data handling plan (if relevant)
+
   * Letter(s) of support or partnership confirmation (if relevant)
+
 
 
 
@@ -177,17 +196,17 @@ OpenAI
 
 [View all](</news/>)
 
-![DMUA Russia > card image ](https://images.ctfassets.net/kftzwdyauwt9/ciRSLFnJsNyxXYQjdoyqu/ff8ab22ad273ff79a4c9840f0c209fe6/Frame.png?w=3840&q=90&fm=webp)
+![A global commitment to secure a better future for every child — Cover](https://images.ctfassets.net/kftzwdyauwt9/6HZUyiPHKA2TTITsjtH4Ma/171dabc64ded09753292449f8d599c10/a-global-commitment-to-secure-a-better-future-for-every-child-cover.png?w=3840&q=90&fm=webp)
 
-[Disrupting a new covert influence campaign from RussiaGlobal AffairsAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
+[Supporting research on AI and children’s safetyGlobal AffairsNov 12, 2026](</index/children-first-declaration/>)
 
-![Strengthening Democratic Oversight in National Security — card image](https://images.ctfassets.net/kftzwdyauwt9/1qebg0OnHIh4dqr84zXR3Q/dba2f0e83ba4615a71894fd7fd1656e1/openai-democratic-oversight-page-cover-v002.png?w=3840&q=90&fm=webp)
+![Setting a new standard for responsible AI infrastructure — Cover](https://images.ctfassets.net/kftzwdyauwt9/4XzIjfPOYMGcyoQ6SUBgdI/2216dda14fa312b0dc6bef3c018f9c0f/building-ai-infrastructure-that-works-for-america-cover.png?w=3840&q=90&fm=webp)
 
-[Strengthening Democratic Oversight in National SecurityGlobal AffairsAug 18, 2026](</index/strengthening-democratic-oversight-in-national-security/>)
+[Setting a new standard for responsible AI infrastructureGlobal AffairsNov 5, 2026](</index/setting-new-standard-responsible-ai-infrastructure/>)
 
-![OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs — card image](https://images.ctfassets.net/kftzwdyauwt9/6RUPcXx0eTGghDpM851Qy1/ab11d2d0849ad9544249bf7b77ee46fe/openai-joins-ports-pike-project-cover-v001.png?w=3840&q=90&fm=webp)
+![Introducing the Grid Protectors Program — Cover](https://images.ctfassets.net/kftzwdyauwt9/1JqPBH0jS5SuZJWiba3S4c/00501ffe5396e6d6915948e739cb364b/introducing-the-grid-protectors-program-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI joins PORTS-Pike projectGlobal AffairsAug 17, 2026](</index/openai-joins-ports-pike-project/>)
+[Introducing the Grid Protectors ProgramGlobal AffairsNov 2, 2026](</index/grid-protectors-program/>)
 
 Research
 
@@ -199,9 +218,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -220,7 +240,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -238,6 +259,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -246,8 +268,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -266,6 +288,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

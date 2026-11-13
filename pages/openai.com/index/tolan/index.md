@@ -36,22 +36,20 @@ With GPT‑5.1, Tolan built a voice app optimized for low latency, accurate cont
 
 ![Tolan logo on orange jigsaw puzzle background](https://images.ctfassets.net/kftzwdyauwt9/uzf6b0mtJYhARaCWxx9MX/1ab7dbf67bcf2f3898bd67c7ebee78df/oai_Tolan_16x9.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 Designing for natural voice interactions
 
   * Designing for natural voice interactions
   * Building memory and personality that hold together over time
-  * Tolan’s core principles for building natural voice agents 
+  * Tolan’s core principles for building natural voice agents
   * Expanding what’s possible with voice AI
 
 
 
   * Designing for natural voice interactions
   * Building memory and personality that hold together over time
-  * Tolan’s core principles for building natural voice agents 
+  * Tolan’s core principles for building natural voice agents
   * Expanding what’s possible with voice AI
 
 
@@ -107,9 +105,13 @@ Those changes added up to a more consistent and believable personality, which in
 As Tolan evolved, a few principles emerged that now guide how the team builds and evolves its voice architecture:
 
   * **Design for conversational volatility:** Voice conversations shift mid-sentence. Systems need to pivot just as quickly to feel natural.
+
   * **Treat latency as part of the product experience:** Sub-second responsiveness shapes whether a voice agent feels conversational or mechanical.
+
   * **Build memory as a retrieval system, not a transcript:** High-quality compression and fast vector search deliver more consistent personality than oversized context windows.
+
   * **Rebuild context every turn:** Don’t fight drift with bigger prompts. Regenerating context each turn keeps agents grounded as conversations meander.
+
 
 
 
@@ -129,17 +131,17 @@ Looking ahead, Tolan plans to deepen its investments in steerability and memory 
 
 [View all](</news/>)
 
-![replit-customer-story-art-card-1x1](https://images.ctfassets.net/kftzwdyauwt9/2ZUd2sTOK6p4MrjDZnvCoM/512b38a71cf26f09c3cda3c51169c401/replit-customer-story-art-card-1x1.png?w=3840&q=90&fm=webp)
+![Gondola — art card and hero](https://images.ctfassets.net/kftzwdyauwt9/5B8tYqcVtztQ9PNAvMLPLO/8f2fc1472cb497b2d2b8ff82c0c1eeba/Gondola-Option-A-Art-Card-1080x1080.png?w=3840&q=90&fm=webp)
 
-[Replit expands access to software creation with GPT-5.6 LunaStartupAug 19, 2026](</index/replit/>)
+[Gondola doubles revenue as its team builds more with CodexStartupNov 12, 2026](</business/customer-stories/gondola/>)
 
-![Model ML customer story card image](https://images.ctfassets.net/kftzwdyauwt9/3STNMQMrFRC8mFdLYtjkV4/9cc21e9c729b2ae7cdf75aa3f49b3033/modelml-card.png?w=3840&q=90&fm=webp)
+![Cogent Security — cover \(sienna\)](https://images.ctfassets.net/kftzwdyauwt9/1b77wWqxMlNBg59VRDTuuQ/46601ae75270e4d037359127eb09a76c/cogent-security-cover-sienna.png?w=3840&q=90&fm=webp)
 
-[Model ML completes finance work more efficiently with GPT-5.6 SolStartupAug 10, 2026](</index/model-ml/>)
+[Cogent and OpenAI build cyber defense factories for enterprisesStartupNov 10, 2026](</index/cogent-security/>)
 
-![Warp customer story 1x1 hero art card](https://images.ctfassets.net/kftzwdyauwt9/3DK9g0hpubvAEz7lDs0nUf/713989b24b9d377312714303868b9126/oai_Warp_1x1.png?w=3840&q=90&fm=webp)
+![CodeRabbit — Indigo texture art card](https://images.ctfassets.net/kftzwdyauwt9/1YFM9mFKP6ZzABichElFUi/9a6569f02f982f80d80941019f522a99/coderabbit-art-card-1080x1080.png?w=3840&q=90&fm=webp)
 
-[Warp’s big bet on building open source with GPT-5.5StartupMay 27, 2026](</index/warp/>)
+[CodeRabbit scales agentic software development and ships 20x moreStartupNov 9, 2026](</index/coderabbit-codex-daybreak/>)
 
 Research
 
@@ -151,9 +153,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -172,7 +175,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -190,6 +194,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -198,8 +203,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -218,6 +223,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

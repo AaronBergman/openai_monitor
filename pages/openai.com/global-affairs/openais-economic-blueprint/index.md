@@ -36,23 +36,17 @@ The Blueprint outlines policy proposals for how the US can maximize AI’s benef
 
 ![An impressionistic painting featuring a vibrant, colorful city skyline in the background and lush greenery in the foreground. The brushstrokes are loose and expressive, blending shades of blue, green, and yellow to create a dreamy, abstract atmosphere.](https://images.ctfassets.net/kftzwdyauwt9/1b094X2p08gW6YlRMbrRpQ/87f195fd6ea2a32395737429a190f4b4/Innovation_Blueprint_16x9.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 We’ve been here before
 
   * We’ve been here before
-
   * The path forward
-
 
 
 
   * We’ve been here before
-
   * The path forward
-
 
 
 
@@ -77,8 +71,11 @@ America took a very different approach, and the country became the heart of the 
 Today, while some countries sideline AI and its economic potential, the US government can clear and scale the road for its AI industry to:
 
   * Continue the country’s global leadership in innovation while protecting national security
+
   * Make sure we get it right in AI access and benefits from the start
+
   * Maximize the economic opportunity of AI for communities across the country.
+
 
 
 
@@ -93,8 +90,11 @@ There’s an estimated $175 billion sitting in global funds awaiting investment 
 We believe that making sure AI benefits the most people possible means enabling AI through common-sense rules aimed at protecting people from actual harms, and building democratic AI shaped by the values the US has always stood for, including:
 
   * A free market promoting free and fair competition that drives innovation
+
   * Freedom for developers and users to work with and direct our tools as they see fit, in exchange for following clear, common-sense standards that help keep AI safe for everyone, and being accountable when they don’t
+
   * Preventing government use of AI tools to amass power and control their citizens, or to threaten or coerce other states.
+
 
 
 
@@ -129,9 +129,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -150,7 +151,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -168,6 +170,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -176,8 +179,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -196,6 +199,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

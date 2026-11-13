@@ -32,7 +32,17 @@ September 12, 2024
 
 # Introducing OpenAI o1‑preview
 
-Loading…
+A new series of reasoning models for solving hard problems.
+
+## This post introduced OpenAI o1-preview.
+
+The ChatGPT access information reflects the September 2024 launch. o1‑preview and o1‑mini have been retired from the API. See the [API deprecation schedule⁠(opens in a new window)](<https://developers.openai.com/api/docs/deprecations>).
+
+For the current experience:
+
+[View current API models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 How it works
 
@@ -84,7 +94,7 @@ To advance our commitment to AI safety, we recently formalized agreements with t
 
 These enhanced reasoning capabilities may be particularly useful if you’re tackling complex problems in science, coding, math, and similar fields. For example, o1 can be used by healthcare researchers to annotate cell sequencing data, by physicists to generate complicated mathematical formulas needed for quantum optics, and by developers in all fields to build and execute multi-step workflows. 
 
-## OpenAI o1-mini
+## OpenAI o1‑mini
 
 The o1 series excels at accurately generating and debugging complex code. To offer a more efficient solution for developers, we’re also releasing [OpenAI o1‑mini](</index/openai-o1-mini-advancing-cost-efficient-reasoning/>), a faster, cheaper reasoning model that is particularly effective at coding. As a smaller model, o1‑mini is 80% cheaper than o1‑preview, making it a powerful, cost-effective model for applications that require reasoning but not broad world knowledge. 
 
@@ -106,8 +116,8 @@ This is an early preview of these reasoning models in ChatGPT and the API. In ad
 
 We also plan to continue developing and releasing models in our GPT series, in addition to the new OpenAI o1 series. 
 
-  * [Try it in ChatGPT Plus (opens in a new window)](<https://chatgpt.com/?model=o1>)
-  * [Try it in the API(opens in a new window)](<https://platform.openai.com/playground/chat?models=o1-mini>)
+  * [Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+  * [View current API models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
 
 
 
@@ -131,10 +141,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -153,7 +163,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -180,8 +191,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -200,6 +211,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

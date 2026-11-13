@@ -34,8 +34,6 @@ May 22, 2025
 
 ![An abstract image with soft, blurred shades of yellow, blue, and green. The colors blend in a way that evokes the impression of sunlight on petals or foliage, creating a gentle, dreamy atmosphere.](https://images.ctfassets.net/kftzwdyauwt9/2K1kpbfzfme5v5UFlT9GcP/b26d5d3912ef720b3bfe5f37058402ed/oai_GA_Stories_16.9__2_.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 At OpenAI, we believe artificial intelligence should benefit everyone, everywhere. As part of our growing global presence, we’re pleased to open our first office in Germany, located in Munich. Establishing a local team reflects the strong demand for OpenAI’s technologies and means we can better support our German users and ensure the benefits of AI are widely distributed across the country.
 
 > “As a country globally renowned for technical excellence and industrial innovation, it’s fitting that Germany has emerged as a world leader in AI adoption. By opening our first German office here in Munich, we want to further strengthen this leadership and enable more people, businesses, and institutions across Germany to benefit from this transformative technology.”
@@ -47,10 +45,15 @@ Millions of people in Germany already use our AI tools to transform how they liv
 Businesses and organizations currently benefiting from our AI include:
 
   * **Large enterprises** like Sparkassen Finanzgruppe, DKB, and Zalando who are enhancing employee productivity and making customer banking and retail more personalised. 
+
   * **Mittelstand businesses** such as KOSTAL and Viessmann who are using our technologies to streamline workflows and enable employees to make faster, smarter decisions.
+
   * **Developers and startups** such as Parloa, Choco, and doinstruct are building on our API to power AI-driven businesses and create innovative solutions across diverse sectors, including customer service, supply chains, and frontline workers.
+
   * **Leading universities** including WHU and researchers at the Max Planck Institute for the Science of Light who are using our AI to reimagine the learning experience and advance academic breakthroughs. 
+
   * **Artists** like Mario Clement and Looping Lovers are using our technology as a creative partner, unlocking new realms of creative possibilities.
+
 
 
 
@@ -82,9 +85,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -103,7 +107,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -121,6 +126,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -129,8 +135,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -149,6 +155,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
