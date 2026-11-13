@@ -36,8 +36,6 @@ Developers can now integrate GPT‑3.5 Turbo and Whisper models into their apps 
 
 ![Green elliptical shapes creating a rhythmic wave pattern against a gradient dark background.](https://images.ctfassets.net/kftzwdyauwt9/44fefabe-41f8-4dbf-d80656c1f876/8dec20d14a894ae52ae07449452a89c5/introducing-chatgpt-and-whisper-apis.jpg?w=3840&q=90&fm=webp)
 
-Loading…
-
 Early users of GPT-3.5 Turbo and Whisper APIs
 
   * Early users of GPT-3.5 Turbo and Whisper APIs
@@ -66,7 +64,7 @@ ChatGPT and Whisper models are now available on our API, giving developers acces
 
 
 
-## Early users of GPT-3.5 Turbo and Whisper APIs
+## Early users of GPT‑3.5 Turbo and Whisper APIs
 
 [**Snap Inc** ⁠(opens in a new window)](<https://snap.com/en-US>)., the creator of Snapchat, introduced My AI for Snapchat+ this week. The experimental feature is running on GPT‑3.5 API. My AI offers Snapchatters a friendly, customizable chatbot at their fingertips that offers recommendations, and can even write a haiku for friends in seconds. Snapchat, where communication and messaging is a daily behavior, has 750 million monthly Snapchatters:
 
@@ -88,7 +86,7 @@ Shopify’s Shop app
 
 The Speak app
 
-## GPT-3.5 API
+## GPT‑3.5 API
 
 **Model** : The ChatGPT model family we are releasing today, `gpt-3.5-turbo`, is the same model used in the ChatGPT product. It is priced at $0.002 per 1k tokens, which is 10x cheaper than our existing GPT‑3.5 models. It’s also our best model for many non-chat use cases—we’ve seen early testers migrate from `text-davinci-003` to `gpt-3.5-turbo` with only a small amount of adjustment needed to their prompts.
 
@@ -187,10 +185,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -209,7 +207,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -236,8 +235,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -256,6 +255,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

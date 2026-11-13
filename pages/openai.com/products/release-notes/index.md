@@ -41,115 +41,113 @@ Filter
 
 Sort
 
-ChatGPT
+Nov 10, 2026
 
-Sep 24, 2026
-
-Preview
-
-## External access controls
-
-Global admins in ChatGPT Business and Enterprise organizations can now manage whether ChatGPT Sites can use members’ connected apps and whether applications can access ChatGPT Ads. These controls are on the redesigned External access page in the OpenAI Admin Console. Identity-only sign-in remains separate from data access.
-
-Both new permissions are off by default during the admin preview. Members must still authorize access using their own permissions. Sites access also depends on workspace and individual app settings.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#external-access-controls>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#external-access-controls>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/12289294-managing-your-tenant-in-admin-console>)
-
-ChatGPT
-
-Sep 23, 2026
+API
 
 GA
 
-## Use plugins in Voice and get work done by speaking
+Share
 
-Live now supports plugins on web, iOS, and Android. You can use the plugins and connected apps available to your account during a Voice conversation and follow written responses in the chat.
+## GPT-6 Luna inference residency in India, Japan, and Australia
 
-Voice is also available in Work on web and mobile. Ask it to create documents, presentations, and spreadsheets, use connected apps, or work in a browser. When you end a Voice call in Work, an unfinished task can continue in text.
+Inference residency is now generally available for GPT‑6 Luna in India, Japan, and Australia. For supported requests, both request processing and model inference take place in the country you select. The Responses and Chat Completions APIs support text and image inputs with text output.
 
-Free and Go users can use Voice in Chat with the plugins their plan supports. Existing app connections, permissions, and usage limits apply.
+If your organization has approved, active Zero Data Retention (ZDR), create a regional API project in your chosen country and select Storage & Processing.
 
-For Business, Enterprise, and Edu workspaces, workspace controls continue to apply. Voice in Work requires both Voice and Work access, and plugins retain their existing app access, data permissions, and action restrictions. Enabling Voice does not enable Work or a blocked plugin. When an action needs your approval, review it on screen.
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/your-data#data-residency-controls>)
 
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking>)
+Nov 10, 2026
+
+ChatGPT
+
+GA
+
+Share
+
+## Business Hub in ChatGPT
+
+Business Hub gives business owners and authorized representatives a place to claim their business in ChatGPT. After your claim is approved, you can access your business in Business Hub. Once your identity verification with Persona is approved, you can publish updates to your business information, connect a product feed, and view insights such as mentions and website clicks.
+
+After Persona verification is approved, eligible ecommerce and online service businesses in the US with a website can also create a business agent that answers customer questions using information you provide. Review and publish your agent before customers can chat with it. To get started, open Business Hub from the sidebar in ChatGPT on the web.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#business-hub-in-chatgpt>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001635-setting-up-your-business-on-chatgpt>)
+
+Nov 10, 2026
+
+ChatGPT
+
+Sunset
+
+Share
+
+## Retiring Advanced and Standard Voice
+
+We’re retiring Advanced and Standard voice from ChatGPT Voice on December 11, 2026.
+
+In July, we introduced GPT‑Live, our latest voice model that combines natural conversation with frontier intelligence. Since then, voice usage has nearly doubled, and virtually all people using voice in ChatGPT now use GPT‑Live. This change will allow us to simplify the voice experience and focus on improving GPT‑Live.
+
+We've learned a lot from how people used both Advanced and Standard voice, and we're bringing those learnings into GPT‑Live as we continue to improve areas like the depth and detail of responses, maintaining continuity across conversations, and better personalization. Our ultimate goal is to make voice a seamless part of the ChatGPT experience.
+
+Live video and screen-sharing will continue to be powered by Advanced voice until GPT‑Live has this capability.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#retiring-advanced-and-standard-voice>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001638-retiring-advanced-and-standard-voice-in-chatgpt>)
+
+Nov 10, 2026
 
 Codex
 
-Sep 23, 2026
-
 GA
 
-## ChatGPT for iOS updates: redesigned home, iPad split view, and nested repositories
+Share
+
+## ChatGPT for iOS updates: pasted attachments, drive switching, and annotation dictation
 
 ### New features
 
-  * Redesigned home screen.
+  * Paste images and files into the full-screen composer, and open file attachments from sent prompts.
 
-  * New iPad split view keeps your task list beside the open task in landscape.
+  * Switch between drives in the folder picker on Windows hosts.
 
-  * Added support for browsing changes inside nested Git repositories.
+  * Dictate annotation notes.
+
+  * Hide the task list on iPhone Duo without leaving the current task.
 
 
 
 
 ### Improvements and bug fixes
 
-  * Side chats now carry over attachments, selected text, and review comments.
+  * Reopening a running Codex Cloud task keeps loaded messages visible.
 
-  * Fixed replies appearing blank or incomplete when the next queued prompt starts.
+  * Sent prompts stay above their replies, even when the host confirms receipt late.
 
-  * New tasks preserve your selected computer and better recognize project checkouts and worktrees.
+  * Expanded command cards show the full command and more of its output.
 
-  * More reliable file links, with clearer loading feedback when opening files and new tasks.
+  * Improved keyboard and toolbar behavior on iPad and iPhone Duo.
 
-  * Clearer error messages explain why task history could not load and what to try next.
+  * Fixed opening changed files and loading response images on Windows hosts. The folder picker now opens on Linux hosts that can’t locate a home folder.
 
-  * Smoother animations when adding photos from the camera or Photo Library.
-
-  * Fixed pairing failures caused by an incorrect device clock and SSH connection issues on Mac and Linux.
+  * Manual pairing works with VoiceOver and on devices that can’t scan QR codes.
 
 
 
 
-[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-09-23-mobile>)
+[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-11-10-mobile>)
 
-Codex
+Nov 5, 2026
 
-Sep 22, 2026
+API
 
 GA
 
-## GPT-6 Sol and GPT-6 Luna
+Share
 
-We’re introducing GPT‑6 Sol and GPT‑6 Luna in ChatGPT Work and Codex. These models are separate from the models available in Chat.
+## GPT-6-Cyber for authorized vulnerability research
 
-Codex desktop keeps the model you selected manually.
+Use GPT‑6‑Cyber to investigate vulnerabilities, reproduce them in an authorized test environment, and verify fixes.
 
-Available models and reasoning effort options depend on your plan and workspace settings.
-
-GPT‑6 Sol and GPT‑6 Luna are rolling out to Codex and ChatGPT Work at lower token prices than their GPT‑5.6 predecessors. Use Sol for complex coding and agentic workflows, and Luna for focused, high-volume tasks.
-
-Both models are rolling out to Plus, Pro, Business, Enterprise, and Edu users. Free and Go users can access Luna in the desktop app. Availability depends on rollout and workspace settings; Enterprise administrators must enable the new models. In ChatGPT, the models are available in Work and Codex, but not Chat.
-
-[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-6-sol>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-09-22-gpt-6-sol-luna>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-6-sol-and-luna-in-work-and-codex>)
-
-ChatGPT
-
-Sep 22, 2026
-
-GA
-
-## Create flashcards in ChatGPT
-
-You can now create interactive flashcards in ChatGPT. Ask for flashcards on a topic you want to learn, or upload your notes and ask ChatGPT to turn them into flashcards.
-
-Tap a card to flip it, then select ✔️ if you know the answer or ❌ to practice it again later. Shuffle your cards to practice in a different order.
-
-Flashcards are automatically saved in your library. To practice again, open them there or ask ChatGPT to review them back.
-
-Available on mobile and web for all ChatGPT plans.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-flashcards-in-chatgpt>)
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-6-cyber>)[Platform docs(opens in a new window)](<https://developers.openai.com/api/docs/guides/daybreak>)
 
 Load more
 
@@ -163,10 +161,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -185,7 +183,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -212,8 +211,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -232,6 +231,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

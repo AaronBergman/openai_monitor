@@ -36,8 +36,6 @@ A research-level benchmark measuring how AI agents navigate ambiguity and make c
 
 [Read the paper(opens in a new window)](<https://www.biorxiv.org/content/10.64898/2026.06.29.735386v2>)
 
-Loading…
-
 Share
 
 Dataset construction
@@ -154,28 +152,6 @@ Alexander Strudwick Young, Assistant Professor in Human Genetics at UCLA
 
 Jennifer Grundman, PhD Candidate in Human Genetics at UCLA
 
-1 of 2
-
-> “The problems I reviewed would have been _challenging for a graduate student_ to complete without iterated feedback from an experienced supervisor. The data contained technical and quality control issues that required thoughtful and reflective data analysis with awareness of potential pitfalls to complete successfully; they were not simply applying some off-the-shelf method to clean and well curated data.”
-
-Alexander Strudwick Young, Assistant Professor in Human Genetics at UCLA
-
-> “Even if current models aren’t able to reliably run independent analyses from beginning to end, ones that perform well on GeneBench-Pro problems clearly would be able to assist researchers in determining correct workflows and exploring data. _I could see that greatly improving the pace, thoroughness, and reproducibility of research_.”
-
-Jennifer Grundman, PhD Candidate in Human Genetics at UCLA
-
-  * Alexander Strudwick Young, Assistant Professor in Human Genetics at UCLA
-
-  * Jennifer Grundman, PhD Candidate in Human Genetics at UCLA
-
-
-
-
-  * Alexander Strudwick Young, Assistant Professor in Human Genetics at UCLA
-  * Jennifer Grundman, PhD Candidate in Human Genetics at UCLA
-
-
-
 ## Evaluation and grading
 
 Each GeneBench-Pro problem is a self-contained scientific analysis. Agents receive access to an isolated workspace with a short prompt, data files, and a standard bioinformatics stack including Python, scientific computing libraries, and basic genomics packages like PLINK 2.0 (although the problems do not require domain-specific tooling).
@@ -207,29 +183,6 @@ Cyrillus Tan, Postdoctoral Research Associate at the New York Genome Center
 Lex Flagel, Director of Data Science at Gencove  
 
 
-1 of 2
-
-> “The benchmarks are motivated by a diverse range of biological questions, but … the actual challenge comes from exploratory data analysis and reasoning upon these discoveries: identifying patterns and artifacts, and deciding whether the data should be excluded or adjusted. This resembles the messy nature of real biological datasets. Reviewing these evaluations highlights how important clear solver contracts are for agent-based scientific problem solving. Different prompt wording or task specification can greatly affect which analyses appear permissible.”
-
-Cyrillus Tan, Postdoctoral Research Associate at the New York Genome Center
-
-> “I liked [the questions] mostly. They tended to have a mix of: (1) Required knowledge of the subject, such as C>T bias in ancient DNA, (2) Data discrepancies, such as ancestry swaps, (3) A kind of knowledge of the right analytical tools for the job and how to implement them. It seemed like most of the agents failed on (2). They aren’t cautious enough about data issues. Maybe that highlights a weakness of current models. And a lot of biological data has irregularities.”
-
-Lex Flagel, Director of Data Science at Gencove  
-
-
-  * Cyrillus Tan, Postdoctoral Research Associate at the New York Genome Center
-
-  * Lex Flagel, Director of Data Science at Gencove
-
-
-
-
-  * Cyrillus Tan, Postdoctoral Research Associate at the New York Genome Center
-  * Lex Flagel, Director of Data Science at Gencove
-
-
-
 Still, the fact that frontier models still solve fewer than a third of these problems shows that there is substantial room for improvement. Models can make partial progress on challenging problems, but they struggle to close the inferential loop. This failure pattern mirrors the contrast between human experts and novices. Experts use their experience to frame the problem and adapt their approach, while novices make observations but struggle to integrate them into the broader context of the problem.
 
 Pharmacogenomic time-to-event responseConditional cell-type heritabilityBridge-calibrated peptide pQTL
@@ -256,17 +209,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Mental Health Bench art card](https://images.ctfassets.net/kftzwdyauwt9/1GVQAEpVME68kCI7Ol2ApW/abde191546741612492ae27f9baf7f3e/Mental_Health_Bench__art_card.png?w=3840&q=90&fm=webp)
+![BioBasicsBench — Cover](https://images.ctfassets.net/kftzwdyauwt9/jNZJCNxCnXJEalE02MRYi/9c7ad4cdb35bae08e5e49eb6a2f65622/biobasicsbench-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing MentalHealthBenchPublicationSep 23, 2026](</index/introducing-mentalhealthbench/>)
+[Measuring how AI agents handle everyday wet-lab sciencePublicationNov 6, 2026](</index/measuring-how-ai-agents-handle-wet-lab-science/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![A thousand fewer paths to root — Cover](https://images.ctfassets.net/kftzwdyauwt9/6xmxSENf49pAUFzVokN3KG/3206934563d5b072f5a75139d6b26497/a-thousand-fewer-paths-to-root-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
+[A thousand fewer paths to rootSecurityNov 4, 2026](</index/a-thousand-fewer-paths-to-root/>)
 
-![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
+![Accelerating engineering for the physical world — card](https://images.ctfassets.net/kftzwdyauwt9/57kuzOPUZjrDUJwHE8nub0/30011dcc7969dfca81d5ac9e06aa31e5/accelerating-engineering-physical-world-card.png?w=3840&q=90&fm=webp)
 
-[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
+[Accelerating engineering for the physical worldResearchNov 3, 2026](</index/accelerating-engineering-for-the-physical-world/>)
 
 Research
 
@@ -278,10 +231,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -300,7 +253,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -327,8 +281,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -347,6 +301,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

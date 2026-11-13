@@ -38,8 +38,6 @@ Share
 
 We’re thrilled to announce that Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success. OpenAI has become the fastest-growing business platform in history, and Denise will help more businesses put AI to work in their day-to-day operations.
 
-![Image of Denise Dresser](https://images.ctfassets.net/kftzwdyauwt9/vXTPyYAP8hg14QslvyroU/536e20e60e44d844e8ddadd1d0508e46/image__24_.png?w=3840&q=90&fm=webp)
-
 Denise has experience running large businesses, understands customers deeply, and scaled products that people in the workplace love to use. Most recently, she served as CEO of Slack, where she led the company through its integration with Salesforce and helped redefine how millions of people use AI to work more efficiently and stay better connected. Prior to Slack, Denise spent more than a decade at Salesforce building and leading global sales organizations serving some of the company’s largest and most complex customers.
 
 > “We’re on a path to put AI tools into the hands of millions of workers, across every industry. Denise has led that kind of shift before, and her experience will help us make AI useful, reliable, and accessible for businesses everywhere.”
@@ -69,17 +67,17 @@ OpenAI
 
 [View all](</news/>)
 
-![The full stack behind abundant intelligence > Cover image](https://images.ctfassets.net/kftzwdyauwt9/4nRoI5iOfeV7qh4O3eAIEB/400545de8860b3c757548f2e3cd275fb/index-full-stack-behind-abundant-intelligence--cover-v001.png?w=3840&q=90&fm=webp)
+![ChatGPT for Veterans > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2xsjEAOhgideekNE2Xxxqk/fe4d5c8aecf7d6498d1e8026a5a56599/oai_GA_Stories_1.1.png?w=3840&q=90&fm=webp)
 
-[The full stack behind abundant intelligenceCompanyAug 25, 2026](</index/the-full-stack-behind-abundant-intelligence/>)
+[ChatGPT Plus for veterans and servicemembersCompanyNov 11, 2026](</index/chatgpt-plus-for-veterans/>)
 
-![Jalapeño inference — Art Card](https://images.ctfassets.net/kftzwdyauwt9/26K8mLbrpbaDvoFY0NrE04/8e4ad0b3f28042c22d6d5130bd4f4019/jalapeno-art-card.png?w=3840&q=90&fm=webp)
+![Helping caregivers use AI in everyday life — Cover](https://images.ctfassets.net/kftzwdyauwt9/2wwJf21F4rMJ6FffmYbEa5/0e9a21de969e280e77ae8ae66eaa03f6/helping-caregivers-use-ai-in-everyday-life-cover.png?w=3840&q=90&fm=webp)
 
-[Jalapeño’s first results show industry-leading speed and efficiency in AI inferenceEngineeringAug 25, 2026](</index/jalapeno-first-results/>)
+[Helping caregivers use AI in everyday lifeCompanyNov 10, 2026](</index/helping-caregivers-use-ai-in-everyday-life/>)
 
-![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
+![Closing the AI guidance gap in education — Cover](https://images.ctfassets.net/kftzwdyauwt9/3xRIBv3ZzYUCkX0v0ssRAD/b97d79a3107502fca0ba388910a9aa5c/closing-the-ai-guidance-gap-in-education-cover.png?w=3840&q=90&fm=webp)
 
-[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
+[Closing the AI guidance gap in educationCompanyNov 10, 2026](</index/closing-ai-guidance-gap-education/>)
 
 Research
 
@@ -91,9 +89,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -112,7 +111,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -130,6 +130,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -138,8 +139,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -158,6 +159,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

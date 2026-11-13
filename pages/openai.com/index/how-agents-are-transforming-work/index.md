@@ -36,9 +36,27 @@ A new Economic Research paper measuring Codex’s economic potential at the fron
 
 [Read the paper(opens in a new window)](<https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf>)
 
-Loading…
-
 Share
+
+Agents work longer hours on harder tasks
+
+  * Agents work longer hours on harder tasks
+  * Adoption continues to move from engineers to the rest of OpenAI
+  * Non-developers are the fastest-growing user groups
+  * Codex is expanding the horizon of potential productive work
+  * What this means for agents’ economic potential
+  * Citation
+
+
+
+  * Agents work longer hours on harder tasks
+  * Adoption continues to move from engineers to the rest of OpenAI
+  * Non-developers are the fastest-growing user groups
+  * Codex is expanding the horizon of potential productive work
+  * What this means for agents’ economic potential
+  * Citation
+
+
 
 Agentic AI changes the unit of knowledge work from single interactions to delegated, long-horizon tasks. Chatbot interactions are often short and self-contained. Agents can operate independently for minutes or hours while orchestrating tool calls, interacting with environments, and iterating towards solutions. As a result, agents are quickly becoming the most powerful AI tool for work.
 
@@ -104,6 +122,51 @@ Increased use of agentic tools by non-engineer employees expands the frontier of
 
 Our paper shows how frontier users adopt capable agentic tools at the frontier. Our results demonstrate what unfolds when people have broad, low-friction access to capable agentic tools: as the tools improve, people use them for longer, more complex, and more cross-functional work. As time goes on, this is likely to be what the future of work looks like.
 
+## Citation
+
+#### Citation
+
+`
+    
+    
+    1
+    
+    @techreport{openaiecon2026codex,
+    
+    2
+    
+      author = {Drew Johnston and David Holtz and Alex Martin Richmond and Christopher Ong and Prasanna Tambe and Aaron Chatterji},
+    
+    3
+    
+      title = {The Shift to Agentic {AI}: Evidence from {Codex}},
+    
+    4
+    
+      date = {2026-06},
+    
+    5
+    
+      year = {2026},
+    
+    6
+    
+      institution = {OpenAI},
+    
+    7
+    
+      type = {Working paper},
+    
+    8
+    
+      url = {https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf},
+    
+    9
+    
+    }
+
+`
+
   * [2026](</news/?tags=2026>)
   * [Economic Research](</news/?tags=economic-research>)
   * [Codex](</news/?tags=codex>)
@@ -131,17 +194,17 @@ These thresholds are model-estimated, so they should be treated as directional r
 
 [View all](</news/>)
 
-![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
+![ChatGPT for Veterans > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2xsjEAOhgideekNE2Xxxqk/fe4d5c8aecf7d6498d1e8026a5a56599/oai_GA_Stories_1.1.png?w=3840&q=90&fm=webp)
 
-[Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
+[ChatGPT Plus for veterans and servicemembersCompanyNov 11, 2026](</index/chatgpt-plus-for-veterans/>)
 
-![Airbnb widens access to GPT-6 Astra and OpenAI frontier models - card image](https://images.ctfassets.net/kftzwdyauwt9/2prIXE6DtUo7UsJqRAl52K/f8c082ed29505ebfbcff9fe828ccc123/airbnb-widens-access-to-gpt-6-astra-and-openai-frontier-models-cover.png?w=3840&q=90&fm=webp)
+![Helping caregivers use AI in everyday life — Cover](https://images.ctfassets.net/kftzwdyauwt9/2wwJf21F4rMJ6FffmYbEa5/0e9a21de969e280e77ae8ae66eaa03f6/helping-caregivers-use-ai-in-everyday-life-cover.png?w=3840&q=90&fm=webp)
 
-[Airbnb expands access to GPT-6 AstraCompanySep 23, 2026](</index/airbnb-gpt-6-astra/>)
+[Helping caregivers use AI in everyday lifeCompanyNov 10, 2026](</index/helping-caregivers-use-ai-in-everyday-life/>)
 
-![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
+![Closing the AI guidance gap in education — Cover](https://images.ctfassets.net/kftzwdyauwt9/3xRIBv3ZzYUCkX0v0ssRAD/b97d79a3107502fca0ba388910a9aa5c/closing-the-ai-guidance-gap-in-education-cover.png?w=3840&q=90&fm=webp)
 
-[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
+[Closing the AI guidance gap in educationCompanyNov 10, 2026](</index/closing-ai-guidance-gap-education/>)
 
 Research
 
@@ -153,10 +216,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -175,7 +238,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -202,8 +266,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -222,6 +286,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
