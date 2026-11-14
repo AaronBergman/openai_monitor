@@ -38,35 +38,53 @@ What we’re learning from collaborations with scientists.
 
 ![A collage-style graphic featuring abstract shapes and colors. The top left shows a muted orange block with partially visible text. The top right contains a branching diagram with thin black arrows diverging from a central black dot, along with small orange circles marking different points. The bottom left displays a soft blend of orange, pink, and purple gradients. The bottom right features a large black number “5” on a light blue background.](https://images.ctfassets.net/kftzwdyauwt9/50Tgf8AKO3UcLqZ11myv2j/7f3072b9df5d47fb71bddb323eb5ea6c/GPT5_Survey_16-9.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
-What is OpenAI for Science? 
+What is OpenAI for Science?
 
-  * What is OpenAI for Science? 
+  * What is OpenAI for Science?
+
   * How scientists are working with GPT-5 today
-  * The current state of GPT-5 in scientific work 
+
+  * The current state of GPT-5 in scientific work
+
   * What this looks like in practice: a few case studies
+
     * Independent rediscovery of known results at the scientific frontier
+
     * Deep literature search
+
     * Working in tandem with AI
+
     * New scientific results obtained with AI
+
   * Limitations
+
   * What’s next
 
 
 
-  * What is OpenAI for Science? 
+
+  * What is OpenAI for Science?
+
   * How scientists are working with GPT-5 today
-  * The current state of GPT-5 in scientific work 
+
+  * The current state of GPT-5 in scientific work
+
   * What this looks like in practice: a few case studies
+
     * Independent rediscovery of known results at the scientific frontier
+
     * Deep literature search
+
     * Working in tandem with AI
+
     * New scientific results obtained with AI
+
   * Limitations
+
   * What’s next
+
 
 
 
@@ -79,8 +97,11 @@ Today, we’re releasing “[Early science acceleration experiments with GPT‑5
 These case studies show how, in the hands of experts, GPT‑5 is accelerating scientific discovery, and why that acceleration matters:
 
   * **Biology** : In a study led by Derya Unutmaz, M.D., scientists spent months trying to explain a puzzling change in human immune cells. GPT‑5 identified the likely mechanism within minutes from an unpublished chart and suggested an experiment that proved it. This kind of speed could help researchers understand diseases faster and develop better treatments.
+
   * **Mathematics** : In another case, researchers Mehtaab Sawhney and Mark Sellke were tackling a decades-old open problem originally proposed by Paul Erdős. They were stuck on the final step, and GPT‑5 contributed a new idea about how one odd number breaks the pattern, which helped them complete the proof. Advances like this strengthen the mathematical foundations that many algorithms and security techniques ultimately rely on.
+
   * **Algorithms & optimization:** Researchers Sébastien Bubeck and Christian Coester were testing whether a common decision-making method used in robotics and routing was as reliable as people assumed. GPT‑5 found a new, clear example showing the method can fail and also improved a classic result in optimization, the math used to figure out the best way to solve a problem. This type of advance helps engineers better understand the decision-making systems used in robotics, routing, and other real-world applications.
+
 
 
 
@@ -103,8 +124,11 @@ Using GPT‑5 effectively is a skill. Researchers learn how to pose questions, w
 Across these early studies, GPT‑5 appears able to shorten parts of the research workflow when used by experts. It does not run projects or solve scientific problems autonomously, but it can expand the surface area of exploration and help researchers move faster toward correct results.
 
   * One emerging capability is conceptual literature search. GPT‑5 can often identify deeper relationships between ideas and retrieve relevant material across languages and less accessible sources. Researchers report finding references, connections, and theses they did not previously know.
+
   * In mathematics and theoretical computer science, where structure is explicit and feedback loops are fast, GPT‑5 is especially helpful. Mathematicians have used GPT‑5 to generate viable proof outlines in minutes, transforming work that otherwise might have taken days or weeks. In physics and computational domains, the model can propose simplifying transformations or point to analogous structures in other fields.
+
   * In biology and other empirical sciences, the model can propose mechanisms and design experiments to validate these hypotheses in the wet lab.
+
 
 
 
@@ -142,15 +166,17 @@ Kevin Weil
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![BioBasicsBench — Cover](https://images.ctfassets.net/kftzwdyauwt9/jNZJCNxCnXJEalE02MRYi/9c7ad4cdb35bae08e5e49eb6a2f65622/biobasicsbench-cover.png?w=3840&q=90&fm=webp)
 
-![Pacing model development in an era of cyber-critical capabilities — Card image](https://images.ctfassets.net/kftzwdyauwt9/3tUOfo4E1xZComoOiRjHJm/51c532f25dd4062f92bff0e41ea00c3c/index-pacing-model-development-cyber-capabilities-dark-cover.png?w=3840&q=90&fm=webp)
+[Measuring how AI agents handle everyday wet-lab sciencePublicationNov 6, 2026](</index/measuring-how-ai-agents-handle-wet-lab-science/>)
 
-[Pacing model development in an era of cyber-critical capabilitiesCompanyAug 18, 2026](</index/pacing-model-development-cyber-capabilities/>)
+![A thousand fewer paths to root — Cover](https://images.ctfassets.net/kftzwdyauwt9/6xmxSENf49pAUFzVokN3KG/3206934563d5b072f5a75139d6b26497/a-thousand-fewer-paths-to-root-cover.png?w=3840&q=90&fm=webp)
 
-![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
+[A thousand fewer paths to rootSecurityNov 4, 2026](</index/a-thousand-fewer-paths-to-root/>)
 
-[Ten advances in mathematics and theoretical computer sciencePublicationAug 1, 2026](</index/ten-advances-in-mathematics/>)
+![Accelerating engineering for the physical world — card](https://images.ctfassets.net/kftzwdyauwt9/57kuzOPUZjrDUJwHE8nub0/30011dcc7969dfca81d5ac9e06aa31e5/accelerating-engineering-physical-world-card.png?w=3840&q=90&fm=webp)
+
+[Accelerating engineering for the physical worldResearchNov 3, 2026](</index/accelerating-engineering-for-the-physical-world/>)
 
 Research
 
@@ -162,9 +188,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -183,7 +210,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -201,6 +229,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -209,8 +238,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -229,6 +258,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

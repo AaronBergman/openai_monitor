@@ -34,25 +34,33 @@ Updated: April 24, 2024
 
 ![Artistic illustration with bright green leaf-like patterns radiating from a central point, giving a sense of natural growth or energy.](https://images.ctfassets.net/kftzwdyauwt9/302c502a-f6d8-4d90-826324b962eb/8f3eab01eb38184f1acc1f3b6251ac9d/gpt-4-api-general-availability-and-final-update-to-the-completions-api.jpg?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 GPT-4 API general availability
 
   * GPT-4 API general availability
+
   * Moving from text completions to chat completions
+
   * Deprecation of older models in the Completions API
+
   * Deprecation of older embeddings models
+
   * Deprecation of the Edits API
+
 
 
 
   * GPT-4 API general availability
+
   * Moving from text completions to chat completions
+
   * Deprecation of older models in the Completions API
+
   * Deprecation of older embeddings models
+
   * Deprecation of the Edits API
+
 
 
 
@@ -60,7 +68,7 @@ GPT-4 API general availability
 
 Starting today, all paying API customers have access to GPT‑4. In March, we [introduced the OpenAI API⁠](</index/introducing-chatgpt-and-whisper-apis/>), and earlier this month we [released our first updates⁠](</index/function-calling-and-other-api-updates/>) to the chat-based models. We envision a future where chat-based models can support any use case. Today we’re announcing a deprecation plan for older models of the Completions API, and recommend that users adopt the Chat Completions API.
 
-## GPT-4 API general availability
+## GPT‑4 API general availability
 
 GPT‑4 is our most capable model. Millions of developers have requested access to the GPT‑4 API since March, and the range of [innovative products⁠](</stories/>) leveraging GPT‑4 is growing every day. Today all existing API developers with a history of successful payments can access the GPT‑4 API with 8K context. We plan to open up access to new developers by the end of this month, and then start raising rate-limits after that depending on compute availability.
 
@@ -172,10 +180,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -194,7 +202,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -221,8 +230,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -241,6 +250,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

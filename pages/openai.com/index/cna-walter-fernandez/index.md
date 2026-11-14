@@ -34,29 +34,37 @@ A conversation with Walter Fernandez, Editor-in-Chief of CNA.
 
 ![“Executive Function” Episode 14, with white text on a vibrant green, yellow, and blue gradient background.](https://images.ctfassets.net/kftzwdyauwt9/6yafjvP1EtAhqvNca0PNkM/40508d7638bd053340b810dbe56a9dde/EF_Ep14_16.9.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 Walter, today, every part of the newsroom at CNA is using AI. Looking back to when you were first starting this journey, what was the vision you had, and how does it compare to where you are today?
 
   * Walter, today, every part of the newsroom at CNA is using AI. Looking back to when you were first starting this journey, what was the vision you had, and how does it compare to where you are today?
+
   * I find it especially interesting that you started experimenting back in 2019. Adopting AI is very much about experimentation and learning. Among all the ways you’re using AI, what’s one major example you can share?
+
   * That’s a powerful example. And for citizens, having accurate, timely information during elections is critical. But I remember that at the beginning, there was some hesitation in your newsroom about AI tools. How did you shift the culture and get buy-in?
+
   * One of the things I’ve noticed is how your newsroom has changed—not just workflows, but culture. Looking ahead, not just for CNA but for the media industry globally, how do you see AI adoption evolving?
-  * What message would you share with your peers across APAC? 
+
+  * What message would you share with your peers across APAC?
+
 
 
 
   * Walter, today, every part of the newsroom at CNA is using AI. Looking back to when you were first starting this journey, what was the vision you had, and how does it compare to where you are today?
+
   * I find it especially interesting that you started experimenting back in 2019. Adopting AI is very much about experimentation and learning. Among all the ways you’re using AI, what’s one major example you can share?
+
   * That’s a powerful example. And for citizens, having accurate, timely information during elections is critical. But I remember that at the beginning, there was some hesitation in your newsroom about AI tools. How did you shift the culture and get buy-in?
+
   * One of the things I’ve noticed is how your newsroom has changed—not just workflows, but culture. Looking ahead, not just for CNA but for the media industry globally, how do you see AI adoption evolving?
-  * What message would you share with your peers across APAC? 
+
+  * What message would you share with your peers across APAC?
 
 
 
-** _Our Executive Function series features perspectives from leaders driving transformation through AI._**
+
+**_Our Executive Function series features perspectives from leaders driving transformation through AI._**
 
 Channel NewsAsia (CNA) is a global news network based in Singapore that reaches 150 million homes and connected devices across Asia, Europe, and the US. It produces award winning news and current affairs content across all platforms from digital, broadcast, audio and more. 
 
@@ -140,10 +148,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -162,7 +170,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -189,8 +198,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -209,6 +218,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

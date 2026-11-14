@@ -80,6 +80,14 @@ Switch cards to hide Media
 
 [Using ChatGPT to grow ATV Big Air TourSep 9, 2026](</index/growing-atv-big-air-tour/>)
 
+![Children run a football drill as Charlie watches.](https://images.ctfassets.net/kftzwdyauwt9/4G8h5lTPtQtk58OZFFey1y/a55481187db20f9ba41bc1ac8862c419/bloomsbury-football-cover.jpg?w=3840&q=90&fm=webp)
+
+[Using ChatGPT to accelerate a charity’s growthChatGPTNov 12, 2026](</index/bloomsbury-football-foundation/>)
+
+![White R&D lettering over a purple and orange thermal image of a racing helmet.](https://images.ctfassets.net/kftzwdyauwt9/1fQoJn1iZzzNqo5Nr8VI7h/3d208eb87ae1c69e6dbd03946f609346/chip-ganassi-racing-art-card.jpg?w=3840&q=90&fm=webp)
+
+[Chip Ganassi Racing × OpenAIAPIOct 7, 2026](</index/chip-ganassi-racing/>)
+
 ![CK Chan stands inside a large radio telescope dish.](https://images.ctfassets.net/kftzwdyauwt9/5Owa7Jyi5pMx1lDrvN1B2C/3036661e68edf2e77d2d5d2454653740/2026_04_Gardi_ProjectOwl_KittPeak_Day1_02144.jpg?w=3840&q=90&fm=webp)
 
 [Creating new simulations of black holes with CodexJun 11, 2026](</index/creating-new-simulations-black-holes/>)
@@ -87,10 +95,6 @@ Switch cards to hide Media
 ![A cyclist pushes a fat-tire bike across a wide snowy landscape.](https://images.ctfassets.net/kftzwdyauwt9/2tgWg3FVo92ztow3wQjynu/6803dbad048ec780c8f0c7c46347ebe9/OpenAI_Falcon_1x1.jpg?w=3840&q=90&fm=webp)
 
 [Training to cycle across Antarctica with ChatGPTJun 11, 2026](</index/cycling-across-antarctica/>)
-
-![OpenAI-branded Chip Ganassi Racing car on a track with large R&D text over a blurred grandstand.](https://images.ctfassets.net/kftzwdyauwt9/2sMgyKsbMrlLNgBeM8SYAh/83460e94830cfb5865cddb57e6fe837f/OpenAI_Ganassi_1x1.jpg?w=3840&q=90&fm=webp)
-
-[Chip Ganassi Racing × OpenAIAPIMay 28, 2026](</index/chip-ganassi-racing/>)
 
 ![Two people stand beside a large red combine harvester in an open, harvested field under a wide blue sky.](https://images.ctfassets.net/kftzwdyauwt9/6yOmkiVrFE8fk9ciEdFLyt/6cec40169a9c3d33c82b7a2935050d9e/SHARP_1x1_COMBINE.png?w=3840&q=90&fm=webp)
 
@@ -124,10 +128,6 @@ Switch cards to hide Media
 
 [How Cursor uses GPT-5APIAug 7, 2025](</index/gpt-5-cursor/>)
 
-![Fishing for first timers > Cover](https://images.ctfassets.net/kftzwdyauwt9/6cl3M6bIMNc5gIRSsJCQT4/92a5e4927ab415cee7a364320384a94d/Fishing_for_first_timers.jpg?w=3840&q=90&fm=webp)
-
-[Catching halibut with ChatGPTChatGPTFeb 4, 2025](</index/fishing-for-first-timers/>)
-
 Load more
 
 Research
@@ -140,10 +140,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -162,7 +162,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -189,8 +190,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -209,6 +210,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

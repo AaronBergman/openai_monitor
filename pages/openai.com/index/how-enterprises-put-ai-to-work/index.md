@@ -36,27 +36,41 @@ Two new reports show how AI adoption is spreading across firms and workers—and
 
 [Read Enterprise Signals](</signals/enterprise-data/>)[Read working paper(opens in a new window)](<https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf>)
 
-Loading…
-
 Share
 
 Enterprises are shifting from asking to doing
 
   * Enterprises are shifting from asking to doing
+
   * The frontier gap widens as firms embrace agentic AI
+
   * Advanced capabilities like Plugins and skills are more common at frontier firms
+
   * Agents are spreading across knowledge work
+
   * Early-career employees use AI more
+
   * What leaders can do to narrow the frontier gap
+
+  * Citation
+
 
 
 
   * Enterprises are shifting from asking to doing
+
   * The frontier gap widens as firms embrace agentic AI
+
   * Advanced capabilities like Plugins and skills are more common at frontier firms
+
   * Agents are spreading across knowledge work
+
   * Early-career employees use AI more
+
   * What leaders can do to narrow the frontier gap
+
+  * Citation
+
 
 
 
@@ -123,6 +137,71 @@ Read [Enterprise Signals](</signals/enterprise-data/>) for deeper insights into 
 
 Read [How Organizations Use AI: Evidence from ChatGPT⁠(opens in a new window)](<https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf>) to understand how adoption spreads across firms and workers.
 
+## Citation
+
+#### Citation
+
+`
+    
+    
+    1
+    
+    @techreport{openaiecon2026organizations,
+    
+    2
+    
+      author = {Aaron Chatterji and David Holtz and Neel Rakholia and Prasanna Tambe and Gawesha Weeratunga},
+    
+    3
+    
+      title = {How Organizations Use {AI}: Evidence from {ChatGPT}},
+    
+    4
+    
+      date = {2026-08-11},
+    
+    5
+    
+      year = {2026},
+    
+    6
+    
+      institution = {OpenAI},
+    
+    7
+    
+      type = {Working paper},
+    
+    8
+    
+      eprint = {2608.12236},
+    
+    9
+    
+      archivePrefix = {arXiv},
+    
+    10
+    
+      primaryClass = {econ.GN},
+    
+    11
+    
+      doi = {10.48550/arXiv.2608.12236},
+    
+    12
+    
+      note = {PDF version last updated August 11, 2026},
+    
+    13
+    
+      url = {https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf},
+    
+    14
+    
+    }
+
+`
+
 ## Keep reading
 
 [View all](</news/>)
@@ -149,10 +228,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -171,7 +250,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -198,8 +278,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -218,6 +298,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

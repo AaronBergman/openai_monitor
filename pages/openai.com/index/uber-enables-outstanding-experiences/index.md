@@ -34,29 +34,41 @@ A conversation with Jai Malkani, Head of AI and Product, Customer Obsession at U
 
 ![An image of artfully rendered waveform with "Ep 03" written atop. ](https://images.ctfassets.net/kftzwdyauwt9/130lqn7hvZXAUu1nK1kDWD/4ca08a9c10866ea9f99e7cb3a1580a72/EF_Uber_Website_Card_16.9.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 Uber is one of the largest mobility and delivery platforms in the world. Why is AI important and how does it fit into Uber’s broader strategy?
 
   * Uber is one of the largest mobility and delivery platforms in the world. Why is AI important and how does it fit into Uber’s broader strategy?
+
   * Uber operates a multi-sided marketplace, balancing the needs of consumers, drivers, and merchants. How is AI applied to address the unique needs of these groups?
+
   * How is Uber using AI for personalization and recommendations?
+
   * AI also has significant potential to impact workforce productivity. How is Uber utilizing AI internally?
+
   * How does Uber measure the impact of AI adoption, both internally and externally?
+
   * What advice would you give to other product leaders on successfully adopting AI?
+
   * One last question—what impact do you foresee AI having on the on-demand economy in the years ahead?
+
 
 
 
   * Uber is one of the largest mobility and delivery platforms in the world. Why is AI important and how does it fit into Uber’s broader strategy?
+
   * Uber operates a multi-sided marketplace, balancing the needs of consumers, drivers, and merchants. How is AI applied to address the unique needs of these groups?
+
   * How is Uber using AI for personalization and recommendations?
+
   * AI also has significant potential to impact workforce productivity. How is Uber utilizing AI internally?
+
   * How does Uber measure the impact of AI adoption, both internally and externally?
+
   * What advice would you give to other product leaders on successfully adopting AI?
+
   * One last question—what impact do you foresee AI having on the on-demand economy in the years ahead?
+
 
 
 
@@ -163,10 +175,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -185,7 +197,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -212,8 +225,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -232,6 +245,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

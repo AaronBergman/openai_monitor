@@ -34,8 +34,6 @@ May 6, 2024
 
 ![DALL·E 2024-05-05 13.43.50 - Create a highly abstract digital oil painting of the Stack Overflow logo without any geometric shapes resembling pillars. The artwork should use very](https://images.ctfassets.net/kftzwdyauwt9/70j9bZ3z8XUO0AOiRCS3zY/1aad5044f2532718aa599e249135ef0b/DALL_E_2024-05-05_13.43.50_-_Create_a_highly_abstract_digital_oil_painting_of_the_Stack_Overflow_logo_without_any_geometric.webp?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
  _Editor’s Note: This news was originally shared by Stack Overflow_[ __here__ ⁠(opens in a new window)](<https://stackoverflow.co/company/press/archive/openai-partnership/>)_._
@@ -45,7 +43,9 @@ OpenAI and Stack Overflow are coming together via OverflowAPI access to provide 
 As part of this collaboration:
 
   * OpenAI will utilize Stack Overflow’s OverflowAPI product and collaborate with Stack Overflow to improve model performance for developers who use their products. This integration will help OpenAI improve its AI models using enhanced content and feedback from the Stack Overflow community and provide attribution to the Stack Overflow community within ChatGPT to foster deeper engagement with content. 
+
   * Stack Overflow will utilize OpenAI models as part of their development of OverflowAI and work with OpenAI to leverage insights from internal testing to maximize the performance of OpenAI models. OpenAI’s partnership with Stack Overflow will help further drive its mission to empower the world to develop technology through collective knowledge, as Stack Overflow will be able to create better products that benefit the Stack Exchange community’s health, growth, and engagement.
+
 
 
 
@@ -74,9 +74,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -95,7 +96,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -113,6 +115,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -121,8 +124,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -141,6 +144,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
