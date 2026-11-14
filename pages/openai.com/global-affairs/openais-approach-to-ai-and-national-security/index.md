@@ -34,8 +34,6 @@ October 24, 2024
 
 ![A soft, abstract pastel image featuring swirling brushstrokes of lavender, blue, yellow, and green. The colors blend seamlessly, creating a soothing and ethereal effect, reminiscent of a sky or dreamy landscape.](https://images.ctfassets.net/kftzwdyauwt9/2kyyHvuYKqcsacwnKIhJKQ/c02566fc3249d5da108575081402d8b4/National_Security.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 Delivering on our mission through democratic AI leadership
@@ -77,9 +75,13 @@ OpenAI’s [_usage policies_ ⁠](<https://openai.com/policies/usage-policies/>)
 The values that guide our work on national security include:
 
   * **Democratic Values** : We believe that AI should be developed and used in ways that promote freedom, protect individual rights, and foster innovation. We believe that will require taking tangible steps to democratize access to the technology and maximize its economic, educational, and societal benefits. 
+
   * **Safety** : Our goal is to protect people from harm. We want AI to be used to mitigate risks, enhance security, and safeguard human rights, and we rigorously evaluate all potential applications to make sure they align with this principle.
+
   * **Responsibility** : We believe AI should be used for the common good. Our policies prohibit the use of AI to cause harm or infringe on basic rights, and we apply this rigorously to all potential partnerships, especially in sensitive areas like national security.
+
   * **Accountability** : AI systems must be developed and deployed with accountability at their core. We believe that all AI applications, especially those involving government and national security, should be subject to oversight, clear usage guidelines, and ethical standards.
+
 
 
 
@@ -109,9 +111,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -130,7 +133,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -148,6 +152,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -156,8 +161,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -176,6 +181,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

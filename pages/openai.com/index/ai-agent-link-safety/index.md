@@ -32,27 +32,37 @@ January 28, 2026
 
 # Keeping your data safe when an AI agent clicks a link
 
-Loading…
-
 Share
 
 The problem: a URL can carry more than a destination
 
   * The problem: a URL can carry more than a destination
+
   * Why simple “trusted site lists” aren’t enough
+
   * Our approach: allow automatic fetching only for URLs that are already public
+
   * What you might see as a user
+
   * What this protects against and what it doesn’t
+
   * Looking ahead
+
 
 
 
   * The problem: a URL can carry more than a destination
+
   * Why simple “trusted site lists” aren’t enough
+
   * Our approach: allow automatic fetching only for URLs that are already public
+
   * What you might see as a user
+
   * What this protects against and what it doesn’t
+
   * Looking ahead
+
 
 
 
@@ -97,7 +107,9 @@ To operationalize that, we rely on an **independent web index** (a crawler) that
 Then, when an agent is about to retrieve a URL automatically, we check whether that URL matches a URL previously observed by the independent index.
 
   * **If it matches:** the agent can load it automatically (for example, to open an article or render a public image).
+
   * **If it does not match:** we treat it as unverified and do not trust it immediately: either telling the agent to try a different website, or require explicit user action by showing a warning before it’s opened.
+
 
 
 
@@ -108,8 +120,11 @@ This shifts the safety question from “Do we trust this site?” to “Has this
 When a link can’t be verified as public and previously seen, we want to keep you in control. In those cases, you may see messaging along the lines of:
 
   * The link isn’t verified.
+
   * It may include information from your conversation.
+
   * Make sure you trust it before proceeding.
+
 
 
 
@@ -126,9 +141,13 @@ These safeguards are aimed at one specific guarantee:
 It does _not_ automatically guarantee that:
 
   * the content of a web page is trustworthy,
+
   * a site won’t try to socially engineer you,
+
   * a page won’t contain misleading or harmful instructions,
+
   * or that browsing is safe in every possible sense.
+
 
 
 
@@ -154,15 +173,17 @@ Adrian Spânu, Thomas Shadwell
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Introducing Control Room — Cover](https://images.ctfassets.net/kftzwdyauwt9/XFHiXwklxhUiqEYuo22MD/0767c09bbe4c850f05339215f444f097/introducing-control-room-cover.png?w=3840&q=90&fm=webp)
 
-![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
+[Control Room: A new way to track and stop AI workloadsSafetyNov 9, 2026](</index/control-room/>)
 
-[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
+![Partnering with Hacktron to find vulnerabilities in OpenAI’s systems — Cover](https://images.ctfassets.net/kftzwdyauwt9/3fdDXi3KINgse06btdaYYq/b14a269201ec921b530470d9a3326b1e/partnering-with-hacktron-cover.png?w=3840&q=90&fm=webp)
 
-![ChatGPT for Teens — square card](https://images.ctfassets.net/kftzwdyauwt9/5IP7e1KeD8zkZq6YUrKdKW/2325215681ea59d32dd09b3ea90f12c5/Art_Card-TEENS-1x13x.png?w=3840&q=90&fm=webp)
+[Partnering with Hacktron to strengthen OpenAI’s securitySecurityNov 6, 2026](</index/partnering-with-hacktron/>)
 
-[Introducing ChatGPT for TeensProductAug 18, 2026](</index/chatgpt-for-teens/>)
+![GPT-6 Cyber — Cover](https://images.ctfassets.net/kftzwdyauwt9/1AiFc9sQFyo6YguQtfjHHN/3ac0a37435e1dfd2b532eaefe26b18bb/gpt-6-cyber-cover.png?w=3840&q=90&fm=webp)
+
+[GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agentsProductNov 5, 2026](</index/introducing-gpt-6-cyber/>)
 
 Research
 
@@ -174,9 +195,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -195,7 +217,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -213,6 +236,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -221,8 +245,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -241,6 +265,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

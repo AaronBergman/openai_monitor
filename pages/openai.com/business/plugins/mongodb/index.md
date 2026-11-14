@@ -30,7 +30,7 @@ OpenAI
 
 ![](https://files.openai.com/content?id=file_000000006128824382b4c3ad66a596e3&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=50bd4935c54840b2d48e9475f13d1d5f0b871988437c32444a362dc2bd9ea30a&v=0)![](https://files.openai.com/content?id=file_000000004b048243ba04d6743eb002c5&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=8&sig=dc1a9d37ffc984e3cc3abfd0db6c6e0d81e9e47abfd5a77b422b0d4fc1cfdacd&v=0)
 
-# MongoDB
+# MongoDB Atlas
 
 Connect to MongoDB Atlas
 
@@ -55,19 +55,19 @@ Manage MongoDB Atlas and query your data. Connect to any MongoDB cluster or Atla
 
 ![](https://files.openai.com/content?id=file_00000000c74c81f4abf2d67234503030&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=e4ee497a3c171a2216c9227600fca6d715f038d4d9675b3059fdc6cb2f3168a5&v=0)MongoDB Inspect our orders schema, then aggregate sales by month and product for the last six months. Identify the largest changes, show the aggregation pipeline, and summarize any data gaps affecting the analysis.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40MongoDB+Inspect+our+orders+schema%2C+then+aggregate+sales+by+month+and+product+for+the+last+six+months.+Identify+the+largest+changes%2C+show+the+aggregation+pipeline%2C+and+summarize+any+data+gaps+affecting+the+analysis.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a5fa5e2392c8191824fb0340191afba?install&prompt=Inspect%20our%20orders%20schema%2C%20then%20aggregate%20sales%20by%20month%20and%20product%20for%20the%20last%20six%20months.%20Identify%20the%20largest%20changes%2C%20show%20the%20aggregation%20pipeline%2C%20and%20summarize%20any%20data%20gaps%20affecting%20the%20analysis.&surface=work>)
 
   * ### Audit customer data quality
 
 ![](https://files.openai.com/content?id=file_00000000c74c81f4abf2d67234503030&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=e4ee497a3c171a2216c9227600fca6d715f038d4d9675b3059fdc6cb2f3168a5&v=0)MongoDB Inspect the customers collection for missing identifiers, duplicate email addresses, and inconsistent field types. Quantify each issue and propose a prioritized cleanup plan without changing documents.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40MongoDB+Inspect+the+customers+collection+for+missing+identifiers%2C+duplicate+email+addresses%2C+and+inconsistent+field+types.+Quantify+each+issue+and+propose+a+prioritized+cleanup+plan+without+changing+documents.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a5fa5e2392c8191824fb0340191afba?install&prompt=Inspect%20the%20customers%20collection%20for%20missing%20identifiers%2C%20duplicate%20email%20addresses%2C%20and%20inconsistent%20field%20types.%20Quantify%20each%20issue%20and%20propose%20a%20prioritized%20cleanup%20plan%20without%20changing%20documents.&surface=work>)
 
   * ### Prioritize query improvements
 
 ![](https://files.openai.com/content?id=file_00000000c74c81f4abf2d67234503030&cdn=1&cp=pi&ma=31968000&ts=0&p=pi&cid=8&sig=e4ee497a3c171a2216c9227600fca6d715f038d4d9675b3059fdc6cb2f3168a5&v=0)MongoDB Review Performance Advisor recommendations and slow query logs for my Atlas cluster. Compare suggested indexes with existing ones, prioritize the highest-impact candidates, and explain the evidence and tradeoffs.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40MongoDB+Review+Performance+Advisor+recommendations+and+slow+query+logs+for+my+Atlas+cluster.+Compare+suggested+indexes+with+existing+ones%2C+prioritize+the+highest-impact+candidates%2C+and+explain+the+evidence+and+tradeoffs.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_6a5fa5e2392c8191824fb0340191afba?install&prompt=Review%20Performance%20Advisor%20recommendations%20and%20slow%20query%20logs%20for%20my%20Atlas%20cluster.%20Compare%20suggested%20indexes%20with%20existing%20ones%2C%20prioritize%20the%20highest-impact%20candidates%2C%20and%20explain%20the%20evidence%20and%20tradeoffs.&surface=work>)
 
 
 
@@ -93,13 +93,13 @@ Manage MongoDB Atlas and query your data. Connect to any MongoDB cluster or Atla
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://support.mongodb.com/>)
+### [Plugin supportLearn more(opens in a new window)](<https://support.mongodb.com/>)
 
-### [Privacy policyLearn more](<https://www.mongodb.com/legal/privacy/privacy-policy>)
+### [Privacy policyLearn more(opens in a new window)](<https://www.mongodb.com/legal/privacy/privacy-policy>)
 
-## Add the MongoDB plugin in a few clicks
+## Add the MongoDB Atlas plugin in a few clicks
 
 Availability depends on the plugin, your plan, and workspace settings. Some connections require admin setup or approval. Contact your workspace admin if access is blocked.
 
@@ -107,13 +107,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests.](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)Google FirebaseBuild and manage Firebase apps](</business/plugins/firebase/>)[![](https://files.openai.com/content?id=file_0000000061808208a0ba7d0cacf9a3c7&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=c678cbe8bab4044fb4dc7e3b2dec96396a91828ad6edb77f5d8f7cc69a6b5e59&v=0)![](https://files.openai.com/content?id=file_0000000061808208a0ba7d0cacf9a3c7&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=c678cbe8bab4044fb4dc7e3b2dec96396a91828ad6edb77f5d8f7cc69a6b5e59&v=0)Microsoft Azure CosmosDBAzure Cosmos DB plugin](</business/plugins/microsoft-azure-cosmosdb/>)[![](https://files.openai.com/content?id=file_0000000089e88210b97f2055f754743c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=3bd7e451889949a66e1b5b7a65e9a9d79bb852f6236c5520d688c16fcf5e7c71&v=0)![](https://files.openai.com/content?id=file_0000000089e88210b97f2055f754743c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=3bd7e451889949a66e1b5b7a65e9a9d79bb852f6236c5520d688c16fcf5e7c71&v=0)Redis IncBuild Redis applications](</business/plugins/redis/>)[![](https://files.openai.com/content?id=file_000000009b8471f4bd4c0a644b3f1b4d&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=0f067aa3abfe91502756fdd381b2577684eabf146a251d731310e6f471f6370a&v=0)![](https://files.openai.com/content?id=file_000000009b8471f4bd4c0a644b3f1b4d&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=0f067aa3abfe91502756fdd381b2577684eabf146a251d731310e6f471f6370a&v=0)ClickHouseExplore ClickHouse Cloud](</business/plugins/clickhouse/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_000000002684720c81b0d1d022c3dfd2&cdn=1&cp=pi&ma=30844800&ts=0&p=pi&cid=1&sig=4e111632389ebc732936b83f809c131e3a5fa201ca4cb43c8ea9b6fa2d62a87e&v=0)![](https://files.openai.com/content?id=file_00000000cba0822fa2188c4c599f4181&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=1&sig=34a683b818c6593bfcc47dd950aaadc850fbd5861b79f237b4627d27372983d1&v=0)GitHubAccess repositories, issues, and pull requests](</business/plugins/github/>)[![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)![](https://files.openai.com/content?id=file_00000000da6c81f58455d98a59b9e028&cdn=1&cp=pi&ma=30931200&ts=0&p=pi&cid=8&sig=03536f130f44c90a94877d9e78404b93460a7566485b46608088528082eb91c0&v=0)FirebaseBuild and deploy apps faster](</business/plugins/firebase/>)[![](https://files.openai.com/content?id=file_0000000061808208a0ba7d0cacf9a3c7&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=c678cbe8bab4044fb4dc7e3b2dec96396a91828ad6edb77f5d8f7cc69a6b5e59&v=0)![](https://files.openai.com/content?id=file_0000000061808208a0ba7d0cacf9a3c7&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=c678cbe8bab4044fb4dc7e3b2dec96396a91828ad6edb77f5d8f7cc69a6b5e59&v=0)Azure Cosmos DBAzure Cosmos DB plugin](</business/plugins/microsoft-azure-cosmosdb/>)[![](https://files.openai.com/content?id=file_0000000089e88210b97f2055f754743c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=3bd7e451889949a66e1b5b7a65e9a9d79bb852f6236c5520d688c16fcf5e7c71&v=0)![](https://files.openai.com/content?id=file_0000000089e88210b97f2055f754743c&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=3bd7e451889949a66e1b5b7a65e9a9d79bb852f6236c5520d688c16fcf5e7c71&v=0)RedisBuild Redis applications](</business/plugins/redis/>)[![](https://files.openai.com/content?id=file_000000009b8471f4bd4c0a644b3f1b4d&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=0f067aa3abfe91502756fdd381b2577684eabf146a251d731310e6f471f6370a&v=0)![](https://files.openai.com/content?id=file_000000009b8471f4bd4c0a644b3f1b4d&cdn=1&cp=pi&ma=31708800&ts=0&p=pi&cid=8&sig=0f067aa3abfe91502756fdd381b2577684eabf146a251d731310e6f471f6370a&v=0)ClickHouseExplore ClickHouse Cloud](</business/plugins/clickhouse/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -125,10 +135,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -147,7 +157,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -174,8 +185,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -194,6 +205,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -222,20 +234,20 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-### 1Find the MongoDB plugin1Find the MongoDB plugin
+### 1Find the MongoDB Atlas plugin1Find the MongoDB Atlas plugin
 
 Browse for plugins that support your team’s tools and tasks.
 
-![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/2jqkTQJ2Vae2cDvApwjWbv/114f8094264b251a25199e96d36f0461/plugins_1.png?w=3840&q=90&fm=webp)
 
 ### 2Install and connect2Install and connect
 
 Install the plugin, then follow the prompts to review permissions and connect any required apps.
 
-![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/5iBYEOE8sKrm8lebUKnhWT/9dab229e6349d43666420ea5ca0ef084/plugins_2.png?w=3840&q=90&fm=webp)
 
 ### 3Put it to work3Put it to work
 
 Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
 
-![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/7edxmffWzWeYqCBBoGeGy4/94ca943f1a14a78cb14f5e25d875901d/plugins_3.png?w=3840&q=90&fm=webp)

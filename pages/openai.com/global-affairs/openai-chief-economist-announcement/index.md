@@ -36,8 +36,6 @@ Chief Economist will lead research to better understand AI’s economic impacts 
 
 ![The image displays a pastel-colored abstract texture with soft hues of green, blue, and light yellow blending together. It resembles flowing, cloud-like shapes, with some areas of white and light purple, creating a soothing, airy, and organic effect.](https://images.ctfassets.net/kftzwdyauwt9/2U91YnNo23rKBcU1b5Dpqj/7fd71976e6966e67a9661319ff85931f/Professor_Aaron_Chatterji_named_OpenAI_s_first_Chief_Economist.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 At OpenAI, we believe artificial intelligence can transform economies through innovation and increased productivity. To better understand AI’s economic impacts, and help people harness its potential to solve hard problems and create a more prosperous future, we have appointed Dr. Aaron “Ronnie” Chatterji, Duke University professor of business and public policy and former White House CHIPS coordinator, as OpenAI’s first Chief Economist. 
@@ -73,9 +71,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -94,7 +93,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -112,6 +112,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -120,8 +121,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -140,6 +141,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

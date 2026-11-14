@@ -34,27 +34,37 @@ A conversation with Oliver Byers, Chief Financial Officer, Virgin Atlantic
 
 ![Gradient background blending red, pink, and purple tones with white text reading “Executive Function” on the left and “Ep 17” on the right.](https://images.ctfassets.net/kftzwdyauwt9/29nEw5IC4FRJryGjSm6iGZ/8cbe70112c818b448cc73dc5a3fa28ff/EF_Ep17_16.9.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 CFOs often have a high bar to pass to support investing in new technologies. As CFO, what convinced you that AI was worth prioritizing across the business initially and at a larger scale?
 
   * CFOs often have a high bar to pass to support investing in new technologies. As CFO, what convinced you that AI was worth prioritizing across the business initially and at a larger scale?
+
   * Internally, your teams are already seeing major productivity gains from using Codex and ChatGPT Enterprise across a range of functions and use cases. What are some of your favorite examples of AI adoption across the business?
+
   * Virgin Atlantic has always been a forward-thinking brand focused on people. How do you equip your team members to get the most out of your AI investments?
+
   * Virgin Atlantic’s new digital concierge shows how AI can reimagine brand experiences in a way that feels distinctly human and on-brand. How do you think about designing AI solutions that enhance the brand experience and build business value?
+
   * What frameworks or measures do you use to judge whether AI is delivering ROI—both in the short term and as a longer-term strategic bet?
+
   * Do you have any advice for other CFOs and business leaders to ensure they see successful AI adoption across the business?
+
 
 
 
   * CFOs often have a high bar to pass to support investing in new technologies. As CFO, what convinced you that AI was worth prioritizing across the business initially and at a larger scale?
+
   * Internally, your teams are already seeing major productivity gains from using Codex and ChatGPT Enterprise across a range of functions and use cases. What are some of your favorite examples of AI adoption across the business?
+
   * Virgin Atlantic has always been a forward-thinking brand focused on people. How do you equip your team members to get the most out of your AI investments?
+
   * Virgin Atlantic’s new digital concierge shows how AI can reimagine brand experiences in a way that feels distinctly human and on-brand. How do you think about designing AI solutions that enhance the brand experience and build business value?
+
   * What frameworks or measures do you use to judge whether AI is delivering ROI—both in the short term and as a longer-term strategic bet?
+
   * Do you have any advice for other CFOs and business leaders to ensure they see successful AI adoption across the business?
+
 
 
 
@@ -132,17 +142,17 @@ _Virgin Atlantic uses ChatGPT Enterprise and Codex across its operations, and le
 
 ## Keep reading
 
-![Better prompt caching for GPT-6 — Card image](https://images.ctfassets.net/kftzwdyauwt9/72ZKzMh8JgRDfdg4EYRtwY/ee5e406a08b69f00b0beb4ac00270364/7kneoqlc2qh37z1utkmtfk-cover-v1.png?w=3840&q=90&fm=webp)
+![Introducing ChatGPT Wallet for agents — Cover](https://images.ctfassets.net/kftzwdyauwt9/5XXHqQ61pm335AlEJ6i24k/05c87c234b2be2cd3fdc68645fc24f18/introducing-chatgpt-wallet-for-agents-cover.png?w=3840&q=90&fm=webp)
 
-[Better prompt caching for GPT-6ProductSep 22, 2026](</index/better-prompt-caching-for-gpt-6/>)
+[Introducing ChatGPT WalletProductNov 13, 2026](</index/introducing-chatgpt-wallet/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![Shield customer story art card](https://images.ctfassets.net/kftzwdyauwt9/4CfbTP671OIBXAefIhFylo/55459081ad76a55d751bda065ff309f3/square.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
+[Shield helps technicians hand off legacy portal work with OpenAINov 13, 2026](</business/customer-stories/shield/>)
 
-![Parallel customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/IE8b4WhSed5XqFQUzyyp7/40124aabc92ea8266c99be14d0f380f1/square.png?w=3840&q=90&fm=webp)
+![Amplitude Wave — Art card](https://images.ctfassets.net/kftzwdyauwt9/2BBTZsqFM3kvrX5Aq081SW/4636fa59c50e62172558d21effcaeca4/amplitude-wave-art-card.png?w=3840&q=90&fm=webp)
 
-[Parallel cut research time and cost in half with GPT‑6 AstraStartupSep 22, 2026](</index/parallel-cuts-time-and-cost-with-astra/>)
+[How Amplitude ships product improvements in 1–2 days with OpenAINov 12, 2026](</business/customer-stories/amplitude/>)
 
 Research
 
@@ -154,10 +164,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -176,7 +186,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -203,8 +214,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -223,6 +234,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -32,153 +32,73 @@ Customer stories
 
 [Contact sales](</contact-sales/>)
 
-![NVIDIA featured card image.](https://images.ctfassets.net/kftzwdyauwt9/5HtdVj1sIxhYm7RxX5iv3i/3ed63da9cd03a9363fd0e4b3f0cb9dee/oai_NVIDIA_1x1_Featured.jpg?w=3840&q=90&fm=webp)
+![Person placing a serving platter on a kitchen shelf while another watches, with OpenAI and Wayfair logos above.](https://images.ctfassets.net/kftzwdyauwt9/5Hw7oO98u9sz9dsox9Yr6N/717ff005fe4152a4bf4139e0ae421fd9/d57d8486-b620-42e2-b4df-a669d81c18fc.png?w=3840&q=90&fm=webp)
 
-10x
+[Read more](</index/wayfair/>)
 
-## Speed improvement in end-to-end research workflows
+![Lowe’s associate using a handheld device to help a customer choose paint, with OpenAI and Lowe’s logos above.](https://images.ctfassets.net/kftzwdyauwt9/2OBeu71OikxLGBbwWkZbqM/2f81d57b3eed0c3b2d90df8c4e72cb67/50ccf51d-ccac-4900-86b4-c11837690ea1.png?w=3840&q=90&fm=webp)
 
-[Read more](</index/nvidia/>)
+[Read more](</index/wayfair/>)
 
-![BBVA featured card image.](https://images.ctfassets.net/kftzwdyauwt9/4lix59W7tWJ8tE79w5PyDo/a216ff2cbed5fb052146adb32cc8d57a/oai_BBVA_1x1_Featured.jpg?w=3840&q=90&fm=webp)
+![Person placing a serving platter on a kitchen shelf while another watches, with OpenAI and Wayfair logos above.](https://images.ctfassets.net/kftzwdyauwt9/5Hw7oO98u9sz9dsox9Yr6N/717ff005fe4152a4bf4139e0ae421fd9/d57d8486-b620-42e2-b4df-a669d81c18fc.png?w=3840&q=90&fm=webp)
 
-10x
+[Read more](</index/wayfair/>)
 
-## Speed improvement in end-to-end research workflows
+![Lowe’s associate using a handheld device to help a customer choose paint, with OpenAI and Lowe’s logos above.](https://images.ctfassets.net/kftzwdyauwt9/2OBeu71OikxLGBbwWkZbqM/2f81d57b3eed0c3b2d90df8c4e72cb67/50ccf51d-ccac-4900-86b4-c11837690ea1.png?w=3840&q=90&fm=webp)
 
-[Read more](</index/nvidia/>)
-
-![Balyasny Asset Management featured card image.](https://images.ctfassets.net/kftzwdyauwt9/5RvYx3POt4gJ17TvlFMt4f/9f45672594d2e3afa954c88f969d1f83/oai_Balyasny_1x1_Featured.jpg?w=3840&q=90&fm=webp)
-
-10x
-
-## Speed improvement in end-to-end research workflows
-
-[Read more](</index/nvidia/>)
-
-![Cisco featured card image.](https://images.ctfassets.net/kftzwdyauwt9/nchmg80Ezss5tVmMPjx54/bf44255eef7bf9f9c67b53cb2b3e713b/oai_Cisco_1x1_Featured__1_.png?w=3840&q=90&fm=webp)
-
-10x
-
-## Speed improvement in end-to-end research workflows
-
-[Read more](</index/nvidia/>)
-
-![Virgin Atlantic featured card image.](https://images.ctfassets.net/kftzwdyauwt9/4syu8nj63KLb4QxUvBe8e2/ac282c37f99ad2e8d1713dd16d5d5c2b/oai_VirginAtlantic_1x1_Featured.jpg?w=3840&q=90&fm=webp)
-
-10x
-
-## Speed improvement in end-to-end research workflows
-
-[Read more](</index/nvidia/>)
-
-![Warp featured card image.](https://images.ctfassets.net/kftzwdyauwt9/2Gt62oKJLF2N5F5xAx6o7i/aee7142c1c61b5f02673f969218e47df/oai_warp_1x1_Featured.jpg?w=3840&q=90&fm=webp)
-
-10x
-
-## Speed improvement in end-to-end research workflows
-
-[Read more](</index/nvidia/>)
-
-![NVIDIA featured card image.](https://images.ctfassets.net/kftzwdyauwt9/5HtdVj1sIxhYm7RxX5iv3i/3ed63da9cd03a9363fd0e4b3f0cb9dee/oai_NVIDIA_1x1_Featured.jpg?w=3840&q=90&fm=webp)
-
-10x
-
-## Speed improvement in end-to-end research workflows
-
-[Read more](</index/nvidia/>)
-
-![BBVA featured card image.](https://images.ctfassets.net/kftzwdyauwt9/4lix59W7tWJ8tE79w5PyDo/a216ff2cbed5fb052146adb32cc8d57a/oai_BBVA_1x1_Featured.jpg?w=3840&q=90&fm=webp)
-
-10x
-
-## Speed improvement in end-to-end research workflows
-
-[Read more](</index/nvidia/>)
-
-![Balyasny Asset Management featured card image.](https://images.ctfassets.net/kftzwdyauwt9/5RvYx3POt4gJ17TvlFMt4f/9f45672594d2e3afa954c88f969d1f83/oai_Balyasny_1x1_Featured.jpg?w=3840&q=90&fm=webp)
-
-10x
-
-## Speed improvement in end-to-end research workflows
-
-[Read more](</index/nvidia/>)
-
-![Cisco featured card image.](https://images.ctfassets.net/kftzwdyauwt9/nchmg80Ezss5tVmMPjx54/bf44255eef7bf9f9c67b53cb2b3e713b/oai_Cisco_1x1_Featured__1_.png?w=3840&q=90&fm=webp)
-
-10x
-
-## Speed improvement in end-to-end research workflows
-
-[Read more](</index/nvidia/>)
-
-![Virgin Atlantic featured card image.](https://images.ctfassets.net/kftzwdyauwt9/4syu8nj63KLb4QxUvBe8e2/ac282c37f99ad2e8d1713dd16d5d5c2b/oai_VirginAtlantic_1x1_Featured.jpg?w=3840&q=90&fm=webp)
-
-10x
-
-## Speed improvement in end-to-end research workflows
-
-[Read more](</index/nvidia/>)
-
-![Warp featured card image.](https://images.ctfassets.net/kftzwdyauwt9/2Gt62oKJLF2N5F5xAx6o7i/aee7142c1c61b5f02673f969218e47df/oai_warp_1x1_Featured.jpg?w=3840&q=90&fm=webp)
-
-10x
-
-## Speed improvement in end-to-end research workflows
-
-[Read more](</index/nvidia/>)
+[Read more](</index/wayfair/>)
 
 * * *
 
 Filter
 
-![Proaction customer story art card - Option A](https://images.ctfassets.net/kftzwdyauwt9/46K6EGB5ApjTSkngvI7uU7/ce0c43f11865fd90348773ceb39485ee/proaction-option-a-art-card.png?w=3840&q=90&fm=webp)
+![Shield customer story art card](https://images.ctfassets.net/kftzwdyauwt9/4CfbTP671OIBXAefIhFylo/55459081ad76a55d751bda065ff309f3/square.png?w=3840&q=90&fm=webp)
 
-[Proaction boosts sales 60% and saves 75+ hours with CodexSep 25, 2026](</index/proaction/>)
+[Shield helps technicians hand off legacy portal work with OpenAINov 13, 2026](</business/customer-stories/shield/>)
 
-![Harvey customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/59usTWVI6pc0I3Lb6TL2ol/3d45075f7a623fa6ba4d8d13459065c1/square.png?w=3840&q=90&fm=webp)
+![Amplitude Wave — Art card](https://images.ctfassets.net/kftzwdyauwt9/2BBTZsqFM3kvrX5Aq081SW/4636fa59c50e62172558d21effcaeca4/amplitude-wave-art-card.png?w=3840&q=90&fm=webp)
 
-[Harvey turns legal context into stronger drafts with GPT-6 AstraStartupSep 23, 2026](</index/harvey-from-context-to-confidence-with-astra/>)
+[How Amplitude ships product improvements in 1–2 days with OpenAINov 12, 2026](</business/customer-stories/amplitude/>)
 
-![Ringg AI customer story art card and hero](https://images.ctfassets.net/kftzwdyauwt9/6bRPKvsny2bwgyOeg0Pedd/5dd852a286ea92589a5d420b21302a0c/square.png?w=3840&q=90&fm=webp)
+![Gondola — art card and hero](https://images.ctfassets.net/kftzwdyauwt9/5B8tYqcVtztQ9PNAvMLPLO/8f2fc1472cb497b2d2b8ff82c0c1eeba/Gondola-Option-A-Art-Card-1080x1080.png?w=3840&q=90&fm=webp)
 
-[Ringg’s AI agents resolve up to 65% of customer calls with OpenAISep 23, 2026](</index/ringg/>)
+[Gondola doubles revenue as its team builds more with CodexStartupNov 12, 2026](</business/customer-stories/gondola/>)
 
-![invideo Option A art card](https://images.ctfassets.net/kftzwdyauwt9/4QPdAp4iQxAkrAoQN8KFUS/e1deb278d661379f1951728de0c49752/square.png?w=3840&q=90&fm=webp)
+![Holiday Extras — Hero](https://images.ctfassets.net/kftzwdyauwt9/1pQ0jmmXO4srma6UqEuFtH/479d0a9d0ba2501f31c0dc3a0767430b/holiday-extras-hero.png?w=3840&q=90&fm=webp)
 
-[invideo improves color correction and grading 3x with GPT‑6 AstraSep 23, 2026](</index/invideo-builds-with-gpt-6-astra/>)
+[Holiday Extras is rethinking what it can build with CodexNov 12, 2026](</business/customer-stories/holidays-extras-codex/>)
 
-![Parallel customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/IE8b4WhSed5XqFQUzyyp7/40124aabc92ea8266c99be14d0f380f1/square.png?w=3840&q=90&fm=webp)
+![Executive Function Episode 21 — Cover](https://images.ctfassets.net/kftzwdyauwt9/HIYdv6bQSaXtHQehqsoMn/0d0fddcbf9618f4d676236799dce3934/EF_Ep21_1.1.png?w=3840&q=90&fm=webp)
 
-[Parallel cut research time and cost in half with GPT‑6 AstraStartupSep 22, 2026](</index/parallel-cuts-time-and-cost-with-astra/>)
+[Gilbert + Tobin rethinks the business of law with AINov 12, 2026](</index/gilbert-tobin-sam-nickless/>)
 
-![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
+![Executive Function Episode 20 — Cover](https://images.ctfassets.net/kftzwdyauwt9/2WBy5C7eDFv3hlJrjP78x2/528002b0e9b1dde9d268828810ee1c87/EF_Ep20_1.1.png?w=3840&q=90&fm=webp)
 
-[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
+[JioStar’s chief architect on AI discovery at 500M-user scaleNov 11, 2026](</index/jiostar-vijay-seshadri/>)
 
-![V7 customer story art card - smaller logo](https://images.ctfassets.net/kftzwdyauwt9/3Av2nLs9MOiSrB5wMXLvL2/35fbde20aca9773bd64b1e8ea2897750/square.png?w=3840&q=90&fm=webp)
+![Singapore Airlines — Curved satin cover](https://images.ctfassets.net/kftzwdyauwt9/14H7MTgTXxn9etfW0YapIZ/5bb0f93a51903db4fde86615f652d8cf/singapore-airlines-curved-satin-cover.png?w=3840&q=90&fm=webp)
 
-[How V7 gives AI agents institutional memoryStartupSep 21, 2026](</index/v7/>)
+[Singapore Airlines elevates travel & work with OpenAI technologyNov 10, 2026](</index/singapore-airlines-travel-work/>)
 
-![Cooley customer story Option A art card](https://images.ctfassets.net/kftzwdyauwt9/5OYdzanPC7fpSJGLq4nEei/6b2c065869933403a99fd6ccf36a6aa0/square.png?w=3840&q=90&fm=webp)
+![Cogent Security — cover \(sienna\)](https://images.ctfassets.net/kftzwdyauwt9/1b77wWqxMlNBg59VRDTuuQ/46601ae75270e4d037359127eb09a76c/cogent-security-cover-sienna.png?w=3840&q=90&fm=webp)
 
-[How Cooley is accelerating IPO work with ChatGPTSep 17, 2026](</index/cooley-gopublic/>)
+[Cogent and OpenAI build cyber defense factories for enterprisesStartupNov 10, 2026](</index/cogent-security/>)
 
-![Hex customer story art card - Option A](https://images.ctfassets.net/kftzwdyauwt9/5bCMJ2MIvqqM2APZbalxmT/c17219c832b98a3a79a4b9d014fecda8/square.png?w=3840&q=90&fm=webp)
+![CodeRabbit — Indigo texture art card](https://images.ctfassets.net/kftzwdyauwt9/1YFM9mFKP6ZzABichElFUi/9a6569f02f982f80d80941019f522a99/coderabbit-art-card-1080x1080.png?w=3840&q=90&fm=webp)
 
-[Hex turns complex analysis into visual reports with GPT‑6 AstraStartupSep 16, 2026](</index/hex-gpt-6-astra/>)
+[CodeRabbit scales agentic software development and ships 20x moreStartupNov 9, 2026](</index/coderabbit-codex-daybreak/>)
 
-![Fyxer customer story 1x1 image](https://images.ctfassets.net/kftzwdyauwt9/7LbXXCnX1NLyS1i8mHGF1i/d75fdf2bf63cf463ce2e72915a783757/oai_Fyxer_1x1.png?w=3840&q=90&fm=webp)
+![Kuken Industries — cover](https://images.ctfassets.net/kftzwdyauwt9/6c3ck8Tj3NczWnTcGZn5Bh/16799d53730276bfd45315685bb75b55/kuken-cover.png?w=3840&q=90&fm=webp)
 
-[How Fyxer built an AI executive assistant people trustStartupSep 14, 2026](</index/fyxer/>)
+[Kuken Industries searches 70 years of drawings in minutesNov 9, 2026](</index/kuken/>)
 
-![Perplexity customer story art card](https://images.ctfassets.net/kftzwdyauwt9/wGvW7AaxivnlRvLvZU7CE/146fd791b18b52b67dbb0a3692357a72/square.png?w=3840&q=90&fm=webp)
+![Cult.fit — Hero and cover](https://images.ctfassets.net/kftzwdyauwt9/6qijtPjALtx93NzSitNuk5/6dda1b2310399c1bf47ad53a94479203/cultfit-hero-cover.png?w=3840&q=90&fm=webp)
 
-[Perplexity trusts GPT-6 Astra with end-to-end systemsSep 14, 2026](</index/perplexity-improving-accuracy-with-astra/>)
+[Cult.fit builds operational muscle with CodexNov 5, 2026](</index/cultfit-builds-with-codex/>)
 
-![Cognition customer story art card](https://images.ctfassets.net/kftzwdyauwt9/6WY3rQtuqVbg3bPdMknIhE/3421ffc90ec044e3e4f27570b311813d/cognition-art-card-option-b.png?w=3840&q=90&fm=webp)
+![Merge — Art card](https://images.ctfassets.net/kftzwdyauwt9/4ifgfp1uJPj1YlA6R3wDK2/2e9c520c6901a690b561e3c27426ffa1/square.png?w=3840&q=90&fm=webp)
 
-[Cognition helps Devin test its own work with GPT‑6 AstraSep 11, 2026](</index/cognition-devin-testing-with-astra/>)
+[Merge builds product and business tools with OpenAI technologyNov 5, 2026](</index/merge-builds-with-openai/>)
 
 Load more
 
@@ -192,10 +112,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -214,7 +134,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -241,8 +162,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -261,6 +182,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

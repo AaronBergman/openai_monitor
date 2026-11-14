@@ -34,29 +34,41 @@ May 7, 2024
 
 ![Our approach to data and AI ](https://images.ctfassets.net/kftzwdyauwt9/7J8dj2BoTDC5o8xOsfeAIt/53c8ac134e240b81729d8537e7b3e987/inside_ai.jpg?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 We respect the choices of creators and content owners on AI
 
   * We respect the choices of creators and content owners on AI
+
   * We’re building Media Manager so content owners can manage how their works are used in AI
+
   * We’re building products to benefit users, creators and publishers in a vibrant ecosystem
+
   * Understanding our foundation models and how we build them 
+
     * We design our AI models to be learning machines, not databases
+
     * We use broad and diverse data to build the best AI for everyone
+
   * We’re building in partnership
+
 
 
 
   * We respect the choices of creators and content owners on AI
+
   * We’re building Media Manager so content owners can manage how their works are used in AI
+
   * We’re building products to benefit users, creators and publishers in a vibrant ecosystem
+
   * Understanding our foundation models and how we build them 
+
     * We design our AI models to be learning machines, not databases
+
     * We use broad and diverse data to build the best AI for everyone
+
   * We’re building in partnership
+
 
 
 
@@ -146,10 +158,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -168,7 +180,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -195,8 +208,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -215,6 +228,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -36,35 +36,53 @@ May 8, 2024
 
 ![Cover image: Model Spec](https://images.ctfassets.net/kftzwdyauwt9/2oOdYlEm4NHQCiqTsStMuD/ffe7260fb16cac11a570313b78cec8b8/DALL_E_2024-05-06_19.10.23.webp?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 Shaping Desired Model Behavior 
 
   * Shaping Desired Model Behavior 
+
   * Introducing the Model Spec
+
   * How the Model Spec will be used
+
   * What comes next
+
   * Examples of the Model Spec applied to various use cases
+
     * Example 1:
+
     * Example 2:
+
     * Example 3:
+
     * Example 4:
+
     * Example 5:
+
 
 
 
   * Shaping Desired Model Behavior 
+
   * Introducing the Model Spec
+
   * How the Model Spec will be used
+
   * What comes next
+
   * Examples of the Model Spec applied to various use cases
+
     * Example 1:
+
     * Example 2:
+
     * Example 3:
+
     * Example 4:
+
     * Example 5:
+
 
 
 
@@ -307,10 +325,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -329,7 +347,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -356,8 +375,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -376,6 +395,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
