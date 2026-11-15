@@ -26,80 +26,98 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-# Codex Ambassadors interest form
+# Codex Ambassador application form
 
-Codex is rapidly becoming one of the most powerful ways to code with AI, driven by builders who share real-world workflows and lessons with each other.
+Thank you for your interest in becoming a [Codex Ambassador⁠(opens in a new window)](<https://developers.openai.com/community/codex-ambassadors>). Tell us about yourself, what you’ve created, and how you’d like to contribute to our program.
 
-Codex Ambassadors are community organizers, open-source maintainers, student leaders, and power users who actively spread what works, make Codex easier to adopt in practice, and help shape where it goes next.
+Please have links to examples of your work (previous events and content) and a ~30 second introduction video ready.
 
-Learn more about the program [_here_ ⁠(opens in a new window)](<https://developers.openai.com/codex/ambassadors>).
+Note: We are not currently accepting Ambassador applications from undergraduate students. If you're an undergraduate student, we encourage you to explore our [Student Collective](</student-collective/>) program.
 
 #### About you
 
-First name *
+First name *
 
-Last name *
+Last name *
 
-Email *
+Email address? *
 
-In which city are you based?
+In which city are you based? *
 
-In which country are you based?
+In which country are you based? *
 
-#### Social profiles 
+#### Experience and plans
 
-Please provide at least one of the following profiles (X or LinkedIn preferred).
+Have you participated in another tech ambassador program? *
 
-GitHub Profile
+List the program(s) and whether your participation is current or past. If none, enter “No.” Maximum 500 characters.
 
-X Profile
+Why do you want to become a Codex Ambassador? *
 
-TikTok Profile
+Maximum 500 characters.
 
-LinkedIn Profile
+What’s your favorite thing you’ve built with Codex? *
 
-Other (including personal website)
+Include a brief description and a link if available. Maximum 500 characters.
 
-#### Background and community involvement
+Which Ambassador path are you applying for? *
 
-Name of your current organization or institution *
+Event Ambassador
 
-Are you currently running a community developer meetup and/or are part of an OSS community? *
+Content Ambassador
+
+Both
+
+Would your events or content focus on speaking to a specific audience, industry, or niche? If so, which? *
+
+Maximum 500 characters.
+
+Would you host events or create content in a language other than English? If so, which language(s)?
+
+Maximum 500 characters.
+
+If selected as a Codex Ambassador, what would your first contribution be? *
+
+Briefly describe an event or piece of content you would create after joining the program. Maximum 500 characters.
+
+Share a link to a video of about 30 seconds introducing yourself and what you’d bring to the program. *
+
+Your video can be in any language and does not need to be public, but anyone with the link must be able to view it.
+
+Were you referred by a current Codex Ambassador or OpenAI employee? *
 
 Yes
 
 No
 
-How do you use Codex? *e.g. personal projects, work, teaching, open-source, experiments, etc.
+#### Social profiles
 
-Maximum of 1000 characters.
+Sharing social profile links is optional.
+
+X
+
+LinkedIn
+
+GitHub
+
+Other (including personal website)
 
 #### Ambassador interest
 
 Note: The Codex Ambassador program is a volunteer initiative. We aim to design it to be flexible and sustainable alongside your existing commitments.  
 
 
-If selected, how would you like to contribute as part of this initiative? *(e.g., events you’d run, content you’d create, communities you’d support)
+Read the program values under “About the program” on the [Codex Ambassadors program page(opens in a new window)](<https://developers.openai.com/community/codex-ambassadors>) and review the [Community Norms(opens in a new window)](<https://codex-ambassador-resource-hub.openai.chatgpt.site/norms>).
 
-Maximum of 500 characters.
+Please confirm both statements:
 
-How many hours/ week are you willing to commit? *
+Program commitment *
 
-0-2 hours per week
+I understand that the program lasts six months, requires at least one useful contribution per month, and asks Ambassadors to follow program guidance.
 
-2-4 hours per week
+Program values and code of conduct *
 
-4-6 hours per week
-
-more than 7 hours per week
-
-How did you hear about the Codex Ambassador program?
-
-Select an optionFriend / colleagueUniversity club or classSocial media (X, TikTok, LinkedIn, etc.)Event or hackathonOpenAI / Codex website or docsOther
-
-Anything else you'd like us to know?
-
-Maximum of 500 characters.
+If selected as a Codex Ambassador, I agree to uphold the program’s values and code of conduct.
 
 Submit
 
@@ -113,9 +131,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
+  * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
-  * [GPT-5.3 Instant](</index/gpt-5-3-instant/>)
 
 
 
@@ -134,7 +153,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -152,14 +172,17 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
+  * [Customer Stories](</business/customer-stories/>)
+  * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
 
 
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -178,6 +201,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -185,6 +209,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

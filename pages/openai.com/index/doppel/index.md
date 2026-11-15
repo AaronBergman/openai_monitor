@@ -56,8 +56,6 @@ Results
 
 threat handling capacity
 
-Loading…
-
 Share
 
 A single impersonation site can launch, target thousands of users, and vanish in under an hour. That’s more than enough time for an attacker to do real damage. And with generative tools, they can spin up hundreds more just like it.
@@ -91,10 +89,15 @@ Doppel’s LLM-driven pipeline sits at the center of its detection stack. After 
 Here’s how it works:
 
   * **Signal filtering and feature extraction:** Doppel’s systems ingest millions of domains, URLs, and accounts daily. A combination of heuristics and OpenAI o4-mini filters out noise and extracts structured features to guide downstream model evaluations.
+
   * **Parallel threat confirmation:** Each signal is passed through multiple GPT‑5 prompts purpose-built for different types of threat analysis. These prompts assess factors like impersonation risk, brand misuse, or social engineering patterns.
+
   * **Threat classification:** The RFT version of o4-mini synthesizes the earlier confirmations to assign a structured label—malicious, benign, or ambiguous—with production-grade consistency.
+
   * **Final verification:** A second GPT‑5 pass validates the model’s decision and generates a natural-language justification. If confidence exceeds threshold, the system auto-initiates enforcement.
+
   * **Human review:** Low-confidence or conflicting results are routed to human analysts. Their decisions are logged and fed back into the RFT loop to continuously improve model consistency.
+
 
 
 
@@ -125,9 +128,13 @@ That visibility enhances trust, which is a critical factor for Doppel’s users.
 ## Results at a glance
 
   * Cut analyst workloads by 80%
+
   * Reduced threat response times from hours to minutes
+
   * Tripled threat-handling capacity
+
   * Most threats classified automatically
+
 
 
 
@@ -147,15 +154,17 @@ With each iteration, Doppel is building toward a system that defends what’s re
 
 ## Keep reading
 
-[Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free usersProductAug 6, 2026](</index/improving-gpt-5-6-sol-in-chatgpt/>)
+![Introducing ChatGPT Wallet for agents — Cover](https://images.ctfassets.net/kftzwdyauwt9/5XXHqQ61pm335AlEJ6i24k/05c87c234b2be2cd3fdc68645fc24f18/introducing-chatgpt-wallet-for-agents-cover.png?w=3840&q=90&fm=webp)
 
-![APA partnership > card image](https://images.ctfassets.net/kftzwdyauwt9/7Iu2mNExtUq2EqstK69WkH/7fb0f37c3c69d9481f8ea803af7ae613/openai-and-apa-advance-responsible-ai-for-youth-1_1.png?w=3840&q=90&fm=webp)
+[Introducing ChatGPT WalletProductNov 13, 2026](</index/introducing-chatgpt-wallet/>)
 
-[OpenAI and APA advance responsible AI for youthCompanyAug 6, 2026](</index/openai-and-apa-partner-to-advance-responsible-ai/>)
+![Shield customer story art card](https://images.ctfassets.net/kftzwdyauwt9/4CfbTP671OIBXAefIhFylo/55459081ad76a55d751bda065ff309f3/square.png?w=3840&q=90&fm=webp)
 
-![How people use ChatGPT around the world > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5quRLt4fW8Js506D8eNKl3/3d9938860836620ec50b148f4e3f1a49/Art_Card__5_.png?w=3840&q=90&fm=webp)
+[Shield helps technicians hand off legacy portal work with OpenAINov 13, 2026](</business/customer-stories/shield/>)
 
-[How the world is putting ChatGPT to workCompanyAug 6, 2026](</index/how-the-world-is-putting-chatgpt-to-work/>)
+![Amplitude Wave — Art card](https://images.ctfassets.net/kftzwdyauwt9/2BBTZsqFM3kvrX5Aq081SW/4636fa59c50e62172558d21effcaeca4/amplitude-wave-art-card.png?w=3840&q=90&fm=webp)
+
+[How Amplitude ships product improvements in 1–2 days with OpenAINov 12, 2026](</business/customer-stories/amplitude/>)
 
 Research
 
@@ -167,9 +176,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -188,7 +198,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -206,6 +217,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -214,8 +226,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -234,6 +246,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

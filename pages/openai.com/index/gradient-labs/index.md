@@ -64,21 +64,25 @@ Results
 
 Higher accuracy with GPT-4.1 vs. next-best provider
 
-Loading…
-
 Share
 
 Moving from SOPs to real-time systems
 
   * Moving from SOPs to real-time systems
+
   * Proving reliability in high-risk environments
+
   * Showing impact on day one, and the path ahead
+
 
 
 
   * Moving from SOPs to real-time systems
+
   * Proving reliability in high-risk environments
+
   * Showing impact on day one, and the path ahead
+
 
 
 
@@ -163,17 +167,17 @@ As models continue to improve, the range of procedures that can be safely automa
 
 [View all](</news/>)
 
-![Parallel customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/IE8b4WhSed5XqFQUzyyp7/40124aabc92ea8266c99be14d0f380f1/square.png?w=3840&q=90&fm=webp)
+![Gondola — art card and hero](https://images.ctfassets.net/kftzwdyauwt9/5B8tYqcVtztQ9PNAvMLPLO/8f2fc1472cb497b2d2b8ff82c0c1eeba/Gondola-Option-A-Art-Card-1080x1080.png?w=3840&q=90&fm=webp)
 
-[Parallel cut research time and cost in half with GPT‑6 AstraStartupSep 22, 2026](</index/parallel-cuts-time-and-cost-with-astra/>)
+[Gondola doubles revenue as its team builds more with CodexStartupNov 12, 2026](</business/customer-stories/gondola/>)
 
-![Higgsfield AI customer story art card](https://images.ctfassets.net/kftzwdyauwt9/7A0WMEXBwLKT6RUmIz7pfX/c764d19c42285ef2628de699c0820571/square.png?w=3840&q=90&fm=webp)
+![Cogent Security — cover \(sienna\)](https://images.ctfassets.net/kftzwdyauwt9/1b77wWqxMlNBg59VRDTuuQ/46601ae75270e4d037359127eb09a76c/cogent-security-cover-sienna.png?w=3840&q=90&fm=webp)
 
-[Higgsfield AI ships new video features in a day with GPT-6 AstraStartupSep 21, 2026](</index/higgsfield-from-prompt-to-production-with-astra/>)
+[Cogent and OpenAI build cyber defense factories for enterprisesStartupNov 10, 2026](</index/cogent-security/>)
 
-![V7 customer story hero art card - graphite texture](https://images.ctfassets.net/kftzwdyauwt9/69ITITTOHLrgzbSw13s3L1/eded3a71f9961eacc29f699371f3a9f2/V7-art-card-1x1-option-a.png?w=3840&q=90&fm=webp)
+![CodeRabbit — Indigo texture art card](https://images.ctfassets.net/kftzwdyauwt9/1YFM9mFKP6ZzABichElFUi/9a6569f02f982f80d80941019f522a99/coderabbit-art-card-1080x1080.png?w=3840&q=90&fm=webp)
 
-[How V7 gives AI agents institutional memoryStartupSep 21, 2026](</index/v7/>)
+[CodeRabbit scales agentic software development and ships 20x moreStartupNov 9, 2026](</index/coderabbit-codex-daybreak/>)
 
 Research
 
@@ -185,10 +189,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -207,7 +211,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -234,8 +239,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -254,6 +259,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

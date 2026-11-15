@@ -30,23 +30,29 @@ OpenAI
 
 ![Color logo on a dark blue background.](https://images.ctfassets.net/kftzwdyauwt9/59cTZypLgyWY3I2ZoFcW4b/230c7351e5bb6a9d1a2d02316e158528/Color-Health.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 Color’s copilot is helping clinicians create customized, comprehensive plans to start cancer treatment
 
   * Color’s copilot is helping clinicians create customized, comprehensive plans to start cancer treatment
+
   * Missed screenings and delayed cancer treatment impact patient outcomes 
+
   * Building a fast, safe, and secure proof of concept with OpenAI
+
   * Reducing time to treatment for cancer patients
+
 
 
 
   * Color’s copilot is helping clinicians create customized, comprehensive plans to start cancer treatment
+
   * Missed screenings and delayed cancer treatment impact patient outcomes 
+
   * Building a fast, safe, and secure proof of concept with OpenAI
+
   * Reducing time to treatment for cancer patients
+
 
 
 
@@ -68,9 +74,13 @@ Color Health uses OpenAI’s APIs to integrate patient medical data with clinica
 The copilot application’s output is analyzed by a clinician at every step and, if need be, modified before being presented to the patient. It works as follows:
 
   1. It extracts, processes, and normalizes patient information, such as family history and individual risk factors, along with clinical guidelines and data from trusted sources. The Color team was particularly impressed with GPT‑4o’s ability to extract and normalize information that was buried within pages of inconsistently structured and phrased information, often in different formats, such as with PDFs or clinical notes. 
+
   2. Using this data, it answers key questions like, “What screenings should the patient be doing?” to identify missing diagnostics and generate a personalized screening plan. It also generates documentation required to complete any diagnostic workups, such as medical necessity documents and insurance pre-authorizations.
+
   3. The clinician-in-the-loop evaluates the output, which includes source information. The clinician can edit the copilot’s output, which also helps refine future iterations.
+
   4. Once the clinician-in-the-loop is satisfied with the result, they can add the information to the patient’s existing treatment plan.
+
 
 
 
@@ -87,10 +97,15 @@ Beyond screening, diagnostic workups create more challenges. Documenting and per
 Color began working with OpenAI in 2023, with the goal of using AI to improve cancer patient care and health equity. With the challenges of cancer screening, diagnosis, and treatment in mind, Color was looking for a solution that could:
 
   * Interpret inconsistently-formatted patient data
+
   * Analyze dense healthcare guidelines
+
   * Protect patient data privacy
+
   * Support clinician-in-the-loop workflow design to ensure patient safety
+
   * Integrate with electronic health records (EHRs) and core hospital systems
+
 
 
 
@@ -115,7 +130,9 @@ Dr. Karen Knudsen, CEO of the American Cancer Society, agrees. “The idea of co
 Color is taking a measured approach in rolling out the copilot, and has started an initial phase-in for its own clinicians, applying the tool to a limited number of cases. These cases receive several layers of quality assurance:
 
   * Healthcare providers using the copilot are able to identify**** 4x more missing labs, imaging, or biopsy and pathology results than those without the copilot.
+
   * Using the copilot, it takes on average**** 5 minutes for clinicians to analyze patient records and identify gaps. Without the copilot, data is fragmented and can lead to weeks of delay.
+
 
 
 
@@ -135,9 +152,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -156,7 +174,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -174,6 +193,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -182,8 +202,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -202,6 +222,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

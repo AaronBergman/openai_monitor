@@ -34,29 +34,41 @@ A conversation with Jochen Koedijk, Chief Marketing Officer of Expedia Group.
 
 ![A blue and turquoise gradient background displaying the text “Executive Function Ep 10” in white.](https://images.ctfassets.net/kftzwdyauwt9/6U8q08bXkq83uFRikAn7m7/9b7a11e139551d1889dbac1d975e14b6/EF_Expedia_16.9.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 You’ve led consumer marketing across multiple industries. How have you seen the role of marketing—and the CMO—evolve over time?
 
   * You’ve led consumer marketing across multiple industries. How have you seen the role of marketing—and the CMO—evolve over time?
+
   * How is AI specifically helping in your role as a CMO? What advice would you give other marketing leaders as they embrace this transformation?
+
   * With those shifts in behavior, do you see agents playing a role in the future of travel marketing?
+
   * Do you see opportunities for AI in strengthening customer relationships and loyalty?
+
   * Companies sometimes struggle building AI fluency internally. How are you fostering that within your marketing organization?
+
   * Have you seen tangible outcomes from this cultural shift?
+
   * As we look to the future, what skills will marketers need to stay ahead in an AI-driven world?
+
 
 
 
   * You’ve led consumer marketing across multiple industries. How have you seen the role of marketing—and the CMO—evolve over time?
+
   * How is AI specifically helping in your role as a CMO? What advice would you give other marketing leaders as they embrace this transformation?
+
   * With those shifts in behavior, do you see agents playing a role in the future of travel marketing?
+
   * Do you see opportunities for AI in strengthening customer relationships and loyalty?
+
   * Companies sometimes struggle building AI fluency internally. How are you fostering that within your marketing organization?
+
   * Have you seen tangible outcomes from this cultural shift?
+
   * As we look to the future, what skills will marketers need to stay ahead in an AI-driven world?
+
 
 
 
@@ -141,17 +153,17 @@ OpenAI
 
 ## Keep reading
 
-![Better prompt caching for GPT-6 — Card image](https://images.ctfassets.net/kftzwdyauwt9/72ZKzMh8JgRDfdg4EYRtwY/ee5e406a08b69f00b0beb4ac00270364/7kneoqlc2qh37z1utkmtfk-cover-v1.png?w=3840&q=90&fm=webp)
+![Introducing ChatGPT Wallet for agents — Cover](https://images.ctfassets.net/kftzwdyauwt9/5XXHqQ61pm335AlEJ6i24k/05c87c234b2be2cd3fdc68645fc24f18/introducing-chatgpt-wallet-for-agents-cover.png?w=3840&q=90&fm=webp)
 
-[Better prompt caching for GPT-6ProductSep 22, 2026](</index/better-prompt-caching-for-gpt-6/>)
+[Introducing ChatGPT WalletProductNov 13, 2026](</index/introducing-chatgpt-wallet/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![Shield customer story art card](https://images.ctfassets.net/kftzwdyauwt9/4CfbTP671OIBXAefIhFylo/55459081ad76a55d751bda065ff309f3/square.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
+[Shield helps technicians hand off legacy portal work with OpenAINov 13, 2026](</business/customer-stories/shield/>)
 
-![Parallel customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/IE8b4WhSed5XqFQUzyyp7/40124aabc92ea8266c99be14d0f380f1/square.png?w=3840&q=90&fm=webp)
+![Amplitude Wave — Art card](https://images.ctfassets.net/kftzwdyauwt9/2BBTZsqFM3kvrX5Aq081SW/4636fa59c50e62172558d21effcaeca4/amplitude-wave-art-card.png?w=3840&q=90&fm=webp)
 
-[Parallel cut research time and cost in half with GPT‑6 AstraStartupSep 22, 2026](</index/parallel-cuts-time-and-cost-with-astra/>)
+[How Amplitude ships product improvements in 1–2 days with OpenAINov 12, 2026](</business/customer-stories/amplitude/>)
 
 Research
 
@@ -163,10 +175,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -185,7 +197,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -212,8 +225,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -232,6 +245,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -36,31 +36,45 @@ Introducing IH-Challenge, a training dataset that strengthens instruction hierar
 
 [Read the paper(opens in a new window)](<https://arxiv.org/abs/2603.10521>)
 
-Loading…
-
 Share
 
 What instruction hierarchy is—and why it matters
 
   * What instruction hierarchy is—and why it matters
+
   * Why large-scale instruction hierarchy training can be hard
+
   * Our approach
+
   * Results and robustness
+
   * Why this improves real-world safety and security
+
     * Safety steerability
+
     * Prompt injection robustness: stronger resistance to malicious tool instructions
+
   * Looking ahead
+
 
 
 
   * What instruction hierarchy is—and why it matters
+
   * Why large-scale instruction hierarchy training can be hard
+
   * Our approach
+
   * Results and robustness
+
   * Why this improves real-world safety and security
+
     * Safety steerability
+
     * Prompt injection robustness: stronger resistance to malicious tool instructions
+
   * Looking ahead
+
 
 
 
@@ -109,8 +123,11 @@ Reinforcement learning is a natural fit for teaching the instruction hierarchy. 
 We’ve identified three pitfalls of naively applying that recipe:
 
   * Instruction-following failures can double as instruction hierarchy failures: the model might fail to resolve an instruction conflict, not because it doesn’t understand the hierarchy of roles, but because the instructions themselves are too complicated.
+
   * Instruction conflicts can be nuanced and even subjective. A common approach is to let a separate LLM judge assign rewards to the LLM being trained, but judges themselves are fallible.
+
   * Models tend to learn [_shortcuts that result in high reward, but are useless in practice_ ⁠(opens in a new window)](<https://arxiv.org/pdf/2210.10760>). The classic example is overrefusals: models can learn to maximize safety by refusing even benign requests.
+
 
 
 
@@ -119,15 +136,20 @@ We’ve identified three pitfalls of naively applying that recipe:
 We design IH-Challenge, a reinforcement learning training dataset, to address each of those pitfalls. We adhere to the following principles:
 
   * Tasks are instruction-following-simple
+
   * They are objectively-gradable with a simple Python script
+
   * There are no trivial shortcuts that guarantee high reward across all tasks
+
 
 
 
 Each task in IH-Challenge is essentially a conversation with the following messages:
 
   * An instruction message from a high-privilege role, e.g. “Only answer ‘Yes’ or ‘No’”.
+
   * An instruction message from a lower-privilege role, which attempts to get the model to violate the instructions in the higher-privilege message.
+
 
 
 
@@ -138,8 +160,11 @@ The model being trained generates the next message. We write the tasks/environme
 We train a model on IH‑Challenge and produce an internal model, which we call GPT‑5 Mini-R, with the following improvements: 
 
   * Performs better on instruction‑hierarchy benchmarks
+
   * Improved performance generalizes to held‑out and adversarial instruction hierarchy tests
+
   * Maintains overall usefulness, without collapsing into over‑refusal
+
 
 
 
@@ -224,15 +249,17 @@ OpenAI
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![BioBasicsBench — Cover](https://images.ctfassets.net/kftzwdyauwt9/jNZJCNxCnXJEalE02MRYi/9c7ad4cdb35bae08e5e49eb6a2f65622/biobasicsbench-cover.png?w=3840&q=90&fm=webp)
 
-![Pacing model development in an era of cyber-critical capabilities — Card image](https://images.ctfassets.net/kftzwdyauwt9/3tUOfo4E1xZComoOiRjHJm/51c532f25dd4062f92bff0e41ea00c3c/index-pacing-model-development-cyber-capabilities-dark-cover.png?w=3840&q=90&fm=webp)
+[Measuring how AI agents handle everyday wet-lab sciencePublicationNov 6, 2026](</index/measuring-how-ai-agents-handle-wet-lab-science/>)
 
-[Pacing model development in an era of cyber-critical capabilitiesCompanyAug 18, 2026](</index/pacing-model-development-cyber-capabilities/>)
+![A thousand fewer paths to root — Cover](https://images.ctfassets.net/kftzwdyauwt9/6xmxSENf49pAUFzVokN3KG/3206934563d5b072f5a75139d6b26497/a-thousand-fewer-paths-to-root-cover.png?w=3840&q=90&fm=webp)
 
-![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
+[A thousand fewer paths to rootSecurityNov 4, 2026](</index/a-thousand-fewer-paths-to-root/>)
 
-[Ten advances in mathematics and theoretical computer sciencePublicationAug 1, 2026](</index/ten-advances-in-mathematics/>)
+![Accelerating engineering for the physical world — card](https://images.ctfassets.net/kftzwdyauwt9/57kuzOPUZjrDUJwHE8nub0/30011dcc7969dfca81d5ac9e06aa31e5/accelerating-engineering-physical-world-card.png?w=3840&q=90&fm=webp)
+
+[Accelerating engineering for the physical worldResearchNov 3, 2026](</index/accelerating-engineering-for-the-physical-world/>)
 
 Research
 
@@ -244,9 +271,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -265,7 +293,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -283,6 +312,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -291,8 +321,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -311,6 +341,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
