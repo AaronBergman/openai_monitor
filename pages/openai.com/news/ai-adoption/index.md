@@ -50,6 +50,10 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+![What FDE means at OpenAI — Cover art](https://images.ctfassets.net/kftzwdyauwt9/5L9fx2EPZox7oZvKOseHie/d626d2d0e39f24416c98afb52ec85f92/forward-deployed-engineering-means-cover-art.png?w=3840&q=90&fm=webp)
+
+[What forward deployed engineering means at OpenAIAI AdoptionOct 22, 2026](</index/forward-deployed-engineering-means/>)
+
 ![How AI-native companies turn workflows into operating capability — card image](https://images.ctfassets.net/kftzwdyauwt9/mSi6hls2IXr3ax2lH8vTj/5a364b116ec5584ec7415feb4c1a7033/index-how-ai-native-companies-turn-workflows-into-operating-capability--cover-v001.png?w=3840&q=90&fm=webp)
 
 [How AI-native companies turn workflows into operating capabilityAI AdoptionSep 1, 2026](</index/ai-native-company-workflows/>)
@@ -82,9 +86,7 @@ Switch cards to hide Media
 
 [Introducing the Adoption news channelAI AdoptionMar 5, 2026](</index/introducing-the-adoption-news-channel/>)
 
-![OAI The five AI value models driving business reinvention 1x1 Art Card](https://images.ctfassets.net/kftzwdyauwt9/2YclNMGFgInYk2vt0sjI4W/dcaa7d202589cf3ba0f588592f7fb10b/OAI_The_five_AI_value_modelsdriving_business_reinvention_1x1_Art_Card.png?w=3840&q=90&fm=webp)
-
-[The five AI value models driving business reinventionAI AdoptionMar 5, 2026](</index/the-five-ai-value-models-driving-business-reinvention/>)
+Load more
 
 Research
 
@@ -96,10 +98,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -118,7 +120,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -145,8 +148,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -165,6 +168,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

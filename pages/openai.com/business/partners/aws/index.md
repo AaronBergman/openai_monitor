@@ -61,9 +61,9 @@ Micajah Medrano Dudley, Vice President, AI Partnerships and Ecosystem, Box
 
 ### [re:InventMeet OpenAI at AWS re:Invent, November 30- December 4, 2026 in Las VegasEvent](</events/aws-reinvent/>)
 
-### [Amazon BedrockOpenAI models on Amazon Bedrock bring frontier intelligence to the AWS foundation customers already rely on.Product](<https://aws.amazon.com/bedrock/openai/>)
+### [Amazon BedrockOpenAI models on Amazon Bedrock bring frontier intelligence to the AWS foundation customers already rely on.Product(opens in a new window)](<https://aws.amazon.com/bedrock/openai/>)
 
-### [Take on your most ambitious work with GPT-6 Astra on Amazon BedrockGPT-6 Astra from OpenAI brings greater depth and judgment to your most demanding tasks and runs on the Amazon Bedrock inference engine built for high performance, security, and scale.Blog](<https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/>)
+### [Take on your most ambitious work with GPT-6 Astra on Amazon BedrockGPT-6 Astra from OpenAI brings greater depth and judgment to your most demanding tasks and runs on the Amazon Bedrock inference engine built for high performance, security, and scale.Blog(opens in a new window)](<https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/>)
 
 ## Better together
 
@@ -87,6 +87,16 @@ Build with advanced OpenAI models and agents on the secure, reliable, and scalab
 
 [See AWS partners](</business/partners/locator/?tags=partner-joint-aws>)[Join us at re:Invent](<https://openai.com/events/aws-reinvent/>)
 
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
+
 Research
 
   * [Research Index](</research/index/>)
@@ -97,10 +107,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -119,7 +129,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -137,6 +148,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -145,8 +157,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -165,6 +177,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

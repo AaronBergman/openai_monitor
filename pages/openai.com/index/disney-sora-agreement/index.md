@@ -36,15 +36,18 @@ Agreement marks a significant step in setting meaningful standards for responsib
 
 ![Logos for OpenAI and the Walt Disney Company in white on a background of swirling purples, blues, and magenta](https://images.ctfassets.net/kftzwdyauwt9/3rKAnqPdPyQiQ9KNhNtYiA/3920f57f654c1abab54ac5035f4abd30/OAI_Disney_Hero_16x9.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
   *  _As part of this three-year licensing agreement, Sora will be able to generate short, user-prompted social videos that can be viewed and shared by fans, drawing on more than 200 Disney, Marvel, Pixar and Star Wars characters._
+
   * _Agreement will make a selection of these fan-inspired Sora short form videos available to stream on Disney+._
+
   * _Disney and OpenAI affirm a shared commitment to responsible use of AI that protects the safety of users and the rights of creators._
+
   * _Alongside the licensing agreement, Disney will become a major customer of OpenAI, using its APIs to build new products, tools, and experiences, including for Disney+, and deploying ChatGPT for its employees._
+
   * _As part of the agreement, Disney will make a $1 billion equity investment in OpenAI, and receive warrants to purchase additional equity._
+
 
 
 
@@ -84,17 +87,17 @@ OpenAI
 
 [View all](</news/>)
 
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
+![Introducing ChatGPT Wallet for agents — Cover](https://images.ctfassets.net/kftzwdyauwt9/5XXHqQ61pm335AlEJ6i24k/05c87c234b2be2cd3fdc68645fc24f18/introducing-chatgpt-wallet-for-agents-cover.png?w=3840&q=90&fm=webp)
 
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
+[Introducing ChatGPT WalletProductNov 13, 2026](</index/introducing-chatgpt-wallet/>)
 
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
+![A global commitment to secure a better future for every child — Cover](https://images.ctfassets.net/kftzwdyauwt9/6HZUyiPHKA2TTITsjtH4Ma/171dabc64ded09753292449f8d599c10/a-global-commitment-to-secure-a-better-future-for-every-child-cover.png?w=3840&q=90&fm=webp)
 
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
+[Supporting research on AI and children’s safetyGlobal AffairsNov 12, 2026](</index/children-first-declaration/>)
 
-![DMUA Russia > card image ](https://images.ctfassets.net/kftzwdyauwt9/ciRSLFnJsNyxXYQjdoyqu/ff8ab22ad273ff79a4c9840f0c209fe6/Frame.png?w=3840&q=90&fm=webp)
+![Introducing Businesses in ChatGPT, with a blue verification badge surrounded by a handbag, shopping cart, shopping bag, parcel, and storefront on a blue background.](https://images.ctfassets.net/kftzwdyauwt9/6HUezUUToOnuW0xWUXK9n/935b788b2167e7bc30600e610ac92408/business-agents-blog-cover.png?w=3840&q=90&fm=webp)
 
-[Disrupting a new covert influence campaign from RussiaGlobal AffairsAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
+[Introducing Businesses in ChatGPTProductNov 10, 2026](</index/introducing-businesses-chatgpt/>)
 
 Research
 
@@ -106,9 +109,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -127,7 +131,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -145,6 +150,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -153,8 +159,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -173,6 +179,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

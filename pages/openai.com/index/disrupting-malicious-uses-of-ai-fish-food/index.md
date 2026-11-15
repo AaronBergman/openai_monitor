@@ -34,8 +34,6 @@ February 1, 2026
 
 OpenAI banned accounts linked to the Rybar network, some of which likely originated in Russia, that used AI to support multilingual influence activity across websites and social platforms.
 
-Loading…
-
 Share
 
  _This case study was originally published in OpenAI’s_[ _February 2026_ ⁠(opens in a new window)](<https://cdn.openai.com/pdf/df438d70-e3fe-4a6c-a403-ff632def8f79/disrupting-malicious-uses-of-ai.pdf>)_report on disrupting malicious uses of AI._
@@ -102,10 +100,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -124,7 +122,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -151,8 +150,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -171,6 +170,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

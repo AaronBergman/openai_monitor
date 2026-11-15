@@ -34,8 +34,6 @@ August 17, 2026
 
 Expanding community investment and supporting thousands of Southern Ohio jobs.
 
-Loading…
-
 Share
 
 OpenAI has entered into an agreement to secure approximately 8 gigawatts-IT at the PORTS-Pike Technology Campus in Pike County, Ohio, working with SB Energy, NVIDIA, and the U.S. Department of Energy. We want to develop this project as a partner to Pike County—paying its project-specific energy and infrastructure costs, using water responsibly, creating opportunities for local workers and businesses, and making long-term investments shaped by the community.
@@ -95,6 +93,22 @@ Our responsibility is to make sure the communities helping build it share meanin
 
 OpenAI
 
+## Keep reading
+
+[View all](</news/>)
+
+![A global commitment to secure a better future for every child — Cover](https://images.ctfassets.net/kftzwdyauwt9/6HZUyiPHKA2TTITsjtH4Ma/171dabc64ded09753292449f8d599c10/a-global-commitment-to-secure-a-better-future-for-every-child-cover.png?w=3840&q=90&fm=webp)
+
+[Supporting research on AI and children’s safetyGlobal AffairsNov 12, 2026](</index/children-first-declaration/>)
+
+![ChatGPT for Veterans > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2xsjEAOhgideekNE2Xxxqk/fe4d5c8aecf7d6498d1e8026a5a56599/oai_GA_Stories_1.1.png?w=3840&q=90&fm=webp)
+
+[ChatGPT Plus for veterans and servicemembersCompanyNov 11, 2026](</index/chatgpt-plus-for-veterans/>)
+
+![Helping caregivers use AI in everyday life — Cover](https://images.ctfassets.net/kftzwdyauwt9/2wwJf21F4rMJ6FffmYbEa5/0e9a21de969e280e77ae8ae66eaa03f6/helping-caregivers-use-ai-in-everyday-life-cover.png?w=3840&q=90&fm=webp)
+
+[Helping caregivers use AI in everyday lifeCompanyNov 10, 2026](</index/helping-caregivers-use-ai-in-everyday-life/>)
+
 Research
 
   * [Research Index](</research/index/>)
@@ -105,10 +119,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -127,7 +141,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -154,8 +169,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -174,6 +189,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

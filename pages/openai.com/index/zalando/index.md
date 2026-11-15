@@ -30,8 +30,6 @@ OpenAI
 
 ![Zalando](https://images.ctfassets.net/kftzwdyauwt9/1rII76ppVNIythF05RUWTw/c8638a59de91ba12955277d8c4ae44db/oai_zalando_hero.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 [ _Zalando_ ⁠(opens in a new window)](<https://zalando.com/>), one of Europe’s largest online fashion and lifestyle platforms, serves over 50 million customers in 25 countries. With a vast catalog of apparel, shoes, and beauty products, the company has steadily expanded its offerings to become a go-to destination for fashion enthusiasts. 
@@ -39,8 +37,11 @@ Share
 Zalando worked with OpenAI to develop the Zalando Assistant, an AI-powered tool that provides personalized content recommendations and streamlines product discovery. With GPT‑4o mini and a robust evaluation framework, and compared to the previous version, the latest iteration of the Assistant has delivered:
 
   * A 23% increase in product clicks
+
   * A 40%+ increase in products added to the wishlist
+
   * Scaled availability to 25 markets featuring local languages
+
 
 
 
@@ -64,7 +65,7 @@ For example, by showing the model examples of what weak and strong responses loo
 
 These updates provided Zalando with actionable insights into the Assistant’s strengths and weaknesses, enabling them to make targeted improvements and confidently prepare for a model upgrade.
 
-## Migrating to GPT-4o mini for multilingual and instructional capabilities
+## Migrating to GPT‑4o mini for multilingual and instructional capabilities
 
 With a refined evaluation framework in place, the next step was to transition the Assistant from operating on GPT‑3.5 to GPT‑4o mini, a model that is more cost-efficient and best equipped for multilingual and instruction-following tasks. 
 
@@ -79,9 +80,13 @@ The transition proved pivotal. The Assistant could now operate in new languages 
 The combination of GPT‑4o mini and the improved evaluation process led to measurable outcomes that exceeded expectations in comparison to previous versions of the assistant:
 
   * **Improved engagement** : Product clicks increased by 23% within the recommendation carousel, and wishlist additions rose by 41%, demonstrating stronger user interaction.
+
   * **Quality feedback** : The number of recommendations deemed “unhelpful” by users decreased by 5%, reflecting higher satisfaction with the new Assistant’s picks.
+
   * **Better cost efficiency** : By transitioning from GPT‑3.5 to GPT‑4o mini, Zalando was able to scale its traffic 12x by deploying the Assistant to more markets, and without spending significantly more.
+
   * **Localization at scale** : The Assistant now performs seamlessly across all 25 of Zalando’s markets, supporting multiple languages and cultural contexts.
+
 
 
 
@@ -95,7 +100,7 @@ Building on this success, Zalando is progressing the Assistant with more convers
 
 [Talk with our team](</contact-sales/>)
 
-## Keep reading
+#### Keep reading
 
 [View all](</stories/>)
 
@@ -121,9 +126,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -142,7 +148,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -160,6 +167,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -168,8 +176,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -188,6 +196,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

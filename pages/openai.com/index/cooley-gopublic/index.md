@@ -44,21 +44,25 @@ Industry: Services
 
 Products: ChatGPT
 
-Loading…
-
 Share
 
 Synthesizing legal expertise into an AI product offering
 
   * Synthesizing legal expertise into an AI product offering
+
   * Concentrating human effort where it’s most impactful
+
   * Transforming an industry
+
 
 
 
   * Synthesizing legal expertise into an AI product offering
+
   * Concentrating human effort where it’s most impactful
+
   * Transforming an industry
+
 
 
 
@@ -110,17 +114,17 @@ Peinsipp sees GO Public as the beginning of a broader shift in how capital marke
 
 ## Keep reading
 
-![Proaction customer story art card - Option A](https://images.ctfassets.net/kftzwdyauwt9/46K6EGB5ApjTSkngvI7uU7/ce0c43f11865fd90348773ceb39485ee/proaction-option-a-art-card.png?w=3840&q=90&fm=webp)
+![Introducing ChatGPT Wallet for agents — Cover](https://images.ctfassets.net/kftzwdyauwt9/5XXHqQ61pm335AlEJ6i24k/05c87c234b2be2cd3fdc68645fc24f18/introducing-chatgpt-wallet-for-agents-cover.png?w=3840&q=90&fm=webp)
 
-[Proaction boosts sales 60% and saves 75+ hours with CodexSep 25, 2026](</index/proaction/>)
+[Introducing ChatGPT WalletProductNov 13, 2026](</index/introducing-chatgpt-wallet/>)
 
-![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
+![Shield customer story art card](https://images.ctfassets.net/kftzwdyauwt9/4CfbTP671OIBXAefIhFylo/55459081ad76a55d751bda065ff309f3/square.png?w=3840&q=90&fm=webp)
 
-[Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
+[Shield helps technicians hand off legacy portal work with OpenAINov 13, 2026](</business/customer-stories/shield/>)
 
-![OpenAI extends cyber access to Ukraine for civilian defense — cover](https://images.ctfassets.net/kftzwdyauwt9/4NsiJiqUurW5ypfaulGCFm/8b5bfad7d895c4fc6aa20766d5c88b0c/openai-extends-cyber-access-to-ukraine-for-civilian-defense-cover.png?w=3840&q=90&fm=webp)
+![Amplitude Wave — Art card](https://images.ctfassets.net/kftzwdyauwt9/2BBTZsqFM3kvrX5Aq081SW/4636fa59c50e62172558d21effcaeca4/amplitude-wave-art-card.png?w=3840&q=90&fm=webp)
 
-[OpenAI extends cyber access to Ukraine for civilian defenseGlobal AffairsSep 23, 2026](</index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/>)
+[How Amplitude ships product improvements in 1–2 days with OpenAINov 12, 2026](</business/customer-stories/amplitude/>)
 
 Research
 
@@ -132,10 +136,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -154,7 +158,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -181,8 +186,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -201,6 +206,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

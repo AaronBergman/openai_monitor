@@ -34,8 +34,6 @@ March 23, 2026
 
 [Read previous version](</index/launching-sora-responsibly/>)
 
-Loading…
-
 Share
 
  _As of April 26, 2026, the Sora product is no longer available._
@@ -74,17 +72,17 @@ The Sora team
 
 [View all](</news/>)
 
-![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
+![Introducing Control Room — Cover](https://images.ctfassets.net/kftzwdyauwt9/XFHiXwklxhUiqEYuo22MD/0767c09bbe4c850f05339215f444f097/introducing-control-room-cover.png?w=3840&q=90&fm=webp)
 
-[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
+[Control Room: A new way to track and stop AI workloadsSafetyNov 9, 2026](</index/control-room/>)
 
-![Teen development research grants — Card image](https://images.ctfassets.net/kftzwdyauwt9/492WJ2zEboE6VdmchhCjIA/34e10aa1208a6988e3db2341d849d5b4/4bzz6p65ky7zwfd4pe42ou-cover__3_.png?w=3840&q=90&fm=webp)
+![GPT-6 Cyber — Cover](https://images.ctfassets.net/kftzwdyauwt9/1AiFc9sQFyo6YguQtfjHHN/3ac0a37435e1dfd2b532eaefe26b18bb/gpt-6-cyber-cover.png?w=3840&q=90&fm=webp)
 
-[Funding grants for new research into AI and teen developmentSafetySep 8, 2026](</index/teen-development-research-grants/>)
+[GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agentsProductNov 5, 2026](</index/introducing-gpt-6-cyber/>)
 
-![An alien mind > Listing card](https://images.ctfassets.net/kftzwdyauwt9/7ut3G8rKt5ia4P3yRqi2qN/6ffb429f70548a881eb46a4e7e61498e/Option_120___1080_1080.png?w=3840&q=90&fm=webp)
+![An update on violence prevention — Cover](https://images.ctfassets.net/kftzwdyauwt9/2JkiYuWDdFYR0Wg7GoacTc/56a54c0060610c840d098457108a4f88/an-update-on-violence-prevention-cover.png?w=3840&q=90&fm=webp)
 
-[An Alien MindSafetySep 6, 2026](</index/an-alien-mind/>)
+[Community safety report and new protections for teensSafetyOct 30, 2026](</index/community-safety-report-and-new-protections-for-teens/>)
 
 Research
 
@@ -96,10 +94,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -118,7 +116,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -136,6 +135,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -144,8 +144,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -164,6 +164,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
