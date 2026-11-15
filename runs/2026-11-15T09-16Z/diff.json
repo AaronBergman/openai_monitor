@@ -9045,9 +9045,9 @@
       "details": "June 2025 GPT-4o story replaced in place by a different story dated October 27, 2026; prior metrics removed; no editor's note."
     },
     {
-      "kind": "monitoring_gap",
+      "kind": "baseline_gap",
       "url": "https://openai.com/sitemap.xml",
-      "details": "Baseline is 2026-09-28T09-17Z: 48 days with no run. Changes in this diff cannot be dated more precisely than \"between 2026-09-28 and 2026-11-15\" by observation; URLs that appeared and vanished inside the gap are invisible."
+      "details": "Baseline on main is 2026-09-28T09-17Z (48 days old). Daily runs for 2026-09-29 through 2026-11-14 exist only as unmerged draft PRs #148-#194, each diffed against the same baseline. From this branch, changes cannot be dated by observation more precisely than between 2026-09-28 and 2026-11-15."
     }
   ],
   "fetch_failures": [],

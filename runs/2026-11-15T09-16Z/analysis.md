@@ -1,7 +1,7 @@
 # Run 2026-11-15T09-16Z — analysis
 
 - Fetch time (sitemap): 2026-11-15T09:17:21Z. Page fetches followed immediately, all via `tools/html_to_md.py` (curl-cffi), 8 workers.
-- Baseline: 2026-09-28T09-17Z — **48 days earlier**. No runs were recorded in between.
+- Baseline: 2026-09-28T09-17Z — **48 days earlier**. The routine did run every day in between, but each run's pull request (#148–#194, 47 of them) was left as an unmerged draft, so `main` still holds the September 28 snapshot and every run since has re-diffed against it.
 - Sub-sitemaps fetched: 43 (was 42; new: `learn-demos`). Union: 2,210 URLs (was 1,985).
 - Diff: **255 added, 1,719 updated (`<lastmod>` changed), 30 removed**, 236 unchanged.
 - Pages fetched: 1,974 of 1,974. **Fetch failures: 0.** No challenge pages, no short outputs.
@@ -11,8 +11,8 @@ Because of the gap, everything below is dated by observation only as "between 20
 
 ## Anomalies
 
-### 1. Monitoring gap (48 days)
-The routine did not run between 2026-09-28 and 2026-11-15. Consequences: `first_seen` for all 252 genuinely new URLs is today's run id even though many articles are dated late September or October; any URL that was added and removed inside the gap was never observed; and intermediate edits to a page are collapsed into one diff.
+### 1. Baseline gap (48 days)
+The routine did run every day in between, but each run's pull request (#148–#194, 47 of them) was left as an unmerged draft, so `main` still holds the September 28 snapshot and every run since has re-diffed against it. Those PRs carry the day-by-day observations (their titles show the diff growing from 6 added on 2026-09-29 to 255 added on 2026-11-14); none of that is in this branch. Consequences for this run: `first_seen` for all 252 genuinely new URLs is today's run id even though many articles are dated late September or October; any URL that was added and removed inside the gap is not visible from this baseline; and intermediate edits to a page are collapsed into one diff.
 
 ### 2. URLs that disappeared and reappeared (3)
 - `/business/plugins/alpaca/` — listed 2026-07-10 to 2026-09-24, removed 2026-09-25, back now with `<lastmod>` 2026-11-10. **Content changed**: title "Alpaca" → "Alpaca Live", tagline "Execute trades and access live market data" → "Monitor positions and markets", new plugin ID, and the description now tells users to execute orders through Alpaca's own API or dashboard. A sample prompt for placing a limit buy order is still on the page.
