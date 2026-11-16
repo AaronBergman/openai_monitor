@@ -39,28 +39,41 @@ This OpenAI Ad Tools Data Processing Addendum (“ _Ad Tools DPA_ ”) supplemen
 ## 1\. Independent Controller Processing
 
   * 1.1. _Roles_. Except for Restricted Processing, each Party acts as an independent Data Controller with respect to Personal Data Processed through the Covered Ad Tools. The Parties are not joint Data Controllers, Data Controllers in common, or Data Processors of one another with respect to such Processing. 
+
   * 1.2. _OpenAI Processing_. As an independent Data Controller, OpenAI may process Personal Data received through the Covered Ad Tools for the purposes permitted under the Ad Tools Terms and Data Protection Laws. 
+
   * 1.3. _Customer Responsibilities_. Customer represents and warrants that it has provided all required notices and obtained and will maintain all rights, consents, permissions, and legal bases required for Customer to collect, use, share, and provide Personal Data to OpenAI, and for OpenAI to Process such Personal Data as an independent Data Controller as described in the Ad Tools Terms and this Ad Tools DPA. Customer will not provide OpenAI with (a) Prohibited Data, (b) Personal Data of individuals who have opted out of, objected to, or withdrawn consent for the relevant Processing where honoring that choice requires Customer to stop making such Personal Data available to OpenAI, or (c) event names, audience names, parameters, tags, or similar fields that reveal or imply Prohibited Data or sensitive categories of Personal Data.
+
   * 1.4. _Configurations; Third-Party Use_. Customer is responsible for configuring, implementing, and using the Covered Ad Tools in compliance with Data Protection Laws, the Ad Tools Terms, and applicable documentation. Customer will not place or enable the Covered Ad Tools on properties, apps, pages, or platforms that Customer does not own, operate, or have sufficient legal authority to use for such purpose. If Customer uses the Covered Ad Tools on behalf of, together with, or for the benefit of a third party, Customer represents that it has authority to do so and is responsible for ensuring that such third party complies with obligations at least as protective as those set forth in this Ad Tools DPA.
+
   * 1.5. _Requests and Complaints_. Customer is responsible for responding to and honoring Data Subject Requests, opt-outs, objections, and consent withdrawals it receives, including by ceasing to make affected Personal Data available to OpenAI where required by Data Protection Laws. Customer will promptly notify OpenAI of any actual or threatened complaint, inquiry, claim, or regulatory request relating to Customer’s collection, use, sharing, or provision of Personal Data through the Covered Ad Tools and will reasonably cooperate with OpenAI in responding to such matter.
+
   * 1.6. _Security Incident Notification_. Unless prohibited by Data Protection Laws, each Party will notify the other without undue delay after becoming aware of a Security Incident involving Personal Data Processed by that Party under this Ad Tools DPA, to the extent the Security Incident is reasonably likely to affect the other Party’s rights or obligations under Data Protection Laws.
+
 
 
 
 ## 2\. Restricted Processing
 
   * 2.1. _Application_. Solely with respect to Restricted Processing, Customer is the Data Controller and OpenAI is the Data Processor. The Processor DPA applies to Restricted Processing, subject to the modifications in this Section 2.
+
   * 2.2. _Construction_. For purposes of applying the Processor DPA to Restricted Processing: (a) references to “Customer Data” mean Personal Data subject to Restricted Processing; (b) references to the “Services” mean the Covered Ad Tools; (c) references to the “Agreement” mean the Ad Tools Terms; and (d) references to the “Sub-Processor List” mean the Ad Tools Sub-Processor List.
+
   * 2.3. _Conflicts_. If there is a conflict between the Processor DPA and this Ad Tools DPA with respect to Restricted Processing, this Ad Tools DPA controls.
+
   * 2.4. _Sub-processors_. Customer authorizes OpenAI to use the sub-processors listed in the Ad Tools Sub-Processor List for Restricted Processing. OpenAI will provide notice of changes to the Ad Tools Sub-Processor List via notification within the Covered Ad Tools or other reasonable means.
+
 
 
 
 ## 3\. International Data Transfers
 
   * 3.1. _General_. Each Party will comply with Data Protection Laws applicable to its international transfers of Personal Data under this Ad Tools DPA.
+
   * 3.2. _EEA and Swiss Data_. Regardless of the OpenAI entity party to the Agreement, OpenAI Ireland Limited will Process EEA and Swiss Data under this Ad Tools DPA. OpenAI Ireland Limited will use a valid transfer mechanism for onward transfers to jurisdictions that do not provide an adequate level of protection.
+
   * 3.3. _UK Data_. Regardless of the OpenAI entity party to the Agreement, OpenAI OpCo, LLC will Process UK Data under this Ad Tools DPA. For Independent Controller Processing, the UK SCCs are incorporated into this Ad Tools DPA and completed as set forth in Schedule 1.
+
 
 
 
@@ -113,11 +126,17 @@ The terms “ _Data Controller_ ”, “ _Data Subject_ ”, “ _Personal Data_
 3\. _Annex I.B; Description of Transfer_. 
 
   * 3.1. _Categories of Data Subjects_. Data Subjects include individuals whose Personal Data is provided through the Covered Ad Tools, including Customer’s users, customers, visitors, prospects, or other individuals who interact with Customer’s websites, apps, stores, ads, or other properties. 
+
   * 3.2. _Categories of Personal Data_. Categories of Personal Data include Customer’s first-party audience data and conversion data, which may include email addresses, phone numbers, cookies, online identifiers, device or browser information, event data, transaction data, purchase data, and related metadata. 
+
   * 3.3. _Sensitive Data_. Customer will not provide Prohibited Data or sensitive categories of Personal Data through the Covered Ad Tools. 
+
   * 3.4. _Frequency of Transfer_. The transfer occurs on a continuous basis depending on Customer’s use of the Covered Ad Tools. 
+
   * 3.5. _Nature and Purpose of Transfer_. The nature and purpose of Processing are as described in the Ad Tools Terms and this Ad Tools DPA. 
+
   * 3.6. _Period for which Personal Data will be Retained_. The duration is the period required or permitted under the Agreement, this Ad Tools DPA, or Data Protection Laws.
+
 
 
 
@@ -135,9 +154,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -156,7 +176,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -174,6 +195,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -182,8 +204,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -202,6 +224,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

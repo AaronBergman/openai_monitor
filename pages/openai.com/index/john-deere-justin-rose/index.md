@@ -36,27 +36,37 @@ A conversation with Justin Rose, President of Lifecycle Solutions, Supply Manage
 
 ![Abstract green, yellow, and teal background with the white text “Executive Function” on the left and “Ep 09” on the right.](https://images.ctfassets.net/kftzwdyauwt9/1P5e6inxMa4NbNcGARrdty/ccf293e22506e21682c5b30a52371582/EF_JohnDeere_16.9.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 Can you elaborate on the different components of the business and who John Deere’s customers are across its ecosystem?
 
   * Can you elaborate on the different components of the business and who John Deere’s customers are across its ecosystem?
+
   * How do you see AI transforming agriculture? What challenges can it help solve?
+
   * Many of Deere’s customers aren’t technologists by trade. How do you communicate the value of AI to them?
+
   * With AI, have there been any changes in the way you approach customer success?
+
   * What insights have you uncovered about deploying and scaling AI as more of it goes into production?
+
   * Are there any particular use cases or examples you’re proud of where AI is really making a difference?
+
 
 
 
   * Can you elaborate on the different components of the business and who John Deere’s customers are across its ecosystem?
+
   * How do you see AI transforming agriculture? What challenges can it help solve?
+
   * Many of Deere’s customers aren’t technologists by trade. How do you communicate the value of AI to them?
+
   * With AI, have there been any changes in the way you approach customer success?
+
   * What insights have you uncovered about deploying and scaling AI as more of it goes into production?
+
   * Are there any particular use cases or examples you’re proud of where AI is really making a difference?
+
 
 
 
@@ -173,10 +183,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -195,7 +205,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -213,6 +224,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -221,8 +233,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -241,6 +253,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

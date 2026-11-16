@@ -32,9 +32,12 @@ OpenAI
 
 # Windsor.ai
 
-Connect 350+ data sources
+Report on and manage campaigns
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_694a52cfaa3c819192bea84eaa254968>)[Contact sales](</contact-sales/>)
+
+Capabilities
+    Analyze Instagram Business and Creator account reach, engagement, followers and media performance, Analyze Meta Ads and Facebook Ads spend, conversions, CPA and ROAS, Analyze Google Search Console SEO clicks, impressions, CTR and average position, Analyze Google Analytics 4 (GA4) sessions, users, engagement and conversions, Analyze Google Ads campaign, ad group and keyword performance, Analyze Google Business Profile views, searches, calls and direction requests, Analyze Facebook Pages organic reach, engagement, followers and post performance, Analyze public Instagram profiles, posts and engagement through Instagram Public, Analyze YouTube channel and video views, watch time and subscriber growth, Analyze TikTok organic video views, followers, likes, comments and shares, Analyze Google Merchant Center product feed issues, disapprovals and Shopping performance, Analyze LinkedIn company pages, follower growth, organic posts and engagement, Analyze TikTok Ads campaign, ad group and ad performance, Analyze Google Ad Manager reporting data, Analyze Amazon Ads campaign performance, Read Facebook Lead Ads form submissions and lead data, Analyze Threads organic account and post performance, Analyze LinkedIn Ads spend, clicks, conversions and campaign performance, Analyze Shopify sales, orders and product performance, Analyze Pinterest organic account and Pin performance
 
 Category
     [Operations](</business/plugins/?tab=plugins-operations>)
@@ -45,31 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://windsor.ai>)
 
-[![](https://files.openai.com/content?id=file_0000000011848211a4273d3f89547d51&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=0613afa789ee77197f87e5291ba45bde0ab320a1915c0a4cae1d1d0d32ccf92c&v=0)Windsor.ai Which of my connected marketing channels drove the most conversions and revenue last month?(opens in a new window)](<https://chatgpt.com/?prompt=%40Windsor.ai+Which+of+my+connected+marketing+channels+drove+the+most+conversions+and+revenue+last+month%3F>)
+[![](https://files.openai.com/content?id=file_00000000536c8243adbb067716f05245&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=629a030b0c36e6cb23c2f64eed52892be5da5b72d43da5056a86db4f390d45b0&v=0)Windsor.ai Which of my connected marketing channels drove the most conversions and revenue last month?(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_694a52cfaa3c819192bea84eaa254968?install&prompt=Which%20of%20my%20connected%20marketing%20channels%20drove%20the%20most%20conversions%20and%20revenue%20last%20month%3F>)
 
 ## How it works
 
-Windsor.ai connects your marketing and business data sources to your AI assistant, so you can ask questions and take action in plain English. It pulls performance data from any connected source, and on supported ad and marketing platforms it can make changes directly, such as pausing or enabling a campaign, setting a budget, creating a Google Business Profile post, or replying to a review, always after you confirm. Common workflows: \- Compare spend, clicks, and conversions across every connected ad account \- Find and pause an underperforming Meta Ads, Google Ads, TikTok Ads, LinkedIn Ads, or Microsoft Ads campaign \- Post or reply as your Instagram, Threads, Facebook, or Google Business Profile account \- Pull GA4, Google Search Console, or YouTube Analytics data straight into the conversation \- Sync HubSpot, Salesforce, or Shopify records \- Update a Klaviyo flow or an Amazon Seller Central listing Connects to 350+ sources across advertising, analytics, organic social, CRM, e-commerce, email, and payments, including Google Ads, Meta (Facebook) Ads, Instagram, TikTok Ads, LinkedIn Ads, LinkedIn Company Pages, Microsoft Ads (Bing), GA4, Google Search Console, YouTube, Google Business Profile, HubSpot, Salesforce, Shopify, Klaviyo, Amazon Ads, Google Merchant Center, Stripe, and GoHighLevel. Reading data only requires connecting the relevant account once. Making a change (pausing a campaign, posting content, replying to a review) always asks for your confirmation first, and it is only available on platforms Windsor explicitly supports write access for. Every other connected source is read-only. Free plan available, no credit card required. Windsor.ai is an independent product and is not affiliated with or endorsed by the platforms it connects to.
+Windsor.ai connects your marketing and business data sources to your AI assistant, so you can ask questions and take action in plain English. Reporting examples: \- Google Search Console: SEO clicks, impressions, CTR and average search position (rankings), by search query and page. \- Meta Ads (Facebook and Instagram Ads): ad spend, clicks, conversions, CPA and ROAS. \- Google Analytics 4 (GA4): website and app users, sessions, engagement and conversions/key events, by channel or landing page. \- Instagram: organic reach, followers, engagement, and post and Reels performance for Business or Creator accounts. \- Google Ads: campaign, ad group and keyword cost, clicks, conversions and ROAS. \- Facebook Pages: organic followers, engagement, reactions, comments and shares. \- Google Business Profile: Search and Maps views (impressions), search keywords, call clicks, direction requests and reviews. \- Google Merchant Center: product-feed issues, disapprovals, clicks and impressions. \- YouTube: channel and video views, watch time and subscriber growth. \- TikTok: organic video views, followers and engagement; TikTok Ads spend and conversions. \- Shopify: sales, orders and product performance. It pulls performance data from any connected source, and on supported ad and marketing platforms it can make changes directly, such as pausing or enabling a campaign, setting a budget, creating a Google Business Profile post, or replying to a review, always after you confirm. Common workflows: \- Compare spend, clicks, and conversions across every connected ad account \- Find and pause an underperforming Meta Ads, Google Ads, TikTok Ads, LinkedIn Ads, or Microsoft Ads campaign \- Post or reply as your Instagram, Threads, Facebook, or Google Business Profile account \- Pull GA4, Google Search Console, or YouTube Analytics data straight into the conversation \- Pull HubSpot, Salesforce, or Shopify data into the conversation, and update Salesforce records after you confirm \- Update a Klaviyo flow or an Amazon Seller Central listing Connects to 350+ sources across advertising, analytics, organic social, CRM, e-commerce, email, and payments, including Google Ads, Meta (Facebook) Ads, Instagram, TikTok Ads, LinkedIn Ads, LinkedIn Company Pages, Microsoft Ads (Bing), GA4, Google Search Console, YouTube, Google Business Profile, HubSpot, Salesforce, Shopify, Klaviyo, Amazon Ads, Google Merchant Center, Stripe, and GoHighLevel. Reading data only requires connecting the relevant account once. Making a change (pausing a campaign, posting content, replying to a review) always asks for your confirmation first, and it is only available on platforms Windsor explicitly supports write access for. Every other connected source is read-only. It can also upload image files from the chat to a Meta Ads ad account for use in ads, or to a Facebook Page or LinkedIn company page for use in an image post. Windsor.ai is an independent product and is not affiliated with or endorsed by the platforms it connects to.
 
 ## What else can you do?
 
   * ### Review advertising performance
 
-![](https://files.openai.com/content?id=file_0000000011848211a4273d3f89547d51&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=0613afa789ee77197f87e5291ba45bde0ab320a1915c0a4cae1d1d0d32ccf92c&v=0)Windsor.ai Compare spend, clicks, and conversions across my campaigns over the last 30 days. Flag missing attribution context and rank the areas that deserve investigation.
+![](https://files.openai.com/content?id=file_00000000536c8243adbb067716f05245&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=629a030b0c36e6cb23c2f64eed52892be5da5b72d43da5056a86db4f390d45b0&v=0)Windsor.ai Compare spend, clicks, and conversions across my campaigns over the last 30 days. Flag missing attribution context and rank the areas that deserve investigation.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Windsor.ai+Compare+spend%2C+clicks%2C+and+conversions+across+my+campaigns+over+the+last+30+days.+Flag+missing+attribution+context+and+rank+the+areas+that+deserve+investigation.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_694a52cfaa3c819192bea84eaa254968?install&prompt=Compare%20spend%2C%20clicks%2C%20and%20conversions%20across%20my%20campaigns%20over%20the%20last%2030%20days.%20Flag%20missing%20attribution%20context%20and%20rank%20the%20areas%20that%20deserve%20investigation.&surface=work>)
 
   * ### Investigate inefficient spend
 
-![](https://files.openai.com/content?id=file_0000000011848211a4273d3f89547d51&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=0613afa789ee77197f87e5291ba45bde0ab320a1915c0a4cae1d1d0d32ccf92c&v=0)Windsor.ai Find campaigns with high spend and weak conversion performance over the last month. Explain the evidence and recommend a short list of follow-up checks.
+![](https://files.openai.com/content?id=file_00000000536c8243adbb067716f05245&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=629a030b0c36e6cb23c2f64eed52892be5da5b72d43da5056a86db4f390d45b0&v=0)Windsor.ai Find campaigns with high spend and weak conversion performance over the last month. Explain the evidence and recommend a short list of follow-up checks.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Windsor.ai+Find+campaigns+with+high+spend+and+weak+conversion+performance+over+the+last+month.+Explain+the+evidence+and+recommend+a+short+list+of+follow-up+checks.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_694a52cfaa3c819192bea84eaa254968?install&prompt=Find%20campaigns%20with%20high%20spend%20and%20weak%20conversion%20performance%20over%20the%20last%20month.%20Explain%20the%20evidence%20and%20recommend%20a%20short%20list%20of%20follow-up%20checks.&surface=work>)
 
   * ### Prepare a campaign report
 
-![](https://files.openai.com/content?id=file_0000000011848211a4273d3f89547d51&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=0613afa789ee77197f87e5291ba45bde0ab320a1915c0a4cae1d1d0d32ccf92c&v=0)Windsor.ai Summarize this campaign's results for the last month versus the previous month. Highlight material changes, likely questions for the team, and data limitations.
+![](https://files.openai.com/content?id=file_00000000536c8243adbb067716f05245&cdn=1&cp=pi&ma=32572800&ts=0&p=pi&cid=8&sig=629a030b0c36e6cb23c2f64eed52892be5da5b72d43da5056a86db4f390d45b0&v=0)Windsor.ai Summarize this campaign's results for the last month versus the previous month. Highlight material changes, likely questions for the team, and data limitations.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Windsor.ai+Summarize+this+campaign%27s+results+for+the+last+month+versus+the+previous+month.+Highlight+material+changes%2C+likely+questions+for+the+team%2C+and+data+limitations.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_694a52cfaa3c819192bea84eaa254968?install&prompt=Summarize%20this%20campaign's%20results%20for%20the%20last%20month%20versus%20the%20previous%20month.%20Highlight%20material%20changes%2C%20likely%20questions%20for%20the%20team%2C%20and%20data%20limitations.&surface=work>)
 
 
 
@@ -82,19 +85,27 @@ Windsor.ai connects your marketing and business data sources to your AI assistan
 
 
 
-### Skill
+### Skills
 
-  * Windsor.ai
+  * Amazon Ads via Windsor.ai
+  * Budget pacing
+  * Campaign launch
+  * Campaign management
+  * Windsor.ai setup
+  * Google Ads via Windsor.ai
+  * Google Analytics 4 via Windsor.ai
+  * Google Merchant Center via Windsor.ai
+  * 10 more
 
 
 
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://support.windsor.ai>)
+### [Plugin supportLearn more(opens in a new window)](<https://support.windsor.ai>)
 
-### [Privacy policyLearn more](<https://windsor.ai/privacy-statement/>)
+### [Privacy policyLearn more(opens in a new window)](<https://windsor.ai/privacy-statement/>)
 
 ## Add the Windsor.ai plugin in a few clicks
 
@@ -104,13 +115,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataTurn data into clear decisions.](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up.](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)SimilarwebWeb, app, search & market data](</business/plugins/similarweb/>)[![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)SemrushAsk about site metrics and traffic data.](</business/plugins/semrush/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
+[![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)![](https://files.openai.com/content?id=file_00000000589081fd837e2d8fbfc1a83d&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=8&sig=faa8e9a07b2b67ac2907c704f195addb0cca5e7d0a06d3ade1fd063cbe37ea08&v=0)DataAnswer questions with data](</business/plugins/data/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)![](https://files.openai.com/content?id=file_00000000191081f79dfeddb7b502b1bf&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=3e3f6f7a793416cd9a93e61c94c2bd4631dd37631f592d4e774aa254e2b1c9b7&v=0)SalesPrepare account work and customer follow-up](</business/plugins/sales/>)[![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)![](https://files.openai.com/content?id=file_00000000faa071f68918f7da866d93a4&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=8&sig=4f07077e38872beff8ca7d05cc0692679dc04014200779e4cbce84f6604320cd&v=0)SimilarwebWeb, app, search & market data](</business/plugins/similarweb/>)[![](https://files.openai.com/content?id=file_00000000a1a471fd81edff86e77ecd3b&cdn=1&cp=pi&ma=30326400&ts=0&p=pi&cid=1&sig=938d4b73498b8010276a2a2db3bd97736fb43368f7d6e6b918d92ed91ccbca4f&v=0)![](https://files.openai.com/content?id=file_00000000352871fd8a026326a6078808&cdn=1&cp=pi&ma=30585600&ts=0&p=pi&cid=1&sig=f2df03095c7e6c6c7c919a69e0395034bd5b155ed48e78a3780a4c33c6c23a4c&v=0)SemrushResearch keywords & traffic](</business/plugins/semrush/>)[![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)![](https://files.openai.com/content?id=file_00000000b94c81f794fcf9c2fbefdf50&cdn=1&cp=pi&ma=31276800&ts=0&p=pi&cid=8&sig=beb2787280ecaebf28c33ff6125c3de2f31ea2a47d7447cccb565029c8e86c65&v=0)SpreadsheetsCreate and edit spreadsheets](</business/plugins/spreadsheets/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -122,10 +143,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -144,7 +165,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -171,8 +193,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -191,6 +213,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -223,16 +246,16 @@ EnglishUnited States
 
 Browse for plugins that support your team’s tools and tasks.
 
-![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/2jqkTQJ2Vae2cDvApwjWbv/114f8094264b251a25199e96d36f0461/plugins_1.png?w=3840&q=90&fm=webp)
 
 ### 2Install and connect2Install and connect
 
 Install the plugin, then follow the prompts to review permissions and connect any required apps.
 
-![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/5iBYEOE8sKrm8lebUKnhWT/9dab229e6349d43666420ea5ca0ef084/plugins_2.png?w=3840&q=90&fm=webp)
 
 ### 3Put it to work3Put it to work
 
 Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
 
-![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/7edxmffWzWeYqCBBoGeGy4/94ca943f1a14a78cb14f5e25d875901d/plugins_3.png?w=3840&q=90&fm=webp)

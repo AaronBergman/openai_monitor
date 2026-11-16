@@ -91,21 +91,21 @@ We’re working with leading deployment and hardware companies to offer these mo
 
 ## Resources
 
-### [How to use gpt-oss with TransformersLearn more](<https://cookbook.openai.com/articles/gpt-oss/run-transformers>)
+### [How to use gpt-oss with TransformersLearn more(opens in a new window)](<https://cookbook.openai.com/articles/gpt-oss/run-transformers>)
 
-### [How to run gpt-oss locally with OllamaLearn more](<https://cookbook.openai.com/articles/gpt-oss/run-locally-ollama>)
+### [How to run gpt-oss locally with OllamaLearn more(opens in a new window)](<https://cookbook.openai.com/articles/gpt-oss/run-locally-ollama>)
 
-### [How to use gpt-oss with vLLMLearn more](<https://cookbook.openai.com/articles/gpt-oss/run-vllm>)
+### [How to use gpt-oss with vLLMLearn more(opens in a new window)](<https://cookbook.openai.com/articles/gpt-oss/run-vllm>)
 
-### [Learn about the OpenAI harmony response formatLearn more](<https://cookbook.openai.com/articles/openai-harmony>)
+### [Learn about the OpenAI harmony response formatLearn more(opens in a new window)](<https://cookbook.openai.com/articles/openai-harmony>)
 
-### [How to run gpt-oss locally with LM StudioLearn more](<https://cookbook.openai.com/articles/gpt-oss/run-locally-lmstudio>)
+### [How to run gpt-oss locally with LM StudioLearn more(opens in a new window)](<https://cookbook.openai.com/articles/gpt-oss/run-locally-lmstudio>)
 
-### [How to run gpt-oss-20b on Google ColabLearn more](<https://cookbook.openai.com/articles/gpt-oss/run-colab>)
+### [How to run gpt-oss-20b on Google ColabLearn more(opens in a new window)](<https://cookbook.openai.com/articles/gpt-oss/run-colab>)
 
-### [Verifying gpt-oss implementationsLearn more](<https://cookbook.openai.com/articles/gpt-oss/verifying-implementations>)
+### [Verifying gpt-oss implementationsLearn more(opens in a new window)](<https://cookbook.openai.com/articles/gpt-oss/verifying-implementations>)
 
-### [Find more guides about gpt-ossLearn more](<https://cookbook.openai.com/topic/gpt-oss>)
+### [Find more guides about gpt-ossLearn more(opens in a new window)](<https://cookbook.openai.com/topic/gpt-oss>)
 
 ![""](https://images.ctfassets.net/kftzwdyauwt9/6DDrb5MvXlt6FGWS3ONz8s/7b600a9b59476abb169715fb64707550/Media.png?w=3840&q=90&fm=webp)
 
@@ -133,10 +133,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -155,7 +155,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -173,6 +174,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -181,8 +183,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -201,6 +203,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

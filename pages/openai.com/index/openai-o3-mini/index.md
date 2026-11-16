@@ -34,21 +34,37 @@ January 31, 2025
 
 Pushing the frontier of cost-effective reasoning.
 
-Loading…
+## This post introduced OpenAI o3-mini.
+
+The ChatGPT access information reflects the January 2025 launch. o3‑mini is deprecated in the API. See the [API deprecation schedule⁠(opens in a new window)](<https://developers.openai.com/api/docs/deprecations>).
+
+For the current experience:
+
+[View current API models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
+
+[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 Fast, powerful, and optimized for STEM reasoning
 
   * Fast, powerful, and optimized for STEM reasoning
+
   * Model speed and performance
+
   * Safety
+
   * What's next
+
 
 
 
   * Fast, powerful, and optimized for STEM reasoning
+
   * Model speed and performance
+
   * Safety
+
   * What's next
+
 
 
 
@@ -120,7 +136,7 @@ _**Competition coding**_ _: On Codeforces competitive programming, OpenAI o3‑m
 
 With intelligence comparable to OpenAI o1, OpenAI o3‑mini delivers faster performance and improved efficiency. Beyond the STEM evaluations highlighted above, o3‑mini demonstrates superior results in additional math and factuality evaluations with medium reasoning effort. In A/B testing, o3‑mini delivered responses 24% faster than o1‑mini, with an average response time of 7.7 seconds compared to 10.16 seconds.
 
-### Latency comparison between o1-mini and o3-mini (medium)
+### Latency comparison between o1‑mini and o3‑mini (medium)
 
 ![The bar chart compares latency between "o1-mini" and "o3-mini \(medium\)" models. "o3-mini" \(lighter yellow\) has lower latency, indicating faster response times, while "o1-mini" \(darker yellow\) takes longer on average.](https://images.ctfassets.net/kftzwdyauwt9/6sHe00x1MDPeWhYtQFHXVp/fb9c1f60d445da4a80e2d35d0010eae1/Latency_comparison.png?w=3840&q=90&fm=webp)
 
@@ -198,9 +214,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -219,7 +236,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -237,6 +255,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -245,8 +264,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -265,6 +284,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

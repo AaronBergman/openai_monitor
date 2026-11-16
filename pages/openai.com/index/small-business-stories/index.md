@@ -34,7 +34,11 @@ ChatGPT
 
 Across industries like farming, fabrication, and food, people are using ChatGPT to do what was once out of reach faster, with less friction, and more confidence.
 
-A salvage yard in Nevada![A worker wearing a yellow high-visibility vest and hard hat walks through a scrapyard between piles of metal debris and heavy machinery under a partly cloudy sky.](https://images.ctfassets.net/kftzwdyauwt9/4jdiqvEe4QX889QyN0lRu4/474f98d17b5e676628b5ed4dc4a4de18/Steel.png?w=3840&q=90&fm=webp)A seed farm in South Carolina![Two people walk across a dry agricultural field while a long metal irrigation system sprays water in a fine mist behind them under a clear blue sky.](https://images.ctfassets.net/kftzwdyauwt9/67qr5fYf9x3FWNeioTcguw/d36a8956cdb647ba8d11789c528c502e/Farm.png?w=3840&q=90&fm=webp)A tamale shop in California![A small street-side tamale stand with a red awning and a neon ‘Tamales Express’ sign is lit at dusk, with palm trees behind it and blurred cars passing in the foreground.](https://images.ctfassets.net/kftzwdyauwt9/72GPXNuHGaPjQpdmrAB9Bf/c3958fef8349596c746af6888aaad1d8/Tamale.png?w=3840&q=90&fm=webp)A salvage yard in Nevada![A worker wearing a yellow high-visibility vest and hard hat walks through a scrapyard between piles of metal debris and heavy machinery under a partly cloudy sky.](https://images.ctfassets.net/kftzwdyauwt9/4jdiqvEe4QX889QyN0lRu4/474f98d17b5e676628b5ed4dc4a4de18/Steel.png?w=3840&q=90&fm=webp)A seed farm in South Carolina![Two people walk across a dry agricultural field while a long metal irrigation system sprays water in a fine mist behind them under a clear blue sky.](https://images.ctfassets.net/kftzwdyauwt9/67qr5fYf9x3FWNeioTcguw/d36a8956cdb647ba8d11789c528c502e/Farm.png?w=3840&q=90&fm=webp)A tamale shop in California![A small street-side tamale stand with a red awning and a neon ‘Tamales Express’ sign is lit at dusk, with palm trees behind it and blurred cars passing in the foreground.](https://images.ctfassets.net/kftzwdyauwt9/72GPXNuHGaPjQpdmrAB9Bf/c3958fef8349596c746af6888aaad1d8/Tamale.png?w=3840&q=90&fm=webp)
+  * A salvage yard in Nevada![A worker wearing a yellow high-visibility vest and hard hat walks through a scrapyard between piles of metal debris and heavy machinery under a partly cloudy sky.](https://images.ctfassets.net/kftzwdyauwt9/4jdiqvEe4QX889QyN0lRu4/474f98d17b5e676628b5ed4dc4a4de18/Steel.png?w=3840&q=90&fm=webp)
+  * A seed farm in South Carolina![Two people walk across a dry agricultural field while a long metal irrigation system sprays water in a fine mist behind them under a clear blue sky.](https://images.ctfassets.net/kftzwdyauwt9/67qr5fYf9x3FWNeioTcguw/d36a8956cdb647ba8d11789c528c502e/Farm.png?w=3840&q=90&fm=webp)
+  * A tamale shop in California![A small street-side tamale stand with a red awning and a neon ‘Tamales Express’ sign is lit at dusk, with palm trees behind it and blurred cars passing in the foreground.](https://images.ctfassets.net/kftzwdyauwt9/72GPXNuHGaPjQpdmrAB9Bf/c3958fef8349596c746af6888aaad1d8/Tamale.png?w=3840&q=90&fm=webp)
+
+
 
 * * *
 
@@ -96,7 +100,7 @@ I’ve created a map of the middle building with the lots labeled and organized.
 
 ![image \(2\)](//images.ctfassets.net/kftzwdyauwt9/246KnHjq9Vfjm9wNr68yTU/a5d8888507398df6ef13a0b45d740c58/image__2_.png?w=828&q=90&fm=webp)
 
-  * [Try ChatGPT](<https://chatgpt.com/>)
+  * [Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 
 
@@ -359,18 +363,24 @@ Yep — this one’s actually pretty common on **gas ovens** , and it’s usuall
 
 
 
+
 **What you should try (in order):**
 
   1. **Tap “Gas Restart.”  
 ** Sometimes it’s just a failed ignition on the first try.
+
   2. **Check the gas supply.  
 ** Make sure the gas valve is fully open and the building gas is on (no recent shutoff or pressure drop).
+
   3. **Power-cycle the oven.  
 ** Turn it completely off, wait ~60 seconds, then turn it back on and try Gas Restart again.
+
   4. **Let it sit if it keeps locking.  
 ** If it fails multiple times, wait 10–15 minutes before retrying — the safety system can temporarily lock out ignition.
+
   5. **Look for obvious airflow issues.  
 ** Make sure vents aren’t blocked and the door seals properly.
+
 
 
 
@@ -428,7 +438,9 @@ All set. ✅
 I’ve generated a **finalized part-number list** using the rules you specified and exported it to an Excel file with **only** the two columns you asked for:
 
   * **part_number**
+
   * **category_id**
+
 
 
 
@@ -445,15 +457,25 @@ Your instructions are clear. Below is a **professional and investor-focused busi
 ##### **Business Plan Outline: Lane Welding**
 
   1. **Executive Summary**
+
   2. **Company Description**
+
   3. **Founder Profile**
+
   4. **Market Analysis**
+
   5. **Services Offered**
+
   6. **Marketing & Sales Strategy**
+
   7. **Operations Plan**
+
   8. **Management & Personnel Plan**
+
   9. **Financial Plan**
+
   10. **Appendix**
+
 
 
 
@@ -462,11 +484,17 @@ If you’re ready, we’ll begin with **Section 1: Executive Summary**.
 To make that section strong and tailored to your situation, please provide the following:
 
   1. Your mission statement or vision for Lane Welding (what drives the business).
+
   2. The types of welding and fabrication jobs you want to focus on.
+
   3. The total amount of money you’ve invested or plan to invest personally.
+
   4. The amount of funding you want to request from investors (if known).
+
   5. A short summary of your welding experience and your business background.
+
   6. Any early successes, contracts, or key relationships (e.g., Reno Salvage) that demonstrate momentum.
+
 
 
 
@@ -512,10 +540,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -534,7 +562,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -552,6 +581,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -560,8 +590,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -580,6 +610,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
