@@ -9096,7 +9096,7 @@
     {
       "kind": "monitoring_gap",
       "url": "https://openai.com/sitemap.xml",
-      "details": "baseline is 2026-09-28T09-17Z; no runs recorded for 49 days, so every change in that window is collapsed into this diff"
+      "details": "baseline on main is 2026-09-28T09-17Z; daily runs from 2026-09-29 to 2026-11-15 exist only as unmerged draft PRs #148-#195, so every change in that 49-day window is collapsed into this diff"
     },
     {
       "kind": "new_sub_sitemap",

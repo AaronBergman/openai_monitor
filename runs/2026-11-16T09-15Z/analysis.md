@@ -2,14 +2,14 @@
 
 Sitemap fetch time: 2026-11-16T09:16:42Z (index + 44 sub-sitemaps)
 Page fetch window: 2026-11-16T09:16:54Z–09:18:51Z, 1,978 pages (259 added + 1,719 updated) via `tools/html_to_md.py` logic (curl-cffi, chrome110), 8 workers. **0 fetch failures**, no challenge pages.
-Baseline: 2026-09-28T09-17Z (49 days earlier — the routine recorded no runs from 2026-09-29 to 2026-11-15)
+Baseline: 2026-09-28T09-17Z (49 days earlier — runs from 2026-09-29 to 2026-11-15 exist only as unmerged draft PRs #148–#195, so `main` never advanced past this baseline)
 URL union: 1985 → 2214 | added 259 | removed 30 | updated 1719 | sub-sitemaps 42 → 44 (new: learn-demos, science)
 
 Method note: for updated pages, old vs new markdown was compared with blank lines ignored. Lines that changed identically on 15+ pages (navigation/footer template), image lines, and dated "related post" cards were treated as noise. 588 pages had some change left after that filter; 329 of those are plugin pages that all received the same new page layout, leaving 259 others, of which the ones with editorial meaning are described below. Dependency note: this container installed html2text 2025.4.15 / curl-cffi 0.17.0; if earlier runs used different versions, some whitespace-level diffs may be conversion drift rather than site changes.
 
 ## Anomalies
 
-- **49-day monitoring gap (ours, not theirs).** No snapshots exist between 2026-09-28 and 2026-11-16. Intermediate edits, pages that appeared and vanished inside the window, and the true order of events are not recoverable from this repo.
+- **49-day gap in this log (ours, not theirs).** `main` holds no snapshots between 2026-09-28 and 2026-11-16. Daily runs for that period exist only as 48 open draft pull requests (#148–#195), each diffed against the same Sep 28 baseline; their day-by-day snapshots are on those branches, not here. From `main` alone, intermediate edits, pages that appeared and vanished inside the window, and the true order of events are not recoverable.
 - **3 URLs came back after having disappeared:** [`/policies/row-privacy-policy/`](../../pages/openai.com/policies/row-privacy-policy/index.md) (last seen May 27 — back after ~5½ months, `<lastmod>` 2026-11-03), [`/form/codex-ambassadors/`](../../pages/openai.com/form/codex-ambassadors/index.md) (last seen Jun 24, `<lastmod>` 2026-11-05) and the [Alpaca plugin page](../../pages/openai.com/business/plugins/alpaca/index.md) (last seen Sep 24).
 - **14 URLs carry no `<lastmod>` at all.** 13 are new (the GPT-6.1 Sol and GPT-6.1 Terra launch pages, 4 `/ads/` pages, 7 `/supply/` merchandise pages); one existing page, `/index/advancing-independent-research-ai-alignment/`, had a `<lastmod>` on Sep 28 and now has none. OpenAI makes no timestamp claim for these, so later edits to them will be invisible to this monitor's `<lastmod>` check.
 - **`<lastmod>` is not a publication date for the new articles.** About 45 new `/index/` posts share a `<lastmod>` within two minutes of 2026-11-13T22:12Z and another ~28 share 2026-11-09T22:46–23:08Z, although their on-page dates run from late September to mid-November (e.g. the Lenfest post is dated Sep 28). These are bulk re-saves; treat the on-page date as the publication claim.
@@ -405,4 +405,4 @@ Method note: for updated pages, old vs new markdown was compared with blank line
 
 ## Fetch failures / needs follow-up
 
-No fetch failures. Follow-up worth doing on a later run: the 14 URLs without `<lastmod>` cannot be detected as updated by the sitemap diff, so they should be re-fetched periodically; and the cause of the 49-day scheduling gap is unknown from inside this run.
+No fetch failures. Follow-up worth doing on a later run: the 14 URLs without `<lastmod>` cannot be detected as updated by the sitemap diff, so they should be re-fetched periodically; and the 48 open draft PRs (#148–#195) need a decision: merging any one of them (or this run's PR) restores a current baseline, but they all touch the same files and will conflict with each other.
