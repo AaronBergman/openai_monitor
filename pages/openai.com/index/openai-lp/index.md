@@ -34,23 +34,29 @@ March 11, 2019
 
 ![An abstract landscape painting with swirling strokes of green, pink, and gold depicting hills and trees beneath a bright blue sky with soft orange and lavender clouds.](https://images.ctfassets.net/kftzwdyauwt9/77u2SQoEegvSzXgDlAUN72/89e93ed703c1ef377d3c85dea2958710/openai-lp.jpg?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 The mission comes first
 
   * The mission comes first
+
   * What OpenAI does
+
   * Safety
+
   * Who’s involved
+
 
 
 
   * The mission comes first
+
   * What OpenAI does
+
   * Safety
+
   * Who’s involved
+
 
 
 
@@ -99,8 +105,11 @@ We are excited by the potential for AGI to help solve planetary-scale problems i
 ## Who’s involved
 
   * OpenAI Nonprofit’s board consists of OpenAI LP employees Greg Brockman (Chairman & CTO), Ilya Sutskever (Chief Scientist), and Sam Altman (CEO), and non-employees Adam D’Angelo, Holden Karnofsky, Reid Hoffman, Shivon Zilis, and Tasha McCauley.A
+
   * Elon Musk left the [board of OpenAI Nonprofit⁠](</index/openai-supporters/>) in February 2018 and is not formally involved with OpenAI LP. We are thankful for all his past help.
+
   * Our investors include Reid Hoffman’s charitable foundation and Khosla Ventures, among others. We feel lucky to have mission-aligned, impact-focused, helpful investors!
+
 
 
 
@@ -129,15 +138,15 @@ Greg Brockman, Ilya Sutskever, OpenAI
 
 [View all](</news/>)
 
-![Newspartnership Cover](https://images.ctfassets.net/kftzwdyauwt9/ffffbd46-a171-41c5-25d9eec16b7d/bd1bc987f38b1c2901819b4c211886a2/NewsPartnership_Cover.png?w=3840&q=90&fm=webp)
+![Soft pastel painting depicting a serene sky with wispy clouds, blending aqua, peach, and a hint of yellow at the horizon.](https://images.ctfassets.net/kftzwdyauwt9/ffffbd46-a171-41c5-25d9eec16b7d/bd1bc987f38b1c2901819b4c211886a2/NewsPartnership_Cover.png?w=3840&q=90&fm=webp)
 
 [Global news partnerships: Le Monde and Prisa MediaCompanyMar 13, 2024](</index/global-news-partnerships-le-monde-and-prisa-media/>)
 
-![New board of directors](https://images.ctfassets.net/kftzwdyauwt9/5J9s3ItUUDOTebSo0ZVmun/642e8632be32866792c7aaae0113aaa5/44.png?w=3840&q=90&fm=webp)
+![Abstract soft-focus background with a delicate blend of pale peach and a hint of pink.](https://images.ctfassets.net/kftzwdyauwt9/5J9s3ItUUDOTebSo0ZVmun/642e8632be32866792c7aaae0113aaa5/44.png?w=3840&q=90&fm=webp)
 
 [OpenAI announces new members to board of directorsCompanyMar 8, 2024](</index/openai-announces-new-members-to-board-of-directors/>)
 
-![News > Company carousel > Review completed > Media](https://images.ctfassets.net/kftzwdyauwt9/3BEH4mYgX0MXC45XOsbOru/fdcc0dadabd87f8e9a776a2f34647de0/37.png?w=3840&q=90&fm=webp)
+![Blurred abstract image with a soft fusion of peach, green, and pink hues with a white smudge in the upper region.](https://images.ctfassets.net/kftzwdyauwt9/3BEH4mYgX0MXC45XOsbOru/fdcc0dadabd87f8e9a776a2f34647de0/37.png?w=3840&q=90&fm=webp)
 
 [Review completed & Altman, Brockman to continue to lead OpenAICompanyMar 8, 2024](</index/review-completed-altman-brockman-to-continue-to-lead-openai/>)
 
@@ -151,9 +160,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -172,7 +182,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -190,6 +201,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -198,8 +210,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -218,6 +230,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -34,23 +34,29 @@ May 29, 2026
 
 What matters for effective independent evaluations of safeguards and capabilities for frontier models.
 
-Loading…
-
 Share
 
 Selecting the right harness for an evaluation is crucial for optimal results
 
   * Selecting the right harness for an evaluation is crucial for optimal results
+
   * Assess validity by checking for known hazards that can distort results
+
   * How we are supporting stronger evaluations
-  * What this means for evaluation standards and future research directions 
+
+  * What this means for evaluation standards and future research directions
+
 
 
 
   * Selecting the right harness for an evaluation is crucial for optimal results
+
   * Assess validity by checking for known hazards that can distort results
+
   * How we are supporting stronger evaluations
-  * What this means for evaluation standards and future research directions 
+
+  * What this means for evaluation standards and future research directions
+
 
 
 
@@ -65,18 +71,26 @@ This changes how evaluations need to be conducted, and what readers should look 
 Claims tested in evaluations typically fall into one of three buckets1:
 
   * **Capability elicitation** : Can a model plausibly produce the capability being evaluated? 
+
   * **Safeguard performance** : How robust are the tested safeguards against the behavior or attack being evaluated?
+
   * **Comparison** : How do different models perform under equivalent conditions?
+
 
 
 
 Evaluation reports also need to explain how evaluators checked for effects that could impact the validity of a result. These include:
 
   * **Reward hacking:** Exploiting shortcuts in the task or scorer, so the system gets credit without demonstrating the behavior the evaluation is meant to measure.
+
   * **Refusals:** Refusing in ways that obscure the behavior being tested.
+
   * **Contamination:** Overperforming because evaluation tasks, answers, or close variants appeared in training data or were discoverable during the evaluation, such as through browsing.
+
   * **Broken problems:** Underperforming because tasks are invalid. Reasons can include unfair scoring (e.g., correct answer requires unstated implementation details) and unsolvable environments (e.g., missing critical files or unreliable tools).
+
   * **Sandbagging** : Deliberately underperforming when they show awareness of being evaluated.
+
 
 
 
@@ -137,9 +151,13 @@ Sandbagging by a model or system means strategically underperforming when strong
 Strong claims require both the right harness to elicit the behavior and validity checks to show the result is sound. Our view that harnesses and validity checks are part of the evaluation result shapes how we support third party evaluations in practice: 
 
   * We are sharing specific maximum-elicitation guidance with evaluators.
+
   * We are asking capability evaluators to use Codex as a common floor for OpenAI models: tests should at least run a baseline through the same agentic interface users are likely to rely on, rather than only through a stripped-down model interface.
+
   * We are also making reasoning traces and other intermediate artifacts available where they are needed to assess deception, sandbagging, or evaluation awareness. METR and Apollo have used this access in OpenAI evaluations since GPT‑5. 
+
   * Finally, we are prioritizing research to more deeply understand when and how harness choices materially change results, from context management and tool access to retry behavior, scoring, and resource budgets.
+
 
 
 
@@ -148,11 +166,17 @@ Strong claims require both the right harness to elicit the behavior and validity
 These recommendations are intended not only to improve individual evaluation reports, but also to inform emerging [_national_ ⁠(opens in a new window)](<https://www.nist.gov/news-events/news/2026/01/towards-best-practices-automated-benchmark-evaluations>)and [_international_ ⁠(opens in a new window)](<https://www.iso.org/standard/91609.html>)standards for frontier AI evaluation and reporting. Going forward, third party evaluation standards should require enough detail for decision makers to understand what claims the specific evaluations support, what system was tested, how the result was elicited, and how evaluators checked its validity. For frontier systems being tested on tasks where agentic capabilities matter, details should include (subject to any security or confidentiality concerns):
 
   * **The claim:** whether the evaluation compares systems, estimates a capability ceiling, or tests safeguards.
+
   * **Evaluation content:** enough detail about the tasks or task distribution for readers to understand what skills, behaviors, or failure modes the evaluation is actually testing.
+
   * **The tested system:** the model, reasoning setting, tool access, harness, and safeguards.
+
   * **The budget:** turns, tokens, attempts/retries, wall-clock time, inference cost, and where applicable expected cost per successful solve.
+
   * **Elicitation methods:** harness choices used to draw out the result, and how closely what was tested reflects the broader claim being made.
+
   * **Validity checks:** how assessors looked for reward hacking, evaluation awareness, contamination, refusals, sandbagging and other behaviors that could undermine the result, including how confirmed cases affected scoring or interpretation.
+
 
 
 
@@ -236,15 +260,17 @@ Scoring 100% on both Sandbagging QA variants and 99.6% on the strategic-deceptio
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Introducing Control Room — Cover](https://images.ctfassets.net/kftzwdyauwt9/XFHiXwklxhUiqEYuo22MD/0767c09bbe4c850f05339215f444f097/introducing-control-room-cover.png?w=3840&q=90&fm=webp)
 
-![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
+[Control Room: A new way to track and stop AI workloadsSafetyNov 9, 2026](</index/control-room/>)
 
-[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
+![GPT-6 Cyber — Cover](https://images.ctfassets.net/kftzwdyauwt9/1AiFc9sQFyo6YguQtfjHHN/3ac0a37435e1dfd2b532eaefe26b18bb/gpt-6-cyber-cover.png?w=3840&q=90&fm=webp)
 
-![ChatGPT for Teens — square card](https://images.ctfassets.net/kftzwdyauwt9/5IP7e1KeD8zkZq6YUrKdKW/2325215681ea59d32dd09b3ea90f12c5/Art_Card-TEENS-1x13x.png?w=3840&q=90&fm=webp)
+[GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agentsProductNov 5, 2026](</index/introducing-gpt-6-cyber/>)
 
-[Introducing ChatGPT for TeensProductAug 18, 2026](</index/chatgpt-for-teens/>)
+![An update on violence prevention — Cover](https://images.ctfassets.net/kftzwdyauwt9/2JkiYuWDdFYR0Wg7GoacTc/56a54c0060610c840d098457108a4f88/an-update-on-violence-prevention-cover.png?w=3840&q=90&fm=webp)
+
+[Community safety report and new protections for teensSafetyOct 30, 2026](</index/community-safety-report-and-new-protections-for-teens/>)
 
 Research
 
@@ -256,9 +282,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -277,7 +304,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -295,6 +323,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -303,8 +332,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -323,6 +352,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

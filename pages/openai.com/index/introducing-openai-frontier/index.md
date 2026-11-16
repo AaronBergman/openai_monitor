@@ -32,33 +32,49 @@ February 5, 2026
 
 # Introducing OpenAI Frontier
 
-Loading…
-
 Share
 
 The AI opportunity gap
 
   * The AI opportunity gap
+
   * OpenAI Frontier
+
     * Understand the work
+
     * Plan, act, and solve problems
+
     * Improve quality on real work
+
     * Identity, permissions, and boundaries
+
   * Combining technology with know-how
+
   * Opening the AI ecosystem
+
   * Let’s build
+
 
 
 
   * The AI opportunity gap
+
   * OpenAI Frontier
+
     * Understand the work
+
     * Plan, act, and solve problems
+
     * Improve quality on real work
+
     * Identity, permissions, and boundaries
+
   * Combining technology with know-how
+
   * Opening the AI ecosystem
+
   * Let’s build
+
 
 
 
@@ -73,10 +89,6 @@ Today, we’re introducing [**Frontier**](</business/frontier/>) , a new platfor
 [HP⁠(opens in a new window)](<https://www.hp.com/us-en/home.html>), [Intuit⁠(opens in a new window)](<https://www.intuit.com/>), [Oracle⁠(opens in a new window)](<https://www.oracle.com/>), [State Farm⁠(opens in a new window)](<https://www.statefarm.com/>), [Thermo Fisher⁠(opens in a new window)](<https://www.thermofisher.com/us/en/home.html>), and [Uber⁠(opens in a new window)](<https://www.uber.com/>) are among the first to adopt Frontier, and dozens of existing customers–including [BBVA⁠(opens in a new window)](<https://www.bbva.com/en/>), [Cisco⁠(opens in a new window)](<https://www.cisco.com/>), and [T-Mobile⁠(opens in a new window)](<https://www.t-mobile.com/>)–have already piloted Frontier’s approach to power some of their most complex and valuable AI work.
 
 State FarmOracleThermo Fisher ScientificUber
-
-> “Partnering with OpenAI helps us give thousands of State Farm agents and employees better tools to serve our customers. By pairing OpenAI’s Frontier platform and deployment expertise with our people, we’re accelerating our AI capabilities and finding new ways to help millions plan ahead, protect what matters most, and recover faster when the unexpected happens.”
-
-— Joe Park, Executive Vice President and Chief Digital Information Officer at State Farm
 
 ## The AI opportunity gap
 
@@ -95,9 +107,13 @@ We started by looking at how enterprises already scale people. They create onboa
 For AI coworkers to actually work, a few things matter:
 
   * They need to understand how work actually gets done across systems. 
+
   * They need access to a computer and tools to plan, act, and solve real-world problems. 
+
   * They need to understand what good looks like, so quality improves as the work changes.
+
   * And they need an identity, permissions, and boundaries teams can trust.
+
 
 
 
@@ -145,22 +161,6 @@ The FDEs also give teams **a direct connection to OpenAI Research**. As you depl
 
 Root cause analysisDigital retail assistantEquipment maintenanceUser personalizationMarketing campaign
 
-#### Business problem
-
-Millions of hardware tests failed, and engineers spent thousands of hours each year (nearly half their time) manually hunting down the cause by digging through logs, docs, and code.
-
-#### What we solved
-
-We reduced root-cause identification from ~4 hours per failure to a few minutes, accelerating troubleshooting.
-
-#### How it works
-
-AI coworkers pull together simulation logs, internal docs, workflows, and code, then run an end-to-end investigation to identify the most likely root cause and what to do next.
-
-#### Outcome
-
-Debugging went from hours to minutes, saving thousands of engineering hours annually and speeding up development.
-
 ## Opening the AI ecosystem
 
 AI works best in the enterprise when the platform and the applications work together. Because Frontier is built on open standards, software teams can plug in and build agents that benefit from the same shared context.
@@ -191,17 +191,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![Introducing ChatGPT Wallet for agents — Cover](https://images.ctfassets.net/kftzwdyauwt9/5XXHqQ61pm335AlEJ6i24k/05c87c234b2be2cd3fdc68645fc24f18/introducing-chatgpt-wallet-for-agents-cover.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[Introducing ChatGPT WalletProductNov 13, 2026](</index/introducing-chatgpt-wallet/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![ChatGPT for Veterans > Cover Image](https://images.ctfassets.net/kftzwdyauwt9/2xsjEAOhgideekNE2Xxxqk/fe4d5c8aecf7d6498d1e8026a5a56599/oai_GA_Stories_1.1.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[ChatGPT Plus for veterans and servicemembersCompanyNov 11, 2026](</index/chatgpt-plus-for-veterans/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![Helping caregivers use AI in everyday life — Cover](https://images.ctfassets.net/kftzwdyauwt9/2wwJf21F4rMJ6FffmYbEa5/0e9a21de969e280e77ae8ae66eaa03f6/helping-caregivers-use-ai-in-everyday-life-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[Helping caregivers use AI in everyday lifeCompanyNov 10, 2026](</index/helping-caregivers-use-ai-in-everyday-life/>)
 
 Research
 
@@ -213,9 +213,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -234,7 +235,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -252,6 +254,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -260,8 +263,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -280,6 +283,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -307,3 +311,23 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+> “Partnering with OpenAI helps us give thousands of State Farm agents and employees better tools to serve our customers. By pairing OpenAI’s Frontier platform and deployment expertise with our people, we’re accelerating our AI capabilities and finding new ways to help millions plan ahead, protect what matters most, and recover faster when the unexpected happens.”
+
+— Joe Park, Executive Vice President and Chief Digital Information Officer at State Farm
+
+#### Business problem
+
+Millions of hardware tests failed, and engineers spent thousands of hours each year (nearly half their time) manually hunting down the cause by digging through logs, docs, and code.
+
+#### What we solved
+
+We reduced root-cause identification from ~4 hours per failure to a few minutes, accelerating troubleshooting.
+
+#### How it works
+
+AI coworkers pull together simulation logs, internal docs, workflows, and code, then run an end-to-end investigation to identify the most likely root cause and what to do next.
+
+#### Outcome
+
+Debugging went from hours to minutes, saving thousands of engineering hours annually and speeding up development.

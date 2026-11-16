@@ -30,21 +30,25 @@ OpenAI
 
 ![A digital image features the white lowercase letters "nu" in the center, set against a vibrant, abstract background of purple and pink brushstrokes with hints of orange and blue. The design resembles a painted texture with soft, blended shapes.](https://images.ctfassets.net/kftzwdyauwt9/5njJSLFodk0rzxMhmTshsp/178c1f10803f98ea1ee584b9bf8597b6/oai_nubank_16_9.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 Accelerating productivity with custom enterprise search
 
   * Accelerating productivity with custom enterprise search
+
   * Elevating customer service with GPT-4o
+
   * Using vision to address and prevent fraud
+
 
 
 
   * Accelerating productivity with custom enterprise search
+
   * Elevating customer service with GPT-4o
+
   * Using vision to address and prevent fraud
+
 
 
 
@@ -77,7 +81,7 @@ Customer support agents, developers, and new hires all benefit from faster, more
 
 ![A screenshot of a chat interface where an assistant informs a customer, Maria, that her investment balance is R$ 15,098.78. The design features a purple theme.](https://images.ctfassets.net/kftzwdyauwt9/HxCix1nDubGtkUMEG0wPC/0539f5ec2785cd9fbfa4d5f49be38460/oai_nubank_interface_shuffle.png?w=3840&q=90&fm=webp)
 
-## Elevating customer service with GPT-4o
+## Elevating customer service with GPT‑4o
 
 The success of enterprise search set a robust foundation for knowledge retrieval and context-aware assistance, and allowed Nubank to take on a challenge many companies face today: Maintaining exceptional customer service as their user base grew. 
 
@@ -138,10 +142,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -160,7 +164,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -187,8 +192,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -207,6 +212,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
