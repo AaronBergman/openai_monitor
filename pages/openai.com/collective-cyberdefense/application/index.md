@@ -44,6 +44,12 @@ Email *
 
 What critical infrastructure do you support, and do you need Daybreak access, funding, or both? *250 characters max.
 
+Legal terms *
+
+By checking this box and submitting this application, you electronically accept the [OpenAI Frontline Defenders Cyber Fund Agreement(opens in a new window)](<https://cdn.openai.com/pdf/00ad0690-e5c7-42e3-bb49-1d2214f8b28f/terms-and-conditions-for-cyber-fund-participants.pdf>) on behalf of your organization and agree that this acceptance is legally binding.
+
+By submitting this form, you acknowledge OpenAI’s [Privacy Policy](</policies/privacy-policy/>) and agree to receive Frontline Defenders Fund updates. You can unsubscribe at any time.
+
 Register interest
 
 **Note:** Submitting interest does not guarantee eligibility, funding, model access, partner services, or a particular timeline. Please do not submit vulnerabilities, confidential information, or sensitive security details.
@@ -58,10 +64,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -80,7 +86,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -107,8 +114,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -127,6 +134,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
