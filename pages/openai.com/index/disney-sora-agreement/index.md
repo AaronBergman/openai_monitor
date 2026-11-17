@@ -36,15 +36,18 @@ Agreement marks a significant step in setting meaningful standards for responsib
 
 ![Logos for OpenAI and the Walt Disney Company in white on a background of swirling purples, blues, and magenta](https://images.ctfassets.net/kftzwdyauwt9/3rKAnqPdPyQiQ9KNhNtYiA/3920f57f654c1abab54ac5035f4abd30/OAI_Disney_Hero_16x9.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
   *  _As part of this three-year licensing agreement, Sora will be able to generate short, user-prompted social videos that can be viewed and shared by fans, drawing on more than 200 Disney, Marvel, Pixar and Star Wars characters._
+
   * _Agreement will make a selection of these fan-inspired Sora short form videos available to stream on Disney+._
+
   * _Disney and OpenAI affirm a shared commitment to responsible use of AI that protects the safety of users and the rights of creators._
+
   * _Alongside the licensing agreement, Disney will become a major customer of OpenAI, using its APIs to build new products, tools, and experiences, including for Disney+, and deploying ChatGPT for its employees._
+
   * _As part of the agreement, Disney will make a $1 billion equity investment in OpenAI, and receive warrants to purchase additional equity._
+
 
 
 
@@ -84,17 +87,17 @@ OpenAI
 
 [View all](</news/>)
 
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
+![More ways to move care forward with ChatGPT for Healthcare — Cover](https://images.ctfassets.net/kftzwdyauwt9/z04YGXDiiB9gJhtnjWey2/1cef69c9ddda33271ccfdf8a5b4986e5/more-ways-to-move-care-forward-with-chatgpt-for-healthcare-cover.png?w=3840&q=90&fm=webp)
 
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
+[More ways to move care forward with ChatGPT for HealthcareProductNov 16, 2026](</index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare/>)
 
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
+![Advancing computer use for healthcare teams — Cover](https://images.ctfassets.net/kftzwdyauwt9/25dsYCnNJGsdRrXkjPjQI3/a1369c52af783f250d9a6becc4f208bc/advancing-computer-use-for-healthcare-teams-cover.png?w=3840&q=90&fm=webp)
 
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
+[Advancing computer-use agents for healthcare teamsProductNov 16, 2026](</index/advancing-computer-use-for-healthcare-teams/>)
 
-![DMUA Russia > card image ](https://images.ctfassets.net/kftzwdyauwt9/ciRSLFnJsNyxXYQjdoyqu/ff8ab22ad273ff79a4c9840f0c209fe6/Frame.png?w=3840&q=90&fm=webp)
+![The King’s Trust and OpenAI partnership — Cover](https://images.ctfassets.net/kftzwdyauwt9/7j93AvZKxba2iNSQCVuVP8/911c09306e272d78d8139431c58d8ac1/the-king-s-trust-and-openai-launch-1m-partnership-cover.png?w=3840&q=90&fm=webp)
 
-[Disrupting a new covert influence campaign from RussiaGlobal AffairsAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
+[The King’s Trust and OpenAI launch £1m partnershipGlobal AffairsNov 16, 2026](</index/the-kings-trust-and-openai/>)
 
 Research
 
@@ -106,9 +109,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -127,7 +131,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -145,6 +150,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -153,8 +159,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -173,6 +179,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

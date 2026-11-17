@@ -36,8 +36,6 @@ Link to a ChatGPT account now to keep the conversation going
 
 ![Continuing your ChatGPT experience beyond WhatsApp](https://images.ctfassets.net/kftzwdyauwt9/37QZnstsqIawFYmKpww8tS/70c8737da334db6596a1802b7e24117f/oai_GA_Stories_16.9__1_.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 We’ve loved seeing more than 50 million of you chat, create, and learn with ChatGPT on WhatsApp. The simplicity and familiarity of messaging made it a natural home for everyday creativity and curiosity.
@@ -71,17 +69,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Introducing the Australian Youth Safety Blueprint — cover](https://images.ctfassets.net/kftzwdyauwt9/3hSPxVZReGirTIsDaGBwaN/6a402fc967b16c7a33e509a2bea2bc44/introducing-the-australian-youth-safety-blueprint-cover.png?w=3840&q=90&fm=webp)
+![LVMH Media Division partnership with OpenAI — cover](https://images.ctfassets.net/kftzwdyauwt9/2LOjySDM8G0bdrIW0XNMq3/5b50996dca0e8f5ddde8f8e43c6d5492/lvmh-s-media-division-announces-partnership-with-openai-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing the Australian Youth Safety BlueprintCompanySep 18, 2026](</index/australian-youth-safety-blueprint/>)
+[LVMH’s Media Division announces partnership with OpenAICompanyNov 16, 2026](</index/lvmh-media-division-partnership/>)
 
-![Introducing Astra for Law — art card](https://images.ctfassets.net/kftzwdyauwt9/4vshYjPreJaZEO8O7sSTFX/e61e1b0c2f67305b55171ae3cc8042b8/introducing-astra-for-law-art-card.png?w=3840&q=90&fm=webp)
+![More ways to move care forward with ChatGPT for Healthcare — Cover](https://images.ctfassets.net/kftzwdyauwt9/z04YGXDiiB9gJhtnjWey2/1cef69c9ddda33271ccfdf8a5b4986e5/more-ways-to-move-care-forward-with-chatgpt-for-healthcare-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing Astra for LawCompanySep 17, 2026](</index/astra-for-law/>)
+[More ways to move care forward with ChatGPT for HealthcareProductNov 16, 2026](</index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare/>)
 
-![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
+![Advancing computer use for healthcare teams — Cover](https://images.ctfassets.net/kftzwdyauwt9/25dsYCnNJGsdRrXkjPjQI3/a1369c52af783f250d9a6becc4f208bc/advancing-computer-use-for-healthcare-teams-cover.png?w=3840&q=90&fm=webp)
 
-[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
+[Advancing computer-use agents for healthcare teamsProductNov 16, 2026](</index/advancing-computer-use-for-healthcare-teams/>)
 
 Research
 
@@ -93,10 +91,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -115,7 +113,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -133,6 +132,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -141,8 +141,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -161,6 +161,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

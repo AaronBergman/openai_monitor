@@ -34,37 +34,57 @@ March 5, 2026
 
 Designed for professional work
 
-Loading…
-
 Share
 
 Knowledge work
 
   * Knowledge work
+
   * Computer use and vision
+
   * Coding
+
   * Tool use
+
     * Tool search
+
     * Agentic tool calling
+
     * Improved web search
+
   * Steerability
+
   * Safety
+
   * Availability and pricing
+
   * Evaluations
+
 
 
 
   * Knowledge work
+
   * Computer use and vision
+
   * Coding
+
   * Tool use
+
     * Tool search
+
     * Agentic tool calling
+
     * Improved web search
+
   * Steerability
+
   * Safety
+
   * Availability and pricing
+
   * Evaluations
+
 
 
 
@@ -333,17 +353,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Reimagining advertising with AI — Card cover](https://images.ctfassets.net/kftzwdyauwt9/fHwkKLVG8WFHvuUPqMXtz/1c49ba0859fe1e1e21f5d64f692490f5/reimagining-advertising-with-ai-cover.png?w=3840&q=90&fm=webp)
+![Academic researchers — art card](https://images.ctfassets.net/kftzwdyauwt9/1FaKIo74WEGULSjb4ooTrV/718f3bc75e7b2ddd276d43a0fc97760a/academic-researchers-art-card.png?w=3840&q=90&fm=webp)
 
-[Reimagining advertising with AIProductSep 16, 2026](</index/reimagining-advertising-with-ai/>)
+[Broadening access to AI for scientistsResearchNov 16, 2026](</index/expanding-chatgpt-for-academic-researchers/>)
 
-![How to connect AI usage to business value — art card](https://images.ctfassets.net/kftzwdyauwt9/36T42HPkipcJAs08yNirmR/f73d9408ef4f0b08b5cce3b839656843/cover-018.png?w=3840&q=90&fm=webp)
+![More ways to move care forward with ChatGPT for Healthcare — Cover](https://images.ctfassets.net/kftzwdyauwt9/z04YGXDiiB9gJhtnjWey2/1cef69c9ddda33271ccfdf8a5b4986e5/more-ways-to-move-care-forward-with-chatgpt-for-healthcare-cover.png?w=3840&q=90&fm=webp)
 
-[How to connect AI usage to business valueProductSep 16, 2026](</index/how-to-connect-ai-usage-to-business-value/>)
+[More ways to move care forward with ChatGPT for HealthcareProductNov 16, 2026](</index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare/>)
 
-![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
+![Advancing computer use for healthcare teams — Cover](https://images.ctfassets.net/kftzwdyauwt9/25dsYCnNJGsdRrXkjPjQI3/a1369c52af783f250d9a6becc4f208bc/advancing-computer-use-for-healthcare-teams-cover.png?w=3840&q=90&fm=webp)
 
-[Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
+[Advancing computer-use agents for healthcare teamsProductNov 16, 2026](</index/advancing-computer-use-for-healthcare-teams/>)
 
 Research
 
@@ -355,10 +375,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -377,7 +397,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -395,6 +416,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -403,8 +425,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -423,6 +445,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

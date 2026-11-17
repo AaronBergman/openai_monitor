@@ -36,25 +36,33 @@ Using OpenAI GPT‑4.1 and GPT‑5 to plan and Sora 2 to create, Higgsfield give
 
 ![Higgsfield logo on pink background](https://images.ctfassets.net/kftzwdyauwt9/7kC29MuRZzWq43LVsI86CI/30f8be22cfe8d39b04bb91097a5f8bae/oai_higgsfield_16x9.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 Creators describe outcomes, not camera instructions
 
   * Creators describe outcomes, not camera instructions
+
   * Operationalizing virality as a system, not a guess
+
   * Turning product pages into ads with Click-to-Ad
+
   * Routing the right job to the right model
+
   * Pushing the boundaries of AI video
+
 
 
 
   * Creators describe outcomes, not camera instructions
+
   * Operationalizing virality as a system, not a guess
+
   * Turning product pages into ads with Click-to-Ad
+
   * Routing the right job to the right model
+
   * Pushing the boundaries of AI video
+
 
 
 
@@ -95,9 +103,13 @@ Built on the same planning-first principles that guide the rest of the platform,
 Here’s how it works:
 
   1. A user pastes in a link to a product page
+
   2. The system analyzes the page to extract brand intent, identify key visual anchors, and understand what matters about the product
+
   3. Once the product is identified, the system maps it into one of the pre-engineered trending presets
+
   4. Sora 2 generates the final video, applying each preset's complex professional standards for camera motion, rhythmic pacing, and stylistic rules
+
 
 
 
@@ -118,9 +130,13 @@ More ambiguous workflows require a different approach. When the system needs to 
 Routing decisions are guided by internal heuristics that weigh:
 
   * Required reasoning depth versus acceptable latency
+
   * Output predictability versus creative latitude
+
   * Explicit versus inferred intent
+
   * Machine-consumed versus human-facing outputs
+
 
 
 
@@ -140,17 +156,17 @@ As OpenAI models continue to evolve, Higgsfield’s system expands with them. Ne
 
 [View all](</news/>)
 
-![Introducing the Agents API — cover image](https://images.ctfassets.net/kftzwdyauwt9/6iP1bamSOXsPLwzFAepmx2/8b8fec31ba235a13ee695a607d7fe641/cover-image.png?w=3840&q=90&fm=webp)
+![Gondola — art card and hero](https://images.ctfassets.net/kftzwdyauwt9/5B8tYqcVtztQ9PNAvMLPLO/8f2fc1472cb497b2d2b8ff82c0c1eeba/Gondola-Option-A-Art-Card-1080x1080.png?w=3840&q=90&fm=webp)
 
-[Introducing the Agents APIProductSep 10, 2026](</index/introducing-the-agents-api/>)
+[Gondola doubles revenue as its team builds more with CodexStartupNov 12, 2026](</business/customer-stories/gondola/>)
 
-![Legora customer story art card - Option C](https://images.ctfassets.net/kftzwdyauwt9/13uynVdSWJS9UT4Y7EppMn/7259e4915a7e6ea2f4c52c2109eace61/square.png?w=3840&q=90&fm=webp)
+![Cogent Security — cover \(sienna\)](https://images.ctfassets.net/kftzwdyauwt9/1b77wWqxMlNBg59VRDTuuQ/46601ae75270e4d037359127eb09a76c/cogent-security-cover-sienna.png?w=3840&q=90&fm=webp)
 
-[Legora reviewed 41 documents in minutes with GPT-6 AstraStartupSep 3, 2026](</index/legora-financial-statement-review-with-astra/>)
+[Cogent and OpenAI build cyber defense factories for enterprisesStartupNov 10, 2026](</index/cogent-security/>)
 
-![Playco Astra customer story art card - Option B](https://images.ctfassets.net/kftzwdyauwt9/2GBXEJdShwgtUKQZc9Ojsm/ae87410a653bd421e514515deee02940/playco-art-card-option-b-approved.png?w=3840&q=90&fm=webp)
+![CodeRabbit — Indigo texture art card](https://images.ctfassets.net/kftzwdyauwt9/1YFM9mFKP6ZzABichElFUi/9a6569f02f982f80d80941019f522a99/coderabbit-art-card-1080x1080.png?w=3840&q=90&fm=webp)
 
-[Playco cut manual fixes 50% prototyping games with GPT-6 AstraStartupSep 3, 2026](</index/playco-game-prototyping-with-astra/>)
+[CodeRabbit scales agentic software development and ships 20x moreStartupNov 9, 2026](</index/coderabbit-codex-daybreak/>)
 
 Research
 
@@ -162,10 +178,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -184,7 +200,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -202,6 +219,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -210,8 +228,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -230,6 +248,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

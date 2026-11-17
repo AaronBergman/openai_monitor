@@ -34,31 +34,45 @@ May 8, 2026
 
 A look at the controls, boundaries, and telemetry OpenAI uses to govern coding agents in real workflows.
 
-Loading…
-
 Share
 
 Controlling how Codex operates
 
   * Controlling how Codex operates
+
     * Sandboxing and approvals
+
     * Network access
+
     * Identity and credentials
+
     * Rules
+
     * Managed configs
+
   * Agent-native telemetry and audit trails
+
   * Looking ahead
+
 
 
 
   * Controlling how Codex operates
+
     * Sandboxing and approvals
+
     * Network access
+
     * Identity and credentials
+
     * Rules
+
     * Managed configs
+
   * Agent-native telemetry and audit trails
+
   * Looking ahead
+
 
 
 
@@ -389,17 +403,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Priorities and principles for effective third party assessments cover](https://images.ctfassets.net/kftzwdyauwt9/12cpbLOJFwXJ00Ma66GDVk/d4b392c0a9e18f078b23247a3f755f57/priorities-and-principles-for-effective-third-party-assessments-cover.png?w=3840&q=90&fm=webp)
+![Strengthening online child safety — Cover](https://images.ctfassets.net/kftzwdyauwt9/4A8yDKzHroI90UwxXoflij/114ad9e05b9a7a271d375e08d563efa8/strengthening-online-child-safety-cover.png?w=3840&q=90&fm=webp)
 
-[Priorities and principles for effective third party assessmentsSafetySep 22, 2026](</index/priorities-principles-third-party-assessments/>)
+[Strengthening the fight against online child sexual abuseSafetyNov 16, 2026](</index/strengthening-online-child-safety/>)
 
-![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
+![Announcing our first phase of embedded assessments — Cover](https://images.ctfassets.net/kftzwdyauwt9/26M5hp4fA7fMTS8SG5TPyX/249d63025408a0b8ba02b8cffd10ce8e/embedded-assessments-neutral-023-cover.png?w=3840&q=90&fm=webp)
 
-[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
+[Our first phase of embedded assessmentsSafetyNov 16, 2026](</index/our-first-phase-of-embedded-assessments/>)
 
-![Teen development research grants — Card image](https://images.ctfassets.net/kftzwdyauwt9/492WJ2zEboE6VdmchhCjIA/34e10aa1208a6988e3db2341d849d5b4/4bzz6p65ky7zwfd4pe42ou-cover__3_.png?w=3840&q=90&fm=webp)
+![Introducing Control Room — Cover](https://images.ctfassets.net/kftzwdyauwt9/XFHiXwklxhUiqEYuo22MD/0767c09bbe4c850f05339215f444f097/introducing-control-room-cover.png?w=3840&q=90&fm=webp)
 
-[Funding grants for new research into AI and teen developmentSafetySep 8, 2026](</index/teen-development-research-grants/>)
+[Control Room: A new way to track and stop AI workloadsSafetyNov 9, 2026](</index/control-room/>)
 
 Research
 
@@ -411,10 +425,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -433,7 +447,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -460,8 +475,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -480,6 +495,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

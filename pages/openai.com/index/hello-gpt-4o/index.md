@@ -52,23 +52,29 @@ More Resources
 
 [Try in Playground (opens in a new window)](<https://platform.openai.com/playground?mode=chat&model=gpt-4o>)[Rewatch live demos](</index/spring-update/>)
 
-Loading…
-
 Share
 
 Explorations of capabilities
 
   * Explorations of capabilities
+
   * Model evaluations
+
     * Language tokenization
+
   * ChatGPT-4o Risk Scorecard
+
 
 
 
   * Explorations of capabilities
+
   * Model evaluations
+
     * Language tokenization
+
   * ChatGPT-4o Risk Scorecard
+
 
 
 
@@ -212,7 +218,7 @@ Examples of model limitations
 
 We would love feedback to help identify tasks where GPT‑4 Turbo still outperforms GPT‑4o, so we can continue to improve the model. 
 
-## ChatGPT-4o Risk Scorecard
+## ChatGPT‑4o Risk Scorecard
 
 Updated May 8, 2024
 
@@ -283,10 +289,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -305,7 +311,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -332,8 +339,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -352,6 +359,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

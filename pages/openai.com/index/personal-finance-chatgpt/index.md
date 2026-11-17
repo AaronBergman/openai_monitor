@@ -40,29 +40,58 @@ May 15, 2026
 
 [Contact sales](</contact-sales/>)
 
-Loading…
-
 Share
 
 How to get started
 
   * How to get started
+
   * From answers to action, with ecosystem partners like Intuit
-  * Keeping your information private and secure 
+
+  * Keeping your information private and secure
+
   * Designed and evaluated for accuracy and quality
+
   * What our ChatGPT Pro community testers are saying
+
 
 
 
   * How to get started
+
   * From answers to action, with ecosystem partners like Intuit
-  * Keeping your information private and secure 
+
+  * Keeping your information private and secure
+
   * Designed and evaluated for accuracy and quality
+
   * What our ChatGPT Pro community testers are saying
 
 
 
-** _Update on June 25, 2026:_**_The personal finance experience in ChatGPT is now available to Plus and Pro users in the U.S. on web, iOS, and Android._
+
+ _**Update on October 2, 2026:**___ Finances in ChatGPT is now rolling out to Free and Go users in the U.S. You can securely connect your financial accounts to find ways to save, understand your spending, and make sense of your investments—with answers grounded in your finances.
+
+Since launch, we’ve added:
+
+  * **Weekly updates** with insights to help you stay on top of your finances.
+
+  * **Credit monitoring** to help you track your credit score over time and understand the factors affecting it.
+
+  * **Stock watchlists** so you can follow stocks you’re interested in and see how they’re performing.
+
+  * **Voice** support so you can talk through questions about your money.
+
+  * **Android support** so you can access Finances in ChatGPT on your Android device.
+
+  * **Manual account entry** so you can include accounts you haven’t connected.
+
+
+
+
+* * *
+
+**_Update on June 25, 2026:_**_The personal finance experience in ChatGPT is now available to Plus and Pro users in the U.S. on web, iOS, and Android._
 
 * * *
 
@@ -415,17 +444,17 @@ OpenAI
 
 [View all](</news/>)
 
-![ChatGPT Ads expands to Southeast Asia and Taiwan — cover](https://images.ctfassets.net/kftzwdyauwt9/2LRApkCOWR8QHAX6Sj3Rik/367336096ea9ec8e9623c1f4d6035c9f/chatgpt-ads-expands-to-southeast-asia-and-taiwan-cover.png?w=3840&q=90&fm=webp)
+![More ways to move care forward with ChatGPT for Healthcare — Cover](https://images.ctfassets.net/kftzwdyauwt9/z04YGXDiiB9gJhtnjWey2/1cef69c9ddda33271ccfdf8a5b4986e5/more-ways-to-move-care-forward-with-chatgpt-for-healthcare-cover.png?w=3840&q=90&fm=webp)
 
-[ChatGPT Ads expands to Southeast Asia and TaiwanProductSep 23, 2026](</index/chatgpt-ads-expands-southeast-asia-taiwan/>)
+[More ways to move care forward with ChatGPT for HealthcareProductNov 16, 2026](</index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare/>)
 
-![Better prompt caching for GPT-6 — Card image](https://images.ctfassets.net/kftzwdyauwt9/72ZKzMh8JgRDfdg4EYRtwY/ee5e406a08b69f00b0beb4ac00270364/7kneoqlc2qh37z1utkmtfk-cover-v1.png?w=3840&q=90&fm=webp)
+![Advancing computer use for healthcare teams — Cover](https://images.ctfassets.net/kftzwdyauwt9/25dsYCnNJGsdRrXkjPjQI3/a1369c52af783f250d9a6becc4f208bc/advancing-computer-use-for-healthcare-teams-cover.png?w=3840&q=90&fm=webp)
 
-[Better prompt caching for GPT-6ProductSep 22, 2026](</index/better-prompt-caching-for-gpt-6/>)
+[Advancing computer-use agents for healthcare teamsProductNov 16, 2026](</index/advancing-computer-use-for-healthcare-teams/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![Introducing ChatGPT Wallet for agents — Cover](https://images.ctfassets.net/kftzwdyauwt9/5XXHqQ61pm335AlEJ6i24k/05c87c234b2be2cd3fdc68645fc24f18/introducing-chatgpt-wallet-for-agents-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
+[Introducing ChatGPT WalletProductNov 13, 2026](</index/introducing-chatgpt-wallet/>)
 
 Research
 
@@ -437,10 +466,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
   * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -459,7 +488,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -486,8 +516,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -506,6 +536,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
