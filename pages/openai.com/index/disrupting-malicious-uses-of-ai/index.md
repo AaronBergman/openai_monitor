@@ -98,9 +98,13 @@ Explore case studies from OpenAI investigations into malicious uses of AI. Each 
 
 Filter
 
+![Disrupting AI-enabled “false front” operations — cover](https://images.ctfassets.net/kftzwdyauwt9/DQdWPLtWbsq27D3JQPXZR/866ddf9dbac46c29308afa0f381bc17d/false-front-operations-cover.png?w=3840&q=90&fm=webp)
+
+[Disrupting AI-enabled “false front” operationsSafetyOct 8, 2026](</index/disrupting-ai-enabled-false-front-operations/>)
+
 ![COVERT IO: Russian influence campaign](https://images.ctfassets.net/kftzwdyauwt9/5RATUzDjxT2FPaERyQHzfy/150b488894b9c321cf7d2ffabc79c3cd/russian-influence-campaign-card.png?w=3840&q=90&fm=webp)
 
-[Disrupting a new covert influence campaign from RussiaGlobal AffairsAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
+[Disrupting a new covert influence campaign from RussiaSafetyAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
 
 ![SCAM: Criminal Scam Operation card image.](https://images.ctfassets.net/kftzwdyauwt9/dmuaCard4bAASzMWH9WOJ02MC5neBx/d532e2c182214b6be06935edeaf6aa41/1x1___SCAM__Criminal_scam_operation.png?w=3840&q=90&fm=webp)
 
@@ -113,6 +117,34 @@ Filter
 ![COVERT IO: “Data Center Bandwagon” Campaign card image.](https://images.ctfassets.net/kftzwdyauwt9/98HgdM2KDTNWvSniuJOR3/a738dc1711e10e84d19119431f5a7e0e/1x1___COVERT_IO___Data_Center_Bandwagon__Campaign.png?w=3840&q=90&fm=webp)
 
 [“Data Center Bandwagon” Campaign: US-targeted influence activitySafetyJun 1, 2026](</index/disrupting-malicious-uses-of-ai-data-center-bandwagon/>)
+
+![SCAM: Operation "False Witness" card image.](https://images.ctfassets.net/kftzwdyauwt9/dmuaCard1jpf7tKUjA3UjSbQEgqHMY/47eb11909e5c542f67afa14ef26be41b/1x1___SCAM__Operation__False_Witness_.png?w=3840&q=90&fm=webp)
+
+[Operation “False Witness”: Fake recovery service impersonating authoritiesSafetyFeb 1, 2026](</index/disrupting-malicious-uses-of-ai-false-witness/>)
+
+![SCAM: Romance scams card image.](https://images.ctfassets.net/kftzwdyauwt9/6hdaAQ1CmsnZeG7VlOr9Mh/7e13ee7795d18abd2a1c2830451ab298/1x1___SCAM__Romance_Scams__2_.png?w=3840&q=90&fm=webp)
+
+[Romance scams: AI-enabled romance scam workflowsSafetyFeb 1, 2026](</index/disrupting-malicious-uses-of-ai-romance-scam/>)
+
+![COVERT IO: Operation "Fish Food" card image.](https://images.ctfassets.net/kftzwdyauwt9/dmuaCard2QbIQnSGvH6y4ilVWfaH2c/a6ad93250e62615d9aefc57d62e22619/1x1___COVERT_IO__Operation__Fish_Food_.png?w=3840&q=90&fm=webp)
+
+[Operation “Fish Food”: Russia-origin content farm activitySafetyFeb 1, 2026](</index/disrupting-malicious-uses-of-ai-fish-food/>)
+
+![COVERT IO & SURVEILLANCE: China’s "Cyber Special Operations" card image.](https://images.ctfassets.net/kftzwdyauwt9/2aPvdgcH2fsCBv2V3zyFyZ/26ae6e229a813f6f0c375fc1819e48d0/1x1___COVERT_IO___SURVEILLANCE__China_s__Cyber_Special_Operations___2_.png?w=3840&q=90&fm=webp)
+
+[“Cyber Special Operations”: China-linked influence planningSafetyFeb 1, 2026](</index/disrupting-malicious-uses-of-ai-cyber-special-operations/>)
+
+![SURVEILLANCE: Operation "Silver Lining Playbook" card image.](https://images.ctfassets.net/kftzwdyauwt9/dmuaCard5EyztnzBrxfmeUwFvj4Yox/60e22473333452d13efae1ff2b22c73c/1x1___SURVEILLANCE__Operation__Silver_Lining_Playbook_.png?w=3840&q=90&fm=webp)
+
+[Silver Lining Playbook: Likely China-origin activity targeting US personsSafetyFeb 1, 2026](</index/disrupting-malicious-uses-of-ai-silver-lining-playbook/>)
+
+![COVERT IO: Operation "Date Bait" card image.](https://images.ctfassets.net/kftzwdyauwt9/dmuaCard7jczv8ZAQpYaSf3MHOW7EM/976564398aff3abcd802a5b9c276311e/1x1___COVERT_IO__Operation__Date_Bait_.png?w=3840&q=90&fm=webp)
+
+[Operation “Date Bait”: AI-enabled scam targeting loveseekersSafetyFeb 1, 2026](</index/disrupting-malicious-uses-of-ai-date-bait/>)
+
+![COVERT IO: Operation "No Bell" card image.](https://images.ctfassets.net/kftzwdyauwt9/dmuaCardeWMUEI1J7vGW9XYKaoqMU/7a04e0ab49397c93b21c2af9c62d4aa5/1x1___COVERT_IO__Operation__No_Bell_.png?w=3840&q=90&fm=webp)
+
+[Operation “No Bell”: Coordinated criticism of the US and alliesSafetyFeb 1, 2026](</index/disrupting-malicious-uses-of-ai-no-bell/>)
 
 Load more
 
@@ -149,10 +181,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -171,7 +203,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -198,8 +231,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -218,6 +251,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -38,33 +38,45 @@ More intelligence from every token, stronger performance per dollar, and more ca
 
 Learn about OpenAI’s latest model:
 
-[GPT-6](</index/gpt-6-astra/>)
+[GPT-6.2 Astra and Sol](</index/introducing-gpt-6-2-astra-sol/>)
 
 [Compare models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
-
-Loading…
 
 Share
 
 Efficient by default, maximum performance on demand
 
   * Efficient by default, maximum performance on demand
+
   * A leap forward in design
+
   * End-to-end knowledge work
+
   * Pushing the frontier on cyber and science
+
   * GPT-5.6 accelerates OpenAI
-  * Scaling safety and security with capability 
+
+  * Scaling safety and security with capability
+
   * Availability and pricing
+
 
 
 
   * Efficient by default, maximum performance on demand
+
   * A leap forward in design
+
   * End-to-end knowledge work
+
   * Pushing the frontier on cyber and science
+
   * GPT-5.6 accelerates OpenAI
-  * Scaling safety and security with capability 
+
+  * Scaling safety and security with capability
+
   * Availability and pricing
+
 
 
 
@@ -175,6 +187,8 @@ GPT‑5.6’s strength on knowledge work shows up in evaluations spanning long-h
 BrowseCompGDPval-AA v2OSWorld 2.0AutomationBench
 
 **GPT‑5.6 Sol improves quality in presentations, documents, and spreadsheets,** producing outputs that are more polished and accurate. It can create fully editable presentations from scratch, translating a prompt and source material into a coherent visual narrative with strong layouts, hierarchy, and design.
+
+Loading...
 
 ## 
 
@@ -456,17 +470,17 @@ ARC-AGI-3 for Opus 4.8 was run on high and not max reasoning effort, as this is 
 
 [View all](</news/>)
 
-![ChatGPT Ads expands to Southeast Asia and Taiwan — cover](https://images.ctfassets.net/kftzwdyauwt9/2LRApkCOWR8QHAX6Sj3Rik/367336096ea9ec8e9623c1f4d6035c9f/chatgpt-ads-expands-to-southeast-asia-and-taiwan-cover.png?w=3840&q=90&fm=webp)
+![Gold and blue-white stars trace arcs across a dark sky.](https://cdn.openai.com/mdx-assets/e193aefe-5e58-431c-8cd2-adadac0c1496/a8298611-fe6e-4853-90e1-7ec5b3bbdf5f.6a518def.png)
 
-[ChatGPT Ads expands to Southeast Asia and TaiwanProductSep 23, 2026](</index/chatgpt-ads-expands-southeast-asia-taiwan/>)
+[Introducing GPT-6.2 Astra and SolProductNov 17, 2026](</index/introducing-gpt-6-2-astra-sol/>)
 
-![Better prompt caching for GPT-6 — Card image](https://images.ctfassets.net/kftzwdyauwt9/72ZKzMh8JgRDfdg4EYRtwY/ee5e406a08b69f00b0beb4ac00270364/7kneoqlc2qh37z1utkmtfk-cover-v1.png?w=3840&q=90&fm=webp)
+![Introducing ChatGPT for Sales — Cover](https://images.ctfassets.net/kftzwdyauwt9/8sL53Bp1mHxr6ASHIbFeD/50d1c33dde04603c981db37a59b63b26/introducing-chatgpt-for-sales-cover.png?w=3840&q=90&fm=webp)
 
-[Better prompt caching for GPT-6ProductSep 22, 2026](</index/better-prompt-caching-for-gpt-6/>)
+[Introducing ChatGPT for SalesProductNov 17, 2026](</index/introducing-chatgpt-for-sales/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![Academic researchers — art card](https://images.ctfassets.net/kftzwdyauwt9/1FaKIo74WEGULSjb4ooTrV/718f3bc75e7b2ddd276d43a0fc97760a/academic-researchers-art-card.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
+[Broadening access to AI for scientistsResearchNov 16, 2026](</index/expanding-chatgpt-for-academic-researchers/>)
 
 Research
 
@@ -478,10 +492,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -500,7 +514,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -527,8 +542,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -547,6 +562,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -580,6 +596,8 @@ EnglishUnited States
 **_Artificial Analysis Coding Agent Index:_**_an independent index of coding-agent performance across implementation, terminal use, and real codebases._
 
 **_BrowseComp_** _: GPT‑5.6 Sol achieves a new state of the art on BrowseComp, consisting of agentic browsing tasks._
+
+Loading...
 
 **_ExploitBench:_**_Building progressively more capable V8 exploits; GPT‑5.6 shows a large gain over GPT‑5.5. Latency chart is not shown as latency estimation is unreliable for this benchmark._
 

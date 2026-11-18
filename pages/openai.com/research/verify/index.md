@@ -26,11 +26,11 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 OpenAI
 
-# Verify OpenAI-generated content
+# Check content for OpenAI provenance signals
 
-Upload an image or audio file to check for signals that it was generated with OpenAI tools.
+Upload an image, audio file, or PDF to check for signals that it was processed by OpenAI tools.
 
-Upload a fileDrag and drop or click to upload a file.Supported formats: PNG, JPG, WEBP, MP3, WAV, AAC, FLAC, OGG, OPUS, PCM
+Upload a fileDrag and drop or click to upload a file.Supported formats: PNG, JPG, WEBP, GIF, PDF, MP3, WAV, AAC, FLAC, OGG, OPUS, PCM
 
 By uploading a file, you agree to our [Terms](</policies/terms-of-use/>) and have read our [Privacy Policy](</policies/privacy-policy/>).
 
@@ -40,7 +40,7 @@ This tool checks whether an uploaded file contains provenance signals associated
 
 #### What content can it detect?
 
-The tool is designed to detect content generated with ChatGPT, the OpenAI API, or Codex. It currently supports images and audio files. Other content can be uploaded, but OpenAI provenance signals will only be detected if it was generated with our tools.
+The tool is designed to detect provenance signals in content processed by ChatGPT, the OpenAI API, or Codex. It currently supports images, audio files, and PDFs. Other content can be uploaded, but OpenAI provenance signals will only be detected if it was processed by our tools and a supported signal remains.
 
 #### How do I use it?
 
@@ -64,10 +64,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -86,7 +86,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -113,8 +114,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -133,6 +134,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -173,15 +175,15 @@ We believe clearer information about how content was created is an important par
 
 The tool relies on two types of signals: C2PA Content Credentials and SynthID.
 
-[_Content Credentials_ ⁠(opens in a new window)](<https://c2pa.org/>) are based on an open standard that attaches provenance metadata to digital media. For supported OpenAI-generated content, they can indicate that a file was created using tools such as ChatGPT, Codex, or the API. They are a strong signal when present, but because they rely on metadata, they can be removed.
+[_Content Credentials_ ⁠(opens in a new window)](<https://c2pa.org/>) are based on an open standard that attaches provenance metadata to digital media. An OpenAI signal indicates that the file was processed using tools such as ChatGPT, Codex, or the API. They are a strong signal when present, but because they rely on metadata, they can be removed. Content Credentials can be found in OpenAI-processed image and PDF files.
 
-[_SynthID_ ⁠(opens in a new window)](<https://deepmind.google/models/synthid/>) is an invisible watermarking technology that embeds a signal directly into generated media. Unlike metadata, the signal is part of the content itself and is designed to stand up to modifications like cropping, adding filters, or lossy compression. For more technical details, see the [_SynthID research paper_ ⁠(opens in a new window)](<https://arxiv.org/abs/2510.09263>).
+[_SynthID_ ⁠(opens in a new window)](<https://deepmind.google/models/synthid/>) is an invisible watermarking technology that embeds a signal directly into generated media. Unlike metadata, the signal is part of the content itself and is designed to stand up to modifications like cropping, adding filters, or lossy compression. SynthID watermarks can be found in OpenAI-processed image and audio files. For more technical details, see the [_SynthID research paper_ ⁠(opens in a new window)](<https://arxiv.org/abs/2510.09263>).
 
 ### What does a detected signal mean?
 
-A detected signal indicates that the content likely originated from OpenAI tools. Detected signals are reliable, and false positives are rare.
+A detected signal indicates that the content was likely processed by OpenAI tools. Detected signals are reliable, and false positives are rare.
 
-It does not confirm how the content has been used or modified after it was created.
+The signal alone does not show whether, or to what extent, the content was generated or edited using OpenAI’s tools. It also does not confirm how the content has been used or modified afterward.
 
 ### Can the tool detect content modifications?
 
@@ -189,21 +191,23 @@ The tool detects content that was generated by our tools, which includes cases w
 
 ### Can this tool tell if content is inaccurate or misleading?
 
-No, a detected signal indicates that the content originated from OpenAI tools, but it does not determine whether the content is accurate or presented in the correct context.
+No, a detected signal indicates that the content was processed by OpenAI tools, but it does not determine whether the content is accurate or presented in the correct context.
 
 ### What are best practices for using the tool?
 
 For the most reliable results, upload a single file at a time.
 
-For images, avoid cropping the image or converting it to another file format (for example, PDF). Upload only one image at a time.
+For images, avoid cropping the image or converting it to another file format. Upload only one image at a time.
 
 For audio, upload clips between 10 and 60 seconds long for the best results.
+
+For PDFs, upload the original PDF rather than a screenshot, and avoid converting the PDF to another file format.
 
 ### What if no signal is found?
 
 If no signal is detected, it means the tool did not find supported signals in the uploaded file.
 
-The content could still have been generated by OpenAI if its metadata was stripped or tampered with, its watermark was degraded, it came from a legacy generation model, or it was created before provenance signals were available. Content could also still be AI-generated by another company’s model, which the tool currently does not detect.
+The content could still have been processed by OpenAI if its metadata was stripped or tampered with, its watermark was degraded, it came from a legacy generation model, or it was created before provenance signals were available. Content could also still be AI-generated by another company’s model, which the tool currently does not detect.
 
 ### I’m having trouble using the tool.
 
@@ -213,12 +217,16 @@ If the problem persists, visit our [Help Center⁠(opens in a new window)](<http
 
 ### What happens to the file I upload?
 
-The uploaded file is processed to check for supported provenance signals associated with OpenAI-generated content. Uploaded files are not stored unless legally required and are not used to train our models.
+The uploaded file is processed to check for supported provenance signals associated with OpenAI tools. Uploaded files are not stored unless legally required and are not used to train our models.
 
 ### What terms apply when I use the tool?
 
 By using this tool, you agree to the [OpenAI Terms of Use](</policies/terms-of-use/>).
 
-### I’m a developer—can I verify content through an API?
+### I’m a developer, can I verify content through an API?
 
-Yes. Developers can use the OpenAI API to verify content programmatically. See the [API documentation⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/content-provenance>) to learn how to get started.
+Yes. Developers can use the OpenAI API to verify content programmatically. See the [API documentation⁠(opens in a new window)](<https://developers.openai.com/api/docs/guides/content-provenance>) to learn how to get started. Organizations with higher verification needs can request access to higher API rate limits.
+
+### Can I verify text?
+
+[OpenAI.com/verify](</research/verify/>) does not currently support text verification. Organizations with a qualifying use case can [apply](</form/content-provenance-api/>) for access to text verification via the Content Provenance API. 

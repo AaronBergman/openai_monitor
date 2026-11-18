@@ -41,115 +41,91 @@ Filter
 
 Sort
 
-ChatGPT
+Nov 16, 2026
 
-Sep 24, 2026
-
-Preview
-
-## External access controls
-
-Global admins in ChatGPT Business and Enterprise organizations can now manage whether ChatGPT Sites can use members’ connected apps and whether applications can access ChatGPT Ads. These controls are on the redesigned External access page in the OpenAI Admin Console. Identity-only sign-in remains separate from data access.
-
-Both new permissions are off by default during the admin preview. Members must still authorize access using their own permissions. Sites access also depends on workspace and individual app settings.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#external-access-controls>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#external-access-controls>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/12289294-managing-your-tenant-in-admin-console>)
-
-ChatGPT
-
-Sep 23, 2026
+API
 
 GA
 
-## Use plugins in Voice and get work done by speaking
+Share
 
-Live now supports plugins on web, iOS, and Android. You can use the plugins and connected apps available to your account during a Voice conversation and follow written responses in the chat.
+## OpenAI CSAM Image Classifier
 
-Voice is also available in Work on web and mobile. Ask it to create documents, presentations, and spreadsheets, use connected apps, or work in a browser. When you end a Voice call in Work, an unfinished task can continue in text.
+Approved organizations can use the OpenAI CSAM Image Classifier at no cost to help prioritize images for human review. The model returns separate signals for potential child sexual abuse material (CSAM) and potential AI-generated CSAM.
 
-Free and Go users can use Voice in Chat with the plugins their plan supports. Existing app connections, permissions, and usage limits apply.
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/csam-classifier>)
 
-For Business, Enterprise, and Edu workspaces, workspace controls continue to apply. Voice in Work requires both Voice and Work access, and plugins retain their existing app access, data permissions, and action restrictions. Enabling Voice does not enable Work or a blocked plugin. When an action needs your approval, review it on screen.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#use-plugins-in-voice-and-get-work-done-by-speaking>)
-
-Codex
-
-Sep 23, 2026
-
-GA
-
-## ChatGPT for iOS updates: redesigned home, iPad split view, and nested repositories
-
-### New features
-
-  * Redesigned home screen.
-
-  * New iPad split view keeps your task list beside the open task in landscape.
-
-  * Added support for browsing changes inside nested Git repositories.
-
-
-
-
-### Improvements and bug fixes
-
-  * Side chats now carry over attachments, selected text, and review comments.
-
-  * Fixed replies appearing blank or incomplete when the next queued prompt starts.
-
-  * New tasks preserve your selected computer and better recognize project checkouts and worktrees.
-
-  * More reliable file links, with clearer loading feedback when opening files and new tasks.
-
-  * Clearer error messages explain why task history could not load and what to try next.
-
-  * Smoother animations when adding photos from the camera or Photo Library.
-
-  * Fixed pairing failures caused by an incorrect device clock and SSH connection issues on Mac and Linux.
-
-
-
-
-[View source(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-09-23-mobile>)
-
-Codex
-
-Sep 22, 2026
-
-GA
-
-## GPT-6 Sol and GPT-6 Luna
-
-We’re introducing GPT‑6 Sol and GPT‑6 Luna in ChatGPT Work and Codex. These models are separate from the models available in Chat.
-
-Codex desktop keeps the model you selected manually.
-
-Available models and reasoning effort options depend on your plan and workspace settings.
-
-GPT‑6 Sol and GPT‑6 Luna are rolling out to Codex and ChatGPT Work at lower token prices than their GPT‑5.6 predecessors. Use Sol for complex coding and agentic workflows, and Luna for focused, high-volume tasks.
-
-Both models are rolling out to Plus, Pro, Business, Enterprise, and Edu users. Free and Go users can access Luna in the desktop app. Availability depends on rollout and workspace settings; Enterprise administrators must enable the new models. In ChatGPT, the models are available in Work and Codex, but not Chat.
-
-[View source(opens in a new window)](<https://developers.openai.com/api/docs/models/gpt-6-sol>)[Platform docs(opens in a new window)](<https://learn.chatgpt.com/docs/changelog#codex-2026-09-22-gpt-6-sol-luna>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#gpt-6-sol-and-luna-in-work-and-codex>)
+Nov 16, 2026
 
 ChatGPT
 
-Sep 22, 2026
+GA
+
+Share
+
+## Clinical search and healthcare plugins
+
+We’ve improved clinical search in ChatGPT for Clinicians, with updates to how ChatGPT finds, evaluates, and cites medical evidence. Healthcare plugins also let you connect supported tools to ChatGPT.
+
+Plugin availability and requirements vary.
+
+We’ve improved clinical search in ChatGPT for Healthcare and expanded the selection of healthcare plugins, helping teams bring clinical evidence and connected tools into their conversations.
+
+Available plugins depend on your workspace settings and provider requirements.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#clinical-search-and-plugins-for-chatgpt-for-clinicians>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#clinical-search-and-healthcare-plugins>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001046-chatgpt-for-healthcare>)
+
+Nov 16, 2026
+
+ChatGPT
 
 GA
 
-## Create flashcards in ChatGPT
+Share
 
-You can now create interactive flashcards in ChatGPT. Ask for flashcards on a topic you want to learn, or upload your notes and ask ChatGPT to turn them into flashcards.
+## ChatGPT for Healthcare through AWS Marketplace
 
-Tap a card to flip it, then select ✔️ if you know the answer or ❌ to practice it again later. Shuffle your cards to practice in a different order.
+Eligible healthcare organizations can now purchase ChatGPT for Healthcare through AWS Marketplace using their existing AWS billing relationship. This provides a purchasing option for organizations that want to deploy ChatGPT for Healthcare across clinical, research, and administrative teams.
 
-Flashcards are automatically saved in your library. To practice again, open them there or ask ChatGPT to review them back.
+Contact your OpenAI or AWS account team to confirm eligibility. Your workspace’s feature availability, admin controls, and applicable agreement requirements still apply.
 
-Available on mobile and web for all ChatGPT plans.
+[View source(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#chatgpt-for-healthcare-through-aws-marketplace>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001046-chatgpt-for-healthcare>)
 
-[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#create-flashcards-in-chatgpt>)
+Nov 13, 2026
+
+ChatGPT
+
+GA
+
+Share
+
+## Introducing ChatGPT Wallet
+
+ChatGPT Wallet helps your dot go from finding what you need to making a purchase on your behalf. Whether you’re shopping for a new sweater or booking a hotel, you can ask your dot to help and use Wallet when it’s time to check out. Save an eligible card once, then approve purchases without entering your payment details again.
+
+Before your dot pays, you review the merchant, items, total, and selected card, then authorize the purchase using biometrics such as Face ID or Touch ID. Wallet provides a substitute payment credential for checkout, keeping your actual card details hidden from the agent and business. You retain the rewards associated with your card and its protections for qualifying disputes.
+
+Wallet is rolling out gradually in dots to ChatGPT Pro subscribers age 18 or older in the United States, with an eligible US-issued card and US billing address. To get started, ask your dot to add a card to Wallet. Some websites may not support purchases made by agents, and approval alone doesn’t confirm an order—check the merchant’s confirmation after checkout.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-wallet>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001654-making-purchases-with-chatgpt-wallet>)
+
+Nov 12, 2026
+
+ChatGPT
+
+GA
+
+Share
+
+## Change users' email addresses in Admin Console
+
+Global admins can now change email addresses for eligible non-SCIM users in Admin Console. For Business organizations, this provides a way to update an existing account when a user's address changes, including a move between domains verified under the same tenant. For Enterprise, Edu, and Healthcare tenants, this supports address changes on one verified domain or between domains verified under the same tenant.
+
+Both the current and new email domains must be verified in that tenant, and the new address must not already belong to another OpenAI account. Accounts must be at least 24 hours old, with up to 2 changes per rolling 24 hours and 20 over the account's lifetime. SCIM-managed users should continue to update their email through their identity provider.
+
+Users must belong to only 1 tenant. After an admin changes the email, OpenAI sends a notice to the user's previous email address.
+
+[View source(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#change-users-email-addresses-in-admin-console>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#change-users-email-addresses-in-admin-console>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/12289294-managing-your-tenant-in-admin-console>)
 
 Load more
 
@@ -163,10 +139,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -185,7 +161,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -212,8 +189,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -232,6 +209,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -46,59 +46,59 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+Product
+
+Nov 17, 2026
+
+[Introducing GPT-6.2 Astra and SolIntroducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.](</index/introducing-gpt-6-2-astra-sol/>)
+
 Publication
 
-Sep 23, 2026
+Nov 17, 2026
 
-[Introducing MentalHealthBenchMentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.](</index/introducing-mentalhealthbench/>)
-
-Product
-
-Sep 22, 2026
-
-[Introducing GPT-6 Sol and LunaMeet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.](</index/introducing-gpt-6-sol-and-luna/>)
-
-Product
-
-Sep 10, 2026
-
-[Build more natural voice experiences with GPT‑Live‑1 in the APIGPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.](</index/introducing-gpt-live-1-in-the-api/>)
+[GPT‑6.2 Astra and Sol System CardWe are releasing GPT-6.2 Astra and GPT-6.2 Sol, the most capable models we have deployed externally to date.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-6-2-astra-sol>)
 
 Research
 
-Sep 8, 2026
+Nov 16, 2026
 
-[An OpenAI model proposes a solution to the Navier–Stokes problemWe’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.](</index/navier-stokes-solution/>)
+[Broadening access to AI for scientistsWe’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.](</index/expanding-chatgpt-for-academic-researchers/>)
 
-Research
+Publication
 
-Sep 6, 2026
+Nov 6, 2026
 
-[Research acceleration: The view inside OpenAIInside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.](</index/research-acceleration-view-inside-openai/>)
-
-Research
-
-Sep 3, 2026
-
-[GPT-6 Astra: A new generation of intelligenceIntroducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.](</index/gpt-6-astra/>)
-
-Safety
-
-Sep 3, 2026
-
-[GPT‑6 Astra System CardAstra is our first model to reach the Critical level of cybersecurity capability under our Preparedness Framework.(opens in a new window)](<https://deploymentsafety.openai.com/gpt-6-astra>)
+[Measuring how AI agents handle everyday wet-lab scienceOpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.](</index/measuring-how-ai-agents-handle-wet-lab-science/>)
 
 Security
 
-Aug 26, 2026
+Nov 4, 2026
 
-[The Hugging Face incident and the road aheadOpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.](</index/hugging-face-incident-and-the-road-ahead/>)
+[A thousand fewer paths to rootOpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.](</index/a-thousand-fewer-paths-to-root/>)
 
-Company
+Product
 
-Aug 18, 2026
+Nov 4, 2026
 
-[Pacing model development in an era of cyber-critical capabilitiesOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.](</index/pacing-model-development-cyber-capabilities/>)
+[Introducing Images 2.6Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.](</index/introducing-images-2-6/>)
+
+Research
+
+Nov 3, 2026
+
+[Accelerating engineering for the physical worldDiscover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.](</index/accelerating-engineering-for-the-physical-world/>)
+
+Research
+
+Nov 2, 2026
+
+[LifeValIntroducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.](</index/lifeval/>)
+
+Security
+
+Oct 29, 2026
+
+[How we detect frontier model misalignmentOpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.](</index/how-we-detect-frontier-model-misalignment/>)
 
 Load more
 
@@ -112,10 +112,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -134,7 +134,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -161,8 +162,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -181,6 +182,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
