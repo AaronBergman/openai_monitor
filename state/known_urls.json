@@ -18728,6 +18728,10 @@
    {
     "previously_last_seen": "2026-09-24T09-16Z",
     "run_id": "2026-11-18T09-16Z"
+   },
+   {
+    "previously_last_seen": "2026-11-18T09-16Z",
+    "run_id": "2026-11-18T09-16Z"
    }
   ],
   "sub_sitemaps": [
@@ -40385,6 +40389,10 @@
   "reappearances": [
    {
     "previously_last_seen": "2026-06-24",
+    "run_id": "2026-11-18T09-16Z"
+   },
+   {
+    "previously_last_seen": "2026-11-18T09-16Z",
     "run_id": "2026-11-18T09-16Z"
    }
   ],
@@ -129223,6 +129231,10 @@
   "reappearances": [
    {
     "previously_last_seen": "2026-05-27T09-17Z",
+    "run_id": "2026-11-18T09-16Z"
+   },
+   {
+    "previously_last_seen": "2026-11-18T09-16Z",
     "run_id": "2026-11-18T09-16Z"
    }
   ],

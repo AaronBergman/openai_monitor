@@ -9107,6 +9107,31 @@
    "kind": "new_sub_sitemap",
    "url": "https://openai.com/sitemap.xml/learn-demos/",
    "details": "New sub-sitemap, 14 URLs. Sub-sitemap count 42 -> 44."
+  },
+  {
+   "kind": "onpage_date_vs_observation",
+   "url": "https://openai.com/policies/privacy-policy/",
+   "details": "Page now says 'Updated: September 10, 2026' (was 'May 18, 2026'). Sitemap lastmod stood at 2026-09-04T14:03:36Z through our 2026-09-28 run, so the Sept 10 revision was published without a lastmod bump (or rolled out later than its stated date); this monitor only re-fetches on lastmod change and therefore first captured it on 2026-11-18."
+  },
+  {
+   "kind": "onpage_date_vs_observation",
+   "url": "https://openai.com/policies/developer-apps-terms/",
+   "details": "Page now says 'Updated: September 28, 2026' (was 'July 9, 2026'); sitemap lastmod stood at 2026-09-10T17:43:51Z at our 2026-09-28T09:17Z run. First captured 2026-11-18."
+  },
+  {
+   "kind": "silent_rewrite_redated",
+   "url": "https://openai.com/index/wayfair/",
+   "details": "Customer story rewritten in place and re-dated March 11, 2026 -> September 25, 2026 with no update note; headline stat and spokesperson changed (Graham Ganssle's quotes reappear reworded under Brian Seaman)."
+  },
+  {
+   "kind": "silent_rewrite_redated",
+   "url": "https://openai.com/index/lowes/",
+   "details": "Customer story retitled and re-dated to September 25, 2026 with no update note; a quote previously attributed to Vinny Scalese (SVP Store Operations) is now attributed to Que Vance (EVP of Stores); 'over 50 percent' voice share became 'nearly half'."
+  },
+  {
+   "kind": "silent_rewrite_redated",
+   "url": "https://openai.com/index/retell-ai/",
+   "details": "2025 customer story (dated June 26, 2025) fully replaced at the same URL by a new story dated October 27, 2026; earlier claims removed."
   }
  ],
  "fetch_failures": [],
