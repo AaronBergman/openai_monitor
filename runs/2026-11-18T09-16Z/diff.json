@@ -8934,9 +8934,9 @@
  ],
  "anomalies": [
   {
-   "kind": "monitoring_gap",
+   "kind": "baseline_gap",
    "url": "https://openai.com/sitemap.xml",
-   "details": "No runs between 2026-09-28T09-17Z and 2026-11-18T09-16Z (51 days). All changes in that window are observed only in aggregate; URLs that appeared and vanished inside the gap were never seen, and change dates can only be bounded by OpenAI-claimed lastmod / on-page dates."
+   "details": "Baseline on main is 2026-09-28T09-17Z (51 days old). Daily runs did occur 2026-09-29..2026-11-17 but their draft PRs (#148-#197) were never merged, so each re-diffed against the same baseline. Changes in the window are observed here only in aggregate."
   },
   {
    "kind": "reappeared",

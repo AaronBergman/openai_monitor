@@ -2,10 +2,10 @@
 
 - **Sitemap fetch time (ours):** 2026-11-18T09:16:48Z (root index + 44 sub-sitemaps)
 - **Page fetch window (ours):** 2026-11-18T09:17:02Z – 09:19:19Z, 2,010 pages via `tools/html_to_md.py` logic (curl-cffi), 8 workers, **0 fetch failures**
-- **Baseline:** 2026-09-28T09-17Z — **51 days earlier**. The routine did not run between those dates.
+- **Baseline:** 2026-09-28T09-17Z — **51 days earlier**. Daily runs did happen between Sept 29 and Nov 17, but each opened a draft pull request (#148–#197) that was never merged, so `main` — and therefore this run's baseline — stayed at Sept 28. Each of those runs re-diffed against the same Sept 28 baseline. Day-by-day detail for the window exists only on those unmerged branches.
 - **Totals:** 2,244 URLs in 44 sub-sitemaps (was 1,985 in 42) | 289 added | 1,721 updated `<lastmod>` | 30 removed | 234 unchanged
 
-Everything below about page content is what OpenAI's pages *say*; none of it is independently verified. Dates in parentheses after a page are the on-page publish date (OpenAI's claim). `<lastmod>` values are also OpenAI's claim. Because of the 51-day gap, our own observation can only say "appeared/changed some time between 2026-09-28T09:17Z and 2026-11-18T09:16Z".
+Everything below about page content is what OpenAI's pages *say*; none of it is independently verified. Dates in parentheses after a page are the on-page publish date (OpenAI's claim). `<lastmod>` values are also OpenAI's claim. Because of the 51-day baseline gap, this run's own observation can only say "appeared/changed some time between 2026-09-28T09:17Z and 2026-11-18T09:16Z".
 
 Method notes:
 - Page reading was split across four reviewers. The longest pages (e.g. the "false front" report, the Linux-exploit post, the Git/storage/ad-stack engineering posts, long legal texts) were read in their opening portion only; details deep in those pages may be missing here.
@@ -16,8 +16,8 @@ Method notes:
 
 ## 1. Anomalies
 
-### 1.1 Monitoring gap (ours, not theirs)
-No run between 2026-09-28T09-17Z and 2026-11-18T09-16Z. Consequences: (a) URLs that appeared and disappeared inside the window were never seen; (b) intermediate versions of pages edited more than once are lost; (c) `first_seen` for all 286 genuinely new URLs is 2026-11-18T09-16Z even though on-page dates run from 2026-09-28 onward; (d) the "backdated new URL" check is not meaningful this run — 33 new URLs carry an October `<lastmod>` and every one is explained by the gap. No new URL has a `<lastmod>` earlier than the previous run.
+### 1.1 Gap in the merged log (ours, not theirs)
+Daily runs did happen between Sept 29 and Nov 17, but each opened a draft pull request (#148–#197) that was never merged, so `main` — and therefore this run's baseline — stayed at Sept 28. Each of those runs re-diffed against the same Sept 28 baseline. Day-by-day detail for the window exists only on those unmerged branches. The repo's `auto-merge-claude.yml` workflow runs `gh pr merge` on every `claude/` PR; PRs #139–#147 were non-draft and merged, while #148 onward are drafts, which is the likely reason merging stopped (not verified from workflow logs). Consequences for this entry: (a) URLs that appeared and disappeared inside the window are not visible here; (b) intermediate versions of pages edited more than once are not in `main`; (c) `first_seen` for all 286 genuinely new URLs is 2026-11-18T09-16Z even though on-page dates run from 2026-09-28 onward; (d) the "backdated new URL" check is not meaningful this run — 33 new URLs carry an October `<lastmod>` and every one is explained by the gap. No new URL has a `<lastmod>` earlier than the previous run.
 
 ### 1.2 URLs that disappeared and came back (3)
 | URL | Previously seen | Back with `<lastmod>` | Note |
