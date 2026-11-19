@@ -1,7 +1,7 @@
 # Run 2026-11-19T09-15Z
 
 - **Sitemap fetch time:** 2026-11-19T09:16:22Z (root index + 44 sub-sitemaps). Page fetches followed, completing by about 09:26Z.
-- **Baseline:** 2026-09-28T09-17Z — a 52-day gap; no runs recorded between 2026-09-29 and 2026-11-18. All changes below occurred at unknown points in that window.
+- **Baseline:** 2026-09-28T09-17Z — a 52-day gap on `main`. Daily runs did happen in the window but their draft PRs (#148–#198) were never merged, so this run diffs against the stale 2026-09-28 baseline; per-day detail is in those unmerged branches.
 - **Totals:** 2251 URLs (was 1985) | 296 added | 1721 updated | 30 removed | 44 sub-sitemaps (new: learn-demos, science) | 0 fetch failures of 2017 pages.
 - **Method notes:** "previous version" of any page is commit d85558e3 (2026-09-28). Summaries of new and changed pages were drafted by parallel reading passes; some long pages were read only in part, and those bullets say so. Diff lines longer than ~1,500 characters were truncated before comparison. Everything reported is OpenAI's own account on its own pages.
 
