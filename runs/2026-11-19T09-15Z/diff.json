@@ -8941,6 +8941,11 @@
   ],
   "anomalies": [
     {
+      "kind": "monitoring_gap",
+      "url": "https://openai.com/sitemap.xml",
+      "details": "52 days between baseline 2026-09-28T09:17:32Z and this fetch; change dates inside the window are unknown"
+    },
+    {
       "kind": "reappeared",
       "url": "https://openai.com/business/plugins/alpaca/",
       "details": "first_seen 2026-07-10T09-16Z, last_seen 2026-09-24T09-16Z, now back; lastmod 2026-11-18T20:23:19.714Z"
