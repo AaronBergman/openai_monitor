@@ -44,25 +44,33 @@ Industry: Technology
 
 Products: API
 
-Loading…
-
 Share
 
 Lesson 1: Build for real-world complexity, not idealized flows
 
   * Lesson 1: Build for real-world complexity, not idealized flows
+
   * Lesson 2: Parallelize everything to meet enterprise latency expectations
+
   * Lesson 3: Make governance an intrinsic part of the runtime
+
   * A blueprint for building agentic systems that work for the enterprise
+
   * Results at a glance
+
 
 
 
   * Lesson 1: Build for real-world complexity, not idealized flows
+
   * Lesson 2: Parallelize everything to meet enterprise latency expectations
+
   * Lesson 3: Make governance an intrinsic part of the runtime
+
   * A blueprint for building agentic systems that work for the enterprise
+
   * Results at a glance
+
 
 
 
@@ -85,9 +93,13 @@ Netomi designed its Agentic OS so OpenAI models sit at the center of a governed 
 To ensure consistent agent behavior across long, complex tasks, Netomi follows the agentic prompting patterns recommended by OpenAI:
 
   * **Persistence reminders** to help GPT‑5.2 carry reasoning across long, multi-step workflows
+
   * **Explicit tool-use expectations** , suppressing hallucinated answers by steering GPT‑4.1 to call tools for authoritative information during transactional operations
+
   * **Structured planning** , which leverages GPT‑5.2’s deeper reasoning to outline and execute multi-step tasks
+
   * **Agent-driven rich media decisions** , relying on GPT‑5.2 to detect and signal when a tool call should return images, videos, forms, or other rich, multimodal elements
+
 
 
 
@@ -126,10 +138,15 @@ When intent confidence drops below threshold, or when a request cannot be classi
 At a technical level, the governance layer handles:
 
   * **Schema validation** , which validates every tool call against expected arguments and OpenAPI contracts before execution
+
   * **Policy enforcement** that applies topic filters, brand restrictions, and compliance checks inline during reasoning and tool use
+
   * **PII protection** to detect and mask sensitive data as part of pre-processing and response handling
+
   * **Deterministic fallback** , routing back to known-safe behaviors when intent, data, or tool calls are ambiguous
+
   * **Runtime observability** , exposing token traces, reasoning steps, and tool-chain logs for real-time inspection and debugging
+
 
 
 
@@ -150,9 +167,13 @@ These principles helped Netomi scale across some of the world’s most demanding
 Deploying agentic systems inside Fortune 500 environments demands speed, accuracy, and built-in governance. Netomi’s architecture delivers all three, sustaining performance even during extreme traffic surges and complex, multi-step workflows. 
 
   * Delivered sub-three-second responses during high-traffic events 
+
   * Maintained 98% intent classification accuracy at scale
+
   * Handled traffic spikes exceeding 40,000 concurrent customer requests per second
+
   * Embedded governance directly into the runtime, with deterministic fallback and policy enforcement
+
 
 
 
@@ -162,17 +183,17 @@ Deploying agentic systems inside Fortune 500 environments demands speed, accurac
 
 ## Keep reading
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![The Silent Consensus | Card | Soft Focus](https://images.ctfassets.net/kftzwdyauwt9/40cLJb2v1njK0JUSAQyVLu/225cbe091659a0e229a4d6ba8a1c7277/the-silent-consensus-card-soft-focus-v3.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[The Silent ConsensusIntelligence AgeNov 18, 2026](</index/the-silent-consensus/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![Sumitomo Life — Layered Paper Art Card](https://images.ctfassets.net/kftzwdyauwt9/7tR8joMsjUp2pNkjxkAB2i/f9951f263252041c48afa0b4d33c7959/sumitomo-life-layered-paper-art-card.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[How Sumitomo Life’s leaders helped teams adopt ChatGPT EnterpriseNov 18, 2026](</business/customer-stories/sumitomo-life/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![A softly textured blue and turquoise gradient.](https://images.ctfassets.net/kftzwdyauwt9/3q9FXuH69IDGjPgpzj2Ayv/95477fdeea31ffb7eae01ec1c191b1f0/research-acceleration-the-jagged-frontier-of-rsi-cover.png)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[Research acceleration: The jagged frontierResearchNov 18, 2026](</index/research-acceleration-jagged-frontier/>)
 
 Research
 
@@ -184,9 +205,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -205,7 +227,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -223,6 +246,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -231,8 +255,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -251,6 +275,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
