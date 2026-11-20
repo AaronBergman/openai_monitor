@@ -66,6 +66,14 @@ Explore proven ways to apply AI across your organization—built to fit how your
 
 [LegalBring legal and business context together.](</business/solutions/legal/>)
 
+![An IT badge beside a blue illustration of enterprise software.](https://images.ctfassets.net/kftzwdyauwt9/1u7xiwultonVKvbDwMwKLd/952ddd8389e0d7366892b307bcf81797/it-cover.png?w=3840&q=90&fm=webp)
+
+## [ITImprove IT performance and scale AI across your business.](</business/solutions/it/>)
+
+![Accounting illustration with charts and an Accounting label.](https://images.ctfassets.net/kftzwdyauwt9/4KdtXqyk9YtSOih1furz1f/8f90f12724f481df8d21c626fa339f5e/accounting-cover.png?w=3840&q=90&fm=webp)
+
+## [AccountingClose your books with less manual work.](</business/solutions/accounting/>)
+
 ## Industries
 
 ![Cybersecurity cover image](https://images.ctfassets.net/kftzwdyauwt9/5Wne8L2ZgsgJJ7cAAKogds/fd908d2bb3d349be1bdac2fba779e7bc/business-solutions-cybersecurity-1x1.png?w=3840&q=90&fm=webp)

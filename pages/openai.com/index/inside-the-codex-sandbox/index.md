@@ -1473,6 +1473,10 @@ Special thanks to David Wiesen, Charlie Weems, Viyat Bhalodia, and Fotis Chantzi
 
 [View all](</news/>)
 
+![Performance Factory — Art card](https://images.ctfassets.net/kftzwdyauwt9/iYpBFP2nteJOaNG1v5Rrp/e0eb5dbefa86d133c3392df5983e45a3/performance-factory-cover.png?w=3840&q=90&fm=webp)
+
+[How OpenAI’s Performance Factory keeps ChatGPT fastEngineeringNov 19, 2026](</index/how-openai-performance-factory-keeps-chatgpt-fast/>)
+
 ![Scaling Git at OpenAI — art card](https://images.ctfassets.net/kftzwdyauwt9/6G64B5haCxDuphl2iqwZ1N/4f8d319293f5e5e98b319e01b4fbdf59/scaling-git-at-openai-art-card.png?w=3840&q=90&fm=webp)
 
 [Scaling Git at OpenAIEngineeringNov 2, 2026](</index/scaling-git-at-openai/>)
@@ -1480,10 +1484,6 @@ Special thanks to David Wiesen, Charlie Weems, Viyat Bhalodia, and Fotis Chantzi
 ![Rapidly scaling online storage to serve over 1 billion ChatGPT users \(Part II\) — card](https://images.ctfassets.net/kftzwdyauwt9/3a839ECHaGsidJPLJqqm5s/55968ec17735b96514d1bb4851f43bf8/scaling-storage-one-billion-users-part-two-card.png?w=3840&q=90&fm=webp)
 
 [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)EngineeringOct 23, 2026](</index/scaling-storage-one-billion-users-part-two/>)
-
-![Rethinking the ad stack around a new user journey — Art card](https://images.ctfassets.net/kftzwdyauwt9/3aewhPPb5NQ5IqOKEkrtzA/7209065f6e6ccf3a0476b43feb8336e1/rethinking-ads-card.png?w=3840&q=90&fm=webp)
-
-[How we built ChatGPT’s novel ad stack for user trust and relevanceEngineeringOct 21, 2026](</index/building-chatgpt-ad-stack/>)
 
 Research
 

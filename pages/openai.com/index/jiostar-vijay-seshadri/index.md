@@ -172,17 +172,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![The Silent Consensus | Card | Soft Focus](https://images.ctfassets.net/kftzwdyauwt9/40cLJb2v1njK0JUSAQyVLu/225cbe091659a0e229a4d6ba8a1c7277/the-silent-consensus-card-soft-focus-v3.png?w=3840&q=90&fm=webp)
+![Performance Factory — Art card](https://images.ctfassets.net/kftzwdyauwt9/iYpBFP2nteJOaNG1v5Rrp/e0eb5dbefa86d133c3392df5983e45a3/performance-factory-cover.png?w=3840&q=90&fm=webp)
 
-[The Silent ConsensusIntelligence AgeNov 18, 2026](</index/the-silent-consensus/>)
+[How OpenAI’s Performance Factory keeps ChatGPT fastEngineeringNov 19, 2026](</index/how-openai-performance-factory-keeps-chatgpt-fast/>)
 
-![Sumitomo Life — Layered Paper Art Card](https://images.ctfassets.net/kftzwdyauwt9/7tR8joMsjUp2pNkjxkAB2i/f9951f263252041c48afa0b4d33c7959/sumitomo-life-layered-paper-art-card.png?w=3840&q=90&fm=webp)
+![Abstract coral and orange wallpaper.](https://images.ctfassets.net/kftzwdyauwt9/2XdjFlF0ZNzLOArWC3W5h7/ad44c2e7d9bd6961e8de80666930f244/deploying-daybreak-red-cover.png?w=3840&q=90&fm=webp)
 
-[How Sumitomo Life’s leaders helped teams adopt ChatGPT EnterpriseNov 18, 2026](</business/customer-stories/sumitomo-life/>)
+[Deploying Daybreak RedGuidesNov 19, 2026](</business/learn/deploying-daybreak-red/>)
 
-![A softly textured blue and turquoise gradient.](https://images.ctfassets.net/kftzwdyauwt9/3q9FXuH69IDGjPgpzj2Ayv/95477fdeea31ffb7eae01ec1c191b1f0/research-acceleration-the-jagged-frontier-of-rsi-cover.png)
+![Abstract green and teal gradient with lavender accents.](https://images.ctfassets.net/kftzwdyauwt9/5wIGHVqDHnzQkqupR6nsuc/4aed64650a3bbc5aaec9c397c00ec203/pr-scans-cover.png?w=3840&q=90&fm=webp)
 
-[Research acceleration: The jagged frontierResearchNov 18, 2026](</index/research-acceleration-jagged-frontier/>)
+[See PR scans in actionDemosNov 19, 2026](</business/learn/pr-scans-demo/>)
 
 Research
 

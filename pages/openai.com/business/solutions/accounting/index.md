@@ -34,7 +34,7 @@ Delegate invoice processing, reconciliation, and reporting to ChatGPT across you
 
 [Install Accounting plugin(opens in a new window)](<https://chatgpt.com/plugins/accounting>)[Contact sales](</contact-sales/>)
 
-## Work with the accounting tools you know.
+## Work with the accounting tools you know
 
 Plugins connect ChatGPT to your accounting tools and records. The accounting plugin adds guidance for invoice processing, reconciliation, and reporting, while computer use lets ChatGPT help in apps that aren’t available through a plugin.
 
@@ -54,7 +54,7 @@ Plugins connect ChatGPT to your accounting tools and records. The accounting plu
 
 
 
-## More time for the work that needs you.
+## More time for the work that needs you
 
 ![Document icon on a soft orange and pink gradient.](https://images.ctfassets.net/kftzwdyauwt9/6jDGoZXKb4b0wktOGoUB7t/a8202f7b79b51fee993d6c3dcf8b9521/accounting-value-prop-1.png?w=3840&q=90&fm=webp)
 
@@ -80,7 +80,7 @@ Compare workpapers with supporting records and draft review notes on possible du
 
 Save your templates, instructions, and review checks as reusable skills, then apply them to each month’s new records.
 
-## Put ChatGPT to work on everyday accounting.
+## Put ChatGPT to work on everyday accounting
 
 Start with a task you know, use the records you already have, and review the results.
 
@@ -94,7 +94,7 @@ Turn job details from your email into customer invoices in your accounting app, 
 
 [Try in ChatGPT(opens in a new window)](<https://chatgpt.com/plugins/Plugin_60db802073a48191b7256d1c268d7a47?install&prompt=find%20the%20latest%20jobs%20ready%20to%20invoice%20in%20my%20email.%20Create%20the%20invoices%20with%20%40Intuit%20Quickbooks%20for%20my%20review.%20Flag%20anything%20unclear.&surface=work>)
 
-## Keep control of your data and decisions.
+## Keep control of your data and decisions
 
 [Explore business data privacy](</business-data/>)
 
@@ -112,7 +112,7 @@ Review supporting records, calculations, and suggested coding before approving e
 
 ## Hear from accounting professionals
 
-1 of 4
+1 of 5
 
 > “If revenue changes from one month to the next, I want to know what’s behind it. Was it billable hours, rates or differences across locations? I use ChatGPT to pull that detail together and draft an explanation. I ask it to include the workpaper references so I can go back and check what the explanation is based on. Across the firms I support, I’d estimate that saves me five to six hours a month.”
 
@@ -130,6 +130,10 @@ Review supporting records, calculations, and suggested coding before approving e
 
 —Jonathan Schlesinger, Director, Cabrillo Advisors
 
+> “OpenAI helps us to re-imagine what it looks like to go through our day as accountants, allowing us to spend less time on busywork, and more time advising clients.”
+
+—Hannah Bartel, CPA, director of technology and training, Granite Peak Veterinary Advisors
+
   * Current
 
   * Shield Technology Partners
@@ -138,6 +142,8 @@ Review supporting records, calculations, and suggested coding before approving e
 
   * Cabrillo Advisors
 
+  * Granite Peak Veterinary Advisors
+
 
 
 
@@ -145,6 +151,7 @@ Review supporting records, calculations, and suggested coding before approving e
   * Shield Technology Partners
   * HSP GRUPPE
   * Cabrillo Advisors
+  * Granite Peak Veterinary Advisors
 
 
 

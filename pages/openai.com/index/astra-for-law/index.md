@@ -36,6 +36,10 @@ Our most powerful model, configured into a new AI foundation for law.
 
 [Explore solutions for law](</solutions/industries/law/>)[Contact Legal sales](</business/contact-sales-legal/>)
 
+## Astra for Law update
+
+For the latest availability and benchmarks, read the [November Astra for Law update⁠](<https://openai.com/index/astra-law-6-2/>).
+
 Share
 
 Frontier intelligence for law

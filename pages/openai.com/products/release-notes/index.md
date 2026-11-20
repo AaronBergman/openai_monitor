@@ -41,6 +41,20 @@ Filter
 
 Sort
 
+Nov 17, 2026
+
+API
+
+Beta
+
+Share
+
+## Discounted background completion windows in the Responses API
+
+Choose a two-hour or eight-hour background completion window in the Responses API public beta. Model token rates are 30% lower than Standard for the two-hour window and 40% lower for the eight-hour window.
+
+[View source(opens in a new window)](<https://developers.openai.com/api/docs/guides/background>)
+
 Nov 16, 2026
 
 API
@@ -108,24 +122,6 @@ Before your dot pays, you review the merchant, items, total, and selected card, 
 Wallet is rolling out gradually in dots to ChatGPT Pro subscribers age 18 or older in the United States, with an eligible US-issued card and US billing address. To get started, ask your dot to add a card to Wallet. Some websites may not support purchases made by agents, and approval alone doesn’t confirm an order—check the merchant’s confirmation after checkout.
 
 [View source(opens in a new window)](<https://help.openai.com/en/articles/6825453-chatgpt-release-notes#introducing-chatgpt-wallet>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/20001654-making-purchases-with-chatgpt-wallet>)
-
-Nov 12, 2026
-
-ChatGPT
-
-GA
-
-Share
-
-## Change users' email addresses in Admin Console
-
-Global admins can now change email addresses for eligible non-SCIM users in Admin Console. For Business organizations, this provides a way to update an existing account when a user's address changes, including a move between domains verified under the same tenant. For Enterprise, Edu, and Healthcare tenants, this supports address changes on one verified domain or between domains verified under the same tenant.
-
-Both the current and new email domains must be verified in that tenant, and the new address must not already belong to another OpenAI account. Accounts must be at least 24 hours old, with up to 2 changes per rolling 24 hours and 20 over the account's lifetime. SCIM-managed users should continue to update their email through their identity provider.
-
-Users must belong to only 1 tenant. After an admin changes the email, OpenAI sends a notice to the user's previous email address.
-
-[View source(opens in a new window)](<https://help.openai.com/en/articles/11391654-chatgpt-business-release-notes#change-users-email-addresses-in-admin-console>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/10128477-chatgpt-enterprise-and-edu-release-notes#change-users-email-addresses-in-admin-console>)[Help center(opens in a new window)](<https://help.openai.com/en/articles/12289294-managing-your-tenant-in-admin-console>)
 
 Load more
 

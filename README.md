@@ -1,5 +1,61 @@
 # openai_monitor
 
+## 2026-11-20T09-15Z
+
+**Fetch time:** 2026-11-20T09:16:56Z (sitemap), 09:17–09:20Z (60 pages) UTC | **Baseline:** 2026-11-19T09-15Z (consecutive day). `main` still stops at Sep 28 because the daily draft PRs haven't been merged. This run was built on top of the unmerged Nov 19 run so that it is a true one-day diff, and its PR carries both runs.
+
+**TL;DR:** A small day: 7 pages added, 1 removed, sitemap now 2,257 URLs. The change that matters most is in OpenAI's **Health privacy notice**:
+- Health conversations in ChatGPT used to be excluded from model training by default. They now follow your normal ChatGPT training setting (on unless you've turned it off).
+- Medical records synced from connected health accounts stay excluded, and the notice now also promises they won't be used for ad targeting.
+- The product is renamed "Health in ChatGPT". It adds Android Health Connect, drops the separate health-only memory, and can send "proactive" alerts when it detects a health trend in your data.
+
+Separately, OpenAI says its **Data Partnerships** program (people offering datasets for AI training) is "not accepting submissions at the moment", and the sign-up form left the sitemap. New pages:
+- An engineering post on Codex agents that automatically diagnose ChatGPT slowdowns.
+- Two ChatGPT Ads advertiser case studies, the first named ones (Portland Leather, WeightWatchers).
+- Four how-to and demo pages for the new Daybreak cybersecurity products.
+
+### Anomalies
+
+- **Data Partnerships form removed with a related edit:** [`/index/data-partnerships/`](pages/openai.com/index/data-partnerships/index.md) gained "OpenAI Data Partnerships is not accepting submissions at the moment" and lost its links to `/form/data-partnerships/`, which left the sitemap the same day. The form had been listed since this log began (May 7).
+- **2 new `/ads/customers/` pages have no `<lastmod>`.** This matches the rest of the `/ads/` section. Low signal.
+- Nothing else: no future-dated or backwards `<lastmod>`, no reappearances, no sub-sitemap migrations.
+
+Full detail in [`runs/2026-11-20T09-15Z/analysis.md`](runs/2026-11-20T09-15Z/analysis.md).
+
+### Notable additions
+
+- [How OpenAI's Performance Factory keeps ChatGPT fast](pages/openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast/index.md) (Nov 19): when a performance alert fires, Codex agents investigate the slowdown, find the root cause and propose a fix for an engineer to review. OpenAI says 70% of 100 reviewed root-cause diagnoses were accurate.
+- ChatGPT Ads case studies:
+  - [Portland Leather](pages/openai.com/ads/customers/portland-leather/index.md): 93% of visitors arriving from ChatGPT Ads were new to the site.
+  - [WeightWatchers](pages/openai.com/ads/customers/weightwatchers/index.md): cost per acquisition 15.3% below its paid-search benchmark, and about 30% cheaper signups after optimising for conversions.
+- Daybreak cybersecurity onboarding:
+  - [Deploying Daybreak Red](pages/openai.com/business/learn/deploying-daybreak-red/index.md): a PDF reference architecture for supervised security investigations.
+  - Demo videos for [Daybreak Blue onboarding](pages/openai.com/business/learn/daybreak-blue-onboarding-demo/index.md), the [Codex Security Plugin](pages/openai.com/business/learn/codex-security-plugin-demo/index.md) and [PR scans](pages/openai.com/business/learn/pr-scans-demo/index.md).
+
+### Notable updates
+
+- **[Health privacy notice](pages/openai.com/policies/health-privacy-policy/index.md)** (updated Nov 19):
+  - Old: health records and health conversations were not used for training "by default".
+  - New: synced records are never used for training or ad targeting, but conversations that reference that data "may be used to improve our models depending on your ChatGPT settings".
+  - Also: the product is renamed "Health in ChatGPT", Android Health Connect is added, health memories now live in the main ChatGPT memory, and "proactive updates" on detected health trends are new.
+- **[Cookie policy](pages/openai.com/policies/cookie-policy/index.md)** (updated Nov 19): five new first-party cookies, including a 365-day analytics cookie `oai-did-first-seen` on chatgpt.com.
+- **[Release notes](pages/openai.com/products/release-notes/index.md):**
+  - New Nov 17 API beta: cheaper "background" jobs in the Responses API, 30% off for a 2-hour completion window and 40% off for 8 hours.
+  - The Nov 12 "change users' email addresses in Admin Console" entry disappeared from the page.
+- **[Financial Services solution page](pages/openai.com/business/solutions/financial-services/index.md):**
+  - Features now listed: Company Research screeners, Company Profiles, and earnings-call recordings with transcripts.
+  - The financial-model-building pitch and the past Nubank webinar banner were removed.
+- Minor: [Astra for Law](pages/openai.com/index/astra-for-law/index.md) now points to its November update, [Accounting](pages/openai.com/business/solutions/accounting/index.md) gained a customer quote, and [`/solutions/`](pages/openai.com/solutions/index.md) lists IT and Accounting.
+- The other 43 `<lastmod>` bumps showed no content change.
+
+### Removed pages
+
+- `/form/data-partnerships/`: the Data Partnerships interest form (see Anomalies). Last copy is in git history.
+
+_Stats: 2257 total URLs | 7 added | 53 updated (10 with content changes) | 1 removed | 3 anomalies | 44 sub-sitemaps_
+
+---
+
 ## 2026-11-19T09-15Z
 
 **Fetch time:** 2026-11-19T09:16Z (sitemap) – 09:26Z (2,017 pages) UTC | **Baseline:** 2026-09-28T09-17Z — **a 52-day gap on `main`.** The routine did run daily in that window, but each run's draft pull request (#148–#198) was never merged, so `main` stayed at Sep 28 and every run re-diffed against the same stale baseline. Everything below is therefore seven weeks of accumulated change measured against Sep 28; day-by-day detail for the window lives in those unmerged PR branches, not in this log. Where dates are given they are the dates OpenAI prints on the page.

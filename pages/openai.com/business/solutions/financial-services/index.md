@@ -26,12 +26,6 @@ Skip to main content
 
 OpenAI
 
-### [Webinar] See how Nubank is putting AI to work in banking.
-
-Join Nubank and OpenAI on November 18 at 10 AM PT for practical lessons and a demo of ChatGPT for Financial Services.
-
-[Register to watch(opens in a new window)](<https://webinar.openai.com/banking-on-ai-inside-nubank-transformation/?utm_source=website&utm_medium=banner&utm_campaign=nubank_webinar&utm_content=web_banner>)
-
 OpenAI for financial services
 
 # Frontier intelligence. Built for financial services.
@@ -39,23 +33,6 @@ OpenAI for financial services
 Put OpenAI’s most capable models to work with your institution’s data and expertise. Go deeper in your research, bring sharper insights to every client conversation, and develop new financial products and services.
 
 [Contact sales](</business/contact-sales-financial-services/>)[Get started](</business/>)
-
-At work inside leading financial institutions
-
-GPT-6 Astra
-
-## Your most ambitious financial work. Our most intelligent model.
-
-Our latest ChatGPT model delivers state-of-the-art information retrieval, financial reasoning, and presentation generation. Find relevant evidence, deepen your analysis, and create editable financial models, research notes, and presentations.
-
-  * [Learn more](</index/introducing-chatgpt-financial-services/>)
-  * [Get started](</business/>)
-
-
-
-![Glowing stars form the numeral six against a dark starfield.](https://images.ctfassets.net/kftzwdyauwt9/5dSM1cRxDsldgwhkllSGKo/3bba9f5d18ed7267ff4d84e0a5572e8c/starfield-six-inline.png?w=3840&q=90&fm=webp)
-
-ChatGPT for financial services
 
 ## Ask more of your financial research
 
@@ -280,13 +257,17 @@ OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
 
-![Financial Services interface for premium financial data.](https://images.ctfassets.net/kftzwdyauwt9/6fDYcZSjsEYFDMLMO5j2ln/c4a57b9c8e6850ce7e46c8ed56744173/premium-data.png?w=3840&q=90&fm=webp)
+![ChatGPT composer with the built-in financial data menu open, including company filings, financials, earnings calls, and market data.](https://images.ctfassets.net/kftzwdyauwt9/7pYhhTwezB9pGv3L0aOaNc/6da395f96c0b6eca831c43481c22cbe6/financial-services-premium-data-feature.png?w=3840&q=90&fm=webp)
+
+![Company Research in ChatGPT with research task ideas and a list of recent companies.](https://images.ctfassets.net/kftzwdyauwt9/1zYxpTDcOF4movIOd61jSj/25e3cf3ac237a25e59f2592aa0866f81/financial-services-company-research-feature.png?w=3840&q=90&fm=webp)
+
+![Microsoft company profile in ChatGPT with a stock chart, financial metrics, and company information.](https://images.ctfassets.net/kftzwdyauwt9/3kJjLilEjnEZYyPZSGyKKm/07b812d0b80c0689c52b38acba378a16/financial-services-company-profiles-feature.png?w=3840&q=90&fm=webp)
 
 ![Financial Services interface for source-backed financial analysis.](https://images.ctfassets.net/kftzwdyauwt9/5VMh76XuJMhLtQFGIgZEC0/2e795299d0c8595f5ae6363a187caad2/financial-analysis.png?w=3840&q=90&fm=webp)
 
-![Financial Services interface for building and visualizing financial models.](https://images.ctfassets.net/kftzwdyauwt9/2T6t93SCWqaOyvZcSmfo1J/9cc60f01b3e9785e2aeaf4cb0e20d5b6/financial-models.png?w=3840&q=90&fm=webp)
+![Microsoft earnings call recording and transcript in ChatGPT alongside a summary of key takeaways.](https://images.ctfassets.net/kftzwdyauwt9/3o0gn5Q3eo3tGJ8H5hjIKV/28685d644a899d907132cf3717bd2529/financial-services-earnings-calls-feature.png?w=3840&q=90&fm=webp)
 
-![Financial Services interface for client materials in firm style.](https://images.ctfassets.net/kftzwdyauwt9/3YUCczPghR3X626gQWI4Cr/f18cb112353902088dad8b620762a42f/client-materials.png?w=3840&q=90&fm=webp)
+![ChatGPT creates a company overview presentation with editable charts, showing a financial profile slide beside the conversation.](https://images.ctfassets.net/kftzwdyauwt9/1hpjbLMzQ1Z1QT9GfoN1Xx/55465b7050eeceb2db8c2fdaede091a2/financial-services-client-materials-feature.png?w=3840&q=90&fm=webp)
 
 ![ChatGPT in Microsoft Excel analyzes a financial balance sheet and cash flow conversion.](https://images.ctfassets.net/kftzwdyauwt9/1z4JLblEqIilXbqQ8yrniO/3f43914ef2938494896a8a938631cf10/chatgpt-excel-tools-media.png?w=3840&q=90&fm=webp)
 
@@ -298,17 +279,25 @@ Access earnings transcripts, financial statements, and private company data with
 
 [Learn more](</index/introducing-chatgpt-financial-services/>)
 
+### Find new opportunities
+
+Company Research helps you identify companies relevant to your next deal or investment. Look up businesses and start screeners to find companies that match your criteria.
+
+### Understand what drives performance
+
+Company Profiles bring financials and key metrics for a company and its peers together, so you can review all the data in one place.
+
 ### Financial analysis you can trace to the source
 
 Compare a company’s latest earnings with prior periods, peers, and your firm’s research. Develop research notes with supporting citations, and inspect the evidence behind metrics like adjusted EBITDA.
 
-### Build, check, and visualize financial models
+### Listen to earnings calls alongside the transcript
 
-Build or update a model with the latest company figures. Align periods and units, check calculations, and use interactive visualizations to explore how changes in revenue growth or margins could affect valuation.
+Earnings Calls & Live Events pairs recordings with transcripts in ChatGPT. Listen for nuance as you review management’s discussion of results and outlook.
 
 ### Client materials built in your firm style
 
-Turn research and valuations into company profiles and pitchbooks using your firm’s templates. Refine the narrative, review sources and assumptions, and continue editing in Excel, Word, or PowerPoint.
+Turn research and valuations into company briefs and pitchbooks using your firm’s templates. Refine the narrative, review sources and assumptions, and continue editing in Excel, Word, or PowerPoint.
 
 ### Refine your work in the tools you use
 

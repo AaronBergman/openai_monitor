@@ -34,8 +34,6 @@ November 9, 2023
 
 Working together to create open-source and private datasets for AI training.
 
-[Submit interest(opens in a new window)](</form/data-partnerships>)
-
 ![Data Partnerships](https://images.ctfassets.net/kftzwdyauwt9/abb3c0a3-ec87-4cd5-f7379b1c28a4/f3d356c63052f7af3ab905df16a1ee15/OpenAI_Data_Partnerships.png?w=3840&q=90&fm=webp)
 
 Share
@@ -55,6 +53,8 @@ The kinds of data we’re seeking
 
 
 
+
+ _Editor’s note: OpenAI Data Partnerships is not accepting submissions at the moment._
 
 We are introducing OpenAI Data Partnerships, where we’ll work together with organizations to produce public and private datasets for training AI models.
 
@@ -82,10 +82,6 @@ We currently have two ways to partner, and may expand in the future:
 
 
 Overall, we are seeking partners who want to help us teach AI to understand our world in order to be maximally helpful to everyone. Together, we can move towards AGI that benefits all of humanity.
-
-  * [Submit interest](</form/data-partnerships/>)
-
-
 
   * [Policies and Procedures](</news/?tags=policies-procedures>)
   * [Partnerships](</news/?tags=partnerships>)
