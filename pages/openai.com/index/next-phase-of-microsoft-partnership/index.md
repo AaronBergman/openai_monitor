@@ -34,8 +34,6 @@ April 27, 2026
 
 Amended agreement provides long-term clarity.
 
-Loading…
-
 Share
 
 The rapid pace of innovation requires us to continue to evolve our partnership to benefit our customers and both companies. Today, we are announcing an amended agreement to simplify our partnership and the way we work together, grounded in flexibility, certainty, and a focus on delivering the benefits of AI broadly. The greater predictability in the amended agreement strengthens our joint ability to build and operate AI platforms at scale while providing both companies the flexibility to pursue new opportunities. The agreement spells out: 
@@ -67,17 +65,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
+![Le Groupe Figaro and OpenAI announce partnership — cover](https://images.ctfassets.net/kftzwdyauwt9/4SnfEKjmVoRPgSgiCy8IzI/1f454e874489f6c318c078766456ac70/le-groupe-figaro-and-openai-announce-partnership-cover.png?w=3840&q=90&fm=webp)
 
-[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
+[Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPTCompanyNov 18, 2026](</index/le-groupe-figaro-and-openai-announce-partnership/>)
 
-![Expanding OpenAI Academy with new learning paths — cover](https://images.ctfassets.net/kftzwdyauwt9/45fB7Wzg6PiQPzz8V49LVr/ef443412e9d5f03f9d5ffcc79aefe18e/expanding-openai-academy-with-new-learning-paths-cover.png?w=3840&q=90&fm=webp)
+![Astra for Law leads in legal intelligence: card \(smooth background\)](https://images.ctfassets.net/kftzwdyauwt9/1Hxi3uH1AJ6fUnzQ0erHqG/11f533e3fa6e55246949941ca27888c9/astra-law-legal-intelligence-card-smooth.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI Academy with new learning pathsCompanySep 21, 2026](</index/expanding-openai-academy-with-new-learning-paths/>)
+[Astra for Law leads in legal intelligenceCompanyNov 17, 2026](</index/astra-law-6-2/>)
 
-![Introducing the Australian Youth Safety Blueprint — cover](https://images.ctfassets.net/kftzwdyauwt9/3hSPxVZReGirTIsDaGBwaN/6a402fc967b16c7a33e509a2bea2bc44/introducing-the-australian-youth-safety-blueprint-cover.png?w=3840&q=90&fm=webp)
+![LVMH Media Division partnership with OpenAI — cover](https://images.ctfassets.net/kftzwdyauwt9/2LOjySDM8G0bdrIW0XNMq3/5b50996dca0e8f5ddde8f8e43c6d5492/lvmh-s-media-division-announces-partnership-with-openai-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing the Australian Youth Safety BlueprintCompanySep 18, 2026](</index/australian-youth-safety-blueprint/>)
+[LVMH’s Media Division announces partnership with OpenAICompanyNov 16, 2026](</index/lvmh-media-division-partnership/>)
 
 Research
 
@@ -89,10 +87,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -111,7 +109,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -138,8 +137,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -158,6 +157,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

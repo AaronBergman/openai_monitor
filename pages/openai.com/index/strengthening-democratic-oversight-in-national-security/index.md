@@ -34,21 +34,25 @@ August 18, 2026
 
 OpenAI is launching a new initiative to help democratic oversight bodies develop the expertise and tools they need to understand and oversee government use of AI for national security.
 
-Loading…
-
 Share
 
 Ensuring oversight keeps pace with AI adoption
 
   * Ensuring oversight keeps pace with AI adoption
+
   * What OpenAI will do
+
   * The choice in front of us
+
 
 
 
   * Ensuring oversight keeps pace with AI adoption
+
   * What OpenAI will do
+
   * The choice in front of us
+
 
 
 
@@ -109,17 +113,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Helping older adults use AI in everyday life — art card](https://images.ctfassets.net/kftzwdyauwt9/6ewlK5oKVHp0phTezeh0rT/2c9454f9757b567c1837e07013ffe2f1/older-adults-art-card-v001.png?w=3840&q=90&fm=webp)
+![Strengthening NATO and allied cyber defences with AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/mkN5DS8fsUZdCbrtXU5CJ/7ffd117eefcd930dd8a0dc4c82721d99/strengthening-nato-and-allied-cyber-defences-with-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Helping older adults use AI in everyday lifeGlobal AffairsSep 16, 2026](</index/helping-older-adults-use-ai-in-everyday-life/>)
+[Strengthening NATO and allied cyber defenses with AIGlobal AffairsNov 17, 2026](</index/strengthening-nato-allied-cyber-defences-ai/>)
 
-![How workers are turning AI experimentation into new ways of working > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2jmyTNjTKCj9B3jyQBjFMr/24da3865e110be70e6e93b196cfd752c/blog-art-card-option040-v001.png?w=3840&q=90&fm=webp)
+![Introducing OpenAI for Chile — Cover](https://images.ctfassets.net/kftzwdyauwt9/5c0RdO1eMpASEH79fHuJkt/2d8c656bd772ba036a6049d7cf9a2f0e/introducing-openai-for-chile-cover.png?w=3840&q=90&fm=webp)
 
-[How workers are unlocking new ways of workingGlobal AffairsSep 16, 2026](</index/unlocking-new-ways-of-working/>)
+[Introducing OpenAI for ChileGlobal AffairsNov 17, 2026](</index/introducing-openai-for-chile/>)
 
-![Expanding AI access across every level of US government - listing image - Option 051](https://images.ctfassets.net/kftzwdyauwt9/2DbgwJ93neBePatQjKO2h7/d63008264f83f3dcc786fe98410151be/government-blog-card-option-051-review-1080x1080.png?w=3840&q=90&fm=webp)
+![The King’s Trust and OpenAI partnership — Cover](https://images.ctfassets.net/kftzwdyauwt9/7j93AvZKxba2iNSQCVuVP8/911c09306e272d78d8139431c58d8ac1/the-king-s-trust-and-openai-launch-1m-partnership-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding AI access across every level of US governmentGlobal AffairsSep 10, 2026](</index/expanding-ai-access-us-government/>)
+[The King’s Trust and OpenAI launch £1m partnershipGlobal AffairsNov 16, 2026](</index/the-kings-trust-and-openai/>)
 
 Research
 
@@ -131,10 +135,10 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -153,7 +157,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -171,6 +176,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -179,8 +185,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -199,6 +205,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

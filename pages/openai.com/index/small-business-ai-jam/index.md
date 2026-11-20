@@ -34,8 +34,6 @@ November 20, 2025
 
 OpenAI’s latest AI Jam equips small businesses to grow and compete.
 
-Loading…
-
 Share
 
  _**Update on December 15, 2025:**__Our after-action report features highlights from the OpenAI Academy Small Business Jam, including participant use cases and key takeaways on AI adoption for small businesses. A copy of the report is available_[ _here_ ⁠(opens in a new window)](<https://cdn.openai.com/pdf/small-business-jam-report-dec-2025.pdf>)_⁠._
@@ -57,10 +55,15 @@ Leading up to the event, participants will have access to an online resource [_h
 At each of the five Jam locations, regional business support organizations and community conveners are helping tailor the event to meet the specific needs of local small businesses, including:
 
   * **Detroit, MI:**[_Detroit Means Business_ ⁠(opens in a new window)](<https://www.detroitmeansbusiness.org/>), [_New Economy Initiative_ ⁠(opens in a new window)](<https://neweconomyinitiative.org/>),[ _Michigan Chamber of Commerce_ ⁠(opens in a new window)](<https://www.michamber.com/>)
+
   * **Houston, TX** : [_Texas Association of Business_ ⁠(opens in a new window)](<https://www.txbiz.org/>),[ _Houston Area Urban League - Entrepreneurship Center_ ⁠(opens in a new window)](<https://www.haul.org/entrepreneurship-center/>)
+
   * **Miami, FL:** [_The Idea Center_ ⁠(opens in a new window)](<https://theideacenter.co/>) &[ _AI Center_ ⁠(opens in a new window)](<https://www.mdc.edu/aicenter/>) at Miami Dade College,[ _Florida SBDC at FIU_ ⁠(opens in a new window)](<https://floridasbdc.org/find/fiu/>),[ _Greater Miami Chamber of Commerce_ ⁠(opens in a new window)](<https://www.miamichamber.com/>)
+
   * **New York, NY:** [_Five Chamber Alliance_ ⁠(opens in a new window)](<https://www.manhattancc.org/2025/05/12/five-chamber-alliance-celebrates-mwbe-excellence-at-annual-awards/>)
+
   * **San Francisco, CA:** [_REN Center_ ⁠(opens in a new window)](<https://rencenter.org/>),[ _SF Chamber of Commerce_ ⁠(opens in a new window)](<https://sfchamber.com/>)
+
 
 
 
@@ -86,15 +89,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![Le Groupe Figaro and OpenAI announce partnership — cover](https://images.ctfassets.net/kftzwdyauwt9/4SnfEKjmVoRPgSgiCy8IzI/1f454e874489f6c318c078766456ac70/le-groupe-figaro-and-openai-announce-partnership-cover.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPTCompanyNov 18, 2026](</index/le-groupe-figaro-and-openai-announce-partnership/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![Strengthening NATO and allied cyber defences with AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/mkN5DS8fsUZdCbrtXU5CJ/7ffd117eefcd930dd8a0dc4c82721d99/strengthening-nato-and-allied-cyber-defences-with-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[Strengthening NATO and allied cyber defenses with AIGlobal AffairsNov 17, 2026](</index/strengthening-nato-allied-cyber-defences-ai/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Astra for Law leads in legal intelligence: card \(smooth background\)](https://images.ctfassets.net/kftzwdyauwt9/1Hxi3uH1AJ6fUnzQ0erHqG/11f533e3fa6e55246949941ca27888c9/astra-law-legal-intelligence-card-smooth.png?w=3840&q=90&fm=webp)
+
+[Astra for Law leads in legal intelligenceCompanyNov 17, 2026](</index/astra-law-6-2/>)
 
 Research
 
@@ -106,9 +111,10 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
@@ -127,7 +133,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -145,6 +152,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -153,8 +161,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -173,6 +181,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
