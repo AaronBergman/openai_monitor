@@ -36,21 +36,27 @@ Collaborate with others, and ChatGPT, in the same conversation.
 
 [Try in ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
-Loading…
-
 Collaborating together with ChatGPT
 
   * Collaborating together with ChatGPT
+
   * How it works
+
   * Privacy and control by design
+
   * What’s next
+
 
 
 
   * Collaborating together with ChatGPT
+
   * How it works
+
   * Privacy and control by design
+
   * What’s next
+
 
 
 
@@ -107,17 +113,17 @@ OpenAI
 
 [View all](</news/>)
 
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
+![Gold and blue-white stars trace arcs across a dark sky.](https://cdn.openai.com/mdx-assets/e193aefe-5e58-431c-8cd2-adadac0c1496/a8298611-fe6e-4853-90e1-7ec5b3bbdf5f.6a518def.png)
 
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
+[Introducing GPT-6.2 Astra and SolProductNov 17, 2026](</index/introducing-gpt-6-2-astra-sol/>)
 
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
+![Introducing ChatGPT for Sales — Cover](https://images.ctfassets.net/kftzwdyauwt9/8sL53Bp1mHxr6ASHIbFeD/50d1c33dde04603c981db37a59b63b26/introducing-chatgpt-for-sales-cover.png?w=3840&q=90&fm=webp)
 
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
+[Introducing ChatGPT for SalesProductNov 17, 2026](</index/introducing-chatgpt-for-sales/>)
 
-![GPT-5.6 in Kiro > OpenAI and official Kiro full logo > 1:1 art card](https://images.ctfassets.net/kftzwdyauwt9/31NSq4ufuXRuOUqH9Xdjno/319b9502b892d44b8b91df7aef9d53ed/OAI_Kiro_Partnership_1x1_Art_Card_Official_Full_Lockup_2160.png?w=3840&q=90&fm=webp)
+![More ways to move care forward with ChatGPT for Healthcare — Cover](https://images.ctfassets.net/kftzwdyauwt9/z04YGXDiiB9gJhtnjWey2/1cef69c9ddda33271ccfdf8a5b4986e5/more-ways-to-move-care-forward-with-chatgpt-for-healthcare-cover.png?w=3840&q=90&fm=webp)
 
-[Advancing price-performance for developers with GPT‑5.6 in KiroProductAug 24, 2026](</index/gpt-5-6-in-kiro/>)
+[More ways to move care forward with ChatGPT for HealthcareProductNov 16, 2026](</index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare/>)
 
 Research
 
@@ -129,15 +135,15 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -150,7 +156,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -168,6 +175,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -176,8 +184,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -196,6 +204,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

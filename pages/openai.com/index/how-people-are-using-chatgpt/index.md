@@ -36,21 +36,25 @@ Largest study to date of consumer ChatGPT usage shows demographic gaps shrinking
 
 ![Soft gradient background with flowing diagonal streaks of pink and blue, symbolizing growth, diversity, and the broadening adoption of ChatGPT across different communities.](https://images.ctfassets.net/kftzwdyauwt9/2khdUJJKQqjmai3Lv9PeOK/f8e084232f90b0278b0466d9f144bfbb/how-people-are-using-chatgpt-16.9.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
-Who’s using it 
+Who’s using it
 
-  * Who’s using it 
+  * Who’s using it
+
   * What they’re using it for
+
   * How use is evolving
 
 
 
-  * Who’s using it 
+
+  * Who’s using it
+
   * What they’re using it for
+
   * How use is evolving
+
 
 
 
@@ -97,21 +101,46 @@ Together, these findings from the largest study of ChatGPT consumer usage to dat
 
 OpenAI
 
+## Citation
+    
+    
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    10
+    11@techreport{openaiecon2025chatgptusage,
+      author = {Aaron Chatterji and Tom Cunningham and David Deming and Zo{\"e} Hitzig and Christopher Ong and Carl Shan and Kevin Wadman},
+      title = {How People Use {ChatGPT}},
+      date = {2025-09-15},
+      year = {2025},
+      institution = {National Bureau of Economic Research},
+      type = {Working paper},
+      number = {34255},
+      doi = {10.3386/w34255},
+      url = {https://cdn.openai.com/pdf/a253471f-8260-40c6-a2cc-aa93fe9f142e/economic-research-chatgpt-usage-paper.pdf},
+    }
+
 ## Keep reading
 
 [View all](</news/>)
 
-![OpenAI extends cyber access to Ukraine for civilian defense — cover](https://images.ctfassets.net/kftzwdyauwt9/4NsiJiqUurW5ypfaulGCFm/8b5bfad7d895c4fc6aa20766d5c88b0c/openai-extends-cyber-access-to-ukraine-for-civilian-defense-cover.png?w=3840&q=90&fm=webp)
+![MedChemBench: Benchmarking AI for medicinal chemistry — Cover](https://images.ctfassets.net/kftzwdyauwt9/4GWchdof3kw2l5OtMIvGt4/56144e08b813d6af76ae93adc2cefc1b/introducing-medchembench-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI extends cyber access to Ukraine for civilian defenseGlobal AffairsSep 23, 2026](</index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/>)
+[MedChemBench: Benchmarking AI for medicinal chemistryResearchNov 20, 2026](</index/introducing-medchembench/>)
 
-![Sam Altman’s remarks at the United Nations Security Council cover image](https://images.ctfassets.net/kftzwdyauwt9/4O6fFZArVSBeCoNjTFwXXZ/cc5e374a6b62b8f328555f002b3bca49/sam-altman-s-remarks-at-the-united-nations-security-council-cover.png?w=3840&q=90&fm=webp)
+![A softly textured blue and turquoise gradient.](https://images.ctfassets.net/kftzwdyauwt9/3q9FXuH69IDGjPgpzj2Ayv/95477fdeea31ffb7eae01ec1c191b1f0/research-acceleration-the-jagged-frontier-of-rsi-cover.png)
 
-[Sam Altman’s remarks at the United Nations Security CouncilGlobal AffairsSep 23, 2026](</index/sam-altman-un-security-council-remarks/>)
+[Research acceleration: The jagged frontierResearchNov 18, 2026](</index/research-acceleration-jagged-frontier/>)
 
-![Mental Health Bench art card](https://images.ctfassets.net/kftzwdyauwt9/1GVQAEpVME68kCI7Ol2ApW/abde191546741612492ae27f9baf7f3e/Mental_Health_Bench__art_card.png?w=3840&q=90&fm=webp)
+![Advancing chip design with OpenAI models — article card](https://images.ctfassets.net/kftzwdyauwt9/26PM7LFgxizTM4FHqNoROC/edaf9f939eb1f1b834bc9f4007e199aa/advancing-chip-design-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing MentalHealthBenchPublicationSep 23, 2026](</index/introducing-mentalhealthbench/>)
+[Advancing chip design with OpenAI modelsResearchNov 18, 2026](</index/advancing-chip-design-with-our-models/>)
 
 Research
 
@@ -123,16 +152,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -145,7 +173,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -172,8 +201,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -192,6 +221,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

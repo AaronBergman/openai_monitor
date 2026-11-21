@@ -32,8 +32,6 @@ January 2, 2026
 
 A program for individuals early in their company building journey.
 
-Loading…
-
 Share
 
  _**Update on January 12, 2026**_ _: Applications are now closed._
@@ -52,17 +50,17 @@ OpenAI
 
 ## Keep reading
 
-![How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules — card image](https://images.ctfassets.net/kftzwdyauwt9/5UARNm4AwJ9OfXCIzHZgLF/c05ef4322030e9552dfe2458d34ceaed/index-codex-chatgpt-antimicrobials--cover-v001.png?w=3840&q=90&fm=webp)
+![Combatting adversarial distillation — Cover](https://images.ctfassets.net/kftzwdyauwt9/7ozJXN6SzLZuRFUVDOB5mj/b6b1bc650fba12f754b9b9c4798b1b21/combatting-adversarial-distillation-cover.png?w=3840&q=90&fm=webp)
 
-[How a researcher uses Codex and ChatGPT to search for new antimicrobial moleculesApplied AISep 10, 2026](</index/using-codex-chatgpt-to-search-for-new-antimicrobials/>)
+[Combatting adversarial distillationNov 20, 2026](</index/combatting-adversarial-distillation/>)
 
-![Now everyone can put data to work — card image](https://images.ctfassets.net/kftzwdyauwt9/6FhMXOSe8XadGwEUev6QjJ/916a64d20bcc59b8619fea1827fa6bd3/put-data-to-work--cover-v001.png?w=3840&q=90&fm=webp)
+![Hebbia — Cover](https://images.ctfassets.net/kftzwdyauwt9/2j2sOeYR5anL69nJvTbPot/4758d44649f585b33d96cdf14742c0d4/hebbia-smoked-depth-cover.png?w=3840&q=90&fm=webp)
 
-[Now everyone can put data to workProductSep 10, 2026](</index/put-data-to-work/>)
+[Hebbia sees improvements in financial research with GPT-6 AstraNov 20, 2026](</business/customer-stories/hebbia/>)
 
-![FinServ Blog - Art Card Texture Square](https://images.ctfassets.net/kftzwdyauwt9/6Bcg403pebiJhQdHUS17FK/572e478dc4579deca27c9700c662e908/finserv-art-card.png?w=3840&q=90&fm=webp)
+![MedChemBench: Benchmarking AI for medicinal chemistry — Cover](https://images.ctfassets.net/kftzwdyauwt9/4GWchdof3kw2l5OtMIvGt4/56144e08b813d6af76ae93adc2cefc1b/introducing-medchembench-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing ChatGPT for Financial ServicesProductSep 10, 2026](</index/introducing-chatgpt-financial-services/>)
+[MedChemBench: Benchmarking AI for medicinal chemistryResearchNov 20, 2026](</index/introducing-medchembench/>)
 
 Research
 
@@ -74,16 +72,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -96,7 +93,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -114,6 +112,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -122,8 +121,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -142,6 +141,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

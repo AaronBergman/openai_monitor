@@ -36,25 +36,33 @@ GPT‑5 created novel wet lab protocol improvements, optimizing the efficiency o
 
 ![Collage-style graphic with soft blue–orange gradients, a DNA assembly diagram, and bold text reading “Biology Research,” labeled under “OpenAI for Science.”](https://images.ctfassets.net/kftzwdyauwt9/7EC1SMUUh43FshgQjtNZb1/b8c5d6516d16c59225dceb1e065dd8fd/oai_forscience_wetlab_16x9.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 Experimental results
 
   * Experimental results
+
   * An evolutionary framework for optimizing real-world protocols
+
   * A novel improvement to homology-based cloning
+
   * Robotic system
+
   * The future
+
 
 
 
   * Experimental results
+
   * An evolutionary framework for optimizing real-world protocols
+
   * A novel improvement to homology-based cloning
+
   * Robotic system
+
   * The future
+
 
 
 
@@ -85,9 +93,13 @@ Notably, the AI-lab loop was run with fixed prompting and no human intervention.
 The [_Gibson assembly_ ⁠(opens in a new window)](<https://www.nature.com/articles/nmeth.1318>) reaction has been a primary cloning method since its invention in 2009, with widespread adoption across molecular biology. Gibson assembly lets molecular biologists “glue” pieces of DNA together by briefly melting their ends so matching sequences can be sealed into a single molecule. One major appeal of Gibson assembly is its simplicity: everything happens in a single tube at one temperature. Those constraints naturally leave room for improvement. In addition, the following properties make it well-suited to evaluating AI models’ abilities to improve wet lab techniques:
 
   * Well-defined with controlled components, unlike a cell-based system
+
   * Has a clear optimization function: transformable circularized DNA made from a fixed amount of linear DNA inputs
+
   * Relatively fast experimental cycles (1-2 days)
+
   * High-dimensional design space that requires mechanistic reasoning to improve: optimal buffers, reagents, and temperatures are all interdependent
+
 
 
 
@@ -109,12 +121,6 @@ Notably, the model proposed a new enzymatic procedure, which the model called Re
 
 Baseline HiFiRound 1Round 2Round 3Round 4Round 5Baseline transformation protocolHiFi + T7 transformationCombined final protocol
 
-20 uL reaction volume  
-100 ng pUC19 vector, HindIII/KpnI-digested  
-64.3 ng Monster GFP insert, DpnI-digested PCR amplicon  
-10 μL NEBuilder 2x HiFi DNA Assembly Master Mix  
-50C - 30 min; 4C hold
-
 On the transformation side, the most effective modification proved unexpectedly simple: pelleting the cells (spinning them down in a centrifuge so they collect at the bottom of the tube), removing half of the supplied volume, and resuspending the cells before adding DNA, all at 4°C. While high-efficiency chemically competent cells are typically considered fragile, the cells tolerated concentration well and the increased molecular collisions boosted transformation efficiency substantially (>30-fold on final validation). 
 
 ## A novel improvement to homology-based cloning
@@ -128,9 +134,13 @@ Gibson assembly works by giving pieces of DNA matching “sticky” ends so that
 In summary, we hypothesize that the improved performance is mediated via the following mechanism:
 
   * Gp32 coats non-annealed single-stranded DNA (ssDNA) tails, removing secondary structure
+
   * RecA, normally inhibited by structure, invades from the 3’ and displaces the gp32 filament
+
   * RecA mediates a [_ssDNA:ssDNA homology search_ ⁠(opens in a new window)](<https://www.pnas.org/doi/10.1073/pnas.82.2.297>), driving annealing
+
   * A return to 50°C displaces both the recA and the gp32 filaments, allowing polymerase and ligase to complete the reaction.
+
 
 
 
@@ -141,7 +151,9 @@ To test the underlying mechanism, we separate out the two new enzymes in the rea
 The development RAPF-HiFi suggests that GPT‑5 is capable of complex, multi-dimensional reasoning:
 
   * [_RecA is inhibited by DNA structure_ ⁠(opens in a new window)](<https://www.pnas.org/doi/10.1073/pnas.151242898>), and it’s notable that the model introduced two synergistic modifications at once: add RecA, and complemented it with gp32 to remove DNA secondary structure.
+
   * The natural partner to _E. coli_ RecA is _E. coli_ single-stranded binding protein (SSB). SSB performs a similar role to gp32 during genome replication, recombination, and repair. However, _E. coli_ SSB does not spontaneously fall off the DNA fast enough for RecA filament growth, with the [_RecFOR complex promoting RecA nucleation at SSB filament in vivo_ ⁠(opens in a new window)](<https://www.sciencedirect.com/science/article/pii/S1097276503001886>). SSB binds as a stable tetramer with [_extremely slow off-rates_ ⁠(opens in a new window)](<https://pubs.acs.org/doi/10.1021/bi020122z>). By contrast, gp32 filament is [_more dynamic_ ⁠(opens in a new window)](<https://www.sciencedirect.com/science/article/pii/S0022283624001396>), allowing for RecA displacement. 
+
 
 
 
@@ -186,15 +198,17 @@ As we work to accelerate scientific progress safely and responsibly, we also see
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![MedChemBench: Benchmarking AI for medicinal chemistry — Cover](https://images.ctfassets.net/kftzwdyauwt9/4GWchdof3kw2l5OtMIvGt4/56144e08b813d6af76ae93adc2cefc1b/introducing-medchembench-cover.png?w=3840&q=90&fm=webp)
 
-![Pacing model development in an era of cyber-critical capabilities — Card image](https://images.ctfassets.net/kftzwdyauwt9/3tUOfo4E1xZComoOiRjHJm/51c532f25dd4062f92bff0e41ea00c3c/index-pacing-model-development-cyber-capabilities-dark-cover.png?w=3840&q=90&fm=webp)
+[MedChemBench: Benchmarking AI for medicinal chemistryResearchNov 20, 2026](</index/introducing-medchembench/>)
 
-[Pacing model development in an era of cyber-critical capabilitiesCompanyAug 18, 2026](</index/pacing-model-development-cyber-capabilities/>)
+![A softly textured blue and turquoise gradient.](https://images.ctfassets.net/kftzwdyauwt9/3q9FXuH69IDGjPgpzj2Ayv/95477fdeea31ffb7eae01ec1c191b1f0/research-acceleration-the-jagged-frontier-of-rsi-cover.png)
 
-![math-breakthroughs art-card 1x1](https://images.ctfassets.net/kftzwdyauwt9/2zkd5RIOug4FcEj62mdSF4/3ea9e19c0456289c69f0d839cc929cb2/math-breakthroughs_art-card_1x1.png?w=3840&q=90&fm=webp)
+[Research acceleration: The jagged frontierResearchNov 18, 2026](</index/research-acceleration-jagged-frontier/>)
 
-[Ten advances in mathematics and theoretical computer sciencePublicationAug 1, 2026](</index/ten-advances-in-mathematics/>)
+![Advancing chip design with OpenAI models — article card](https://images.ctfassets.net/kftzwdyauwt9/26PM7LFgxizTM4FHqNoROC/edaf9f939eb1f1b834bc9f4007e199aa/advancing-chip-design-cover.png?w=3840&q=90&fm=webp)
+
+[Advancing chip design with OpenAI modelsResearchNov 18, 2026](</index/advancing-chip-design-with-our-models/>)
 
 Research
 
@@ -206,15 +220,15 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -227,7 +241,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -245,6 +260,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -253,8 +269,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -273,6 +289,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -300,3 +317,9 @@ Terms & Policies
 OpenAI © 2015–2026Your privacy choices
 
 EnglishUnited States
+
+20 uL reaction volume  
+100 ng pUC19 vector, HindIII/KpnI-digested  
+64.3 ng Monster GFP insert, DpnI-digested PCR amplicon  
+10 μL NEBuilder 2x HiFi DNA Assembly Master Mix  
+50C - 30 min; 4C hold

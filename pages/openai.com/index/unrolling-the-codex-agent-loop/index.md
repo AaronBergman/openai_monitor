@@ -32,27 +32,39 @@ January 23, 2026
 
 # Unrolling the Codex agent loop
 
-By Michael Bolin, Member of the Technical Staff
+By Michael Bolin, Member of Technical Staff
 
-Loading…
+Share
 
 The agent loop
 
   * The agent loop
+
   * Model inference
+
     * Building the initial prompt
+
     * The first turn
+
     * Performance considerations
+
   * Coming next
+
 
 
 
   * The agent loop
+
   * Model inference
+
     * Building the initial prompt
+
     * The first turn
+
     * Performance considerations
+
   * Coming next
+
 
 
 
@@ -350,7 +362,7 @@ Finally, the `input` field of the JSON payload is a list of items. Codex [_inser
 
 The message is built from a template where the key pieces of content come from snippets of Markdown bundled into the Codex CLI, such as [`_workspace_write.md_` ⁠(opens in a new window)](<https://github.com/openai/codex/blob/1fc72c647fd52e3e73d4309c3b568d4d5fe012b5/codex-rs/protocol/src/prompts/permissions/sandbox_mode/workspace_write.md>) and [`_on_request.md_` ⁠(opens in a new window)](<https://github.com/openai/codex/blob/1fc72c647fd52e3e73d4309c3b568d4d5fe012b5/codex-rs/protocol/src/prompts/permissions/approval_policy/on_request.md>):
 
-#### Plain Text
+#### Plain text
 
 `
     
@@ -398,7 +410,7 @@ The message is built from a template where the key pieces of content come from s
 
 4\. A message with `role=user` that describes the local environment in which the agent is currently operating. This [_specifies the current working directory and the user’s shell_ ⁠(opens in a new window)](<https://github.com/openai/codex/blob/99f47d6e9a3546c14c43af99c7a58fa6bd130548/codex-rs/core/src/environment_context.rs#L51-L71>):
 
-#### Plain Text
+#### Plain text
 
 `
     
@@ -486,7 +498,7 @@ Now that we have our prompt, we are ready to sample the model.
 
 This HTTP request to the Responses API initiates the first “turn” of a conversation in Codex. The server replies with a Server-Sent Events ([_SSE_ ⁠(opens in a new window)](<https://en.wikipedia.org/wiki/Server-sent_events>)) stream. The `data` of each event is a JSON payload with a `"type"` that starts with `"response"`, which could be something like this (a full list of events can be found in our [_API docs_ ⁠(opens in a new window)](<https://platform.openai.com/docs/api-reference/responses-streaming>)):
 
-#### Plain Text
+#### Plain text
 
 `
     
@@ -628,7 +640,7 @@ In particular, note how the old prompt _is an exact prefix_ of the new prompt. T
 
 Looking back at our first diagram of the agent loop, we see that there could be many iterations between inference and tool calling. The prompt may continue to grow until we finally receive an assistant message, indicating the end of the turn:
 
-#### Plain Text
+#### Plain text
 
 `
     
@@ -811,17 +823,17 @@ Special thanks to the entire team that built the Codex CLI.
 
 [View all](</news/>)
 
-![Scaling Storage for 1 Billion ChatGPT Users \(Part I\) card image](https://images.ctfassets.net/kftzwdyauwt9/2X23NOb0P4V1KDzUBkeNpl/888204b45a1c84ddfa24c9ed31111a9c/OAI_HabitatPT1_Art_Card_1x1.png?w=3840&q=90&fm=webp)
+![Performance Factory — Art card](https://images.ctfassets.net/kftzwdyauwt9/iYpBFP2nteJOaNG1v5Rrp/e0eb5dbefa86d133c3392df5983e45a3/performance-factory-cover.png?w=3840&q=90&fm=webp)
 
-[Rapidly scaling online storage to serve over 1 billion ChatGPT usersEngineeringSep 11, 2026](</index/scaling-storage-one-billion-users-part-one/>)
+[How OpenAI’s Performance Factory keeps ChatGPT fastEngineeringNov 19, 2026](</index/how-openai-performance-factory-keeps-chatgpt-fast/>)
 
-![Jalapeño inference — Art Card](https://images.ctfassets.net/kftzwdyauwt9/26K8mLbrpbaDvoFY0NrE04/8e4ad0b3f28042c22d6d5130bd4f4019/jalapeno-art-card.png?w=3840&q=90&fm=webp)
+![Inside the Codex sandbox — art card](https://images.ctfassets.net/kftzwdyauwt9/17rE7b6kMUdw2yIiz0HMiL/55db38c36cab045cc6b9b67093560f14/inside-the-codex-sandbox-art-card.png?w=3840&q=90&fm=webp)
 
-[Jalapeño’s first results show industry-leading speed and efficiency in AI inferenceEngineeringAug 25, 2026](</index/jalapeno-first-results/>)
+[Inside the Codex sandboxEngineeringNov 18, 2026](</index/inside-the-codex-sandbox/>)
 
-![Continuous voice interaction with GPT Live - art card](https://images.ctfassets.net/kftzwdyauwt9/3PyfDzfjOozLbJnaZIkRLD/6aef080bb4e7d6a6b8a6dc23436848db/gpt-live-art-card.png?w=3840&q=90&fm=webp)
+![Scaling Git at OpenAI — art card](https://images.ctfassets.net/kftzwdyauwt9/6G64B5haCxDuphl2iqwZ1N/4f8d319293f5e5e98b319e01b4fbdf59/scaling-git-at-openai-art-card.png?w=3840&q=90&fm=webp)
 
-[Continuous voice interaction with GPT LiveEngineeringAug 3, 2026](</index/continuous-voice-interaction-with-gpt-live/>)
+[Scaling Git at OpenAIEngineeringNov 2, 2026](</index/scaling-git-at-openai/>)
 
 Research
 
@@ -833,16 +845,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -855,7 +866,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -882,8 +894,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -902,6 +914,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
