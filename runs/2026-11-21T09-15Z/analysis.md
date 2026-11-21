@@ -1,7 +1,7 @@
 # Run 2026-11-21T09-15Z
 
 - **Sitemap fetch time (observed):** 2026-11-21T09:16:35Z. Page fetches: 2026-11-21 ~09:20–09:45Z.
-- **Baseline:** 2026-09-28T09-17Z — **54 days earlier**. The routine did not run between Sep 29 and Nov 20, so this run is a catch-up: it can say *what* changed over those eight weeks but not *on which day* each change appeared in the sitemap. Every `first_seen` recorded today is an upper bound.
+- **Baseline:** 2026-09-28T09-17Z — **54 days earlier**. The routine did run daily in between, but those runs exist only as unmerged draft PRs (#148–#200), each diffed against the same Sep 28 baseline on `main`. This run therefore reports the cumulative change over eight weeks: it can say *what* changed but not *on which day* each change appeared in the sitemap (the day-level record is in those PRs). Every `first_seen` recorded today is an upper bound.
 - **Totals:** 2,315 URLs (was 1,985) in 45 sub-sitemaps (was 42). 362 added, 1,720 `<lastmod>` changed, 32 removed.
 - **Fetch failures:** none. All 2,082 added/updated pages were fetched through `tools/html_to_md.py`'s curl-cffi path and passed the sanity check (smallest: `/contact-sales/`, 712 chars).
 - **How "real" changes were separated from noise:** almost every one of the 1,720 refetched pages differs from its prior snapshot because of a sitewide footer/nav change (below). After stripping lines that changed identically on 12+ pages and news-card/image lines, 457 pages retained some text difference; those were reviewed, and many of them are re-rendering only (same text, different link/whitespace formatting).
@@ -9,7 +9,7 @@
 
 ## 1. Anomalies
 
-1. **54-day observation gap (ours, not theirs).** Backdating checks are weakened: no new URL claims a `<lastmod>` earlier than 2026-10-09, i.e. none predates the previous run, so nothing is provably backdated — but a page first published in early October is indistinguishable here from one published yesterday.
+1. **54-day-old baseline (ours, not theirs): 53 intermediate runs are unmerged.** Backdating checks are weakened: no new URL claims a `<lastmod>` earlier than 2026-10-09, i.e. none predates the previous run, so nothing is provably backdated — but a page first published in early October is indistinguishable here from one published yesterday.
 2. **73 of 362 new URLs carry no `<lastmod>` at all.** This includes the three model-launch posts (`/index/introducing-gpt-6-1-sol/`, `/index/introducing-gpt-6-1-terra/`, `/index/introducing-gpt-6-2-astra-sol/`), `/index/research-acceleration-jagged-frontier/`, the entire new `/safety-alignment/` section (56 URLs) and 7 `/supply/product/` items. OpenAI makes no modification claim for these, so future edits to them will not be detectable from the sitemap alone.
 3. **Pages newly in the sitemap whose printed dates long predate their first appearance.** The `/safety-alignment/` research posts print dates from **Dec 1, 2025** to Nov 12, 2026, and the misalignment reports print "First posted" dates from Sep 16, 2026 — but none of these URLs was in any snapshot before today. Links inside the new pages point to `alignment.openai.com`, so the content evidently lived on a separate host first and was brought under openai.com. Similarly `/business/customer-stories/blue-j/` prints Aug 21, 2025 (it is the old `/index/blue-j/` moved).
 4. **`<lastmod>` dropped:** `/index/advancing-independent-research-ai-alignment/` claimed `2026-09-25T19:18:24.670Z` last run and now has no `<lastmod>`.
