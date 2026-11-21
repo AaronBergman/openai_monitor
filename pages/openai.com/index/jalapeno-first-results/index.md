@@ -32,43 +32,69 @@ August 25, 2026
 
 # Jalapeño’s first results show industry-leading speed and efficiency in AI inference
 
-Loading…
-
 Share
 
 How we measured Jalapeño’s performance
 
   * How we measured Jalapeño’s performance
+
     * Jalapeño widens the lead at previous-best TBT
+
     * Jalapeño delivers more tokens per user
+
     * Jalapeño delivers more throughput per kilowatt
+
   * Architecting for speed and efficiency within a single chip
+
   * We used AI to design the chip, and designed the chip so AI could program it
+
   * The path ahead for efficient, ultra-fast inference
+
   * Appendix
+
     * Jalapeño is pareto frontier at GPT‑OSS 120B
+
     * Jalapeño leads across GPT-OSS operating points
+
     * Jalapeño is pareto frontier at DeepSeek R1 670B
+
     * Jalapeño leads across DeepSeek R1 operating points
+
     * Jalapeño is pareto frontier at Kimi K2.5 1T
+
     * Jalapeño leads across Kimi K2.5 operating points
+
 
 
 
   * How we measured Jalapeño’s performance
+
     * Jalapeño widens the lead at previous-best TBT
+
     * Jalapeño delivers more tokens per user
+
     * Jalapeño delivers more throughput per kilowatt
+
   * Architecting for speed and efficiency within a single chip
+
   * We used AI to design the chip, and designed the chip so AI could program it
+
   * The path ahead for efficient, ultra-fast inference
+
   * Appendix
+
     * Jalapeño is pareto frontier at GPT‑OSS 120B
+
     * Jalapeño leads across GPT-OSS operating points
+
     * Jalapeño is pareto frontier at DeepSeek R1 670B
+
     * Jalapeño leads across DeepSeek R1 operating points
+
     * Jalapeño is pareto frontier at Kimi K2.5 1T
+
     * Jalapeño leads across Kimi K2.5 operating points
+
 
 
 
@@ -255,17 +281,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
+![Performance Factory — Art card](https://images.ctfassets.net/kftzwdyauwt9/iYpBFP2nteJOaNG1v5Rrp/e0eb5dbefa86d133c3392df5983e45a3/performance-factory-cover.png?w=3840&q=90&fm=webp)
 
-[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
+[How OpenAI’s Performance Factory keeps ChatGPT fastEngineeringNov 19, 2026](</index/how-openai-performance-factory-keeps-chatgpt-fast/>)
 
-![Expanding OpenAI Academy with new learning paths — cover](https://images.ctfassets.net/kftzwdyauwt9/45fB7Wzg6PiQPzz8V49LVr/ef443412e9d5f03f9d5ffcc79aefe18e/expanding-openai-academy-with-new-learning-paths-cover.png?w=3840&q=90&fm=webp)
+![Inside the Codex sandbox — art card](https://images.ctfassets.net/kftzwdyauwt9/17rE7b6kMUdw2yIiz0HMiL/55db38c36cab045cc6b9b67093560f14/inside-the-codex-sandbox-art-card.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI Academy with new learning pathsCompanySep 21, 2026](</index/expanding-openai-academy-with-new-learning-paths/>)
+[Inside the Codex sandboxEngineeringNov 18, 2026](</index/inside-the-codex-sandbox/>)
 
-![Introducing the Australian Youth Safety Blueprint — cover](https://images.ctfassets.net/kftzwdyauwt9/3hSPxVZReGirTIsDaGBwaN/6a402fc967b16c7a33e509a2bea2bc44/introducing-the-australian-youth-safety-blueprint-cover.png?w=3840&q=90&fm=webp)
+![Le Groupe Figaro and OpenAI announce partnership — cover](https://images.ctfassets.net/kftzwdyauwt9/4SnfEKjmVoRPgSgiCy8IzI/1f454e874489f6c318c078766456ac70/le-groupe-figaro-and-openai-announce-partnership-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing the Australian Youth Safety BlueprintCompanySep 18, 2026](</index/australian-youth-safety-blueprint/>)
+[Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPTCompanyNov 18, 2026](</index/le-groupe-figaro-and-openai-announce-partnership/>)
 
 Research
 
@@ -277,16 +303,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -299,7 +324,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -326,8 +352,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -346,6 +372,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

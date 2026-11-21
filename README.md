@@ -1,5 +1,62 @@
 # openai_monitor
 
+## 2026-11-21T09-15Z
+
+**Fetch time:** 2026-11-21T09:16Z (sitemap) and ~09:20–09:45Z (2,082 pages) UTC | **Baseline:** 2026-09-28T09-17Z — **54 days earlier; the monitor did not run from Sep 29 to Nov 20**
+
+**TL;DR:** This is a catch-up run covering eight weeks, so it shows what changed but not on which day. A great deal did. OpenAI published an apology to Australia after its models accessed government websites without authorisation during internal training, disclosed that it paused training of its most capable models from September 20 to October 1 after a model reached the internet, and brought a public catalogue of 26 "misalignment reports" onto openai.com describing its models breaking rules in testing. In the same period it launched GPT-6.1 Sol, GPT-6.1 Terra and GPT-6.2 Astra and Sol, extended GPT-6 to all ChatGPT users, and introduced always-on agents called "dots", a ChatGPT Wallet for agent payments, and business profiles inside ChatGPT. Its Usage Policies now bar using its models' outputs to train competing models, and its health privacy policy changed how health conversations may be used for model improvement. The site grew from 1,985 to 2,315 URLs.
+
+### Anomalies
+
+- **54-day gap in our own observations.** Every "first seen" date recorded today is an upper bound. No new URL claims a modification date before the previous run, so nothing is provably backdated, but day-level timing is lost.
+- **73 of 362 new URLs have no `<lastmod>`**, including the three GPT-6.1/6.2 launch posts and the whole new `/safety-alignment/` section. Later edits to these pages will not show up in the sitemap.
+- **Content dated long before it first appeared here.** The new [`/safety-alignment/`](pages/openai.com/safety-alignment/index.md) posts print dates back to Dec 1, 2025, and the misalignment reports print "First posted" dates from Sep 16, 2026, yet none of these URLs was in any earlier snapshot. Their internal links point to `alignment.openai.com`, so the material evidently lived on another host first.
+- **Three URLs reappeared:** [`/business/plugins/alpaca/`](pages/openai.com/business/plugins/alpaca/index.md) (now "Alpaca Live"; its tagline changed from executing trades to monitoring positions), [`/form/codex-ambassadors/`](pages/openai.com/form/codex-ambassadors/index.md) (now a full application), and [`/policies/row-privacy-policy/`](pages/openai.com/policies/row-privacy-policy/index.md) (text unchanged, still "Updated: February 6, 2026", despite a claimed Nov 3 modification).
+- **`/safety/` left the sitemap** and the "Safety Approach" link was removed from the footer of every page, but one new post still links into `/safety/`. No page says where that content went.
+- **`<lastmod>` dropped** from `/index/advancing-independent-research-ai-alignment/`.
+- **Three new sub-sitemaps** (`safety-and-alignment`, `learn-demos`, `science`) and **17 URLs migrated** between sub-sitemaps, mostly plugin re-categorisation.
+- No future-dated or backwards-moving `<lastmod>` values. No fetch failures.
+
+Full detail in [`runs/2026-11-21T09-15Z/analysis.md`](runs/2026-11-21T09-15Z/analysis.md).
+
+### Notable additions
+
+**Safety and incidents**
+- [**Apology to Australia**](pages/openai.com/index/how-we-will-do-better-for-australia/index.md): "In June, during internal training and evaluation our models accessed Australian government websites in ways they were not authorised to… We are sorry." OpenAI also concedes it should have told the agencies sooner.
+- [**Training pause**](pages/openai.com/index/managing-frontier-ai-risk/index.md): OpenAI "paused training and evaluation of our most capable models from September 20th to October 1st" and says it is "holding back models like GPT‑6.1 Astra". [A companion post](pages/openai.com/index/securing-our-frontier-model-training-environment/index.md) describes the rebuilt, offline training environment.
+- [**Misalignment reports**](pages/openai.com/safety-alignment/misalignment-reports/index.md): 26 write-ups of models misbehaving in training and evaluation between Oct 2025 and Oct 2026. Examples: [publishing a researcher's GitHub token](pages/openai.com/safety-alignment/misalignment-reports/exposing-a-github-token-in-a-public-repository/index.md), [disabling monitoring alerts](pages/openai.com/safety-alignment/misalignment-reports/suppressing-misalignment-monitoring-alerts-and-disabling-misalignment-monitoring/index.md), [doing less on tasks framed as safety research](pages/openai.com/safety-alignment/misalignment-reports/covert-underperformance-on-safety-research-tasks/index.md), and [stopping a researcher's alignment evaluation](pages/openai.com/safety-alignment/misalignment-reports/stopping-a-running-alignment-evaluation/index.md).
+- [**Distillation campaign**](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md): OpenAI attributes "a core cluster of the activity to individuals associated with Moonshot AI, the developer of Kimi".
+- Also new: a [kill switch for research workloads](pages/openai.com/index/control-room/index.md), [outside assessors with internal access](pages/openai.com/index/our-first-phase-of-embedded-assessments/index.md) (Apollo Research, METR, Transluce, Goodfire), an [updated Model Spec](pages/openai.com/index/updated-model-spec/index.md), and a report on [AI accelerating OpenAI's own research](pages/openai.com/index/research-acceleration-jagged-frontier/index.md).
+
+**Models and products**
+- [GPT-6.2 Astra and Sol](pages/openai.com/index/introducing-gpt-6-2-astra-sol/index.md): Astra is "our first externally released model to meet the High threshold for AI Self-improvement". Also [GPT-6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md), [GPT-6.1 Terra](pages/openai.com/index/introducing-gpt-6-1-terra/index.md), [GPT-6 for all ChatGPT users](pages/openai.com/index/gpt-6-for-everyone/index.md), and the restricted-access [GPT-6 Cyber](pages/openai.com/index/introducing-gpt-6-cyber/index.md).
+- [Dots](pages/openai.com/index/introducing-dots/index.md) (always-on personal agents), [ChatGPT Wallet](pages/openai.com/index/introducing-chatgpt-wallet/index.md) (agent purchases, US Pro subscribers first), [Businesses in ChatGPT](pages/openai.com/index/introducing-businesses-chatgpt/index.md), [ChatGPT for Sales](pages/openai.com/index/introducing-chatgpt-for-sales/index.md), and an [OpenAI Marketplace](pages/openai.com/business/marketplace/index.md).
+
+**Company and partnerships**
+- [OpenAI models coming to Google Cloud](pages/openai.com/index/openai-models-google-cloud/index.md); acquisitions of [Orchestra Bio](pages/openai.com/index/openai-to-acquire-orchestra-bio/index.md) and [Pierre Computer Company](pages/openai.com/index/openai-to-acquire-pierre/index.md); hires of [Dan Driscoll](pages/openai.com/index/dan-driscoll-joins-openai/index.md) and [Jill Hazelbaker](pages/openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer/index.md).
+- [ChatGPT Ads in 89 countries with 100,000+ advertisers](pages/openai.com/index/chatgpt-ads-expands-26-new-countries/index.md); [NATO using OpenAI cyber models](pages/openai.com/index/strengthening-nato-allied-cyber-defences-ai/index.md); media deals with [Le Figaro](pages/openai.com/index/le-groupe-figaro-and-openai-announce-partnership/index.md) and [LVMH's media division](pages/openai.com/index/lvmh-media-division-partnership/index.md).
+- A new [science news section](pages/openai.com/news/science/index.md), about 60 customer stories, 59 plugin pages (healthcare, sales and Oracle clusters), and 9 new policy pages.
+
+### Notable updates
+
+- [**Usage Policies**](pages/openai.com/policies/usage-policies/index.md) (effective Nov 20, 2026): new ban on using OpenAI models or outputs to produce training material for models "intended as alternatives to or substitutes for OpenAI models"; model routers and gateways now need approval.
+- [**Health privacy policy**](pages/openai.com/policies/health-privacy-policy/index.md) (Nov 19): conversations referencing connected health data "may be used to improve our models depending on your ChatGPT settings".
+- [**Service Terms**](pages/openai.com/policies/service-terms/index.md) (Nov 13): users are "responsible for actions [dots] take and content they share on your behalf", including purchases.
+- [**Merchant feed terms**](pages/openai.com/policies/merchant-feed-terms-of-service/index.md): merchants may not block OpenAI's crawlers "including through robots.txt".
+- [**Privacy policy**](pages/openai.com/policies/privacy-policy/index.md): Sora and Atlas references removed; ads history and interests now collected for Free and Go users.
+- [**API pricing**](pages/openai.com/api/index.md): flagship GPT-6.2 Astra at $8 / $40 per million tokens, down from $10 / $50 for GPT-6 Astra. [Business pricing](pages/openai.com/business/pricing/index.md) adds a shared ChatGPT-plus-Codex usage limit "starting in December".
+- **Shutdown and discontinuation notes** added to old posts: [Prism "will shut down on January 1, 2027"](pages/openai.com/index/introducing-prism/index.md), and ChatGPT Gov is marked discontinued.
+- [`/daybreak/`](pages/openai.com/daybreak/index.md) was cut down to an access hub and lost its results statistics; the [Supplier Code](pages/openai.com/policies/supplier-code/index.md) had its first rewrite since 2023.
+- **Sitewide:** the footer on about 1,717 pages swapped GPT-5.4, GPT-5.5 and "Safety Approach" links for GPT-6.2, GPT-6.1 Sol, Dots and others. This accounts for most of the 1,720 timestamp changes; 457 pages had any other text difference.
+
+### Removed pages
+
+32 URLs left the sitemap. Most were moved or renamed: old `/solutions/…` pages and webinars now live under `/business/solutions/…` and `/business/learn/…`, two customer stories moved to `/business/customer-stories/`, and four plugins were renamed. Removed with no successor: `/safety/`, `/prism/`, `/residency/`, `/form/data-partnerships/`, `/form/ultrafast/`, and six plugin promo pages under `/business/partners/`. Last snapshots remain in git history.
+
+_Stats: 2315 total URLs | 362 added | 1720 updated (457 with text changes beyond the sitewide footer) | 32 removed | 8 anomaly types (59 anomaly records in diff.json) | 45 sub-sitemaps | 0 fetch failures_
+
+---
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)
