@@ -32,8 +32,6 @@ January 27, 2026
 
 # PVH reimagines the future of fashion with OpenAI
 
-Loading…
-
 Share
 
 PVH Corp., the global apparel group behind iconic brands like _Calvin Klein_ and _TOMMY HILFIGER_ , announced it will adopt ChatGPT Enterprise to empower employees across its organization and reimagine how fashion incorporates a data and insights-powered approach to designing, planning, and delivering at a global scale.
@@ -43,8 +41,11 @@ PVH Corp., the global apparel group behind iconic brands like _Calvin Klein_ and
 With ChatGPT Enterprise, PVH will place OpenAI frontier models throughout its global operations and entire value chain—supporting areas like early-stage product creation to demand planning, inventory optimization, and consumer engagement. Employees across the company will gain access to advanced AI capabilities that enhance creativity, efficiency, and decision-making at every stage:
 
   * **Product and design insights:** AI to help teams explore ideas more freely, uncover insights from historical data and emerging trends, and move seamlessly from concept to creation.
+
   * **Planning and supply chain:** Intelligent tools to enable smarter forecasting, more precise inventory management, and quicker responses to shifts in demand.
+
   * **Marketing and retail:** AI to support more personalized consumer engagement, creating interactions that are timely, relevant, and true to each brand’s identity.
+
 
 
 
@@ -79,17 +80,17 @@ OpenAI
 
 [View all](</news/>)
 
-![OpenAI letter to Governor Abbott — card image](https://images.ctfassets.net/kftzwdyauwt9/58lvLf4ld7rZS9mIIvma9y/be162b8bd2d1ab08c95d666d9a161b04/Frame__18_.png?w=3840&q=90&fm=webp)
+![Strengthening NATO and allied cyber defences with AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/mkN5DS8fsUZdCbrtXU5CJ/7ffd117eefcd930dd8a0dc4c82721d99/strengthening-nato-and-allied-cyber-defences-with-ai-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI’s letter on responsible AI infrastructure in TexasGlobal AffairsAug 10, 2026](</index/responsible-ai-infrastructure-texas/>)
+[Strengthening NATO and allied cyber defenses with AIGlobal AffairsNov 17, 2026](</index/strengthening-nato-allied-cyber-defences-ai/>)
 
-![Advancing responsible AI across Europe — card](https://images.ctfassets.net/kftzwdyauwt9/1ZPK8n0N6mvnSq50i6b1zZ/9229a595a2f8fea9d0189ce9aa2f634b/card.png?w=3840&q=90&fm=webp)
+![Introducing OpenAI for Chile — Cover](https://images.ctfassets.net/kftzwdyauwt9/5c0RdO1eMpASEH79fHuJkt/2d8c656bd772ba036a6049d7cf9a2f0e/introducing-openai-for-chile-cover.png?w=3840&q=90&fm=webp)
 
-[Advancing responsible AI across EuropeGlobal AffairsJul 31, 2026](</index/advancing-responsible-ai-across-europe/>)
+[Introducing OpenAI for ChileGlobal AffairsNov 17, 2026](</index/introducing-openai-for-chile/>)
 
-![effingham county 1x1](https://images.ctfassets.net/kftzwdyauwt9/3f1fyaaSZELql3zECUImW3/1733a5ee7f07da894b993dcff75bea66/effingham_county_1x1.png?w=3840&q=90&fm=webp)
+![The King’s Trust and OpenAI partnership — Cover](https://images.ctfassets.net/kftzwdyauwt9/7j93AvZKxba2iNSQCVuVP8/911c09306e272d78d8139431c58d8ac1/the-king-s-trust-and-openai-launch-1m-partnership-cover.png?w=3840&q=90&fm=webp)
 
-[Building AI infrastructure with the Effingham County communityGlobal AffairsJul 22, 2026](</index/building-ai-infrastructure-with-the-effingham-county-community/>)
+[The King’s Trust and OpenAI launch £1m partnershipGlobal AffairsNov 16, 2026](</index/the-kings-trust-and-openai/>)
 
 Research
 
@@ -101,15 +102,15 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -122,7 +123,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -140,6 +142,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -148,8 +151,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -168,6 +171,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

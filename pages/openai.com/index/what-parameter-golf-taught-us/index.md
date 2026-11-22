@@ -34,25 +34,33 @@ May 12, 2026
 
 Lessons from 1,000+ participants, 2,000+ submissions, and an open machine learning challenge shaped by coding agents.
 
-Loading…
-
 Share
 
 Technical impressions
 
   * Technical impressions
+
     * Record track
+
     * Nonrecord track
+
   * Takeaways
+
   * What’s next?
+
 
 
 
   * Technical impressions
+
     * Record track
+
     * Nonrecord track
+
   * Takeaways
+
   * What’s next?
+
 
 
 
@@ -80,7 +88,7 @@ Some of the strongest results came from careful tuning of existing components.
 
 **Submission**| **Contributor**| **Technique**| **Why it mattered**  
 ---|---|---|---  
-[#60](<https://github.com/openai/parameter-golf/pull/60>)| @notapplica| Combined prior wins from [#50](<https://github.com/openai/parameter-golf/pull/50>), [#42](<https://github.com/openai/parameter-golf/pull/42>), and likely [#39](<https://github.com/openai/parameter-golf/pull/39>), then made a deeper model work with Muon weight decay, spectral embedding initialization, residual-mix scheduling, and compiled evaluation.| A strong example of disciplined leaderboard work: identifying which existing improvements matter and combining them cleanly.  
+[#60(opens in a new window)](<https://github.com/openai/parameter-golf/pull/60>)| @notapplica| Combined prior wins from [#50(opens in a new window)](<https://github.com/openai/parameter-golf/pull/50>), [#42(opens in a new window)](<https://github.com/openai/parameter-golf/pull/42>), and likely [#39(opens in a new window)](<https://github.com/openai/parameter-golf/pull/39>), then made a deeper model work with Muon weight decay, spectral embedding initialization, residual-mix scheduling, and compiled evaluation.| A strong example of disciplined leaderboard work: identifying which existing improvements matter and combining them cleanly.  
   
 _**Quantization**_
 
@@ -88,8 +96,8 @@ Several submissions pushed hard on compression and export.
 
 **Submission**| **Contributor**| **Technique**| **Why it mattered**  
 ---|---|---|---  
-[#414](<https://github.com/openai/parameter-golf/pull/414>)| @signalrush| Used GPTQ-lite to quantize weights after training.| The first leaderboard submission to successfully use GPTQ-lite, leading to better evaluation.  
-[#1060](<https://github.com/openai/parameter-golf/pull/1060>)| @dexhunter| Built on [#634](<https://github.com/openai/parameter-golf/pull/634>) by @raahilshah to successfully use full Hessian GPTQ.| Extended earlier quantization work into a stronger compression path.  
+[#414(opens in a new window)](<https://github.com/openai/parameter-golf/pull/414>)| @signalrush| Used GPTQ-lite to quantize weights after training.| The first leaderboard submission to successfully use GPTQ-lite, leading to better evaluation.  
+[#1060(opens in a new window)](<https://github.com/openai/parameter-golf/pull/1060>)| @dexhunter| Built on [#634(opens in a new window)](<https://github.com/openai/parameter-golf/pull/634>) by @raahilshah to successfully use full Hessian GPTQ.| Extended earlier quantization work into a stronger compression path.  
   
 _**Test-time and evaluation strategies**_
 
@@ -97,8 +105,8 @@ Some submissions pushed the boundary between model improvement and evaluation st
 
 **Submission**| **Contributor**| **Technique**| **Why it mattered**  
 ---|---|---|---  
-[#77](<https://github.com/openai/parameter-golf/pull/77>)| @samacqua| Used score-first, per-document LoRA test-time training: score first, adapt only on already-scored chunks, and reset at document boundaries.| Pushed the boundary between model improvement and evaluation strategy while staying reviewable under the rules.  
-[#1019](<https://github.com/openai/parameter-golf/pull/1019>)| @abaybektursun| Used self-generated GPTQ calibration: generate calibration text from the trained model, then build GPTQ Hessians from those activations.| A creative calibration strategy that required careful review from organizers.  
+[#77(opens in a new window)](<https://github.com/openai/parameter-golf/pull/77>)| @samacqua| Used score-first, per-document LoRA test-time training: score first, adapt only on already-scored chunks, and reset at document boundaries.| Pushed the boundary between model improvement and evaluation strategy while staying reviewable under the rules.  
+[#1019(opens in a new window)](<https://github.com/openai/parameter-golf/pull/1019>)| @abaybektursun| Used self-generated GPTQ calibration: generate calibration text from the trained model, then build GPTQ Hessians from those activations.| A creative calibration strategy that required careful review from organizers.  
   
 _**New modeling and data ideas**_
 
@@ -106,10 +114,10 @@ A few submissions introduced modeling or data ideas that were especially creativ
 
 **Submission**| **Contributor**| **Technique**| **Why it mattered**  
 ---|---|---|---  
-[#1729](<https://github.com/openai/parameter-golf/pull/1729>)| @romeerp| Introduced the CaseOps tokenizer: lossless capitalization operator tokens with original-byte BPB sidecar accounting.| A creative tokenizer and data-representation idea.  
-[#265](<https://github.com/openai/parameter-golf/pull/265>)| @unnir| Introduced XSA, an efficient partial Exclusive Self Attention approach with GQA-aware grouped views.| Brought an efficient attention variant into the challenge.  
-[#65](<https://github.com/openai/parameter-golf/pull/65>)| @aquariouseworkman| Introduced SmearGate and BigramHash: a learned previous-token embedding blend plus adjacent-token-pair hash features.| Added new feature mechanisms from scratch.  
-[#1204](<https://github.com/openai/parameter-golf/pull/1204>)| @msisovic| Introduced mini depth recurrence: repeated layers 4 and 5, delayed recurrence until mid-training, and partially untied the repeated MLPs.| The first accepted leaderboard row to make recurrent layers work effectively.  
+[#1729(opens in a new window)](<https://github.com/openai/parameter-golf/pull/1729>)| @romeerp| Introduced the CaseOps tokenizer: lossless capitalization operator tokens with original-byte BPB sidecar accounting.| A creative tokenizer and data-representation idea.  
+[#265(opens in a new window)](<https://github.com/openai/parameter-golf/pull/265>)| @unnir| Introduced XSA, an efficient partial Exclusive Self Attention approach with GQA-aware grouped views.| Brought an efficient attention variant into the challenge.  
+[#65(opens in a new window)](<https://github.com/openai/parameter-golf/pull/65>)| @aquariouseworkman| Introduced SmearGate and BigramHash: a learned previous-token embedding blend plus adjacent-token-pair hash features.| Added new feature mechanisms from scratch.  
+[#1204(opens in a new window)](<https://github.com/openai/parameter-golf/pull/1204>)| @msisovic| Introduced mini depth recurrence: repeated layers 4 and 5, delayed recurrence until mid-training, and partially untied the repeated MLPs.| The first accepted leaderboard row to make recurrent layers work effectively.  
   
 We chose to highlight these nine submissions because they represent the range of results we hoped the challenge would surface. Some participants found wins through careful tuning. Others pushed quantization and low-rank techniques. Some explored edges of the evaluation rules. And several introduced modeling or data ideas, from the literature or from scratch, that produced unexpected gains.
 
@@ -167,17 +175,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![MedChemBench: Benchmarking AI for medicinal chemistry — Cover](https://images.ctfassets.net/kftzwdyauwt9/4GWchdof3kw2l5OtMIvGt4/56144e08b813d6af76ae93adc2cefc1b/introducing-medchembench-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
+[MedChemBench: Benchmarking AI for medicinal chemistryResearchNov 20, 2026](</index/introducing-medchembench/>)
 
-![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
+![A softly textured blue and turquoise gradient.](https://images.ctfassets.net/kftzwdyauwt9/3q9FXuH69IDGjPgpzj2Ayv/95477fdeea31ffb7eae01ec1c191b1f0/research-acceleration-the-jagged-frontier-of-rsi-cover.png)
 
-[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
+[Research acceleration: The jagged frontierResearchNov 18, 2026](</index/research-acceleration-jagged-frontier/>)
 
-![Navier–Stokes solution — art card](https://images.ctfassets.net/kftzwdyauwt9/2VUQZfeF2GtKRitKYdkoLu/cc96d05424afb2c9adcca0734ecdafb1/navier-stokes-art-card.png?w=3840&q=90&fm=webp)
+![Advancing chip design with OpenAI models — article card](https://images.ctfassets.net/kftzwdyauwt9/26PM7LFgxizTM4FHqNoROC/edaf9f939eb1f1b834bc9f4007e199aa/advancing-chip-design-cover.png?w=3840&q=90&fm=webp)
 
-[An OpenAI model proposes a solution to the Navier–Stokes problemResearchSep 8, 2026](</index/navier-stokes-solution/>)
+[Advancing chip design with OpenAI modelsResearchNov 18, 2026](</index/advancing-chip-design-with-our-models/>)
 
 Research
 
@@ -189,16 +197,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -211,7 +218,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -238,8 +246,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -258,6 +266,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

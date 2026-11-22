@@ -32,8 +32,6 @@ Our most capable model, built for all the work businesses need to get done.
 
 ![A dark navy starfield with scattered white and colored stars.](https://images.ctfassets.net/kftzwdyauwt9/Zxpz4Yov4StpjdTz9Vd7e/349311d731fd8637fbf4e20115644c02/videoframe_0.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 Last week we introduced GPT‑6 Astra, the world’s most intelligent and aligned model, now available in ChatGPT Work, Codex, and the API. Astra is state-of-the-art on computer use, browsing, professional work, software engineering, cybersecurity, and science, so teams can take on the most demanding professional work with unmatched speed, accuracy, and judgment.
@@ -152,16 +150,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -174,7 +171,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -201,8 +199,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -221,6 +219,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -253,8 +252,12 @@ EnglishUnited States
 
 Reference file
 
+Loading...
+
 GPT‑6 Astra output
 
- _GPT‑6 Astra creates a slideshow about GPT‑Gaia, a fictional model, using just a few slides from OpenAI’s presentation template, capturing the correct tone and layout throughout. This means you can expect slide decks that are correctly formatted for your business standards._
+Loading...
+
+_GPT‑6 Astra creates a slideshow about GPT‑Gaia, a fictional model, using just a few slides from OpenAI’s presentation template, capturing the correct tone and layout throughout. This means you can expect slide decks that are correctly formatted for your business standards._
 
 _Terminal-Bench 4.0 tests agents on complex terminal-based tasks, including software engineering, system configuration, and data analysis. GPT‑6 Astra reaches a new high at 57.9%, compared with 37.3% for GPT‑5.6 Sol_2 _and 55.8% for Claude Fable 5.1, at approximately 9% and 63% lower estimated API cost per task, respectively._
