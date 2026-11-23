@@ -36,9 +36,35 @@ A new Economic Research paper measuring Codex’s economic potential at the fron
 
 [Read the paper(opens in a new window)](<https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf>)
 
-Loading…
-
 Share
+
+Agents work longer hours on harder tasks
+
+  * Agents work longer hours on harder tasks
+
+  * Adoption continues to move from engineers to the rest of OpenAI
+
+  * Non-developers are the fastest-growing user groups
+
+  * Codex is expanding the horizon of potential productive work
+
+  * What this means for agents’ economic potential
+
+
+
+
+  * Agents work longer hours on harder tasks
+
+  * Adoption continues to move from engineers to the rest of OpenAI
+
+  * Non-developers are the fastest-growing user groups
+
+  * Codex is expanding the horizon of potential productive work
+
+  * What this means for agents’ economic potential
+
+
+
 
 Agentic AI changes the unit of knowledge work from single interactions to delegated, long-horizon tasks. Chatbot interactions are often short and self-contained. Agents can operate independently for minutes or hours while orchestrating tool calls, interacting with environments, and iterating towards solutions. As a result, agents are quickly becoming the most powerful AI tool for work.
 
@@ -127,21 +153,42 @@ These thresholds are model-estimated, so they should be treated as directional r
 
 
 
+## Citation
+    
+    
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9@techreport{openaiecon2026codex,
+      author = {Drew Johnston and David Holtz and Alex Martin Richmond and Christopher Ong and Prasanna Tambe and Aaron Chatterji},
+      title = {The Shift to Agentic {AI}: Evidence from {Codex}},
+      date = {2026-06},
+      year = {2026},
+      institution = {OpenAI},
+      type = {Working paper},
+      url = {https://cdn.openai.com/pdf/5d1e1489-21c0-43e4-9d42-f87efdbf0082/the-shift-to-agentic-ai-evidence-from-codex.pdf},
+    }
+
 ## Keep reading
 
 [View all](</news/>)
 
-![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
+![Abstract coral and orange wallpaper.](https://images.ctfassets.net/kftzwdyauwt9/2XdjFlF0ZNzLOArWC3W5h7/ad44c2e7d9bd6961e8de80666930f244/deploying-daybreak-red-cover.png?w=3840&q=90&fm=webp)
 
-[Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
+[Deploying Daybreak RedGuidesNov 19, 2026](</business/learn/deploying-daybreak-red/>)
 
-![Airbnb widens access to GPT-6 Astra and OpenAI frontier models - card image](https://images.ctfassets.net/kftzwdyauwt9/2prIXE6DtUo7UsJqRAl52K/f8c082ed29505ebfbcff9fe828ccc123/airbnb-widens-access-to-gpt-6-astra-and-openai-frontier-models-cover.png?w=3840&q=90&fm=webp)
+![Le Groupe Figaro and OpenAI announce partnership — cover](https://images.ctfassets.net/kftzwdyauwt9/4SnfEKjmVoRPgSgiCy8IzI/1f454e874489f6c318c078766456ac70/le-groupe-figaro-and-openai-announce-partnership-cover.png?w=3840&q=90&fm=webp)
 
-[Airbnb expands access to GPT-6 AstraCompanySep 23, 2026](</index/airbnb-gpt-6-astra/>)
+[Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPTCompanyNov 18, 2026](</index/le-groupe-figaro-and-openai-announce-partnership/>)
 
-![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
+![Astra for Law leads in legal intelligence: card \(smooth background\)](https://images.ctfassets.net/kftzwdyauwt9/1Hxi3uH1AJ6fUnzQ0erHqG/11f533e3fa6e55246949941ca27888c9/astra-law-legal-intelligence-card-smooth.png?w=3840&q=90&fm=webp)
 
-[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
+[Astra for Law leads in legal intelligenceCompanyNov 17, 2026](</index/astra-law-6-2/>)
 
 Research
 
@@ -153,16 +200,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -175,7 +221,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -202,8 +249,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -222,6 +269,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

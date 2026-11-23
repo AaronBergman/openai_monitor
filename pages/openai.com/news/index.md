@@ -33,6 +33,7 @@ OpenAI
   * [Product](</news/product-releases/>)
   * [Safety](</news/safety-alignment/>)
   * [Engineering](</news/engineering/>)
+  * [Science](</news/science/>)
   * [Security](</news/security/>)
   * [Intelligence Age](</news/intelligence-age/>)
   * [Global Affairs](</news/global-affairs/>)
@@ -52,41 +53,41 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
-![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
+![Perplexity and Intelligence — Cover](https://images.ctfassets.net/kftzwdyauwt9/59nry7GNOkiMyCfrmaFJw6/3dc84144a23b0d65fa06805ae13e6a53/perplexity-and-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-[Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
+[Perplexity and IntelligenceResearchNov 22, 2026](</index/perplexity-and-intelligence/>)
 
-![Sam Altman’s remarks at the United Nations Security Council cover image](https://images.ctfassets.net/kftzwdyauwt9/4O6fFZArVSBeCoNjTFwXXZ/cc5e374a6b62b8f328555f002b3bca49/sam-altman-s-remarks-at-the-united-nations-security-council-cover.png?w=3840&q=90&fm=webp)
+![MedChemBench: Benchmarking AI for medicinal chemistry — Cover](https://images.ctfassets.net/kftzwdyauwt9/4GWchdof3kw2l5OtMIvGt4/56144e08b813d6af76ae93adc2cefc1b/introducing-medchembench-cover.png?w=3840&q=90&fm=webp)
 
-[Sam Altman’s remarks at the United Nations Security CouncilGlobal AffairsSep 23, 2026](</index/sam-altman-un-security-council-remarks/>)
+[MedChemBench: Benchmarking AI for medicinal chemistryResearchNov 20, 2026](</index/introducing-medchembench/>)
 
-![ChatGPT Ads expands to Southeast Asia and Taiwan — cover](https://images.ctfassets.net/kftzwdyauwt9/2LRApkCOWR8QHAX6Sj3Rik/367336096ea9ec8e9623c1f4d6035c9f/chatgpt-ads-expands-to-southeast-asia-and-taiwan-cover.png?w=3840&q=90&fm=webp)
+![Performance Factory — Art card](https://images.ctfassets.net/kftzwdyauwt9/iYpBFP2nteJOaNG1v5Rrp/e0eb5dbefa86d133c3392df5983e45a3/performance-factory-cover.png?w=3840&q=90&fm=webp)
 
-[ChatGPT Ads expands to Southeast Asia and TaiwanProductSep 23, 2026](</index/chatgpt-ads-expands-southeast-asia-taiwan/>)
+[How OpenAI’s Performance Factory keeps ChatGPT fastEngineeringNov 19, 2026](</index/how-openai-performance-factory-keeps-chatgpt-fast/>)
 
-![Airbnb widens access to GPT-6 Astra and OpenAI frontier models - card image](https://images.ctfassets.net/kftzwdyauwt9/2prIXE6DtUo7UsJqRAl52K/f8c082ed29505ebfbcff9fe828ccc123/airbnb-widens-access-to-gpt-6-astra-and-openai-frontier-models-cover.png?w=3840&q=90&fm=webp)
+![The Silent Consensus | Card | Soft Focus](https://images.ctfassets.net/kftzwdyauwt9/40cLJb2v1njK0JUSAQyVLu/225cbe091659a0e229a4d6ba8a1c7277/the-silent-consensus-card-soft-focus-v3.png?w=3840&q=90&fm=webp)
 
-[Airbnb expands access to GPT-6 AstraCompanySep 23, 2026](</index/airbnb-gpt-6-astra/>)
+[The Silent ConsensusIntelligence AgeNov 18, 2026](</index/the-silent-consensus/>)
 
-![Better prompt caching for GPT-6 — Card image](https://images.ctfassets.net/kftzwdyauwt9/72ZKzMh8JgRDfdg4EYRtwY/ee5e406a08b69f00b0beb4ac00270364/7kneoqlc2qh37z1utkmtfk-cover-v1.png?w=3840&q=90&fm=webp)
+![A softly textured blue and turquoise gradient.](https://images.ctfassets.net/kftzwdyauwt9/3q9FXuH69IDGjPgpzj2Ayv/95477fdeea31ffb7eae01ec1c191b1f0/research-acceleration-the-jagged-frontier-of-rsi-cover.png)
 
-[Better prompt caching for GPT-6ProductSep 22, 2026](</index/better-prompt-caching-for-gpt-6/>)
+[Research acceleration: The jagged frontierResearchNov 18, 2026](</index/research-acceleration-jagged-frontier/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![Inside the Codex sandbox — art card](https://images.ctfassets.net/kftzwdyauwt9/17rE7b6kMUdw2yIiz0HMiL/55db38c36cab045cc6b9b67093560f14/inside-the-codex-sandbox-art-card.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
+[Inside the Codex sandboxEngineeringNov 18, 2026](</index/inside-the-codex-sandbox/>)
 
-![Priorities and principles for effective third party assessments cover](https://images.ctfassets.net/kftzwdyauwt9/12cpbLOJFwXJ00Ma66GDVk/d4b392c0a9e18f078b23247a3f755f57/priorities-and-principles-for-effective-third-party-assessments-cover.png?w=3840&q=90&fm=webp)
+![Managing frontier AI risk: From training to deployment — Cover](https://images.ctfassets.net/kftzwdyauwt9/2wgLGyEPUNlB5pI0rK8Pld/a33fa3e03c8833d03b3876d6cf91d0ac/managing-frontier-ai-risk-cover.png?w=3840&q=90&fm=webp)
 
-[Priorities and principles for effective third party assessmentsSafetySep 22, 2026](</index/priorities-principles-third-party-assessments/>)
+[Managing frontier AI risk: From training to deploymentSafetyNov 18, 2026](</index/managing-frontier-ai-risk/>)
 
-![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
+![Le Groupe Figaro and OpenAI announce partnership — cover](https://images.ctfassets.net/kftzwdyauwt9/4SnfEKjmVoRPgSgiCy8IzI/1f454e874489f6c318c078766456ac70/le-groupe-figaro-and-openai-announce-partnership-cover.png?w=3840&q=90&fm=webp)
 
-[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
+[Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPTCompanyNov 18, 2026](</index/le-groupe-figaro-and-openai-announce-partnership/>)
 
-![Expanding OpenAI Academy with new learning paths — cover](https://images.ctfassets.net/kftzwdyauwt9/45fB7Wzg6PiQPzz8V49LVr/ef443412e9d5f03f9d5ffcc79aefe18e/expanding-openai-academy-with-new-learning-paths-cover.png?w=3840&q=90&fm=webp)
+![Advancing chip design with OpenAI models — article card](https://images.ctfassets.net/kftzwdyauwt9/26PM7LFgxizTM4FHqNoROC/edaf9f939eb1f1b834bc9f4007e199aa/advancing-chip-design-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI Academy with new learning pathsCompanySep 21, 2026](</index/expanding-openai-academy-with-new-learning-paths/>)
+[Advancing chip design with OpenAI modelsResearchNov 18, 2026](</index/advancing-chip-design-with-our-models/>)
 
 Load more
 
@@ -100,16 +101,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -122,7 +122,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -149,8 +150,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -169,6 +170,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

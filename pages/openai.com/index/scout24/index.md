@@ -32,23 +32,29 @@ December 9, 2025
 
 Scout24 is using generative AI to reimagine how people discover where and how they want to live.
 
-Loading…
-
 Share
 
 Results at a glance
 
   * Results at a glance
+
   * Inside the rollout
+
   * Leadership lessons from Scout24
+
   * What’s next
+
 
 
 
   * Results at a glance
+
   * Inside the rollout
+
   * Leadership lessons from Scout24
+
   * What’s next
+
 
 
 
@@ -63,11 +69,17 @@ We sat down with Gertrud Kolb, Chief Technology Officer at Scout24, to hear how 
 ### Results at a glance
 
   * GPT‑5 powering Scout24’s conversational search assistant HeyImmo
+
   * Adaptive answer formats: concise summaries, bullet points, or direct listings with image previews
+
   * Custom eval system built on the OpenAI Evals framework to define and measure answer quality
+
   * Company-wide “swarm testing” to refine expectations and stress-test edge cases
+
   * Architecture built for speed and reliability, and rapid improvements
+
   * Tight collaboration with OpenAI Solutions Architects to improve safety, quality, and user experience
+
 
 
 
@@ -88,10 +100,15 @@ This combination of iterative engineering, rigorous evaluation, and broad testin
 ### Leadership lessons from Scout24
 
   * Start where AI can transform the core of your product—and iterate from there.
+
   * Quality matters: define “good enough” and build the tools to measure it.
+
   * Internal testing at scale uncovers real user expectations.
+
   * Launch early, learn fast—but know when to slow down.
+
   * A tight partnership between product teams and technical experts accelerates progress.
+
 
 
 
@@ -111,15 +128,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-[Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free usersProductAug 6, 2026](</index/improving-gpt-5-6-sol-in-chatgpt/>)
+![Perplexity and Intelligence — Cover](https://images.ctfassets.net/kftzwdyauwt9/59nry7GNOkiMyCfrmaFJw6/3dc84144a23b0d65fa06805ae13e6a53/perplexity-and-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-![APA partnership > card image](https://images.ctfassets.net/kftzwdyauwt9/7Iu2mNExtUq2EqstK69WkH/7fb0f37c3c69d9481f8ea803af7ae613/openai-and-apa-advance-responsible-ai-for-youth-1_1.png?w=3840&q=90&fm=webp)
+[Perplexity and IntelligenceResearchNov 22, 2026](</index/perplexity-and-intelligence/>)
 
-[OpenAI and APA advance responsible AI for youthCompanyAug 6, 2026](</index/openai-and-apa-partner-to-advance-responsible-ai/>)
+![Combatting adversarial distillation — Cover](https://images.ctfassets.net/kftzwdyauwt9/7ozJXN6SzLZuRFUVDOB5mj/b6b1bc650fba12f754b9b9c4798b1b21/combatting-adversarial-distillation-cover.png?w=3840&q=90&fm=webp)
 
-![How people use ChatGPT around the world > Cover image](https://images.ctfassets.net/kftzwdyauwt9/5quRLt4fW8Js506D8eNKl3/3d9938860836620ec50b148f4e3f1a49/Art_Card__5_.png?w=3840&q=90&fm=webp)
+[Combatting adversarial distillationNov 20, 2026](</index/combatting-adversarial-distillation/>)
 
-[How the world is putting ChatGPT to workCompanyAug 6, 2026](</index/how-the-world-is-putting-chatgpt-to-work/>)
+![Hebbia — Cover](https://images.ctfassets.net/kftzwdyauwt9/2j2sOeYR5anL69nJvTbPot/4758d44649f585b33d96cdf14742c0d4/hebbia-smoked-depth-cover.png?w=3840&q=90&fm=webp)
+
+[Hebbia sees improvements in financial research with GPT-6 AstraNov 20, 2026](</business/customer-stories/hebbia/>)
 
 Research
 
@@ -131,15 +150,15 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -152,7 +171,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -170,6 +190,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -178,8 +199,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -198,6 +219,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

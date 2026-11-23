@@ -36,8 +36,6 @@ A framework for building AI that protects, empowers, and creates safer experienc
 
 [Read the blueprint(opens in a new window)](<https://cdn.openai.com/pdf/OAI%20Teen%20Safety%20Blueprint.pdf>)
 
-Loading…
-
 Share
 
 We are introducing the [**Teen Safety Blueprint** ⁠(opens in a new window)](<https://cdn.openai.com/pdf/OAI%20Teen%20Safety%20Blueprint.pdf>), a roadmap for building AI tools responsibly and a practical starting point for policymakers who are working to set standards for teen use of AI. Young people deserve technology that expands opportunity and protects their well-being. The Blueprint helps define how AI should work for teens, including age-appropriate design, meaningful product safeguards, and ongoing research and evaluation. The decisions made today will shape how teens use and are protected by this technology for years to come.
@@ -59,17 +57,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![Perplexity and Intelligence — Cover](https://images.ctfassets.net/kftzwdyauwt9/59nry7GNOkiMyCfrmaFJw6/3dc84144a23b0d65fa06805ae13e6a53/perplexity-and-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[Perplexity and IntelligenceResearchNov 22, 2026](</index/perplexity-and-intelligence/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![A softly textured blue and turquoise gradient.](https://images.ctfassets.net/kftzwdyauwt9/3q9FXuH69IDGjPgpzj2Ayv/95477fdeea31ffb7eae01ec1c191b1f0/research-acceleration-the-jagged-frontier-of-rsi-cover.png)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[Research acceleration: The jagged frontierResearchNov 18, 2026](</index/research-acceleration-jagged-frontier/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![Managing frontier AI risk: From training to deployment — Cover](https://images.ctfassets.net/kftzwdyauwt9/2wgLGyEPUNlB5pI0rK8Pld/a33fa3e03c8833d03b3876d6cf91d0ac/managing-frontier-ai-risk-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[Managing frontier AI risk: From training to deploymentSafetyNov 18, 2026](</index/managing-frontier-ai-risk/>)
 
 Research
 
@@ -81,15 +79,15 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -102,7 +100,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -120,6 +119,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -128,8 +128,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -148,6 +148,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

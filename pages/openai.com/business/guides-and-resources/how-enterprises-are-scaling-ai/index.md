@@ -41,12 +41,16 @@ Share
 Five patterns we saw repeatedly
 
   * Five patterns we saw repeatedly
+
   * What this signals for leaders
+
 
 
 
   * Five patterns we saw repeatedly
+
   * What this signals for leaders
+
 
 
 
@@ -107,17 +111,17 @@ OpenAI
 
 [View all](</news/>)
 
-![How agents are transforming work > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7hmtkjKv0DxS4Yt8mQZju2/c168bfa2010da64bcc9dd60d6b5491e8/Art_Card__1_.png?w=3840&q=90&fm=webp)
+![Abstract coral and orange wallpaper.](https://images.ctfassets.net/kftzwdyauwt9/2XdjFlF0ZNzLOArWC3W5h7/ad44c2e7d9bd6961e8de80666930f244/deploying-daybreak-red-cover.png?w=3840&q=90&fm=webp)
 
-[How agents are transforming workCompanyJun 25, 2026](</index/how-agents-are-transforming-work/>)
+[Deploying Daybreak RedGuidesNov 19, 2026](</business/learn/deploying-daybreak-red/>)
 
-![Business guides > Layout > Carousel > ChatGPT usage and adoption patterns at work > media > asset](https://images.ctfassets.net/kftzwdyauwt9/2rUSG4XSMDGLJMBdfgtVH/97f5474b4822fccb60211817a5cceb65/chatgpt-usage-and-adoption-patterns-at-work-IMAGE.png?w=3840&q=90&fm=webp)
+![An in-depth look at how workers use ChatGPT — Cover](https://images.ctfassets.net/kftzwdyauwt9/4UR2EaD3NPPhGHpAh7Jwu5/8d21aff44d75bd501b7794cff4851288/how-workers-use-chatgpt-cover.png?w=3840&q=90&fm=webp)
 
-[ChatGPT usage and adoption patterns at workGuidesJan 22, 2026](</business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work/>)
+[ChatGPT’s expanding world of workResearchOct 26, 2026](</index/chatgpt-expanding-world-of-work/>)
 
-![State of Enterprise AI 2025 > cover image](https://images.ctfassets.net/kftzwdyauwt9/1zzmHm4xiyh99UAioTRe3o/448a21b0cb11cfbdf90198f231ee7bff/homepage_feature_v2.png?w=3840&q=90&fm=webp)
+![What FDE means at OpenAI — Cover art](https://images.ctfassets.net/kftzwdyauwt9/5L9fx2EPZox7oZvKOseHie/d626d2d0e39f24416c98afb52ec85f92/forward-deployed-engineering-means-cover-art.png?w=3840&q=90&fm=webp)
 
-[The state of enterprise AIGuidesDec 17, 2025](</business/guides-and-resources/the-state-of-enterprise-ai-2025-report/>)
+[What forward deployed engineering means at OpenAIAI AdoptionOct 22, 2026](</index/forward-deployed-engineering-means/>)
 
 Research
 
@@ -129,16 +133,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -151,7 +154,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -178,8 +182,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -198,6 +202,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

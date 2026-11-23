@@ -1,5 +1,60 @@
 # openai_monitor
 
+## 2026-11-23T09-15Z
+
+**Fetch time:** 2026-11-23T09:16Z UTC (sitemap); pages 09:20–09:55Z | **Baseline:** 2026-09-28T09-17Z (**56-day gap**: the monitor didn't run in between, so this one entry covers about eight weeks)
+
+**TL;DR:** This entry covers about eight weeks, and OpenAI's site grew a lot in that time: from 1,985 to 2,316 URLs (363 added, 32 removed). The main stories:
+- **New models.** OpenAI released **GPT‑6.1 Sol** (Sep 29, close to its top model at a fifth of the price), **GPT‑6.1 Terra** (Oct 26, fast computer use), **GPT‑6 Cyber** (Nov 5, finds security vulnerabilities) and **GPT‑6.2 Astra and Sol** (Nov 17, new frontier model, API price cut 20%). On Oct 7 GPT‑6 also came to free ChatGPT users, with "Intelligent UI".
+- **DevDay 2026 (Sep 29).** OpenAI launched **dots** (always-on agents) and said ChatGPT has 1.2 billion weekly users.
+- **New ways to pay and get listed.** **ChatGPT Wallet** (Nov 13) lets agents make purchases, built with Amex, Chase, Mastercard and Visa. **Businesses in ChatGPT** lets companies claim their listing.
+- **Two acquisitions.** Orchestra Bio (drug development) and Pierre (code tooling behind Codex).
+- **A big security push** under the "Daybreak" brand, plus two posts on **stopping other labs from "distilling" (copying) its models**. The Usage Policies changed to match: a new version takes effect Nov 20, 2026.
+- **Safety section rebuilt.** `/safety/` now redirects to a new `/safety-alignment/` research hub with 27 "misalignment reports".
+- **Retirement notes on older models.** OpenAI added notes to old launch posts saying o1, o3 and o4‑mini are retired or deprecated. GPT‑5.4, GPT‑5.5 and Open Models are gone from the site menu.
+- **Sora removed from the Privacy Policy.**
+
+### Anomalies
+
+- **56-day observation gap.** For the 363 new URLs, "first seen 2026-11-23" only means they appeared at some point during the gap. Their own bylines date them between Sep 28 and Nov 22. Any changes made and undone inside the gap were never seen.
+- **Privacy Policy date is earlier than when the text went live.** [`/policies/privacy-policy/`](pages/openai.com/policies/privacy-policy/index.md) now says "Updated: September 10, 2026". But our Sep 28 snapshot still showed the May 18 version, so OpenAI's stated date is at least 18 days earlier than when the new text was public. The new text **removes every mention of Sora**.
+- **3 URLs disappeared and came back:** `/business/plugins/alpaca/` (gone after Sep 24), `/form/codex-ambassadors/` (gone after Jun 24) and `/policies/row-privacy-policy/` (gone after May 27).
+- **3 new sub-sitemaps:** `safety-and-alignment`, `science` and `learn-demos`. There are now 45 sub-sitemaps, up from 42.
+- **51 URLs moved between sub-sitemaps.** Most are plugin pages moved into `plugins-sales-commerce` around the "ChatGPT for Sales" launch. A few webinars and guides moved into the `learn-*` sitemaps.
+- **92 URLs have no `<lastmod>`.** These include the GPT‑6.1 Sol, GPT‑6.1 Terra and GPT‑6.2 launch posts and the whole `/safety-alignment/` hub. Their edit history can't be tracked from the sitemap.
+- No future-dated `<lastmod>` values and none that moved backwards.
+
+Full detail in [`runs/2026-11-23T09-15Z/analysis.md`](runs/2026-11-23T09-15Z/analysis.md).
+
+### Notable additions
+
+- **Models:** [GPT‑6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md) ($2 in / $10 out per million tokens, vs. Astra's $10 / $50) · [GPT‑6 for everyone + Intelligent UI](pages/openai.com/index/gpt-6-for-everyone/index.md) · [GPT‑6.1 Terra](pages/openai.com/index/introducing-gpt-6-1-terra/index.md) · [GPT‑6 Cyber](pages/openai.com/index/introducing-gpt-6-cyber/index.md) · [Images 2.6](pages/openai.com/index/introducing-images-2-6/index.md) · [GPT‑6.2 Astra and Sol](pages/openai.com/index/introducing-gpt-6-2-astra-sol/index.md) (claims to beat Claude Fable 5.2 on a professional-work benchmark at 5% of the cost)
+- **Products:** [DevDay 2026 recap](pages/openai.com/index/devday-2026-recap/index.md) · [dots](pages/openai.com/index/introducing-dots/index.md) · [ChatGPT Wallet](pages/openai.com/index/introducing-chatgpt-wallet/index.md) · [Businesses in ChatGPT](pages/openai.com/index/introducing-businesses-chatgpt/index.md) · [ChatGPT for Sales](pages/openai.com/index/introducing-chatgpt-for-sales/index.md) · [Decisions API](pages/openai.com/index/decisions-api/index.md) · [OpenAI Marketplace](pages/openai.com/business/marketplace/index.md) · [Private Intelligence](pages/openai.com/business/private-intelligence/index.md)
+- **Corporate:** [Orchestra Bio acquisition](pages/openai.com/index/openai-to-acquire-orchestra-bio/index.md) (Oct 20) · [Pierre acquisition](pages/openai.com/index/openai-to-acquire-pierre/index.md) (Nov 4) · [Jill Hazelbaker as Chief Corporate Affairs Officer](pages/openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer/index.md) · [Dan Driscoll as Senior Counselor for National Security Modernization](pages/openai.com/index/dan-driscoll-joins-openai/index.md) · partnerships with [Google Cloud](pages/openai.com/index/openai-models-google-cloud/index.md), [Atlassian](pages/openai.com/index/atlassian-partnership/index.md), [Oracle](pages/openai.com/index/oracle-apps-in-chatgpt/index.md), [ServiceNow](pages/openai.com/index/openai-servicenow-partnership-expansion/index.md), [Le Figaro](pages/openai.com/index/le-groupe-figaro-and-openai-announce-partnership/index.md), [LVMH Media](pages/openai.com/index/lvmh-media-division-partnership/index.md) and [Chile](pages/openai.com/index/introducing-openai-for-chile/index.md)
+- **Safety and security:** [`/safety-alignment/` hub](pages/openai.com/safety-alignment/index.md) · [How we detect frontier model misalignment](pages/openai.com/index/how-we-detect-frontier-model-misalignment/index.md) · [Updated Model Spec](pages/openai.com/index/updated-model-spec/index.md) · [Managing frontier AI risk](pages/openai.com/index/managing-frontier-ai-risk/index.md) · two distillation posts, [disrupting a campaign](pages/openai.com/index/disrupting-a-coordinated-model-distillation-campaign/index.md) and [combatting distillation](pages/openai.com/index/combatting-adversarial-distillation/index.md) · about 25 "Daybreak" cyber posts and customer stories
+- **Policy and public affairs:** ["Fair use benefits everyone"](pages/openai.com/index/fair-use-benefits-everyone/index.md), which argues directly against the New York Times lawsuit · [AI-training preferences for websites](pages/openai.com/index/helping-websites-express-ai-training-preferences/index.md) · [$2M for children's AI-safety research](pages/openai.com/index/children-first-declaration/index.md) · [US compute-campus commitments](pages/openai.com/compute-campus/index.md)
+- **Research:** [Research acceleration: the jagged frontier](pages/openai.com/index/research-acceleration-jagged-frontier/index.md) (how coding agents speed up OpenAI's own research) · [Perplexity and Intelligence](pages/openai.com/index/perplexity-and-intelligence/index.md) by Chief Scientist Jakub Pachocki · a new [science blog](pages/openai.com/index/our-new-blog-for-science/index.md)
+- **Also new:** about 100 customer stories, 59 plugin pages, 6 ChatGPT Ads case studies (Ads now in 44 countries) and 7 merch items.
+
+### Notable updates
+
+- **The site menu changed on every page.** Removed: GPT‑5.4, GPT‑5.5, "Safety Approach", "Open Models" and Apps SDK. Added: GPT‑6 Astra, GPT‑6.1 Sol, GPT‑6.2, Dots, Plugins, Models and Status.
+- **"This post introduced…" retirement notes** on the [o1](pages/openai.com/index/learning-to-reason-with-llms/index.md), [o3/o4‑mini](pages/openai.com/index/introducing-o3-and-o4-mini/index.md), o1‑preview, o1‑mini and o3‑mini launch posts. o3 and o4‑mini are no longer in ChatGPT.
+- **[Usage Policies](pages/openai.com/policies/usage-policies/index.md), new version effective Nov 20, 2026.** It bans using OpenAI outputs to train other models, tightens rules for teens and high-stakes uses, and adds approval requirements for national-security, law-enforcement and "model-access intermediary" uses.
+- **[Business pricing](pages/openai.com/business/pricing/index.md):** "5x more usage" was softened to "More usage". The page adds up to $500 a month in API credits and says that **from December, ChatGPT and Codex will share one usage limit**.
+- **[Trust & Transparency report](pages/openai.com/trust-and-transparency/index.md)** now covers Jan–Jun 2026. Government requests for non-content user data rose from 224 to 620 compared with the previous half-year, and requests for content rose from 75 to 146.
+- **Other policy updates:** [Service Terms](pages/openai.com/policies/service-terms/index.md) add a "Prompt-to-Voice" synthetic-voice feature. [Health privacy](pages/openai.com/policies/health-privacy-policy/index.md) is reframed around a "Health" plugin. [Supplier Code of Conduct](pages/openai.com/policies/supplier-code/index.md) is rewritten for the first time since 2023. Ad Policies, Advertising Terms (new Brazil terms) and the Cookie Policy were also revised.
+- **[Codex page](pages/openai.com/codex/index.md)** rewritten: "Codex is included in your ChatGPT plan." The **homepage** now leads with GPT‑6.2.
+- **Noise:** 329 plugin listings were refreshed from a template. About 1,000 pages changed only in navigation and "Keep reading" cards.
+
+### Removed pages
+
+32 removed. **19 now redirect to a new address**, mainly `/solutions/*` → `/business/solutions/*`, old webinars and guides → `/business/learn/*`, and `/safety/` → `/safety-alignment/`. Two redirects stand out: **`/prism/` → `/science/`** and **`/residency/` → `/research/`**, which suggests the Prism product page and the Residency program page are gone. **13 now return 404:** partner pages for Canva, Dropbox, Gusto, HubSpot, QuickBooks and Stripe; plugin pages for Atlassian Rovo, Litera Lito, MCP Server for WordPress and Oracle Analytics; and `/daybreak/partners-new/`.
+
+_Stats: 2316 total URLs | 363 added | 1720 updated (703 beyond template/nav; ~250 substantive outside plugin listings) | 32 removed (19 redirects, 13 404s) | 59 anomalies | 45 sub-sitemaps | 0 fetch failures_
+
+---
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

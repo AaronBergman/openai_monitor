@@ -39,20 +39,32 @@ Share
 How is AI helping Axios Local reporters deliver more high-impact journalism?
 
   * How is AI helping Axios Local reporters deliver more high-impact journalism?
+
   * With AI, what kinds of local stories or community services become possible that weren’t before?
+
   * The news business has been under a lot of strain and change. How essential has AI been in helping you navigate those financial pressures?
+
   * How do you keep the community’s voice strong while using tools that standardize so much of the work?
+
   * What are some of the most meaningful ways AI is helping Axios Local reporters work faster and serve their communities better?
+
   * What’s your vision for where journalism is headed over the next five to ten years as AI moves deeper into newsroom workflows?
+
 
 
 
   * How is AI helping Axios Local reporters deliver more high-impact journalism?
+
   * With AI, what kinds of local stories or community services become possible that weren’t before?
+
   * The news business has been under a lot of strain and change. How essential has AI been in helping you navigate those financial pressures?
+
   * How do you keep the community’s voice strong while using tools that standardize so much of the work?
+
   * What are some of the most meaningful ways AI is helping Axios Local reporters work faster and serve their communities better?
+
   * What’s your vision for where journalism is headed over the next five to ten years as AI moves deeper into newsroom workflows?
+
 
 
 
@@ -143,17 +155,17 @@ _Axios uses ChatGPT to support research, analysis, and drafts of internal commun
 
 ## Keep reading
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![Perplexity and Intelligence — Cover](https://images.ctfassets.net/kftzwdyauwt9/59nry7GNOkiMyCfrmaFJw6/3dc84144a23b0d65fa06805ae13e6a53/perplexity-and-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[Perplexity and IntelligenceResearchNov 22, 2026](</index/perplexity-and-intelligence/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![Combatting adversarial distillation — Cover](https://images.ctfassets.net/kftzwdyauwt9/7ozJXN6SzLZuRFUVDOB5mj/b6b1bc650fba12f754b9b9c4798b1b21/combatting-adversarial-distillation-cover.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[Combatting adversarial distillationNov 20, 2026](</index/combatting-adversarial-distillation/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![Hebbia — Cover](https://images.ctfassets.net/kftzwdyauwt9/2j2sOeYR5anL69nJvTbPot/4758d44649f585b33d96cdf14742c0d4/hebbia-smoked-depth-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[Hebbia sees improvements in financial research with GPT-6 AstraNov 20, 2026](</business/customer-stories/hebbia/>)
 
 Research
 
@@ -165,15 +177,15 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -186,7 +198,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -204,6 +217,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -212,8 +226,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -232,6 +246,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -34,23 +34,29 @@ By experimenting early, measuring rigorously, and building an architecture that 
 
 ![Close-up of copper wire strands with glowing reflections, overlaid with the white Intercom logo centered in the frame.](https://images.ctfassets.net/kftzwdyauwt9/63tLrvcFXNHaJ8vMI7CqrC/5e6c3ae0fe65f4624e3500b8fb0b817d/oai_intercom_hero_16x9.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 Lesson 1: Experiment early and often to build model fluency
 
   * Lesson 1: Experiment early and often to build model fluency
+
   * Lesson 2: Unlock speed with strong evaluations
+
   * Lesson 3: Build long-term advantages with architectural flexibility
+
   * Building connected customer experiences through unified data and workflow automation
+
 
 
 
   * Lesson 1: Experiment early and often to build model fluency
+
   * Lesson 2: Unlock speed with strong evaluations
+
   * Lesson 3: Build long-term advantages with architectural flexibility
+
   * Building connected customer experiences through unified data and workflow automation
+
 
 
 
@@ -121,8 +127,11 @@ Fin AI Engine™
 The team is just getting started. Powered by advanced models and built on a modular, model-agnostic architecture, Intercom is expanding beyond customer support to power workflows across the business, delivering faster resolutions and better customer experiences:
 
   * **Support teams:** Resolving the majority of inbound queries across chat, email, voice, and more with Fin AI Agent
+
   * **Ops teams:** Automating complex workflows like refunds, account changes, and subscription updates with Fin Tasks
+
   * **Product teams:** Using Intercom’s MCP Server, AI tools like ChatGPT can access customer conversations, tickets, and user data - helping teams across the business spot bugs, shape roadmaps, refine messaging, and prepare for QBRs. 
+
 
 
 
@@ -134,17 +143,17 @@ Intercom built a scalable AI platform by staying rigorous on evaluation, grounde
 
 ## Keep reading
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![Perplexity and Intelligence — Cover](https://images.ctfassets.net/kftzwdyauwt9/59nry7GNOkiMyCfrmaFJw6/3dc84144a23b0d65fa06805ae13e6a53/perplexity-and-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[Perplexity and IntelligenceResearchNov 22, 2026](</index/perplexity-and-intelligence/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![Combatting adversarial distillation — Cover](https://images.ctfassets.net/kftzwdyauwt9/7ozJXN6SzLZuRFUVDOB5mj/b6b1bc650fba12f754b9b9c4798b1b21/combatting-adversarial-distillation-cover.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[Combatting adversarial distillationNov 20, 2026](</index/combatting-adversarial-distillation/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![Hebbia — Cover](https://images.ctfassets.net/kftzwdyauwt9/2j2sOeYR5anL69nJvTbPot/4758d44649f585b33d96cdf14742c0d4/hebbia-smoked-depth-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[Hebbia sees improvements in financial research with GPT-6 AstraNov 20, 2026](</business/customer-stories/hebbia/>)
 
 Research
 
@@ -156,15 +165,15 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -177,7 +186,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -195,6 +205,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -203,8 +214,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -223,6 +234,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

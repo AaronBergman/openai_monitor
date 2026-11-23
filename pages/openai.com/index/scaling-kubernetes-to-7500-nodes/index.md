@@ -34,45 +34,73 @@ January 25, 2021
 
 ![Scaling Kubernetes To 7 500 Nodes](https://images.ctfassets.net/kftzwdyauwt9/84745f0a-d786-4066-99f031ec2cb2/be1d8d7357f9f5bc35970e058f42c8d0/image-25.webp?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 Our workload
 
   * Our workload
+
   * Networking
+
   * API servers
+
   * Time-series metrics with Prometheus and Grafana
+
   * Healthchecks
+
     * Passive healthchecks
+
     * Active GPU tests
+
   * Quotas & resource usage
+
     * Team taints
+
     * CPU & GPU balloons
+
   * Gang scheduling
+
   * Unsolved problems
+
     * Metrics
+
     * Pod network traffic shaping
+
   * Conclusions
+
 
 
 
   * Our workload
+
   * Networking
+
   * API servers
+
   * Time-series metrics with Prometheus and Grafana
+
   * Healthchecks
+
     * Passive healthchecks
+
     * Active GPU tests
+
   * Quotas & resource usage
+
     * Team taints
+
     * CPU & GPU balloons
+
   * Gang scheduling
+
   * Unsolved problems
+
     * Metrics
+
     * Pod network traffic shaping
+
   * Conclusions
+
 
 
 
@@ -82,7 +110,25 @@ Scaling a single Kubernetes cluster to this size is rarely done and requires som
 
 Since our last post on [scaling to 2,500 nodes⁠](</index/scaling-kubernetes-to-2500-nodes/>) we’ve continued to grow our infrastructure to meet researcher needs, in the process learning many additional lessons. This post summarizes those lessons so that others in the Kubernetes community can benefit from them, and ends with problems we still face that we’ll be tackling next.
 
-Loading...
+Nodes
+
+7,5005,0002,5000
+
+The cluster grows in steps to 7,500 nodes over 27 minutes.
+
+091827
+
+Elapsed time (minutes)
+
+Pending pods
+
+6004002000
+
+The backlog peaks above 500 pending pods and falls to near zero as the cluster grows.
+
+091827
+
+Elapsed time (minutes)
 
 ## Our workload
 
@@ -92,7 +138,15 @@ A large machine learning job spans many nodes and runs most efficiently when it 
 
 That said, strain on the kube-scheduler is spiky. A new job may consist of many hundreds of pods all being created at once, then return to a relatively low rate of churn.
 
-Loading...
+Kubernetes scheduler workload
+
+44,00042,00040,00038,00036,000
+
+Scheduler workload fluctuates between roughly 38,000 and 43,000 over a day.
+
+06121824
+
+Elapsed time (hours)
 
 Our biggest jobs run MPI, and all pods within the job are participating in a single MPI communicator. If any of the participating pods die, the entire job halts and needs to be restarted. The job checkpoints regularly, and when restarted it resumes from the last checkpoint. Thus we consider the pods to be  _semi-stateful_ —killed pods can be replaced and work can continue, but doing so is disruptive and should be kept to a minimum.
 
@@ -114,7 +168,7 @@ We use iptables tagging on the host to track network resource usage per Namespac
 
 iptables `mangle` rules can be used to arbitrarily mark packets that match particular criteria. Here are our rules to detect whether traffic is internal or internet-bound. The `FORWARD` rules cover traffic from pods, vs `INPUT` and `OUTPUT` traffic from the host:
 
-#### Plain Text
+#### Plain text
 
 `
     
@@ -139,7 +193,7 @@ iptables `mangle` rules can be used to arbitrarily mark packets that match parti
 
 Once marked, iptables will start counters to track the number of bytes and packets that match this rule. You can eyeball these counters by using `iptables` itself:
 
-#### Plain Text
+#### Plain text
 
 `
     
@@ -172,7 +226,20 @@ Once marked, iptables will start counters to track the number of bytes and packe
 
 We use an open-source Prometheus exporter called [iptables-exporter⁠(opens in a new window)](<https://github.com/madron/iptables-exporter/>) to then get these tracked into our monitoring system. This a simple way to track packets matching a variety of different types of conditions.
 
-Loading...
+Internet bandwidth by namespace (GB/s)
+
+50403020100
+
+Total bandwidth peaks above 40 GB/s. The bottom three bands show the three busiest namespaces and the top band combines the rest.
+
+06121824
+
+Elapsed time (hours)
+
+  * Three busiest namespaces
+  * Remaining namespaces
+
+
 
 One somewhat unique aspect of our network model is that we fully expose the node, pod, and service network CIDR ranges to our researchers. We have a hub and spoke network model, and use the native node and pod CIDR ranges to route that traffic. Researchers connect to the hub, and from there have access to any of the individual clusters (the spokes). But the clusters themselves cannot talk to one another. This ensures that clusters remain isolated with no cross-cluster dependencies that can break failure isolation.
 
@@ -182,17 +249,54 @@ We use a “NAT” host to translate the service network CIDR range for traffic 
 
 Kubernetes API Servers and etcd are critical components to a healthy working cluster, so we pay special attention to the stress on these systems. We use the Grafana dashboards provided by [kube-prometheus⁠(opens in a new window)](<https://github.com/coreos/kube-prometheus>), as well as additional in-house dashboards. We’ve found it useful to alert on the rate of HTTP status 429 (Too Many Requests) and 5xx (Server Error) on the API Servers as a high-level signal of problems.
 
-Loading...
+API server requests
+
+5004003002001000
+
+GET nodes stays high throughout the day, while LIST pods and GET pods spike intermittently.
+
+06121824
+
+Elapsed time (hours)
+
+  * LIST pods
+  * GET nodes
+  * GET pods
+  * Other operations
+
+
 
 While some folks run API Servers within kube, we’ve always run them outside the cluster itself. Both etcd and API servers run on their own dedicated nodes. Our largest clusters run 5 API servers and 5 etcd nodes to spread the load and minimize impact if one were to ever go down. We’ve had no notable trouble with etcd since splitting out Kubernetes Events into their own etcd cluster back in our [last blog post⁠](</index/scaling-kubernetes-to-2500-nodes/>). API Servers are stateless and generally easy to run in a self-healing instance group or scaleset. We haven’t yet tried to build any self-healing automation of etcd clusters because incidents have been extremely rare.
 
 API Servers can take up a fair bit of memory, and that tends to scale linearly with the number of nodes in the cluster. For our cluster with 7,500 nodes we observe up to 70GB of heap being used per API Server, so fortunately this should continue to be well-within hardware capabilities into the future.
 
-Loading...
+Heap size (GiB)
+
+19181716
+
+Four servers stay near 16–17 GiB and one stays near 18–19 GiB throughout the day.
+
+06121824
+
+Elapsed time (hours)
 
 One big strain on API Servers was WATCHes on Endpoints. There are a few services, such as ‘kubelet’ and ‘node-exporter’ of which every node in the cluster is a member. When a node would be added or removed from the cluster, this WATCH would fire. And because typically each node itself was watching the `kubelet` service via kube-proxy, the # and bandwidth required in these responses would be N2 N^2 N2 and enormous, occasionally 1GB/s or more. [EndpointSlices⁠(opens in a new window)](<https://kubernetes.io/docs/concepts/services-networking/endpoint-slices/>), launched in Kubernetes 1.17, were a huge benefit that brought this load down 1000x.
 
-Loading...
+Response size (MB/s)
+
+403020100
+
+LIST pods produces spikes above 30 MB/s while GET nodes stays near 4 MB/s.
+
+06121824
+
+Elapsed time (hours)
+
+  * LIST pods
+  * GET nodes
+  * Other operations
+
+
 
 In general we are very mindful of any API Server requests that scale with the size of the cluster. We try to avoid having any DaemonSets interact with the API Server. In cases where you do need each node to watch for changes, introducing an intermediary caching service, such as the [Datadog Cluster Agent⁠(opens in a new window)](<https://docs.datadoghq.com/agent/cluster_agent/>), seems to be a good pattern to avoid cluster-wide bottlenecks.
 
@@ -292,15 +396,15 @@ Eric Sigler, Benjamin Chess
 
 [View all](</news/>)
 
-![Techniques For Training Large Neural Networks](https://images.ctfassets.net/kftzwdyauwt9/62793de4-0f01-42fc-539325d9af36/bc1ac82499fc1dc43f59accdd31d0195/image-9.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting with energetic, vibrant colors.](https://images.ctfassets.net/kftzwdyauwt9/62793de4-0f01-42fc-539325d9af36/bc1ac82499fc1dc43f59accdd31d0195/image-9.webp?w=3840&q=90&fm=webp)
 
 [Techniques for training large neural networksPublicationJun 9, 2022](</index/techniques-for-training-large-neural-networks/>)
 
-![Introducing Triton Open Source Gpu Programming For Neural Networks](https://images.ctfassets.net/kftzwdyauwt9/cdce1ebd-19a2-4848-a08ec8c44e18/55b924fc6628318148b7c5c4902551e7/image-18.webp?w=3840&q=90&fm=webp)
+![An abstract expressionist painting in a soft, pastel, earth tone palette.](https://images.ctfassets.net/kftzwdyauwt9/cdce1ebd-19a2-4848-a08ec8c44e18/55b924fc6628318148b7c5c4902551e7/image-18.webp?w=3840&q=90&fm=webp)
 
 [Introducing Triton: Open-source GPU programming for neural networksReleaseJul 28, 2021](</index/triton/>)
 
-![AI And Efficiency](https://images.ctfassets.net/kftzwdyauwt9/e5cba1f8-883b-4961-dca6f726f936/be1a627ab2f509a68b91b8a7ef29f610/image_128.png?w=3840&q=90&fm=webp)
+![An abstract expressionist smudge painting in a vibrant, warm palette.](https://images.ctfassets.net/kftzwdyauwt9/e5cba1f8-883b-4961-dca6f726f936/be1a627ab2f509a68b91b8a7ef29f610/image_128.png?w=3840&q=90&fm=webp)
 
 [AI and efficiencyPublicationMay 5, 2020](</index/ai-and-efficiency/>)
 
@@ -314,15 +418,15 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -335,7 +439,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -353,6 +458,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -361,8 +467,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -381,6 +487,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

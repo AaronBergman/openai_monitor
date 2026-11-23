@@ -42,7 +42,7 @@ All videos on this page are at 1x real time.
 
 Learn about OpenAI’s latest model:
 
-[GPT-6](</index/gpt-6-astra/>)
+[GPT-6.2 Astra and Sol](</index/introducing-gpt-6-2-astra-sol/>)
 
 [Compare models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
 
@@ -52,23 +52,29 @@ More Resources
 
 [Try in Playground (opens in a new window)](<https://platform.openai.com/playground?mode=chat&model=gpt-4o>)[Rewatch live demos](</index/spring-update/>)
 
-Loading…
-
 Share
 
 Explorations of capabilities
 
   * Explorations of capabilities
+
   * Model evaluations
+
     * Language tokenization
+
   * ChatGPT-4o Risk Scorecard
+
 
 
 
   * Explorations of capabilities
+
   * Model evaluations
+
     * Language tokenization
+
   * ChatGPT-4o Risk Scorecard
+
 
 
 
@@ -199,7 +205,7 @@ English 1.1x fewer tokens (from 27 to 24)| Hello, my name is GPT-4o. I'm a new t
 
 GPT‑4o has safety built-in by design across modalities, through techniques such as filtering training data and refining the model’s behavior through post-training. We have also created new safety systems to provide guardrails on voice outputs.  
   
-We’ve evaluated GPT‑4o according to our [_Preparedness Framework_](</safety/>) and in line with our [_voluntary commitments_ ⁠](<https://openai.com/index/moving-ai-governance-forward/>). Our evaluations of cybersecurity, CBRN, persuasion, and model autonomy show that GPT‑4o does not score above Medium risk in any of these categories. This assessment involved running a suite of automated and human evaluations throughout the model training process. We tested both pre-safety-mitigation and post-safety-mitigation versions of the model, using custom fine-tuning and prompts, to better elicit model capabilities.  
+We’ve evaluated GPT‑4o according to our _Preparedness Framework_ and in line with our [_voluntary commitments_ ⁠](<https://openai.com/index/moving-ai-governance-forward/>). Our evaluations of cybersecurity, CBRN, persuasion, and model autonomy show that GPT‑4o does not score above Medium risk in any of these categories. This assessment involved running a suite of automated and human evaluations throughout the model training process. We tested both pre-safety-mitigation and post-safety-mitigation versions of the model, using custom fine-tuning and prompts, to better elicit model capabilities.  
   
 GPT‑4o has also undergone extensive external red teaming with 70+ [_external experts_ ⁠](<https://openai.com/index/red-teaming-network>) in domains such as social psychology, bias and fairness, and misinformation to identify risks that are introduced or amplified by the newly added modalities. We used these learnings to build out our safety interventions in order to improve the safety of interacting with GPT‑4o. We will continue to mitigate new risks as they’re discovered.  
   
@@ -212,7 +218,7 @@ Examples of model limitations
 
 We would love feedback to help identify tasks where GPT‑4 Turbo still outperforms GPT‑4o, so we can continue to improve the model. 
 
-## ChatGPT-4o Risk Scorecard
+## ChatGPT‑4o Risk Scorecard
 
 Updated May 8, 2024
 
@@ -283,16 +289,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -305,7 +310,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -332,8 +338,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -352,6 +358,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
