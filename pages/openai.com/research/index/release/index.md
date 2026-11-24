@@ -46,6 +46,48 @@ Switch cards to show Media
 
 Switch cards to hide Media
 
+Research
+
+Nov 20, 2026
+
+[MedChemBench: Benchmarking AI for medicinal chemistryMedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.](</index/introducing-medchembench/>)
+
+Product
+
+Nov 17, 2026
+
+[Introducing GPT-6.2 Astra and SolIntroducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.](</index/introducing-gpt-6-2-astra-sol/>)
+
+Research
+
+Nov 16, 2026
+
+[Broadening access to AI for scientistsWe’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.](</index/expanding-chatgpt-for-academic-researchers/>)
+
+Product
+
+Nov 4, 2026
+
+[Introducing Images 2.6Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.](</index/introducing-images-2-6/>)
+
+Product
+
+Oct 26, 2026
+
+[Introducing GPT-6.1 TerraDelivering fast and capable computer use at scale](</index/introducing-gpt-6-1-terra/>)
+
+Product
+
+Oct 7, 2026
+
+[GPT-6 and Intelligent UI for everyoneGPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.](</index/gpt-6-for-everyone/>)
+
+Product
+
+Sep 29, 2026
+
+[Introducing GPT-6.1 SolMeet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.](</index/introducing-gpt-6-1-sol/>)
+
 Product
 
 Sep 22, 2026
@@ -57,48 +99,6 @@ Product
 Sep 10, 2026
 
 [Build more natural voice experiences with GPT‑Live‑1 in the APIGPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.](</index/introducing-gpt-live-1-in-the-api/>)
-
-Research
-
-Sep 3, 2026
-
-[GPT-6 Astra: A new generation of intelligenceIntroducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.](</index/gpt-6-astra/>)
-
-Company
-
-Jul 29, 2026
-
-[Accelerating scientific discovery with ChatGPT for Academic ResearchersOpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.](</index/chatgpt-for-academic-researchers/>)
-
-Product
-
-Jul 9, 2026
-
-[GPT-5.6: Frontier intelligence that scales with your ambitionMore intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.](</index/gpt-5-6/>)
-
-Product
-
-Jul 8, 2026
-
-[Introducing GPT-LiveA new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.](</index/introducing-gpt-live/>)
-
-Product
-
-Jun 26, 2026
-
-[Previewing GPT-5.6 Sol: a next-generation modelOpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.](</index/previewing-gpt-5-6-sol/>)
-
-Research
-
-Jun 4, 2026
-
-[Dreaming: Better memory for a more helpful ChatGPTChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.](</index/chatgpt-memory-dreaming/>)
-
-Product
-
-Jun 3, 2026
-
-[Introducing new capabilities to GPT-RosalindGPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.](</index/introducing-new-capabilities-to-gpt-rosalind/>)
 
 Load more
 
@@ -112,16 +112,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -134,7 +133,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -161,8 +161,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -181,6 +181,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

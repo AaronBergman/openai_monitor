@@ -34,31 +34,45 @@ May 8, 2026
 
 A look at the controls, boundaries, and telemetry OpenAI uses to govern coding agents in real workflows.
 
-Loading…
-
 Share
 
 Controlling how Codex operates
 
   * Controlling how Codex operates
+
     * Sandboxing and approvals
+
     * Network access
+
     * Identity and credentials
+
     * Rules
+
     * Managed configs
+
   * Agent-native telemetry and audit trails
+
   * Looking ahead
+
 
 
 
   * Controlling how Codex operates
+
     * Sandboxing and approvals
+
     * Network access
+
     * Identity and credentials
+
     * Rules
+
     * Managed configs
+
   * Agent-native telemetry and audit trails
+
   * Looking ahead
+
 
 
 
@@ -389,17 +403,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Priorities and principles for effective third party assessments cover](https://images.ctfassets.net/kftzwdyauwt9/12cpbLOJFwXJ00Ma66GDVk/d4b392c0a9e18f078b23247a3f755f57/priorities-and-principles-for-effective-third-party-assessments-cover.png?w=3840&q=90&fm=webp)
+![Introducing Shirudo — square](https://images.ctfassets.net/kftzwdyauwt9/58krbvagr72pZbh5v5MX7d/7257d958e4c18b1c28895a7555277735/shirudo-final-square-2x.png?w=3840&q=90&fm=webp)
 
-[Priorities and principles for effective third party assessmentsSafetySep 22, 2026](</index/priorities-principles-third-party-assessments/>)
+[OpenAI and Cisco introduce ShirudoSecurityNov 23, 2026](</index/introducing-shirudo/>)
 
-![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
+![Perplexity and Intelligence — Cover](https://images.ctfassets.net/kftzwdyauwt9/59nry7GNOkiMyCfrmaFJw6/3dc84144a23b0d65fa06805ae13e6a53/perplexity-and-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
+[Perplexity and IntelligenceResearchNov 22, 2026](</index/perplexity-and-intelligence/>)
 
-![Teen development research grants — Card image](https://images.ctfassets.net/kftzwdyauwt9/492WJ2zEboE6VdmchhCjIA/34e10aa1208a6988e3db2341d849d5b4/4bzz6p65ky7zwfd4pe42ou-cover__3_.png?w=3840&q=90&fm=webp)
+![A softly textured blue and turquoise gradient.](https://cdn.openai.com/mdx-assets/ec712845-fc63-4359-a7d8-e2088e063904/research-acceleration-card.41531bc2.png)
 
-[Funding grants for new research into AI and teen developmentSafetySep 8, 2026](</index/teen-development-research-grants/>)
+[Research acceleration: The jagged frontierResearchNov 18, 2026](</index/research-acceleration-jagged-frontier/>)
 
 Research
 
@@ -411,16 +425,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -433,7 +446,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -460,8 +474,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -480,6 +494,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

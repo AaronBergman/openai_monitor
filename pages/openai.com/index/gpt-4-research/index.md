@@ -38,39 +38,61 @@ More Resources
 
 [Try in Playground(opens in a new window)](<https://platform.openai.com/playground>)[Rewatch demo livestream(opens in a new window)](<https://youtube.com/live/outcGtbnMuQ?feature=share>)[Contribute to OpenAI Evals(opens in a new window)](<https://github.com/openai/evals>)
 
-Loading…
-
 Share
 
 Capabilities
 
   * Capabilities
+
     * Visual inputs
+
     * Steerability
+
   * Limitations
+
   * Risks & mitigations
+
   * Training process
+
     * Predictable scaling
+
   * OpenAI Evals
+
   * ChatGPT Plus
+
   * API
+
   * Conclusion
+
   * Appendix
+
 
 
 
   * Capabilities
+
     * Visual inputs
+
     * Steerability
+
   * Limitations
+
   * Risks & mitigations
+
   * Training process
+
     * Predictable scaling
+
   * OpenAI Evals
+
   * ChatGPT Plus
+
   * API
+
   * Conclusion
+
   * Appendix
+
 
 
 
@@ -174,11 +196,19 @@ Note that the model’s capabilities seem to come primarily from the pre-trainin
 
 A large focus of the GPT‑4 project has been building a deep learning stack that scales predictably. The primary reason is that, for very large training runs like GPT‑4, it is not feasible to do extensive model-specific tuning. We developed infrastructure and optimization that have very predictable behavior across multiple scales. To verify this scalability, we accurately predicted in advance GPT‑4’s final loss on our internal codebase (not part of the training set) by extrapolating from models trained using the same methodology but using 10,000x less compute:
 
-Loading...
+OpenAI codebase next word prediction
+
+Compute is relative to GPT-4 on a logarithmic scale. Loss in bits per word falls as compute increases. The prediction from nine smaller runs closely matches the observed GPT-4 result.6.05.04.03.02.01.0100p10n1µ100µ0.011ComputeBits per word
+
+ObservedPredictionGPT-4
 
 Now that we can accurately predict the metric we optimize during training (loss), we’re starting to develop methodology to predict more interpretable metrics. For example, we successfully predicted the pass rate on a subset of the [HumanEval⁠(opens in a new window)](<https://github.com/openai/human-eval>) dataset, extrapolating from models with 1,000x less compute:
 
-Loading...
+Capability prediction on 23 coding problems
+
+Compute is relative to GPT-4 on a logarithmic scale. As compute increases, the negative mean log pass rate falls, indicating better performance on the 23 coding problems. The prediction from five smaller runs closely matches the GPT-4 result.5432101µ10µ100µ0.0010.010.11Compute− Mean log pass rate
+
+ObservedPredictionGPT-4
 
 Some capabilities are still hard to predict. For example, the Inverse Scaling Prize was a competition to find a metric that gets worse as model compute increases, and [hindsight neglect⁠(opens in a new window)](<https://www.alignmentforum.org/posts/iznohbCPFkeB9kAJL/inverse-scaling-prize-round-1-winners#_The_Floating_Droid___for_hindsight_neglect_10shot>) was one of the winners. Just like with another recent [result,⁠(opens in a new window)](<https://arxiv.org/abs/2211.02011>) GPT‑4 reverses the trend:
 
@@ -260,15 +290,15 @@ OpenAI
 
 [View all](</news/>)
 
-![Three farmers using a mobile app outside](https://images.ctfassets.net/kftzwdyauwt9/7b26cc3b-46d8-45b0-f67f6de0c8f8/8bc94d083a5a147609cddad159243ef7/digital_green.png?w=3840&q=90&fm=webp)
+![White Digital Green logo on a green background.](https://images.ctfassets.net/kftzwdyauwt9/7b26cc3b-46d8-45b0-f67f6de0c8f8/8bc94d083a5a147609cddad159243ef7/digital_green.png?w=3840&q=90&fm=webp)
 
 [Building agricultural database for farmersJan 12, 2024](</index/digital-green/>)
 
-![Wix cover image](https://images.ctfassets.net/kftzwdyauwt9/6E3QyNLzuWwK3EGBHPw7nQ/fbd0c5a34cc4f4ba096028adbdda8934/oai_Wix_1x1.png?w=3840&q=90&fm=webp)
+![White Wix logo on a background of blue and green paint swathes](https://images.ctfassets.net/kftzwdyauwt9/6E3QyNLzuWwK3EGBHPw7nQ/fbd0c5a34cc4f4ba096028adbdda8934/oai_Wix_1x1.png?w=3840&q=90&fm=webp)
 
 [Creating websites in minutes with AI Website BuilderMay 29, 2025](</index/wix/>)
 
-![WHOOP Coach HIIT](https://images.ctfassets.net/kftzwdyauwt9/163d4817-6436-4d20-83e0963f68f1/ef4bec09f31b32f8ca8a953a09da5897/whoop.png?w=3840&q=90&fm=webp)
+![White Whoop logo on a grey background.](https://images.ctfassets.net/kftzwdyauwt9/163d4817-6436-4d20-83e0963f68f1/ef4bec09f31b32f8ca8a953a09da5897/whoop.png?w=3840&q=90&fm=webp)
 
 [Delivering LLM-powered health solutionsJan 4, 2024](</index/whoop/>)
 
@@ -282,15 +312,15 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -303,7 +333,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -321,6 +352,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -329,8 +361,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -349,6 +381,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

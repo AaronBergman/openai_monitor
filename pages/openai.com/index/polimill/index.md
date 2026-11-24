@@ -56,27 +56,37 @@ about 1,050
 
 Municipalities across Japan using QommonsAI.
 
-Loading…
-
 Share
 
 Building a cross-municipality knowledge base
 
   * Building a cross-municipality knowledge base
+
   * Balancing government-grade security with everyday usability
+
   * Codex and hands-on support made development 3-5x faster
+
   * Results at a glance
+
   * Beyond efficiency, capturing the tacit knowledge of veteran officials
+
   * Toward a super agent for public-sector work
+
 
 
 
   * Building a cross-municipality knowledge base
+
   * Balancing government-grade security with everyday usability
+
   * Codex and hands-on support made development 3-5x faster
+
   * Results at a glance
+
   * Beyond efficiency, capturing the tacit knowledge of veteran officials
+
   * Toward a super agent for public-sector work
+
 
 
 
@@ -157,17 +167,17 @@ Toward next-generation public infrastructure where governments, companies, and c
 
 ## Keep reading
 
-![Better prompt caching for GPT-6 — Card image](https://images.ctfassets.net/kftzwdyauwt9/72ZKzMh8JgRDfdg4EYRtwY/ee5e406a08b69f00b0beb4ac00270364/7kneoqlc2qh37z1utkmtfk-cover-v1.png?w=3840&q=90&fm=webp)
+![Introducing Shirudo — square](https://images.ctfassets.net/kftzwdyauwt9/58krbvagr72pZbh5v5MX7d/7257d958e4c18b1c28895a7555277735/shirudo-final-square-2x.png?w=3840&q=90&fm=webp)
 
-[Better prompt caching for GPT-6ProductSep 22, 2026](</index/better-prompt-caching-for-gpt-6/>)
+[OpenAI and Cisco introduce ShirudoSecurityNov 23, 2026](</index/introducing-shirudo/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![Abstract amber and orange gradient with soft golden highlights.](https://images.ctfassets.net/kftzwdyauwt9/4eHI8zSanvO8vahhGHCnAL/23ffbfc074d63f19ca56a5e81c2caa1a/connected-intelligence-for-in-house-legal-amber-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
+[Connected intelligence for in-house legalWebinarsNov 23, 2026](</business/learn/connected-intelligence-for-in-house-legal/>)
 
-![Parallel customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/IE8b4WhSed5XqFQUzyyp7/40124aabc92ea8266c99be14d0f380f1/square.png?w=3840&q=90&fm=webp)
+![Richpanel — Cover](https://images.ctfassets.net/kftzwdyauwt9/1rKCtFRlZxa18NisCqmSuN/c4f5753f8abe609e472aec9c0f2ec199/richpanel-cover.png?w=3840&q=90&fm=webp)
 
-[Parallel cut research time and cost in half with GPT‑6 AstraStartupSep 22, 2026](</index/parallel-cuts-time-and-cost-with-astra/>)
+[Richpanel helps companies automate 50% of support in 30 daysStartupNov 23, 2026](</business/customer-stories/richpanel-ai-customer-support/>)
 
 Research
 
@@ -179,16 +189,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -201,7 +210,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -228,8 +238,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -248,6 +258,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -34,8 +34,6 @@ July 22, 2026
 
 [Visit Project Camellia(opens in a new window)](<https://www.projectcamellia.com>)
 
-Loading…
-
 Share
 
 Project Camellia is a long-term datacenter project that OpenAI is designing and developing in Effingham County, Georgia. To support the data center, we are contracting with Georgia Power Company for 3.2 gigawatts of power which will be delivered in phases between 2028 and 2032.
@@ -79,17 +77,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Expanding AI access across every level of US government - listing image - Option 051](https://images.ctfassets.net/kftzwdyauwt9/2DbgwJ93neBePatQjKO2h7/d63008264f83f3dcc786fe98410151be/government-blog-card-option-051-review-1080x1080.png?w=3840&q=90&fm=webp)
+![Strengthening NATO and allied cyber defences with AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/mkN5DS8fsUZdCbrtXU5CJ/7ffd117eefcd930dd8a0dc4c82721d99/strengthening-nato-and-allied-cyber-defences-with-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Expanding AI access across every level of US governmentGlobal AffairsSep 10, 2026](</index/expanding-ai-access-us-government/>)
+[Strengthening NATO and allied cyber defenses with AIGlobal AffairsNov 17, 2026](</index/strengthening-nato-allied-cyber-defences-ai/>)
 
-![The AI Policy Window Is Open. We Need to Act. — card](https://images.ctfassets.net/kftzwdyauwt9/1h2LJdMeZWvaobm9wZl7T0/3cc15e97034f5375e78cd90163eed6a5/ai-policy-window-card.png?w=3840&q=90&fm=webp)
+![Introducing OpenAI for Chile — Cover](https://images.ctfassets.net/kftzwdyauwt9/5c0RdO1eMpASEH79fHuJkt/2d8c656bd772ba036a6049d7cf9a2f0e/introducing-openai-for-chile-cover.png?w=3840&q=90&fm=webp)
 
-[The AI policy window is open. We need to act.Global AffairsSep 9, 2026](</index/ai-policy-window/>)
+[Introducing OpenAI for ChileGlobal AffairsNov 17, 2026](</index/introducing-openai-for-chile/>)
 
-![Supporting independent journalism in Ukraine — card image](https://images.ctfassets.net/kftzwdyauwt9/3wATLIxaR9ch8uwHbmLURE/b43c566703960e61d4159760ed8a3c2b/supporting-independent-journalism-in-ukraine-cover-option-029.png?w=3840&q=90&fm=webp)
+![The King’s Trust and OpenAI partnership — Cover](https://images.ctfassets.net/kftzwdyauwt9/7j93AvZKxba2iNSQCVuVP8/911c09306e272d78d8139431c58d8ac1/the-king-s-trust-and-openai-launch-1m-partnership-cover.png?w=3840&q=90&fm=webp)
 
-[Supporting independent journalism in UkraineGlobal AffairsSep 7, 2026](</index/supporting-independent-journalism-in-ukraine/>)
+[The King’s Trust and OpenAI launch £1m partnershipGlobal AffairsNov 16, 2026](</index/the-kings-trust-and-openai/>)
 
 Research
 
@@ -101,16 +99,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -123,7 +120,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -141,6 +139,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -149,8 +148,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -169,6 +168,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

@@ -1,5 +1,50 @@
 # openai_monitor
 
+## 2026-11-24T09-16Z
+
+**Fetch time:** 2026-11-24T09:17Z UTC (sitemap); pages ~09:20–09:55Z | **Baseline:** 2026-09-28T09-17Z (**57-day gap**: see the first anomaly)
+
+**TL;DR:** OpenAI's site has grown from 1,985 to 2,320 URLs since the last snapshot on `main` (Sep 28). That's 367 pages added and 32 removed. The eight-week story is mostly about new models (GPT‑6.1 Sol, GPT‑6.1 Terra, GPT‑6 Cyber, GPT‑6.2 Astra/Sol), new products (dots, ChatGPT Wallet, Businesses in ChatGPT), two acquisitions (Orchestra Bio, Pierre), a rebuilt safety section with 27 published "misalignment reports", a big cybersecurity push, and a new Usage Policy effective Nov 20. **In the last day specifically**, four pages appeared: OpenAI and Cisco open-sourced **Shirudo**, a Linux tool that blocks exploits on running servers before a patch is ready. OpenAI launched **OpenWorks**, a funded network of local AI helpers giving free support to US small businesses in 20 pilot cities. The other two are a legal-team webinar and a Richpanel customer story. ChatGPT Business also added a **2× usage promotion** for workspaces created by Nov 30.
+
+### Anomalies
+
+- **The monitor's own baseline is stale.** Daily runs since Sep 29 were committed only to unmerged draft PRs (#148–#203), so each run, this one included, compares against Sep 28. For any of the 367 "new" URLs, "first seen today" really means "appeared sometime in the last 8 weeks". Their own bylines date them from Sep 29 to Nov 23. Merging this PR will turn tomorrow's run back into a true one-day diff.
+- **A timestamp went backwards since yesterday:** `/index/retell-ai/` claimed it was last modified Nov 17 in yesterday's (unmerged) snapshot. Today it claims **Oct 30**. The content is unchanged, which looks like a republish that reset the date.
+- **92 URLs have no modification date at all**, including the GPT‑6.1 / GPT‑6.2 launch posts and the whole `/safety-alignment/` hub. Edits to these can only be caught by comparing content.
+- **3 URLs came back after disappearing:** `/business/plugins/alpaca/` (gone after Sep 24), `/form/codex-ambassadors/` (gone after Jun 24) and `/policies/row-privacy-policy/` (gone after May 27).
+- **13 URLs moved to a different sub-sitemap.** Most are sales-tool plugin pages moving into `plugins-sales-commerce`, plus webinars moving into the `learn-*` sitemaps. There are **3 new sub-sitemaps** (`learn-demos`, `safety-and-alignment`, `science`), for 45 in total.
+- **Bulk timestamp bump:** about 110 news posts all got new modification dates between 05:42 and 05:45Z on Nov 24. Separately, 168 pages changed only their image links, moving from Contentful's image CDN (`images.ctfassets.net`) to `cdn.openai.com`. This may be the start of an asset-hosting migration.
+- No future-dated timestamps.
+
+Full detail in [`runs/2026-11-24T09-16Z/analysis.md`](runs/2026-11-24T09-16Z/analysis.md).
+
+### Notable additions
+
+**New in the last day:**
+- [**Shirudo**](pages/openai.com/index/introducing-shirudo/index.md) (OpenAI + Cisco, Nov 23): an open-source eBPF runtime for temporary "shields" that block an exploit on a running Linux service, with no patch or restart needed. OpenAI says a Codex-generated shield stopped a live exploit against Elasticsearch in a controlled test. It continues the Daybreak / cyber-defence series.
+- [**OpenWorks**](pages/openai.com/openworks/index.md): OpenAI funds local "OpenWorks Partners" (AI-savvy individuals and consultancies) to help independent US small businesses for free. The pilot covers 20 cities, including Chicago, Fargo, Charleston, Austin, Seattle and NYC. SaaS, VC-backed and PE-owned firms are excluded.
+- [Richpanel customer story](pages/openai.com/business/customer-stories/richpanel-ai-customer-support/index.md): Richpanel guarantees 50% support automation in 30 days, using GPT‑6 Astra / 6.1 Sol to set up agents and GPT‑6 Luna to handle conversations.
+- [Connected intelligence for in-house legal](pages/openai.com/business/learn/connected-intelligence-for-in-house-legal/index.md) (webinar).
+
+**Since Sep 28 (highlights):** [GPT‑6.1 Sol](pages/openai.com/index/introducing-gpt-6-1-sol/index.md) · [GPT‑6 for everyone](pages/openai.com/index/gpt-6-for-everyone/index.md) · [GPT‑6.1 Terra](pages/openai.com/index/introducing-gpt-6-1-terra/index.md) · [GPT‑6 Cyber](pages/openai.com/index/introducing-gpt-6-cyber/index.md) · [GPT‑6.2 Astra and Sol](pages/openai.com/index/introducing-gpt-6-2-astra-sol/index.md) · [Images 2.6](pages/openai.com/index/introducing-images-2-6/index.md) · [DevDay 2026 recap](pages/openai.com/index/devday-2026-recap/index.md) · [dots](pages/openai.com/index/introducing-dots/index.md) · [ChatGPT Wallet](pages/openai.com/index/introducing-chatgpt-wallet/index.md) · [Businesses in ChatGPT](pages/openai.com/index/introducing-businesses-chatgpt/index.md) · [ChatGPT for Sales](pages/openai.com/index/introducing-chatgpt-for-sales/index.md) · [Orchestra Bio acquisition](pages/openai.com/index/openai-to-acquire-orchestra-bio/index.md) · [Pierre acquisition](pages/openai.com/index/openai-to-acquire-pierre/index.md) · [`/safety-alignment/` hub + 27 misalignment reports](pages/openai.com/safety-alignment/index.md) · [How we detect frontier model misalignment](pages/openai.com/index/how-we-detect-frontier-model-misalignment/index.md) · [Updated Model Spec](pages/openai.com/index/updated-model-spec/index.md) · [Fair use benefits everyone](pages/openai.com/index/fair-use-benefits-everyone/index.md) · [Children First declaration](pages/openai.com/index/children-first-declaration/index.md). Also about 100 customer stories, 59 plugin pages, 6 ChatGPT Ads case studies and 7 merch items.
+
+### Notable updates
+
+**In the last day:**
+- [**Business pricing**](pages/openai.com/business/pricing/index.md): new "Limited-time offer: Get 2× usage". New ChatGPT Business workspaces created by Nov 30 get double the included usage through Dec 31. The page also adds "Dots, your always-on agents" to the feature list.
+- [**ChatGPT for academic researchers**](pages/openai.com/index/chatgpt-for-academic-researchers/index.md): an "Apply here" verification link was added. Eligibility changed from a list of selected institutions to a rule: any recognized degree-granting university with a high level of research activity.
+- [Data plugin page](pages/openai.com/business/plugins/data/index.md) adds a "How to videos" section. [`/safety/prompt-injections/`](pages/openai.com/safety/prompt-injections/index.md), one of the last pages still showing GPT‑5.4/5.5 in its menu, now has the new menu.
+
+**Since Sep 28:** the site menu changed everywhere (GPT‑5.4/5.5 and Open Models out; GPT‑6.2, GPT‑6.1 Sol, Dots, Plugins and Status in). [Usage Policies](pages/openai.com/policies/usage-policies/index.md) have a new version effective Nov 20, 2026. The [Privacy Policy](pages/openai.com/policies/privacy-policy/index.md) no longer mentions Sora. [Trust & Transparency](pages/openai.com/trust-and-transparency/index.md) reports 620 government requests for non-content user data and 146 for content.
+
+### Removed pages
+
+32 removed since Sep 28. Most moved to a new address (`/solutions/*` → `/business/solutions/*`, old webinars → `/business/learn/*`, `/safety/` → `/safety-alignment/`, `/prism/` → `/science/`, `/residency/` → `/research/`), according to yesterday's checks. The rest are gone: partner pages for Canva, Dropbox, Gusto, HubSpot, QuickBooks and Stripe, and plugin pages for Atlassian Rovo, Litera Lito, WordPress MCP and Oracle Analytics. Nothing was removed in the last day.
+
+_Stats: 2320 total URLs | 367 added (4 since yesterday's snapshot) | 1721 updated (5 with real edits since yesterday) | 32 removed (0 since yesterday) | 20 anomalies | 45 sub-sitemaps | 0 fetch failures_
+
+---
+
 ## 2026-09-28T09-17Z
 
 **Fetch time:** 2026-09-28T09:17Z (sitemap + 35 pages) UTC | **Baseline:** 2026-09-27T09-16Z (consecutive day)

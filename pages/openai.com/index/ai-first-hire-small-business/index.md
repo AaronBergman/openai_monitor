@@ -34,8 +34,6 @@ May 25, 2026
 
 [Read the report(opens in a new window)](<https://cdn.openai.com/pdf/32153121-f87f-4320-a725-9c94ee8d9b30/empowering-entrepreneurship-in-chatgpt-report.pdf>)
 
-Loading…
-
 Share
 
 A tool for people doing many jobs at once
@@ -99,21 +97,42 @@ The result may not be a wave of high-growth startups, but an uptick in modest bu
 
 OpenAI
 
+## Citation
+    
+    
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9@techreport{openaiecon2026entrepreneurship,
+      author = {Kevin Wadman},
+      title = {Main Street Entrepreneurship, Powered by {ChatGPT}},
+      date = {2026-05},
+      year = {2026},
+      institution = {OpenAI},
+      type = {Report},
+      url = {https://cdn.openai.com/pdf/32153121-f87f-4320-a725-9c94ee8d9b30/empowering-entrepreneurship-in-chatgpt-report.pdf},
+    }
+
 ## Keep reading
 
 [View all](</news/>)
 
-![Our approach to government and national security partnerships > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6LpyyLCqWNpiRHwFZpCP7s/30674f74a4b776306398352664a5f3cc/Frame.png?w=3840&q=90&fm=webp)
+![Strengthening NATO and allied cyber defences with AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/mkN5DS8fsUZdCbrtXU5CJ/7ffd117eefcd930dd8a0dc4c82721d99/strengthening-nato-and-allied-cyber-defences-with-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Our approach to government and national security partnershipsGlobal AffairsJul 8, 2026](</index/government-national-security-partnerships/>)
+[Strengthening NATO and allied cyber defenses with AIGlobal AffairsNov 17, 2026](</index/strengthening-nato-allied-cyber-defences-ai/>)
 
-![Helping K–12 educators build practical AI skills > Cover image](https://images.ctfassets.net/kftzwdyauwt9/190wMCP1bPt9adqu2edDV9/106b863586b063e777539df3aa988c3f/Frame.png?w=3840&q=90&fm=webp)
+![Introducing OpenAI for Chile — Cover](https://images.ctfassets.net/kftzwdyauwt9/5c0RdO1eMpASEH79fHuJkt/2d8c656bd772ba036a6049d7cf9a2f0e/introducing-openai-for-chile-cover.png?w=3840&q=90&fm=webp)
 
-[Helping K–12 educators build practical AI skillsGlobal AffairsJul 8, 2026](</index/k-12-educators-practical-skills/>)
+[Introducing OpenAI for ChileGlobal AffairsNov 17, 2026](</index/introducing-openai-for-chile/>)
 
-![Signals june update > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6w2E1Bzj1zUr2xmW1TBK3l/1b7e0977246ac85ae1db5fbcd6eb1549/Frame.png?w=3840&q=90&fm=webp)
+![The King’s Trust and OpenAI partnership — Cover](https://images.ctfassets.net/kftzwdyauwt9/7j93AvZKxba2iNSQCVuVP8/911c09306e272d78d8139431c58d8ac1/the-king-s-trust-and-openai-launch-1m-partnership-cover.png?w=3840&q=90&fm=webp)
 
-[How ChatGPT adoption has expandedGlobal AffairsJun 30, 2026](</index/how-chatgpt-adoption-has-expanded/>)
+[The King’s Trust and OpenAI launch £1m partnershipGlobal AffairsNov 16, 2026](</index/the-kings-trust-and-openai/>)
 
 Research
 
@@ -125,15 +144,15 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -146,7 +165,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -164,6 +184,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -172,8 +193,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -192,6 +213,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -199,6 +221,7 @@ More
 
   * [Stories](</stories/>)
   * [Academy](</academy/>)
+  * [Supply Co.](</supply/>)
   * [Livestreams](</live/>)
   * [Podcast](</podcast/>)
   * [RSS](<https://openai.com/news/rss.xml>)

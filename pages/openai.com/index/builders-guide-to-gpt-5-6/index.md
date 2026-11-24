@@ -28,37 +28,51 @@ OpenAI
 
 August 13, 2026
 
-Applied AI
+Applied AIGuides
 
 # The builder’s guide to GPT‑5.6
 
 Technical lessons from startups in production
-
-Loading…
 
 Share
 
 GPT-5.6 sets a new standard for price-performance
 
   * GPT-5.6 sets a new standard for price-performance
+
   * A better out-of-the-box experience
+
   * Model Selection
+
   * Evolving the Responses API to architect more efficient agents
+
   * Programmatic Tool Calling
+
   * Multi-agent
+
   * Prompt Caching
+
   * Conclusion
+
 
 
 
   * GPT-5.6 sets a new standard for price-performance
+
   * A better out-of-the-box experience
+
   * Model Selection
+
   * Evolving the Responses API to architect more efficient agents
+
   * Programmatic Tool Calling
+
   * Multi-agent
+
   * Prompt Caching
+
   * Conclusion
+
 
 
 
@@ -150,21 +164,6 @@ On complex, parallelizable tasks, distributing actions and reasoning across mult
 
 — Jon Bell, Co-founder and CPO, [Obvious⁠(opens in a new window)](<https://obvious.ai/>)
 
-1 of 2
-
-> “Qualia runs teams of agents on open-ended research problems, and GPT‑5.6 Sol just clicked. It showed a marked improvement over GPT‑5.5, finished faster than almost every other model we tested, and quickly became our go-to OpenAI model.”
-
-— E Chi, Founder, [Quadrillion⁠(opens in a new window)](<https://quadrillion.io/>)
-
-> “GPT‑5.6 is the best orchestrator we’ve seen from OpenAI. We threw six specs at it at once (writing, building, and talking through all of them) and it kept track of everything without the quality falling apart.”
-
-— Jon Bell, Co-founder and CPO, [Obvious⁠(opens in a new window)](<https://obvious.ai/>)
-
-  * Quadrillion
-  * Obvious
-
-
-
 Although GPT‑5.6 has a strong sense of the appropriate number of subagents and when to spawn them, multi-agent behavior is very steerable. Instructing the model on when to invoke subagents can increase the likelihood of spawning agents only in situations where the additional token expenditures would result in better performance.
 
 ## Prompt Caching
@@ -198,17 +197,17 @@ This guide was developed by [Samarth Madduru⁠(opens in a new window)](<https:/
 
 [View all](</news/>)
 
-![How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules — card image](https://images.ctfassets.net/kftzwdyauwt9/5UARNm4AwJ9OfXCIzHZgLF/c05ef4322030e9552dfe2458d34ceaed/index-codex-chatgpt-antimicrobials--cover-v001.png?w=3840&q=90&fm=webp)
+![Abstract coral and orange wallpaper.](https://images.ctfassets.net/kftzwdyauwt9/2XdjFlF0ZNzLOArWC3W5h7/ad44c2e7d9bd6961e8de80666930f244/deploying-daybreak-red-cover.png?w=3840&q=90&fm=webp)
 
-[How a researcher uses Codex and ChatGPT to search for new antimicrobial moleculesApplied AISep 10, 2026](</index/using-codex-chatgpt-to-search-for-new-antimicrobials/>)
+[Deploying Daybreak RedGuidesNov 19, 2026](</business/learn/deploying-daybreak-red/>)
 
-![How Codex helps run quantum computing experiments — Art card](https://images.ctfassets.net/kftzwdyauwt9/2Kovot5B2upbAxiLOfbEIO/464b5e73306e047fa31f8456acb34fa3/art-card.png?w=3840&q=90&fm=webp)
+![An in-depth look at how workers use ChatGPT — Cover](https://images.ctfassets.net/kftzwdyauwt9/4UR2EaD3NPPhGHpAh7Jwu5/8d21aff44d75bd501b7794cff4851288/how-workers-use-chatgpt-cover.png?w=3840&q=90&fm=webp)
 
-[How GPT-5.6 Sol helps run quantum computing experimentsApplied AISep 8, 2026](</index/codex-quantum-computing-experiments/>)
+[ChatGPT’s expanding world of workResearchOct 26, 2026](</index/chatgpt-expanding-world-of-work/>)
 
-![Derya Unutmaz card image](https://images.ctfassets.net/kftzwdyauwt9/6By12NX9sglstfwFKQTzYB/a28d6f84e91a8dae838f240db4c2524c/derya_1x1.png?w=3840&q=90&fm=webp)
+![What FDE means at OpenAI — Cover art](https://images.ctfassets.net/kftzwdyauwt9/5L9fx2EPZox7oZvKOseHie/d626d2d0e39f24416c98afb52ec85f92/forward-deployed-engineering-means-cover-art.png?w=3840&q=90&fm=webp)
 
-[How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mysteryApplied AIJun 23, 2026](</index/gpt-5-immunology-mystery/>)
+[What forward deployed engineering means at OpenAIAI AdoptionOct 22, 2026](</index/forward-deployed-engineering-means/>)
 
 Research
 
@@ -220,16 +219,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -242,7 +240,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -269,8 +268,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -289,6 +288,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

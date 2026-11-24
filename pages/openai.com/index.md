@@ -11,7 +11,7 @@ Skip to main content
 
 
 
-Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
+Log in[Talk to us](</contact-sales/>)[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
   * Research
   * Products
@@ -22,7 +22,7 @@ Log in[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)
 
 
 
-[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
+[Talk to us](</contact-sales/>)[Try ChatGPT(opens in a new window)](<https://chatgpt.com/>)Login
 
 OpenAI
 
@@ -30,71 +30,71 @@ What can I help with?
 
 Message ChatGPT
 
-[Learn about ChatGPT Business](</business/>)[Talk with ChatGPT](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)More
+[Learn about ChatGPT Business](</business/>)[Talk with ChatGPT(opens in a new window)](<https://chatgpt.com/?mode=voice>)[Research](</research/>)[API Platform](</api/>)More
 
-![astra 16x9 poster](https://images.ctfassets.net/kftzwdyauwt9/6aziMFlkfqPiaNdkZujHdo/74adba940d8bc2c3d9f7e500c71298ab/astra_16x9_poster.png?w=3840&q=50&fm=webp)
+![GPT-6.2 Astra and Sol](https://images.ctfassets.net/kftzwdyauwt9/1d9c8KyvgsiVxdUcBhE4L0/238c81e25d7e93e43c25c76e81d0f741/Art_Card_16x9__2_.png?w=3840&q=90&fm=webp)
 
-[GPT-6 Astra: A new generation of intelligenceResearch28 min read](</index/gpt-6-astra/>)
+[Introducing GPT-6.2 Astra and SolProductNov 17, 202622 min read](</index/introducing-gpt-6-2-astra-sol/>)
 
-![astra 16x9 poster](https://images.ctfassets.net/kftzwdyauwt9/6aziMFlkfqPiaNdkZujHdo/74adba940d8bc2c3d9f7e500c71298ab/astra_16x9_poster.png?w=3840&q=50&fm=webp)
+![GPT-6.2 Astra and Sol](https://images.ctfassets.net/kftzwdyauwt9/1d9c8KyvgsiVxdUcBhE4L0/238c81e25d7e93e43c25c76e81d0f741/Art_Card_16x9__2_.png?w=3840&q=90&fm=webp)
 
-[GPT-6 Astra: A new generation of intelligenceResearch28 min read](</index/gpt-6-astra/>)
+[Introducing GPT-6.2 Astra and SolProductNov 17, 202622 min read](</index/introducing-gpt-6-2-astra-sol/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![Cyber at the frontier card \(1\)](https://images.ctfassets.net/kftzwdyauwt9/5D0TQG4IOIIc3DI1O0cSQ4/9a5c0a8e0b55fa606170ea54a82761a0/Cyber_at_the_frontier_card__1_.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProduct8 min read](</index/introducing-gpt-6-sol-and-luna/>)
+## [Our latest Daybreak announcementsEventNov 12, 2026Watch the recording](</cyber-at-the-frontier/>)
 
-![Mental Health Bench art card](https://images.ctfassets.net/kftzwdyauwt9/1GVQAEpVME68kCI7Ol2ApW/abde191546741612492ae27f9baf7f3e/Mental_Health_Bench__art_card.png?w=3840&q=90&fm=webp)
+![GPT-Image 2.6 — listing art card](https://images.ctfassets.net/kftzwdyauwt9/2E8ts1o0xQpNfGigwDDkUx/f144a75f6a59d0307eba199c518e5a83/gpt-image-2-6-card.png?w=3840&q=90&fm=webp)
 
-[Introducing MentalHealthBenchPublication8 min read](</index/introducing-mentalhealthbench/>)
+[Introducing Images 2.6ProductNov 4, 2026](</index/introducing-images-2-6/>)
 
-![images2point5 1-1](https://images.ctfassets.net/kftzwdyauwt9/6C1icjo4Zz6MzpbQl1K2qx/8bf8ec06aae235d81019c24f6098d2f0/images2point5_1-1c.png?w=3840&q=90&fm=webp)
+![LifeVal — Cover](https://images.ctfassets.net/kftzwdyauwt9/7qpi2dSmegt9iF29oioze0/4446550c373728d28b054322caf946ae/lifeval-cover-crayon.png?w=3840&q=90&fm=webp)
 
-[Introducing ChatGPT Images 2.5Product6 min read](</index/introducing-chatgpt-images-2-5/>)
+[Measuring AI progress on the tasks that matter in everyday lifeResearchNov 2, 2026](</index/lifeval/>)
 
 ## Recent news
 
 [View more](</news/company-announcements/>)
 
-![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
+![Perplexity and Intelligence — Cover](https://images.ctfassets.net/kftzwdyauwt9/59nry7GNOkiMyCfrmaFJw6/3dc84144a23b0d65fa06805ae13e6a53/perplexity-and-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-[Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
+[Perplexity and IntelligenceResearchNov 22, 2026](</index/perplexity-and-intelligence/>)
 
-![Advisory Group on Mathematics and Artificial Intelligence — cover](https://images.ctfassets.net/kftzwdyauwt9/7I8A6x8LfZld8C8IZUbZmi/6c9da8e137ce049fb07e486958636739/advisory-group-on-mathematics-and-artificial-intelligence-cover.png?w=3840&q=90&fm=webp)
+![A softly textured blue and turquoise gradient.](https://cdn.openai.com/mdx-assets/ec712845-fc63-4359-a7d8-e2088e063904/research-acceleration-card.41531bc2.png)
 
-[Advisory group on mathematics and artificial intelligenceCompanySep 21, 2026](</index/advisory-group-on-mathematics-and-ai/>)
+[Research acceleration: The jagged frontierResearchNov 18, 2026](</index/research-acceleration-jagged-frontier/>)
 
-![Introducing Astra for Law — art card](https://images.ctfassets.net/kftzwdyauwt9/4vshYjPreJaZEO8O7sSTFX/e61e1b0c2f67305b55171ae3cc8042b8/introducing-astra-for-law-art-card.png?w=3840&q=90&fm=webp)
+![Advancing computer use for healthcare teams — Cover](https://images.ctfassets.net/kftzwdyauwt9/25dsYCnNJGsdRrXkjPjQI3/a1369c52af783f250d9a6becc4f208bc/advancing-computer-use-for-healthcare-teams-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing Astra for LawCompanySep 17, 2026](</index/astra-for-law/>)
+[Advancing computer-use agents for healthcare teamsProductNov 16, 2026](</index/advancing-computer-use-for-healthcare-teams/>)
 
-![Paul Christiano joins OpenAI Foundation Board — card](https://images.ctfassets.net/kftzwdyauwt9/4PcDbhz75I70TjyGat7oHl/598dd1e865018860c3591cb95c9bc72e/paul-christiano-joins-openai-foundation-board--cover-v001.png?w=3840&q=90&fm=webp)
+![Our new blog for science – Listing card](https://images.ctfassets.net/kftzwdyauwt9/2fvu7edF4cf5u7kJblcTaj/ad0f92a73e0ce3e7fecfea334fa225e3/our-new-blog-for-science-card.png?w=3840&q=90&fm=webp)
 
-[Paul Christiano joins OpenAI Foundation BoardCompanySep 9, 2026](</index/paul-christiano-joins-openai-foundation-board/>)
+[Our new blog for scienceScienceNov 15, 2026](</index/our-new-blog-for-science/>)
 
-![The Work Now Within Reach — clean cover](https://images.ctfassets.net/kftzwdyauwt9/5iHLTPM4ZhKe4dAwOPfpy2/347b9d804542685bb13dbb63e985d91e/c3f562e2b08a0bfc.png?w=3840&q=90&fm=webp)
+![An updated Model Spec for more capable and beneficial AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/4nEE8sUTl3LEhrhTSjX3M4/448a13dd2d7f5d809e1fcdeba3001f15/model-spec-update-more-capable-beneficial-ai-cover.png?w=3840&q=90&fm=webp)
 
-[The Work Now Within ReachCompanySep 8, 2026](</index/the-work-now-within-reach/>)
+[An updated Model Spec for more capable and beneficial AISafetyOct 29, 2026](</index/updated-model-spec/>)
 
-![Supporting journalism from classrooms to newsrooms — listing card](https://images.ctfassets.net/kftzwdyauwt9/2uvvRNdvFkdWWXNtANgtAF/36e0f8b6a0c35abf88eec71519823409/Option_70___1080_1080.png?w=3840&q=90&fm=webp)
+![How we detect frontier model misalignment — Cover](https://images.ctfassets.net/kftzwdyauwt9/43ZavE2amLHMmbxH8EL8VM/1464d0f68c0f3c45e9d255992aab32b1/how-we-detect-frontier-model-misalignment-cover.png?w=3840&q=90&fm=webp)
 
-[Supporting journalism from classrooms to newsroomsCompanySep 8, 2026](</index/supporting-journalism-from-classrooms-to-newsrooms/>)
+[How we detect frontier model misalignmentSecurityOct 29, 2026](</index/how-we-detect-frontier-model-misalignment/>)
 
 ## Stories
 
 [View all](</stories/>)
 
-![An ATV Big Air Tour rider performs an airborne stunt against a cloudy sky.](https://images.ctfassets.net/kftzwdyauwt9/6nM6RNbnqtlPZZQDx71iMm/46843eaee86998217108580d428ea457/atv-hero-square-x480.png?w=3840&q=90&fm=webp)
+![Ryan Honary carries a solar-powered wildfire sensor through dry hills.](https://images.ctfassets.net/kftzwdyauwt9/4K8fZrgGrDLGPDyjncSEwx/6a70cd3a70d87b9d838467002de76f3e/phoenix-art-card-1x1-retouched-hires.png?w=3840&q=90&fm=webp)
 
-[Using ChatGPT to grow ATV Big Air TourSep 9, 2026](</index/growing-atv-big-air-tour/>)
+[Using ChatGPT to detect wildfires early](</index/detecting-wildfires-early/>)
 
-![Bradford and Bryan Manning use their phones while standing in a city park.](https://images.ctfassets.net/kftzwdyauwt9/7bhGkj1QoCeQpqYhTldQLx/b84d760a2f127d930cc2dec9f3d59e17/tbb-retouched-art-card-1260x1260.png?w=3840&q=90&fm=webp)
+![Children run a football drill as Charlie watches.](https://images.ctfassets.net/kftzwdyauwt9/4G8h5lTPtQtk58OZFFey1y/a55481187db20f9ba41bc1ac8862c419/bloomsbury-football-cover.jpg?w=3840&q=90&fm=webp)
 
-[Supporting the blind community with ChatGPTSep 9, 2026](</index/two-blind-brothers/>)
+[Using ChatGPT to accelerate a charity’s growthChatGPT](</index/bloomsbury-football-foundation/>)
 
-![Dr. César de la Fuente in profile against a colorful lab display.](https://images.ctfassets.net/kftzwdyauwt9/7gq9TtEoObNfTco2uH48q8/3b7813b2b5c5bce4a22a45a7220ac3f7/antibiotic-hero-1x1-preview.png?w=3840&q=90&fm=webp)
+![White R&D lettering over a purple and orange thermal image of a racing helmet.](https://images.ctfassets.net/kftzwdyauwt9/1fQoJn1iZzzNqo5Nr8VI7h/3d208eb87ae1c69e6dbd03946f609346/chip-ganassi-racing-art-card.jpg?w=3840&q=90&fm=webp)
 
-[Accelerating antibiotic discovery with ChatGPTSep 9, 2026](</index/accelerating-antibiotic-discovery/>)
+[Chip Ganassi Racing × OpenAIAPI](</index/chip-ganassi-racing/>)
 
 ## Latest research
 
@@ -116,17 +116,17 @@ Message ChatGPT
 
 [View all](</business/customer-stories/>)
 
-![Model ML customer story card image](https://images.ctfassets.net/kftzwdyauwt9/3STNMQMrFRC8mFdLYtjkV4/9cc21e9c729b2ae7cdf75aa3f49b3033/modelml-card.png?w=3840&q=90&fm=webp)
+![Revolut — Cover](https://images.ctfassets.net/kftzwdyauwt9/0FWnFsKPjYWJqbZm3GAiO/557172e4ecdffd1ebb1007f47c679562/revolut-cover.png?w=3840&q=90&fm=webp)
 
-[Model ML completes finance work more efficiently with GPT-5.6 SolStartupAug 10, 2026](</index/model-ml/>)
+[How Revolut raises ambition without lowering the bar](</business/customer-stories/revolut/>)
 
-![Virgin Atlantic ChatGPT Work card image](https://images.ctfassets.net/kftzwdyauwt9/4G2F8rchz4lfJxdQGBYEb0/e367ed4f9ac0a5cfe505ddb1eed20393/oai_VirginAtlantic_1x1.png?w=3840&q=90&fm=webp)
+![Holiday Extras Dots — Cover](https://images.ctfassets.net/kftzwdyauwt9/3qli9c38KLQKDDeVUxxMz3/aae2bf91a7f45b2844447ad2b2e579fc/holiday-extras-dots-cover.png?w=3840&q=90&fm=webp)
 
-[Virgin Atlantic sharpens customer journeys with ChatGPT WorkAug 10, 2026](</index/virgin-atlantic/chatgpt-work/>)
+[At Holiday Extras, dots get to work before anyone asks](</business/customer-stories/holiday-extras-dots/>)
 
-![Zapier customer story 1x1 artcard](https://images.ctfassets.net/kftzwdyauwt9/6HUH0KlGRmTuI2IZ6h334C/3c78b804553f7184f6d72c9b33a668c3/oai_Zapier_1x1.png?w=3840&q=90&fm=webp)
+![Shield customer story art card](https://images.ctfassets.net/kftzwdyauwt9/4CfbTP671OIBXAefIhFylo/55459081ad76a55d751bda065ff309f3/square.png?w=3840&q=90&fm=webp)
 
-[How Zapier transformed core marketing processes with ChatGPT WorkAug 10, 2026](</index/zapier/>)
+[Shield helps technicians hand off legacy portal work with OpenAI](</business/customer-stories/shield/>)
 
 ## Get started with ChatGPT
 
@@ -142,16 +142,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -164,7 +163,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -191,8 +191,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -211,6 +211,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

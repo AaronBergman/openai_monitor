@@ -52,8 +52,6 @@ $12K
 
 Model and infrastructure costs
 
-Loading…
-
 Share
 
 In order to modernize its frontend stack, Asana needed to finish a long-running code migration that was still years from completion. At its prior pace—with only a few engineers working on the migration incrementally alongside other priorities—Asana projected that it would take roughly five more years to complete. With Codex, Asana completed the project in about two weeks.
@@ -80,17 +78,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Proaction customer story art card - Option A](https://images.ctfassets.net/kftzwdyauwt9/46K6EGB5ApjTSkngvI7uU7/ce0c43f11865fd90348773ceb39485ee/proaction-option-a-art-card.png?w=3840&q=90&fm=webp)
+![Introducing Shirudo — square](https://images.ctfassets.net/kftzwdyauwt9/58krbvagr72pZbh5v5MX7d/7257d958e4c18b1c28895a7555277735/shirudo-final-square-2x.png?w=3840&q=90&fm=webp)
 
-[Proaction boosts sales 60% and saves 75+ hours with CodexSep 25, 2026](</index/proaction/>)
+[OpenAI and Cisco introduce ShirudoSecurityNov 23, 2026](</index/introducing-shirudo/>)
 
-![Two years of OpenAI Academy — card image](https://images.ctfassets.net/kftzwdyauwt9/Tc4KzRhOgVSaIxQoUkr9R/25c2cf38c314d47e6f3cb93e54e382aa/two-years-of-openai-academy-cover.png?w=3840&q=90&fm=webp)
+![Abstract amber and orange gradient with soft golden highlights.](https://images.ctfassets.net/kftzwdyauwt9/4eHI8zSanvO8vahhGHCnAL/23ffbfc074d63f19ca56a5e81c2caa1a/connected-intelligence-for-in-house-legal-amber-cover.png?w=3840&q=90&fm=webp)
 
-[Two years of OpenAI AcademyCompanySep 23, 2026](</index/two-years-of-openai-academy/>)
+[Connected intelligence for in-house legalWebinarsNov 23, 2026](</business/learn/connected-intelligence-for-in-house-legal/>)
 
-![OpenAI extends cyber access to Ukraine for civilian defense — cover](https://images.ctfassets.net/kftzwdyauwt9/4NsiJiqUurW5ypfaulGCFm/8b5bfad7d895c4fc6aa20766d5c88b0c/openai-extends-cyber-access-to-ukraine-for-civilian-defense-cover.png?w=3840&q=90&fm=webp)
+![Richpanel — Cover](https://images.ctfassets.net/kftzwdyauwt9/1rKCtFRlZxa18NisCqmSuN/c4f5753f8abe609e472aec9c0f2ec199/richpanel-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI extends cyber access to Ukraine for civilian defenseGlobal AffairsSep 23, 2026](</index/openai-extends-cyber-access-to-ukraine-for-civilian-defense/>)
+[Richpanel helps companies automate 50% of support in 30 daysStartupNov 23, 2026](</business/customer-stories/richpanel-ai-customer-support/>)
 
 Research
 
@@ -102,16 +100,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -124,7 +121,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -151,8 +149,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -171,6 +169,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

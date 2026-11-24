@@ -36,23 +36,29 @@ An advanced set of protections against unauthorized access to ChatGPT accounts, 
 
 [Learn more(opens in a new window)](<https://chatgpt.com/advanced-account-security>)
 
-Loading…
-
 Share
 
 How Advanced Account Security works
 
   * How Advanced Account Security works
+
   * Making phishing-resistant authentication more accessible with Yubico
+
   * Protecting Trusted Access for Cyber
+
   * An important step, with more to come
+
 
 
 
   * How Advanced Account Security works
+
   * Making phishing-resistant authentication more accessible with Yubico
+
   * Protecting Trusted Access for Cyber
+
   * An important step, with more to come
+
 
 
 
@@ -110,15 +116,17 @@ OpenAI
 
 [View all](</news/>)
 
-![ChatGPT for Teachers district expansion | Original neutral library cover](https://images.ctfassets.net/kftzwdyauwt9/4jHps0gmVQfIrnl2shwDBi/35e47854409876d353f3bb502a164317/teachers-original-neutral-listing.png?w=3840&q=90&fm=webp)
+![Introducing Shirudo — square](https://images.ctfassets.net/kftzwdyauwt9/58krbvagr72pZbh5v5MX7d/7257d958e4c18b1c28895a7555277735/shirudo-final-square-2x.png?w=3840&q=90&fm=webp)
 
-[Bringing ChatGPT for Teachers to more U.S. school districtsProductAug 26, 2026](</index/bringing-chatgpt-for-teachers-to-more-us-school-districts/>)
+[OpenAI and Cisco introduce ShirudoSecurityNov 23, 2026](</index/introducing-shirudo/>)
 
-![Learning never stops card image](https://images.ctfassets.net/kftzwdyauwt9/rGBw0SMWP2aaIH5twRBgX/5f8f24d0e5a03eecfc74ab6cee3dc331/learning-never-stops-how-ai-makes-learning-continuous-cover.png?w=3840&q=90&fm=webp)
+![Gold and blue-white stars trace arcs across a dark sky.](https://cdn.openai.com/mdx-assets/e193aefe-5e58-431c-8cd2-adadac0c1496/a8298611-fe6e-4853-90e1-7ec5b3bbdf5f.6a518def.png)
 
-[Learning never stops: How AI makes learning continuousProductAug 26, 2026](</index/learning-never-stops/>)
+[Introducing GPT-6.2 Astra and SolProductNov 17, 2026](</index/introducing-gpt-6-2-astra-sol/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Introducing ChatGPT for Sales — Cover](https://images.ctfassets.net/kftzwdyauwt9/8sL53Bp1mHxr6ASHIbFeD/50d1c33dde04603c981db37a59b63b26/introducing-chatgpt-for-sales-cover.png?w=3840&q=90&fm=webp)
+
+[Introducing ChatGPT for SalesProductNov 17, 2026](</index/introducing-chatgpt-for-sales/>)
 
 Research
 
@@ -130,15 +138,15 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -151,7 +159,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -169,6 +178,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -177,8 +187,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -197,6 +207,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

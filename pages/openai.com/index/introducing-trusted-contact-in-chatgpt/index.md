@@ -34,25 +34,33 @@ May 7, 2026
 
 Connecting you to someone you trust when it matters most.
 
-Loading…
-
 Share
 
 How Trusted Contact works
 
   * How Trusted Contact works
+
   * Trusted Contact follows a few steps:
+
   * Guided by clinicians and safety experts
+
   * Prioritizing safety at every stage
+
   * Continuing to evolve safety in AI
+
 
 
 
   * How Trusted Contact works
+
   * Trusted Contact follows a few steps:
+
   * Guided by clinicians and safety experts
+
   * Prioritizing safety at every stage
+
   * Continuing to evolve safety in AI
+
 
 
 
@@ -73,11 +81,17 @@ Trusted Contact builds on [parental controls safety notifications⁠(opens in a 
 ## Trusted Contact follows a few steps:
 
   * Users can add one adult (18+ Globally or 19+ in South Korea) as their Trusted Contact from their ChatGPT settings.
+
   * The Trusted Contact will receive an invitation explaining their role and must accept the invitation within one week in order for the feature to become active. If the Trusted Contact declines, the user can choose to add a different adult.
+
   * If our automated monitoring systems detect the user may be talking about self-harm in a way that indicates a serious safety concern, ChatGPT lets the user know that we may notify their Trusted Contact, and encourages the user to reach out to their Trusted Contact with suggested conversation starters.
+
   * From there, a small team of specially trained people review the situation. If these reviewers determine that the conversation may indicate a serious safety concern, ChatGPT will send the Trusted Contact a brief notification by email, text message, or in-app notification if they have a ChatGPT account
+
   * The notification is intentionally limited. It shares the general reason that self-harm came up in a potentially concerning way, and encourages the Trusted Contact to check in. It does not include chat details or transcripts to protect user privacy. The notification also includes a link to expert [_guidance_ ⁠(opens in a new window)](<https://help.openai.com/en/articles/20001195-being-someones-trusted-contact#responding-to-a-notification>) for navigating sensitive conversations.
+
   * Users can always remove or edit their Trusted Contact in settings and the Trusted Contact can remove themselves at any time from our [_help center._ ⁠(opens in a new window)](<https://help.openai.com/articles/20001196>)
+
 
 
 
@@ -100,9 +114,13 @@ We developed Trusted Contact with guidance from clinicians, researchers, and org
 In addition to Trusted Contact, ChatGPT has safeguards to help guide sensitive conversations at every stage. We have continued improving how the system responds to different levels of risk expressed in a conversation:
 
   * **Supporting real-world help** : In sensitive moments, ChatGPT may encourage people to contact emergency services, crisis helplines, mental health professionals, or trusted people in their lives. 
+
   * **Responding with care:** We’ve worked with [_170+ mental health experts_ ⁠](<https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations/>) to improve ChatGPT’s ability to detect and respond to signs of potential distress, de-escalate conversations, and guide people to real-world support when appropriate. 
+
   * **Helping people stay in control of their time:** In some situations, ChatGPT may suggest taking a break or stepping away after extended use to promote healthy technology habits.
+
   * **Refusing harmful requests:** ChatGPT is trained to refuse providing instructions for suicide or self-harm. When users request this type of information, the system is trained to refuse the request and instead redirects toward safer responses and will surface localized crisis resources.
+
 
 
 
@@ -125,15 +143,17 @@ OpenAI
 
 [View all](</news/>)
 
-[The Hugging Face incident and the road aheadSecurityAug 26, 2026](</index/hugging-face-incident-and-the-road-ahead/>)
+![Perplexity and Intelligence — Cover](https://images.ctfassets.net/kftzwdyauwt9/59nry7GNOkiMyCfrmaFJw6/3dc84144a23b0d65fa06805ae13e6a53/perplexity-and-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-![Our commitment to Zero Data Retention as AI advances — card](https://images.ctfassets.net/kftzwdyauwt9/6bPStWA6pc66cahnhg0jo6/61786b178401b6e902e9da65fa4da095/Blog_Thumbnail_-_OpenAI_Blog.png?w=3840&q=90&fm=webp)
+[Perplexity and IntelligenceResearchNov 22, 2026](</index/perplexity-and-intelligence/>)
 
-[Offering Zero Data Retention for frontier modelsCompanyAug 19, 2026](</index/offering-zero-data-retention-for-frontier-models/>)
+![A softly textured blue and turquoise gradient.](https://cdn.openai.com/mdx-assets/ec712845-fc63-4359-a7d8-e2088e063904/research-acceleration-card.41531bc2.png)
 
-![ChatGPT for Teens — square card](https://images.ctfassets.net/kftzwdyauwt9/5IP7e1KeD8zkZq6YUrKdKW/2325215681ea59d32dd09b3ea90f12c5/Art_Card-TEENS-1x13x.png?w=3840&q=90&fm=webp)
+[Research acceleration: The jagged frontierResearchNov 18, 2026](</index/research-acceleration-jagged-frontier/>)
 
-[Introducing ChatGPT for TeensProductAug 18, 2026](</index/chatgpt-for-teens/>)
+![Managing frontier AI risk: From training to deployment — Cover](https://images.ctfassets.net/kftzwdyauwt9/2wgLGyEPUNlB5pI0rK8Pld/a33fa3e03c8833d03b3876d6cf91d0ac/managing-frontier-ai-risk-cover.png?w=3840&q=90&fm=webp)
+
+[Managing frontier AI risk: From training to deploymentSafetyNov 18, 2026](</index/managing-frontier-ai-risk/>)
 
 Research
 
@@ -145,15 +165,15 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -166,7 +186,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -184,6 +205,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -192,8 +214,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -212,6 +234,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

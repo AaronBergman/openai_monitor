@@ -34,19 +34,21 @@ March 5, 2026
 
 Our latest tools and resources can help educational institutions close AI capability gaps.
 
-Loading…
-
 Share
 
 The next generation’s AI capability gap
 
   * The next generation’s AI capability gap
+
   * Tools and resources for educational institutions
+
 
 
 
   * The next generation’s AI capability gap
+
   * Tools and resources for educational institutions
+
 
 
 
@@ -73,10 +75,15 @@ Universities and education systems around the world are embracing their role in 
 To continue supporting the ecosystem, our tools and resources are designed to encourage richer use of AI while helping institutions measure, build, and demonstrate impact. Recent offerings include:
 
   * **Platforms to empower builders:**[_Codex_ ⁠](<https://openai.com/index/introducing-codex/>) and updates like [_GPT‑5.3‑Codex_ ⁠](<https://openai.com/index/introducing-gpt-5-3-codex/>) enable students to gain experience using coding agents to write features, answer questions about codebases, fix bugs, run tests, and iterate on applications. Incorporated into coursework and research settings, Codex gives learners hands-on practice scoping work, supervising agent progress, and validating results they’ll use in modern software and research engineering teams. 
+
   * **Research Collaboration Environment:**[_Prism_ ⁠](<https://openai.com/prism/>)​​ brings AI directly into scientific workflows through a free, LaTeX-native workspace that integrates our frontier models into research writing and collaboration. Researchers on campus can draft, revise, and prepare papers for publication in a single cloud-based environment, helping accelerate discovery while modeling the AI-assisted workflows students will likely encounter in the workforce. 
+
   * **OpenAI Certifications:**[_OpenAI Certifications_ ⁠](<https://openai.com/index/openai-certificate-courses/>) are in pilot at Arizona State University and the California State University system. These certifications create clear pathways for students, faculty, and staff to build practical, transferable AI skills and provide credible signals to employers about their ability to use AI effectively in the workplace.
+
   * **Resources to understand how AI supports learning outcomes:** [_The Learning Outcomes Measurement Suite_ ⁠](<https://openai.com/index/understanding-ai-and-learning-outcomes/>) will soon be available to educators and researchers with tools to measure how AI is affecting real learning and continuously improve it over time. Designed for use at scale, it enables institutions, school systems, and countries to track progress in reasoning, critical thinking, and mastery in ways that reflect their own goals and student populations.
+
   * **Learning tools and applications in ChatGPT:**[_Quizzes_ ⁠(opens in a new window)](<https://www.linkedin.com/posts/chatgpt-for-education_you-can-now-make-flashcards-inside-chatgpt-activity-7364708890883649538-wPZq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABkb2MkBn9Qp1PNUZujDr4pm1ZXv_r-XWJ8>) are available directly in ChatGPT, and tools like [_study mode_ ⁠](<https://openai.com/index/chatgpt-study-mode/>) are available to help students build deeper understanding through guiding questions that calibrate responses to their objective and skill level.
+
 
 
 
@@ -99,17 +106,17 @@ OpenAI
 
 [View all](</news/>)
 
-![DMUA Russia > card image ](https://images.ctfassets.net/kftzwdyauwt9/ciRSLFnJsNyxXYQjdoyqu/ff8ab22ad273ff79a4c9840f0c209fe6/Frame.png?w=3840&q=90&fm=webp)
+![Strengthening NATO and allied cyber defences with AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/mkN5DS8fsUZdCbrtXU5CJ/7ffd117eefcd930dd8a0dc4c82721d99/strengthening-nato-and-allied-cyber-defences-with-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Disrupting a new covert influence campaign from RussiaGlobal AffairsAug 25, 2026](</index/disrupting-malicious-uses-of-ai-influence-campaign-russia/>)
+[Strengthening NATO and allied cyber defenses with AIGlobal AffairsNov 17, 2026](</index/strengthening-nato-allied-cyber-defences-ai/>)
 
-![Strengthening Democratic Oversight in National Security — card image](https://images.ctfassets.net/kftzwdyauwt9/1qebg0OnHIh4dqr84zXR3Q/dba2f0e83ba4615a71894fd7fd1656e1/openai-democratic-oversight-page-cover-v002.png?w=3840&q=90&fm=webp)
+![Introducing OpenAI for Chile — Cover](https://images.ctfassets.net/kftzwdyauwt9/5c0RdO1eMpASEH79fHuJkt/2d8c656bd772ba036a6049d7cf9a2f0e/introducing-openai-for-chile-cover.png?w=3840&q=90&fm=webp)
 
-[Strengthening Democratic Oversight in National SecurityGlobal AffairsAug 18, 2026](</index/strengthening-democratic-oversight-in-national-security/>)
+[Introducing OpenAI for ChileGlobal AffairsNov 17, 2026](</index/introducing-openai-for-chile/>)
 
-![OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs — card image](https://images.ctfassets.net/kftzwdyauwt9/6RUPcXx0eTGghDpM851Qy1/ab11d2d0849ad9544249bf7b77ee46fe/openai-joins-ports-pike-project-cover-v001.png?w=3840&q=90&fm=webp)
+![The King’s Trust and OpenAI partnership — Cover](https://images.ctfassets.net/kftzwdyauwt9/7j93AvZKxba2iNSQCVuVP8/911c09306e272d78d8139431c58d8ac1/the-king-s-trust-and-openai-launch-1m-partnership-cover.png?w=3840&q=90&fm=webp)
 
-[OpenAI joins PORTS-Pike projectGlobal AffairsAug 17, 2026](</index/openai-joins-ports-pike-project/>)
+[The King’s Trust and OpenAI launch £1m partnershipGlobal AffairsNov 16, 2026](</index/the-kings-trust-and-openai/>)
 
 Research
 
@@ -121,15 +128,15 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -142,7 +149,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -160,6 +168,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -168,8 +177,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -188,6 +197,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

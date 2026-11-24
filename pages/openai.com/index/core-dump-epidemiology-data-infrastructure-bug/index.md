@@ -34,39 +34,61 @@ June 30, 2026
 
 Using population-level analysis to debug tricky crashes in our data infrastructure.
 
-Loading…
-
 Share
 
 First debugging attempt: carefully examining a few core dumps
 
   * First debugging attempt: carefully examining a few core dumps
+
   * Clues from the stack
+
   * Doctor or epidemiologist?
+
   * Cleaning the data
+
   * Bug #1: the bad host
+
   * Exception handling is a dynamic control transfer
+
   * Undoing one last assumption
+
   * Bug #2: the libunwind bug
+
   * Why the cores masked as ordinary bad returns
+
   * A single-instruction race window
+
   * Why did the libunwind bug appear now?
+
   * The power of a population-level diagnosis
+
 
 
 
   * First debugging attempt: carefully examining a few core dumps
+
   * Clues from the stack
+
   * Doctor or epidemiologist?
+
   * Cleaning the data
+
   * Bug #1: the bad host
+
   * Exception handling is a dynamic control transfer
+
   * Undoing one last assumption
+
   * Bug #2: the libunwind bug
+
   * Why the cores masked as ordinary bad returns
+
   * A single-instruction race window
+
   * Why did the libunwind bug appear now?
+
   * The power of a population-level diagnosis
+
 
 
 
@@ -194,7 +216,7 @@ The answer was yes.
 
 Here are the last six instructions of `_Ux86_64_setcontext` in the version of GNU libunwind we were using, which consist mostly of `mov` instructions that load from memory to a destination register:
 
-#### Plain Text
+#### Plain text
 
 `
     
@@ -307,17 +329,17 @@ By Nathan Bronson, Member of Technical Staff
 
 [View all](</news/>)
 
-![Scaling Storage for 1 Billion ChatGPT Users \(Part I\) card image](https://images.ctfassets.net/kftzwdyauwt9/2X23NOb0P4V1KDzUBkeNpl/888204b45a1c84ddfa24c9ed31111a9c/OAI_HabitatPT1_Art_Card_1x1.png?w=3840&q=90&fm=webp)
+![Performance Factory — Art card](https://images.ctfassets.net/kftzwdyauwt9/iYpBFP2nteJOaNG1v5Rrp/e0eb5dbefa86d133c3392df5983e45a3/performance-factory-cover.png?w=3840&q=90&fm=webp)
 
-[Rapidly scaling online storage to serve over 1 billion ChatGPT usersEngineeringSep 11, 2026](</index/scaling-storage-one-billion-users-part-one/>)
+[How OpenAI’s Performance Factory keeps ChatGPT fastEngineeringNov 19, 2026](</index/how-openai-performance-factory-keeps-chatgpt-fast/>)
 
-![Jalapeño inference — Art Card](https://images.ctfassets.net/kftzwdyauwt9/26K8mLbrpbaDvoFY0NrE04/8e4ad0b3f28042c22d6d5130bd4f4019/jalapeno-art-card.png?w=3840&q=90&fm=webp)
+![Inside the Codex sandbox — art card](https://images.ctfassets.net/kftzwdyauwt9/17rE7b6kMUdw2yIiz0HMiL/55db38c36cab045cc6b9b67093560f14/inside-the-codex-sandbox-art-card.png?w=3840&q=90&fm=webp)
 
-[Jalapeño’s first results show industry-leading speed and efficiency in AI inferenceEngineeringAug 25, 2026](</index/jalapeno-first-results/>)
+[Inside the Codex sandboxEngineeringNov 18, 2026](</index/inside-the-codex-sandbox/>)
 
-![Continuous voice interaction with GPT Live - art card](https://images.ctfassets.net/kftzwdyauwt9/3PyfDzfjOozLbJnaZIkRLD/6aef080bb4e7d6a6b8a6dc23436848db/gpt-live-art-card.png?w=3840&q=90&fm=webp)
+![Scaling Git at OpenAI — art card](https://images.ctfassets.net/kftzwdyauwt9/6G64B5haCxDuphl2iqwZ1N/4f8d319293f5e5e98b319e01b4fbdf59/scaling-git-at-openai-art-card.png?w=3840&q=90&fm=webp)
 
-[Continuous voice interaction with GPT LiveEngineeringAug 3, 2026](</index/continuous-voice-interaction-with-gpt-live/>)
+[Scaling Git at OpenAIEngineeringNov 2, 2026](</index/scaling-git-at-openai/>)
 
 Research
 
@@ -329,16 +351,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -351,7 +372,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -369,6 +391,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -377,8 +400,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -397,6 +420,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
