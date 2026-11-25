@@ -41,14 +41,20 @@ Share
 Bringing OpenAI capabilities into AWS environments
 
   * Bringing OpenAI capabilities into AWS environments
+
   * Helping customers move from interest to implementation
+
   * What’s next, including cyber availability
+
 
 
 
   * Bringing OpenAI capabilities into AWS environments
+
   * Helping customers move from interest to implementation
+
   * What’s next, including cyber availability
+
 
 
 
@@ -78,28 +84,6 @@ As customers begin using these capabilities, the AWS path helps reduce friction 
 
 — Ritesh Bansal, VP of Analytics Data, Agentic AI and AI/ML Platform at Autodesk
 
-1 of 2
-
-> “At Amgen, we’re focused on applying advanced AI in ways that may help accelerate the delivery of potential new therapies while equipping our teams with advanced tools. OpenAI’s GPT‑5.5 and frontier models offer compelling advances in capability, quality, and consistency that matter in a field where the questions are complex and the standards for scientific accuracy and decision quality are exceptionally high. Making these models available on AWS gives us an important new path to explore and scale those capabilities within the responsible AI framework, including security, governance, and operational frameworks across the enterprise.”
-
-— Sean Bruich, Senior Vice President, Chief Technology Officer at Amgen
-
-> “Autodesk is the technology platform for the people who design and make the world around us. Workflows like building design are highly iterative, requiring precision, coordination, and continuous refinement across teams. With OpenAI models and Codex now generally available on Amazon Bedrock, our teams are evaluating how frontier AI capabilities and AI-powered development tools on scalable, secure AWS infrastructure can help accelerate development workflows and support more informed decision-making for our customers.”
-
-— Ritesh Bansal, VP of Analytics Data, Agentic AI and AI/ML Platform at Autodesk
-
-  * Amgen
-
-  * Autodesk
-
-
-
-
-  * Amgen
-  * Autodesk
-
-
-
 ## What’s next, including cyber availability
 
 OpenAI on AWS is the start of a broader path for customers to bring frontier AI into the environments where they already build, govern, and ship. We’ll continue expanding the OpenAI capabilities available through AWS so teams can move from evaluation to production with less friction and more confidence.
@@ -124,17 +108,17 @@ OpenAI
 
 [View all](</news/>)
 
-![ChatGPT Ads expands to Southeast Asia and Taiwan — cover](https://images.ctfassets.net/kftzwdyauwt9/2LRApkCOWR8QHAX6Sj3Rik/367336096ea9ec8e9623c1f4d6035c9f/chatgpt-ads-expands-to-southeast-asia-and-taiwan-cover.png?w=3840&q=90&fm=webp)
+![Gold and blue-white stars trace arcs across a dark sky.](https://cdn.openai.com/mdx-assets/e193aefe-5e58-431c-8cd2-adadac0c1496/a8298611-fe6e-4853-90e1-7ec5b3bbdf5f.6a518def.png)
 
-[ChatGPT Ads expands to Southeast Asia and TaiwanProductSep 23, 2026](</index/chatgpt-ads-expands-southeast-asia-taiwan/>)
+[Introducing GPT-6.2 Astra and SolProductNov 17, 2026](</index/introducing-gpt-6-2-astra-sol/>)
 
-![Better prompt caching for GPT-6 — Card image](https://images.ctfassets.net/kftzwdyauwt9/72ZKzMh8JgRDfdg4EYRtwY/ee5e406a08b69f00b0beb4ac00270364/7kneoqlc2qh37z1utkmtfk-cover-v1.png?w=3840&q=90&fm=webp)
+![Introducing ChatGPT for Sales — Cover](https://images.ctfassets.net/kftzwdyauwt9/8sL53Bp1mHxr6ASHIbFeD/50d1c33dde04603c981db37a59b63b26/introducing-chatgpt-for-sales-cover.png?w=3840&q=90&fm=webp)
 
-[Better prompt caching for GPT-6ProductSep 22, 2026](</index/better-prompt-caching-for-gpt-6/>)
+[Introducing ChatGPT for SalesProductNov 17, 2026](</index/introducing-chatgpt-for-sales/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![More ways to move care forward with ChatGPT for Healthcare — Cover](https://images.ctfassets.net/kftzwdyauwt9/z04YGXDiiB9gJhtnjWey2/1cef69c9ddda33271ccfdf8a5b4986e5/more-ways-to-move-care-forward-with-chatgpt-for-healthcare-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
+[More ways to move care forward with ChatGPT for HealthcareProductNov 16, 2026](</index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare/>)
 
 Research
 
@@ -146,16 +130,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -168,7 +151,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -195,8 +179,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -215,6 +199,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

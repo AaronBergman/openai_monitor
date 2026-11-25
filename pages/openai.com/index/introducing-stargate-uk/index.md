@@ -34,8 +34,6 @@ September 16, 2025
 
 ![Abstract background with sweeping pastel gradients of blue, pink, and violet, forming a soft, diagonal flow across the image.](https://images.ctfassets.net/kftzwdyauwt9/3LAy5OZWy7j7XvYpGXzE47/94d9a137e001e0bbf2de3b661c9b5355/oai_GA_Stories_16.9.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 We’re announcing Stargate UK—an AI infrastructure partnership with NVIDIA and Nscale that strengthens the UK’s sovereign compute capabilities. Stargate UK ensures OpenAI’s world-leading AI models can run on local computing power in the UK, for the UK—particularly for specialist use cases where jurisdiction matters. This will help power the UK’s future economy, boost its global competitiveness and deliver on the country’s national AI Opportunities Action Plan.
 
 The initiative marks a major step forward in the US-UK technology partnership and is the latest rollout of OpenAI for Countries to support governments that want to build out their sovereign AI capabilities. It follows the [MoU](</global-affairs/openai-and-uk-government-partnership/>) we signed with the UK Government in July 2025 to explore the UK’s infrastructure priorities and accelerate the adoption of AI.
@@ -67,17 +65,17 @@ OpenAI
 
 [View all](</news/>)
 
-![ChatGPT Ads expands across Europe - Card image](https://images.ctfassets.net/kftzwdyauwt9/IMh9E5WMDoVaUJyBJrsEP/697ba885d5e89b6bd27a55b9c9a783ae/chatgpt-ads-europe-readable-card.png?w=3840&q=90&fm=webp)
+![Le Groupe Figaro and OpenAI announce partnership — cover](https://images.ctfassets.net/kftzwdyauwt9/4SnfEKjmVoRPgSgiCy8IzI/1f454e874489f6c318c078766456ac70/le-groupe-figaro-and-openai-announce-partnership-cover.png?w=3840&q=90&fm=webp)
 
-[ChatGPT Ads expands across EuropeProductAug 18, 2026](</index/chatgpt-ads-expands-across-europe/>)
+[Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPTCompanyNov 18, 2026](</index/le-groupe-figaro-and-openai-announce-partnership/>)
 
-![Strengthening Democratic Oversight in National Security — card image](https://images.ctfassets.net/kftzwdyauwt9/1qebg0OnHIh4dqr84zXR3Q/dba2f0e83ba4615a71894fd7fd1656e1/openai-democratic-oversight-page-cover-v002.png?w=3840&q=90&fm=webp)
+![Strengthening NATO and allied cyber defences with AI — Cover](https://images.ctfassets.net/kftzwdyauwt9/mkN5DS8fsUZdCbrtXU5CJ/7ffd117eefcd930dd8a0dc4c82721d99/strengthening-nato-and-allied-cyber-defences-with-ai-cover.png?w=3840&q=90&fm=webp)
 
-[Strengthening Democratic Oversight in National SecurityGlobal AffairsAug 18, 2026](</index/strengthening-democratic-oversight-in-national-security/>)
+[Strengthening NATO and allied cyber defenses with AIGlobal AffairsNov 17, 2026](</index/strengthening-nato-allied-cyber-defences-ai/>)
 
-![Partnering with CodeAI — accessible card image](https://images.ctfassets.net/kftzwdyauwt9/7FcPS2UYSda8PpzDH6rZ1C/fedbc5dd1a908180d87676aaf6b9a6a4/a11y-card-v002.png?w=3840&q=90&fm=webp)
+![Astra for Law leads in legal intelligence: card \(smooth background\)](https://images.ctfassets.net/kftzwdyauwt9/1Hxi3uH1AJ6fUnzQ0erHqG/11f533e3fa6e55246949941ca27888c9/astra-law-legal-intelligence-card-smooth.png?w=3840&q=90&fm=webp)
 
-[Partnering with CodeAI to prepare the first AI generationCompanyAug 18, 2026](</index/partnering-with-codeai/>)
+[Astra for Law leads in legal intelligenceCompanyNov 17, 2026](</index/astra-law-6-2/>)
 
 Research
 
@@ -89,15 +87,15 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -110,7 +108,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -128,6 +127,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -136,8 +136,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -156,6 +156,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

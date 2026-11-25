@@ -37,14 +37,20 @@ Testing universal jailbreaks for biorisks in ChatGPT Agent
 Invitation
 
   * Invitation
+
   * Program overview
+
   * How to apply
+
 
 
 
   * Invitation
+
   * Program overview
+
   * How to apply
+
 
 
 
@@ -55,14 +61,20 @@ As part of our ongoing efforts to strengthen our safeguards for advanced AI capa
 ### Program overview
 
   * **Model in scope:** ChatGPT agent only.
+
   * **Challenge:** Identify one universal jailbreaking prompt to successfully answer all ten bio/chem safety questions from a clean chat.
+
   * **Rewards:  
 ** • $25,000 to the first true universal jailbreak to clear all ten questions.  
 • $10,000 to the first team that answers all ten questions with multiple jailbreak prompts.  
 • Smaller awards may be granted for partial wins at our discretion.
+
   * **Timeline:** Applications open July 17, 2025 with rolling acceptances. Testing begins July 29, 2025.
+
   * **Access:** Application and invite-only. We will extend invitations to a vetted list of trusted bio red-teamers and review new applications. Once selected, successful applicants will be onboarded to the bio bug bounty platform.
+
   * **Disclosure:** All prompts, completions, findings, and communications are covered by NDA.
+
 
 
 
@@ -82,17 +94,17 @@ OpenAI
 
 ## Keep reading
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![The GPT-6 family of models demonstrates intrinsic protein-design capabilities — Cover](https://images.ctfassets.net/kftzwdyauwt9/3R33tya2DbYjbinXosKZnX/791e05bf51a254cbf0b11f804f1d4d4f/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-cover.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[GPT-6 models demonstrate intrinsic protein-design capabilitiesScienceNov 24, 2026](</index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![Searching for distant planets with Astra — Cover](https://images.ctfassets.net/kftzwdyauwt9/7Fhi4CJjSh5B8NNQDDr7pd/1c5136956dbb6d35042344ed4aaeedbb/searching-for-distant-planets-with-astra-cover.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[Searching for distant planets with AstraScienceNov 24, 2026](</index/searching-for-distant-planets-with-astra/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![iFood customer story card](https://images.ctfassets.net/kftzwdyauwt9/7mfDJaGQCldY0Jgf79EXQK/7b6185f4288b3428e6540950c59f1857/ifood-customer-story-card.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[How iFood scales coding agents across 15,000 repositoriesNov 24, 2026](</business/customer-stories/ifood/>)
 
 Research
 
@@ -104,15 +116,15 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -125,7 +137,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -143,6 +156,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -151,8 +165,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -171,6 +185,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
