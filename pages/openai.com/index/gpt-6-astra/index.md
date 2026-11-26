@@ -36,7 +36,17 @@ Astra
 
 ## A new generation of intelligence
 
- _**Update on September 22, 2026:**__We are expanding our GPT‑6 family with GPT‑6 Sol and GPT‑6 Luna._[_Learn more._](</index/introducing-gpt-6-sol-and-luna/>)
+ _**Update on November 17, 2026:**__Learn about OpenAI 's latest model: _[_GPT‑6.2 Astra and Sol_ ⁠](<https://openai.com/index/introducing-gpt-6-2-astra-sol/>).
+
+* * *
+
+_**Update on September 29, 2026:**__Learn about OpenAI 's latest model: _[_GPT‑6 .1 Sol_ ⁠](</index/introducing-gpt-6-1-sol/>) _._
+
+* * *
+
+_**Update on September 22, 2026:**__We are expanding our GPT‑6 family with GPT‑6 Sol and GPT‑6 Luna._[_Learn more._](</index/introducing-gpt-6-sol-and-luna/>)
+
+* * *
 
 We’re introducing GPT‑6 Astra, the world’s most intelligent and aligned model.
 
@@ -115,21 +125,6 @@ John Crepezzi, AI Assistants, Jane Street
 > “We tested Astra across low, medium, and high effort on one of our first-generation evals, and it came out significantly ahead of GPT 5.6 Sol. Higher effort buys more iterations on a fresh build, more verification through browser testing, and a lean toward code execution over apply-patch. Understanding how a model spends its effort is how we give millions of builders a faster, more reliable path from idea to working app.”
 
 Fabian Hedin, CTO & Co-founder, Lovable
-
-1 of 2
-
-> “GPT‑6 Astra delivers state-of-the-art performance on our internal coding benchmarks and shows a clear step forward in trading intuition evaluations compared with GPT‑5.6 Sol. When used for agentic coding, GPT‑6 Astra communicates in a way that’s easier for developers to follow and produces code that requires less iteration to reach production quality.”
-
-John Crepezzi, AI Assistants, Jane Street
-
-> “We tested Astra across low, medium, and high effort on one of our first-generation evals, and it came out significantly ahead of GPT 5.6 Sol. Higher effort buys more iterations on a fresh build, more verification through browser testing, and a lean toward code execution over apply-patch. Understanding how a model spends its effort is how we give millions of builders a faster, more reliable path from idea to working app.”
-
-Fabian Hedin, CTO & Co-founder, Lovable
-
-  * Jane Street
-  * Lovable
-
-
 
 Terminal-Bench 4.0FrontierCode 1.1 ExtendedDeepSWEArtificial Analysis Coding AgentDatabase Migration Tasks (Internal)
 
@@ -377,16 +372,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -399,7 +393,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -426,8 +421,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -446,6 +441,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -486,9 +482,13 @@ _BenchCAD tests whether models can reconstruct 3D objects from multi-view render
 
 Reference file
 
+Loading...
+
 GPT‑6 Astra output
 
- _GPT‑6 Astra creates a slideshow about GPT‑Gaia, a fictional model, using just a few slides from OpenAI’s presentation template, capturing the correct tone and layout throughout. This means you can expect slide decks that are correctly formatted for your business standards._
+Loading...
+
+_GPT‑6 Astra creates a slideshow about GPT‑Gaia, a fictional model, using just a few slides from OpenAI’s presentation template, capturing the correct tone and layout throughout. This means you can expect slide decks that are correctly formatted for your business standards._
 
 _GPT‑6 Astra models a house in Blender and turns it into a walkable scene in Unreal Engine 5, helping designers and clients explore the layout and experience the space before it’s built.___
 

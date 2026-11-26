@@ -32,9 +32,12 @@ OpenAI
 
 # Lucid
 
-Ideate, diagram & align teams.
+Diagram & align in Lucidchart
 
 [Install plugin(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69c597eebdd4819194fd9c4d03acedb6>)[Contact sales](</contact-sales/>)
+
+Capabilities
+    MCP, Documents, Diagrams, Whiteboarding, Collaboration, Export
 
 Category
     [Productivity](</business/plugins/?tab=plugins-productivity>)
@@ -45,31 +48,31 @@ Developer
 Website
     [(opens in a new window)](<https://lucid.co/>)
 
-[![](https://files.openai.com/content?id=file_00000000463871f7975dfeaf1da50509&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=7&sig=a08e1383d431799134591a8755a9663aca8ab9b6b573e8fa7755b596a987ad37&v=0)![](https://files.openai.com/content?id=file_00000000463871f7975dfeaf1da50509&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=7&sig=a08e1383d431799134591a8755a9663aca8ab9b6b573e8fa7755b596a987ad37&v=0)Lucid Can you summarize my "Q2 Product Launch Planning Board Summary" from Lucid?(opens in a new window)](<https://chatgpt.com/?prompt=%40Lucid+Can+you+summarize+my+%22Q2+Product+Launch+Planning+Board+Summary%22+from+Lucid%3F>)
+[![](https://files.openai.com/content?id=file_00000000235081f8802f3a737ad89534&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=8b9086bc6a5e8afb9397733aa959b533e468c5279f566639e5903d5adcf29fdc&v=0)Lucid Get me up to speed on a document and provide a summary with key insights.(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69c597eebdd4819194fd9c4d03acedb6?install&prompt=Get%20me%20up%20to%20speed%20on%20a%20document%20and%20provide%20a%20summary%20with%20key%20insights.>)
 
 ## How it works
 
-Simplify your workflow by using ChatGPT to generate foundational Lucidchart diagrams directly from your conversation. Beyond seamless diagram creation, this integration acts as a digital bridge, allowing you to instantly search, retrieve, share, and summarize your existing Lucid documents right within ChatGPT. Whether you are jumpstarting a new process map or extracting insights from complex boards, you can now eliminate the bottleneck of context-switching and provide your AI with the visual context it needs to accelerate your work.
+Simplify your workflow by connecting ChatGPT or Codex to Lucid to generate new Lucidchart diagrams from conversations. Instantly create flowcharts, sequence diagrams, process maps, customer journey maps, and more. You can also search, edit, share, and summarize existing Lucid documents within ChatGPT & Codex. Give ChatGPT & Codex the foundational visual context needed to create code and plan projects without switching tools.
 
 ## What else can you do?
 
   * ### Map a team workflow
 
-![](https://files.openai.com/content?id=file_00000000463871f7975dfeaf1da50509&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=7&sig=a08e1383d431799134591a8755a9663aca8ab9b6b573e8fa7755b596a987ad37&v=0)![](https://files.openai.com/content?id=file_00000000463871f7975dfeaf1da50509&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=7&sig=a08e1383d431799134591a8755a9663aca8ab9b6b573e8fa7755b596a987ad37&v=0)Lucid Create a flowchart of the process in this brief. Show decision points and handoffs, highlight unclear steps, and keep the labels understandable to a new teammate.
+![](https://files.openai.com/content?id=file_00000000235081f8802f3a737ad89534&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=8b9086bc6a5e8afb9397733aa959b533e468c5279f566639e5903d5adcf29fdc&v=0)Lucid Create a flowchart of the process in this brief. Show decision points and handoffs, highlight unclear steps, and keep the labels understandable to a new teammate.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Lucid+Create+a+flowchart+of+the+process+in+this+brief.+Show+decision+points+and+handoffs%2C+highlight+unclear+steps%2C+and+keep+the+labels+understandable+to+a+new+teammate.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69c597eebdd4819194fd9c4d03acedb6?install&prompt=Create%20a%20flowchart%20of%20the%20process%20in%20this%20brief.%20Show%20decision%20points%20and%20handoffs%2C%20highlight%20unclear%20steps%2C%20and%20keep%20the%20labels%20understandable%20to%20a%20new%20teammate.&surface=work>)
 
   * ### Diagram an architecture
 
-![](https://files.openai.com/content?id=file_00000000463871f7975dfeaf1da50509&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=7&sig=a08e1383d431799134591a8755a9663aca8ab9b6b573e8fa7755b596a987ad37&v=0)![](https://files.openai.com/content?id=file_00000000463871f7975dfeaf1da50509&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=7&sig=a08e1383d431799134591a8755a9663aca8ab9b6b573e8fa7755b596a987ad37&v=0)Lucid Create an architecture diagram from this system description. Separate components and data flows, and label assumptions that need confirmation.
+![](https://files.openai.com/content?id=file_00000000235081f8802f3a737ad89534&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=8b9086bc6a5e8afb9397733aa959b533e468c5279f566639e5903d5adcf29fdc&v=0)Lucid Create an architecture diagram from this system description. Separate components and data flows, and label assumptions that need confirmation.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Lucid+Create+an+architecture+diagram+from+this+system+description.+Separate+components+and+data+flows%2C+and+label+assumptions+that+need+confirmation.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69c597eebdd4819194fd9c4d03acedb6?install&prompt=Create%20an%20architecture%20diagram%20from%20this%20system%20description.%20Separate%20components%20and%20data%20flows%2C%20and%20label%20assumptions%20that%20need%20confirmation.&surface=work>)
 
   * ### Visualize an onboarding journey
 
-![](https://files.openai.com/content?id=file_00000000463871f7975dfeaf1da50509&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=7&sig=a08e1383d431799134591a8755a9663aca8ab9b6b573e8fa7755b596a987ad37&v=0)![](https://files.openai.com/content?id=file_00000000463871f7975dfeaf1da50509&cdn=1&cp=pi&ma=32486400&ts=0&p=pi&cid=7&sig=a08e1383d431799134591a8755a9663aca8ab9b6b573e8fa7755b596a987ad37&v=0)Lucid Turn this customer onboarding outline into a diagram. Show the main path and exceptions, then identify handoffs that may cause confusion.
+![](https://files.openai.com/content?id=file_00000000235081f8802f3a737ad89534&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=8&sig=8b9086bc6a5e8afb9397733aa959b533e468c5279f566639e5903d5adcf29fdc&v=0)Lucid Turn this customer onboarding outline into a diagram. Show the main path and exceptions, then identify handoffs that may cause confusion.
 
-[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/?surface=work&q=%40Lucid+Turn+this+customer+onboarding+outline+into+a+diagram.+Show+the+main+path+and+exceptions%2C+then+identify+handoffs+that+may+cause+confusion.>)
+[Try in ChatGPT Work(opens in a new window)](<https://chatgpt.com/plugins/plugin_asdk_app_69c597eebdd4819194fd9c4d03acedb6?install&prompt=Turn%20this%20customer%20onboarding%20outline%20into%20a%20diagram.%20Show%20the%20main%20path%20and%20exceptions%2C%20then%20identify%20handoffs%20that%20may%20cause%20confusion.&surface=work>)
 
 
 
@@ -82,13 +85,26 @@ Simplify your workflow by using ChatGPT to generate foundational Lucidchart diag
 
 
 
+### Skills
+
+  * lucid
+  * lucid-create-flowchart
+  * lucid-diagram-bpmn
+  * lucid-diagram-cloud-architecture
+  * lucid-diagram-code
+  * lucid-diagram-enterprise-architecture
+  * lucid-entity-relationship-diagram
+  * visualizations
+
+
+
 ## Resources
 
-### [Help centerLearn more](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
+### [Help centerLearn more(opens in a new window)](<https://help.openai.com/en/articles/11487775-connectors-in-chatgpt>)
 
-### [Plugin supportLearn more](<https://lucid.co/contact-us>)
+### [Plugin supportLearn more(opens in a new window)](<https://lucid.co/contact-us>)
 
-### [Privacy policyLearn more](<https://lucid.co/privacy>)
+### [Privacy policyLearn more(opens in a new window)](<https://lucid.co/privacy>)
 
 ## Add the Lucid plugin in a few clicks
 
@@ -98,13 +114,23 @@ Availability depends on the plugin, your plan, and workspace settings. Some conn
 
 ## Explore related plugins
 
-[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts.](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative.](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets.](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs.](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_000000008dc481f7b61b0e99245634da&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=21b69796b1bb01a2a25a7cc6bdc8146ed659522b1b4e8d866db33fb986b68bf4&v=0)![](https://files.openai.com/content?id=file_000000008dc481f7b61b0e99245634da&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=21b69796b1bb01a2a25a7cc6bdc8146ed659522b1b4e8d866db33fb986b68bf4&v=0)MiroVisualize and structure ideas](</business/plugins/miro/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects.](</business/plugins/linear/>)
+[![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)![](https://files.openai.com/content?id=file_000000005c608230b877bc897fa75256&cdn=1&cp=pi&ma=31622400&ts=0&p=pi&cid=1&sig=8645995b849ceccce60bf2b798fdb25428471458f32025c66606df1c7046ec07&v=0)Product DesignTurn product ideas into designs and research artifacts](</business/plugins/product-design/>)[![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)![](https://files.openai.com/content?id=file_00000000bdb4720caff269fd259bbdff&cdn=1&cp=pi&ma=32054400&ts=0&p=pi&cid=1&sig=20268aaf4f0c92265b5b4945d13a456968c0e1a5013b3be043a94650a9b37e03&v=0)Creative ProductionUse the Creative Production plugin in ChatGPT to create, adapt, and review marketing assets, campaign concepts, ads, and launch creative](</business/plugins/creative-production/>)[![](https://files.openai.com/content?id=file_000000003d64820c9105c859db57fe4d&cdn=1&cp=pi&ma=31017600&ts=0&p=pi&cid=8&sig=bc9fd0fe7aa6a14439c3dae08ded4377aa99f2dd20e5b52ca3db8dd40fd5d2fc&v=0)![](https://files.openai.com/content?id=file_000000001f3c81fd88149faceddc19df&cdn=1&cp=pi&ma=32659200&ts=0&p=pi&cid=8&sig=f45f28e94aaa8443b2c849d11cfe2c843efe0d98efc51230e2ab72c39610b193&v=0)FigmaMake diagrams, slides, assets](</business/plugins/figma/>)[![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)![](https://files.openai.com/content?id=file_000000000ee871fd807d17a056d79aa7&cdn=1&cp=pi&ma=30153600&ts=0&p=pi&cid=1&sig=07ea3990463c5d5c58deba9d55d8dfa10178b2a1cabb20fb0fdcf93fc218472b&v=0)CanvaSearch, create, and edit designs](</business/plugins/canva/>)[![](https://files.openai.com/content?id=file_000000008dc481f7b61b0e99245634da&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=21b69796b1bb01a2a25a7cc6bdc8146ed659522b1b4e8d866db33fb986b68bf4&v=0)![](https://files.openai.com/content?id=file_000000008dc481f7b61b0e99245634da&cdn=1&cp=pi&ma=30499200&ts=0&p=pi&cid=8&sig=21b69796b1bb01a2a25a7cc6bdc8146ed659522b1b4e8d866db33fb986b68bf4&v=0)MiroVisualize and structure ideas](</business/plugins/miro/>)[![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)![](https://files.openai.com/content?id=file_0000000021547230b7f5dfd4accb4de5&cdn=1&cp=pi&ma=31190400&ts=0&p=pi&cid=1&sig=dea02d9468c390a41124840b9b7cd6f54576f35b34b1ffe98d4ae90668efa963&v=0)LinearFind and reference issues and projects](</business/plugins/linear/>)
 
 ## Get started with plugins
 
 Bring your organization’s data and tools into OpenAI products and accelerate what your teams can do.
 
 [Try ChatGPT Business(opens in a new window)](<https://chatgpt.com/team-sign-up>)[Contact sales](</contact-sales/>)
+
+## Get OpenAI for Business updates
+
+Product updates, practical guides, upcoming events, and more.
+
+Email address *
+
+By subscribing, you agree to receive emails from OpenAI. You can unsubscribe at any time. Read our [Privacy Policy⁠](<https://openai.com/policies/privacy-policy/>).
+
+Subscribe
 
 Research
 
@@ -116,16 +142,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -138,7 +163,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -165,8 +191,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -185,6 +211,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
@@ -217,16 +244,16 @@ EnglishUnited States
 
 Browse for plugins that support your team’s tools and tasks.
 
-![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/6yJgeQSCr32uzNSynka2cc/f5da877c4684cb18ecb9babf62723e2b/1.png?w=3840&q=90&fm=webp)
+![ChatGPT plugin directory showing Google Drive, Slack, and Google Calendar.](https://images.ctfassets.net/kftzwdyauwt9/2jqkTQJ2Vae2cDvApwjWbv/114f8094264b251a25199e96d36f0461/plugins_1.png?w=3840&q=90&fm=webp)
 
 ### 2Install and connect2Install and connect
 
 Install the plugin, then follow the prompts to review permissions and connect any required apps.
 
-![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/7gNt7Pk3s8Mf0ql8JAedDS/c533bb5268aef1bed2ef56d5f5ccb06f/2.png?w=3840&q=90&fm=webp)
+![Select the add button to install the Gmail plugin.](https://images.ctfassets.net/kftzwdyauwt9/5iBYEOE8sKrm8lebUKnhWT/9dab229e6349d43666420ea5ca0ef084/plugins_2.png?w=3840&q=90&fm=webp)
 
 ### 3Put it to work3Put it to work
 
 Start a new chat in ChatGPT Work or Codex, describe the result you need, and ask it to use plugins.
 
-![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/tQaC60CeLrMeEalZJnAwl/b4419ccddbaed0103124a22854097e81/3.png?w=3840&q=90&fm=webp)
+![Ask ChatGPT to prepare a meeting brief using Google Calendar, Gmail, and Slack.](https://images.ctfassets.net/kftzwdyauwt9/7edxmffWzWeYqCBBoGeGy4/94ca943f1a14a78cb14f5e25d875901d/plugins_3.png?w=3840&q=90&fm=webp)

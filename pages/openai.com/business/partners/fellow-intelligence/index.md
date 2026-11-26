@@ -38,7 +38,7 @@ OpenAI
 
 Fellow Intelligence helps organizations turn AI ambition into measurable business impact. As part of the Thinking Machines Data Science group, we support enterprises through AI capability building, consulting, and production-grade AI tech solutions. Since 2015, our group has trained more than 10,000 professionals and delivered AI and data systems to 150+ clients across financial services, retail, conglomerates, and civic organizations. We co-create with client teams, embed change management from day one, and build the foundations that make AI truly transformative.
 
-![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_8zRkpxed5hBwdqpwBygFpwR3bW43)
+![Advanced Partner](/images/partner-tier-badges/OAI_PartnerNetwork_AdvancedPartner.svg?dpl=dpl_AN37AoSe6dehVs8tMi5RooSqjwuV)
 
 Countries served
     Thailand
@@ -56,15 +56,15 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -77,7 +77,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -95,6 +96,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -103,8 +105,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -123,6 +125,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

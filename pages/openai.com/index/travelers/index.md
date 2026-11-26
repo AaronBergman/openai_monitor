@@ -46,8 +46,6 @@ Results
 
 Customer completion of claims through AI Claim Assistant
 
-Loading…
-
 When customers call Travelers after a car accident, they need immediate help and confidence that the claims process is going to go smoothly. But delivering that support at scale can be an operational challenge. Catastrophe events are capable of generating more than 100,000 claims in just days—last year, Travelers handled more than 1.5 million claims and paid more than $23 billion in losses.
 
 To help manage these surges while improving the customer experience, Travelers built the AI Claim Assistant, a fully autonomous voice solution powered by OpenAI Realtime API and frontier models. The assistant uses natural conversation to guide customers through first notice of loss for auto property damage claims, answering policy questions, gathering details, and submitting claims. After launching in eight states, Travelers expanded the assistant countrywide within two months, with 85–90% of customers using the AI Assistant now completing their claim filing through AI.
@@ -62,17 +60,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Better prompt caching for GPT-6 — Card image](https://images.ctfassets.net/kftzwdyauwt9/72ZKzMh8JgRDfdg4EYRtwY/ee5e406a08b69f00b0beb4ac00270364/7kneoqlc2qh37z1utkmtfk-cover-v1.png?w=3840&q=90&fm=webp)
+![The GPT-6 family of models demonstrates intrinsic protein-design capabilities — Cover](https://images.ctfassets.net/kftzwdyauwt9/3R33tya2DbYjbinXosKZnX/791e05bf51a254cbf0b11f804f1d4d4f/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-cover.png?w=3840&q=90&fm=webp)
 
-[Better prompt caching for GPT-6ProductSep 22, 2026](</index/better-prompt-caching-for-gpt-6/>)
+[GPT-6 models demonstrate intrinsic protein-design capabilitiesScienceNov 24, 2026](</index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![Searching for distant planets with Astra — Cover](https://images.ctfassets.net/kftzwdyauwt9/7Fhi4CJjSh5B8NNQDDr7pd/1c5136956dbb6d35042344ed4aaeedbb/searching-for-distant-planets-with-astra-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
+[Searching for distant planets with AstraScienceNov 24, 2026](</index/searching-for-distant-planets-with-astra/>)
 
-![Parallel customer story card image - Option C](https://images.ctfassets.net/kftzwdyauwt9/IE8b4WhSed5XqFQUzyyp7/40124aabc92ea8266c99be14d0f380f1/square.png?w=3840&q=90&fm=webp)
+![iFood customer story card](https://images.ctfassets.net/kftzwdyauwt9/7mfDJaGQCldY0Jgf79EXQK/7b6185f4288b3428e6540950c59f1857/ifood-customer-story-card.png?w=3840&q=90&fm=webp)
 
-[Parallel cut research time and cost in half with GPT‑6 AstraStartupSep 22, 2026](</index/parallel-cuts-time-and-cost-with-astra/>)
+[How iFood scales coding agents across 15,000 repositoriesNov 24, 2026](</business/customer-stories/ifood/>)
 
 Research
 
@@ -84,16 +82,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -106,7 +103,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -133,8 +131,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -153,6 +151,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

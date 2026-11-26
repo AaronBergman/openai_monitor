@@ -56,29 +56,41 @@ Days to hours
 
 With agents powered by OpenAI models, deep research tasks that once required days are now completed in hours
 
-Loading…
-
 Share
 
 Addressing limitations of legacy research workflows
 
   * Addressing limitations of legacy research workflows
+
   * Four lessons from Balyasny’s approach to AI at scale
+
     * 1\. Evaluate models before deploying them
+
     * 2\. Foster deep collaboration between users and AI partners
+
     * 3\. Design for feedback loops, not static tools
+
     * 4\. Centralize your AI system, and customize locally
+
   * A playbook delivering results in hours—not days
+
 
 
 
   * Addressing limitations of legacy research workflows
+
   * Four lessons from Balyasny’s approach to AI at scale
+
     * 1\. Evaluate models before deploying them
+
     * 2\. Foster deep collaboration between users and AI partners
+
     * 3\. Design for feedback loops, not static tools
+
     * 4\. Centralize your AI system, and customize locally
+
   * A playbook delivering results in hours—not days
+
 
 
 
@@ -139,8 +151,11 @@ This “federated deployment” model means each investment team can develop and
 Today, ~**95% of Balyasny investment teams actively use their AI platform,** with measurable impact across velocity, output quality, and analyst experience:
 
   * **Deep research tasks** that once required days are now completed in hours, with agents synthesizing tens of thousands of documents, including filings, research, and earnings.
+
   * A **Central Bank Speech Analyst** cut macroeconomic scenario analysis time from 2 days to ~30 minutes.
+
   * A **Merger Arbitrage Superforecaster** agent now monitors and updates deal probabilities continuously, replacing bespoke spreadsheets and manual alerts.
+
 
 
 
@@ -149,8 +164,11 @@ Just as importantly, analysts at Balyasny report higher confidence in outputs. W
 Balyasny continues to expand its AI roadmap with a focus on:
 
   * **Reinforcement Fine-Tuning (RFT)** to sharpen model behavior on complex, high-value tasks
+
   * **Deeper agent orchestration** across financial domains
+
   * **Multimodal inputs** including financial charts, statements, and filings
+
 
 
 
@@ -168,17 +186,17 @@ More than 1 million businesses around the world are achieving meaningful results
 
 ## Keep reading
 
-![Supporting Thailand’s next generation of AI startups > Cover image](https://images.ctfassets.net/kftzwdyauwt9/6ttG55Aq2kyDRG8wxOkTx9/897d266cacc77edc0a25d06b9f6c2c45/supporting-next-generation-ai-startups-thailand--cover.png?w=3840&q=90&fm=webp)
+![The GPT-6 family of models demonstrates intrinsic protein-design capabilities — Cover](https://images.ctfassets.net/kftzwdyauwt9/3R33tya2DbYjbinXosKZnX/791e05bf51a254cbf0b11f804f1d4d4f/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-cover.png?w=3840&q=90&fm=webp)
 
-[Supporting Thailand’s next generation of AI startupsCompanyAug 28, 2026](</index/supporting-next-generation-ai-startups-thailand/>)
+[GPT-6 models demonstrate intrinsic protein-design capabilitiesScienceNov 24, 2026](</index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/>)
 
-![Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training > Cover image](https://images.ctfassets.net/kftzwdyauwt9/2X12MQqhR5AY1wog6JW3Q3/721873f6edd491a0f241038a9324b341/what-students-gain-chatgpt-critical-thinking--art-card-no-border.png?w=3840&q=90&fm=webp)
+![Searching for distant planets with Astra — Cover](https://images.ctfassets.net/kftzwdyauwt9/7Fhi4CJjSh5B8NNQDDr7pd/1c5136956dbb6d35042344ed4aaeedbb/searching-for-distant-planets-with-astra-cover.png?w=3840&q=90&fm=webp)
 
-[What students gain from ChatGPT and critical-thinking trainingCompanyAug 27, 2026](</index/what-students-gain-from-chatgpt-critical-thinking-training/>)
+[Searching for distant planets with AstraScienceNov 24, 2026](</index/searching-for-distant-planets-with-astra/>)
 
-![Expanding OpenAI’s presence in Brazil > Cover image](https://images.ctfassets.net/kftzwdyauwt9/7jZgAn4y7ZP5GFx0HimbWT/84b3d734ebe29229bd58b8d8a775dc60/expanding-openai-presence-in-brazil-art-card.png?w=3840&q=90&fm=webp)
+![iFood customer story card](https://images.ctfassets.net/kftzwdyauwt9/7mfDJaGQCldY0Jgf79EXQK/7b6185f4288b3428e6540950c59f1857/ifood-customer-story-card.png?w=3840&q=90&fm=webp)
 
-[Expanding OpenAI’s presence in BrazilCompanyAug 27, 2026](</index/expanding-our-presence-in-brazil/>)
+[How iFood scales coding agents across 15,000 repositoriesNov 24, 2026](</business/customer-stories/ifood/>)
 
 Research
 
@@ -190,15 +208,15 @@ Research
 
 Latest Advancements
 
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -211,7 +229,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -229,6 +248,7 @@ Business
   * [Overview](</business/>)
   * [Solutions](</solutions/>)
   * [Resources](</business/learn/>)
+  * [Plugins](</business/plugins/>)
   * [Customer Stories](</business/customer-stories/>)
   * [Partner Network](</business/partners/>)
   * [Contact Sales](</contact-sales/>)
@@ -237,8 +257,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -257,6 +277,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 

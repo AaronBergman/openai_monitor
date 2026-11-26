@@ -38,27 +38,37 @@ We introduce FrontierScience, a new benchmark that evaluates AI capabilities for
 
 ![Partial graphic with a soft green-and-yellow gradient background, a large cropped word starting with “Fro…,” and layered blocks of text on the right listing review criteria such as “Factual,” “Gradable,” “Objective,” and “Difficult.”](https://images.ctfassets.net/kftzwdyauwt9/3wHsEMic0k2sXllLjxhUsY/66a8ed2b4093dfec9fdda32ec624a70b/oai_forscience_frontierscience_16x9__1_.png?w=3840&q=90&fm=webp)
 
-Loading…
-
 Share
 
 Introducing FrontierScience
 
   * Introducing FrontierScience
+
   * What FrontierScience measures and how we built it
+
     * Sample questions
+
   * How we grade model performance
+
   * Model performance
+
   * Limitations and what’s next
+
 
 
 
   * Introducing FrontierScience
+
   * What FrontierScience measures and how we built it
+
     * Sample questions
+
   * How we grade model performance
+
   * Model performance
+
   * Limitations and what’s next
+
 
 
 
@@ -240,17 +250,17 @@ OpenAI
 
 [View all](</news/>)
 
-![Mental Health Bench art card](https://images.ctfassets.net/kftzwdyauwt9/1GVQAEpVME68kCI7Ol2ApW/abde191546741612492ae27f9baf7f3e/Mental_Health_Bench__art_card.png?w=3840&q=90&fm=webp)
+![The GPT-6 family of models demonstrates intrinsic protein-design capabilities — Cover](https://images.ctfassets.net/kftzwdyauwt9/3R33tya2DbYjbinXosKZnX/791e05bf51a254cbf0b11f804f1d4d4f/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing MentalHealthBenchPublicationSep 23, 2026](</index/introducing-mentalhealthbench/>)
+[GPT-6 models demonstrate intrinsic protein-design capabilitiesScienceNov 24, 2026](</index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/>)
 
-![Introducing GPT-6 Sol and Luna — Art card](https://images.ctfassets.net/kftzwdyauwt9/4HANTuYDvaT04gpR91bEQ9/885481304c5675cb7525bcccbe8c5580/gpt-6-sol-luna-art.png?w=3840&q=90&fm=webp)
+![Perplexity and Intelligence — Cover](https://images.ctfassets.net/kftzwdyauwt9/59nry7GNOkiMyCfrmaFJw6/3dc84144a23b0d65fa06805ae13e6a53/perplexity-and-intelligence-cover.png?w=3840&q=90&fm=webp)
 
-[Introducing GPT-6 Sol and LunaProductSep 22, 2026](</index/introducing-gpt-6-sol-and-luna/>)
+[Perplexity and IntelligenceResearchNov 22, 2026](</index/perplexity-and-intelligence/>)
 
-![Our framework for reporting model misalignment — card image](https://images.ctfassets.net/kftzwdyauwt9/3mJz9GkBOjZvAMYPx8M1dj/2a9ac4b7e18b1c08feef5368c4fde2e2/model-misalignment-reporting-framework--cover-v002.png?w=3840&q=90&fm=webp)
+![MedChemBench: Benchmarking AI for medicinal chemistry — Cover](https://images.ctfassets.net/kftzwdyauwt9/4GWchdof3kw2l5OtMIvGt4/56144e08b813d6af76ae93adc2cefc1b/introducing-medchembench-cover.png?w=3840&q=90&fm=webp)
 
-[Our framework for reporting model misalignmentResearchSep 16, 2026](</index/model-misalignment-reporting-framework/>)
+[MedChemBench: Benchmarking AI for medicinal chemistryResearchNov 20, 2026](</index/introducing-medchembench/>)
 
 Research
 
@@ -262,16 +272,15 @@ Research
 
 Latest Advancements
 
-  * [GPT-6](</index/gpt-6-astra/>)
+  * [GPT-6.2](<https://openai.com/index/introducing-gpt-6-2-astra-sol>)
+  * [GPT-6.1 Sol](</index/introducing-gpt-6-1-sol/>)
+  * [GPT-6 Astra](</index/gpt-6-astra/>)
   * [GPT-5.6](</index/gpt-5-6/>)
-  * [GPT-5.5](</index/introducing-gpt-5-5/>)
-  * [GPT-5.4](</index/introducing-gpt-5-4/>)
 
 
 
 Safety
 
-  * [Safety Approach](</safety/>)
   * [Deployment Safety(opens in a new window)](<https://deploymentsafety.openai.com/>)
   * [Security & Privacy](</security-and-privacy/>)
   * [Trust & Transparency](</trust-and-transparency/>)
@@ -284,7 +293,8 @@ Products
   * [ChatGPT Business(opens in a new window)](<https://chatgpt.com/business/>)
   * [ChatGPT Enterprise(opens in a new window)](<https://chatgpt.com/business/enterprise/>)
   * [ChatGPT for Education(opens in a new window)](<https://chatgpt.com/business/education/>)
-  * [Codex](</codex/>)
+  * [Codex](<https://chatgpt.com/codex/>)
+  * [Dots(opens in a new window)](<https://chatgpt.com/features/dots>)
   * [Release Notes](</products/release-notes/>)
 
 
@@ -311,8 +321,8 @@ Business
 
 Developers
 
-  * [Apps SDK(opens in a new window)](<https://developers.openai.com/apps-sdk>)
-  * [Open Models](</open-models/>)
+  * [Plugins(opens in a new window)](<https://developers.openai.com/plugins>)
+  * [Models(opens in a new window)](<https://developers.openai.com/api/docs/models>)
   * [Docs(opens in a new window)](<https://developers.openai.com/>)
   * [Resources(opens in a new window)](<https://developers.openai.com/learn>)
   * [Developer Forum(opens in a new window)](<https://community.openai.com/>)
@@ -331,6 +341,7 @@ Company
 Support
 
   * [Help Center(opens in a new window)](<https://help.openai.com/>)
+  * [OpenAI Status(opens in a new window)](<https://status.openai.com>)
 
 
 
